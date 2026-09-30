@@ -1,0 +1,772 @@
+[
+  {
+    "id": "yongxin-chen",
+    "name": "Yongxin Chen",
+    "aliases": [],
+    "school": "Georgia Institute of Technology",
+    "homepage": "https://yongxin.ae.gatech.edu/",
+    "title": "Associate Professor",
+    "department": "Aerospace Engineering",
+    "batch": "control-006",
+    "discoveredAt": "2026-09-30T22:04:58Z",
+    "verifiedAt": "2026-09-30T22:08:52Z",
+    "researchAreas": [
+      "generative robot learning",
+      "stochastic control",
+      "reinforcement learning",
+      "physical AI"
+    ],
+    "fitReason": "Strong intersection of learning, control, and robot planning, with a stated physical-AI strategic direction and recent humanoid learning collaboration.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Coauthor of REFINE-DP (2026), which deploys jointly fine-tuned diffusion planning and RL control on a physical Booster T1 humanoid for loco-manipulation. This is a collaboration with Ye Zhao's lab; separate hardware inventory for Chen's group is not established.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "Current faculty-maintained page explicitly welcomes visiting scholars to contact him and says paperwork normally takes two months. Fall2027 physical-AI graduate recruitment is a separate statement.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 8,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct learning/control, diffusion policies, and physical AI.",
+      "physical": "Recent physical humanoid coauthorship; collaborator hardware, not confirmed own-lab inventory.",
+      "shortVisit": "Explicit current visitor inquiry route, duration and eligibility unspecified.",
+      "freshness": "Page generated August31,2026, current official header, and2026 paper."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "ae.gatech.edu / source 1",
+        "url": "https://ae.gatech.edu/directory/person/yongxin-chen",
+        "summary": "Official current header confirms Associate Professor, public email, and learning/control research; older bio paragraph still says Assistant.",
+        "verifiedAt": "2026-09-30T22:08:52Z",
+        "retrieval": "official search-index content"
+      },
+      {
+        "id": "s2",
+        "label": "yongxin.ae.gatech.edu / source 2",
+        "url": "https://yongxin.ae.gatech.edu/",
+        "summary": "Explicit visitor inquiry invitation, two-month paperwork note, August2026 updates, and part-time industry role.",
+        "verifiedAt": "2026-09-30T22:08:52Z",
+        "retrieval": "full primary page opened"
+      },
+      {
+        "id": "s3",
+        "label": "refine-dp.github.io / source 3",
+        "url": "https://refine-dp.github.io/REFINE-DP/",
+        "summary": "2026 coauthored Booster T1 real-world RL/diffusion-policy locomotion and manipulation.",
+        "verifiedAt": "2026-09-30T22:08:52Z",
+        "retrieval": "full primary project page opened"
+      }
+    ],
+    "unknowns": [
+      "No duration or external master's visitor eligibility verified. The two months refers to paperwork lead time, not minimum stay. PI also lists a part-time NVIDIA research role; on-site mentoring capacity must be confirmed.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "yongchen@gatech.edu"
+  },
+  {
+    "id": "shreyas-kousik",
+    "name": "Shreyas Kousik",
+    "aliases": [],
+    "school": "Georgia Institute of Technology",
+    "homepage": "https://www.shreyaskousik.com/",
+    "title": "Assistant Professor",
+    "department": "Mechanical Engineering",
+    "batch": "control-006",
+    "discoveredAt": "2026-09-30T22:04:48Z",
+    "verifiedAt": "2026-09-30T22:08:52Z",
+    "researchAreas": [
+      "safe robot learning",
+      "reachability-based planning",
+      "learned dynamics",
+      "dexterous manipulation"
+    ],
+    "fitReason": "Strong fit for practical safety guarantees around learned robot dynamics and policies, plus current real manipulation learning.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "February2026 official GT coverage identifies a physical pollination prototype built in Kousik's lab with learned computer vision in the larger collaboration. The2026 Koopman behavioral-model paper separately reports real-world dexterous visuomotor tasks. Ask, Reason, Assist is simulated warehouse evidence, not hardware.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Official lab/PI sources verify current research and students, but no explicit external short-visit invitation was verified. The lab homepage was inaccessible to the research tool.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 40,
+      "physical": 23,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct safe robot learning, learned models, and practical manipulation.",
+      "physical": "Own-lab physical prototype plus current collaborative learned-control hardware; limited detail on complete own-lab inventory.",
+      "shortVisit": "No current explicit external visitor route found.",
+      "freshness": "Dated February2026 official prototype report and revised2026 robot-learning paper."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "mfg.gatech.edu / source 1",
+        "url": "https://mfg.gatech.edu/taxonomy/term/280",
+        "summary": "Official GT profile confirms Assistant Professor, public email, and safe autonomy work.",
+        "verifiedAt": "2026-09-30T22:08:52Z",
+        "retrieval": "official search-index content"
+      },
+      {
+        "id": "s2",
+        "label": "www.shreyaskousik.com / source 2",
+        "url": "https://www.shreyaskousik.com/",
+        "summary": "Faculty-maintained current appointment and practical safety research.",
+        "verifiedAt": "2026-09-30T22:08:52Z",
+        "retrieval": "primary search-index content"
+      },
+      {
+        "id": "s3",
+        "label": "news.research.gatech.edu / source 3",
+        "url": "https://news.research.gatech.edu/2026/02/19/robot-pollinator-could-produce-more-better-crops-indoor-farms",
+        "summary": "Dated official report identifies physical prototype built in Kousik's lab and collaborator YOLO perception work.",
+        "verifiedAt": "2026-09-30T22:08:52Z",
+        "retrieval": "official search-index full article content"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/abs/2602.07413",
+        "summary": "Current primary Koopman behavioral-model paper reports four real-world tasks in revised version.",
+        "verifiedAt": "2026-09-30T22:08:52Z",
+        "retrieval": "primary abstract opened"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2509.23506v2",
+        "summary": "LLM/temporal-logic warehouse demonstrations explicitly use Unity simulation.",
+        "verifiedAt": "2026-09-30T22:08:52Z",
+        "retrieval": "full primary paper opened"
+      }
+    ],
+    "unknowns": [
+      "Student/intern involvement in past prototype development is not a current external invitation. Current-student VIP participation does not establish international visiting-student eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "shreyas.kousik@me.gatech.edu"
+  },
+  {
+    "id": "glen-chou",
+    "name": "Glen Chou",
+    "aliases": [],
+    "school": "Georgia Institute of Technology",
+    "homepage": "https://glenchou.github.io/",
+    "title": "Assistant Professor",
+    "department": "School of Cybersecurity and Privacy; Aerospace Engineering",
+    "batch": "control-006",
+    "discoveredAt": "2026-09-30T22:04:48Z",
+    "verifiedAt": "2026-09-30T22:08:52Z",
+    "researchAreas": [
+      "trustworthy robot learning",
+      "safe control",
+      "vision-language-action generalization",
+      "formal verification"
+    ],
+    "fitReason": "Very strong match for safe, robust learning-enabled robots, including VLA generalization, perception-aware control, and formal guarantees.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "MAPS (CVPR2026 per current PI news; preprint November2025) evaluates robust VLA fine-tuning on a real Franka Emika Panda, as well as simulation benchmarks. This is a multi-PI collaboration with Zsolt Kira; separate lab equipment ownership is not verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Openings page describes PhD admissions, current Georgia Tech MS/undergraduate research, and externally funded postdocs. No external short-visit pathway is stated; the listed Fall2025 degree deadlines are past.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 40,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct robust VLA and formally safe learning/control match.",
+      "physical": "Specific physical robot evaluation in a coauthored collaboration.",
+      "shortVisit": "No explicit external short-visit route.",
+      "freshness": "Multiple dated2026 research updates and current faculty appointment."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.cc.gatech.edu / source 1",
+        "url": "https://www.cc.gatech.edu/people/glen-chou",
+        "summary": "Official Assistant Professor joint appointment and email.",
+        "verifiedAt": "2026-09-30T22:08:52Z",
+        "retrieval": "official search-index content"
+      },
+      {
+        "id": "s2",
+        "label": "glenchou.github.io / source 2",
+        "url": "https://glenchou.github.io/",
+        "summary": "2026 dated robot-learning, safe-control, and MAPS acceptance updates.",
+        "verifiedAt": "2026-09-30T22:08:52Z",
+        "retrieval": "full primary page opened"
+      },
+      {
+        "id": "s3",
+        "label": "trustworthyrobotics.github.io / source 3",
+        "url": "https://trustworthyrobotics.github.io/openings/",
+        "summary": "Degree, current-GT-student, and postdoc instructions; no short visitors.",
+        "verifiedAt": "2026-09-30T22:08:52Z",
+        "retrieval": "full primary page opened"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/abs/2511.19878",
+        "summary": "Primary MAPS paper reports physical Franka Panda VLA evaluation.",
+        "verifiedAt": "2026-09-30T22:08:52Z",
+        "retrieval": "primary abstract opened"
+      }
+    ],
+    "unknowns": [
+      "Current GT student routes and historical PhD recruitment do not establish external visitor eligibility. No2027 availability, funding, or eight-week feasibility verified.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "chou@gatech.edu"
+  },
+  {
+    "id": "samuel-coogan",
+    "name": "Samuel Coogan",
+    "aliases": [],
+    "school": "Georgia Institute of Technology",
+    "homepage": "https://coogan.ece.gatech.edu/",
+    "title": "Associate Professor; Demetrius T. Paris Junior Professor",
+    "department": "Electrical and Computer Engineering",
+    "batch": "control-006",
+    "discoveredAt": "2026-09-30T22:04:48Z",
+    "verifiedAt": "2026-09-30T22:08:52Z",
+    "researchAreas": [
+      "safe learning-enabled autonomy",
+      "formal methods",
+      "multi-agent robot planning",
+      "neural control certification"
+    ],
+    "fitReason": "Strong safe-control and formal-methods foundation with current learning and LLM-enabled multi-robot collaboration.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The current OATH project reports physical TurtleBot experiments using LLM-interpreted instructions and obstacle-aware task allocation, alongside Isaac Sim experiments. Ask, Reason, Assist is a separate Unity simulation study and is not counted as hardware.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current official faculty, research, and group pages establish contact and active projects, but no explicit external short-visit invitation was verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong safe learning/control and formal robot-team planning.",
+      "physical": "Recent named physical robot collaboration, without independent own-lab inventory verification.",
+      "shortVisit": "No explicit external short-visit route.",
+      "freshness": "2026 technical publications and September2026 project acceptance."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "ece.gatech.edu / source 1",
+        "url": "https://ece.gatech.edu/directory/samuel-coogan",
+        "summary": "Official current Associate Professor/endowed junior professorship title and public email.",
+        "verifiedAt": "2026-09-30T22:08:52Z",
+        "retrieval": "official search-index content"
+      },
+      {
+        "id": "s2",
+        "label": "coogan.ece.gatech.edu / source 2",
+        "url": "https://coogan.ece.gatech.edu/",
+        "summary": "Current faculty-maintained research/appointment details.",
+        "verifiedAt": "2026-09-30T22:08:52Z",
+        "retrieval": "full primary page opened"
+      },
+      {
+        "id": "s3",
+        "label": "coogan.ece.gatech.edu / source 3",
+        "url": "https://coogan.ece.gatech.edu/pubs.html",
+        "summary": "2026 learning-certified neural-control and autonomy papers.",
+        "verifiedAt": "2026-09-30T22:08:52Z",
+        "retrieval": "primary search-index content"
+      },
+      {
+        "id": "s4",
+        "label": "llm-oath.github.io / source 4",
+        "url": "https://llm-oath.github.io/",
+        "summary": "Primary OATH project explicitly reports real TurtleBot and Isaac Sim experiments; Coogan coauthorship.",
+        "verifiedAt": "2026-09-30T22:08:52Z",
+        "retrieval": "full primary project page opened"
+      },
+      {
+        "id": "s5",
+        "label": "lab-idar.gatech.edu / source 5",
+        "url": "https://lab-idar.gatech.edu/",
+        "summary": "September2026 OATH T-ASE acceptance announcement.",
+        "verifiedAt": "2026-09-30T22:08:52Z",
+        "retrieval": "full primary lab page opened"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2509.23506v2",
+        "summary": "Separate Ask, Reason, Assist study uses Unity warehouse simulation.",
+        "verifiedAt": "2026-09-30T22:08:52Z",
+        "retrieval": "full primary paper opened"
+      }
+    ],
+    "unknowns": [
+      "Internal special-problem/VIP courses are not visiting admission. Current project funding does not establish available summer positions or eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "sam.coogan@gatech.edu"
+  },
+  {
+    "id": "maegan-tucker",
+    "name": "Maegan Tucker",
+    "aliases": [],
+    "school": "Georgia Institute of Technology",
+    "homepage": "https://dynamicmobility.github.io/",
+    "title": "Assistant Professor",
+    "department": "Electrical and Computer Engineering; Mechanical Engineering",
+    "batch": "control-006",
+    "discoveredAt": "2026-09-30T22:04:48Z",
+    "verifiedAt": "2026-09-30T22:08:52Z",
+    "researchAreas": [
+      "learning-based locomotion",
+      "hybrid systems control",
+      "human-preference learning",
+      "assistive robotics"
+    ],
+    "fitReason": "Strong fit for robust learned locomotion and human-centered control, especially gait optimization and wearable/bipedal robotics.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Her ICRA2024 paper demonstrates simulation-in-the-loop learned gait synthesis on a real Atalante lower-body exoskeleton. Current2026 NaviGait combines trajectory-optimization gait libraries with deep RL; that source is not treated as new hardware proof.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Joining page describes PhD admission and current GT master's research; Fall2026 undergraduate participation is via VIP. No external short-visit route verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 18,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct safe locomotion learning and physical human-robot control.",
+      "physical": "Clear older physical exoskeleton deployment, partly prior-institution, with newer learning work.",
+      "shortVisit": "No explicit external short-visit invitation.",
+      "freshness": "Current official faculty page and multiple dated2026 learning/control papers."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "ece.gatech.edu / source 1",
+        "url": "https://ece.gatech.edu/directory/maegan-tucker",
+        "summary": "Current official Assistant Professor title, email, and learning/control research.",
+        "verifiedAt": "2026-09-30T22:08:52Z",
+        "retrieval": "full official page opened"
+      },
+      {
+        "id": "s2",
+        "label": "dynamicmobility.github.io / source 2",
+        "url": "https://dynamicmobility.github.io/",
+        "summary": "Dated2026 research news including NaviGait and MO-Playground.",
+        "verifiedAt": "2026-09-30T22:08:52Z",
+        "retrieval": "full primary page opened"
+      },
+      {
+        "id": "s3",
+        "label": "dynamicmobility.github.io / source 3",
+        "url": "https://dynamicmobility.github.io/join/",
+        "summary": "Degree and current GT student routes only; no external short-visit invitation.",
+        "verifiedAt": "2026-09-30T22:08:52Z",
+        "retrieval": "full primary page opened"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/abs/2310.06169",
+        "summary": "ICRA2024 physical Atalante exoskeleton locomotion using learned gait synthesis.",
+        "verifiedAt": "2026-09-30T22:08:52Z",
+        "retrieval": "primary abstract opened"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/abs/2510.11542",
+        "summary": "NaviGait deep-RL gait-library method, revised March2026 and accepted ICRA2026.",
+        "verifiedAt": "2026-09-30T22:08:52Z",
+        "retrieval": "primary abstract opened"
+      }
+    ],
+    "unknowns": [
+      "Strong physical experience is partly from prior Caltech work; current Georgia Tech equipment/access was not independently established. Human-subject research requires approved protocols/training. No summer2027 visitor commitment verified.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "mtucker@gatech.edu"
+  },
+  {
+    "id": "yashwanth-kumar-nakka",
+    "name": "Yashwanth Kumar Nakka",
+    "aliases": [],
+    "school": "Georgia Institute of Technology",
+    "homepage": "https://aerospaceroboticslab.github.io/",
+    "title": "Assistant Professor",
+    "department": "Aerospace Engineering",
+    "batch": "control-006",
+    "discoveredAt": "2026-09-30T22:04:58Z",
+    "verifiedAt": "2026-09-30T22:08:52Z",
+    "researchAreas": [
+      "safe perception-driven autonomy",
+      "space robotics",
+      "multi-agent systems",
+      "learning under uncertainty"
+    ],
+    "fitReason": "Strong physical autonomous-systems fit for safe perception, adaptive exploration, and robot teams in uncertain extreme environments.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "FastBridge (July2026) combines learned3D Gaussian-splat scene representations with actuator-aware safety filtering and validates real-time quadrotor navigation on hardware. Official February2026 GT reporting documents the lab's physical lunar-terrain testbed and rover operations.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current lab contact page provides PhD admissions and current-GT-student inquiry instructions, but no external short-visit invitation.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct perception-informed safe autonomy and physical multi-agent systems.",
+      "physical": "Current own-lab physical testbed plus recent hardware navigation study.",
+      "shortVisit": "No external short-visit route found.",
+      "freshness": "February2026 official lab report and July2026 primary hardware paper."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "ssdl.gatech.edu / source 1",
+        "url": "https://ssdl.gatech.edu/faculty/dr-yashwanth-kumar-nakka/",
+        "summary": "Official Assistant Professor appointment and public email; previous JPL role distinguished.",
+        "verifiedAt": "2026-09-30T22:08:52Z",
+        "retrieval": "official search-index content; full fetch returned502"
+      },
+      {
+        "id": "s2",
+        "label": "aerospaceroboticslab.github.io / source 2",
+        "url": "https://aerospaceroboticslab.github.io/",
+        "summary": "Current lab leadership and physical autonomous-systems scope.",
+        "verifiedAt": "2026-09-30T22:08:52Z",
+        "retrieval": "full primary page opened"
+      },
+      {
+        "id": "s3",
+        "label": "aerospaceroboticslab.github.io / source 3",
+        "url": "https://aerospaceroboticslab.github.io/contact.html",
+        "summary": "PhD/current-GT student routes, without external visiting-student invitation.",
+        "verifiedAt": "2026-09-30T22:08:52Z",
+        "retrieval": "full primary page opened"
+      },
+      {
+        "id": "s4",
+        "label": "www.ae.gatech.edu / source 4",
+        "url": "https://www.ae.gatech.edu/news/2026/02/aerospace-robotics-lab-simulates-moon-advance-nextgen-space-robotics-research",
+        "summary": "February17,2026 official physical rover/lunar-terrain lab report.",
+        "verifiedAt": "2026-09-30T22:08:52Z",
+        "retrieval": "official search-index content"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/abs/2607.01200",
+        "summary": "Primary July2026 FastBridge preprint reports real quadrotor navigation with3DGS perception and safety control.",
+        "verifiedAt": "2026-09-30T22:08:52Z",
+        "retrieval": "primary abstract opened"
+      }
+    ],
+    "unknowns": [
+      "Space-related project access may be project-specific; no nationality restriction is assumed. Host must confirm project eligibility, funding, duration, and summer2027 availability. Control/perception focus is broader than end-to-end RL.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "ynakka3@gatech.edu"
+  },
+  {
+    "id": "lu-gan",
+    "name": "Lu Gan",
+    "aliases": [],
+    "school": "Georgia Institute of Technology",
+    "homepage": "https://sites.gatech.edu/lunarlab/lgan/",
+    "title": "Assistant Professor",
+    "department": "Aerospace Engineering",
+    "batch": "control-006",
+    "discoveredAt": "2026-09-30T22:04:58Z",
+    "verifiedAt": "2026-09-30T22:08:52Z",
+    "researchAreas": [
+      "physics-informed robot learning",
+      "robot perception",
+      "risk-aware navigation",
+      "multi-robot SLAM"
+    ],
+    "fitReason": "Strong fit for learned robot dynamics/perception and autonomous navigation, especially legged traversability and multi-modal scene understanding.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "STATE-NAV's latest primary version (December2025; RA-L accepted) uses a learned transformer traversability estimator with uncertainty and validates on a real Digit humanoid in outdoor terrain, with ZED2i perception. Earlier June2025 versions were simulation-only; the latest version explicitly adds hardware.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Lab opportunities page describes PhD programs, current GT master's/undergraduate research, and general collaboration. No explicit external short-visit route is stated. Past co-hosted visitors are precedent only.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "Direct robot perception/learning and risk-sensitive navigation.",
+      "physical": "Named physical humanoid collaborative experiment; own-lab equipment not independently verified.",
+      "shortVisit": "No explicit short-visit invitation.",
+      "freshness": "Current faculty record; inspected substantive hardware paper last revised December2025."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "sites.gatech.edu / source 1",
+        "url": "https://sites.gatech.edu/lunarlab/lgan/",
+        "summary": "Official faculty-maintained Assistant Professor appointment, email, research interests, and2026 teaching/service.",
+        "verifiedAt": "2026-09-30T22:08:52Z",
+        "retrieval": "official search-index content; full fetch unavailable"
+      },
+      {
+        "id": "s2",
+        "label": "sites.gatech.edu / source 2",
+        "url": "https://sites.gatech.edu/lunarlab/opportunities/",
+        "summary": "Degree/current-GT-student/postdoc guidance and generic collaboration, no explicit external short-visit route.",
+        "verifiedAt": "2026-09-30T22:08:52Z",
+        "retrieval": "official search-index content"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/abs/2506.01046",
+        "summary": "Latest primary version dated December5,2025 and RA-L acceptance.",
+        "verifiedAt": "2026-09-30T22:08:52Z",
+        "retrieval": "primary abstract opened"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2506.01046v4",
+        "summary": "SectionV-C4 explicitly describes real outdoor Digit experiments, distinct from earlier simulation-only version.",
+        "verifiedAt": "2026-09-30T22:08:52Z",
+        "retrieval": "full primary paper opened"
+      }
+    ],
+    "unknowns": [
+      "Generic collaboration invitation and historical visits do not establish a current short-term visitor program. Hardware is collaborative with Ye Zhao's LIDAR group; specific hosting and access require confirmation.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "lgan@gatech.edu"
+  },
+  {
+    "id": "sarah-h-q-li",
+    "name": "Sarah H. Q. Li",
+    "aliases": [],
+    "school": "Georgia Institute of Technology",
+    "homepage": "https://sites.gatech.edu/c3uae/",
+    "title": "Assistant Professor",
+    "department": "Aerospace Engineering",
+    "batch": "control-006",
+    "discoveredAt": "2026-09-30T22:04:58Z",
+    "verifiedAt": "2026-09-30T22:08:52Z",
+    "researchAreas": [
+      "multi-agent decision-making",
+      "stochastic control",
+      "language-conditioned aircraft prediction",
+      "reinforcement learning for spacecraft"
+    ],
+    "fitReason": "Good safe-autonomy and multi-agent learning fit, particularly aircraft/space decision-making; less direct hands-on robot-learning evidence than other candidates in this batch.",
+    "physicalEvidence": {
+      "status": "real-world-data-only; no robot deployment",
+      "summary": "Her ICRA2026 coadvised paper integrates speech recognition, LLM-derived pilot intent, and a temporal convolutional/Gaussian-mixture predictor, evaluated on a real non-towered-airport dataset. This is physical-system data validation, not a deployed robot or autonomous flight experiment.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "C3U lab directs prospective students to Georgia Tech Aerospace Engineering admissions. No explicit external short-visit invitation verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 34,
+      "physical": 0,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct AI/autonomous-system decision-making, with less hands-on robot-learning fit.",
+      "physical": "The source validates real airport data, not a physical robot or autonomous-flight deployment; no robot hardware evidence was verified.",
+      "shortVisit": "Degree recruitment only.",
+      "freshness": "Current faculty appointment and revised/accepted2026 primary paper."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.ae.gatech.edu / source 1",
+        "url": "https://www.ae.gatech.edu/directory/person/sarah-hq-li",
+        "summary": "Official current Assistant Professor title and email.",
+        "verifiedAt": "2026-09-30T22:08:52Z",
+        "retrieval": "official search-index content; full fetch timed out"
+      },
+      {
+        "id": "s2",
+        "label": "ml.gatech.edu / source 2",
+        "url": "https://ml.gatech.edu/people/sarah-li",
+        "summary": "Official GT ML affiliation confirms Assistant Professor and AI/game theory/robotics scope.",
+        "verifiedAt": "2026-09-30T22:08:52Z",
+        "retrieval": "official search-index content"
+      },
+      {
+        "id": "s3",
+        "label": "sites.gatech.edu / source 3",
+        "url": "https://sites.gatech.edu/c3uae/welcome-to-the-c3u-lab/",
+        "summary": "Lab research and graduate/undergraduate degree-application route.",
+        "verifiedAt": "2026-09-30T22:08:52Z",
+        "retrieval": "official search-index content"
+      },
+      {
+        "id": "s4",
+        "label": "sites.gatech.edu / source 4",
+        "url": "https://sites.gatech.edu/c3uae/research/",
+        "summary": "Concrete RL satellite decision-making and language-informed aircraft trajectory projects.",
+        "verifiedAt": "2026-09-30T22:08:52Z",
+        "retrieval": "official search-index content"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/abs/2509.14063",
+        "summary": "March2026 revision and ICRA2026 acceptance; real airport dataset evaluation, not hardware deployment.",
+        "verifiedAt": "2026-09-30T22:08:52Z",
+        "retrieval": "primary abstract opened"
+      }
+    ],
+    "unknowns": [
+      "No physical robot inventory or closed-loop deployment was verified; suitable mainly if data/model-based autonomous-systems work is acceptable. Degree admissions are separate from short visiting research.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "sarahli@gatech.edu"
+  }
+]

@@ -14,6 +14,7 @@
     "batches/control-003.json",
     "batches/control-004.json",
     "batches/control-005.json",
+    "batches/control-006.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -1233,6 +1234,214 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-005.json",
       "detailPage": "batches/control-005.md#francesco-bullo"
+    },
+    {
+      "id": "yongxin-chen",
+      "name": "Yongxin Chen",
+      "aliases": [],
+      "school": "Georgia Institute of Technology",
+      "title": "Associate Professor",
+      "homepage": "https://yongxin.ae.gatech.edu/",
+      "batch": "control-006",
+      "discoveredAt": "2026-09-30T22:04:58Z",
+      "verifiedAt": "2026-09-30T22:08:52Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "generative robot learning",
+        "stochastic control",
+        "reinforcement learning",
+        "physical AI"
+      ],
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/control-006.json",
+      "detailPage": "batches/control-006.md#yongxin-chen"
+    },
+    {
+      "id": "shreyas-kousik",
+      "name": "Shreyas Kousik",
+      "aliases": [],
+      "school": "Georgia Institute of Technology",
+      "title": "Assistant Professor",
+      "homepage": "https://www.shreyaskousik.com/",
+      "batch": "control-006",
+      "discoveredAt": "2026-09-30T22:04:48Z",
+      "verifiedAt": "2026-09-30T22:08:52Z",
+      "scores": {
+        "fit": 40,
+        "physical": 23,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "safe robot learning",
+        "reachability-based planning",
+        "learned dynamics",
+        "dexterous manipulation"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-006.json",
+      "detailPage": "batches/control-006.md#shreyas-kousik"
+    },
+    {
+      "id": "glen-chou",
+      "name": "Glen Chou",
+      "aliases": [],
+      "school": "Georgia Institute of Technology",
+      "title": "Assistant Professor",
+      "homepage": "https://glenchou.github.io/",
+      "batch": "control-006",
+      "discoveredAt": "2026-09-30T22:04:48Z",
+      "verifiedAt": "2026-09-30T22:08:52Z",
+      "scores": {
+        "fit": 40,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "trustworthy robot learning",
+        "safe control",
+        "vision-language-action generalization",
+        "formal verification"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-006.json",
+      "detailPage": "batches/control-006.md#glen-chou"
+    },
+    {
+      "id": "samuel-coogan",
+      "name": "Samuel Coogan",
+      "aliases": [],
+      "school": "Georgia Institute of Technology",
+      "title": "Associate Professor; Demetrius T. Paris Junior Professor",
+      "homepage": "https://coogan.ece.gatech.edu/",
+      "batch": "control-006",
+      "discoveredAt": "2026-09-30T22:04:48Z",
+      "verifiedAt": "2026-09-30T22:08:52Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "safe learning-enabled autonomy",
+        "formal methods",
+        "multi-agent robot planning",
+        "neural control certification"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-006.json",
+      "detailPage": "batches/control-006.md#samuel-coogan"
+    },
+    {
+      "id": "maegan-tucker",
+      "name": "Maegan Tucker",
+      "aliases": [],
+      "school": "Georgia Institute of Technology",
+      "title": "Assistant Professor",
+      "homepage": "https://dynamicmobility.github.io/",
+      "batch": "control-006",
+      "discoveredAt": "2026-09-30T22:04:48Z",
+      "verifiedAt": "2026-09-30T22:08:52Z",
+      "scores": {
+        "fit": 37,
+        "physical": 18,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "learning-based locomotion",
+        "hybrid systems control",
+        "human-preference learning",
+        "assistive robotics"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-006.json",
+      "detailPage": "batches/control-006.md#maegan-tucker"
+    },
+    {
+      "id": "yashwanth-kumar-nakka",
+      "name": "Yashwanth Kumar Nakka",
+      "aliases": [],
+      "school": "Georgia Institute of Technology",
+      "title": "Assistant Professor",
+      "homepage": "https://aerospaceroboticslab.github.io/",
+      "batch": "control-006",
+      "discoveredAt": "2026-09-30T22:04:58Z",
+      "verifiedAt": "2026-09-30T22:08:52Z",
+      "scores": {
+        "fit": 37,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "safe perception-driven autonomy",
+        "space robotics",
+        "multi-agent systems",
+        "learning under uncertainty"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-006.json",
+      "detailPage": "batches/control-006.md#yashwanth-kumar-nakka"
+    },
+    {
+      "id": "lu-gan",
+      "name": "Lu Gan",
+      "aliases": [],
+      "school": "Georgia Institute of Technology",
+      "title": "Assistant Professor",
+      "homepage": "https://sites.gatech.edu/lunarlab/lgan/",
+      "batch": "control-006",
+      "discoveredAt": "2026-09-30T22:04:58Z",
+      "verifiedAt": "2026-09-30T22:08:52Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "physics-informed robot learning",
+        "robot perception",
+        "risk-aware navigation",
+        "multi-robot SLAM"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-006.json",
+      "detailPage": "batches/control-006.md#lu-gan"
+    },
+    {
+      "id": "sarah-h-q-li",
+      "name": "Sarah H. Q. Li",
+      "aliases": [],
+      "school": "Georgia Institute of Technology",
+      "title": "Assistant Professor",
+      "homepage": "https://sites.gatech.edu/c3uae/",
+      "batch": "control-006",
+      "discoveredAt": "2026-09-30T22:04:58Z",
+      "verifiedAt": "2026-09-30T22:08:52Z",
+      "scores": {
+        "fit": 34,
+        "physical": 0,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "multi-agent decision-making",
+        "stochastic control",
+        "language-conditioned aircraft prediction",
+        "reinforcement learning for spacecraft"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-006.json",
+      "detailPage": "batches/control-006.md#sarah-h-q-li"
     },
     {
       "id": "tom-silver",

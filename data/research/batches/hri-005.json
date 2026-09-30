@@ -1,0 +1,1084 @@
+[
+  {
+    "id": "zhi-tan",
+    "name": "Zhi Tan",
+    "aliases": [
+      "Xiang Zhi Tan"
+    ],
+    "school": "Northeastern University",
+    "homepage": "https://www.khoury.northeastern.edu/people/zhi-tan/",
+    "title": "Assistant Professor",
+    "department": "Khoury College of Computer Sciences",
+    "batch": "hri-005",
+    "discoveredAt": "2026-09-30T21:48:28Z",
+    "verifiedAt": "2026-09-30T21:58:49Z",
+    "researchAreas": [
+      "Multi-robot HRI",
+      "Assistive service robots",
+      "Embodied system coordination",
+      "Real-world robot deployment"
+    ],
+    "fitReason": "Strong fit for real-world embodied assistance, heterogeneous robot interaction and human-aware deployment. Cedar offers an especially concrete technical direction involving perception, language and robot systems.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Northeastern's current faculty spotlight describes Cedar, a physical Hello Stretch 3 with cameras and a gripper, being programmed and tested in West Village H for navigation and human guidance. The lab also reports physical two-robot field studies and 2026 robot-identity research.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "A university undergraduate listing invites local undergraduate research applications. Current PARCS pages do not verify an external master's short visit; undergraduate co-op experience does not establish that eligibility.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "direct embodied HRI/assistance.",
+      "physical": "current named campus-deployed Stretch 3 with concrete tasks.",
+      "shortVisit": "only undergraduate recruiting verified.",
+      "freshness": "dated 2026 faculty/publication evidence."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.khoury.northeastern.edu / source 1",
+        "url": "https://www.khoury.northeastern.edu/people/zhi-tan/",
+        "summary": "Current Boston Assistant Professor, email, 2026 publication and linked academic homepage.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s2",
+        "label": "robotics.northeastern.edu / source 2",
+        "url": "https://robotics.northeastern.edu/news/faculty-spotlight-dr-zhi-tan-assistant-professor/",
+        "summary": "Cedar physical Stretch 3 deployment, student programming work and 2026 HRI activity.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s3",
+        "label": "parcslab.fyi / source 3",
+        "url": "https://parcslab.fyi/research/",
+        "summary": "Current multi-robot, smart-home, assistive and embodied-system projects.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s4",
+        "label": "undergraduate.northeastern.edu / source 4",
+        "url": "https://undergraduate.northeastern.edu/research/opportunities/human-robot-interaction/",
+        "summary": "Explicit undergraduate research invitation, not an external master's pathway.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      }
+    ],
+    "unknowns": [
+      "No eight-week summer 2027 placement, funding or remote arrangement was verified.",
+      "External master's eligibility, visitor sponsorship, access and any self-funding arrangement require institutional and PI approval.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "zhi.tan@northeastern.edu"
+  },
+  {
+    "id": "hee-rin-lee",
+    "name": "Hee Rin Lee",
+    "aliases": [],
+    "school": "Michigan State University",
+    "homepage": "https://comartsci.msu.edu/our-people/hee-rin-lee",
+    "title": "Assistant Professor",
+    "department": "Media and Information",
+    "batch": "hri-005",
+    "discoveredAt": "2026-09-30T21:54:45Z",
+    "verifiedAt": "2026-09-30T22:00:03Z",
+    "researchAreas": [
+      "Human-robot interaction",
+      "Healthcare robotics",
+      "Participatory robot design",
+      "Robots for social good"
+    ],
+    "fitReason": "Good fit for designing and evaluating physical robots in care/team settings. More design and qualitative-HRI focused than algorithmic 3D perception; a CS contribution should be connected to an existing prototype.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The 2025 coauthored crash-cart study built teleoperated prototypes and tested them at a two-day medical-training event with patient simulators. This is collaborative hardware evidence, not current MSU inventory, autonomy or real-patient clinical use.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s-training-setting"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The official faculty and academic pages show active work but no explicit external master's or summer visitor pathway. General collaborations and current grant activity do not imply visitor openings.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 33,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "strong human-centered care robotics but methodological fit needs scoping.",
+      "physical": "Coauthored teleoperated prototypes were tested in medical training with patient simulators, not confirmed as current MSU inventory.",
+      "shortVisit": "unknown.",
+      "freshness": "concrete 2025 primary research."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "comartsci.msu.edu / source 1",
+        "url": "https://comartsci.msu.edu/our-people/hee-rin-lee",
+        "summary": "Current Assistant Professor, Media and Information, public email and HRI interests.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s2",
+        "label": "www.heerinlee.com / source 2",
+        "url": "https://www.heerinlee.com/",
+        "summary": "Current academic homepage corroborates role and department.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s3",
+        "label": "thijsroumen.eu / source 3",
+        "url": "https://thijsroumen.eu/data/publications/2025-HRI-robotic-crash-cart.pdf",
+        "summary": "Lee coauthors physical three-cart teleoperation/field-deployment study; do not label autonomous.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s4",
+        "label": "www.heerinlee.com / source 4",
+        "url": "https://www.heerinlee.com/_files/ugd/fed2f2_1ec0e635aba34923acd750ec674fa7c1.pdf",
+        "summary": "Academic CV records 2025 activity, academic appointment and HRI/healthcare research.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s-training-setting",
+        "label": "Crash-cart primary paper · test setting",
+        "url": "https://arxiv.org/html/2502.18688v1",
+        "summary": "Section IV identifies the two-day medical-training setting, patient simulators and Wizard-of-Oz prototypes.",
+        "verifiedAt": "2026-09-30T22:00:03Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "No eight-week summer 2027 placement, funding or remote arrangement was verified.",
+      "External master's eligibility, visitor sponsorship, access and any self-funding arrangement require institutional and PI approval.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "heerin@msu.edu"
+  },
+  {
+    "id": "tariq-iqbal",
+    "name": "Tariq Iqbal",
+    "aliases": [],
+    "school": "University of Virginia",
+    "homepage": "https://tyde.virginia.edu/team/tariq-iqbal/",
+    "title": "Associate Professor",
+    "department": "Systems Engineering and Computer Science",
+    "batch": "hri-005",
+    "discoveredAt": "2026-09-30T21:54:18Z",
+    "verifiedAt": "2026-09-30T21:58:49Z",
+    "researchAreas": [
+      "Human-robot collaboration",
+      "Human intent prediction",
+      "Multimodal perception",
+      "Robot teamwork"
+    ],
+    "fitReason": "Very strong match for learning human intentions from visual/multimodal signals and coordinating robot actions in shared spaces. Existing Panda/teamwork systems support well-bounded perception and interaction questions.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The 2025 trust-modeling primary paper uses a physical Franka Emika Panda to grasp, sort and stack sandwich ingredients in a 30-person study. The 2024 CoHRT paper separately documents two humans and a Panda manipulating blocks together.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The lab's opportunities page welcomes graduate/undergraduate applications but directs non-UVA students to apply to UVA. This is ordinary student recruiting, not an explicit external master's short-visit route.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "direct perception, intent prediction and embodied teamwork.",
+      "physical": "2025 named real Panda user experiment.",
+      "shortVisit": "degree recruiting only.",
+      "freshness": "official 2026 Robotics+X activity plus current Associate title; physical experiment dated 2025."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "tyde.virginia.edu / source 1",
+        "url": "https://tyde.virginia.edu/team/tariq-iqbal/",
+        "summary": "Current Associate Professor in Systems Engineering and CS; supersedes older Assistant pages.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s2",
+        "label": "www.collabrobotics.com / source 2",
+        "url": "https://www.collabrobotics.com/team",
+        "summary": "Current lab leadership, title and email.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2504.05291v1",
+        "summary": "Primary 2025 robot-trust paper, section III-B specifies Panda hardware and C++ programmed physical task.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2410.08504v1",
+        "summary": "CoHRT physically integrates two human collaborators and a Franka Panda.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s5",
+        "label": "www.collabrobotics.com / source 5",
+        "url": "https://www.collabrobotics.com/opportunities",
+        "summary": "Outside-UVA students directed to apply to university; no visiting route.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s6",
+        "label": "sites.research.virginia.edu / source 6",
+        "url": "https://sites.research.virginia.edu/news/robotics-x-symposium",
+        "summary": "Official 2026 symposium records Iqbal as organizer; exact weekday/date wording on page is inconsistent, so only year used.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      }
+    ],
+    "unknowns": [
+      "No eight-week summer 2027 placement, funding or remote arrangement was verified.",
+      "External master's eligibility, visitor sponsorship, access and any self-funding arrangement require institutional and PI approval.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "tiqbal@virginia.edu"
+  },
+  {
+    "id": "patricia-alves-oliveira",
+    "name": "Patrícia Alves-Oliveira",
+    "aliases": [],
+    "school": "University of Michigan",
+    "homepage": "https://robotics.umich.edu/people/faculty/patricia-alves-oliveira/",
+    "title": "Assistant Professor",
+    "department": "Robotics",
+    "batch": "hri-005",
+    "discoveredAt": "2026-09-30T21:54:18Z",
+    "verifiedAt": "2026-09-30T21:58:49Z",
+    "researchAreas": [
+      "Embodied social AI",
+      "Assistive robotics",
+      "Physical human-robot interaction",
+      "Robot co-design"
+    ],
+    "fitReason": "Strong assistive/embodied-HRI fit with a rare explicit summer-visitor inquiry route. Existing work spans robot-assisted dining, human-robot artistic collaboration and care robots; technical scope should match the user's CS preparation.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The 2025 AURA/Painted Heart Beats primary paper describes a built robot arm painting alongside a human and adapting its motion using an EmotiBit heartbeat sensor. The 2026 social-dining paper is speculative participatory design, not a new physical feeding deployment.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "Robot Studio explicitly says it often hosts self-funded summer visiting students, prioritizes prior research experience, matching interests and an existing project, and invites an email. It asks overseas applicants needing a visa to allow at least six months and suggests December contact for a May start. No duration or 2027 slot is promised.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 25,
+      "shortVisit": 10,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "strong physical assistive/social HRI with design-method alignment needed.",
+      "physical": "actual 2025 collaborative painting arm.",
+      "shortVisit": "explicit summer visitor invitation but eight-week/master's specifics unconfirmed.",
+      "freshness": "lab's dated 2026 research and news."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "robotics.umich.edu / source 1",
+        "url": "https://robotics.umich.edu/people/faculty/patricia-alves-oliveira/",
+        "summary": "Current Assistant Professor, research and public email; links Robot Studio.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s2",
+        "label": "robotdesign.studio / source 2",
+        "url": "https://robotdesign.studio/join",
+        "summary": "Explicit self-funded summer visiting-student inquiry route, fit/prior-experience conditions and lead-time guidance.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s3",
+        "label": "robotdesign.studio / source 3",
+        "url": "https://robotdesign.studio/publications/97.pdf",
+        "summary": "2025 Painted Heart Beats built collaborative arm and biometric interaction system.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s4",
+        "label": "robotdesign.studio / source 4",
+        "url": "https://robotdesign.studio/",
+        "summary": "Dated August/September 2026 activity and past summer 2025 visiting PhD students.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/abs/2602.15767",
+        "summary": "2026 social dining paper is speculative participatory design, not evidence of actual feeding deployment.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s6",
+        "label": "internationalcenter.umich.edu / source 6",
+        "url": "https://internationalcenter.umich.edu/departments/hosting-j1-exchange-visitor",
+        "summary": "Michigan permits personal funding for scholar-category exchange visitors, subject to appropriate classification.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s7",
+        "label": "spg.umich.edu / source 7",
+        "url": "https://spg.umich.edu/node/513",
+        "summary": "Covered visiting students include external graduate students; institutional formal process required.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s8",
+        "label": "internationalcenter.umich.edu / source 8",
+        "url": "https://internationalcenter.umich.edu/isss/new-transfer-students/f1-versus-j1",
+        "summary": "Degree-seeking J-1 student funding rules differ; do not transfer scholar rules automatically.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      }
+    ],
+    "unknowns": [
+      "No eight-week summer 2027 placement, funding or remote arrangement was verified.",
+      "External master's eligibility, visitor sponsorship, access and any self-funding arrangement require institutional and PI approval.",
+      "Lab invitation explicitly permits self-funded inquiry; university classification, required documentation and any applicable funding minimum must still be approved.",
+      "Scholar-category personal funding is allowed in principle, but J-1 degree-student rules differ; International Center must determine applicable status.",
+      "Allow at least six months as advised by the lab; December-for-May is guidance, not a published 2027 deadline.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "robopati@umich.edu"
+  },
+  {
+    "id": "michael-a-goodrich",
+    "name": "Michael A. Goodrich",
+    "aliases": [],
+    "school": "Brigham Young University",
+    "homepage": "https://cs.byu.edu/directory/michael-goodrich",
+    "title": "Professor",
+    "department": "Computer Science",
+    "batch": "hri-005",
+    "discoveredAt": "2026-09-30T21:54:52Z",
+    "verifiedAt": "2026-09-30T21:58:49Z",
+    "researchAreas": [
+      "Human-robot teams",
+      "Robot proficiency self-assessment",
+      "Multi-agent systems",
+      "Human-centered AI"
+    ],
+    "fitReason": "Good fit for explainable robot competence, human supervision and multi-robot coordination. Less focused on modern 3D representation/VLA work; strongest when scoped to robot failure prediction or team behavior.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The 2023 coauthored AAT primary paper explicitly includes a real robot arranging colored/shaped blocks, alongside two simulated navigation cases. This is established physical evidence, not verification of current hardware inventory.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Official faculty and lab pages provide research contacts but no explicit external master's summer visitor route was verified. Current domestic student mentoring is not treated as evidence of such eligibility.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 34,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "human-centered robot assurance and teaming.",
+      "physical": "explicit but older 2023 hardware experiment.",
+      "shortVisit": "no verified route.",
+      "freshness": "official publications list dated 2025 RO-MAN/ICRA work."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "cs.byu.edu / source 1",
+        "url": "https://cs.byu.edu/directory/michael-goodrich",
+        "summary": "Current CS Professor, email and HCMI lab direction.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s2",
+        "label": "cs.byu.edu / source 2",
+        "url": "https://cs.byu.edu/human-centered-machine-intelligence-lab",
+        "summary": "Lab focus on assurance modeling for human-robot teams.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s3",
+        "label": "faculty.cs.byu.edu / source 3",
+        "url": "https://faculty.cs.byu.edu/~crandall/papers/Cao_etal_TRO_2023.pdf",
+        "summary": "Primary coauthored paper distinguishes real block-arranging robot from simulated navigation tests.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s4",
+        "label": "students.cs.byu.edu / source 4",
+        "url": "https://students.cs.byu.edu/~mike/mikeg/Publications.html",
+        "summary": "Official publication list includes 2025 human multi-robot and swarm work.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      }
+    ],
+    "unknowns": [
+      "No eight-week summer 2027 placement, funding or remote arrangement was verified.",
+      "External master's eligibility, visitor sponsorship, access and any self-funding arrangement require institutional and PI approval.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "mike@cs.byu.edu"
+  },
+  {
+    "id": "jacob-w-crandall",
+    "name": "Jacob W. Crandall",
+    "aliases": [],
+    "school": "Brigham Young University",
+    "homepage": "https://cs.byu.edu/directory/jacob-crandall",
+    "title": "Professor",
+    "department": "Computer Science",
+    "batch": "hri-005",
+    "discoveredAt": "2026-09-30T21:54:52Z",
+    "verifiedAt": "2026-09-30T21:58:49Z",
+    "researchAreas": [
+      "Human-machine cooperation",
+      "Robot competence explanation",
+      "Multi-agent learning",
+      "Interactive AI"
+    ],
+    "fitReason": "Good fit for human-robot cooperation, failure explanation and adaptive agents. His recent portfolio increasingly includes nonphysical multi-agent social simulations, so identify a physical robot project rather than assuming one from broad AI work.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The 2023 AAT paper coauthored by Crandall explicitly evaluates a real block-arranging robot as well as simulated navigation. A 2024 robot-failure explanation paper corroborates continuing HRI work; current BYU robot availability is unverified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The faculty and research pages do not provide an explicit current external master's summer-visitor invitation. A 2014 visitor in older news was at his previous institution and is only historical precedent.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 34,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "cooperative AI/HRI fit, current work partly nonphysical.",
+      "physical": "older concrete hardware experiment.",
+      "shortVisit": "no current pathway.",
+      "freshness": "official publications list includes 2026 AAAI/AAMAS work, not counted as physical evidence."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "cs.byu.edu / source 1",
+        "url": "https://cs.byu.edu/directory/jacob-crandall",
+        "summary": "Current Professor, Computer Science and public email.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s2",
+        "label": "cs.byu.edu / source 2",
+        "url": "https://cs.byu.edu/laboratory-for-interactive-machines",
+        "summary": "Lab focus on AI, robotics and human-machine cooperation.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s3",
+        "label": "faculty.cs.byu.edu / source 3",
+        "url": "https://faculty.cs.byu.edu/~crandall/papers/Cao_etal_TRO_2023.pdf",
+        "summary": "2023 real block-arranging robot experiment, separate from simulated cases.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s4",
+        "label": "faculty.cs.byu.edu / source 4",
+        "url": "https://faculty.cs.byu.edu/~crandall/publications.html",
+        "summary": "2026 publications plus 2024 robot explanations and 2023 AAT work.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s5",
+        "label": "faculty.cs.byu.edu / source 5",
+        "url": "https://faculty.cs.byu.edu/~crandall/",
+        "summary": "Historical 2014 visiting collaborator only; not a current BYU route.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      }
+    ],
+    "unknowns": [
+      "No eight-week summer 2027 placement, funding or remote arrangement was verified.",
+      "External master's eligibility, visitor sponsorship, access and any self-funding arrangement require institutional and PI approval.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "crandall@cs.byu.edu"
+  },
+  {
+    "id": "dan-ding",
+    "name": "Dan Ding",
+    "aliases": [],
+    "school": "University of Pittsburgh",
+    "homepage": "https://www.shrs.pitt.edu/person/dan-ding/",
+    "title": "Professor; Department Vice Chair for Research",
+    "department": "Rehabilitation Science and Technology; secondary Bioengineering",
+    "batch": "hri-005",
+    "discoveredAt": "2026-09-30T21:54:45Z",
+    "verifiedAt": "2026-09-30T21:58:49Z",
+    "researchAreas": [
+      "Assistive robotic manipulation",
+      "Shared autonomy",
+      "Human-machine interfaces",
+      "Accessible smart technology"
+    ],
+    "fitReason": "Strong match for robot perception and shared control that support people with motor impairments. A bounded interface, perception or assistance-policy task could suit CS skills, while new patient studies may exceed an eight-week visit.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The 2025 LAMS primary paper coauthored by Ding uses a physical Kinova Gen3 controlled through an Xbox joystick and studies LLM-driven automatic mode switching with ten participants. This directly grounds shared-autonomy work in hardware.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "The RST department explicitly offers research experiences to non-Pitt students via an interest form circulated to all RST research faculty and mentions volunteer/paid options. This department-level inquiry route does not establish a specific Ding slot, international eligibility or duration.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 5,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "direct shared autonomy and assistive HRI.",
+      "physical": "2025 Kinova Gen3 experiments.",
+      "shortVisit": "explicit non-Pitt student research intake, but no specific short-visit duration or international approval.",
+      "freshness": "concrete 2025 research."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.shrs.pitt.edu / source 1",
+        "url": "https://www.shrs.pitt.edu/person/dan-ding/",
+        "summary": "Current Professor/Vice Chair, department, Accessible SmartTech leadership, public email.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s2",
+        "label": "arxiv.org / source 2",
+        "url": "https://arxiv.org/html/2501.08558v1",
+        "summary": "LAMS 2025 primary experiment setup specifies physical Kinova Gen3 and Xbox control.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s3",
+        "label": "lams-assistance.github.io / source 3",
+        "url": "https://lams-assistance.github.io/",
+        "summary": "Author project page; assistive teleoperation and ten-person user study.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s4",
+        "label": "www.shrs.pitt.edu / source 4",
+        "url": "https://www.shrs.pitt.edu/academics/rst/",
+        "summary": "Explicit non-Pitt student research interest route, volunteer/paid possibilities; all RST faculty receive information.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      }
+    ],
+    "unknowns": [
+      "No eight-week summer 2027 placement, funding or remote arrangement was verified.",
+      "External master's eligibility, visitor sponsorship, access and any self-funding arrangement require institutional and PI approval.",
+      "Research participant recruitment is not a student placement opportunity.",
+      "Clinical/VA work may involve separate access and ethics requirements; no patient or protected-data access assumed.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "dad5@pitt.edu"
+  },
+  {
+    "id": "dylan-a-shell",
+    "name": "Dylan A. Shell",
+    "aliases": [],
+    "school": "Texas A&M University",
+    "homepage": "https://engineering.tamu.edu/cse/profiles/dshell.html",
+    "title": "Professor",
+    "department": "Computer Science and Engineering",
+    "batch": "hri-005",
+    "discoveredAt": "2026-09-30T21:54:58Z",
+    "verifiedAt": "2026-09-30T21:58:49Z",
+    "researchAreas": [
+      "Multi-robot coordination",
+      "Robot planning under uncertainty",
+      "Sensor-grounded planning",
+      "Distributed embodied systems"
+    ],
+    "fitReason": "Moderate-to-strong fit for physical multi-agent coordination and sensor/planning foundations. Less directly focused on assistive HRI or modern robot perception than other candidates, but a principled robot coordination project could fit CS training.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The 2026 cyclic rendezvous primary paper includes a hardware demonstration on Robotarium physical robots, distinct from its simulation results. This verifies hardware-backed work but not availability of that remote platform at TAMU for a visitor.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Official faculty and research pages verify contact and current work, but no external master's summer visitor pathway was found. Broad research interest and historical students do not establish an opening.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 32,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "robotics planning/coordination relevant, weaker direct HRI fit.",
+      "physical": "Physical Robotarium demonstration is verified in collaborative work, not current TAMU visitor-accessible hardware.",
+      "shortVisit": "unverified.",
+      "freshness": "official 2026 IROS/RA-L/WAFR list and paper."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.tamu.edu / source 1",
+        "url": "https://engineering.tamu.edu/cse/profiles/dshell.html",
+        "summary": "Current CSE Professor and institutional email.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s2",
+        "label": "cse-robotics.engr.tamu.edu / source 2",
+        "url": "https://cse-robotics.engr.tamu.edu/dshell/",
+        "summary": "Embodied distributed-system research interests.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s3",
+        "label": "cse-robotics.engr.tamu.edu / source 3",
+        "url": "https://cse-robotics.engr.tamu.edu/dshell/pubs.html",
+        "summary": "Explicit 2026 research publications.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s4",
+        "label": "cse-robotics.engr.tamu.edu / source 4",
+        "url": "https://cse-robotics.engr.tamu.edu/dshell/papers/iros2026periodic.pdf",
+        "summary": "Section VII: physical Robotarium cyclic rendezvous hardware demonstration.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      }
+    ],
+    "unknowns": [
+      "No eight-week summer 2027 placement, funding or remote arrangement was verified.",
+      "External master's eligibility, visitor sponsorship, access and any self-funding arrangement require institutional and PI approval.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "dshell@cse.tamu.edu"
+  },
+  {
+    "id": "matthew-gombolay",
+    "name": "Matthew Gombolay",
+    "aliases": [],
+    "school": "Georgia Institute of Technology",
+    "homepage": "https://ml.gatech.edu/people/matthew-gombolay",
+    "title": "Associate Professor",
+    "department": "Interactive Computing",
+    "batch": "hri-005",
+    "discoveredAt": "2026-09-30T21:54:45Z",
+    "verifiedAt": "2026-09-30T21:58:49Z",
+    "researchAreas": [
+      "Interactive robot learning",
+      "Human-robot teaming",
+      "Explainable AI",
+      "Learning from demonstrations"
+    ],
+    "fitReason": "Very strong match across human-in-the-loop robot learning, demonstration feedback and physically grounded teaming. Technical project fit is high, although this does not imply a short visitor can join a live hardware effort.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The 2026 coauthored Video2Sim2Real preprint specifies a physical 7-DoF Kinova arm with 16-DoF LEAP hand, RealSense sensing and real manipulation trials. Earlier official ESTHER coverage documents a physical mobile tennis robot. Cross-lab collaboration does not establish the particular hardware's availability in CORE.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No explicit current external master's summer visitor/intern route was verified. Some CORE pages returned502; research and role were corroborated through other official Georgia Tech pages, but missing recruiting content is not assumed permissive.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "direct interactive robot learning and embodied perception/manipulation.",
+      "physical": "Detailed physical Kinova/LEAP experiments are in a cross-lab preprint; current CORE platform access is unconfirmed.",
+      "shortVisit": "unverified.",
+      "freshness": "2026 primary study and official lab publication list."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "ml.gatech.edu / source 1",
+        "url": "https://ml.gatech.edu/people/matthew-gombolay",
+        "summary": "Current Associate Professor and email; supersedes stale Assistant directory records.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s2",
+        "label": "core-robotics.gatech.edu / source 2",
+        "url": "https://core-robotics.gatech.edu/publications/",
+        "summary": "Official list of 2026 interactive-learning/HRI papers.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s3",
+        "label": "star-lab.cc.gatech.edu / source 3",
+        "url": "https://star-lab.cc.gatech.edu/papers/Han-Qiu-Vid2Sim2Real/",
+        "summary": "Official Georgia Tech project record,2026 preprint, Gombolay coauthor.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2606.08828v1",
+        "summary": "Section 5.1/5.3 physical Kinova+LEAP setup and real-world manipulation results.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s5",
+        "label": "www.cc.gatech.edu / source 5",
+        "url": "https://www.cc.gatech.edu/news/tennis-robot-could-pave-way-advancement-fast-movement-robotics",
+        "summary": "Official historical ESTHER hardware and perception system report.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      }
+    ],
+    "unknowns": [
+      "No eight-week summer 2027 placement, funding or remote arrangement was verified.",
+      "External master's eligibility, visitor sponsorship, access and any self-funding arrangement require institutional and PI approval.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "matthew.gombolay@cc.gatech.edu"
+  },
+  {
+    "id": "pooyan-fazli",
+    "name": "Pooyan Fazli",
+    "aliases": [],
+    "school": "Arizona State University",
+    "homepage": "https://search.asu.edu/profile/4408705",
+    "title": "Assistant Professor",
+    "department": "The GAME School; Media and Immersive eXperience (MIX) Center",
+    "batch": "hri-005",
+    "discoveredAt": "2026-09-30T21:55:07Z",
+    "verifiedAt": "2026-09-30T21:58:49Z",
+    "researchAreas": [
+      "Multimodal learning",
+      "Vision and language",
+      "Robot learning",
+      "Human-aware service robots"
+    ],
+    "fitReason": "Potential fit for multimodal perception and accessible embodied AI, with an explicit visitor/intern inquiry route. Recent work is largely video/multimodal AI, so a present-day physical-robot project must be verified before prioritizing over more hardware-active labs.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The 2017 primary Beam paper documents a modified physical telepresence robot with depth sensing, ROS, human tracking and autonomous service tasks. It is historical work at Cleveland State, not current ASU inventory. The 2025 RCareGen work is simulation and must not be counted as physical deployment.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "The ASU-linked academic homepage explicitly addresses prospective visitors and interns and directs them to a research-interest form. Duration, degree eligibility, summer 2027 availability, financial support and robot access are unspecified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 32,
+      "physical": 18,
+      "shortVisit": 8,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "multimodal AI fit but current physical grounding uncertain.",
+      "physical": "real but historical 2017 Beam experiments at prior institution.",
+      "shortVisit": "explicit visitor/intern inquiry, duration/eligibility unknown.",
+      "freshness": "2026 publications and official profile activity, largely nonphysical."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "search.asu.edu / source 1",
+        "url": "https://search.asu.edu/profile/4408705",
+        "summary": "Current Assistant Professor at GAME/MIX, research areas, linked homepage and 2026 courses.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s2",
+        "label": "pooyanfazli.com / source 2",
+        "url": "https://pooyanfazli.com/",
+        "summary": "Explicit prospective visitors/interns invitation and interest form.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s3",
+        "label": "graduateapps.asu.edu / source 3",
+        "url": "https://graduateapps.asu.edu/graduate-faculty/degree/ESRASMAPHD",
+        "summary": "Verified public institutional email and graduate faculty affiliation.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s4",
+        "label": "pooyanfazli.com / source 4",
+        "url": "https://pooyanfazli.com/publications/Patel_FSS_AIHRI17.pdf",
+        "summary": "2017 physical Beam robot enhancement and real service-task experiments at Cleveland State.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s5",
+        "label": "pooyanfazli.com / source 5",
+        "url": "https://pooyanfazli.com/publications/Shuaixing_HRI2025.pdf",
+        "summary": "RCareGen 2025 uses RCareWorld simulation; no real-world robot deployment claim.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s6",
+        "label": "pooyanfazli.com / source 6",
+        "url": "https://pooyanfazli.com/publications.html",
+        "summary": "Dated 2026 vision/language and multimodal research, separate from physical evidence.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      }
+    ],
+    "unknowns": [
+      "No eight-week summer 2027 placement, funding or remote arrangement was verified.",
+      "External master's eligibility, visitor sponsorship, access and any self-funding arrangement require institutional and PI approval.",
+      "Current ASU hardware and an active physical-robot project have not been verified; lower-priority conditional lead for a physically grounded research agenda.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "pooyan@asu.edu"
+  },
+  {
+    "id": "bill-smart",
+    "name": "Bill Smart",
+    "aliases": [],
+    "school": "Oregon State University",
+    "homepage": "https://engineering.oregonstate.edu/research/robotics/human-robot-interaction",
+    "title": "Professor; CoRIS Associate Director for Academics",
+    "department": "Mechanical, Industrial, and Manufacturing Engineering; Robotics",
+    "batch": "hri-005",
+    "discoveredAt": "2026-09-30T21:55:19Z",
+    "verifiedAt": "2026-09-30T21:58:49Z",
+    "researchAreas": [
+      "Assistive robotics",
+      "Human-robot interaction",
+      "Long-term autonomy",
+      "Robot software and learning"
+    ],
+    "fitReason": "Strong assistive-HRI fit for robust robot software, user control and long-term autonomy. An existing platform's interface or perception component could suit CS skills, subject to project availability.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Official Oregon State coverage describes the physical Chiron self-driving wheelchair and shared-control research. More recent 2025 institutional workshop records list Smart on the Quori 2.0 modular social-robot project, but do not themselves prove completed 2025 hardware; physical evidence remains historical.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The Personal Robotics Group lists past REU students and a visiting artist, but no explicit current external master's summer visitor invitation. These older precedents are not treated as a current pathway.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 36,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "direct assistive HRI, autonomy and software.",
+      "physical": "older concrete wheelchair platform;2025 Quori project not assumed completed inventory.",
+      "shortVisit": "historical visitors only.",
+      "freshness": "2025 official Quori 2.0 workshop record."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.oregonstate.edu / source 1",
+        "url": "https://engineering.oregonstate.edu/research/robotics/human-robot-interaction",
+        "summary": "Current Professor/CoRIS academic leadership and public email.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s2",
+        "label": "engineering.oregonstate.edu / source 2",
+        "url": "https://engineering.oregonstate.edu/MIME/research/robotics-area-research-excellence",
+        "summary": "Confirms current MIME professor affiliation.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s3",
+        "label": "research.engr.oregonstate.edu / source 3",
+        "url": "https://research.engr.oregonstate.edu/prg/node/2",
+        "summary": "Personal Robotics Group focus on assistive robots, autonomy and robot learning.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s4",
+        "label": "engineering.oregonstate.edu / source 4",
+        "url": "https://engineering.oregonstate.edu/engineering-out-loud/season-2/inside-and-outside",
+        "summary": "Historical physical Chiron self-driving wheelchair research.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s5",
+        "label": "circ-mri2025.oit.ncsu.edu / source 5",
+        "url": "https://circ-mri2025.oit.ncsu.edu/posters/",
+        "summary": "March 2025 university-hosted PI meeting lists Quori 2.0 project and Bill Smart.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s6",
+        "label": "research.engr.oregonstate.edu / source 6",
+        "url": "https://research.engr.oregonstate.edu/prg/current-students",
+        "summary": "Historical REU and visiting-artist roster, not current eligibility evidence.",
+        "verifiedAt": "2026-09-30T21:58:49Z"
+      }
+    ],
+    "unknowns": [
+      "No eight-week summer 2027 placement, funding or remote arrangement was verified.",
+      "External master's eligibility, visitor sponsorship, access and any self-funding arrangement require institutional and PI approval.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "smartw@oregonstate.edu"
+  }
+]

@@ -21,7 +21,8 @@
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
-    "batches/hri-004.json"
+    "batches/hri-004.json",
+    "batches/hri-005.json"
   ],
   "candidates": [
     {
@@ -3120,6 +3121,294 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-004.json",
       "detailPage": "batches/hri-004.md#heather-culbertson"
+    },
+    {
+      "id": "zhi-tan",
+      "name": "Zhi Tan",
+      "aliases": [
+        "Xiang Zhi Tan"
+      ],
+      "school": "Northeastern University",
+      "title": "Assistant Professor",
+      "homepage": "https://www.khoury.northeastern.edu/people/zhi-tan/",
+      "batch": "hri-005",
+      "discoveredAt": "2026-09-30T21:48:28Z",
+      "verifiedAt": "2026-09-30T21:58:49Z",
+      "scores": {
+        "fit": 37,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Multi-robot HRI",
+        "Assistive service robots",
+        "Embodied system coordination",
+        "Real-world robot deployment"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-005.json",
+      "detailPage": "batches/hri-005.md#zhi-tan"
+    },
+    {
+      "id": "hee-rin-lee",
+      "name": "Hee Rin Lee",
+      "aliases": [],
+      "school": "Michigan State University",
+      "title": "Assistant Professor",
+      "homepage": "https://comartsci.msu.edu/our-people/hee-rin-lee",
+      "batch": "hri-005",
+      "discoveredAt": "2026-09-30T21:54:45Z",
+      "verifiedAt": "2026-09-30T22:00:03Z",
+      "scores": {
+        "fit": 33,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Human-robot interaction",
+        "Healthcare robotics",
+        "Participatory robot design",
+        "Robots for social good"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-005.json",
+      "detailPage": "batches/hri-005.md#hee-rin-lee"
+    },
+    {
+      "id": "tariq-iqbal",
+      "name": "Tariq Iqbal",
+      "aliases": [],
+      "school": "University of Virginia",
+      "title": "Associate Professor",
+      "homepage": "https://tyde.virginia.edu/team/tariq-iqbal/",
+      "batch": "hri-005",
+      "discoveredAt": "2026-09-30T21:54:18Z",
+      "verifiedAt": "2026-09-30T21:58:49Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-robot collaboration",
+        "Human intent prediction",
+        "Multimodal perception",
+        "Robot teamwork"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-005.json",
+      "detailPage": "batches/hri-005.md#tariq-iqbal"
+    },
+    {
+      "id": "patricia-alves-oliveira",
+      "name": "Patrícia Alves-Oliveira",
+      "aliases": [],
+      "school": "University of Michigan",
+      "title": "Assistant Professor",
+      "homepage": "https://robotics.umich.edu/people/faculty/patricia-alves-oliveira/",
+      "batch": "hri-005",
+      "discoveredAt": "2026-09-30T21:54:18Z",
+      "verifiedAt": "2026-09-30T21:58:49Z",
+      "scores": {
+        "fit": 37,
+        "physical": 25,
+        "shortVisit": 10,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Embodied social AI",
+        "Assistive robotics",
+        "Physical human-robot interaction",
+        "Robot co-design"
+      ],
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/hri-005.json",
+      "detailPage": "batches/hri-005.md#patricia-alves-oliveira"
+    },
+    {
+      "id": "michael-a-goodrich",
+      "name": "Michael A. Goodrich",
+      "aliases": [],
+      "school": "Brigham Young University",
+      "title": "Professor",
+      "homepage": "https://cs.byu.edu/directory/michael-goodrich",
+      "batch": "hri-005",
+      "discoveredAt": "2026-09-30T21:54:52Z",
+      "verifiedAt": "2026-09-30T21:58:49Z",
+      "scores": {
+        "fit": 34,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Human-robot teams",
+        "Robot proficiency self-assessment",
+        "Multi-agent systems",
+        "Human-centered AI"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-005.json",
+      "detailPage": "batches/hri-005.md#michael-a-goodrich"
+    },
+    {
+      "id": "jacob-w-crandall",
+      "name": "Jacob W. Crandall",
+      "aliases": [],
+      "school": "Brigham Young University",
+      "title": "Professor",
+      "homepage": "https://cs.byu.edu/directory/jacob-crandall",
+      "batch": "hri-005",
+      "discoveredAt": "2026-09-30T21:54:52Z",
+      "verifiedAt": "2026-09-30T21:58:49Z",
+      "scores": {
+        "fit": 34,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-machine cooperation",
+        "Robot competence explanation",
+        "Multi-agent learning",
+        "Interactive AI"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-005.json",
+      "detailPage": "batches/hri-005.md#jacob-w-crandall"
+    },
+    {
+      "id": "dan-ding",
+      "name": "Dan Ding",
+      "aliases": [],
+      "school": "University of Pittsburgh",
+      "title": "Professor; Department Vice Chair for Research",
+      "homepage": "https://www.shrs.pitt.edu/person/dan-ding/",
+      "batch": "hri-005",
+      "discoveredAt": "2026-09-30T21:54:45Z",
+      "verifiedAt": "2026-09-30T21:58:49Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 5,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Assistive robotic manipulation",
+        "Shared autonomy",
+        "Human-machine interfaces",
+        "Accessible smart technology"
+      ],
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/hri-005.json",
+      "detailPage": "batches/hri-005.md#dan-ding"
+    },
+    {
+      "id": "dylan-a-shell",
+      "name": "Dylan A. Shell",
+      "aliases": [],
+      "school": "Texas A&M University",
+      "title": "Professor",
+      "homepage": "https://engineering.tamu.edu/cse/profiles/dshell.html",
+      "batch": "hri-005",
+      "discoveredAt": "2026-09-30T21:54:58Z",
+      "verifiedAt": "2026-09-30T21:58:49Z",
+      "scores": {
+        "fit": 32,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Multi-robot coordination",
+        "Robot planning under uncertainty",
+        "Sensor-grounded planning",
+        "Distributed embodied systems"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-005.json",
+      "detailPage": "batches/hri-005.md#dylan-a-shell"
+    },
+    {
+      "id": "matthew-gombolay",
+      "name": "Matthew Gombolay",
+      "aliases": [],
+      "school": "Georgia Institute of Technology",
+      "title": "Associate Professor",
+      "homepage": "https://ml.gatech.edu/people/matthew-gombolay",
+      "batch": "hri-005",
+      "discoveredAt": "2026-09-30T21:54:45Z",
+      "verifiedAt": "2026-09-30T21:58:49Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Interactive robot learning",
+        "Human-robot teaming",
+        "Explainable AI",
+        "Learning from demonstrations"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-005.json",
+      "detailPage": "batches/hri-005.md#matthew-gombolay"
+    },
+    {
+      "id": "pooyan-fazli",
+      "name": "Pooyan Fazli",
+      "aliases": [],
+      "school": "Arizona State University",
+      "title": "Assistant Professor",
+      "homepage": "https://search.asu.edu/profile/4408705",
+      "batch": "hri-005",
+      "discoveredAt": "2026-09-30T21:55:07Z",
+      "verifiedAt": "2026-09-30T21:58:49Z",
+      "scores": {
+        "fit": 32,
+        "physical": 18,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Multimodal learning",
+        "Vision and language",
+        "Robot learning",
+        "Human-aware service robots"
+      ],
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/hri-005.json",
+      "detailPage": "batches/hri-005.md#pooyan-fazli"
+    },
+    {
+      "id": "bill-smart",
+      "name": "Bill Smart",
+      "aliases": [],
+      "school": "Oregon State University",
+      "title": "Professor; CoRIS Associate Director for Academics",
+      "homepage": "https://engineering.oregonstate.edu/research/robotics/human-robot-interaction",
+      "batch": "hri-005",
+      "discoveredAt": "2026-09-30T21:55:19Z",
+      "verifiedAt": "2026-09-30T21:58:49Z",
+      "scores": {
+        "fit": 36,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Assistive robotics",
+        "Human-robot interaction",
+        "Long-term autonomy",
+        "Robot software and learning"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-005.json",
+      "detailPage": "batches/hri-005.md#bill-smart"
     }
   ]
 }

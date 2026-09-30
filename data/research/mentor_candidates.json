@@ -51,7 +51,8 @@
     "batches/hri-011.json",
     "batches/hri-012.json",
     "batches/hri-013.json",
-    "batches/hri-014.json"
+    "batches/hri-014.json",
+    "batches/hri-015.json"
   ],
   "candidates": [
     {
@@ -6004,6 +6005,36 @@
       "shortVisitStatus": "inquiry-only · 当前真机资源未确认",
       "recordFile": "batches/hri-014.json",
       "detailPage": "batches/hri-014.md#yayun-du"
+    },
+    {
+      "id": "zhi-jane-li",
+      "name": "Zhi (Jane) Li",
+      "aliases": [
+        "Zhi Li",
+        "Jane Li",
+        "Zhi Jane Li"
+      ],
+      "school": "Worcester Polytechnic Institute",
+      "title": "Associate Professor",
+      "homepage": "https://www.wpi.edu/people/faculty/zli11",
+      "batch": "hri-015",
+      "discoveredAt": "2026-09-30T23:23:27Z",
+      "verifiedAt": "2026-09-30T23:24:55Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Shared autonomous mobile manipulation",
+        "Adaptive human-robot task allocation",
+        "Multimodal and augmented-reality robot interfaces",
+        "Robot teleoperation and human capability modeling"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-015.json",
+      "detailPage": "batches/hri-015.md#zhi-jane-li"
     }
   ]
 }

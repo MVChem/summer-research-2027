@@ -1,0 +1,95 @@
+[
+  {
+    "id": "zhi-jane-li",
+    "name": "Zhi (Jane) Li",
+    "aliases": [
+      "Zhi Li",
+      "Jane Li",
+      "Zhi Jane Li"
+    ],
+    "school": "Worcester Polytechnic Institute",
+    "homepage": "https://www.wpi.edu/people/faculty/zli11",
+    "title": "Associate Professor",
+    "department": "Robotics Engineering; Human-inspired Robotics (HiRo) Lab",
+    "batch": "hri-015",
+    "discoveredAt": "2026-09-30T23:23:27Z",
+    "verifiedAt": "2026-09-30T23:24:55Z",
+    "researchAreas": [
+      "Shared autonomous mobile manipulation",
+      "Adaptive human-robot task allocation",
+      "Multimodal and augmented-reality robot interfaces",
+      "Robot teleoperation and human capability modeling"
+    ],
+    "fitReason": "Direct physical HRI and software-method overlap: learning operator capabilities, allocating failure-recovery assistance, and designing shared-autonomy interfaces. A focused algorithm or interface-evaluation contribution could be suitable for CS-oriented methods; hosting and eight-week scope are unconfirmed.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The February 2026 primary ARFA paper uses WPI's physical IONA nursing-assistant platform: Kinova Gen3 arm, Robotiq gripper, Freight mobile base and RGB-D cameras. Twenty participants worked in local/remote pairs using HoloLens and a screen interface. The task and failures simulate nursing scenarios on real hardware; this is not a clinical patient-care deployment. Operator capability beliefs learned from performance guide adaptive allocation.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The full live HiRo homepage advertises projects for prospective PhD students and master's thesis students. It does not explicitly invite external summer visitors or internships, specify duration, or establish summer 2027 funding. The lab is physically located in WPI's Unity Hall, but visitor access requires separate host and institutional approval.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "strong adaptive shared-autonomy and human-modeling methods.",
+      "physical": "explicit local robot setup and real-user experiment.",
+      "shortVisit": "only degree/thesis recruitment, no external visitor route.",
+      "freshness": "February 2026 primary study. Provisional fit/evidence score, not acceptance probability or prestige."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.wpi.edu / source 1",
+        "url": "https://www.wpi.edu/people/faculty/zli11",
+        "summary": "Full official faculty profile confirms Jane Li, Associate Professor of Robotics Engineering, public email and HiRo link.",
+        "verifiedAt": "2026-09-30T23:24:55Z"
+      },
+      {
+        "id": "s2",
+        "label": "wp.wpi.edu / source 2",
+        "url": "https://wp.wpi.edu/hiro/",
+        "summary": "Full page read in cloud browser after the former labs.wpi.edu URL redirected. Confirms current Associate Professor, Unity Hall lab, shared-autonomy research and PhD/MS-thesis-only prospective-student paragraph.",
+        "verifiedAt": "2026-09-30T23:24:55Z"
+      },
+      {
+        "id": "s3",
+        "label": "labs.wpi.edu / source 3",
+        "url": "https://labs.wpi.edu/hiro/zhi-jane-li/",
+        "summary": "Search-indexed dated position history reports Associate Professor from July 2025; older Assistant Professor biography is stale. Direct web open failed, so affiliation is independently anchored to the fully readable official faculty profile.",
+        "verifiedAt": "2026-09-30T23:24:55Z"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2602.03603v1",
+        "summary": "Full February 2026 primary study, Sections III and IV-B, confirms WPI authorship, capability-learning allocation, named IONA hardware and twenty-person paired user study.",
+        "verifiedAt": "2026-09-30T23:24:55Z"
+      }
+    ],
+    "unknowns": [
+      "The current official faculty profile says Associate Professor. Some older lab biography/team text still says Assistant Professor; the dated lab position history reports promotion in July 2025.",
+      "The 2026 study uses constrained failure types and simplified capability models. It is not foundation-model robotics or an unrestricted autonomous clinical system.",
+      "Eight-week supervision, external master's appointment, international sponsorship, funding, self-funded status and access to physical robots remain unknown.",
+      "Use a nonclinical research scope unless institutional review establishes appropriate permitted activities. The paper's mock nursing task does not prove permission for a visitor to conduct patient-facing work.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "zli11@wpi.edu"
+  }
+]

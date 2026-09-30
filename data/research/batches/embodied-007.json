@@ -1,0 +1,751 @@
+[
+  {
+    "id": "shan-lin",
+    "name": "Shan Lin",
+    "aliases": [],
+    "school": "Arizona State University",
+    "homepage": "https://marginlab.github.io/",
+    "title": "Assistant Professor",
+    "department": "School of Electrical, Computer and Energy Engineering",
+    "batch": "embodied-007",
+    "discoveredAt": "2026-09-30T22:08:07Z",
+    "verifiedAt": "2026-09-30T22:45:56Z",
+    "researchAreas": [
+      "Contact-rich perception",
+      "Robot learning",
+      "Surgical robotics",
+      "Multimodal tactile sensing",
+      "Medical vision-language models"
+    ],
+    "fitReason": "MARGIN combines contact-physics learning with visual tracking in TwinTrack (ICRA2026), multimodal tactile classification in PalpAid (RoboSoft2026), and trajectory-conditioned surgical VLM representations in TrajPred (IROS2026).",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "PalpAid identifies UR3e and force-torque sensing in a Duke/ASU collaboration. TwinTrack demonstrates LEAP-hand experiments at ASU IRIS. These verify physical research but do not establish MARGIN-local equipment or visitor access.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s-audit-twintrack"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "Directly read Visiting Students / Scholars section invites inquiries with funding source and intended visit duration; examples expressly include fellowship, university/government funding and self-funding.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 9,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong physical learning/perception fit with current multimodal robot research.",
+      "physical": "PalpAid is a Duke/ASU collaboration and TwinTrack identifies ASU IRIS as the experiment site; MARGIN-local equipment was not established.",
+      "shortVisit": "Explicit visitor inquiry route and funding options, length unspecified.",
+      "freshness": "2026 research, current ASU appointment and live opportunities page."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "search.asu.edu / source 1",
+        "url": "https://search.asu.edu/profile/5211818",
+        "summary": "Current official assistant professor role and robotics scope.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "marginlab.github.io / source 2",
+        "url": "https://marginlab.github.io/opportunities",
+        "summary": "Directly read visitor/scholar inquiry route with funding and duration details; explicit email.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "marginlab.github.io / source 3",
+        "url": "https://marginlab.github.io/publications/",
+        "summary": "Current 2026 projects and publication venues.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "github.com / source 4",
+        "url": "https://github.com/raprakashvi/palpaid_robosoft",
+        "summary": "Primary author hardware/code release names physical UR3e system and experiments.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "irislab.tech / source 5",
+        "url": "https://irislab.tech/TwinTrack-webpage/",
+        "summary": "Primary visual/contact-physics learning project with LEAP-hand experiments.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "indexed-primary-excerpt"
+      },
+      {
+        "id": "s-audit-twintrack",
+        "label": "TwinTrack · direct project page",
+        "url": "https://irislab.tech/TwinTrack-webpage/",
+        "summary": "Direct primary project identifies ASU IRIS experiment context and LEAP-hand results; this is not evidence of MARGIN-local equipment.",
+        "verifiedAt": "2026-09-30T22:45:56Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "No eight-week duration, summer2027 place, or visitor appointment approval is guaranteed. Already-admitted-ASU restriction applies to a separate campus master’s/undergraduate section. The PI’s Mayo faculty summer residency is not a student internship.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "shan.lin.2@asu.edu"
+  },
+  {
+    "id": "fei-liu",
+    "name": "Fei Liu",
+    "aliases": [],
+    "school": "University of Tennessee, Knoxville",
+    "homepage": "https://lnnx2006.github.io/",
+    "title": "Assistant Professor",
+    "department": "Electrical Engineering and Computer Science",
+    "batch": "embodied-007",
+    "discoveredAt": "2026-09-30T22:07:56Z",
+    "verifiedAt": "2026-09-30T22:47:41Z",
+    "researchAreas": [
+      "Deformable-object manipulation",
+      "Differentiable physics",
+      "Sim-to-real learning",
+      "Surgical autonomy",
+      "Embodied AI"
+    ],
+    "fitReason": "AURAS develops physics-based and learned models for tool-tissue interaction. AutoPeel (ICRA2025) uses differentiable simulation for robot dressing removal, while 2025 demonstration-learning work studies human/robot action alignment.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "AutoPeel reports physical Franka Emika Panda dressing-removal experiments on foam phantoms. Its participant demonstration used foam wrapped around a leg, not removal from an actual wound or direct clinical treatment. The separate RH20T action-alignment study is offline data work, not deployment evidence.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "Directly read AURAS homepage explicitly invites prospective PhD and visiting students to contact the published research-recruiting email, feiliu.utk@gmail.com.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 20,
+      "shortVisit": 8,
+      "freshness": 14
+    },
+    "scoreReasons": {
+      "fit": "Strong deformable-manipulation, differentiable-model and embodied-learning fit.",
+      "physical": "The AutoPeel physical evidence is a 2024 preprint/2025 UCSD collaboration; current host-lab platform access is unconfirmed.",
+      "shortVisit": "Published visiting-student invitation but no compatible duration statement.",
+      "freshness": "2026 active lab updates; main deployed project published2025."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "eecs.utk.edu / source 1",
+        "url": "https://eecs.utk.edu/people/fei-liu/",
+        "summary": "Official current assistant professor affiliation.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "lnnx2006.github.io / source 2",
+        "url": "https://lnnx2006.github.io/",
+        "summary": "Live visiting-student invitation, explicit recruiting email and separate university email fliu33@utk.edu; September2026 updates.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "lnnx2006.github.io / source 3",
+        "url": "https://lnnx2006.github.io/publication.html",
+        "summary": "2025 projects with faculty authorship and conference/journal labels.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2409.14282v1",
+        "summary": "Primary AutoPeel methods and SectionIV real Panda experiments.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "ucsdarclab.com / source 5",
+        "url": "https://ucsdarclab.com/autopublication/autopeel-adhesion-aware-safe-peeling-trajectory-optimization-for-robotic-wound-care/",
+        "summary": "Collaborating lab confirms ICRA2025 paper.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "indexed-primary-excerpt"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/abs/2504.11493",
+        "summary": "Human/robot action-alignment project evaluated on recorded RH20T data.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "indexed-primary-excerpt"
+      }
+    ],
+    "unknowns": [
+      "No visiting-student duration, funding, external-master’s administrative eligibility or 2027 availability is stated. AutoPeel is a UCSD collaboration; equipment availability in Knoxville must be confirmed.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "The human demonstration is a foam-over-leg setup; it must not be interpreted as an evaluated clinical wound-care deployment."
+    ],
+    "publicEmail": "feiliu.utk@gmail.com"
+  },
+  {
+    "id": "lydia-e-kavraki",
+    "name": "Lydia E. Kavraki",
+    "aliases": [],
+    "school": "Rice University",
+    "homepage": "https://www.kavrakilab.org/",
+    "title": "University Professor; Kenneth and Audrey Kennedy Professor of Computing",
+    "department": "Computer Science; Electrical and Computer Engineering; Mechanical Engineering; Bioengineering",
+    "batch": "embodied-007",
+    "discoveredAt": "2026-09-30T22:13:20Z",
+    "verifiedAt": "2026-09-30T22:18:19Z",
+    "researchAreas": [
+      "Vision-language-action policies",
+      "Manipulation planning",
+      "Neuro-symbolic robotics",
+      "Real-time motion planning"
+    ],
+    "fitReason": "NUDGE (September2026) adds training-free, geometry-guided obstacle avoidance to diffusion/flow policies and VLAs. This gives a concrete foundation-model manipulation project alongside long-horizon task-and-motion planning.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "NUDGE SectionIV-D explicitly deploys a fine-tuned pi0 policy on a real UR5 for cube-to-container placement with continuously moving foam obstacles. Simulation-only Franka/LIBERO benchmarks are separate from this robot trial.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Lab openings advertise prospective graduate students at the start of an academic year. Current/past visitor listings alone do not establish a present summer visitor intake.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Concrete current VLA manipulation and general planning research.",
+      "physical": "Named physical UR5 with closed-loop language-conditioned manipulation.",
+      "shortVisit": "Graduate recruiting and visitor precedent do not verify an external summer route.",
+      "freshness": "September2026 primary paper and current Rice faculty record."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "profiles.rice.edu / source 1",
+        "url": "https://profiles.rice.edu/faculty/lydia-e-kavraki",
+        "summary": "Official current titles, departments and explicit professional email.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "www.kavrakilab.org / source 2",
+        "url": "https://www.kavrakilab.org/",
+        "summary": "Current lab and2026 activity.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "www.kavrakilab.org / source 3",
+        "url": "https://www.kavrakilab.org/openings/graduate.html",
+        "summary": "Graduate admission route only.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "indexed-primary-excerpt"
+      },
+      {
+        "id": "s4",
+        "label": "kavrakilab.org / source 4",
+        "url": "https://kavrakilab.org/people/",
+        "summary": "Visitor listings without current summer pathway.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "indexed-primary-excerpt"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/abs/2609.35231",
+        "summary": "September28–29,2026 preprint date and authorship.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2609.35231v2",
+        "summary": "Primary real UR5 pi0 deployment in SectionIV-D; distinguish simulations.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "NUDGE is a new preprint, not a peer-reviewed result; its caption and body contain a small success-rate discrepancy, so no numerical success claim is used here. Eight-week external master’s eligibility remains unknown.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "kavraki@rice.edu"
+  },
+  {
+    "id": "michael-posa",
+    "name": "Michael Posa",
+    "aliases": [],
+    "school": "University of Pennsylvania",
+    "homepage": "https://dair.engineering.upenn.edu/",
+    "title": "Associate Professor",
+    "department": "Mechanical Engineering and Applied Mechanics; secondary Electrical and Systems Engineering and Computer and Information Science",
+    "batch": "embodied-007",
+    "discoveredAt": "2026-09-30T22:13:20Z",
+    "verifiedAt": "2026-09-30T22:18:19Z",
+    "researchAreas": [
+      "Contact-rich manipulation",
+      "Robot reinforcement learning",
+      "Data-efficient model learning",
+      "Contact-implicit control"
+    ],
+    "fitReason": "DAIR tightly combines learning, optimization and physical contact. June2026 RL-MPC research learns contact intentions for non-prehensile manipulation; Push Anything (ICRA2026) integrates object perception and contact-implicit control.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "RL-MPC full text describes zero-shot transfer to a seven-DoF Franka for pushing, pivoting/flipping and environment-assisted repositioning. Push Anything provides uncut physical single/multi-object rollouts and a Franka execution stack.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Joining page lists PhD applicants, postdocs and current Penn undergraduate/master’s students. Historical external visiting undergraduates appear in the2025 CV, but no current external short-visit invitation is stated.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct robot learning plus dynamic/contact-rich manipulation.",
+      "physical": "Named Franka and multiple real manipulation tasks in2026.",
+      "shortVisit": "Current campus-only RA and degree/postdoc routes; historical visitors earn no current-pathway points.",
+      "freshness": "Current2026 project evidence and verified2025 promotion."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "dair.seas.upenn.edu / source 1",
+        "url": "https://dair.seas.upenn.edu/assets/pdf/posa_cv.pdf",
+        "summary": "July2025 CV confirms associate professor appointment, secondary departments, email and historical visitors.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "indexed-primary-excerpt"
+      },
+      {
+        "id": "s2",
+        "label": "dair.engineering.upenn.edu / source 2",
+        "url": "https://dair.engineering.upenn.edu/",
+        "summary": "May2026 research updates and lab scope.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "dair.engineering.upenn.edu / source 3",
+        "url": "https://dair.engineering.upenn.edu/joining/",
+        "summary": "Directly read degree, postdoc and current-Penn routes; no external short-visit offer.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2601.10930v3",
+        "summary": "June2026 revised RL-MPC primary paper with Section7 physical transfer and named Franka.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "dairlab.github.io / source 5",
+        "url": "https://dairlab.github.io/push-anything/",
+        "summary": "Primary ICRA2026 contact manipulation project with physical execution and uncut videos.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Penn-student research assistant application is not a verified external master’s route. The department title is associate professor from July2025 despite older assistant-professor sources. Collaboration-specific robot access needs confirmation.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "posa@seas.upenn.edu"
+  },
+  {
+    "id": "zachary-k-kingston",
+    "name": "Zachary K. Kingston",
+    "aliases": [],
+    "school": "Purdue University",
+    "homepage": "https://commalab.org/",
+    "title": "Assistant Professor",
+    "department": "Computer Science",
+    "batch": "embodied-007",
+    "discoveredAt": "2026-09-30T22:15:04Z",
+    "verifiedAt": "2026-09-30T22:18:19Z",
+    "researchAreas": [
+      "Generative grasping",
+      "Robot learning plus planning",
+      "Vision-language-action systems",
+      "Fast manipulation planning"
+    ],
+    "fitReason": "CoMMA’s2026 work connects grasp diffusion/MeanFlow, VLA planning and learned collision models. GraspMF (August2026) is a compact, concrete robot-learning project; September2026 neural swept-volume planning adds physical reactive avoidance.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "GraspMF SectionV-F deploys on a Franka Research3 with Franka Hand and wrist RGB-D camera, grasping three household objects. The swept-volume paper independently demonstrates real FR3 avoidance of moving foam obstacles.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current external summer/master’s visitor pathway verified in reviewed faculty, personal and lab pages.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong current generative grasping, VLA and fast physical manipulation scope.",
+      "physical": "Two named actual FR3 experiments, distinct from simulation benchmarks.",
+      "shortVisit": "No current external short-visit pathway verified.",
+      "freshness": "August/September2026 preprints and current official appointment."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.cs.purdue.edu / source 1",
+        "url": "https://www.cs.purdue.edu/people/faculty/zkingsto.html",
+        "summary": "Official assistant professor and explicit department email.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "zkingston.com / source 2",
+        "url": "https://zkingston.com/",
+        "summary": "Current Purdue role and lab link.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "commalab.org / source 3",
+        "url": "https://commalab.org/",
+        "summary": "Current2026 project list and publication status; no visitor invitation found.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2608.26076v1",
+        "summary": "Primary GraspMF SectionV-F actual FR3 grasping experiment.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2609.21211v1",
+        "summary": "Primary SectionIII-D actual FR3 dynamic-obstacle experiment.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Both cited2026 projects are preprints/under review. The lab’s FRUITNINJA benchmark is explicitly simulated and is not counted as physical robot evidence. Current local hardware and supervising-student availability still need confirmation.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "zkingston@purdue.edu"
+  },
+  {
+    "id": "jie-ying-wu",
+    "name": "Jie Ying Wu",
+    "aliases": [],
+    "school": "Vanderbilt University",
+    "homepage": "https://my.vanderbilt.edu/maple-lab/",
+    "title": "Assistant Professor",
+    "department": "Computer Science",
+    "batch": "embodied-007",
+    "discoveredAt": "2026-09-30T22:07:56Z",
+    "verifiedAt": "2026-09-30T22:18:19Z",
+    "researchAreas": [
+      "Robot perception and learning",
+      "Surgical automation",
+      "Soft-tissue modeling",
+      "3D reconstruction"
+    ],
+    "fitReason": "MAPLE integrates learned scene models and physical surgical autonomy. From Monocular Vision to Autonomous Action (2025) connects monocular 3D reconstruction to tumor resection; a March2026 study improves dVRK-Si dynamics/control.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The 2025 full text details robot-guided resections of physical tissue specimens, not just image reconstruction. The March2026 dVRK-Si paper explicitly reports physical patient-side-manipulator experiments and real-time gravity compensation.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No external short-term master’s visitor pathway verified. The VISE Summer Fellows page describes a ten-week undergraduate program beginning May26,2026; it does not establish eligibility for this master’s applicant or a 2027 placement.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 35,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong physical perception-to-action and surgical autonomy fit, narrower than general manipulation.",
+      "physical": "Two primary physical robot studies and current seminar evidence.",
+      "shortVisit": "Only an undergraduate2026 summer program verified; external master’s route unknown.",
+      "freshness": "2026 experimental paper and current official role."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.vanderbilt.edu / source 1",
+        "url": "https://www.vanderbilt.edu/vise/people/jie-ying-wu/",
+        "summary": "Official current CS assistant professor and public email; email visible in indexed primary excerpt.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "direct-page-and-indexed-primary-excerpt"
+      },
+      {
+        "id": "s2",
+        "label": "arxiv.org / source 2",
+        "url": "https://arxiv.org/html/2503.16263v1",
+        "summary": "Primary physical resection experiments following scene reconstruction.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/abs/2603.12099",
+        "summary": "Primary March2026 paper explicitly identifies physical dVRK-Si experiments.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "indexed-primary-excerpt"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2603.12099v1",
+        "summary": "Direct full-text access for March2026 research.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "www.vanderbilt.edu / source 5",
+        "url": "https://www.vanderbilt.edu/vise/summer-undergraduate-program/",
+        "summary": "Explicit2026 ten-week undergraduate summer program; not master’s eligibility.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "www.engineering.utoronto.ca / source 6",
+        "url": "https://www.engineering.utoronto.ca/event/robotics-institute-seminar-jie-ying-wu-real-time-3d-representations-of-surgical-scenes-for-automating-surgical-robots/",
+        "summary": "May2026 university seminar describes surgical autonomy in ex vivo/cadaver models.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "indexed-primary-excerpt"
+      }
+    ],
+    "unknowns": [
+      "MAPLE lab website failed direct retrieval, so lab-specific visitor rules remain unreviewed. Research could require surgical-platform training and approvals; physical access and feasible eight-week scope are unknown.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "JieYing.Wu@vanderbilt.edu"
+  },
+  {
+    "id": "cagdas-d-onal",
+    "name": "Cagdas D. Onal",
+    "aliases": [],
+    "school": "Worcester Polytechnic Institute",
+    "homepage": "https://softrobotics.wpi.edu/",
+    "title": "Associate Professor and Department Head (official faculty directory)",
+    "department": "Robotics Engineering",
+    "batch": "embodied-007",
+    "discoveredAt": "2026-09-30T22:13:28Z",
+    "verifiedAt": "2026-09-30T22:18:19Z",
+    "researchAreas": [
+      "Soft robot learning",
+      "Contact-aware locomotion",
+      "Robot sensing",
+      "Soft manipulation"
+    ],
+    "fitReason": "A contact-aware soft-snake controller combines reinforcement learning, tactile scales and central-pattern generators. Current university work also includes CoBRA, a flexible assistive arm for wheelchair users.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The author preprint explicitly evaluates contact-aware controllers in both simulation and a real soft snake robot. The2025 CoBRA announcement is ongoing development and is not counted as completed hardware validation.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No explicit external short-term master’s or summer visitor route verified from the official faculty and lab pages.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 32,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "Relevant robot learning and soft contact systems; narrower general foundation-model fit.",
+      "physical": "Directly inspected physical learned-control experiments date to a 2023 preprint; later development does not establish new completed validation.",
+      "shortVisit": "No external short-visit invitation verified.",
+      "freshness": "Current affiliation/activity verified; directly inspected learned physical study dates2023."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.wpi.edu / source 1",
+        "url": "https://www.wpi.edu/people/faculty/cdonal",
+        "summary": "Official current associate professor/head title and explicit email.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "softrobotics.wpi.edu / source 2",
+        "url": "https://softrobotics.wpi.edu/author/cagdas-d-onal/",
+        "summary": "Lab bio has alternate named-professor wording and soft robotics agenda.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "softrobotics.wpi.edu / source 3",
+        "url": "https://softrobotics.wpi.edu/",
+        "summary": "Lab homepage lacks a verified external visitor pathway and has older news.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/abs/2309.02781",
+        "summary": "Primary author abstract explicitly states actual soft-snake robot experiments.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "www.wpi.edu / source 5",
+        "url": "https://www.wpi.edu/news/wpi-researchers-develop-robotic-arm-wheelchairs",
+        "summary": "2025 university announcement of ongoing assistive soft-arm development.",
+        "verifiedAt": "2026-09-30T22:18:19Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "The directly verified learned-control experiment is a2023 preprint; a2025 journal version appeared in secondary search results but its primary full text was inaccessible, so no2025 experimental claim is made. Faculty directory says associate professor/head; lab bio separately uses Dean’s Professor and Arseneault Faculty Fellow. Confirm preferred title.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "cdonal@wpi.edu"
+  }
+]

@@ -22,6 +22,7 @@
     "batches/embodied-004.json",
     "batches/embodied-005.json",
     "batches/embodied-006.json",
+    "batches/embodied-007.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -2888,6 +2889,190 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-006.json",
       "detailPage": "batches/embodied-006.md#ziyun-claude-wang"
+    },
+    {
+      "id": "shan-lin",
+      "name": "Shan Lin",
+      "aliases": [],
+      "school": "Arizona State University",
+      "title": "Assistant Professor",
+      "homepage": "https://marginlab.github.io/",
+      "batch": "embodied-007",
+      "discoveredAt": "2026-09-30T22:08:07Z",
+      "verifiedAt": "2026-09-30T22:45:56Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 9,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Contact-rich perception",
+        "Robot learning",
+        "Surgical robotics",
+        "Multimodal tactile sensing",
+        "Medical vision-language models"
+      ],
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/embodied-007.json",
+      "detailPage": "batches/embodied-007.md#shan-lin"
+    },
+    {
+      "id": "fei-liu",
+      "name": "Fei Liu",
+      "aliases": [],
+      "school": "University of Tennessee, Knoxville",
+      "title": "Assistant Professor",
+      "homepage": "https://lnnx2006.github.io/",
+      "batch": "embodied-007",
+      "discoveredAt": "2026-09-30T22:07:56Z",
+      "verifiedAt": "2026-09-30T22:47:41Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 8,
+        "freshness": 14
+      },
+      "researchAreas": [
+        "Deformable-object manipulation",
+        "Differentiable physics",
+        "Sim-to-real learning",
+        "Surgical autonomy",
+        "Embodied AI"
+      ],
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/embodied-007.json",
+      "detailPage": "batches/embodied-007.md#fei-liu"
+    },
+    {
+      "id": "lydia-e-kavraki",
+      "name": "Lydia E. Kavraki",
+      "aliases": [],
+      "school": "Rice University",
+      "title": "University Professor; Kenneth and Audrey Kennedy Professor of Computing",
+      "homepage": "https://www.kavrakilab.org/",
+      "batch": "embodied-007",
+      "discoveredAt": "2026-09-30T22:13:20Z",
+      "verifiedAt": "2026-09-30T22:18:19Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Vision-language-action policies",
+        "Manipulation planning",
+        "Neuro-symbolic robotics",
+        "Real-time motion planning"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-007.json",
+      "detailPage": "batches/embodied-007.md#lydia-e-kavraki"
+    },
+    {
+      "id": "michael-posa",
+      "name": "Michael Posa",
+      "aliases": [],
+      "school": "University of Pennsylvania",
+      "title": "Associate Professor",
+      "homepage": "https://dair.engineering.upenn.edu/",
+      "batch": "embodied-007",
+      "discoveredAt": "2026-09-30T22:13:20Z",
+      "verifiedAt": "2026-09-30T22:18:19Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Contact-rich manipulation",
+        "Robot reinforcement learning",
+        "Data-efficient model learning",
+        "Contact-implicit control"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-007.json",
+      "detailPage": "batches/embodied-007.md#michael-posa"
+    },
+    {
+      "id": "zachary-k-kingston",
+      "name": "Zachary K. Kingston",
+      "aliases": [],
+      "school": "Purdue University",
+      "title": "Assistant Professor",
+      "homepage": "https://commalab.org/",
+      "batch": "embodied-007",
+      "discoveredAt": "2026-09-30T22:15:04Z",
+      "verifiedAt": "2026-09-30T22:18:19Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Generative grasping",
+        "Robot learning plus planning",
+        "Vision-language-action systems",
+        "Fast manipulation planning"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-007.json",
+      "detailPage": "batches/embodied-007.md#zachary-k-kingston"
+    },
+    {
+      "id": "jie-ying-wu",
+      "name": "Jie Ying Wu",
+      "aliases": [],
+      "school": "Vanderbilt University",
+      "title": "Assistant Professor",
+      "homepage": "https://my.vanderbilt.edu/maple-lab/",
+      "batch": "embodied-007",
+      "discoveredAt": "2026-09-30T22:07:56Z",
+      "verifiedAt": "2026-09-30T22:18:19Z",
+      "scores": {
+        "fit": 35,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Robot perception and learning",
+        "Surgical automation",
+        "Soft-tissue modeling",
+        "3D reconstruction"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-007.json",
+      "detailPage": "batches/embodied-007.md#jie-ying-wu"
+    },
+    {
+      "id": "cagdas-d-onal",
+      "name": "Cagdas D. Onal",
+      "aliases": [],
+      "school": "Worcester Polytechnic Institute",
+      "title": "Associate Professor and Department Head (official faculty directory)",
+      "homepage": "https://softrobotics.wpi.edu/",
+      "batch": "embodied-007",
+      "discoveredAt": "2026-09-30T22:13:28Z",
+      "verifiedAt": "2026-09-30T22:18:19Z",
+      "scores": {
+        "fit": 32,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Soft robot learning",
+        "Contact-aware locomotion",
+        "Robot sensing",
+        "Soft manipulation"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-007.json",
+      "detailPage": "batches/embodied-007.md#cagdas-d-onal"
     },
     {
       "id": "henny-admoni",

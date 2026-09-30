@@ -1,0 +1,421 @@
+[
+  {
+    "id": "mark-draelos",
+    "name": "Mark Draelos",
+    "aliases": [],
+    "school": "University of Michigan",
+    "homepage": "https://robotics.umich.edu/people/faculty/mark-draelos/",
+    "title": "Assistant Professor",
+    "department": "Robotics; Ophthalmology and Visual Sciences; Biomedical Engineering (courtesy)",
+    "batch": "hri-008",
+    "discoveredAt": "2026-09-30T22:20:58Z",
+    "verifiedAt": "2026-09-30T22:26:44Z",
+    "researchAreas": [
+      "Image-guided robotics",
+      "3D perception and volumetric reconstruction",
+      "Medical robot autonomy",
+      "Human-robot interaction",
+      "Real-time algorithms"
+    ],
+    "fitReason": "Strong CS-method overlap in geometry-aware perception, image-based robot control and 3D reconstruction. A phantom-based calibration or perception project offers a clearer short-project scope than clinical deployment.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The September 18, 2026 primary paper evaluates a physical UR3 arm carrying a GE ultrasound probe, with repeated sphere scans and 3D-printed geometric phantoms. Michigan's lab publication list also includes 2025 dual-arm teleoperation with volumetric OCT feedback and 2026 tissue-shape prediction.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No explicit external master's short-term visitor or internship invitation was verified on the official faculty, personal and lab pages. Current local MS supervision is not visitor eligibility.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "concrete 3D perception and image-guided autonomy.",
+      "physical": "current real UR3 platform.",
+      "shortVisit": "no verified pathway.",
+      "freshness": "September 18, 2026 primary preprint."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "robotics.umich.edu / source 1",
+        "url": "https://robotics.umich.edu/people/faculty/mark-draelos/",
+        "summary": "Official current appointment, email and perception/HRI research.",
+        "verifiedAt": "2026-09-30T22:26:44Z"
+      },
+      {
+        "id": "s2",
+        "label": "medical.robotics.umich.edu / source 2",
+        "url": "https://medical.robotics.umich.edu/",
+        "summary": "Official lab's image-guided robot mission and Michigan appointments.",
+        "verifiedAt": "2026-09-30T22:26:44Z"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2609.22483v1",
+        "summary": "September 2026 primary paper, Methods III-A identifies physical UR3 and ultrasound system.",
+        "verifiedAt": "2026-09-30T22:26:44Z"
+      },
+      {
+        "id": "s4",
+        "label": "medical.robotics.umich.edu / source 4",
+        "url": "https://medical.robotics.umich.edu/publications/",
+        "summary": "Current 2025–2026 robot perception, teleoperation and HRI papers; submitted 2027 entries were not counted as completed publications.",
+        "verifiedAt": "2026-09-30T22:26:44Z"
+      },
+      {
+        "id": "s5",
+        "label": "scholars.duke.edu / source 5",
+        "url": "https://scholars.duke.edu/person/mark.draelos",
+        "summary": "Duke appointment is affiliate, not the current principal faculty role.",
+        "verifiedAt": "2026-09-30T22:26:44Z"
+      }
+    ],
+    "unknowns": [
+      "No eight-week summer 2027 slot, funding or remote arrangement was confirmed; any self-funded visit requires institutional approval.",
+      "The principal faculty role is Michigan; Duke's current profile lists affiliate appointments, so do not target Duke as the primary lab.",
+      "Human clinical access, medical procedures and patient data are not presumed available. An existing-data or phantom-based scope still requires PI and institutional approval.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "mdraelos@umich.edu"
+  },
+  {
+    "id": "patrick-slade",
+    "name": "Patrick Slade",
+    "aliases": [],
+    "school": "Harvard University",
+    "homepage": "https://seas.harvard.edu/person/patrick-slade",
+    "title": "Assistant Professor",
+    "department": "John A. Paulson School of Engineering and Applied Sciences; Bioengineering",
+    "batch": "hri-008",
+    "discoveredAt": "2026-09-30T22:22:12Z",
+    "verifiedAt": "2026-09-30T22:26:44Z",
+    "researchAreas": [
+      "Human-centered AI",
+      "Personalized robot assistance",
+      "Human-in-the-loop optimization",
+      "Wearable robotics",
+      "Assistive perception"
+    ],
+    "fitReason": "Strong AI-method overlap in learning personalized assistance and inferring human movement needs. His work also includes camera-based assistive navigation, so a technically bounded ML/perception project is plausible without assuming a hardware-design internship.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Harvard's April 2025 Kempner report shows the current lab's wearable exoskeleton prototype, and a May 2025 institutional capstone report documents motorized ankle-exoskeleton hardware advised by Slade. A July 2026 faculty interview describes AI-driven personalization of wearable robot assistance. Historical Stanford exoskeleton results are not treated as current Harvard experiments.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The lab contact page offers full-time summer research to current Harvard students, not external master's students. His 2025 university-hosted CV documents visitors from SUSTech, ETH, EPFL and TUM on robot optimization projects, but this precedent alone earns no current-pathway points.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 24,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "human-centered AI and personalized robot control.",
+      "physical": "current Harvard prototypes with clear institutional documentation.",
+      "shortVisit": "external visitor precedent but no current invitation.",
+      "freshness": "July 23, 2026 official interview."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "seas.harvard.edu / source 1",
+        "url": "https://seas.harvard.edu/person/patrick-slade",
+        "summary": "Official Assistant Professor of Bioengineering and public email.",
+        "verifiedAt": "2026-09-30T22:26:44Z"
+      },
+      {
+        "id": "s2",
+        "label": "seas.harvard.edu / source 2",
+        "url": "https://seas.harvard.edu/news/can-ai-make-wearable-technologies-and-assistive-devices-more-helpful",
+        "summary": "July 23, 2026 official interview on ML, robot-assistance personalization and assistive navigation.",
+        "verifiedAt": "2026-09-30T22:26:44Z"
+      },
+      {
+        "id": "s3",
+        "label": "kempnerinstitute.harvard.edu / source 3",
+        "url": "https://kempnerinstitute.harvard.edu/news/using-the-tools-of-ai-to-help-people-with-mobility-disorders/",
+        "summary": "April 21, 2025 current-lab physical exoskeleton and AI research.",
+        "verifiedAt": "2026-09-30T22:26:44Z"
+      },
+      {
+        "id": "s4",
+        "label": "seas.harvard.edu / source 4",
+        "url": "https://seas.harvard.edu/news/senior-project-spotlight-cooper-knarr-and-david-picard",
+        "summary": "May 1, 2025 motorized ankle-exoskeleton prototype; Slade is advisor.",
+        "verifiedAt": "2026-09-30T22:26:44Z"
+      },
+      {
+        "id": "s5",
+        "label": "sladelab.seas.harvard.edu / source 5",
+        "url": "https://sladelab.seas.harvard.edu/contact/",
+        "summary": "Indexed lab contact page limits described summer research to current Harvard students; direct fetch failed.",
+        "verifiedAt": "2026-09-30T22:26:44Z"
+      },
+      {
+        "id": "s6",
+        "label": "bpb-us-e1.wpmucdn.com / source 6",
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.harvard.edu/dist/9/143/files/2025/05/CV_5_2025.pdf",
+        "summary": "University-hosted CV lists past external visitors on assistive-robot optimization; precedent only.",
+        "verifiedAt": "2026-09-30T22:26:44Z"
+      },
+      {
+        "id": "s7",
+        "label": "gsas.harvard.edu / source 7",
+        "url": "https://gsas.harvard.edu/apply/cost-attendance-2026-2027",
+        "summary": "Visiting-fellow eligibility describes doctorate/equivalent/advanced doctoral candidates; not a confirmed master's route.",
+        "verifiedAt": "2026-09-30T22:26:44Z"
+      }
+    ],
+    "unknowns": [
+      "No eight-week summer 2027 slot, funding or remote arrangement was confirmed; any self-funded visit requires institutional approval.",
+      "External master's eligibility, host appointment category and eight-week duration remain unresolved. Do not apply the current-Harvard-student summer invitation to external graduate visitors.",
+      "The general GSAS visiting-fellow route is aimed at doctoral-level researchers; it cannot be assumed suitable for a master's student.",
+      "An assistive-ML scope and available hardware should be agreed before assuming in-person clinical or participant access.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "slade@seas.harvard.edu"
+  },
+  {
+    "id": "jamison-heard",
+    "name": "Jamison Heard",
+    "aliases": [],
+    "school": "Rochester Institute of Technology",
+    "homepage": "https://www.rit.edu/facilities/adaptive-human-robot-teaming-lab",
+    "title": "Associate Professor",
+    "department": "Electrical and Microelectronic Engineering",
+    "batch": "hri-008",
+    "discoveredAt": "2026-09-30T22:23:01Z",
+    "verifiedAt": "2026-09-30T22:26:44Z",
+    "researchAreas": [
+      "Human-aware reinforcement learning",
+      "Multimodal human-state modeling",
+      "Embodied LLM evaluation",
+      "Adaptive human-robot teaming"
+    ],
+    "fitReason": "Very strong AI-method fit across offline RL, multimodal sensing and socially grounded robot evaluation. A benchmark or modeling project could use a CS background, but remote and external-visitor arrangements are unconfirmed.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The June 22, 2026 RO-MAN paper deploys a physical NAO with speech transcription, camera input and an LLM conversational backend in a four-lab-member live pilot. This is a small proof of concept, not a large validation. The university also documents a Spot platform for the AHRT lab.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The full lab joining page invites prospective MS/PhD degree applications and asks for formal RIT admission. It says master's funding is typically unavailable. This is not a current external master's visitor pathway, despite broader homepage funding language.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "direct human-aware RL and multimodal embodied AI.",
+      "physical": "named 2026 NAO live pilot plus current lab Spot evidence.",
+      "shortVisit": "degree-only recruitment.",
+      "freshness": "June 2026 primary paper."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.rit.edu / source 1",
+        "url": "https://www.rit.edu/facilities/adaptive-human-robot-teaming-lab",
+        "summary": "Current institutional Associate Professor title, email, AHRT research and Spot image.",
+        "verifiedAt": "2026-09-30T22:26:44Z"
+      },
+      {
+        "id": "s2",
+        "label": "ahrtlab.github.io / source 2",
+        "url": "https://ahrtlab.github.io/research/",
+        "summary": "Lab's human-aware RL and multimodal state-modeling methods.",
+        "verifiedAt": "2026-09-30T22:26:44Z"
+      },
+      {
+        "id": "s3",
+        "label": "ahrtlab.github.io / source 3",
+        "url": "https://ahrtlab.github.io/join/",
+        "summary": "Full recruiting page specifies degree admissions and usually no MS funding; no external short-visit invitation.",
+        "verifiedAt": "2026-09-30T22:26:44Z"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2606.23339v1",
+        "summary": "Primary 2026 NAO live interaction methods, section V; pilot limited to four lab members.",
+        "verifiedAt": "2026-09-30T22:26:44Z"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/abs/2602.02530",
+        "summary": "2026 off-policy evaluation methodology; environments are not physical robots.",
+        "verifiedAt": "2026-09-30T22:26:44Z"
+      }
+    ],
+    "unknowns": [
+      "No eight-week summer 2027 slot, funding or remote arrangement was confirmed; any self-funded visit requires institutional approval.",
+      "The current RIT facilities page says Associate Professor; the lab people page and some program pages still say Assistant Professor.",
+      "Some projects receive defense-related support; project eligibility must be assessed by the institution, without inferring access restrictions from affiliation alone.",
+      "NASA-MATB-II and Lunar Lander experiments are simulated/computer-task environments and were not counted as physical-robot evidence.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "jrheee@rit.edu"
+  },
+  {
+    "id": "maria-kyrarini",
+    "name": "Maria Kyrarini",
+    "aliases": [],
+    "school": "Santa Clara University",
+    "homepage": "https://www.scu.edu/engineering/faculty/kyrarini-maria/",
+    "title": "Assistant Professor; David Packard Jr. Faculty Fellow",
+    "department": "Electrical and Computer Engineering",
+    "batch": "hri-008",
+    "discoveredAt": "2026-09-30T22:23:11Z",
+    "verifiedAt": "2026-09-30T22:26:44Z",
+    "researchAreas": [
+      "Robot learning from demonstration",
+      "Language-grounded human-robot collaboration",
+      "Assistive mobile manipulation",
+      "Human-state estimation"
+    ],
+    "fitReason": "Excellent fit for language-to-action systems, learning from demonstrations and human-aware mobile manipulation. The concrete collaborative-cooking and fatigue-modeling work is more directly aligned with embodied AI than rehabilitation hardware alone.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "A 2024 university thesis advised by Kyrarini documents an assistive mobile manipulator evaluated with 10 participants. The lab's 2026 Speech2Action journal paper extends a speech-driven collaborative-cooking line with real robot object delivery; its available preprint dates to 2023, so it is not asserted that the experiment itself occurred in 2026.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No explicit current external master's short visit or summer internship invitation was verified on the official faculty and HMI2 pages. Local master's/capstone supervision and general lab contact are not an external summer opening.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 40,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "direct language-grounded assistive manipulation and robot learning.",
+      "physical": "actual robot studies but older experiment dates.",
+      "shortVisit": "no explicit route.",
+      "freshness": "official lab lists 2026 IEEE Access work."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.scu.edu / source 1",
+        "url": "https://www.scu.edu/engineering/faculty/kyrarini-maria/",
+        "summary": "Official current title, email, robot learning and assistive HRI.",
+        "verifiedAt": "2026-09-30T22:26:44Z"
+      },
+      {
+        "id": "s2",
+        "label": "sites.google.com / source 2",
+        "url": "https://sites.google.com/view/hmi2lab/home",
+        "summary": "Officially associated lab mission in HRI and AI-powered assistive systems.",
+        "verifiedAt": "2026-09-30T22:26:44Z"
+      },
+      {
+        "id": "s3",
+        "label": "sites.google.com / source 3",
+        "url": "https://sites.google.com/view/hmi2lab/publications",
+        "summary": "2026 Speech2Action and temporal cognitive-fatigue papers; primary lab publication list.",
+        "verifiedAt": "2026-09-30T22:26:44Z"
+      },
+      {
+        "id": "s4",
+        "label": "scholarcommons.scu.edu / source 4",
+        "url": "https://scholarcommons.scu.edu/elec_senior/90/",
+        "summary": "2024 university thesis identifies Kyrarini as advisor and real mobile-manipulator pilot with ten adults.",
+        "verifiedAt": "2026-09-30T22:26:44Z"
+      },
+      {
+        "id": "s5",
+        "label": "par.nsf.gov / source 5",
+        "url": "https://par.nsf.gov/servlets/purl/10433568",
+        "summary": "Primary author paper on robot learning from spoken language and collaborative cooking.",
+        "verifiedAt": "2026-09-30T22:26:44Z"
+      },
+      {
+        "id": "s6",
+        "label": "ieeexplore.ieee.org / source 6",
+        "url": "https://ieeexplore.ieee.org/document/11348049",
+        "summary": "Publisher landing page for 2026 Speech2Action publication; full text not retrieved by this tool.",
+        "verifiedAt": "2026-09-30T22:26:44Z"
+      }
+    ],
+    "unknowns": [
+      "No eight-week summer 2027 slot, funding or remote arrangement was confirmed; any self-funded visit requires institutional approval.",
+      "Physical evidence is established but the inspected experiment descriptions originate in 2023–2024; verify current platform and project access.",
+      "A language/perception module on an existing robot would need a bounded deliverable and HRI protocol approval where applicable.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "mkyrarini@scu.edu"
+  }
+]

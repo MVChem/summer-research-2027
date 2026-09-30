@@ -30,7 +30,8 @@
     "batches/hri-004.json",
     "batches/hri-005.json",
     "batches/hri-006.json",
-    "batches/hri-007.json"
+    "batches/hri-007.json",
+    "batches/hri-008.json"
   ],
   "candidates": [
     {
@@ -4886,6 +4887,112 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-007.json",
       "detailPage": "batches/hri-007.md#ann-majewicz-fey"
+    },
+    {
+      "id": "mark-draelos",
+      "name": "Mark Draelos",
+      "aliases": [],
+      "school": "University of Michigan",
+      "title": "Assistant Professor",
+      "homepage": "https://robotics.umich.edu/people/faculty/mark-draelos/",
+      "batch": "hri-008",
+      "discoveredAt": "2026-09-30T22:20:58Z",
+      "verifiedAt": "2026-09-30T22:26:44Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Image-guided robotics",
+        "3D perception and volumetric reconstruction",
+        "Medical robot autonomy",
+        "Human-robot interaction",
+        "Real-time algorithms"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-008.json",
+      "detailPage": "batches/hri-008.md#mark-draelos"
+    },
+    {
+      "id": "patrick-slade",
+      "name": "Patrick Slade",
+      "aliases": [],
+      "school": "Harvard University",
+      "title": "Assistant Professor",
+      "homepage": "https://seas.harvard.edu/person/patrick-slade",
+      "batch": "hri-008",
+      "discoveredAt": "2026-09-30T22:22:12Z",
+      "verifiedAt": "2026-09-30T22:26:44Z",
+      "scores": {
+        "fit": 37,
+        "physical": 24,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-centered AI",
+        "Personalized robot assistance",
+        "Human-in-the-loop optimization",
+        "Wearable robotics",
+        "Assistive perception"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-008.json",
+      "detailPage": "batches/hri-008.md#patrick-slade"
+    },
+    {
+      "id": "jamison-heard",
+      "name": "Jamison Heard",
+      "aliases": [],
+      "school": "Rochester Institute of Technology",
+      "title": "Associate Professor",
+      "homepage": "https://www.rit.edu/facilities/adaptive-human-robot-teaming-lab",
+      "batch": "hri-008",
+      "discoveredAt": "2026-09-30T22:23:01Z",
+      "verifiedAt": "2026-09-30T22:26:44Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-aware reinforcement learning",
+        "Multimodal human-state modeling",
+        "Embodied LLM evaluation",
+        "Adaptive human-robot teaming"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-008.json",
+      "detailPage": "batches/hri-008.md#jamison-heard"
+    },
+    {
+      "id": "maria-kyrarini",
+      "name": "Maria Kyrarini",
+      "aliases": [],
+      "school": "Santa Clara University",
+      "title": "Assistant Professor; David Packard Jr. Faculty Fellow",
+      "homepage": "https://www.scu.edu/engineering/faculty/kyrarini-maria/",
+      "batch": "hri-008",
+      "discoveredAt": "2026-09-30T22:23:11Z",
+      "verifiedAt": "2026-09-30T22:26:44Z",
+      "scores": {
+        "fit": 40,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Robot learning from demonstration",
+        "Language-grounded human-robot collaboration",
+        "Assistive mobile manipulation",
+        "Human-state estimation"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-008.json",
+      "detailPage": "batches/hri-008.md#maria-kyrarini"
     }
   ]
 }

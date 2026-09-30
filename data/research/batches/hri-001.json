@@ -379,7 +379,7 @@
     "department": "Sibley School of Mechanical and Aerospace Engineering",
     "batch": "hri-001",
     "discoveredAt": "2026-09-30T21:22:19Z",
-    "verifiedAt": "2026-09-30T21:27:42Z",
+    "verifiedAt": "2026-09-30T23:50:53Z",
     "researchAreas": [
       "Human-robot collaboration",
       "Robot companionship",
@@ -389,12 +389,14 @@
     "fitReason": "Good match for physically grounded human-AI collaboration, timing/fluency and socially aware perception. The ShadowSense project offers a concrete bridge from computer vision to embodied interaction.",
     "physicalEvidence": {
       "status": "public-hardware-evidence",
-      "summary": "HRC²'s ShadowSense project places a camera inside a robot body to recognize touch gestures through shadows, with experimental evaluation of six gestures under varied lighting. The lab also studies co-present human-robot collaborative design.",
+      "summary": "HRC²'s ShadowSense project places a camera inside a robot body to recognize touch gestures through shadows, with experimental evaluation of six gestures under varied lighting. The lab also studies co-present human-robot collaborative design. Later 2026 evidence includes teleoperated-arm videos evaluated online by 326 people and a collaborative teleoperated MirrorBot study; neither establishes autonomous robot learning or an independent current lab inventory.",
       "sourceIds": [
         "s1",
         "s2",
         "s3",
-        "s4"
+        "s4",
+        "s5",
+        "s6"
       ]
     },
     "shortVisit": {
@@ -411,13 +413,13 @@
       "fit": 36,
       "physical": 20,
       "shortVisit": 0,
-      "freshness": 5
+      "freshness": 15
     },
     "scoreReasons": {
       "fit": "strong embodied-collaboration/perception relevance.",
       "physical": "Concrete physical ShadowSense setup is documented, but the selected project and recruiting evidence is older.",
       "shortVisit": "no matching short-visit route.",
-      "freshness": "Current faculty affiliation is verified; concrete project/news evidence is older or undated, without cited 2025–2026 update."
+      "freshness": "Dated March 2026 primary robot-error study and April 2026 Cornell report establish current research activity."
     },
     "sources": [
       {
@@ -447,6 +449,22 @@
         "url": "https://hrc2.io/news/",
         "summary": "Visible recruiting news includes old postdoctoral posting, not a summer master's role.",
         "verifiedAt": "2026-09-30T21:27:42Z"
+      },
+      {
+        "id": "s5",
+        "label": "2026 robot reliability study",
+        "url": "https://arxiv.org/html/2603.08821v1",
+        "summary": "A teleoperated real arm produced videos viewed remotely by 326 analyzed participants; not a 326-person physical lab trial or autonomous policy deployment.",
+        "verifiedAt": "2026-09-30T23:50:53Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "Cornell 2026 MirrorBot report",
+        "url": "https://news.cornell.edu/stories/2026/04/mirrorbot-fostering-human-connection",
+        "summary": "Teleoperated collaborative prototype built in Keith Evan Green’s lab; sixteen pairs, preset mirror positions, no independent Hoffman inventory established.",
+        "verifiedAt": "2026-09-30T23:50:53Z",
+        "retrieval": "direct-primary-page"
       }
     ],
     "unknowns": [
@@ -653,23 +671,24 @@
     "department": "Media Arts and Sciences, Media Lab",
     "batch": "hri-001",
     "discoveredAt": "2026-09-30T21:22:19Z",
-    "verifiedAt": "2026-09-30T21:27:42Z",
+    "verifiedAt": "2026-09-30T23:43:05Z",
     "researchAreas": [
       "Social robotics",
       "Personalized robot companions",
       "Human-robot interaction",
       "Conversational and affective embodied AI"
     ],
-    "fitReason": "Good fit for physically embodied conversational AI and long-term human-robot interaction. The technical match is strongest for research on personalization, social learning or multimodal interaction rather than dexterous manipulation.",
+    "fitReason": "Current multimodal embodied conversation, active perception and tool-mediated gaze provide a concrete software-centered robot-AI research direction.",
     "physicalEvidence": {
       "status": "public-hardware-evidence",
-      "summary": "The Personal Robots group develops and studies physical Jibo companions. Its Huggable platform includes touch sensors, actuators, cameras and a teleoperation interface; MIT reports real-world robot research and visiting students in the group.",
+      "summary": "February 2026 MIT-led work uses physical Jibo for multimodal dialogue, perception and tool-mediated gaze, with an additional Reachy Mini implementation. Its 24 videos are rated by two expert annotators, not 24 participants; this is a small controlled preprint evaluation, not broad field deployment.",
       "sourceIds": [
         "s1",
         "s2",
         "s3",
         "s4",
-        "s5"
+        "s5",
+        "s6"
       ]
     },
     "shortVisit": {
@@ -684,16 +703,16 @@
       ]
     },
     "scores": {
-      "fit": 34,
-      "physical": 20,
+      "fit": 38,
+      "physical": 25,
       "shortVisit": 0,
-      "freshness": 5
+      "freshness": 15
     },
     "scoreReasons": {
-      "fit": "strong social/conversational embodiment but weaker manipulation match.",
-      "physical": "Physical companion platforms are documented; the concrete deployment and visitor report cited is from 2023.",
+      "fit": "Concrete multimodal perception, active attention and language-model tool use on a physical social robot.",
+      "physical": "Named current physical embodiments and directly documented experimental setup.",
       "shortVisit": "visitor precedent is not a present invitation.",
-      "freshness": "Current faculty page is verified, but the dated concrete source is from 2023; current recruitment is unconfirmed."
+      "freshness": "Explicit February 2026 primary study supplements older platform evidence."
     },
     "sources": [
       {
@@ -730,13 +749,22 @@
         "url": "https://cynthiabreazeal.media.mit.edu/contact/urops/",
         "summary": "UROP interest invitation, not established eligibility for graduate visitors.",
         "verifiedAt": "2026-09-30T21:27:42Z"
+      },
+      {
+        "id": "s6",
+        "label": "2026 situated robot conversation preprint",
+        "url": "https://arxiv.org/html/2602.04157v1",
+        "summary": "MIT-led physical Jibo evaluation and additional Reachy Mini implementation; 24 videos, six scenarios, four variants, two annotators. Small controlled preprint study, not a 24-participant field trial.",
+        "verifiedAt": "2026-09-30T23:43:05Z",
+        "retrieval": "direct-primary-full-paper"
       }
     ],
     "unknowns": [
       "No current external master's short-visit invitation or eight-week slot was verified.",
       "UROP and graduate-admissions pathways must not be presented as summer visitor eligibility.",
       "A faculty-hosted visitor arrangement, institutional permission for self-funding, access and supervision require confirmation.",
-      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "The February 2026 manuscript is a preprint; no conference acceptance or new visitor opening is inferred. MIT visiting-student funding and category requirements still apply."
     ],
     "publicEmail": "cynthiab@media.mit.edu"
   },

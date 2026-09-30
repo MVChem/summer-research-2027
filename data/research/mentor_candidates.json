@@ -4069,12 +4069,12 @@
       "homepage": "https://www.cs.cornell.edu/people/guy-hoffman",
       "batch": "hri-001",
       "discoveredAt": "2026-09-30T21:22:19Z",
-      "verifiedAt": "2026-09-30T21:27:42Z",
+      "verifiedAt": "2026-09-30T23:50:53Z",
       "scores": {
         "fit": 36,
         "physical": 20,
         "shortVisit": 0,
-        "freshness": 5
+        "freshness": 15
       },
       "researchAreas": [
         "Human-robot collaboration",
@@ -4147,12 +4147,12 @@
       "homepage": "https://www.media.mit.edu/people/cynthiab/overview/",
       "batch": "hri-001",
       "discoveredAt": "2026-09-30T21:22:19Z",
-      "verifiedAt": "2026-09-30T21:27:42Z",
+      "verifiedAt": "2026-09-30T23:43:05Z",
       "scores": {
-        "fit": 34,
-        "physical": 20,
+        "fit": 38,
+        "physical": 25,
         "shortVisit": 0,
-        "freshness": 5
+        "freshness": 15
       },
       "researchAreas": [
         "Social robotics",

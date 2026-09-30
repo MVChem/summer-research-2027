@@ -1,0 +1,306 @@
+[
+  {
+    "id": "patrick-m-wensing",
+    "name": "Patrick M. Wensing",
+    "aliases": [],
+    "school": "University of Notre Dame",
+    "homepage": "https://roamlab.nd.edu/",
+    "title": "Wanzek Family Foundation Collegiate Professor of Engineering; lab biography lists Associate Professor",
+    "department": "Aerospace and Mechanical Engineering",
+    "batch": "embodied-013",
+    "discoveredAt": "2026-09-30T23:01:38Z",
+    "verifiedAt": "2026-09-30T23:06:18Z",
+    "researchAreas": [
+      "Cross-embodiment robot learning",
+      "Diffusion locomotion policies",
+      "Residual reinforcement learning",
+      "Robot dynamics and identification",
+      "Assistive robot control"
+    ],
+    "fitReason": "Multi-Loco (CoRL2025 per official lab publication list) combines a morphology-agnostic diffusion policy and shared RL residual for heterogeneous legged robots. This is a specific modern robot-learning connection alongside the lab’s broader optimization and assistive-control research.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The primary Multi-Loco paper documents real deployment on point-foot biped, wheeled biped, humanoid and quadruped platforms, controlled at50Hz through EtherCAT on an Intel i9 CPU. Appendix Go2 unseen-platform transfer is simulation and is not added as another demonstrated real robot.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The current join page describes graduate-school admission and undergraduate research, with an old2024–25 undergraduate pause. It gives no current external short-term master’s route; the old pause is not interpreted as a summer2027 prohibition.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "Direct generative cross-embodiment policy and residual-RL fit.",
+      "physical": "Four physical embodiments are verified in an international collaboration, not a Notre Dame-local hardware inventory.",
+      "shortVisit": "No current external short-visit invitation; degree recruiting not scored.",
+      "freshness": "Inspected dated primary hardware evidence is from June 2025; current role verification alone does not establish new 2026 research."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.nd.edu / source 1",
+        "url": "https://engineering.nd.edu/faculty/patrick-wensing/",
+        "summary": "Official current title, department, email and robot-control areas.",
+        "verifiedAt": "2026-09-30T23:06:18Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "roamlab.nd.edu / source 2",
+        "url": "https://roamlab.nd.edu/people/patrick-wensing/",
+        "summary": "Lab biography lists Associate Professor2022–present and email.",
+        "verifiedAt": "2026-09-30T23:06:18Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "roamlab.nd.edu / source 3",
+        "url": "https://roamlab.nd.edu/publications/",
+        "summary": "Official publication list confirms CoRL2025 Multi-Loco and model-learning/control work.",
+        "verifiedAt": "2026-09-30T23:06:18Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "roamlab.nd.edu / source 4",
+        "url": "https://roamlab.nd.edu/join-us/",
+        "summary": "Degree-admission route and older undergraduate pause, no explicit external short visit.",
+        "verifiedAt": "2026-09-30T23:06:18Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2506.11470v1",
+        "summary": "Primary Multi-Loco paper, Section3.2.3 real four-platform deployment; AppendixA.6 Go2 is explicitly simulation.",
+        "verifiedAt": "2026-09-30T23:06:18Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "roamlab.nd.edu / source 6",
+        "url": "https://roamlab.nd.edu/news/",
+        "summary": "Current May2026 lab activity.",
+        "verifiedAt": "2026-09-30T23:06:18Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "College faculty directory uses the endowed collegiate-professor title, while lab biography says associate professor since2022; avoid silently inferring promotion rank. Multi-Loco is an international collaboration, so publication hardware is not proof of access at Notre Dame. No summer or eight-week hosting commitment established.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "pwensing@nd.edu"
+  },
+  {
+    "id": "xiaonan-sean-huang",
+    "name": "Xiaonan (Sean) Huang",
+    "aliases": [],
+    "school": "University of Michigan, Ann Arbor",
+    "homepage": "https://robotics.umich.edu/people/faculty/xiaonan-sean-huang/",
+    "title": "Assistant Professor",
+    "department": "Robotics",
+    "batch": "embodied-013",
+    "discoveredAt": "2026-09-30T23:01:23Z",
+    "verifiedAt": "2026-09-30T23:06:18Z",
+    "researchAreas": [
+      "Foundation-model robot design",
+      "Soft embodied intelligence",
+      "Sim-to-real morphology evaluation",
+      "Reinforcement learning for soft robots"
+    ],
+    "fitReason": "RoboCrafter-QA studies whether a fine-tuned foundation model can select and generate functional soft-robot designs. The RoboSoft2026 conference program confirms the recent project; the primary study includes physical design verification rather than only a simulator benchmark.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The author paper fabricates LLM-generated modular5x5 voxel robots from soft/rigid elastomers, magnets and pneumatic actuators, then compares their real forward motion. This supports embodied design learning; it does not show an LLM directly executing a closed-loop manipulation policy.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No external short-term master’s visitor invitation was verified. The lab contact page returned little searchable text and a repeated Cloudflare verification page in the cloud browser, so it is not treated as a successfully reviewed recruitment page.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 24,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Concrete foundation-model embodied design, with specialized soft-robot emphasis.",
+      "physical": "Fabricated LLM-generated designs and comparative locomotion, not direct VLA manipulation deployment.",
+      "shortVisit": "Visitor terms remain unverified, including blocked contact page.",
+      "freshness": "RoboSoft2026 confirmation and September2026 activity, primary physical report late2025."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "robotics.umich.edu / source 1",
+        "url": "https://robotics.umich.edu/people/faculty/xiaonan-sean-huang/",
+        "summary": "Current official assistant professor and email.",
+        "verifiedAt": "2026-09-30T23:06:18Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "arxiv.org / source 2",
+        "url": "https://arxiv.org/html/2503.02249v2",
+        "summary": "Primary November2025 version, SectionIV-F: fabrication and testing of LLM-generated physical voxel designs; controller and friction limitations stated.",
+        "verifiedAt": "2026-09-30T23:06:18Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "www.robosoft2026.org / source 3",
+        "url": "https://www.robosoft2026.org/wp-content/uploads/2026/03/FullProgram_20260331.pdf",
+        "summary": "Official RoboSoft2026 program lists Natural Selection via Foundation Models for Soft Robot Evolution.",
+        "verifiedAt": "2026-09-30T23:06:18Z",
+        "retrieval": "indexed-primary-excerpt"
+      },
+      {
+        "id": "s4",
+        "label": "robotics.umich.edu / source 4",
+        "url": "https://robotics.umich.edu/news/2026/michigan-robotics-at-iros-2026-in-pittsburgh/",
+        "summary": "September2026 university news verifies current lab activity; implicit-time-step learning is explicitly a simulation study.",
+        "verifiedAt": "2026-09-30T23:06:18Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "soft.robotics.umich.edu / source 5",
+        "url": "https://soft.robotics.umich.edu/contact/",
+        "summary": "Searchable body incomplete; live browser reached repeated Cloudflare verification, no recruitment terms established.",
+        "verifiedAt": "2026-09-30T23:06:18Z",
+        "retrieval": "unavailable-live-browser-verification-block"
+      }
+    ],
+    "unknowns": [
+      "Robotics faculty directory verifies current appointment and public email. The specific hardware study’s accessible primary version is November2025, with RoboSoft2026 program corroboration. The September2026 fast-soft-RL simulator study is simulation evidence only. Exact campus presence and visitor capacity in summer2027 remain unknown.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "xiaonanh@umich.edu"
+  },
+  {
+    "id": "yanran-ding",
+    "name": "Yanran Ding",
+    "aliases": [],
+    "school": "University of Michigan, Ann Arbor",
+    "homepage": "https://sites.google.com/umich.edu/arcad-lab/",
+    "title": "Assistant Professor",
+    "department": "Robotics",
+    "batch": "embodied-013",
+    "discoveredAt": "2026-09-30T23:01:06Z",
+    "verifiedAt": "2026-09-30T23:06:18Z",
+    "researchAreas": [
+      "Robot reinforcement learning",
+      "Differentiable co-design",
+      "Legged locomotion",
+      "Design-conditioned policies"
+    ],
+    "fitReason": "SurGE (IROS 2026 per current lab news) combines a PPO-trained design-aware control policy with differentiable surrogate dynamics and evolutionary optimization of compliant legged robots.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The primary June2026 paper tests three physically adjusted MUPS-v2 hopper designs. A learned policy runs at50Hz on an external workstation and commands the real robot through an onboard Raspberry Pi, with encoders and IMU for state estimation.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current lab, faculty and project pages verify active research but no explicit external short-term master’s invitation was found. Current graduate members are mentoring precedent, not availability.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct neural policy/co-design fit, more specialized than broad manipulation or VLA.",
+      "physical": "Explicit physical MUPS-v2 deployment of learned control, with architecture and experiment details.",
+      "shortVisit": "No external summer visitor pathway verified.",
+      "freshness": "June2026 primary hardware study and September2026 active lab."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "robotics.umich.edu / source 1",
+        "url": "https://robotics.umich.edu/people/faculty/yanran-ding/",
+        "summary": "Official current Assistant Professor of Robotics and email.",
+        "verifiedAt": "2026-09-30T23:06:18Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "sites.google.com / source 2",
+        "url": "https://sites.google.com/umich.edu/arcad-lab/",
+        "summary": "September2026 activity, learning/control mission and June2026 IROS acceptance for SurGE.",
+        "verifiedAt": "2026-09-30T23:06:18Z",
+        "retrieval": "direct-browser-primary"
+      },
+      {
+        "id": "s3",
+        "label": "arcad-lab-um.github.io / source 3",
+        "url": "https://arcad-lab-um.github.io/surge-codesign/",
+        "summary": "Primary project names authors, trained design-aware policy and real MUPS-v2 hardware.",
+        "verifiedAt": "2026-09-30T23:06:18Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2606.21866v1",
+        "summary": "SectionsIII-A andV-D explicitly distinguish PPO policy learning and three-design physical hardware validation.",
+        "verifiedAt": "2026-09-30T23:06:18Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "This is learned locomotion and robot co-design, not a VLA or general-purpose manipulation lab. Hardware validation is a three-design test in a two-dimensional spring-design subspace; do not treat the full four-dimensional simulated sweep as physical validation.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "yanrand@umich.edu"
+  }
+]

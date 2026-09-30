@@ -34,6 +34,7 @@
     "batches/embodied-010.json",
     "batches/embodied-011.json",
     "batches/embodied-012.json",
+    "batches/embodied-013.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -3708,6 +3709,85 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-012.json",
       "detailPage": "batches/embodied-012.md#zhiyu-huang"
+    },
+    {
+      "id": "patrick-m-wensing",
+      "name": "Patrick M. Wensing",
+      "aliases": [],
+      "school": "University of Notre Dame",
+      "title": "Wanzek Family Foundation Collegiate Professor of Engineering; lab biography lists Associate Professor",
+      "homepage": "https://roamlab.nd.edu/",
+      "batch": "embodied-013",
+      "discoveredAt": "2026-09-30T23:01:38Z",
+      "verifiedAt": "2026-09-30T23:06:18Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Cross-embodiment robot learning",
+        "Diffusion locomotion policies",
+        "Residual reinforcement learning",
+        "Robot dynamics and identification",
+        "Assistive robot control"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-013.json",
+      "detailPage": "batches/embodied-013.md#patrick-m-wensing"
+    },
+    {
+      "id": "xiaonan-sean-huang",
+      "name": "Xiaonan (Sean) Huang",
+      "aliases": [],
+      "school": "University of Michigan, Ann Arbor",
+      "title": "Assistant Professor",
+      "homepage": "https://robotics.umich.edu/people/faculty/xiaonan-sean-huang/",
+      "batch": "embodied-013",
+      "discoveredAt": "2026-09-30T23:01:23Z",
+      "verifiedAt": "2026-09-30T23:06:18Z",
+      "scores": {
+        "fit": 38,
+        "physical": 24,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Foundation-model robot design",
+        "Soft embodied intelligence",
+        "Sim-to-real morphology evaluation",
+        "Reinforcement learning for soft robots"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-013.json",
+      "detailPage": "batches/embodied-013.md#xiaonan-sean-huang"
+    },
+    {
+      "id": "yanran-ding",
+      "name": "Yanran Ding",
+      "aliases": [],
+      "school": "University of Michigan, Ann Arbor",
+      "title": "Assistant Professor",
+      "homepage": "https://sites.google.com/umich.edu/arcad-lab/",
+      "batch": "embodied-013",
+      "discoveredAt": "2026-09-30T23:01:06Z",
+      "verifiedAt": "2026-09-30T23:06:18Z",
+      "scores": {
+        "fit": 37,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Robot reinforcement learning",
+        "Differentiable co-design",
+        "Legged locomotion",
+        "Design-conditioned policies"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-013.json",
+      "detailPage": "batches/embodied-013.md#yanran-ding"
     },
     {
       "id": "henny-admoni",

@@ -27,7 +27,8 @@
     "batches/hri-003.json",
     "batches/hri-004.json",
     "batches/hri-005.json",
-    "batches/hri-006.json"
+    "batches/hri-006.json",
+    "batches/hri-007.json"
   ],
   "candidates": [
     {
@@ -4455,6 +4456,221 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-006.json",
       "detailPage": "batches/hri-006.md#chung-hyuk-park"
+    },
+    {
+      "id": "myounghoon-jeon",
+      "name": "Myounghoon Jeon",
+      "aliases": [
+        "Philart Jeon"
+      ],
+      "school": "Virginia Tech",
+      "title": "Professor",
+      "homepage": "https://trim.ise.vt.edu/people/jeon.html",
+      "batch": "hri-007",
+      "discoveredAt": "2026-09-30T22:10:50Z",
+      "verifiedAt": "2026-09-30T22:18:02Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 10,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-robot interaction",
+        "Affective computing",
+        "Assistive robotics",
+        "Multimodal robot communication"
+      ],
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/hri-007.json",
+      "detailPage": "batches/hri-007.md#myounghoon-jeon"
+    },
+    {
+      "id": "zhi-zheng",
+      "name": "Zhi Zheng",
+      "aliases": [],
+      "school": "University of Notre Dame",
+      "title": "Assistant Professor",
+      "homepage": "https://engineering.nd.edu/faculty/zhi-zheng/",
+      "batch": "hri-007",
+      "discoveredAt": "2026-09-30T22:10:50Z",
+      "verifiedAt": "2026-09-30T22:18:02Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Assistive human-robot interaction",
+        "Adaptive and personalized interaction",
+        "Behavioral health technology",
+        "Computer vision and multimodal sensing"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-007.json",
+      "detailPage": "batches/hri-007.md#zhi-zheng"
+    },
+    {
+      "id": "hasti-seifi",
+      "name": "Hasti Seifi",
+      "aliases": [],
+      "school": "Arizona State University",
+      "title": "Assistant Professor",
+      "homepage": "https://hastiseifi.com/",
+      "batch": "hri-007",
+      "discoveredAt": "2026-09-30T22:10:50Z",
+      "verifiedAt": "2026-09-30T22:18:02Z",
+      "scores": {
+        "fit": 35,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Haptics",
+        "Human-robot interaction",
+        "Human-AI interaction",
+        "Accessibility",
+        "Multimodal sensory interfaces"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-007.json",
+      "detailPage": "batches/hri-007.md#hasti-seifi"
+    },
+    {
+      "id": "cara-m-nunez",
+      "name": "Cara M. Nunez",
+      "aliases": [],
+      "school": "Cornell University",
+      "title": "Assistant Professor",
+      "homepage": "https://www.duffield.cornell.edu/people/cara-m-nunez/",
+      "batch": "hri-007",
+      "discoveredAt": "2026-09-30T22:11:06Z",
+      "verifiedAt": "2026-09-30T22:18:02Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Physical human-robot interaction",
+        "Haptics",
+        "Human-centered robot learning",
+        "Soft robotics",
+        "Medical and rehabilitation interfaces"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-007.json",
+      "detailPage": "batches/hri-007.md#cara-m-nunez"
+    },
+    {
+      "id": "r-brent-gillespie",
+      "name": "R. Brent Gillespie",
+      "aliases": [],
+      "school": "University of Michigan",
+      "title": "Professor",
+      "homepage": "https://controls.engin.umich.edu/profile/brent-gillespie/",
+      "batch": "hri-007",
+      "discoveredAt": "2026-09-30T22:11:06Z",
+      "verifiedAt": "2026-09-30T22:18:02Z",
+      "scores": {
+        "fit": 37,
+        "physical": 23,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Haptic shared control",
+        "Physical human-robot interaction",
+        "Human-autonomy coordination",
+        "Rehabilitation robotics"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-007.json",
+      "detailPage": "batches/hri-007.md#r-brent-gillespie"
+    },
+    {
+      "id": "momotaz-begum",
+      "name": "Momotaz Begum",
+      "aliases": [],
+      "school": "University of New Hampshire",
+      "title": "Associate Professor",
+      "homepage": "https://ceps.unh.edu/person/momotaz-begum",
+      "batch": "hri-007",
+      "discoveredAt": "2026-09-30T22:11:19Z",
+      "verifiedAt": "2026-09-30T22:18:02Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Robot learning from demonstration",
+        "Assistive robotics",
+        "Computer vision",
+        "Human-robot interaction",
+        "Robots for aging"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-007.json",
+      "detailPage": "batches/hri-007.md#momotaz-begum"
+    },
+    {
+      "id": "ashish-deshpande",
+      "name": "Ashish Deshpande",
+      "aliases": [],
+      "school": "University of Texas at Austin",
+      "title": "Professor",
+      "homepage": "https://me.utexas.edu/person/ashish-deshpande/",
+      "batch": "hri-007",
+      "discoveredAt": "2026-09-30T22:12:05Z",
+      "verifiedAt": "2026-09-30T22:18:02Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Physical human-robot interaction",
+        "Dexterous manipulation",
+        "Bilateral teleoperation",
+        "Wearable robotics",
+        "Rehabilitation robots"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-007.json",
+      "detailPage": "batches/hri-007.md#ashish-deshpande"
+    },
+    {
+      "id": "ann-majewicz-fey",
+      "name": "Ann Majewicz Fey",
+      "aliases": [],
+      "school": "University of Texas at Austin",
+      "title": "Professor",
+      "homepage": "https://me.utexas.edu/person/ann-majewicz-fey/",
+      "batch": "hri-007",
+      "discoveredAt": "2026-09-30T22:12:05Z",
+      "verifiedAt": "2026-09-30T22:18:02Z",
+      "scores": {
+        "fit": 37,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Medical and surgical robotics",
+        "Teleoperation",
+        "Haptics",
+        "AI-enabled human-centric modeling",
+        "Physical human-robot interaction"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-007.json",
+      "detailPage": "batches/hri-007.md#ann-majewicz-fey"
     }
   ]
 }

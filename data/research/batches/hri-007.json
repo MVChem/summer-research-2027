@@ -1,0 +1,730 @@
+[
+  {
+    "id": "myounghoon-jeon",
+    "name": "Myounghoon Jeon",
+    "aliases": [
+      "Philart Jeon"
+    ],
+    "school": "Virginia Tech",
+    "homepage": "https://trim.ise.vt.edu/people/jeon.html",
+    "title": "Professor",
+    "department": "Industrial and Systems Engineering; Computer Science (courtesy)",
+    "batch": "hri-007",
+    "discoveredAt": "2026-09-30T22:10:50Z",
+    "verifiedAt": "2026-09-30T22:18:02Z",
+    "researchAreas": [
+      "Human-robot interaction",
+      "Affective computing",
+      "Assistive robotics",
+      "Multimodal robot communication"
+    ],
+    "fitReason": "Strong fit for human-aware robot interaction, affective communication and assistive systems. A bounded robot sonification, perception or interaction-modeling project could use a CS background.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The lab's assistive-robotics page describes a physical Pepper sonification experiment and robot musical-theater activities. The concrete project descriptions are undated or older, so current hardware access and experiment dates remain to be confirmed.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "The lab explicitly invites undergraduate or graduate students enrolled at other universities to contact Jeon about short-term visits or internships. This is a direct inquiry route; no duration, funding or summer 2027 position is specified. The separate Virginia Tech undergraduate RA rules are not the visitor section.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 20,
+      "shortVisit": 10,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "direct assistive HRI and multimodal interaction.",
+      "physical": "named Pepper hardware but undated/older experiment.",
+      "shortVisit": "explicit external graduate short-visit/internship invitation.",
+      "freshness": "dated August 2026 RO-MAN work and 2026 publications."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "trim.ise.vt.edu / source 1",
+        "url": "https://trim.ise.vt.edu/people/jeon.html",
+        "summary": "Current professorship, department, lab and public email.",
+        "verifiedAt": "2026-09-30T22:18:02Z"
+      },
+      {
+        "id": "s2",
+        "label": "trim.ise.vt.edu / source 2",
+        "url": "https://trim.ise.vt.edu/opportunities.html",
+        "summary": "Visiting Scientists & Student Internships explicitly covers students enrolled at other universities, including graduate students.",
+        "verifiedAt": "2026-09-30T22:18:02Z"
+      },
+      {
+        "id": "s3",
+        "label": "trim.ise.vt.edu / source 3",
+        "url": "https://trim.ise.vt.edu/assistive-robotics-and-health-technologies.html",
+        "summary": "Physical Pepper sonification and robot musical-theater projects; no current experiment date established.",
+        "verifiedAt": "2026-09-30T22:18:02Z"
+      },
+      {
+        "id": "s4",
+        "label": "trim.ise.vt.edu / source 4",
+        "url": "https://trim.ise.vt.edu/pubs.html",
+        "summary": "Dated 2026 HRI research, including August 2026 RO-MAN work; future October conference entries are not treated as completed activity.",
+        "verifiedAt": "2026-09-30T22:18:02Z"
+      }
+    ],
+    "unknowns": [
+      "No eight-week summer 2027 slot, funding, remote arrangement or external master's eligibility was confirmed.",
+      "Any visit and self-funding arrangement require PI, department and institutional approval.",
+      "The opportunities page also contains stale COVID and fall 2025 recruitment text; confirm that the visitor invitation remains active.",
+      "Projects involving children or clinical users may need ethics approval and a scope compatible with a short visit.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "myounghoonjeon@vt.edu"
+  },
+  {
+    "id": "zhi-zheng",
+    "name": "Zhi Zheng",
+    "aliases": [],
+    "school": "University of Notre Dame",
+    "homepage": "https://engineering.nd.edu/faculty/zhi-zheng/",
+    "title": "Assistant Professor",
+    "department": "Electrical Engineering",
+    "batch": "hri-007",
+    "discoveredAt": "2026-09-30T22:10:50Z",
+    "verifiedAt": "2026-09-30T22:18:02Z",
+    "researchAreas": [
+      "Assistive human-robot interaction",
+      "Adaptive and personalized interaction",
+      "Behavioral health technology",
+      "Computer vision and multimodal sensing"
+    ],
+    "fitReason": "Good fit for adaptive socially assistive robots and multimodal interaction in behavioral-health settings. Computational perception or personalization would be more suitable than assuming access to a new clinical trial.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "RIT's September 28, 2022 institutional report documents Zheng programming a physical NAO robot to demonstrate Tai Chi. The Intelligent Interaction Research Lab moved to Notre Dame in summer 2024; the older robot evidence does not establish current Notre Dame inventory.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No explicit current external master's short-visit or summer internship pathway was verified on the reviewed official faculty and lab pages.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "adaptive assistive HRI closely matches the sector.",
+      "physical": "clear 2022 NAO system, at a prior institution.",
+      "shortVisit": "no verified route.",
+      "freshness": "August 2026 RO-MAN panel chair at Notre Dame."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.nd.edu / source 1",
+        "url": "https://engineering.nd.edu/faculty/zhi-zheng/",
+        "summary": "Current Notre Dame appointment, research and public email.",
+        "verifiedAt": "2026-09-30T22:18:02Z"
+      },
+      {
+        "id": "s2",
+        "label": "sites.google.com / source 2",
+        "url": "https://sites.google.com/view/iirl/home",
+        "summary": "Officially linked lab describes its 2024 move to Notre Dame and assistive interaction research.",
+        "verifiedAt": "2026-09-30T22:18:02Z"
+      },
+      {
+        "id": "s3",
+        "label": "www.rit.edu / source 3",
+        "url": "https://www.rit.edu/news/faculty-researchers-develop-humanoid-robotic-system-teach-tai-chi",
+        "summary": "September 2022 primary institutional report of the real NAO Tai Chi system.",
+        "verifiedAt": "2026-09-30T22:18:02Z"
+      },
+      {
+        "id": "s4",
+        "label": "ro-man2026.org / source 4",
+        "url": "https://ro-man2026.org/industrial-panel/",
+        "summary": "August 26, 2026 HRI industrial panel chair, affiliated with Notre Dame.",
+        "verifiedAt": "2026-09-30T22:18:02Z"
+      }
+    ],
+    "unknowns": [
+      "No eight-week summer 2027 slot, funding, remote arrangement or external master's eligibility was confirmed.",
+      "Any visit and self-funding arrangement require PI, department and institutional approval.",
+      "Confirm physical robot availability following the 2024 lab move.",
+      "Clinical and vulnerable-participant research requires appropriate supervision and ethics approval; an eight-week project may need existing data or a nonclinical prototype.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "zzheng3@nd.edu"
+  },
+  {
+    "id": "hasti-seifi",
+    "name": "Hasti Seifi",
+    "aliases": [],
+    "school": "Arizona State University",
+    "homepage": "https://hastiseifi.com/",
+    "title": "Assistant Professor",
+    "department": "School of Computing and Augmented Intelligence",
+    "batch": "hri-007",
+    "discoveredAt": "2026-09-30T22:10:50Z",
+    "verifiedAt": "2026-09-30T22:18:02Z",
+    "researchAreas": [
+      "Haptics",
+      "Human-robot interaction",
+      "Human-AI interaction",
+      "Accessibility",
+      "Multimodal sensory interfaces"
+    ],
+    "fitReason": "Good fit for touch-aware HRI and AI-assisted haptic interfaces. Current work also includes broader HCI and accessibility, so a specifically physical-robot project should be agreed rather than assumed.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Her 2022 coauthored work built a soft tactile-perception system for a physical NAO robot and evaluated participant interaction. This is historical Max Planck-era evidence, not confirmation that her current ASU lab has the same robot.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Her current homepage invites PhD applicants through a form. It does not verify an external master's summer visitor pathway, so no short-visit points are awarded.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 35,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "strong touch/HRI and human-AI fit, but current portfolio is wider than robotics.",
+      "physical": "clear 2022 NAO experiment at a former institution.",
+      "shortVisit": "degree recruitment only.",
+      "freshness": "institutional index lists April 2026 CHI and 2026 Haptics work."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "hastiseifi.com / source 1",
+        "url": "https://hastiseifi.com/",
+        "summary": "Current ASU CS appointment, research interests, email and PhD-only recruitment invitation.",
+        "verifiedAt": "2026-09-30T22:18:02Z"
+      },
+      {
+        "id": "s2",
+        "label": "scai.engineering.asu.edu / source 2",
+        "url": "https://scai.engineering.asu.edu/tenured-and-tenure-track/assistant-professor/hasti-seifi/",
+        "summary": "Official school affiliation.",
+        "verifiedAt": "2026-09-30T22:18:02Z"
+      },
+      {
+        "id": "s3",
+        "label": "is.mpg.de / source 3",
+        "url": "https://is.mpg.de/en/people/seifi?page=1&tab=publications",
+        "summary": "Primary institute description of 2022 social-touch perception system built for NAO.",
+        "verifiedAt": "2026-09-30T22:18:02Z"
+      },
+      {
+        "id": "s4",
+        "label": "hastiseifi.com / source 4",
+        "url": "https://hastiseifi.com/research/",
+        "summary": "Publication list distinguishes physical NAO work from simulation and video-based studies.",
+        "verifiedAt": "2026-09-30T22:18:02Z"
+      },
+      {
+        "id": "s5",
+        "label": "experts.azregents.edu / source 5",
+        "url": "https://experts.azregents.edu/en/persons/hasti-seifi/",
+        "summary": "Institutional research index gives explicit 2026 publication dates.",
+        "verifiedAt": "2026-09-30T22:18:02Z"
+      }
+    ],
+    "unknowns": [
+      "No eight-week summer 2027 slot, funding, remote arrangement or external master's eligibility was confirmed.",
+      "Any visit and self-funding arrangement require PI, department and institutional approval.",
+      "Current ASU robot inventory and access are unverified.",
+      "RCareGen is a simulation interface and a 2025 assistive-robot perceptions study is video based; neither was counted as a physical robot experiment.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "hasti.seifi@asu.edu"
+  },
+  {
+    "id": "cara-m-nunez",
+    "name": "Cara M. Nunez",
+    "aliases": [],
+    "school": "Cornell University",
+    "homepage": "https://www.duffield.cornell.edu/people/cara-m-nunez/",
+    "title": "Assistant Professor",
+    "department": "Sibley School of Mechanical and Aerospace Engineering",
+    "batch": "hri-007",
+    "discoveredAt": "2026-09-30T22:11:06Z",
+    "verifiedAt": "2026-09-30T22:18:02Z",
+    "researchAreas": [
+      "Physical human-robot interaction",
+      "Haptics",
+      "Human-centered robot learning",
+      "Soft robotics",
+      "Medical and rehabilitation interfaces"
+    ],
+    "fitReason": "Strong cross-disciplinary fit for human-guided robot learning and haptic interaction. RECON offers a concrete learning-from-demonstration connection for a CS researcher; other work is more hardware and perception oriented.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The coauthored RECON paper, revised March 3, 2025, reports a real robot experiment using human-placed beacons to reduce causal confusion in imitation learning. Her earlier soft-pump work also demonstrated physical soft actuators. Cross-lab authorship does not establish which platform would be available to a Cornell visitor.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No explicit external master's summer internship or visitor invitation was verified on the reviewed official faculty and HAPPI lab pages. Existing local MS/MEng students and outreach programs are not a visitor opening.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "human-guided robot learning and physical HRI.",
+      "physical": "The verified real robot RECON experiment is collaborative; current Cornell hardware ownership and access are unconfirmed.",
+      "shortVisit": "no verified route.",
+      "freshness": "official 2026 Haptics Symposium committee activity corroborates active affiliation; latest inspected experiment is 2025."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.duffield.cornell.edu / source 1",
+        "url": "https://www.duffield.cornell.edu/people/cara-m-nunez/",
+        "summary": "Current Cornell Assistant Professor, department and public email.",
+        "verifiedAt": "2026-09-30T22:18:02Z"
+      },
+      {
+        "id": "s2",
+        "label": "cornellhappilab.com / source 2",
+        "url": "https://cornellhappilab.com/",
+        "summary": "HAPPI lab mission and dated October 2025 research demos.",
+        "verifiedAt": "2026-09-30T22:18:02Z"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/abs/2409.13607",
+        "summary": "Primary RECON paper, revised March 2025, explicitly includes a real robot experiment and Nunez as coauthor.",
+        "verifiedAt": "2026-09-30T22:18:02Z"
+      },
+      {
+        "id": "s4",
+        "label": "cornellhappilab.com / source 4",
+        "url": "https://cornellhappilab.com/publication/",
+        "summary": "Lab publication record, including soft robotic actuator demonstration.",
+        "verifiedAt": "2026-09-30T22:18:02Z"
+      },
+      {
+        "id": "s5",
+        "label": "2026.hapticssymposium.org / source 5",
+        "url": "https://2026.hapticssymposium.org/organization/program-commitee/",
+        "summary": "Official 2026 committee lists Nunez at Cornell.",
+        "verifiedAt": "2026-09-30T22:18:02Z"
+      }
+    ],
+    "unknowns": [
+      "No eight-week summer 2027 slot, funding, remote arrangement or external master's eligibility was confirmed.",
+      "Any visit and self-funding arrangement require PI, department and institutional approval.",
+      "Confirm current project and hardware access; coauthored experiments may involve collaborators' labs.",
+      "Clinical or haptic human-participant projects may need ethics approval and experimental training.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "cmn97@cornell.edu"
+  },
+  {
+    "id": "r-brent-gillespie",
+    "name": "R. Brent Gillespie",
+    "aliases": [],
+    "school": "University of Michigan",
+    "homepage": "https://controls.engin.umich.edu/profile/brent-gillespie/",
+    "title": "Professor",
+    "department": "Mechanical Engineering; Robotics",
+    "batch": "hri-007",
+    "discoveredAt": "2026-09-30T22:11:06Z",
+    "verifiedAt": "2026-09-30T22:18:02Z",
+    "researchAreas": [
+      "Haptic shared control",
+      "Physical human-robot interaction",
+      "Human-autonomy coordination",
+      "Rehabilitation robotics"
+    ],
+    "fitReason": "Strong fit for physically grounded human-autonomy collaboration and intent negotiation. The natural CS contribution is shared-control algorithms or modeling rather than general-purpose embodied vision.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "A September 24, 2026 paper studies a shape-changing haptic negotiation interface in a 30-participant driving task. The August 2026 Michigan defense page describes mechanical coupling through a shared steering wheel and shows the physical laboratory interface. This is physical haptic hardware with a driving simulation, not evidence of an on-road autonomous vehicle experiment.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current external master's eight-week visit or summer internship invitation was verified. The HaptiX lab's current MS students are degree researchers and do not establish a visitor route.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 23,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "direct physically grounded human-autonomy teaming.",
+      "physical": "2026 physical haptic interface, with simulated vehicle environment explicitly distinguished.",
+      "shortVisit": "no route.",
+      "freshness": "September 24, 2026 primary paper."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "controls.engin.umich.edu / source 1",
+        "url": "https://controls.engin.umich.edu/profile/brent-gillespie/",
+        "summary": "Official Michigan professor profile and public email; indexed content verified, direct fetch later returned 403.",
+        "verifiedAt": "2026-09-30T22:18:02Z"
+      },
+      {
+        "id": "s2",
+        "label": "www.me.engin.umich.edu / source 2",
+        "url": "https://www.me.engin.umich.edu/people/faculty/brent-gillespie/",
+        "summary": "Official Mechanical Engineering faculty listing corroborates role; indexed content verified.",
+        "verifiedAt": "2026-09-30T22:18:02Z"
+      },
+      {
+        "id": "s3",
+        "label": "haptixlab.engin.umich.edu / source 3",
+        "url": "https://haptixlab.engin.umich.edu/haptix/people/",
+        "summary": "Current HaptiX researchers and shared-control projects.",
+        "verifiedAt": "2026-09-30T22:18:02Z"
+      },
+      {
+        "id": "s4",
+        "label": "pubmed.ncbi.nlm.nih.gov / source 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42786792/",
+        "summary": "Primary publication metadata and abstract: September 24, 2026; physical haptic interface and 30-person driving task.",
+        "verifiedAt": "2026-09-30T22:18:02Z"
+      },
+      {
+        "id": "s5",
+        "label": "events.umich.edu / source 5",
+        "url": "https://events.umich.edu/event/150781",
+        "summary": "August 2026 university defense description and image of the physical steering/haptic apparatus.",
+        "verifiedAt": "2026-09-30T22:18:02Z"
+      }
+    ],
+    "unknowns": [
+      "No eight-week summer 2027 slot, funding, remote arrangement or external master's eligibility was confirmed.",
+      "Any visit and self-funding arrangement require PI, department and institutional approval.",
+      "Confirm available haptic platform and required controls/mechatronics skills.",
+      "Physical haptic experiments may require human-subject approval; no on-road vehicle access is established.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "brentg@umich.edu"
+  },
+  {
+    "id": "momotaz-begum",
+    "name": "Momotaz Begum",
+    "aliases": [],
+    "school": "University of New Hampshire",
+    "homepage": "https://ceps.unh.edu/person/momotaz-begum",
+    "title": "Associate Professor",
+    "department": "Computer Science",
+    "batch": "hri-007",
+    "discoveredAt": "2026-09-30T22:11:19Z",
+    "verifiedAt": "2026-09-30T22:18:02Z",
+    "researchAreas": [
+      "Robot learning from demonstration",
+      "Assistive robotics",
+      "Computer vision",
+      "Human-robot interaction",
+      "Robots for aging"
+    ],
+    "fitReason": "Excellent technical fit for learning useful robot policies from non-expert demonstrations and deploying assistive robots in real homes. A contained policy-learning or perception task could align well with the CS master's profile.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The GiB primary paper, revised September 7, 2026, explicitly validates learning from mixed-quality end-user demonstrations on a Franka robot in real-world multi-step tasks as well as simulation. UNH's November 2025 report also documents the dementia-care robot project entering home testing.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No explicit current external master's short-visit invitation was verified. A general project collaboration contact and PhD recruitment do not establish summer 2027 eligibility.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "robot policy learning, perception and assistive HRI.",
+      "physical": "named real Franka experiments plus institutional home-testing evidence.",
+      "shortVisit": "no relevant route.",
+      "freshness": "September 7, 2026 paper revision."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "ceps.unh.edu / source 1",
+        "url": "https://ceps.unh.edu/person/momotaz-begum",
+        "summary": "Current Associate Professor of CS and public email.",
+        "verifiedAt": "2026-09-30T22:18:02Z"
+      },
+      {
+        "id": "s2",
+        "label": "arxiv.org / source 2",
+        "url": "https://arxiv.org/abs/2605.01529",
+        "summary": "Primary 2026 GiB paper confirms real Franka multi-step experiments.",
+        "verifiedAt": "2026-09-30T22:18:02Z"
+      },
+      {
+        "id": "s3",
+        "label": "www.unh.edu / source 3",
+        "url": "https://www.unh.edu/news/unhs-dementia-care-robot-project-enters-home-testing",
+        "summary": "November 20, 2025 institutional report of physical home testing.",
+        "verifiedAt": "2026-09-30T22:18:02Z"
+      },
+      {
+        "id": "s4",
+        "label": "robotsforaging.cs.unh.edu / source 4",
+        "url": "https://robotsforaging.cs.unh.edu/?page_id=1070",
+        "summary": "Project team and physical Stretch robot description; general contact is not a visitor invitation.",
+        "verifiedAt": "2026-09-30T22:18:02Z"
+      }
+    ],
+    "unknowns": [
+      "No eight-week summer 2027 slot, funding, remote arrangement or external master's eligibility was confirmed.",
+      "Any visit and self-funding arrangement require PI, department and institutional approval.",
+      "Clinical home testing involves vulnerable participants and established project protocols; a visitor should not assume direct patient access.",
+      "The current institutional directory says Associate Professor, superseding older personal pages that still say Assistant Professor.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "Momotaz.Begum@unh.edu"
+  },
+  {
+    "id": "ashish-deshpande",
+    "name": "Ashish Deshpande",
+    "aliases": [],
+    "school": "University of Texas at Austin",
+    "homepage": "https://me.utexas.edu/person/ashish-deshpande/",
+    "title": "Professor",
+    "department": "Walker Department of Mechanical Engineering",
+    "batch": "hri-007",
+    "discoveredAt": "2026-09-30T22:12:05Z",
+    "verifiedAt": "2026-09-30T22:18:02Z",
+    "researchAreas": [
+      "Physical human-robot interaction",
+      "Dexterous manipulation",
+      "Bilateral teleoperation",
+      "Wearable robotics",
+      "Rehabilitation robots"
+    ],
+    "fitReason": "Strong fit for human demonstration collection, force-aware teleoperation and embodied dexterity. MAESTRO's transition toward collecting robot-learning data provides a concrete CS/embodied-AI connection.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The university-linked Southwest I-Corps report dated September 2, 2025 describes MAESTRO as a wearable cable-driven exoskeleton enabling real-time robotic-hand teleoperation, hand-position/force capture and bilateral force feedback. The faculty page also identifies the lab's Harmony and ACT Hand systems.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The MAESTRO team invites research and pilot partnerships with organizations, but no explicit external master's short internship or summer visitor pathway was verified. A collaboration invitation is not treated as student eligibility.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "direct physical collaboration and demonstration data for robot learning.",
+      "physical": "detailed 2025 bilateral MAESTRO hardware.",
+      "shortVisit": "organization partnership language is not a student route.",
+      "freshness": "latest inspected concrete activity is September 2025."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "me.utexas.edu / source 1",
+        "url": "https://me.utexas.edu/person/ashish-deshpande/",
+        "summary": "Current professor, department, research and public email.",
+        "verifiedAt": "2026-09-30T22:18:02Z"
+      },
+      {
+        "id": "s2",
+        "label": "reneu.robotics.utexas.edu / source 2",
+        "url": "https://reneu.robotics.utexas.edu/",
+        "summary": "ReNeu lab mission and physical robotic systems.",
+        "verifiedAt": "2026-09-30T22:18:02Z"
+      },
+      {
+        "id": "s3",
+        "label": "swicorps.org / source 3",
+        "url": "https://swicorps.org/2025/09/maestro-hand-exoskeleton-technology-delivers-ai-powered-stroke-rehabilitation/",
+        "summary": "September 2025 university-linked I-Corps report details real wearable hardware, bilateral robot-hand teleoperation and collaboration scope.",
+        "verifiedAt": "2026-09-30T22:18:02Z"
+      }
+    ],
+    "unknowns": [
+      "No eight-week summer 2027 slot, funding, remote arrangement or external master's eligibility was confirmed.",
+      "Any visit and self-funding arrangement require PI, department and institutional approval.",
+      "Agree a software/research component compatible with the required hardware learning curve.",
+      "Institutional permission for self-funding and access to rehabilitative or teleoperation hardware remains unverified.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "ashish@austin.utexas.edu"
+  },
+  {
+    "id": "ann-majewicz-fey",
+    "name": "Ann Majewicz Fey",
+    "aliases": [],
+    "school": "University of Texas at Austin",
+    "homepage": "https://me.utexas.edu/person/ann-majewicz-fey/",
+    "title": "Professor",
+    "department": "Walker Department of Mechanical Engineering",
+    "batch": "hri-007",
+    "discoveredAt": "2026-09-30T22:12:05Z",
+    "verifiedAt": "2026-09-30T22:18:02Z",
+    "researchAreas": [
+      "Medical and surgical robotics",
+      "Teleoperation",
+      "Haptics",
+      "AI-enabled human-centric modeling",
+      "Physical human-robot interaction"
+    ],
+    "fitReason": "Strong fit for physical interaction, teleoperation and human skill augmentation. A perception or human-centric control component could fit CS training; surgical hardware and clinical requirements create additional constraints.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The January 2025 primary vortex-gripper paper presents fabricated pneumatic grasping hardware, a study across 40 curved soft surfaces and ex vivo biological-tissue experiments. It establishes physical manipulation research rather than simulation-only surgery.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current external master's short-visit or summer internship invitation was verified on the reviewed institutional pages. General graduate and undergraduate research programs do not establish eligibility for graduate visitors.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "physical HRI, teleoperation and surgical autonomy fit, with domain-specific training.",
+      "physical": "recent fabricated gripper and ex vivo trials.",
+      "shortVisit": "no verified pathway.",
+      "freshness": "inspected primary experiment dated January 2025; related 2026 DOI was not used to inflate freshness."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "me.utexas.edu / source 1",
+        "url": "https://me.utexas.edu/person/ann-majewicz-fey/",
+        "summary": "Current Professor header, department, public email and HeRo lab research.",
+        "verifiedAt": "2026-09-30T22:18:02Z"
+      },
+      {
+        "id": "s2",
+        "label": "robotics.utexas.edu / source 2",
+        "url": "https://robotics.utexas.edu/node/265",
+        "summary": "Texas Robotics lists HeRo and medical/surgical robotics, haptics and physical HRI.",
+        "verifiedAt": "2026-09-30T22:18:02Z"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/abs/2501.07832",
+        "summary": "Primary January 2025 vortex-gripper paper describes physical devices and ex vivo validation.",
+        "verifiedAt": "2026-09-30T22:18:02Z"
+      }
+    ],
+    "unknowns": [
+      "No eight-week summer 2027 slot, funding, remote arrangement or external master's eligibility was confirmed.",
+      "Any visit and self-funding arrangement require PI, department and institutional approval.",
+      "Current faculty header says Professor; the biography's associate-professor wording describes her 2020 arrival.",
+      "Ex vivo surgical studies and any clinical systems require training, approvals and a bounded project; clinical access is not presumed.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "ann.majewiczfey@utexas.edu"
+  }
+]

@@ -24,6 +24,7 @@
     "batches/control-013.json",
     "batches/control-014.json",
     "batches/control-015.json",
+    "batches/control-016.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -1927,6 +1928,35 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-015.json",
       "detailPage": "batches/control-015.md#yi-guo"
+    },
+    {
+      "id": "ryan-k-cosner",
+      "name": "Ryan K. Cosner",
+      "aliases": [
+        "Ryan Cosner"
+      ],
+      "school": "Tufts University",
+      "title": "Glenn R. Stevens Assistant Professor",
+      "homepage": "https://www.rkcosner.com/",
+      "batch": "control-016",
+      "discoveredAt": "2026-09-30T23:31:29Z",
+      "verifiedAt": "2026-09-30T23:34:18Z",
+      "scores": {
+        "fit": 40,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "safe robot learning",
+        "model-assisted reinforcement learning",
+        "risk-aware control",
+        "control barrier functions",
+        "perceptive humanoid locomotion"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-016.json",
+      "detailPage": "batches/control-016.md#ryan-k-cosner"
     },
     {
       "id": "tom-silver",

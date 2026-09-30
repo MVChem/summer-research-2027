@@ -1,0 +1,115 @@
+[
+  {
+    "id": "ryan-k-cosner",
+    "name": "Ryan K. Cosner",
+    "aliases": [
+      "Ryan Cosner"
+    ],
+    "school": "Tufts University",
+    "homepage": "https://www.rkcosner.com/",
+    "title": "Glenn R. Stevens Assistant Professor",
+    "department": "Mechanical Engineering",
+    "batch": "control-016",
+    "discoveredAt": "2026-09-30T23:31:29Z",
+    "verifiedAt": "2026-09-30T23:34:18Z",
+    "researchAreas": [
+      "safe robot learning",
+      "model-assisted reinforcement learning",
+      "risk-aware control",
+      "control barrier functions",
+      "perceptive humanoid locomotion"
+    ],
+    "fitReason": "Directly combines model-based safety with robot reinforcement learning and deployable perception/control. Current Tufts-led humanoid experiments establish a particularly strong learning-plus-hardware match.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "MARCH (June 9, 2026), coauthored by two Tufts researchers, trains a model-guided RL teacher and distills it into a vision/proprioception student. Section 6.2 deploys the student on an actual Unitree G1 using onboard Jetson Orin NX and chest-mounted RealSense D435i at about 50 Hz, traversing four stepping stones. The authors acknowledge hardware repeatability below simulation; no unconditional safety guarantee or benchmark success rate is inferred.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current join page directs undergraduate/master's recruiting to Tufts students. Its April 2026 RF/RI flyer explicitly requires current Tufts enrollment. Research Intern roles may span summer, but volunteer Research Affiliate roles are only fall/spring and unavailable in summer. No external visiting-master's application route is verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 40,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Safety-critical learning, model-assisted RL and physical humanoid control directly match the research theme.",
+      "physical": "Current Tufts-authored work documents actual onboard G1 deployment, not solely prior Caltech collaboration or planned hardware.",
+      "shortVisit": "Published RF/RI opportunities require Tufts enrollment; outside visiting-master's route unknown.",
+      "freshness": "June 2026 primary hardware/learning paper plus current official Tufts role and April 2026 recruitment flyer."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.tufts.edu / source 1",
+        "url": "https://engineering.tufts.edu/me/people/faculty/ryan-cosner",
+        "summary": "Official current endowed assistant-professor title, department, public email and research areas.",
+        "verifiedAt": "2026-09-30T23:34:18Z",
+        "retrieval": "direct official HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "www.rkcosner.com / source 2",
+        "url": "https://www.rkcosner.com/",
+        "summary": "Current Tufts appointment and SPARC direction at the intersection of robot learning and safe control.",
+        "verifiedAt": "2026-09-30T23:34:18Z",
+        "retrieval": "direct author HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "sites.tufts.edu / source 3",
+        "url": "https://sites.tufts.edu/sparc/join-the-sparc-lab/",
+        "summary": "Current recruitment headers specify prospective PhD students and Tufts undergraduate/master's students; expanded local section links the April 2026 flyer.",
+        "verifiedAt": "2026-09-30T23:34:18Z",
+        "retrieval": "direct cloud-browser official lab page, expanded local section at 2026-09-30T23:33:21Z after web.run 502; public web search succeeded"
+      },
+      {
+        "id": "s4",
+        "label": "bpb-us-e1.wpmucdn.com / source 4",
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.tufts.edu/dist/e/8346/files/2026/04/SPARC_Lab_RF___RI_Opportunities_updated_4_13.pdf",
+        "summary": "Two-page university-linked flyer requires current Tufts enrollment; paid/for-credit RI includes summer, volunteer RF does not. Equipment list is explicitly planned.",
+        "verifiedAt": "2026-09-30T23:34:18Z",
+        "retrieval": "direct university-linked PDF full text via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/abs/2606.10288",
+        "summary": "June 9, 2026 MARCH preprint, Codrin Crismariu and Ryan K. Cosner authorship.",
+        "verifiedAt": "2026-09-30T23:34:18Z",
+        "retrieval": "direct author manuscript abstract via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2606.10288v1",
+        "summary": "Tufts affiliations, model-assisted RL and hardware Section 6.2; limitations explicitly acknowledge less repeatable physical transfer.",
+        "verifiedAt": "2026-09-30T23:34:18Z",
+        "retrieval": "direct primary manuscript HTML via web.run"
+      }
+    ],
+    "unknowns": [
+      "The local internship listing cannot establish outside-student eligibility. External appointment, host capacity, eight-week duration, 2027 dates and financial arrangements remain unresolved. A generic FAQ reference to visiting researchers is not an application invitation. MARCH was read as a June 2026 preprint; no conference acceptance is claimed from the video URL. Older recruitment equipment plans do not substitute for current hardware evidence.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "ryan.cosner@tufts.edu"
+  }
+]

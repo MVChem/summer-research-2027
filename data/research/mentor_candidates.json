@@ -30,6 +30,7 @@
     "batches/embodied-008.json",
     "batches/embodied-009.json",
     "batches/embodied-010.json",
+    "batches/embodied-011.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -3536,6 +3537,60 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-010.json",
       "detailPage": "batches/embodied-010.md#anand-bhattad"
+    },
+    {
+      "id": "xusheng-luo",
+      "name": "Xusheng Luo",
+      "aliases": [],
+      "school": "North Carolina State University",
+      "title": "Assistant Professor",
+      "homepage": "https://xushengluo92.github.io/",
+      "batch": "embodied-011",
+      "discoveredAt": "2026-09-30T22:47:45Z",
+      "verifiedAt": "2026-09-30T22:50:54Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 5,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Neuro-symbolic robot learning",
+        "Visuomotor imitation",
+        "Task-structure discovery",
+        "Safe manipulation",
+        "Task and motion planning"
+      ],
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/embodied-011.json",
+      "detailPage": "batches/embodied-011.md#xusheng-luo"
+    },
+    {
+      "id": "pratap-tokekar",
+      "name": "Pratap Tokekar",
+      "aliases": [],
+      "school": "University of Maryland, College Park",
+      "title": "Associate Professor",
+      "homepage": "https://raaslab.org/",
+      "batch": "embodied-011",
+      "discoveredAt": "2026-09-30T22:47:45Z",
+      "verifiedAt": "2026-09-30T22:50:54Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Multisensory imitation learning",
+        "Sample-efficient robot reinforcement learning",
+        "Mobile manipulation",
+        "Human sketch-guided learning",
+        "Multi-robot autonomy"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-011.json",
+      "detailPage": "batches/embodied-011.md#pratap-tokekar"
     },
     {
       "id": "henny-admoni",

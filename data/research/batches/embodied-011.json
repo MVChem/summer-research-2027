@@ -1,0 +1,216 @@
+[
+  {
+    "id": "xusheng-luo",
+    "name": "Xusheng Luo",
+    "aliases": [],
+    "school": "North Carolina State University",
+    "homepage": "https://xushengluo92.github.io/",
+    "title": "Assistant Professor",
+    "department": "Mechanical and Aerospace Engineering",
+    "batch": "embodied-011",
+    "discoveredAt": "2026-09-30T22:47:45Z",
+    "verifiedAt": "2026-09-30T22:50:54Z",
+    "researchAreas": [
+      "Neuro-symbolic robot learning",
+      "Visuomotor imitation",
+      "Task-structure discovery",
+      "Safe manipulation",
+      "Task and motion planning"
+    ],
+    "fitReason": "ENAP (RSS 2026) discovers symbolic task structure from visuomotor demonstrations and combines it with a residual continuous-control policy. The CoRL 2026 behavior-steering extension reconfigures learned task structure at inference time.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "ENAP’s primary paper names a real Kinova Gen3 using base/wrist cameras on Lego stacking, color-matched pick/place and hanger placement. Its low-level policy uses frozen DINOv2 features and a residual network; the physical benchmarks are distinct from the simulated Panda suite.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "The current prospective-student page explicitly addresses students and visitors through an interest form and provides an email fallback. It advertises degree starts in Spring/Fall 2027, but gives no summer visitor duration or confirmed eight-week place.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 5,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct structured visuomotor learning and inference-time manipulation steering.",
+      "physical": "Real Kinova Gen3 experiments were performed during the prior CMU affiliation; new NC State lab platform continuity is unconfirmed.",
+      "shortVisit": "Explicit visitor inquiry but no duration or summer-specific terms.",
+      "freshness": "Current August 2026 appointment and 2026 RSS/CoRL work."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engr.ncsu.edu / source 1",
+        "url": "https://engr.ncsu.edu/faculty-development/faculty-communities/new-faculty-cohort-2026/",
+        "summary": "Official current NC State MAE assistant professor and new IRTA lab.",
+        "verifiedAt": "2026-09-30T22:50:54Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "xushengluo92.github.io / source 2",
+        "url": "https://xushengluo92.github.io/",
+        "summary": "August 2026 move, explicit NC State email and RSS/CoRL 2026 research.",
+        "verifiedAt": "2026-09-30T22:50:54Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "xushengluo92.github.io / source 3",
+        "url": "https://xushengluo92.github.io/prospective.html",
+        "summary": "Direct students-and-visitors inquiry route; summer duration unspecified.",
+        "verifiedAt": "2026-09-30T22:50:54Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/pdf/2603.25903",
+        "summary": "Primary ENAP version2, April2026; real Kinova task suite and architecture.",
+        "verifiedAt": "2026-09-30T22:50:54Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/pdf/2606.26588",
+        "summary": "Primary inference-time task-structure steering; separate Kinova hardware versus simulated Panda suites.",
+        "verifiedAt": "2026-09-30T22:50:54Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Current NC State appointment is verified by the university’s 2026 faculty cohort. The personal page contains a mislinked NC State anchor pointing to CMU; that link is not used as affiliation evidence. Physical work was performed during the CMU affiliation, so equipment and project continuity at the new NC State lab require confirmation. Degree application deadlines are not visitor deadlines.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "xluo28@ncsu.edu"
+  },
+  {
+    "id": "pratap-tokekar",
+    "name": "Pratap Tokekar",
+    "aliases": [],
+    "school": "University of Maryland, College Park",
+    "homepage": "https://raaslab.org/",
+    "title": "Associate Professor",
+    "department": "Computer Science; UMIACS; affiliated Electrical and Computer Engineering",
+    "batch": "embodied-011",
+    "discoveredAt": "2026-09-30T22:47:45Z",
+    "verifiedAt": "2026-09-30T22:50:54Z",
+    "researchAreas": [
+      "Multisensory imitation learning",
+      "Sample-efficient robot reinforcement learning",
+      "Mobile manipulation",
+      "Human sketch-guided learning",
+      "Multi-robot autonomy"
+    ],
+    "fitReason": "PRISM (2026) generates multimodal actions in a single pass using a multisensory temporal encoder and Performer architecture. Sketch-to-Skill (RSS 2025) uses human trajectory drawings to bootstrap manipulation learning. These are concrete robot-learning projects within the broader sensing/coordination lab.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "PRISM’s primary paper explicitly evaluates a Unitree Go2 with D1 arm and a UR5 on physical loco-manipulation, insertion and pick/place. The RSS 2025 Sketch-to-Skill paper independently documents a UR3e with Robotiq Hand-E on button and toast manipulation tasks.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current lab and faculty pages establish active research and master’s mentoring precedent, but no explicit external short-term master’s visitor invitation was found. UMD institutional visitor categories do not establish this mentor’s availability.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong multisensory, sample-efficient and human-guided manipulation learning.",
+      "physical": "Named robot learning experiments include a MERL collaboration; current UMD-local access is unconfirmed.",
+      "shortVisit": "No current external short visitor invitation; policy/mentoring precedent not scored.",
+      "freshness": "February 2026 primary hardware paper and September 2026 lab activity."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.umiacs.umd.edu / source 1",
+        "url": "https://www.umiacs.umd.edu/our-experts/faculty/pratap-tokekar",
+        "summary": "Current official associate professor and CS/UMIACS affiliation.",
+        "verifiedAt": "2026-09-30T22:50:54Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "www.cs.umd.edu / source 2",
+        "url": "https://www.cs.umd.edu/people/tokekar",
+        "summary": "Official contact email and current associate-professor heading.",
+        "verifiedAt": "2026-09-30T22:50:54Z",
+        "retrieval": "indexed-primary-excerpt"
+      },
+      {
+        "id": "s3",
+        "label": "raaslab.org / source 3",
+        "url": "https://raaslab.org/",
+        "summary": "Current September 2026 lab activity and research/mentoring record.",
+        "verifiedAt": "2026-09-30T22:50:54Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "raaslab.org / source 4",
+        "url": "https://raaslab.org/publications.html",
+        "summary": "Current lab identifies PRISM and PolyFusion as CoRL2026; linked PDFs were unavailable so experimental claims use separate primary papers.",
+        "verifiedAt": "2026-09-30T22:50:54Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2602.02396v1",
+        "summary": "Primary PRISM authorship/email and actual Unitree Go2/D1 plus UR5 experiments.",
+        "verifiedAt": "2026-09-30T22:50:54Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "www.roboticsproceedings.org / source 6",
+        "url": "https://www.roboticsproceedings.org/rss21/p151.pdf",
+        "summary": "Final RSS2025 paper’s hardware section identifies UR3e/Hand-E and three physical tasks.",
+        "verifiedAt": "2026-09-30T22:50:54Z",
+        "retrieval": "indexed-primary-excerpt"
+      }
+    ],
+    "unknowns": [
+      "Use associate professor from the current UMIACS and directory headings; some embedded older biography text still says assistant professor. PRISM is a MERL collaboration and physical hardware access at UMD needs confirmation. Current lab projects include sponsored restricted-domain work; project-specific eligibility cannot be inferred from the general lab affiliation.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "tokekar@umd.edu"
+  }
+]

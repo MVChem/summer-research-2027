@@ -4939,6 +4939,895 @@
         "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
       ],
       "publicEmail": "yz.yang@asu.edu"
+    },
+    {
+      "id": "evangelos-a-theodorou",
+      "name": "Evangelos A. Theodorou",
+      "aliases": [],
+      "school": "Georgia Institute of Technology",
+      "homepage": "https://www.ae.gatech.edu/directory/person/evangelos-theodorou",
+      "title": "Associate Professor",
+      "department": "Aerospace Engineering",
+      "batch": "control-003",
+      "discoveredAt": "2026-09-30T21:28:35Z",
+      "verifiedAt": "2026-09-30T21:38:05Z",
+      "researchAreas": [
+        "learning-based control",
+        "stochastic optimal control",
+        "risk-aware autonomy",
+        "multi-agent planning"
+      ],
+      "fitReason": "Strong fit for learning dynamics models and planning/control methods that are tested on physical autonomous systems.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "His May2026 coauthored paper on multistep belief-space dynamics learning deploys a learned model and MPC stack on a full-size off-road vehicle over miles of varied terrain.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "No explicit current external short-visit or summer2027 recruitment was verified in the reviewed faculty and lab sources.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ]
+      },
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "Learning models plus risk-aware control closely matches physical AI.",
+        "physical": "Recent full-scale off-road deployment is verified in coauthored research; current own-lab visitor hardware is not established.",
+        "shortVisit": "No explicit short-visit pathway verified.",
+        "freshness": "May2026 primary research plus current university profile."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "www.ae.gatech.edu / source 1",
+          "url": "https://www.ae.gatech.edu/directory/person/evangelos-theodorou",
+          "summary": "Current associate professor, public email and learned-control research.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        },
+        {
+          "id": "s2",
+          "label": "arxiv.org / source 2",
+          "url": "https://arxiv.org/abs/2605.12628",
+          "summary": "2026 learned dynamics and planning deployed on full-sized off-road vehicle.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        },
+        {
+          "id": "s3",
+          "label": "sites.gatech.edu / source 3",
+          "url": "https://sites.gatech.edu/acds/contact/",
+          "summary": "Official ACDS lab contact and Georgia Tech affiliation.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        }
+      ],
+      "unknowns": [
+        "Research activity does not imply an available visiting position. Duration, institutional eligibility, funding and remote possibility require confirmation.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "evangelos.theodorou@gatech.edu"
+    },
+    {
+      "id": "jorge-cortes",
+      "name": "Jorge Cortés",
+      "aliases": [],
+      "school": "University of California, San Diego",
+      "homepage": "https://jacobsschool.ucsd.edu/faculty/profile?id=263",
+      "title": "Professor; Cymer Corporation Endowed Chair",
+      "department": "Mechanical and Aerospace Engineering",
+      "batch": "control-003",
+      "discoveredAt": "2026-09-30T21:28:35Z",
+      "verifiedAt": "2026-09-30T21:38:05Z",
+      "researchAreas": [
+        "safe reinforcement learning",
+        "distributed control",
+        "multi-robot systems",
+        "neural stability certificates"
+      ],
+      "fitReason": "Strong theory-oriented fit for RL certification, safety filters, distributed decision-making and cooperative physical robots.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "Coauthored sensor-based distributionally robust navigation work reports differential-drive robot hardware tests in dynamic environments. Separate2025 RL-certification work learns neural Lyapunov residuals and evaluates benchmark systems; those benchmark results should not be confused with hardware.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "shortVisit": {
+        "status": "precedent-only",
+        "summary": "Historic undergraduate summer research at the MURO lab is documented, but no current external-graduate short-visit route was verified.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "scoreReasons": {
+        "fit": "Safe RL/control and networked robotics, with a substantial mathematical emphasis.",
+        "physical": "Verified coauthored mobile-robot hardware; no current own-lab project inventory.",
+        "shortVisit": "Historical/inapplicable undergraduate evidence only.",
+        "freshness": "Current faculty affiliation with dated 2025 research; no explicit 2026 research source cited for this record."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "jacobsschool.ucsd.edu / source 1",
+          "url": "https://jacobsschool.ucsd.edu/faculty/profile?id=263",
+          "summary": "Current professor/endowed chair, public email and multi-agent autonomy focus.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        },
+        {
+          "id": "s2",
+          "label": "escholarship.org / source 2",
+          "url": "https://escholarship.org/uc/item/5rv3m2rf",
+          "summary": "UC-hosted author manuscript reports real differential-drive safe-navigation experiments.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        },
+        {
+          "id": "s3",
+          "label": "existentialrobotics.org / source 3",
+          "url": "https://existentialrobotics.org/ref/Long_GLF_NeurIPS25.pdf",
+          "summary": "NeurIPS2025 neural certificates for RL policies; benchmark-based evaluations.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        },
+        {
+          "id": "s4",
+          "label": "jacobsschool.ucsd.edu / source 4",
+          "url": "https://jacobsschool.ucsd.edu/news/release/1810?id=1810",
+          "summary": "2015 undergraduate summer mentorship in MURO, historical only.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        }
+      ],
+      "unknowns": [
+        "Old undergraduate summer participation does not establish present graduate visitor eligibility or capacity. Duration, appointment, funding and remote arrangement remain unknown.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "jocortes@ucsd.edu"
+    },
+    {
+      "id": "sandeep-p-chinchali",
+      "name": "Sandeep P. Chinchali",
+      "aliases": [],
+      "school": "University of Texas at Austin",
+      "homepage": "https://utaustin-swarmlab.github.io/",
+      "title": "Assistant Professor",
+      "department": "Electrical and Computer Engineering",
+      "batch": "control-003",
+      "discoveredAt": "2026-09-30T21:28:26Z",
+      "verifiedAt": "2026-09-30T21:38:05Z",
+      "researchAreas": [
+        "networked robot learning",
+        "collaborative perception",
+        "neurosymbolic robotics",
+        "edge AI"
+      ],
+      "fitReason": "Good match for AI systems that connect physical robots to efficient perception, communication and verification pipelines.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "Coauthored2025 PCVS paper deploys privacy-preserving visual perception on robots during real-time operation. Earlier cloud-robotics RL work also explicitly includes hardware experiments.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "No current external short-visit or summer2027 opening was verified. Current lab roster and publications establish ongoing research, not hosting availability.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "scores": {
+        "fit": 35,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "Physical robot intelligence, with more networking/perception emphasis than motor control.",
+        "physical": "2025 real-time robot deployment in coauthored work.",
+        "shortVisit": "No short-visit invitation verified.",
+        "freshness": "Current affiliation and explicitMay2026 lab news."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "ece.utexas.edu / source 1",
+          "url": "https://ece.utexas.edu/people/faculty/sandeep-chinchali",
+          "summary": "Current official UT assistant professor, public email, robot/edge-learning research.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        },
+        {
+          "id": "s2",
+          "label": "utaustin-swarmlab.github.io / source 2",
+          "url": "https://utaustin-swarmlab.github.io/",
+          "summary": "Lab updated May30,2026;2026 neurosymbolic cooperative-vehicle work.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        },
+        {
+          "id": "s3",
+          "label": "arxiv.org / source 3",
+          "url": "https://arxiv.org/abs/2505.05519",
+          "summary": "Coauthored learned-perception privacy method deployed on operating robots.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        },
+        {
+          "id": "s4",
+          "label": "sandeepchinchali.medium.com / source 4",
+          "url": "https://sandeepchinchali.medium.com/why-i-joined-story-as-chief-ai-officer-4c6aef5ca4ed",
+          "summary": "PI-authoredJuly2025 industry-role announcement; campus availability not inferred.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        }
+      ],
+      "unknowns": [
+        "Official UT profile and lab remain active; PI has also publicly announced industry work, so on-campus mentoring availability should be confirmed. No inference of funding or eight-week capacity.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "sandeepc@utexas.edu"
+    },
+    {
+      "id": "claire-j-tomlin",
+      "name": "Claire J. Tomlin",
+      "aliases": [],
+      "school": "University of California, Berkeley",
+      "homepage": "https://people.eecs.berkeley.edu/~tomlin/",
+      "title": "Professor; James and Katherine Lau Chair in Engineering",
+      "department": "Electrical Engineering and Computer Sciences",
+      "batch": "control-003",
+      "discoveredAt": "2026-09-30T21:22:05Z",
+      "verifiedAt": "2026-09-30T21:38:05Z",
+      "researchAreas": [
+        "safe learning",
+        "hybrid systems",
+        "robot control",
+        "VLA interpretability",
+        "reachability analysis"
+      ],
+      "fitReason": "Strong physical-AI and safety fit, spanning interpretable learned robot policies and rigorous analysis/control of autonomous systems.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "CoRL2025 paper on mechanistic VLA interpretability demonstrates zero-shot behavioral steering of Pi0/OpenVLA-based policies, including physical UR5 robot tests. Lab also studies safe drone and ground-vehicle control.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "No current external short-visit invitation or summer2027 opening was verified in the reviewed faculty/lab pages.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "Direct safe learned control and VLA interpretability.",
+        "physical": "Physical UR5 tests are verified in coauthored 2025 research; current host-lab equipment access is not separately established.",
+        "shortVisit": "No current short-visit route verified.",
+        "freshness": "Current official appointment and2026 university research records."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "www2.eecs.berkeley.edu / source 1",
+          "url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/tomlin.html",
+          "summary": "Current Berkeley professor/chair title and public email.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        },
+        {
+          "id": "s2",
+          "label": "proceedings.mlr.press / source 2",
+          "url": "https://proceedings.mlr.press/v305/haon25a.html",
+          "summary": "Primary CoRL2025 paper on VLA steering includes a physical UR5 experiment.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        },
+        {
+          "id": "s3",
+          "label": "hybrid.eecs.berkeley.edu / source 3",
+          "url": "https://hybrid.eecs.berkeley.edu/index.html",
+          "summary": "Hybrid Systems Lab safe ML/control and real robotic application agenda.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        },
+        {
+          "id": "s4",
+          "label": "www2.eecs.berkeley.edu / source 4",
+          "url": "https://www2.eecs.berkeley.edu/Pubs/Dissertations/Faculty/tomlin.html",
+          "summary": "University lists2026 dissertations in safe deep-learning-enabled navigation and autonomy assurance.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        }
+      ],
+      "unknowns": [
+        "Research fit and lab membership do not establish visiting capacity. Eight-week hosting, graduate visitor eligibility, funding and remote options remain unknown.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "tomlin@eecs.berkeley.edu"
+    },
+    {
+      "id": "mykel-j-kochenderfer",
+      "name": "Mykel J. Kochenderfer",
+      "aliases": [],
+      "school": "Stanford University",
+      "homepage": "https://sisl.stanford.edu/",
+      "title": "Associate Professor",
+      "department": "Aeronautics and Astronautics",
+      "batch": "control-003",
+      "discoveredAt": "2026-09-30T21:35:03Z",
+      "verifiedAt": "2026-09-30T21:38:05Z",
+      "researchAreas": [
+        "decision-making under uncertainty",
+        "AI safety",
+        "world-model failure detection",
+        "robot planning"
+      ],
+      "fitReason": "Good fit for probabilistic decision-making and assurance of embodied learning systems, especially anomaly detection and robust planning.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "Coauthored2026 world-model failure-detection paper introduces a bimanual cable-manipulation dataset with synchronized images, proprioception and failure labels. This is physical-task data evidence, not proof of a live safety-controller deployment.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "SISL FAQ directs external summer applicants to SURF and says it lacks funding/capacity for non-Stanford students outside that program. A separate note mentions fees for fellowship-funded visiting researchers, without promising acceptance.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ]
+      },
+      "scores": {
+        "fit": 36,
+        "physical": 18,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "Learning-based uncertainty/safety and decision-making overlap.",
+        "physical": "Realistic robot dataset/evaluation; current closed-loop hardware deployment not established.",
+        "shortVisit": "Published capacity restriction; no verified eligible graduate-visitor opening.",
+        "freshness": "March2026 primary research and current official faculty/FAQ."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "profiles.stanford.edu / source 1",
+          "url": "https://profiles.stanford.edu/mykel-kochenderfer",
+          "summary": "Current Stanford associate professor and SISL directorship.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        },
+        {
+          "id": "s2",
+          "label": "sisl.stanford.edu / source 2",
+          "url": "https://sisl.stanford.edu/faq/",
+          "summary": "External summer route restricted to SURF with stated lack of capacity outside it; fellowship-funded visitor fee note.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        },
+        {
+          "id": "s3",
+          "label": "arxiv.org / source 3",
+          "url": "https://arxiv.org/abs/2603.06987",
+          "summary": "2026 foundational-world-model research using bimanual robot task data.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        }
+      ],
+      "unknowns": [
+        "SURF is an undergraduate pathway and is not automatically applicable to graduate visitors. Personal self-funding is not the same as a fellowship; no eligible eight-week appointment was established.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ]
+    },
+    {
+      "id": "dimitra-panagou",
+      "name": "Dimitra Panagou",
+      "aliases": [],
+      "school": "University of Michigan",
+      "homepage": "https://websites.umich.edu/~dpanagou/",
+      "title": "Professor",
+      "department": "Robotics; Aerospace Engineering by courtesy",
+      "batch": "control-003",
+      "discoveredAt": "2026-09-30T21:34:55Z",
+      "verifiedAt": "2026-09-30T21:38:05Z",
+      "researchAreas": [
+        "safe learning and control",
+        "multi-agent reinforcement learning",
+        "resilient autonomy",
+        "robot navigation"
+      ],
+      "fitReason": "Strong fit for safe/distributed learning and control under uncertainty, with both provable guarantees and physical robot validation.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "2025 certifiably-correct mapping paper reports real rover experiments that stop safely despite odometry drift. September2026 actor-critic MARL work studies resilient multi-robot formation control; hardware is not claimed for that latter paper.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5",
+          "s6"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "DASC lab invites general research inquiries to the PI or lab members but does not identify short-term visiting status or summer2027 availability.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5",
+          "s6"
+        ]
+      },
+      "scores": {
+        "fit": 38,
+        "physical": 22,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "Safe/resilient learning and physical multi-agent control.",
+        "physical": "Named real rover study, separated from simulated/theoretical MARL.",
+        "shortVisit": "General inquiry does not prove a short-visit pathway.",
+        "freshness": "September2026 research and current official promotion/profile."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "robotics.umich.edu / source 1",
+          "url": "https://robotics.umich.edu/people/faculty/dimitra-panagou/",
+          "summary": "Current full-professor role in Robotics.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        },
+        {
+          "id": "s2",
+          "label": "controls.engin.umich.edu / source 2",
+          "url": "https://controls.engin.umich.edu/faculty/",
+          "summary": "Official public email and Robotics affiliation.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        },
+        {
+          "id": "s3",
+          "label": "dasc-lab.github.io / source 3",
+          "url": "https://dasc-lab.github.io/",
+          "summary": "Safe learning/control agenda and general inquiry invitation.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        },
+        {
+          "id": "s4",
+          "label": "arxiv.org / source 4",
+          "url": "https://arxiv.org/abs/2504.18713",
+          "summary": "Real robotic rover safety experiment under mapping/odometry errors.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        },
+        {
+          "id": "s5",
+          "label": "arxiv.org / source 5",
+          "url": "https://arxiv.org/abs/2609.25701",
+          "summary": "September2026 resilient actor-critic multi-agent RL research.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        },
+        {
+          "id": "s6",
+          "label": "adaa.engin.umich.edu / source 6",
+          "url": "https://adaa.engin.umich.edu/news/2025-promotions/",
+          "summary": "Page titled2026 Promotions lists promotion to Professor with tenure.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        }
+      ],
+      "unknowns": [
+        "Current Robotics department lists Professor, consistent with2026 promotion; older Aerospace page remains Associate Professor. No visitor eligibility, eight-week duration, funding or remote policy established.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "dpanagou@umich.edu"
+    },
+    {
+      "id": "ufuk-topcu",
+      "name": "Ufuk Topcu",
+      "aliases": [],
+      "school": "University of Texas at Austin",
+      "homepage": "https://ae.utexas.edu/person/ufuk-topcu/",
+      "title": "Professor; Judson S. Swearingen Regents Chair in Engineering #1",
+      "department": "Aerospace Engineering and Engineering Mechanics",
+      "batch": "control-003",
+      "discoveredAt": "2026-09-30T21:34:55Z",
+      "verifiedAt": "2026-09-30T21:38:05Z",
+      "researchAreas": [
+        "safe reinforcement learning",
+        "formal methods",
+        "neurosymbolic AI",
+        "autonomous networked systems"
+      ],
+      "fitReason": "Strong fit for combining learning, verification and control in physical autonomous systems and robot perception.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "Coauthored2025 PCVS paper reports deployment of privacy-constrained vision processing on robots in real-time operation. July2026 world-model paper evaluates navigation over a real site's reconstructed terrain under simulated flooding; it is not evidence of a physical flood deployment.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "No explicit current short-visit or summer2027 opening was verified from the reviewed faculty/group/institute sources.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "Direct safety/verification/RL connection to autonomy.",
+        "physical": "Real robot perception deployment, with other recent work simulation-based.",
+        "shortVisit": "No short-visit invitation verified.",
+        "freshness": "Current home-department appointment andJuly2026 research."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "ae.utexas.edu / source 1",
+          "url": "https://ae.utexas.edu/person/ufuk-topcu/",
+          "summary": "Current Professor/chair, email and formal-methods/RL/control research.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        },
+        {
+          "id": "s2",
+          "label": "arxiv.org / source 2",
+          "url": "https://arxiv.org/abs/2505.05519",
+          "summary": "Coauthored real-time robot-perception deployment.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        },
+        {
+          "id": "s3",
+          "label": "arxiv.org / source 3",
+          "url": "https://arxiv.org/abs/2607.00673",
+          "summary": "July2026 physically grounded world model with simulated terrain interventions, not physical flood testing.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        },
+        {
+          "id": "s4",
+          "label": "oden.utexas.edu / source 4",
+          "url": "https://oden.utexas.edu/research/centers-and-groups/center-for-autonomy/",
+          "summary": "Current Center for Autonomy role and controls/ML/formal-methods research.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        }
+      ],
+      "unknowns": [
+        "Current home-department profile says Professor; older CS pages still say Associate Professor. Duration, visitor eligibility, funding and remote availability are unknown.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "utopcu@utexas.edu"
+    },
+    {
+      "id": "rahul-mangharam",
+      "name": "Rahul Mangharam",
+      "aliases": [],
+      "school": "University of Pennsylvania",
+      "homepage": "https://xlab.upenn.edu/",
+      "title": "Professor",
+      "department": "Electrical and Systems Engineering; Computer and Information Science",
+      "batch": "control-003",
+      "discoveredAt": "2026-09-30T21:34:55Z",
+      "verifiedAt": "2026-09-30T21:38:05Z",
+      "researchAreas": [
+        "safe autonomous systems",
+        "learning-based control",
+        "autonomous vehicles",
+        "multi-agent planning",
+        "cyber-physical systems"
+      ],
+      "fitReason": "Strong practical fit for safe autonomous vehicles, learning-based MPC and embodied multi-agent control.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "Current xLAB projects include RetroLifts, a forklift retrofit with drive-by-wire hardware, perception and fleet planning; the lab describes digital-twin-to-physical deployment. Penn documents physical F1TENTH autonomous race-car work.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "xLAB contact page routes prospective graduate students through department admissions and current Penn master's/undergraduates through ongoing projects. No external short-visit invitation was verified.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5"
+        ]
+      },
+      "scores": {
+        "fit": 37,
+        "physical": 24,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "Learning/control/verification with practical autonomous systems.",
+        "physical": "Current lab hardware retrofit and documented physical racing platforms.",
+        "shortVisit": "No explicit external visiting route.",
+        "freshness": "Current lab contact/roster and dated2026 projects."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "xlab.upenn.edu / source 1",
+          "url": "https://xlab.upenn.edu/members/",
+          "summary": "Current xLAB PI listed as Professor.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        },
+        {
+          "id": "s2",
+          "label": "penntoday.upenn.edu / source 2",
+          "url": "https://penntoday.upenn.edu/news/penn-engineering-racing-cars-f1tenth",
+          "summary": "Official Penn article identifies departments/professor role and physical autonomous racing.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        },
+        {
+          "id": "s3",
+          "label": "xlab.upenn.edu / source 3",
+          "url": "https://xlab.upenn.edu/retrolifts/",
+          "summary": "Forklift retrofit hardware, perception, fleet planning and physical deployment description.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        },
+        {
+          "id": "s4",
+          "label": "xlab.upenn.edu / source 4",
+          "url": "https://xlab.upenn.edu/contact/",
+          "summary": "Public PI email; prospective-degree and current-Penn pathways only.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        },
+        {
+          "id": "s5",
+          "label": "xlab.upenn.edu / source 5",
+          "url": "https://xlab.upenn.edu/",
+          "summary": "Dated2026 projects in safe learning MPC, AI coaching and fleets.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        }
+      ],
+      "unknowns": [
+        "Current-Penn research recruitment and PhD/postdoc openings do not establish an external eight-week visit. Eligibility, institutional hosting, funding and remote work remain unconfirmed.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "rahulm@seas.upenn.edu"
+    },
+    {
+      "id": "naira-hovakimyan",
+      "name": "Naira Hovakimyan",
+      "aliases": [],
+      "school": "University of Illinois Urbana-Champaign",
+      "homepage": "https://naira.mechse.illinois.edu/",
+      "title": "W. Grafton and Lillian B. Wilkins Professor",
+      "department": "Mechanical Science and Engineering",
+      "batch": "control-003",
+      "discoveredAt": "2026-09-30T21:35:03Z",
+      "verifiedAt": "2026-09-30T21:38:05Z",
+      "researchAreas": [
+        "robust learning-based control",
+        "adaptive control",
+        "robotics",
+        "autonomous aerial systems"
+      ],
+      "fitReason": "Good fit for robustification and efficient tuning of learned robot controllers, especially aerial systems and sim-to-real reliability.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "DiffTune's2024 T-RO paper reports automatic controller tuning in physical quadrotor trials. Her RL-robustification paper also explicitly includes real-world experiments. ACRL reported live autonomy field tests in2025.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "No explicit current external-graduate short-visit invitation or summer2027 opportunity was verified in reviewed faculty/lab sources.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5"
+        ]
+      },
+      "scores": {
+        "fit": 37,
+        "physical": 22,
+        "shortVisit": 0,
+        "freshness": 12
+      },
+      "scoreReasons": {
+        "fit": "Learning-aware adaptive control and robustness closely match robotics.",
+        "physical": "Physical quadrotor tuning and field tests; core paper evidence is2024 or older.",
+        "shortVisit": "No short-visit pathway verified.",
+        "freshness": "Current lab/faculty and2026 activity; specific physical research evidence older."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "csl.illinois.edu / source 1",
+          "url": "https://csl.illinois.edu/directory/faculty/nhovakim",
+          "summary": "Official current professorship, email and autonomous ML/control research.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        },
+        {
+          "id": "s2",
+          "label": "par.nsf.gov / source 2",
+          "url": "https://par.nsf.gov/servlets/purl/10563443",
+          "summary": "2024 primary DiffTune paper with physical quadrotor-controller tuning trials.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        },
+        {
+          "id": "s3",
+          "label": "arxiv.org / source 3",
+          "url": "https://arxiv.org/abs/2112.01953",
+          "summary": "RL policy robustification with adaptive control, including real-world experiments.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        },
+        {
+          "id": "s4",
+          "label": "naira.mechse.illinois.edu / source 4",
+          "url": "https://naira.mechse.illinois.edu/acrl-participates-in-nasa-uli-demonstration-with-leading-aerospace-industry-stakeholders/",
+          "summary": "ACRL2025 live field-test participation.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        },
+        {
+          "id": "s5",
+          "label": "naira.mechse.illinois.edu / source 5",
+          "url": "https://naira.mechse.illinois.edu/",
+          "summary": "Current lab and2026 activity.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        }
+      ],
+      "unknowns": [
+        "Lab activity and live demos do not establish an available visitor placement. Duration, faculty capacity, eligibility, institutional appointment and funding require confirmation.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "nhovakim@illinois.edu"
+    },
+    {
+      "id": "ram-vasudevan",
+      "name": "Ram Vasudevan",
+      "aliases": [],
+      "school": "University of Michigan",
+      "homepage": "https://www.roahmlab.com/",
+      "title": "Professor",
+      "department": "Robotics; Mechanical Engineering",
+      "batch": "control-003",
+      "discoveredAt": "2026-09-30T21:36:36Z",
+      "verifiedAt": "2026-09-30T21:38:05Z",
+      "researchAreas": [
+        "safe robot control",
+        "optimization",
+        "learning-based autonomy",
+        "robot perception",
+        "reachability"
+      ],
+      "fitReason": "Good fit for safety-guaranteed robotics, learning-based perception and planning, including physical field robots.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "Coauthored SurfSLAM2026 combines learned underwater stereo depth with sensor fusion and collects real shipwreck-survey data using an underwater robot. This demonstrates embodied field-data research, not a confirmed short-visit hardware project.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "Lab roster includes master's and undergraduate researchers and alumni, but no explicit current external short-visit route was verified.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5"
+        ]
+      },
+      "scores": {
+        "fit": 36,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "Safe control and physically grounded learned perception/planning.",
+        "physical": "Recent coauthored field robotics/dataset collection; no visitor platform availability.",
+        "shortVisit": "No current short-visit offer verified.",
+        "freshness": "2026 primary paper and official promotion/profile."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "robotics.umich.edu / source 1",
+          "url": "https://robotics.umich.edu/people/faculty/ram-vasudevan/",
+          "summary": "Current full professor, public email and Robotics role.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        },
+        {
+          "id": "s2",
+          "label": "adaa.engin.umich.edu / source 2",
+          "url": "https://adaa.engin.umich.edu/news/2025-promotions/",
+          "summary": "Page titled2026 Promotions lists full-professor promotion.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        },
+        {
+          "id": "s3",
+          "label": "arxiv.org / source 3",
+          "url": "https://arxiv.org/abs/2601.10814",
+          "summary": "SurfSLAM learned perception and real underwater robot shipwreck data.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        },
+        {
+          "id": "s4",
+          "label": "www.roahmlab.com / source 4",
+          "url": "https://www.roahmlab.com/current-1",
+          "summary": "Current research group and master's researchers; stale associate title.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        },
+        {
+          "id": "s5",
+          "label": "arc.engin.umich.edu / source 5",
+          "url": "https://arc.engin.umich.edu/faculty/ram-vasudevan/",
+          "summary": "Official current ME professor and learning-based autonomous-navigation projects.",
+          "verifiedAt": "2026-09-30T21:38:05Z"
+        }
+      ],
+      "unknowns": [
+        "Official2026 department profile and promotion list say Professor; personal/lab pages still contain Associate Professor. Existing master's supervision does not establish visiting eligibility, duration or funding.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "ramv@umich.edu"
     }
   ]
 }

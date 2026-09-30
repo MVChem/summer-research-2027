@@ -1,0 +1,210 @@
+[
+  {
+    "id": "madi-dian",
+    "name": "Madi Dian",
+    "aliases": [
+      "Madi Babaiasl"
+    ],
+    "school": "Saint Louis University",
+    "homepage": "https://madibabaiasl.github.io/",
+    "title": "Clare Boothe Luce Assistant Professor",
+    "department": "Aerospace and Mechanical Engineering; Mecharithm Lab",
+    "batch": "hri-011",
+    "discoveredAt": "2026-09-30T22:47:56Z",
+    "verifiedAt": "2026-09-30T22:52:12Z",
+    "researchAreas": [
+      "Multimodal learning for human intent",
+      "Shared autonomy",
+      "Conversational vision-language-action models",
+      "RGB-D perception for assistive manipulation"
+    ],
+    "fitReason": "Strong computational fit through multimodal representation learning, uncertainty-aware intent decoding, conversational VLA models and physically grounded assistance. Projects connect learned human intent to robot action rather than focusing only on rehabilitation hardware.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The July 16, 2026 NeuroCommitSSM paper validates a learned EEG/EMG/eye-tracking model through a real Kinova Gen3 arm, ROS2 and RGB-D feasibility checks. Hardware validation replays 168 held-out biosignal trials; it is not a live closed-loop user-adaptation study. The accompanying human dataset includes 32 adults.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The current personal-page joining section invites SLU-enrolled undergraduate/master’s researchers and SLU PhD applicants. The lab contact page has generic graduate/postdoctoral/undergraduate headings but no explicit external-master’s short-visit route. No summer 2027 visitor opening, funding or self-funded appointment permission was verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "learned multimodal intent, VLA and assistive shared autonomy.",
+      "physical": "detailed July 2026 Kinova hardware evaluation, with replay limitation explicit.",
+      "shortVisit": "no external-master’s short-visit pathway verified.",
+      "freshness": "several 2026 primary projects."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "hr.slu.edu / source 1",
+        "url": "https://hr.slu.edu/science-and-engineering/academics/aerospace-and-mechanical-engineering/faculty/babaiasl-madi.php",
+        "summary": "Full official profile confirms current public name Madi Dian, Assistant Professor appointment and VLA/physical-AI interests.",
+        "verifiedAt": "2026-09-30T22:52:12Z"
+      },
+      {
+        "id": "s2",
+        "label": "madibabaiasl.github.io / source 2",
+        "url": "https://madibabaiasl.github.io/",
+        "summary": "Full personal homepage connects current name, past-name publications, SLU lab, verified email and local-student/PhD application instructions.",
+        "verifiedAt": "2026-09-30T22:52:12Z"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2607.15395v1",
+        "summary": "Primary July 2026 paper, Section III-E: real Kinova Gen3 with ROS2 and RGB-D perception; 168 held-out HIL biosignal replays rather than live adaptive use.",
+        "verifiedAt": "2026-09-30T22:52:12Z"
+      },
+      {
+        "id": "s4",
+        "label": "mecharithmlab.com / source 4",
+        "url": "https://mecharithmlab.com/apply-contact/",
+        "summary": "Full contact page provides general research/degree headings without an explicit external short-term-student opening.",
+        "verifiedAt": "2026-09-30T22:52:12Z"
+      }
+    ],
+    "unknowns": [
+      "Current university profile and personal homepage use Madi Dian; 2026 papers and the verified email retain Madi Babaiasl. These are linked publicly on the same professional homepage.",
+      "Hardware-in-the-loop replay on a physical arm must not be described as 32 participants directly controlling the robot live.",
+      "External graduate eligibility, eight-week duration, immigration sponsorship and permission for self-funding remain unverified.",
+      "The advertised robotics curriculum and internal student research route are not external summer internships.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "madi.babaiasl@slu.edu"
+  },
+  {
+    "id": "roberto-tron",
+    "name": "Roberto Tron",
+    "aliases": [],
+    "school": "Boston University",
+    "homepage": "https://www.bu.edu/eng/profile/roberto-tron/",
+    "title": "Associate Professor; Director of Master’s Degree Programs in Robotics and Autonomous Systems",
+    "department": "Mechanical Engineering; Systems Engineering",
+    "batch": "hri-011",
+    "discoveredAt": "2026-09-30T22:49:22Z",
+    "verifiedAt": "2026-09-30T22:52:12Z",
+    "researchAreas": [
+      "Learning from human preferences",
+      "Haptic shared control",
+      "Safe robot teleoperation",
+      "Geometric perception and multi-agent robotics"
+    ],
+    "fitReason": "Strong methods-oriented HRI fit: learns personalized safety interventions from sparse user demonstrations through differentiable constrained optimization, alongside robotics perception, mapping and data-driven control.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The July 21, 2026 Learning from Haptics paper deploys learned safety responses on an actual DJI Tello EDU with a Geomagic Touch interface and OptiTrack. The hardware result is a qualitative deployment demonstration; quantitative preference-matching comparisons use AirSim. The work is not an end-to-end foundation-model policy.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No lab-specific external visitor/intern invitation was found in the verified faculty/research pages. BU’s institutional Short-Term Scholar policy permits qualifying research appointments for people completing a US-master’s-equivalent degree, up to six months, and allows documented personal funds. This does not establish Tron’s availability or a summer 2027 offer.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "human-preference learning plus safe shared control and perception.",
+      "physical": "clear 2026 physical drone/haptic deployment.",
+      "shortVisit": "institutional category only, no direct lab invitation.",
+      "freshness": "July 2026 primary work."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.bu.edu / source 1",
+        "url": "https://www.bu.edu/eng/profile/roberto-tron/",
+        "summary": "Full official faculty profile verifies Associate Professor, department, RAS master’s directorship and email.",
+        "verifiedAt": "2026-09-30T22:52:12Z"
+      },
+      {
+        "id": "s2",
+        "label": "sites.bu.edu / source 2",
+        "url": "https://sites.bu.edu/tron/",
+        "summary": "Current personal faculty page confirms role and research intersection of robotics, control and vision.",
+        "verifiedAt": "2026-09-30T22:52:12Z"
+      },
+      {
+        "id": "s3",
+        "label": "sites.bu.edu / source 3",
+        "url": "https://sites.bu.edu/tron/research-projects/",
+        "summary": "Current primary lab research includes 2025 data-driven learning/control project; not an internship invitation.",
+        "verifiedAt": "2026-09-30T22:52:12Z"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2607.19534v1",
+        "summary": "Primary full-text July 2026 study distinguishes AirSim quantitative tests from real Tello/Geomagic/OptiTrack hardware deployment, Sections 5.1–5.2.",
+        "verifiedAt": "2026-09-30T22:52:12Z"
+      },
+      {
+        "id": "s5",
+        "label": "www.bu.edu / source 5",
+        "url": "https://www.bu.edu/isso/bu-admin/immigration-options/",
+        "summary": "Full official policy: completing a master’s-equivalent degree may fit research/short-term-scholar categories; appointment and approval required.",
+        "verifiedAt": "2026-09-30T22:52:12Z"
+      },
+      {
+        "id": "s6",
+        "label": "www.bu.edu / source 6",
+        "url": "https://www.bu.edu/isso/scholars/scholar-processing-request-checklist/minimum-funding-requirements-for-j-1-scholars-employees/",
+        "summary": "Current official threshold $3,262/month from September 2026; personal/family funding acceptable with evidence.",
+        "verifiedAt": "2026-09-30T22:52:12Z"
+      },
+      {
+        "id": "s7",
+        "label": "www.bu.edu / source 7",
+        "url": "https://www.bu.edu/isso/bu-admin/immigration-processing-request-required-documentation/",
+        "summary": "Host-initiated request requires academic host, chair, dean and institutional processing.",
+        "verifiedAt": "2026-09-30T22:52:12Z"
+      }
+    ],
+    "unknowns": [
+      "Current university engineering directory and personal homepage say Associate Professor; old robotics-lab pages say Assistant Professor.",
+      "BU requires a formal research appointment and ISSO approval; equivalence of this specific external-university master’s status is not established.",
+      "Current J-1 scholar support minimum is $3,262/month, effective September 1, 2026. Recheck for 2027; personal funds are allowed institutionally but require documentation.",
+      "BU’s Student Intern category is listed for undergraduates abroad, not this master’s profile.",
+      "The paper calls its physical flights qualitative deployment demonstrations; do not infer a comprehensive participant study or frame-matched hardware benchmark.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "tron@bu.edu"
+  }
+]

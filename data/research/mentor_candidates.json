@@ -39,7 +39,8 @@
     "batches/hri-007.json",
     "batches/hri-008.json",
     "batches/hri-009.json",
-    "batches/hri-010.json"
+    "batches/hri-010.json",
+    "batches/hri-011.json"
   ],
   "candidates": [
     {
@@ -5506,6 +5507,60 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-010.json",
       "detailPage": "batches/hri-010.md#weitian-wang"
+    },
+    {
+      "id": "madi-dian",
+      "name": "Madi Dian",
+      "aliases": [
+        "Madi Babaiasl"
+      ],
+      "school": "Saint Louis University",
+      "title": "Clare Boothe Luce Assistant Professor",
+      "homepage": "https://madibabaiasl.github.io/",
+      "batch": "hri-011",
+      "discoveredAt": "2026-09-30T22:47:56Z",
+      "verifiedAt": "2026-09-30T22:52:12Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Multimodal learning for human intent",
+        "Shared autonomy",
+        "Conversational vision-language-action models",
+        "RGB-D perception for assistive manipulation"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-011.json",
+      "detailPage": "batches/hri-011.md#madi-dian"
+    },
+    {
+      "id": "roberto-tron",
+      "name": "Roberto Tron",
+      "aliases": [],
+      "school": "Boston University",
+      "title": "Associate Professor; Director of Master’s Degree Programs in Robotics and Autonomous Systems",
+      "homepage": "https://www.bu.edu/eng/profile/roberto-tron/",
+      "batch": "hri-011",
+      "discoveredAt": "2026-09-30T22:49:22Z",
+      "verifiedAt": "2026-09-30T22:52:12Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Learning from human preferences",
+        "Haptic shared control",
+        "Safe robot teleoperation",
+        "Geometric perception and multi-agent robotics"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-011.json",
+      "detailPage": "batches/hri-011.md#roberto-tron"
     }
   ]
 }

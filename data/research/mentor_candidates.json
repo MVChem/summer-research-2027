@@ -1612,7 +1612,7 @@
       "department": "Mechanical Engineering; courtesy appointment in Computer Science",
       "batch": "hri-001",
       "discoveredAt": "2026-09-30T21:22:28Z",
-      "verifiedAt": "2026-09-30T21:27:42Z",
+      "verifiedAt": "2026-09-30T21:37:40Z",
       "researchAreas": [
         "Haptics",
         "Teleoperation",
@@ -1623,7 +1623,7 @@
       "fitReason": "Promising adjacent fit for researchers interested in shared control, haptic interaction, perception or robot-assistance algorithms. Less centered on foundation-model robotics, with more hardware/control background potentially needed.",
       "physicalEvidence": {
         "status": "public-hardware-evidence",
-        "summary": "Stanford's profile documents physical soft-robot experiments, robot-assisted rehabilitation and surgical teleoperation systems; CHARM studies haptic devices and assistive robots. Recent profile-listed work includes a physically demonstrated long vine robot.",
+        "summary": "Stanford Profiles documents physical soft robots, rehabilitation and surgical teleoperation. The cited 4.8-m vine-robot demonstration is from a 2024 paper; it is evidence of prior physical research, not a new 2026 experiment or guaranteed current visitor access.",
         "sourceIds": [
           "s1",
           "s2",
@@ -1636,19 +1636,20 @@
         "sourceIds": [
           "s1",
           "s2",
-          "s3"
+          "s3",
+          "s4"
         ]
       },
       "scores": {
         "fit": 32,
-        "physical": 25,
-        "shortVisit": 10,
+        "physical": 20,
+        "shortVisit": 5,
         "freshness": 15
       },
       "scoreReasons": {
         "fit": "useful CS-to-haptics/control fit but hardware emphasis.",
-        "physical": "concrete physical systems.",
-        "shortVisit": "explicit conditional visitor route, duration unspecified.",
+        "physical": "Concrete physical systems, but the specifically cited long vine-robot demonstration is dated 2024; current visitor-accessible equipment is unverified.",
+        "shortVisit": "Explicit conditional visitor inquiry, but the associated CDR visitor page prefers six-to-twelve-month VSR stays; an approximately eight-week arrangement needs specific confirmation.",
         "freshness": "current official profile and dated 2026 lab visits."
       },
       "sources": [
@@ -1656,8 +1657,8 @@
           "id": "s1",
           "label": "profiles.stanford.edu / source 1",
           "url": "https://profiles.stanford.edu/allison-okamura",
-          "summary": "Official current profile and physical robot experiments/publications.",
-          "verifiedAt": "2026-09-30T21:27:42Z"
+          "summary": "Current faculty appointment and research publications; the 4.8-m vine-robot physical demonstration is in a 2024 paper.",
+          "verifiedAt": "2026-09-30T21:36:49Z"
         },
         {
           "id": "s2",
@@ -1672,12 +1673,20 @@
           "url": "https://charm.stanford.edu/Main/PastLabMeetings",
           "summary": "Dated August 2026 summer researcher and visitor presentations; historical precedent only.",
           "verifiedAt": "2026-09-30T21:27:42Z"
+        },
+        {
+          "id": "s4",
+          "label": "Stanford CDR visiting appointments",
+          "url": "https://centerfordesignresearch.stanford.edu/resources/visiting-appointments",
+          "summary": "CDR links CHARM and prefers longer VSR stays; published fee amounts are labeled 2025–26 and are not a confirmed 2027 quote.",
+          "verifiedAt": "2026-09-30T21:37:40Z"
         }
       ],
       "unknowns": [
         "The visitor invitation is conditional on background, space and financial support; it does not prove university permission for a specific self-funded arrangement.",
         "Duration, external master's appointment, costs, visa support and supervision must be confirmed with the host and institution.",
-        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+        "The CDR visiting-appointments page links CHARM and prefers VSR visits of six to twelve months. If the appointment uses CDR, confirm any shorter-duration exception and additional fees; this is a preference, not an explicit ban."
       ],
       "publicEmail": "aokamura@stanford.edu"
     },
@@ -1875,7 +1884,7 @@
       "department": "Electrical and Computer Engineering",
       "batch": "embodied-001",
       "discoveredAt": "2026-09-30T21:21:32Z",
-      "verifiedAt": "2026-09-30T21:28:42Z",
+      "verifiedAt": "2026-09-30T21:36:49Z",
       "researchAreas": [
         "Robot foundation models",
         "Reinforcement learning",
@@ -1885,7 +1894,7 @@
       "fitReason": "Large-scale learning, continual improvement, and foundation-model deployment directly match embodied-AI interests.",
       "physicalEvidence": {
         "status": "public-hardware-evidence",
-        "summary": "Princeton’s April 2026 profile describes autonomous racing-robot experiments and current home-robot work; his prior Gemini Robotics work targets dexterous robots.",
+        "summary": "Princeton’s April 6, 2026 profile retrospectively describes physical racing-robot experiments conducted during Berkeley research, alongside the current robot-learning agenda. These prior experiments do not confirm the new Princeton lab’s current robot inventory or visitor access.",
         "sourceIds": [
           "s1",
           "s2",
@@ -1905,13 +1914,13 @@
       },
       "scores": {
         "fit": 40,
-        "physical": 25,
+        "physical": 20,
         "shortVisit": 10,
         "freshness": 15
       },
       "scoreReasons": {
         "fit": "Exact foundation-model and real-world robot learning fit.",
-        "physical": "Concrete physical-robot experimentation documented by university.",
+        "physical": "Verified physical racing-robot research is retrospective Berkeley work; current Princeton hardware allocation is not independently established.",
         "shortVisit": "Explicit short-term external visitor route, duration and individual eligibility unspecified.",
         "freshness": "2026 university profile and current lab/contact pages."
       },
@@ -1941,8 +1950,8 @@
           "id": "s4",
           "label": "ece.princeton.edu / source 4",
           "url": "https://ece.princeton.edu/node/10221",
-          "summary": "April 6, 2026 account of physical robot experiments and current research.",
-          "verifiedAt": "2026-09-30T21:28:42Z"
+          "summary": "April 6, 2026 university profile: retrospective Berkeley physical racing-robot work and current research agenda, not a current Princeton hardware inventory.",
+          "verifiedAt": "2026-09-30T21:36:49Z"
         }
       ],
       "unknowns": [
@@ -1962,7 +1971,7 @@
       "department": "School of Interactive Computing",
       "batch": "embodied-001",
       "discoveredAt": "2026-09-30T21:21:32Z",
-      "verifiedAt": "2026-09-30T21:28:42Z",
+      "verifiedAt": "2026-09-30T21:36:49Z",
       "researchAreas": [
         "Robot learning",
         "Foundation models",
@@ -1972,7 +1981,7 @@
       "fitReason": "PAIR combines robot foundation models, data-efficient skill learning and scalable demonstration collection; COBALT is a concrete 2026 project anchor.",
       "physicalEvidence": {
         "status": "public-hardware-evidence",
-        "summary": "COBALT (ICRA 2026) explicitly supports real robot and bimanual teleoperation; PAIR’s current applications include humanoids and self-driving laboratories.",
+        "summary": "COBALT (ICRA 2026) reports real-hardware validation on a single Franka Panda Lift task. Its bimanual teleoperation user study is a separate result and does not by itself establish real-world bimanual robot validation.",
         "sourceIds": [
           "s1",
           "s2",
@@ -1998,7 +2007,7 @@
       },
       "scoreReasons": {
         "fit": "Direct foundation-model/manipulation/data-generation fit.",
-        "physical": "Explicit current real-robot bimanual project.",
+        "physical": "Real Franka Panda validation plus a separate bimanual teleoperation study; these are distinct experimental settings.",
         "shortVisit": "Short-term inquiry and funding preference explicit; eight-week compatibility not established.",
         "freshness": "2026 projects and current official affiliation."
       },
@@ -2021,8 +2030,8 @@
           "id": "s3",
           "label": "cobalt-teleop.github.io / source 3",
           "url": "https://cobalt-teleop.github.io/",
-          "summary": "ICRA 2026 real-world and bimanual robot data-collection platform.",
-          "verifiedAt": "2026-09-30T21:28:42Z"
+          "summary": "ICRA 2026 teleoperation platform: single Franka Panda real-robot Lift validation and separately reported bimanual user study.",
+          "verifiedAt": "2026-09-30T21:36:49Z"
         },
         {
           "id": "s4",

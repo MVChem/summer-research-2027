@@ -2,7 +2,7 @@
 
 [字段与评分说明](README.md) · [结构化记录](mentor_candidates.json)
 
-新增 **75 位**；原有 200 位保持不变。时间均为 UTC。
+新增 **83 位**；原有 200 位保持不变。时间均为 UTC。
 
 总分 = 研究匹配 40 + 真机证据 25 + 短访证据 20 + 信息新鲜度 15。分数是筛选优先级，不是录取概率；没有联系导师或发送邮件。
 
@@ -22,67 +22,75 @@
 | 12 | [Jaime Fernández Fisac](https://saferobotics.princeton.edu/jaime) · Princeton University | 80 | 40 / 25 / 0 / 15 | 2026-09-30T21:21:51Z | 2026-09-30T21:24:34Z |
 | 13 | [Anirudha Majumdar](https://irom-lab.princeton.edu/) · Princeton University | 80 | 40 / 25 / 0 / 15 | 2026-09-30T21:28:26Z | 2026-09-30T21:31:39Z |
 | 14 | [Mingyu Ding](https://dingmyu.github.io/) · University of North Carolina at Chapel Hill | 80 | 40 / 25 / 0 / 15 | 2026-09-30T21:32:25Z | 2026-09-30T21:46:12Z |
-| 15 | [Henny Admoni](https://www.hennyadmoni.com/) · Carnegie Mellon University | 79 | 39 / 25 / 0 / 15 | 2026-09-30T21:22:12Z | 2026-09-30T21:27:42Z |
-| 16 | [Daniel Rakita](https://engineering.yale.edu/research-and-faculty/faculty-directory/daniel-rakita) · Yale University | 79 | 39 / 25 / 0 / 15 | 2026-09-30T21:28:48Z | 2026-09-30T21:35:06Z |
-| 17 | [Alessandro Roncone](https://www.colorado.edu/cs/alessandro-roncone) · University of Colorado Boulder | 79 | 39 / 25 / 0 / 15 | 2026-09-30T21:29:12Z | 2026-09-30T21:35:06Z |
-| 18 | [Monroe Kennedy III](https://engineering.stanford.edu/people/monroe-kennedy) · Stanford University | 79 | 39 / 25 / 0 / 15 | 2026-09-30T21:36:19Z | 2026-09-30T21:42:22Z |
-| 19 | [Homanga Bharadhwaj](https://b3.cs.jhu.edu/) · Johns Hopkins University | 79 | 39 / 20 / 5 / 15 | 2026-09-30T21:29:01Z | 2026-09-30T21:31:39Z |
-| 20 | [Sylvia Herbert](https://sylviaherbert.com/) · University of California, San Diego | 78 | 39 / 24 / 0 / 15 | 2026-09-30T21:21:51Z | 2026-09-30T21:29:46Z |
-| 21 | [Soon-Jo Chung](https://aerospacerobotics.caltech.edu/) · California Institute of Technology | 78 | 38 / 25 / 0 / 15 | 2026-09-30T21:21:57Z | 2026-09-30T21:24:34Z |
-| 22 | [Laurel Riek](https://profiles.ucsd.edu/laurel.riek) · University of California San Diego | 78 | 38 / 25 / 0 / 15 | 2026-09-30T21:22:12Z | 2026-09-30T21:27:42Z |
-| 23 | [Joyce Chai](https://sled.eecs.umich.edu/author/joyce-y.-chai/) · University of Michigan | 78 | 38 / 25 / 0 / 15 | 2026-09-30T21:29:56Z | 2026-09-30T21:36:36Z |
-| 24 | [Yong Jae Lee](https://pages.cs.wisc.edu/~yongjaelee/) · University of Wisconsin–Madison | 78 | 38 / 25 / 0 / 15 | 2026-09-30T21:30:23Z | 2026-09-30T21:36:36Z |
-| 25 | [Abdeslam Boularias](https://rl.cs.rutgers.edu/abdeslam.html) · Rutgers University | 77 | 39 / 24 / 0 / 14 | 2026-09-30T21:29:26Z | 2026-09-30T21:36:36Z |
-| 26 | [Chien-Ming Huang](https://www.cs.jhu.edu/faculty/chien-ming-huang/) · Johns Hopkins University | 77 | 37 / 25 / 0 / 15 | 2026-09-30T21:28:48Z | 2026-09-30T21:35:06Z |
-| 27 | [Gaurav S. Sukhatme](https://uscresl.org/) · University of Southern California | 77 | 37 / 25 / 0 / 15 | 2026-09-30T21:29:41Z | 2026-09-30T21:36:36Z |
-| 28 | [Angelique Taylor](https://tech.cornell.edu/people/angelique-taylor/) · Cornell University, Cornell Tech | 77 | 37 / 25 / 0 / 15 | 2026-09-30T21:36:19Z | 2026-09-30T21:42:22Z |
-| 29 | [Bilge Mutlu](https://bmutlu.github.io/) · University of Wisconsin–Madison | 76 | 37 / 24 / 0 / 15 | 2026-09-30T21:22:12Z | 2026-09-30T21:27:42Z |
-| 30 | [Rahul Mangharam](https://xlab.upenn.edu/) · University of Pennsylvania | 76 | 37 / 24 / 0 / 15 | 2026-09-30T21:34:55Z | 2026-09-30T21:38:05Z |
-| 31 | [Nikolay A. Atanasov](https://natanaso.github.io/) · University of California, San Diego | 75 | 38 / 22 / 0 / 15 | 2026-09-30T21:28:35Z | 2026-09-30T21:31:39Z |
-| 32 | [Dimitra Panagou](https://websites.umich.edu/~dpanagou/) · University of Michigan | 75 | 38 / 22 / 0 / 15 | 2026-09-30T21:34:55Z | 2026-09-30T21:38:05Z |
-| 33 | [Daniel Szafir](https://www.danszafir.com/) · University of North Carolina at Chapel Hill | 75 | 37 / 23 / 0 / 15 | 2026-09-30T21:36:36Z | 2026-09-30T21:42:22Z |
-| 34 | [Antonio Loquercio](https://antonilo.github.io/) · University of Pennsylvania | 75 | 36 / 25 / 0 / 14 | 2026-09-30T21:24:15Z | 2026-09-30T21:28:42Z |
-| 35 | [Stefanos Nikolaidis](https://stefanosnikolaidis.net/) · University of Southern California | 75 | 35 / 25 / 0 / 15 | 2026-09-30T21:21:59Z | 2026-09-30T21:28:42Z |
-| 36 | [Brian Scassellati](https://engineering.yale.edu/research-and-faculty/faculty-directory/brian-scassellati) · Yale University | 75 | 35 / 25 / 0 / 15 | 2026-09-30T21:22:28Z | 2026-09-30T21:27:42Z |
-| 37 | [Joohyung Kim](https://publish.illinois.edu/kimlab2020/) · University of Illinois Urbana-Champaign | 75 | 35 / 25 / 0 / 15 | 2026-09-30T21:33:44Z | 2026-09-30T21:36:36Z |
-| 38 | [Holly Yanco](https://www.umass.edu/engineering/about/directory/holly-yanco) · University of Massachusetts Amherst | 75 | 35 / 25 / 0 / 15 | 2026-09-30T21:36:25Z | 2026-09-30T21:42:22Z |
-| 39 | [Aaron D. Ames](https://www.bipedalrobotics.com/) · California Institute of Technology | 74 | 39 / 25 / 0 / 10 | 2026-09-30T21:21:57Z | 2026-09-30T21:24:34Z |
-| 40 | [Koushil Sreenath](https://hybrid-robotics.berkeley.edu/) · University of California, Berkeley | 74 | 39 / 25 / 0 / 10 | 2026-09-30T21:22:05Z | 2026-09-30T21:24:34Z |
-| 41 | [Claire J. Tomlin](https://people.eecs.berkeley.edu/~tomlin/) · University of California, Berkeley | 74 | 39 / 20 / 0 / 15 | 2026-09-30T21:22:05Z | 2026-09-30T21:38:05Z |
-| 42 | [Marco Pavone](https://stanfordasl.github.io/) · Stanford University | 74 | 39 / 20 / 0 / 15 | 2026-09-30T21:22:33Z | 2026-09-30T21:31:39Z |
-| 43 | [Evangelos A. Theodorou](https://www.ae.gatech.edu/directory/person/evangelos-theodorou) · Georgia Institute of Technology | 74 | 39 / 20 / 0 / 15 | 2026-09-30T21:28:35Z | 2026-09-30T21:38:05Z |
-| 44 | [Haimin Hu](https://haiminhu.org/) · Johns Hopkins University | 74 | 39 / 20 / 0 / 15 | 2026-09-30T21:28:41Z | 2026-09-30T21:31:39Z |
-| 45 | [Morteza Lahijanian](https://ariasystems.group/) · University of Colorado Boulder | 74 | 37 / 22 / 0 / 15 | 2026-09-30T21:28:26Z | 2026-09-30T21:31:39Z |
-| 46 | [Bradley Hayes](https://www.colorado.edu/cs/bradley-hayes) · University of Colorado Boulder | 74 | 37 / 22 / 0 / 15 | 2026-09-30T21:29:12Z | 2026-09-30T21:35:06Z |
-| 47 | [Maja Matarić](https://viterbi.usc.edu/directory/faculty/Mataric/Maja) · University of Southern California | 74 | 36 / 20 / 5 / 13 | 2026-09-30T21:22:19Z | 2026-09-30T21:27:42Z |
-| 48 | [Naomi Fitter](https://osusharelab.com/people/) · Oregon State University | 74 | 34 / 25 / 0 / 15 | 2026-09-30T21:29:03Z | 2026-09-30T21:35:06Z |
-| 49 | [Sarah Sebo](https://eecs.ku.edu/people/sarah-sebo) · University of Kansas; continuing University of Chicago research affiliation | 74 | 34 / 25 / 0 / 15 | 2026-09-30T21:29:03Z | 2026-09-30T21:35:06Z |
-| 50 | [David Feil-Seifer](https://www.unr.edu/cse/people/david-feil-seifer) · University of Nevada, Reno | 74 | 34 / 25 / 0 / 15 | 2026-09-30T21:36:25Z | 2026-09-30T21:42:22Z |
-| 51 | [David Fridovich-Keil](https://dfridovi.github.io/) · University of Texas at Austin | 73 | 38 / 20 / 0 / 15 | 2026-09-30T21:21:51Z | 2026-09-30T21:24:34Z |
-| 52 | [Jesse Thomason](https://jessethomason.com/) · Georgia Institute of Technology | 73 | 38 / 20 / 0 / 15 | 2026-09-30T21:21:59Z | 2026-09-30T21:28:42Z |
-| 53 | [Giuseppe Loianno](https://arplaboratory.github.io/) · University of California, Berkeley | 73 | 38 / 20 / 0 / 15 | 2026-09-30T21:28:35Z | 2026-09-30T21:31:39Z |
-| 54 | [Karthik Mahadevan](https://www.cs.utexas.edu/people/faculty-researchers/karthik-mahadevan) · Massachusetts Institute of Technology (current postdoc); University of Texas at Austin (incoming Spring 2027) | 73 | 38 / 20 / 0 / 15 | 2026-09-30T21:36:36Z | 2026-09-30T21:42:22Z |
-| 55 | [Wendy Ju](https://www.cs.cornell.edu/people/wendy-ju) · Cornell University, Cornell Tech | 73 | 34 / 24 / 0 / 15 | 2026-09-30T21:37:06Z | 2026-09-30T21:42:22Z |
-| 56 | [Marynel Vázquez](https://engineering.yale.edu/research-and-faculty/faculty-directory/marynel-vazquez) · Yale University | 72 | 37 / 25 / 0 / 10 | 2026-09-30T21:36:19Z | 2026-09-30T21:42:22Z |
-| 57 | [Ufuk Topcu](https://ae.utexas.edu/person/ufuk-topcu/) · University of Texas at Austin | 72 | 37 / 20 / 0 / 15 | 2026-09-30T21:34:55Z | 2026-09-30T21:38:05Z |
-| 58 | [Thomas M. Howard](https://www.hajim.rochester.edu/ece/news-events/news/2026/2026-06-29_howard-promo-news.html) · University of Rochester | 72 | 37 / 20 / 0 / 15 | 2026-09-30T21:36:25Z | 2026-09-30T21:42:22Z |
-| 59 | [Allison Okamura](https://profiles.stanford.edu/allison-okamura) · Stanford University | 72 | 32 / 20 / 5 / 15 | 2026-09-30T21:22:28Z | 2026-09-30T21:37:40Z |
-| 60 | [Naira Hovakimyan](https://naira.mechse.illinois.edu/) · University of Illinois Urbana-Champaign | 71 | 37 / 22 / 0 / 12 | 2026-09-30T21:35:03Z | 2026-09-30T21:38:05Z |
-| 61 | [Ram Vasudevan](https://www.roahmlab.com/) · University of Michigan | 71 | 36 / 20 / 0 / 15 | 2026-09-30T21:36:36Z | 2026-09-30T21:38:05Z |
-| 62 | [Sandeep P. Chinchali](https://utaustin-swarmlab.github.io/) · University of Texas at Austin | 70 | 35 / 20 / 0 / 15 | 2026-09-30T21:28:26Z | 2026-09-30T21:38:05Z |
-| 63 | [David Porfirio](https://dporfirio.github.io/) · George Mason University | 70 | 35 / 20 / 0 / 15 | 2026-09-30T21:28:48Z | 2026-09-30T21:35:06Z |
-| 64 | [Selma Šabanović](https://luddy.iu.edu/people/sabanovic-selma.html) · Indiana University Bloomington | 70 | 34 / 23 / 8 / 5 | 2026-09-30T21:22:12Z | 2026-09-30T21:27:42Z |
-| 65 | [Karen Leung](https://depts.washington.edu/ctrl/) · University of Washington | 69 | 37 / 18 / 0 / 14 | 2026-09-30T21:21:57Z | 2026-09-30T21:24:34Z |
-| 66 | [Mykel J. Kochenderfer](https://sisl.stanford.edu/) · Stanford University | 69 | 36 / 18 / 0 / 15 | 2026-09-30T21:35:03Z | 2026-09-30T21:38:05Z |
-| 67 | [Jean Oh](https://www.cs.cmu.edu/~jeanoh/) · Carnegie Mellon University | 68 | 33 / 25 / 0 / 10 | 2026-09-30T21:24:15Z | 2026-09-30T21:28:42Z |
-| 68 | [Tom Williams](https://www.mines.edu/about/faculty-directory/profiles/tom-williams.html) · Colorado School of Mines | 68 | 33 / 20 / 0 / 15 | 2026-09-30T21:30:51Z | 2026-09-30T21:35:06Z |
-| 69 | [Jorge Cortés](https://jacobsschool.ucsd.edu/faculty/profile?id=263) · University of California, San Diego | 67 | 37 / 20 / 0 / 10 | 2026-09-30T21:28:35Z | 2026-09-30T21:38:05Z |
-| 70 | [Pragathi Praveena](https://pragathipraveena.com/) · Carnegie Mellon University (current); George Mason University (announced January 2027) | 65 | 35 / 20 / 0 / 10 | 2026-09-30T21:28:48Z | 2026-09-30T21:35:06Z |
-| 71 | [Yezhou Yang](https://faculty.engineering.asu.edu/yezhouyang/research) · Arizona State University | 65 | 32 / 20 / 0 / 13 | 2026-09-30T21:29:47Z | 2026-09-30T21:36:36Z |
-| 72 | [Heather Knight](https://www.charismarobotics.com/team) · Oregon State University | 64 | 34 / 20 / 0 / 10 | 2026-09-30T21:22:28Z | 2026-09-30T21:27:42Z |
-| 73 | [Laura Stegner](https://engineering.gwu.edu/laura-stegner) · George Washington University | 63 | 33 / 20 / 0 / 10 | 2026-09-30T21:29:03Z | 2026-09-30T21:35:06Z |
-| 74 | [Guy Hoffman](https://www.cs.cornell.edu/people/guy-hoffman) · Cornell University | 61 | 36 / 20 / 0 / 5 | 2026-09-30T21:22:19Z | 2026-09-30T21:27:42Z |
-| 75 | [Cynthia Breazeal](https://www.media.mit.edu/people/cynthiab/overview/) · Massachusetts Institute of Technology | 59 | 34 / 20 / 0 / 5 | 2026-09-30T21:22:19Z | 2026-09-30T21:27:42Z |
+| 15 | [Yuxiong Wang](https://yxw.cs.illinois.edu/) · University of Illinois Urbana-Champaign | 80 | 37 / 20 / 8 / 15 | 2026-09-30T21:37:18Z | 2026-09-30T21:42:30Z |
+| 16 | [Henny Admoni](https://www.hennyadmoni.com/) · Carnegie Mellon University | 79 | 39 / 25 / 0 / 15 | 2026-09-30T21:22:12Z | 2026-09-30T21:27:42Z |
+| 17 | [Daniel Rakita](https://engineering.yale.edu/research-and-faculty/faculty-directory/daniel-rakita) · Yale University | 79 | 39 / 25 / 0 / 15 | 2026-09-30T21:28:48Z | 2026-09-30T21:35:06Z |
+| 18 | [Alessandro Roncone](https://www.colorado.edu/cs/alessandro-roncone) · University of Colorado Boulder | 79 | 39 / 25 / 0 / 15 | 2026-09-30T21:29:12Z | 2026-09-30T21:35:06Z |
+| 19 | [Monroe Kennedy III](https://engineering.stanford.edu/people/monroe-kennedy) · Stanford University | 79 | 39 / 25 / 0 / 15 | 2026-09-30T21:36:19Z | 2026-09-30T21:42:22Z |
+| 20 | [Homanga Bharadhwaj](https://b3.cs.jhu.edu/) · Johns Hopkins University | 79 | 39 / 20 / 5 / 15 | 2026-09-30T21:29:01Z | 2026-09-30T21:31:39Z |
+| 21 | [Sylvia Herbert](https://sylviaherbert.com/) · University of California, San Diego | 78 | 39 / 24 / 0 / 15 | 2026-09-30T21:21:51Z | 2026-09-30T21:29:46Z |
+| 22 | [Soon-Jo Chung](https://aerospacerobotics.caltech.edu/) · California Institute of Technology | 78 | 38 / 25 / 0 / 15 | 2026-09-30T21:21:57Z | 2026-09-30T21:24:34Z |
+| 23 | [Laurel Riek](https://profiles.ucsd.edu/laurel.riek) · University of California San Diego | 78 | 38 / 25 / 0 / 15 | 2026-09-30T21:22:12Z | 2026-09-30T21:27:42Z |
+| 24 | [Joyce Chai](https://sled.eecs.umich.edu/author/joyce-y.-chai/) · University of Michigan | 78 | 38 / 25 / 0 / 15 | 2026-09-30T21:29:56Z | 2026-09-30T21:36:36Z |
+| 25 | [Yong Jae Lee](https://pages.cs.wisc.edu/~yongjaelee/) · University of Wisconsin–Madison | 78 | 38 / 25 / 0 / 15 | 2026-09-30T21:30:23Z | 2026-09-30T21:36:36Z |
+| 26 | [Abdeslam Boularias](https://rl.cs.rutgers.edu/abdeslam.html) · Rutgers University | 77 | 39 / 24 / 0 / 14 | 2026-09-30T21:29:26Z | 2026-09-30T21:36:36Z |
+| 27 | [Chien-Ming Huang](https://www.cs.jhu.edu/faculty/chien-ming-huang/) · Johns Hopkins University | 77 | 37 / 25 / 0 / 15 | 2026-09-30T21:28:48Z | 2026-09-30T21:35:06Z |
+| 28 | [Gaurav S. Sukhatme](https://uscresl.org/) · University of Southern California | 77 | 37 / 25 / 0 / 15 | 2026-09-30T21:29:41Z | 2026-09-30T21:36:36Z |
+| 29 | [Angelique Taylor](https://tech.cornell.edu/people/angelique-taylor/) · Cornell University, Cornell Tech | 77 | 37 / 25 / 0 / 15 | 2026-09-30T21:36:19Z | 2026-09-30T21:42:22Z |
+| 30 | [Bilge Mutlu](https://bmutlu.github.io/) · University of Wisconsin–Madison | 76 | 37 / 24 / 0 / 15 | 2026-09-30T21:22:12Z | 2026-09-30T21:27:42Z |
+| 31 | [Rahul Mangharam](https://xlab.upenn.edu/) · University of Pennsylvania | 76 | 37 / 24 / 0 / 15 | 2026-09-30T21:34:55Z | 2026-09-30T21:38:05Z |
+| 32 | [Nikolay A. Atanasov](https://natanaso.github.io/) · University of California, San Diego | 75 | 38 / 22 / 0 / 15 | 2026-09-30T21:28:35Z | 2026-09-30T21:31:39Z |
+| 33 | [Dimitra Panagou](https://websites.umich.edu/~dpanagou/) · University of Michigan | 75 | 38 / 22 / 0 / 15 | 2026-09-30T21:34:55Z | 2026-09-30T21:38:05Z |
+| 34 | [Daniel Szafir](https://www.danszafir.com/) · University of North Carolina at Chapel Hill | 75 | 37 / 23 / 0 / 15 | 2026-09-30T21:36:36Z | 2026-09-30T21:42:22Z |
+| 35 | [Antonio Loquercio](https://antonilo.github.io/) · University of Pennsylvania | 75 | 36 / 25 / 0 / 14 | 2026-09-30T21:24:15Z | 2026-09-30T21:28:42Z |
+| 36 | [Stefanos Nikolaidis](https://stefanosnikolaidis.net/) · University of Southern California | 75 | 35 / 25 / 0 / 15 | 2026-09-30T21:21:59Z | 2026-09-30T21:28:42Z |
+| 37 | [Brian Scassellati](https://engineering.yale.edu/research-and-faculty/faculty-directory/brian-scassellati) · Yale University | 75 | 35 / 25 / 0 / 15 | 2026-09-30T21:22:28Z | 2026-09-30T21:27:42Z |
+| 38 | [Joohyung Kim](https://publish.illinois.edu/kimlab2020/) · University of Illinois Urbana-Champaign | 75 | 35 / 25 / 0 / 15 | 2026-09-30T21:33:44Z | 2026-09-30T21:36:36Z |
+| 39 | [Holly Yanco](https://www.umass.edu/engineering/about/directory/holly-yanco) · University of Massachusetts Amherst | 75 | 35 / 25 / 0 / 15 | 2026-09-30T21:36:25Z | 2026-09-30T21:42:22Z |
+| 40 | [Aaron D. Ames](https://www.bipedalrobotics.com/) · California Institute of Technology | 74 | 39 / 25 / 0 / 10 | 2026-09-30T21:21:57Z | 2026-09-30T21:24:34Z |
+| 41 | [Koushil Sreenath](https://hybrid-robotics.berkeley.edu/) · University of California, Berkeley | 74 | 39 / 25 / 0 / 10 | 2026-09-30T21:22:05Z | 2026-09-30T21:24:34Z |
+| 42 | [Claire J. Tomlin](https://people.eecs.berkeley.edu/~tomlin/) · University of California, Berkeley | 74 | 39 / 20 / 0 / 15 | 2026-09-30T21:22:05Z | 2026-09-30T21:38:05Z |
+| 43 | [Marco Pavone](https://stanfordasl.github.io/) · Stanford University | 74 | 39 / 20 / 0 / 15 | 2026-09-30T21:22:33Z | 2026-09-30T21:31:39Z |
+| 44 | [Evangelos A. Theodorou](https://www.ae.gatech.edu/directory/person/evangelos-theodorou) · Georgia Institute of Technology | 74 | 39 / 20 / 0 / 15 | 2026-09-30T21:28:35Z | 2026-09-30T21:38:05Z |
+| 45 | [Haimin Hu](https://haiminhu.org/) · Johns Hopkins University | 74 | 39 / 20 / 0 / 15 | 2026-09-30T21:28:41Z | 2026-09-30T21:31:39Z |
+| 46 | [Zhongzheng (Jason) Ren](https://jason718.github.io/) · University of North Carolina at Chapel Hill | 74 | 39 / 20 / 0 / 15 | 2026-09-30T21:37:18Z | 2026-09-30T21:42:30Z |
+| 47 | [Morteza Lahijanian](https://ariasystems.group/) · University of Colorado Boulder | 74 | 37 / 22 / 0 / 15 | 2026-09-30T21:28:26Z | 2026-09-30T21:31:39Z |
+| 48 | [Bradley Hayes](https://www.colorado.edu/cs/bradley-hayes) · University of Colorado Boulder | 74 | 37 / 22 / 0 / 15 | 2026-09-30T21:29:12Z | 2026-09-30T21:35:06Z |
+| 49 | [Jia Deng](https://www.cs.princeton.edu/~jiadeng/) · Princeton University | 74 | 36 / 24 / 0 / 14 | 2026-09-30T21:38:32Z | 2026-09-30T21:42:30Z |
+| 50 | [Maja Matarić](https://viterbi.usc.edu/directory/faculty/Mataric/Maja) · University of Southern California | 74 | 36 / 20 / 5 / 13 | 2026-09-30T21:22:19Z | 2026-09-30T21:27:42Z |
+| 51 | [Naomi Fitter](https://osusharelab.com/people/) · Oregon State University | 74 | 34 / 25 / 0 / 15 | 2026-09-30T21:29:03Z | 2026-09-30T21:35:06Z |
+| 52 | [Sarah Sebo](https://eecs.ku.edu/people/sarah-sebo) · University of Kansas; continuing University of Chicago research affiliation | 74 | 34 / 25 / 0 / 15 | 2026-09-30T21:29:03Z | 2026-09-30T21:35:06Z |
+| 53 | [David Feil-Seifer](https://www.unr.edu/cse/people/david-feil-seifer) · University of Nevada, Reno | 74 | 34 / 25 / 0 / 15 | 2026-09-30T21:36:25Z | 2026-09-30T21:42:22Z |
+| 54 | [Chenfeng Xu](https://www.chenfengx.com/) · The University of Texas at Austin | 73 | 39 / 20 / 0 / 14 | 2026-09-30T21:37:18Z | 2026-09-30T21:42:30Z |
+| 55 | [Ranjay Krishna](https://www.ranjaykrishna.com/index.html) · University of Washington | 73 | 39 / 20 / 0 / 14 | 2026-09-30T21:37:51Z | 2026-09-30T21:42:30Z |
+| 56 | [David Fridovich-Keil](https://dfridovi.github.io/) · University of Texas at Austin | 73 | 38 / 20 / 0 / 15 | 2026-09-30T21:21:51Z | 2026-09-30T21:24:34Z |
+| 57 | [Jesse Thomason](https://jessethomason.com/) · Georgia Institute of Technology | 73 | 38 / 20 / 0 / 15 | 2026-09-30T21:21:59Z | 2026-09-30T21:28:42Z |
+| 58 | [Giuseppe Loianno](https://arplaboratory.github.io/) · University of California, Berkeley | 73 | 38 / 20 / 0 / 15 | 2026-09-30T21:28:35Z | 2026-09-30T21:31:39Z |
+| 59 | [Karthik Mahadevan](https://www.cs.utexas.edu/people/faculty-researchers/karthik-mahadevan) · Massachusetts Institute of Technology (current postdoc); University of Texas at Austin (incoming Spring 2027) | 73 | 38 / 20 / 0 / 15 | 2026-09-30T21:36:36Z | 2026-09-30T21:42:22Z |
+| 60 | [Michael S. Ryoo](https://michaelryoo.com/) · Stony Brook University | 73 | 37 / 24 / 0 / 12 | 2026-09-30T21:39:12Z | 2026-09-30T21:42:30Z |
+| 61 | [Wendy Ju](https://www.cs.cornell.edu/people/wendy-ju) · Cornell University, Cornell Tech | 73 | 34 / 24 / 0 / 15 | 2026-09-30T21:37:06Z | 2026-09-30T21:42:22Z |
+| 62 | [Marynel Vázquez](https://engineering.yale.edu/research-and-faculty/faculty-directory/marynel-vazquez) · Yale University | 72 | 37 / 25 / 0 / 10 | 2026-09-30T21:36:19Z | 2026-09-30T21:42:22Z |
+| 63 | [Ufuk Topcu](https://ae.utexas.edu/person/ufuk-topcu/) · University of Texas at Austin | 72 | 37 / 20 / 0 / 15 | 2026-09-30T21:34:55Z | 2026-09-30T21:38:05Z |
+| 64 | [Thomas M. Howard](https://www.hajim.rochester.edu/ece/news-events/news/2026/2026-06-29_howard-promo-news.html) · University of Rochester | 72 | 37 / 20 / 0 / 15 | 2026-09-30T21:36:25Z | 2026-09-30T21:42:22Z |
+| 65 | [Raymond A. Yeh](https://raymond-yeh.com/) · Purdue University | 72 | 34 / 24 / 0 / 14 | 2026-09-30T21:38:00Z | 2026-09-30T21:42:30Z |
+| 66 | [Allison Okamura](https://profiles.stanford.edu/allison-okamura) · Stanford University | 72 | 32 / 20 / 5 / 15 | 2026-09-30T21:22:28Z | 2026-09-30T21:37:40Z |
+| 67 | [Naira Hovakimyan](https://naira.mechse.illinois.edu/) · University of Illinois Urbana-Champaign | 71 | 37 / 22 / 0 / 12 | 2026-09-30T21:35:03Z | 2026-09-30T21:38:05Z |
+| 68 | [Ram Vasudevan](https://www.roahmlab.com/) · University of Michigan | 71 | 36 / 20 / 0 / 15 | 2026-09-30T21:36:36Z | 2026-09-30T21:38:05Z |
+| 69 | [Kris M. Kitani](https://kriskitani.github.io/) · Carnegie Mellon University | 71 | 36 / 20 / 0 / 15 | 2026-09-30T21:38:18Z | 2026-09-30T21:42:30Z |
+| 70 | [Sandeep P. Chinchali](https://utaustin-swarmlab.github.io/) · University of Texas at Austin | 70 | 35 / 20 / 0 / 15 | 2026-09-30T21:28:26Z | 2026-09-30T21:38:05Z |
+| 71 | [David Porfirio](https://dporfirio.github.io/) · George Mason University | 70 | 35 / 20 / 0 / 15 | 2026-09-30T21:28:48Z | 2026-09-30T21:35:06Z |
+| 72 | [Selma Šabanović](https://luddy.iu.edu/people/sabanovic-selma.html) · Indiana University Bloomington | 70 | 34 / 23 / 8 / 5 | 2026-09-30T21:22:12Z | 2026-09-30T21:27:42Z |
+| 73 | [Karen Leung](https://depts.washington.edu/ctrl/) · University of Washington | 69 | 37 / 18 / 0 / 14 | 2026-09-30T21:21:57Z | 2026-09-30T21:24:34Z |
+| 74 | [Mykel J. Kochenderfer](https://sisl.stanford.edu/) · Stanford University | 69 | 36 / 18 / 0 / 15 | 2026-09-30T21:35:03Z | 2026-09-30T21:38:05Z |
+| 75 | [Jean Oh](https://www.cs.cmu.edu/~jeanoh/) · Carnegie Mellon University | 68 | 33 / 25 / 0 / 10 | 2026-09-30T21:24:15Z | 2026-09-30T21:28:42Z |
+| 76 | [Tom Williams](https://www.mines.edu/about/faculty-directory/profiles/tom-williams.html) · Colorado School of Mines | 68 | 33 / 20 / 0 / 15 | 2026-09-30T21:30:51Z | 2026-09-30T21:35:06Z |
+| 77 | [Jorge Cortés](https://jacobsschool.ucsd.edu/faculty/profile?id=263) · University of California, San Diego | 67 | 37 / 20 / 0 / 10 | 2026-09-30T21:28:35Z | 2026-09-30T21:38:05Z |
+| 78 | [Pragathi Praveena](https://pragathipraveena.com/) · Carnegie Mellon University (current); George Mason University (announced January 2027) | 65 | 35 / 20 / 0 / 10 | 2026-09-30T21:28:48Z | 2026-09-30T21:35:06Z |
+| 79 | [Yezhou Yang](https://faculty.engineering.asu.edu/yezhouyang/research) · Arizona State University | 65 | 32 / 20 / 0 / 13 | 2026-09-30T21:29:47Z | 2026-09-30T21:36:36Z |
+| 80 | [Heather Knight](https://www.charismarobotics.com/team) · Oregon State University | 64 | 34 / 20 / 0 / 10 | 2026-09-30T21:22:28Z | 2026-09-30T21:27:42Z |
+| 81 | [Laura Stegner](https://engineering.gwu.edu/laura-stegner) · George Washington University | 63 | 33 / 20 / 0 / 10 | 2026-09-30T21:29:03Z | 2026-09-30T21:35:06Z |
+| 82 | [Guy Hoffman](https://www.cs.cornell.edu/people/guy-hoffman) · Cornell University | 61 | 36 / 20 / 0 / 5 | 2026-09-30T21:22:19Z | 2026-09-30T21:27:42Z |
+| 83 | [Cynthia Breazeal](https://www.media.mit.edu/people/cynthiab/overview/) · Massachusetts Institute of Technology | 59 | 34 / 20 / 0 / 5 | 2026-09-30T21:22:19Z | 2026-09-30T21:27:42Z |
 
 ## 1. Tom Silver · Princeton University
 
@@ -378,7 +386,28 @@
   - [zhenyuwei2003.github.io / source 4](https://zhenyuwei2003.github.io/OHRA/)：RSS 2026 cross-hand policy learning with physical LEAP-hand experiments.（核查 2026-09-30T21:36:36Z）
   - [cat.chenyangma.com / source 5](https://cat.chenyangma.com/)：Real contact-rich dexterous manipulation and learned feedback.（核查 2026-09-30T21:36:36Z）
 
-## 15. Henny Admoni · Carnegie Mellon University
+## 15. Yuxiong Wang · University of Illinois Urbana-Champaign
+
+- 稳定键：`yuxiong-wang`；批次：embodied-003
+- 任职：Assistant Professor
+- 方向：Robot learning；Humanoid loco-manipulation；Dexterous control；Multimodal perception；Generative modeling
+- 匹配理由：ULTRA (IROS 2026) learns multimodal humanoid whole-body behavior, while Dexplore scales dexterous policies from imperfect human motion capture.
+- 真机证据（public-hardware-evidence）：ULTRA’s primary project explicitly reports a real Unitree G1 picking up, carrying and placing objects from egocentric perception and task goals.
+- 短访证据（inquiry-only）：University-hosted faculty homepage explicitly says the group has openings for visiting students and welcomes contact.
+- 首次发现：2026-09-30T21:37:18Z；最后核查：2026-09-30T21:42:30Z
+- 评分依据：
+  - fit 37/40：Strong humanoid/dexterous learning and multimodal control match.
+  - physical 20/25：Named real Unitree G1 demonstrations are in collaborative research; present host-lab platform access is not established.
+  - shortVisit 8/20：Explicit visiting-student opening, duration and target-period eligibility unspecified.
+  - freshness 15/15：2026 project and current university sources.
+- 未确认事项：Generic opening states no duration, degree restrictions, funding terms or summer-2027 slot. Physical results concern collaborative projects; access for a visitor must be established.；Summer 2027 acceptance, supervision, exact dates, funding, appointment and university/immigration approvals are unconfirmed. Self-funding alone does not establish eligibility.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.
+- 来源：
+  - [siebelschool.illinois.edu / source 1](https://siebelschool.illinois.edu/about/people/faculty/yxw)：Current official assistant professor title and email.（核查 2026-09-30T21:42:30Z）
+  - [yxw.cs.illinois.edu / source 2](https://yxw.cs.illinois.edu/)：Research scope and explicit visiting-student openings.（核查 2026-09-30T21:42:30Z）
+  - [ultra-humanoid.github.io / source 3](https://ultra-humanoid.github.io/)：2026 co-advised project with physical G1 deployment.（核查 2026-09-30T21:42:30Z）
+  - [arxiv.org / source 4](https://arxiv.org/abs/2509.09671)：Dexplore primary paper, dexterous policy learning from motion capture.（核查 2026-09-30T21:42:30Z）
+
+## 16. Henny Admoni · Carnegie Mellon University
 
 - 稳定键：`henny-admoni`；批次：hri-001
 - 任职：Associate Professor
@@ -400,7 +429,7 @@
   - [www.hennyadmoni.com / source 4](https://www.hennyadmoni.com/working-with-me/)：Research-entry guidance; generally no positions for non-CMU undergraduates.（核查 2026-09-30T21:27:42Z）
   - [riss.ri.cmu.edu / source 5](https://riss.ri.cmu.edu/faq/)：RISS expressly excludes graduate students and international students attending university outside the US.（核查 2026-09-30T21:27:42Z）
 
-## 16. Daniel Rakita · Yale University
+## 17. Daniel Rakita · Yale University
 
 - 稳定键：`daniel-rakita`；批次：hri-002
 - 任职：Assistant Professor
@@ -421,7 +450,7 @@
   - [arxiv.org / source 3](https://arxiv.org/html/2507.05695v4)：Section V-B details physical dual-xArm7 experiments and perception pipeline.（核查 2026-09-30T21:35:06Z）
   - [apollo-lab-yale.github.io / source 4](https://apollo-lab-yale.github.io/joining/)：Only PhD admissions and existing Yale undergraduate research routes listed.（核查 2026-09-30T21:35:06Z）
 
-## 17. Alessandro Roncone · University of Colorado Boulder
+## 18. Alessandro Roncone · University of Colorado Boulder
 
 - 稳定键：`alessandro-roncone`；批次：hri-002
 - 任职：Associate Professor
@@ -441,7 +470,7 @@
   - [hiro-group.ronc.one / source 2](https://hiro-group.ronc.one/join_us.html)：Franka Panda equipment, robot stack and explicit distinction between degree applicants/current CU students.（核查 2026-09-30T21:35:06Z）
   - [www.colorado.edu / source 3](https://www.colorado.edu/research/partnerships/2026/06/18/faculty-spotlight-alessandro-roncone-computer-science)：Dated June 2026 institutional research activity.（核查 2026-09-30T21:35:06Z）
 
-## 18. Monroe Kennedy III · Stanford University
+## 19. Monroe Kennedy III · Stanford University
 
 - 稳定键：`monroe-kennedy-iii`；批次：hri-003
 - 任职：Assistant Professor
@@ -463,7 +492,7 @@
   - [arm.stanford.edu / source 4](https://arm.stanford.edu/about/)：Undergraduate internships and degree/postdoc joining information.（核查 2026-09-30T21:42:22Z）
   - [arm.stanford.edu / source 5](https://arm.stanford.edu/people/)：Past visiting MS scholar in 2023, not present recruitment.（核查 2026-09-30T21:42:22Z）
 
-## 19. Homanga Bharadhwaj · Johns Hopkins University
+## 20. Homanga Bharadhwaj · Johns Hopkins University
 
 - 稳定键：`homanga-bharadhwaj`；批次：control-002
 - 任职：Assistant Professor
@@ -484,7 +513,7 @@
   - [arxiv.org / source 3](https://arxiv.org/abs/2511.16661)：AINA paper coauthorship, robot-policy learning from human demonstrations and nine manipulation tasks.（核查 2026-09-30T21:31:39Z）
   - [homangab.github.io / source 4](https://homangab.github.io/)：Current JHU faculty role and 2026 robot-learning research.（核查 2026-09-30T21:31:39Z）
 
-## 20. Sylvia Herbert · University of California, San Diego
+## 21. Sylvia Herbert · University of California, San Diego
 
 - 稳定键：`sylvia-herbert`；批次：control-001
 - 任职：Associate Professor
@@ -505,7 +534,7 @@
   - [sylviaherbert.com / source 3](https://sylviaherbert.com/join-us)：Prospective MS collaboration after admission; current-student forms and separate PhD/postdoc guidance.（核查 2026-09-30T21:24:34Z）
   - [UCSD Jacobs School faculty profile](https://jacobsschool.ucsd.edu/faculty/profile?id=516)：Official current faculty profile lists Associate Professor in MAE, reinforcement learning and physical testing.（核查 2026-09-30T21:29:46Z）
 
-## 21. Soon-Jo Chung · California Institute of Technology
+## 22. Soon-Jo Chung · California Institute of Technology
 
 - 稳定键：`soon-jo-chung`；批次：control-001
 - 任职：Bren Professor of Control and Dynamical Systems
@@ -526,7 +555,7 @@
   - [sites.google.com / source 3](https://sites.google.com/view/contractiontheory/)：PI-maintained learning-based-control tutorial and public Caltech email.（核查 2026-09-30T21:24:34Z）
   - [www.cms.caltech.edu / source 4](https://www.cms.caltech.edu/research/robotics-and-autonomous-control)：Official Caltech overview connects Chung to swarm robots and robustness of learning-enabled autonomy.（核查 2026-09-30T21:24:34Z）
 
-## 22. Laurel Riek · University of California San Diego
+## 23. Laurel Riek · University of California San Diego
 
 - 稳定键：`laurel-riek`；批次：hri-001
 - 任职：Professor
@@ -550,7 +579,7 @@
   - [www.grad.ucsd.edu / source 6](https://www.grad.ucsd.edu/financial/non-uc-visiting-grads/index.html)：External MS eligibility, personal-fund option, no minimum appointment length, sponsor approvals and advance processing; not PI availability.（核查 2026-09-30T21:27:42Z）
   - [healthrobotics.ucsd.edu / source 7](https://healthrobotics.ucsd.edu/papers/prospective.html)：General lab recruitment page is dated to 2024.（核查 2026-09-30T21:27:42Z）
 
-## 23. Joyce Chai · University of Michigan
+## 24. Joyce Chai · University of Michigan
 
 - 稳定键：`joyce-chai`；批次：embodied-002
 - 任职：Professor
@@ -571,7 +600,7 @@
   - [sled.eecs.umich.edu / source 3](https://sled.eecs.umich.edu/publication/dai-2026-robomme/)：ICML 2026 publication and research framing.（核查 2026-09-30T21:36:36Z）
   - [robomme.github.io / source 4](https://robomme.github.io/)：Primary project documents real robot task suites and equal advising role.（核查 2026-09-30T21:36:36Z）
 
-## 24. Yong Jae Lee · University of Wisconsin–Madison
+## 25. Yong Jae Lee · University of Wisconsin–Madison
 
 - 稳定键：`yong-jae-lee`；批次：embodied-002
 - 任职：Susan Beth Horwitz Professor
@@ -592,7 +621,7 @@
   - [arxiv.org / source 3](https://arxiv.org/abs/2609.24682)：Primary September 2026 preprint and authorship.（核查 2026-09-30T21:36:36Z）
   - [thaw-vla.trung-dt.com / source 4](https://thaw-vla.trung-dt.com/)：Named physical platforms, tasks and experiment details.（核查 2026-09-30T21:36:36Z）
 
-## 25. Abdeslam Boularias · Rutgers University
+## 26. Abdeslam Boularias · Rutgers University
 
 - 稳定键：`abdeslam-boularias`；批次：embodied-002
 - 任职：Associate Professor
@@ -615,7 +644,7 @@
   - [rl.cs.rutgers.edu / source 5](https://rl.cs.rutgers.edu/publications/YuhanIROS2025.pdf)：Primary paper reports real physical insertion experiments.（核查 2026-09-30T21:36:36Z）
   - [arxiv.org / source 6](https://arxiv.org/abs/2607.16506)：Primary 2026 Foresight paper specifies Isaac Gym task evaluation.（核查 2026-09-30T21:36:36Z）
 
-## 26. Chien-Ming Huang · Johns Hopkins University
+## 27. Chien-Ming Huang · Johns Hopkins University
 
 - 稳定键：`chien-ming-huang`；批次：hri-002
 - 任职：John C. Malone Associate Professor
@@ -636,7 +665,7 @@
   - [arxiv.org / source 3](https://arxiv.org/abs/2603.12508)：Primary 2026 ELLA paper describes autonomous robot home deployment.（核查 2026-09-30T21:35:06Z）
   - [intuitivecomputing.github.io / source 4](https://intuitivecomputing.github.io/join.html)：Joining guidance is for JHU students and MS/PhD/MSE degree applications.（核查 2026-09-30T21:35:06Z）
 
-## 27. Gaurav S. Sukhatme · University of Southern California
+## 28. Gaurav S. Sukhatme · University of Southern California
 
 - 稳定键：`gaurav-s-sukhatme`；批次：embodied-002
 - 任职：Professor; Donald M. Alstadt Chair in Advanced Computing; Interim Dean
@@ -659,7 +688,7 @@
   - [uscresl.org / source 5](https://uscresl.org/people/)：Historical visiting scholar list; no current slot established.（核查 2026-09-30T21:36:36Z）
   - [www.cs.usc.edu / source 6](https://www.cs.usc.edu/reu/)：Undergraduate 2026 summer mentorship evidence, not master’s eligibility.（核查 2026-09-30T21:36:36Z）
 
-## 28. Angelique Taylor · Cornell University, Cornell Tech
+## 29. Angelique Taylor · Cornell University, Cornell Tech
 
 - 稳定键：`angelique-taylor`；批次：hri-003
 - 任职：Andrew H. and Ann R. Tisch Assistant Professor
@@ -680,7 +709,7 @@
   - [liquetaylor.wixstudio.com / source 3](https://liquetaylor.wixstudio.com/airlab)：Current named physical platform inventory and exact teleoperation limitations.（核查 2026-09-30T21:42:22Z）
   - [tech.cornell.edu / source 4](https://tech.cornell.edu/news/robotic-medical-crash-cart-cornell-tech/)：Dated 2026 university report of physical crash-cart robot work.（核查 2026-09-30T21:42:22Z）
 
-## 29. Bilge Mutlu · University of Wisconsin–Madison
+## 30. Bilge Mutlu · University of Wisconsin–Madison
 
 - 稳定键：`bilge-mutlu`；批次：hri-001
 - 任职：Professor
@@ -699,7 +728,7 @@
   - [bmutlu.github.io / source 1](https://bmutlu.github.io/)：Affiliation, current research, physical collaborative systems, and 2026 activity; invitation specifically mentions UW students.（核查 2026-09-30T21:27:42Z）
   - [wid.wisc.edu / source 2](https://wid.wisc.edu/people/bilge-mutlu/)：Institutional professor profile and public email.（核查 2026-09-30T21:27:42Z）
 
-## 30. Rahul Mangharam · University of Pennsylvania
+## 31. Rahul Mangharam · University of Pennsylvania
 
 - 稳定键：`rahul-mangharam`；批次：control-003
 - 任职：Professor
@@ -721,7 +750,7 @@
   - [xlab.upenn.edu / source 4](https://xlab.upenn.edu/contact/)：Public PI email; prospective-degree and current-Penn pathways only.（核查 2026-09-30T21:38:05Z）
   - [xlab.upenn.edu / source 5](https://xlab.upenn.edu/)：Dated2026 projects in safe learning MPC, AI coaching and fleets.（核查 2026-09-30T21:38:05Z）
 
-## 31. Nikolay A. Atanasov · University of California, San Diego
+## 32. Nikolay A. Atanasov · University of California, San Diego
 
 - 稳定键：`nikolay-a-atanasov`；批次：control-002
 - 任职：Associate Professor
@@ -742,7 +771,7 @@
   - [escholarship.org / source 3](https://escholarship.org/uc/item/5rv3m2rf)：UC-hosted author paper explicitly reports differential-drive hardware experiments.（核查 2026-09-30T21:31:39Z）
   - [erl.ucsd.edu / source 4](https://erl.ucsd.edu/pages/alumni.html)：International summer student history and master's alumni; precedent only.（核查 2026-09-30T21:31:39Z）
 
-## 32. Dimitra Panagou · University of Michigan
+## 33. Dimitra Panagou · University of Michigan
 
 - 稳定键：`dimitra-panagou`；批次：control-003
 - 任职：Professor
@@ -765,7 +794,7 @@
   - [arxiv.org / source 5](https://arxiv.org/abs/2609.25701)：September2026 resilient actor-critic multi-agent RL research.（核查 2026-09-30T21:38:05Z）
   - [adaa.engin.umich.edu / source 6](https://adaa.engin.umich.edu/news/2025-promotions/)：Page titled2026 Promotions lists promotion to Professor with tenure.（核查 2026-09-30T21:38:05Z）
 
-## 33. Daniel Szafir · University of North Carolina at Chapel Hill
+## 34. Daniel Szafir · University of North Carolina at Chapel Hill
 
 - 稳定键：`daniel-szafir`；批次：hri-003
 - 任职：Associate Professor
@@ -788,7 +817,7 @@
   - [yy-gx.github.io / source 5](https://yy-gx.github.io/publications/)：Researcher's coauthor page lists dated 2025/2026 shared work.（核查 2026-09-30T21:42:22Z）
   - [iron-lab.org / source 6](https://iron-lab.org/join_us)：Linked joining page was inaccessible; no visitor claim based on it.（核查 2026-09-30T21:42:22Z）
 
-## 34. Antonio Loquercio · University of Pennsylvania
+## 35. Antonio Loquercio · University of Pennsylvania
 
 - 稳定键：`antonio-loquercio`；批次：embodied-001
 - 任职：Assistant Professor
@@ -810,7 +839,7 @@
   - [arxiv.org / source 4](https://arxiv.org/abs/2512.11781)：Primary March 2026 revision documents physical racing experiments.（核查 2026-09-30T21:28:42Z）
   - [jirl-upenn.github.io / source 5](https://jirl-upenn.github.io/)：July 2026 agile-autonomy research funding update.（核查 2026-09-30T21:28:42Z）
 
-## 35. Stefanos Nikolaidis · University of Southern California
+## 36. Stefanos Nikolaidis · University of Southern California
 
 - 稳定键：`stefanos-nikolaidis`；批次：embodied-001
 - 任职：Associate Professor
@@ -831,7 +860,7 @@
   - [www.stefanosnikolaidis.net / source 3](https://www.stefanosnikolaidis.net/join.html)：Recruitment scope, with no external short-visit route.（核查 2026-09-30T21:28:42Z）
   - [qdigvla.github.io / source 4](https://qdigvla.github.io/)：IROS 2026 co-advised VLA robustness work and named real robot.（核查 2026-09-30T21:28:42Z）
 
-## 36. Brian Scassellati · Yale University
+## 37. Brian Scassellati · Yale University
 
 - 稳定键：`brian-scassellati`；批次：hri-001
 - 任职：A. Bartlett Giamatti Professor of Computer Science
@@ -852,7 +881,7 @@
   - [scazlab.yale.edu / source 3](https://scazlab.yale.edu/)：2026 lab activity and explicitly canceled 2026 high-school internship.（核查 2026-09-30T21:27:42Z）
   - [scazlab.yale.edu / source 4](https://scazlab.yale.edu/prospective-graduate-students)：Degree admissions instructions, not visitor recruitment.（核查 2026-09-30T21:27:42Z）
 
-## 37. Joohyung Kim · University of Illinois Urbana-Champaign
+## 38. Joohyung Kim · University of Illinois Urbana-Champaign
 
 - 稳定键：`joohyung-kim`；批次：embodied-002
 - 任职：Associate Professor
@@ -874,7 +903,7 @@
   - [thaw-vla.trung-dt.com / source 4](https://thaw-vla.trung-dt.com/)：2026 coauthored physical arm policy project.（核查 2026-09-30T21:36:36Z）
   - [publish.illinois.edu / source 5](https://publish.illinois.edu/kimlab2020/how-to-join/)：Recruiting scope, no external summer pathway.（核查 2026-09-30T21:36:36Z）
 
-## 38. Holly Yanco · University of Massachusetts Amherst
+## 39. Holly Yanco · University of Massachusetts Amherst
 
 - 稳定键：`holly-yanco`；批次：hri-003
 - 任职：Distinguished Professor
@@ -896,7 +925,7 @@
   - [www.uml.edu / source 4](https://www.uml.edu/Research/NERVE/research-capabilities.aspx)：Current physical robot/testbed inventory and HRI/manipulation evaluation.（核查 2026-09-30T21:42:22Z）
   - [www.uml.edu / source 5](https://www.uml.edu/sciences/publications/elements/2023/computer-science-levels-up.aspx)：Historical undergraduate summer hiring only.（核查 2026-09-30T21:42:22Z）
 
-## 39. Aaron D. Ames · California Institute of Technology
+## 40. Aaron D. Ames · California Institute of Technology
 
 - 稳定键：`aaron-d-ames`；批次：control-001
 - 任职：Bren Professor; Director, Center for Autonomous Systems and Technologies
@@ -917,7 +946,7 @@
   - [arxiv.org / source 3](https://arxiv.org/abs/2510.14959)：CBF-RL paper includes real Unitree G1 safe navigation and stairs.（核查 2026-09-30T21:24:34Z）
   - [arxiv.org / source 4](https://arxiv.org/abs/2508.09354)：CLF-guided RL with extensive real G1 experiments.（核查 2026-09-30T21:24:34Z）
 
-## 40. Koushil Sreenath · University of California, Berkeley
+## 41. Koushil Sreenath · University of California, Berkeley
 
 - 稳定键：`koushil-sreenath`；批次：control-001
 - 任职：Associate Professor
@@ -938,7 +967,7 @@
   - [hybrid-robotics.berkeley.edu / source 3](https://hybrid-robotics.berkeley.edu/join-us/)：Visiting undergraduate form exists; visiting graduate instructions remain unpublished.（核查 2026-09-30T21:24:34Z）
   - [iconlab.negarmehr.com / source 4](https://iconlab.negarmehr.com/DDAT/)：Coauthored diffusion-control project deployed on real GO1/GO2 quadrupeds.（核查 2026-09-30T21:24:34Z）
 
-## 41. Claire J. Tomlin · University of California, Berkeley
+## 42. Claire J. Tomlin · University of California, Berkeley
 
 - 稳定键：`claire-j-tomlin`；批次：control-003
 - 任职：Professor; James and Katherine Lau Chair in Engineering
@@ -959,7 +988,7 @@
   - [hybrid.eecs.berkeley.edu / source 3](https://hybrid.eecs.berkeley.edu/index.html)：Hybrid Systems Lab safe ML/control and real robotic application agenda.（核查 2026-09-30T21:38:05Z）
   - [www2.eecs.berkeley.edu / source 4](https://www2.eecs.berkeley.edu/Pubs/Dissertations/Faculty/tomlin.html)：University lists2026 dissertations in safe deep-learning-enabled navigation and autonomy assurance.（核查 2026-09-30T21:38:05Z）
 
-## 42. Marco Pavone · Stanford University
+## 43. Marco Pavone · Stanford University
 
 - 稳定键：`marco-pavone`；批次：control-002
 - 任职：Associate Professor
@@ -980,7 +1009,7 @@
   - [jakob-thumm.com / source 3](https://jakob-thumm.com/conformal_human_motion_prediction/)：2026 coauthored project reports real Franka Emika arm deployment and safety monitoring.（核查 2026-09-30T21:31:39Z）
   - [stanfordasl.github.io / source 4](https://stanfordasl.github.io/contact/)：Lab visiting hours only; no research-visit offer.（核查 2026-09-30T21:31:39Z）
 
-## 43. Evangelos A. Theodorou · Georgia Institute of Technology
+## 44. Evangelos A. Theodorou · Georgia Institute of Technology
 
 - 稳定键：`evangelos-a-theodorou`；批次：control-003
 - 任职：Associate Professor
@@ -1000,7 +1029,7 @@
   - [arxiv.org / source 2](https://arxiv.org/abs/2605.12628)：2026 learned dynamics and planning deployed on full-sized off-road vehicle.（核查 2026-09-30T21:38:05Z）
   - [sites.gatech.edu / source 3](https://sites.gatech.edu/acds/contact/)：Official ACDS lab contact and Georgia Tech affiliation.（核查 2026-09-30T21:38:05Z）
 
-## 44. Haimin Hu · Johns Hopkins University
+## 45. Haimin Hu · Johns Hopkins University
 
 - 稳定键：`haimin-hu`；批次：control-002
 - 任职：Assistant Professor
@@ -1020,7 +1049,28 @@
   - [haiminhu.org / source 2](https://haiminhu.org/)：Current JHU role; explicit real autonomous vehicle/quadruped/quadrotor research; Fall2026 start announcement.（核查 2026-09-30T21:31:39Z）
   - [haiminhu.org / source 3](https://haiminhu.org/lab/)：General PhD/master's/undergraduate recruitment, not a short-visit offer.（核查 2026-09-30T21:31:39Z）
 
-## 45. Morteza Lahijanian · University of Colorado Boulder
+## 46. Zhongzheng (Jason) Ren · University of North Carolina at Chapel Hill
+
+- 稳定键：`zhongzheng-jason-ren`；批次：embodied-003
+- 任职：Assistant Professor
+- 方向：Robot foundation models；Action reasoning；Multimodal generation；Robot reward models
+- 匹配理由：MolmoAct2 (CoRL 2026 per faculty news) and TOPReward connect embodied reasoning, open action models and robot reward learning.
+- 真机证据（public-hardware-evidence）：MolmoAct2 reports real-world Franka manipulation trials and bimanual YAM demonstrations; the primary paper lists Ren as a coauthor.
+- 短访证据（unknown）：No current external short-visit recruitment instructions verified in reviewed faculty sources.
+- 首次发现：2026-09-30T21:37:18Z；最后核查：2026-09-30T21:42:30Z
+- 评分依据：
+  - fit 39/40：Direct embodied action-reasoning/foundation-model match.
+  - physical 20/25：Current primary coauthored project demonstrates physical manipulation; Ai2 experiments do not establish new UNC lab equipment.
+  - shortVisit 0/20：No verified visitor route.
+  - freshness 15/15：Current appointment corroboration and September 2026 news.
+- 未确认事项：New UNC faculty homepage also lists an Ai2 role; Ai2 datasets and hardware do not imply availability in a UNC visitor appointment. No 2027 hosting claim.；Summer 2027 acceptance, supervision, exact dates, funding, appointment and university/immigration approvals are unconfirmed. Self-funding alone does not establish eligibility.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.
+- 来源：
+  - [jason718.github.io / source 1](https://jason718.github.io/)：Current UNC assistant professorship, explicit email and September 2026 research updates.（核查 2026-09-30T21:42:30Z）
+  - [raivn.cs.washington.edu / source 2](https://raivn.cs.washington.edu/people/)：UW lab alumni listing independently identifies his UNC assistant professorship.（核查 2026-09-30T21:42:30Z）
+  - [arxiv.org / source 3](https://arxiv.org/abs/2605.02881)：Primary MolmoAct2 authorship and real-robot study.（核查 2026-09-30T21:42:30Z）
+  - [allenai.org / source 4](https://allenai.org/blog/molmoact2)：May 2026 release details real Franka trials and bimanual robot data.（核查 2026-09-30T21:42:30Z）
+
+## 47. Morteza Lahijanian · University of Colorado Boulder
 
 - 稳定键：`morteza-lahijanian`；批次：control-002
 - 任职：Associate Professor
@@ -1041,7 +1091,7 @@
   - [www.colorado.edu / source 3](https://www.colorado.edu/today/2025/08/25/robot-regret-new-research-helps-robots-make-safer-decisions-around-humans)：Official report of physical robot-arm manipulation and game-theoretic safe HRI.（核查 2026-09-30T21:31:39Z）
   - [ariasystems.group / source 4](https://ariasystems.group/join.html)：General graduate/undergraduate recruitment; no explicit short-term external pathway.（核查 2026-09-30T21:31:39Z）
 
-## 46. Bradley Hayes · University of Colorado Boulder
+## 48. Bradley Hayes · University of Colorado Boulder
 
 - 稳定键：`bradley-hayes`；批次：hri-002
 - 任职：Associate Professor
@@ -1063,7 +1113,28 @@
   - [www.cairo-lab.com / source 4](https://www.cairo-lab.com/papers/ral26.pdf)：2026 real-world visual-inertial semantic localization experiments.（核查 2026-09-30T21:35:06Z）
   - [www.cairo-lab.com / source 5](https://www.cairo-lab.com/join.html)：Current CU student and PhD routes, not an external summer visitor offer.（核查 2026-09-30T21:35:06Z）
 
-## 47. Maja Matarić · University of Southern California
+## 49. Jia Deng · Princeton University
+
+- 稳定键：`jia-deng`；批次：embodied-003
+- 任职：Professor (currently listed on leave)
+- 方向：Sim-to-real manipulation；Tactile reinforcement learning；Procedural robotics data；Cross-embodiment grasping
+- 匹配理由：PVL explicitly studies mobile/dexterous manipulation and sim-to-real. GCS tactile insertion and GraspGen-X (CVPR 2026) are concrete robot-learning anchors.
+- 真机证据（public-hardware-evidence）：The primary GCS paper reports zero-shot sim-to-real transfer of tactile RL policies for blind insertion; PVL also showcases tactile robot manipulation.
+- 短访证据（unknown）：No lab-specific external short-visit opening verified. University faculty profile currently labels him on leave.
+- 首次发现：2026-09-30T21:38:32Z；最后核查：2026-09-30T21:42:30Z
+- 评分依据：
+  - fit 36/40：Strong tactile/sim-to-real manipulation, alongside wider vision research.
+  - physical 24/25：Primary paper verifies tactile policy transfer to real insertion.
+  - shortVisit 0/20：No verified current lab pathway; leave status is a material caveat.
+  - freshness 14/15：2026 research/current leave listing, physical anchor initially 2025.
+- 未确认事项：On-leave listing has no end date. Confirm summer-2027 return/supervision before prioritizing outreach. Princeton’s generic visitor policies do not establish this lab’s availability.；Summer 2027 acceptance, supervision, exact dates, funding, appointment and university/immigration approvals are unconfirmed. Self-funding alone does not establish eligibility.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.
+- 来源：
+  - [www.cs.princeton.edu / source 1](https://www.cs.princeton.edu/people/profile/jiadeng)：Current professor title, public email and on-leave designation.（核查 2026-09-30T21:42:30Z）
+  - [pvl.cs.princeton.edu / source 2](https://pvl.cs.princeton.edu/)：Explicit mobile/dexterous manipulation and sim-to-real lab focus.（核查 2026-09-30T21:42:30Z）
+  - [arxiv.org / source 3](https://arxiv.org/abs/2505.02915)：Primary tactile insertion paper with sim-to-real robot evaluation.（核查 2026-09-30T21:42:30Z）
+  - [graspgenx.github.io / source 4](https://graspgenx.github.io/)：CVPR 2026 coauthored cross-embodiment grasping research.（核查 2026-09-30T21:42:30Z）
+
+## 50. Maja Matarić · University of Southern California
 
 - 稳定键：`maja-mataric`；批次：hri-001
 - 任职：Chan Soon-Shiong Chair and Distinguished Professor
@@ -1085,7 +1156,7 @@
   - [magazine.viterbi.usc.edu / source 4](https://magazine.viterbi.usc.edu/spring-2021/intro/letting-robots-guide-the-learning-experience/)：USC reports physical robot-tutor research.（核查 2026-09-30T21:27:42Z）
   - [gero.usc.edu / source 5](https://gero.usc.edu/2026/04/27/usc-age-tech-symposium-2026/)：Dated 2026 university activity in socially assistive robotics.（核查 2026-09-30T21:27:42Z）
 
-## 48. Naomi Fitter · Oregon State University
+## 51. Naomi Fitter · Oregon State University
 
 - 稳定键：`naomi-fitter`；批次：hri-002
 - 任职：Associate Professor
@@ -1107,7 +1178,7 @@
   - [osusharelab.com / source 4](https://osusharelab.com/contact/)：Public professional contact, no visitor offer.（核查 2026-09-30T21:35:06Z）
   - [engineering.oregonstate.edu / source 5](https://engineering.oregonstate.edu/all-stories/naomi-fitter-wins-nsf-career-award)：August 2025 account of robot nudging research and current team work.（核查 2026-09-30T21:35:06Z）
 
-## 49. Sarah Sebo · University of Kansas; continuing University of Chicago research affiliation
+## 52. Sarah Sebo · University of Kansas; continuing University of Chicago research affiliation
 
 - 稳定键：`sarah-sebo`；批次：hri-002
 - 任职：Assistant Professor
@@ -1129,7 +1200,7 @@
   - [computerscience.uchicago.edu / source 4](https://computerscience.uchicago.edu/news/sebo-lab-programming-robots-to-better-interact-with-humans/)：October 2025 physical Misty II and LLM-based robot interaction.（核查 2026-09-30T21:35:06Z）
   - [news.uchicago.edu / source 5](https://news.uchicago.edu/story/teach-social-emotional-skills-does-robot-need-pretend-be-human)：March 2026 classroom robot research.（核查 2026-09-30T21:35:06Z）
 
-## 50. David Feil-Seifer · University of Nevada, Reno
+## 53. David Feil-Seifer · University of Nevada, Reno
 
 - 稳定键：`david-feil-seifer`；批次：hri-003
 - 任职：Professor
@@ -1150,7 +1221,50 @@
   - [www.unr.edu / source 3](https://www.unr.edu/undergradresearch/opportunities/prep/feil-seifer-s27)：Specific M social robot platform and expressive-behavior project, undergraduate context.（核查 2026-09-30T21:42:22Z）
   - [www.cse.unr.edu / source 4](https://www.cse.unr.edu/~dave/research.php)：Current human-aware navigation and socially assistive robotics agenda.（核查 2026-09-30T21:42:22Z）
 
-## 51. David Fridovich-Keil · University of Texas at Austin
+## 54. Chenfeng Xu · The University of Texas at Austin
+
+- 稳定键：`chenfeng-xu`；批次：embodied-003
+- 任职：Assistant Professor (faculty directory also uses incoming in biography)
+- 方向：Cross-embodiment robot learning；Efficient robot policy execution；Robot data augmentation；Efficient AI systems
+- 匹配理由：OXE-AugE (ICML 2026) directly addresses scaling cross-embodiment policy learning; DiscreteRTC (CoRL 2026) connects robot diffusion policies to asynchronous execution.
+- 真机证据（public-hardware-evidence）：OXE-AugE tests OpenVLA/pi0 policies on a physical Franka with default gripper and a modified Robotiq gripper across four manipulation tasks.
+- 短访证据（unknown）：No external summer-visitor or master’s internship invitation verified in the reviewed faculty sources.
+- 首次发现：2026-09-30T21:37:18Z；最后核查：2026-09-30T21:42:30Z
+- 评分依据：
+  - fit 39/40：Strong physical policy generalization and data/efficiency fit.
+  - physical 20/25：Real Franka policy evaluation is verified in coauthored work; the incoming/current appointment discrepancy and new-host hardware remain unresolved.
+  - shortVisit 0/20：Unknown visitor route.
+  - freshness 14/15：2026 projects; mild reduction for current/incoming wording discrepancy.
+- 未确认事项：UT’s faculty page title is Assistant Professor but biography says incoming; personal homepage states current tenure-track appointment. Exact start and 2027 lab capacity should be confirmed.；Summer 2027 acceptance, supervision, exact dates, funding, appointment and university/immigration approvals are unconfirmed. Self-funding alone does not establish eligibility.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.
+- 来源：
+  - [www.cs.utexas.edu / source 1](https://www.cs.utexas.edu/people/faculty-researchers/chenfeng-xu)：Official UT faculty title/affiliation; biography retains incoming wording.（核查 2026-09-30T21:42:30Z）
+  - [www.chenfengx.com / source 2](https://www.chenfengx.com/)：Current self-description and explicit institutional email.（核查 2026-09-30T21:42:30Z）
+  - [www.chenfengx.com / source 3](https://www.chenfengx.com/s-projects-basic-3)：2026 OXE-AugE and DiscreteRTC project roles.（核查 2026-09-30T21:42:30Z）
+  - [oxe-auge.github.io / source 4](https://oxe-auge.github.io/)：ICML 2026 physical Franka/modified-gripper experiments and co-lead attribution.（核查 2026-09-30T21:42:30Z）
+
+## 55. Ranjay Krishna · University of Washington
+
+- 稳定键：`ranjay-krishna`；批次：embodied-003
+- 任职：Assistant Professor
+- 方向：Embodied reasoning；Robot foundation models；Language grounding；Multimodal learning
+- 匹配理由：MolmoAct2 combines action generation with spatial/embodied reasoning and open robot data, providing direct foundation-policy research fit.
+- 真机证据（public-hardware-evidence）：MolmoAct2’s primary release reports real Franka tasks including object placement and precision pipette/cube manipulation; Krishna is a paper coauthor.
+- 短访证据（unknown）：Prospective-students guidance discusses PhD admissions and campus research. No current external eight-week visitor route verified.
+- 首次发现：2026-09-30T21:37:51Z；最后核查：2026-09-30T21:42:30Z
+- 评分依据：
+  - fit 39/40：Exact multimodal embodied-reasoning and VLA fit.
+  - physical 20/25：Real manipulation in a current coauthored project is verified; industry and university hardware access are distinct and unconfirmed for visitors.
+  - shortVisit 0/20：No external visitor pathway verified.
+  - freshness 14/15：2026 project and current directory, but recruiting PDF is older.
+- 未确认事项：Linked guidance refers to the 2025 PhD cycle, so it is not a 2027 vacancy signal. Current homepage also lists Microsoft employment; university supervision capacity and industry-resource access cannot be assumed.；Summer 2027 acceptance, supervision, exact dates, funding, appointment and university/immigration approvals are unconfirmed. Self-funding alone does not establish eligibility.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.
+- 来源：
+  - [www.cs.washington.edu / source 1](https://www.cs.washington.edu/people/faculty/ranjay-krishna/)：Current official UW appointment and public email.（核查 2026-09-30T21:42:30Z）
+  - [www.ranjaykrishna.com / source 2](https://www.ranjaykrishna.com/index.html)：Current research and concurrent Microsoft role.（核查 2026-09-30T21:42:30Z）
+  - [homes.cs.washington.edu / source 3](https://homes.cs.washington.edu/~ranjay/personal/prospective_students.pdf)：Campus/degree-research guidance with dated 2025 admissions context.（核查 2026-09-30T21:42:30Z）
+  - [arxiv.org / source 4](https://arxiv.org/abs/2605.02881)：Primary robot foundation-model paper and authorship.（核查 2026-09-30T21:42:30Z）
+  - [allenai.org / source 5](https://allenai.org/blog/molmoact2)：Physical manipulation experiments in the 2026 project.（核查 2026-09-30T21:42:30Z）
+
+## 56. David Fridovich-Keil · University of Texas at Austin
 
 - 稳定键：`david-fridovich-keil`；批次：control-001
 - 任职：Assistant Professor
@@ -1171,7 +1285,7 @@
   - [arxiv.org / source 3](https://arxiv.org/abs/2505.11494)：SHIELD paper coauthorship and learned-dynamics safety layer deployed on Unitree G1 hardware.（核查 2026-09-30T21:24:34Z）
   - [clearoboticslab.github.io / source 4](https://clearoboticslab.github.io/)：Lab news updated September 29, 2026, including model-based RL and neural control work.（核查 2026-09-30T21:24:34Z）
 
-## 52. Jesse Thomason · Georgia Institute of Technology
+## 57. Jesse Thomason · Georgia Institute of Technology
 
 - 稳定键：`jesse-thomason`；批次：embodied-001
 - 任职：Associate Professor
@@ -1191,7 +1305,7 @@
   - [jessethomason.com / source 2](https://jessethomason.com/)：August 2026 move and recent physical-robot/VLA publications.（核查 2026-09-30T21:28:42Z）
   - [arxiv.org / source 3](https://arxiv.org/abs/2608.04246)：Primary SAFECAST paper; real-world DROID evaluation.（核查 2026-09-30T21:28:42Z）
 
-## 53. Giuseppe Loianno · University of California, Berkeley
+## 58. Giuseppe Loianno · University of California, Berkeley
 
 - 稳定键：`giuseppe-loianno`；批次：control-002
 - 任职：Associate Professor
@@ -1212,7 +1326,7 @@
   - [arplaboratory.github.io / source 3](https://arplaboratory.github.io/)：August2025 lab move and February2026 robotics updates.（核查 2026-09-30T21:31:39Z）
   - [arxiv.org / source 4](https://arxiv.org/abs/2311.13081)：End-to-end RL sim-to-real demonstration on physical Crazyflie.（核查 2026-09-30T21:31:39Z）
 
-## 54. Karthik Mahadevan · Massachusetts Institute of Technology (current postdoc); University of Texas at Austin (incoming Spring 2027)
+## 59. Karthik Mahadevan · Massachusetts Institute of Technology (current postdoc); University of Texas at Austin (incoming Spring 2027)
 
 - 稳定键：`karthik-mahadevan`；批次：hri-003
 - 任职：Incoming Assistant Professor; current MIT postdoctoral researcher
@@ -1233,7 +1347,29 @@
   - [karthikmahadevan.ca / source 3](https://karthikmahadevan.ca/)：Current MIT postdoc and research agenda.（核查 2026-09-30T21:42:22Z）
   - [arxiv.org / source 4](https://arxiv.org/html/2503.15500v1)：Primary ImageInThat paper explicitly separates simulated user study and physical-arm case study.（核查 2026-09-30T21:42:22Z）
 
-## 55. Wendy Ju · Cornell University, Cornell Tech
+## 60. Michael S. Ryoo · Stony Brook University
+
+- 稳定键：`michael-s-ryoo`；批次：embodied-003
+- 任职：SUNY Empire Innovation Associate Professor (AI Institute listing)
+- 方向：Diffusion robot policies；Language-conditioned manipulation；Motion representations；Robot perception
+- 匹配理由：DAWN (CVPR 2026) uses pixel-motion diffusion as the bridge from language intent to low-level manipulation actions.
+- 真机证据（public-hardware-evidence）：DAWN primary project includes real-world grape, kiwi and orange lifting demonstrations and reports sim-to-real policy transfer with small-scale fine-tuning.
+- 短访证据（unknown）：No external short-term visitor route verified from reviewed university/project sources.
+- 首次发现：2026-09-30T21:39:12Z；最后核查：2026-09-30T21:42:30Z
+- 评分依据：
+  - fit 37/40：Direct language-conditioned diffusion manipulation fit.
+  - physical 24/25：Primary real-world demos and transfer study.
+  - shortVisit 0/20：No external route verified.
+  - freshness 12/15：2026 project; title inconsistency and unavailable homepage reduce confidence.
+- 未确认事项：University pages disagree on rank: AI Institute says Associate Professor while research profile uses Professor. Reconfirm current title. Personal homepage timed out, so current industry status and exact supervision arrangement were not verified.；Summer 2027 acceptance, supervision, exact dates, funding, appointment and university/immigration approvals are unconfirmed. Self-funding alone does not establish eligibility.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.
+- 来源：
+  - [ai.stonybrook.edu / source 1](https://ai.stonybrook.edu/people/faculty/MichaelRyoo)：Official AI Institute rank, department and email.（核查 2026-09-30T21:42:30Z）
+  - [www3.cs.stonybrook.edu / source 2](https://www3.cs.stonybrook.edu/~cvl/people.html)：Current university computer-vision faculty listing.（核查 2026-09-30T21:42:30Z）
+  - [researchconnect.stonybrook.edu / source 3](https://researchconnect.stonybrook.edu/en/persons/michael-ryoo/)：University research profile confirms affiliation but has different rank wording.（核查 2026-09-30T21:42:30Z）
+  - [eronguyen.me / source 4](https://eronguyen.me/DAWN/)：CVPR 2026 project; real-world object-lifting demonstrations.（核查 2026-09-30T21:42:30Z）
+  - [arxiv.org / source 5](https://arxiv.org/abs/2509.22652)：Primary diffusion-policy robot-control paper.（核查 2026-09-30T21:42:30Z）
+
+## 61. Wendy Ju · Cornell University, Cornell Tech
 
 - 稳定键：`wendy-ju`；批次：hri-003
 - 任职：Professor
@@ -1254,7 +1390,7 @@
   - [irl.tech.cornell.edu / source 3](https://irl.tech.cornell.edu/question-to-prototype-workshop/)：Dated April 2026 physical TiltyBot prototyping workshop.（核查 2026-09-30T21:42:22Z）
   - [tech.cornell.edu / source 4](https://tech.cornell.edu/news/can-robots-read-the-room/)：July 2026 robot social-intelligence research; video-based study is distinguished from physical deployment.（核查 2026-09-30T21:42:22Z）
 
-## 56. Marynel Vázquez · Yale University
+## 62. Marynel Vázquez · Yale University
 
 - 稳定键：`marynel-vazquez`；批次：hri-003
 - 任职：Assistant Professor
@@ -1275,7 +1411,7 @@
   - [cpsc459-bim.gitlab.io / source 3](https://cpsc459-bim.gitlab.io/f25/)：Fall 2025 real Shutter robots and laboratory access in course context.（核查 2026-09-30T21:42:22Z）
   - [marynel.net / source 4](https://marynel.net/open_positions/)：Yale-local and PhD joining routes only.（核查 2026-09-30T21:42:22Z）
 
-## 57. Ufuk Topcu · University of Texas at Austin
+## 63. Ufuk Topcu · University of Texas at Austin
 
 - 稳定键：`ufuk-topcu`；批次：control-003
 - 任职：Professor; Judson S. Swearingen Regents Chair in Engineering #1
@@ -1296,7 +1432,7 @@
   - [arxiv.org / source 3](https://arxiv.org/abs/2607.00673)：July2026 physically grounded world model with simulated terrain interventions, not physical flood testing.（核查 2026-09-30T21:38:05Z）
   - [oden.utexas.edu / source 4](https://oden.utexas.edu/research/centers-and-groups/center-for-autonomy/)：Current Center for Autonomy role and controls/ML/formal-methods research.（核查 2026-09-30T21:38:05Z）
 
-## 58. Thomas M. Howard · University of Rochester
+## 64. Thomas M. Howard · University of Rochester
 
 - 稳定键：`thomas-m-howard`；批次：hri-003
 - 任职：Professor of Electrical and Computer Engineering
@@ -1317,7 +1453,27 @@
   - [www.hajim.rochester.edu / source 3](https://www.hajim.rochester.edu/dsc/research/howard.html)：Concrete two-arm torso and six mobile robots for natural-language interaction.（核查 2026-09-30T21:42:22Z）
   - [ttic.edu / source 4](https://ttic.edu/ripl/assets/publications/howard21.pdf)：Primary 2022 field-robot paper describes language-guided experiments on three ground vehicles.（核查 2026-09-30T21:42:22Z）
 
-## 59. Allison Okamura · Stanford University
+## 65. Raymond A. Yeh · Purdue University
+
+- 稳定键：`raymond-a-yeh`；批次：embodied-003
+- 任职：Assistant Professor
+- 方向：Latent world models；Reactive robot action chunking；Generative models；Robustness
+- 匹配理由：DREAM-Chunk (June 2026) makes VLA action chunks more reactive using a latent world model, linking generative modeling and real policy robustness.
+- 真机证据（public-hardware-evidence）：Primary DREAM-Chunk paper reports hardware experiments on four manipulation tasks across two robot platforms and two VLA policies.
+- 短访证据（unknown）：Homepage advertises PhD and Purdue-campus research and notes a former visiting PhD student; no current external short-term master’s pathway verified.
+- 首次发现：2026-09-30T21:38:00Z；最后核查：2026-09-30T21:42:30Z
+- 评分依据：
+  - fit 34/40：Direct recent VLA/world-model project, broader lab is vision/generative ML.
+  - physical 24/25：Primary paper reports two-platform hardware evaluation; exact models not independently extracted.
+  - shortVisit 0/20：External short-term opening unknown.
+  - freshness 14/15：2026 primary preprint and current official faculty listing.
+- 未确认事项：The six-month example in campus-student instructions is an example time commitment, not an explicit external-visitor prohibition. Past visitor evidence earns no current-opening points.；Summer 2027 acceptance, supervision, exact dates, funding, appointment and university/immigration approvals are unconfirmed. Self-funding alone does not establish eligibility.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.
+- 来源：
+  - [ftp.cs.purdue.edu / source 1](https://ftp.cs.purdue.edu/graduate/admission/faculty.html)：Official current CS assistant professor and email.（核查 2026-09-30T21:42:30Z）
+  - [raymond-yeh.com / source 2](https://raymond-yeh.com/)：Current research, recruitment scope and historical visiting-PhD precedent.（核查 2026-09-30T21:42:30Z）
+  - [arxiv.org / source 3](https://arxiv.org/abs/2606.18589)：Primary 2026 world-model/action-chunking paper and physical experiments.（核查 2026-09-30T21:42:30Z）
+
+## 66. Allison Okamura · Stanford University
 
 - 稳定键：`allison-okamura`；批次：hri-001
 - 任职：Richard W. Weiland Professor of Engineering
@@ -1338,7 +1494,7 @@
   - [charm.stanford.edu / source 3](https://charm.stanford.edu/Main/PastLabMeetings)：Dated August 2026 summer researcher and visitor presentations; historical precedent only.（核查 2026-09-30T21:27:42Z）
   - [Stanford CDR visiting appointments](https://centerfordesignresearch.stanford.edu/resources/visiting-appointments)：CDR links CHARM and prefers longer VSR stays; published fee amounts are labeled 2025–26 and are not a confirmed 2027 quote.（核查 2026-09-30T21:37:40Z）
 
-## 60. Naira Hovakimyan · University of Illinois Urbana-Champaign
+## 67. Naira Hovakimyan · University of Illinois Urbana-Champaign
 
 - 稳定键：`naira-hovakimyan`；批次：control-003
 - 任职：W. Grafton and Lillian B. Wilkins Professor
@@ -1360,7 +1516,7 @@
   - [naira.mechse.illinois.edu / source 4](https://naira.mechse.illinois.edu/acrl-participates-in-nasa-uli-demonstration-with-leading-aerospace-industry-stakeholders/)：ACRL2025 live field-test participation.（核查 2026-09-30T21:38:05Z）
   - [naira.mechse.illinois.edu / source 5](https://naira.mechse.illinois.edu/)：Current lab and2026 activity.（核查 2026-09-30T21:38:05Z）
 
-## 61. Ram Vasudevan · University of Michigan
+## 68. Ram Vasudevan · University of Michigan
 
 - 稳定键：`ram-vasudevan`；批次：control-003
 - 任职：Professor
@@ -1382,7 +1538,29 @@
   - [www.roahmlab.com / source 4](https://www.roahmlab.com/current-1)：Current research group and master's researchers; stale associate title.（核查 2026-09-30T21:38:05Z）
   - [arc.engin.umich.edu / source 5](https://arc.engin.umich.edu/faculty/ram-vasudevan/)：Official current ME professor and learning-based autonomous-navigation projects.（核查 2026-09-30T21:38:05Z）
 
-## 62. Sandeep P. Chinchali · University of Texas at Austin
+## 69. Kris M. Kitani · Carnegie Mellon University
+
+- 稳定键：`kris-m-kitani`；批次：embodied-003
+- 任职：Associate Research Professor
+- 方向：Robot planning；Vision-language/video models；Imitation and reinforcement learning；Autonomous perception
+- 匹配理由：NovaPlan (2026) turns generated video and VLM plans into closed-loop manipulation and failure recovery; broader lab connects perception to learned decision-making.
+- 真机证据（public-hardware-evidence）：NovaPlan primary project shows actual execution on block stacking, sorting, hidden-object search and Functional Manipulation Benchmark tasks, with real-world gripper geometry noted.
+- 短访证据（unknown）：Current July 2026 hiring text addresses new CMU RI MSR students; no external summer visitor pathway verified.
+- 首次发现：2026-09-30T21:38:18Z；最后核查：2026-09-30T21:42:30Z
+- 评分依据：
+  - fit 36/40：Strong VLM/video-guided manipulation planning and learning fit.
+  - physical 20/25：Real executions are reported in a multi-institution primary project, not a verified current visitor-accessible CMU inventory.
+  - shortVisit 0/20：Unknown external route; current notice is for CMU students.
+  - freshness 15/15：July 2026 faculty update and current primary research.
+- 未确认事项：CMU-enrolled MSR RA notice does not establish eligibility for an external master’s visit. NovaPlan is a multi-institution collaboration; visitor hardware access is not implied.；Summer 2027 acceptance, supervision, exact dates, funding, appointment and university/immigration approvals are unconfirmed. Self-funding alone does not establish eligibility.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.
+- 来源：
+  - [kriskitani.github.io / source 1](https://kriskitani.github.io/)：Current RI title, 2026 hiring scope and research.（核查 2026-09-30T21:42:30Z）
+  - [www.cmu.edu / source 2](https://www.cmu.edu/news/experts/kris.kitani)：Official university title and systems/research scope.（核查 2026-09-30T21:42:30Z）
+  - [www.cs.cmu.edu / source 3](https://www.cs.cmu.edu/~kkitani/bio/)：Explicit public institutional email; old program-director wording is not reused.（核查 2026-09-30T21:42:30Z）
+  - [nova-plan.github.io / source 4](https://nova-plan.github.io/)：2026 primary manipulation project and physical-execution videos.（核查 2026-09-30T21:42:30Z）
+  - [arxiv.org / source 5](https://arxiv.org/abs/2602.20119)：Primary NovaPlan paper.（核查 2026-09-30T21:42:30Z）
+
+## 70. Sandeep P. Chinchali · University of Texas at Austin
 
 - 稳定键：`sandeep-p-chinchali`；批次：control-003
 - 任职：Assistant Professor
@@ -1403,7 +1581,7 @@
   - [arxiv.org / source 3](https://arxiv.org/abs/2505.05519)：Coauthored learned-perception privacy method deployed on operating robots.（核查 2026-09-30T21:38:05Z）
   - [sandeepchinchali.medium.com / source 4](https://sandeepchinchali.medium.com/why-i-joined-story-as-chief-ai-officer-4c6aef5ca4ed)：PI-authoredJuly2025 industry-role announcement; campus availability not inferred.（核查 2026-09-30T21:38:05Z）
 
-## 63. David Porfirio · George Mason University
+## 71. David Porfirio · George Mason University
 
 - 稳定键：`david-porfirio`；批次：hri-002
 - 任职：Assistant Professor
@@ -1425,7 +1603,7 @@
   - [par.nsf.gov / source 4](https://par.nsf.gov/servlets/purl/10320798)：CHI 2021 primary paper §3.6 explicitly distinguishes physical Temi from virtual Pepper deployments.（核查 2026-09-30T21:35:06Z）
   - [ari-lab-gmu.github.io / source 5](https://ari-lab-gmu.github.io/join-us/)：Joining page checked; no readable external short-visit details verified.（核查 2026-09-30T21:35:06Z）
 
-## 64. Selma Šabanović · Indiana University Bloomington
+## 72. Selma Šabanović · Indiana University Bloomington
 
 - 稳定键：`selma-sabanovic`；批次：hri-001
 - 任职：Professor
@@ -1445,7 +1623,7 @@
   - [r-house.luddy.indiana.edu / source 2](https://r-house.luddy.indiana.edu/index.html)：Physical Haru/Nao/Baxter platforms, robot field research, and visitors.（核查 2026-09-30T21:27:42Z）
   - [r-house.luddy.indiana.edu / source 3](https://r-house.luddy.indiana.edu/contact/index.html)：Explicit invitation to students, researchers and visiting scholars; also lists selmas@indiana.edu.（核查 2026-09-30T21:27:42Z）
 
-## 65. Karen Leung · University of Washington
+## 73. Karen Leung · University of Washington
 
 - 稳定键：`karen-leung`；批次：control-001
 - 任职：Assistant Professor
@@ -1467,7 +1645,7 @@
   - [depts.washington.edu / source 4](https://depts.washington.edu/ctrl/contact/)：General lab inquiries and current-UW meeting route; no short-visit invitation.（核查 2026-09-30T21:24:34Z）
   - [depts.washington.edu / source 5](https://depts.washington.edu/ctrl/)：Current lab with June 2026 research news.（核查 2026-09-30T21:24:34Z）
 
-## 66. Mykel J. Kochenderfer · Stanford University
+## 74. Mykel J. Kochenderfer · Stanford University
 
 - 稳定键：`mykel-j-kochenderfer`；批次：control-003
 - 任职：Associate Professor
@@ -1487,7 +1665,7 @@
   - [sisl.stanford.edu / source 2](https://sisl.stanford.edu/faq/)：External summer route restricted to SURF with stated lack of capacity outside it; fellowship-funded visitor fee note.（核查 2026-09-30T21:38:05Z）
   - [arxiv.org / source 3](https://arxiv.org/abs/2603.06987)：2026 foundational-world-model research using bimanual robot task data.（核查 2026-09-30T21:38:05Z）
 
-## 67. Jean Oh · Carnegie Mellon University
+## 75. Jean Oh · Carnegie Mellon University
 
 - 稳定键：`jean-oh`；批次：embodied-001
 - 任职：Associate Research Professor
@@ -1509,7 +1687,7 @@
   - [moehair.github.io / source 4](https://moehair.github.io/)：HRI 2025 physical soft-manipulator system and experiments.（核查 2026-09-30T21:28:42Z）
   - [arxiv.org / source 5](https://arxiv.org/pdf/2412.00597)：Spline-FRIDA primary paper, revised March 2025; real robot drawing and learned stroke dynamics.（核查 2026-09-30T21:28:42Z）
 
-## 68. Tom Williams · Colorado School of Mines
+## 76. Tom Williams · Colorado School of Mines
 
 - 稳定键：`tom-williams`；批次：hri-002
 - 任职：Associate Professor
@@ -1532,7 +1710,7 @@
   - [mirrorlab.mines.edu / source 5](https://mirrorlab.mines.edu/research/)：Current research scope, with design/ethics emphasis.（核查 2026-09-30T21:35:06Z）
   - [mirrorlab.mines.edu / source 6](https://mirrorlab.mines.edu/contact/)：Joining page limited to local-student and degree routes.（核查 2026-09-30T21:35:06Z）
 
-## 69. Jorge Cortés · University of California, San Diego
+## 77. Jorge Cortés · University of California, San Diego
 
 - 稳定键：`jorge-cortes`；批次：control-003
 - 任职：Professor; Cymer Corporation Endowed Chair
@@ -1553,7 +1731,7 @@
   - [existentialrobotics.org / source 3](https://existentialrobotics.org/ref/Long_GLF_NeurIPS25.pdf)：NeurIPS2025 neural certificates for RL policies; benchmark-based evaluations.（核查 2026-09-30T21:38:05Z）
   - [jacobsschool.ucsd.edu / source 4](https://jacobsschool.ucsd.edu/news/release/1810?id=1810)：2015 undergraduate summer mentorship in MURO, historical only.（核查 2026-09-30T21:38:05Z）
 
-## 70. Pragathi Praveena · Carnegie Mellon University (current); George Mason University (announced January 2027)
+## 78. Pragathi Praveena · Carnegie Mellon University (current); George Mason University (announced January 2027)
 
 - 稳定键：`pragathi-praveena`；批次：hri-002
 - 任职：Postdoctoral Fellow; announced incoming Assistant Professor
@@ -1574,7 +1752,7 @@
   - [publications.idiap.ch / source 3](https://publications.idiap.ch/attachments/papers/2023/Praveena_PACMHCI_2023.pdf)：Primary physical shared-camera robot-arm assembly experiments (2023).（核查 2026-09-30T21:35:06Z）
   - [pragathipraveena.com / source 4](https://pragathipraveena.com/assets/files/praveena-cv.pdf)：Academic CV includes 2026 service; no summer visitor offer inferred.（核查 2026-09-30T21:35:06Z）
 
-## 71. Yezhou Yang · Arizona State University
+## 79. Yezhou Yang · Arizona State University
 
 - 稳定键：`yezhou-yang`；批次：embodied-002
 - 任职：Associate Professor
@@ -1595,7 +1773,7 @@
   - [faculty.engineering.asu.edu / source 3](https://faculty.engineering.asu.edu/yezhouyang/research)：Robot visual learning and language-grounding research interests.（核查 2026-09-30T21:36:36Z）
   - [arxiv.org / source 4](https://arxiv.org/abs/2603.14397)：Primary 2026 paper with TurtleBot 2 data collection and behavior-cloning method.（核查 2026-09-30T21:36:36Z）
 
-## 72. Heather Knight · Oregon State University
+## 80. Heather Knight · Oregon State University
 
 - 稳定键：`heather-knight`；批次：hri-001
 - 任职：Assistant Professor (as listed by the lab and university sources)
@@ -1617,7 +1795,7 @@
   - [www.charismarobotics.com / source 4](https://www.charismarobotics.com/publications)：Dated 2025 robot-arm/semantic command and 2024 service-robot publications.（核查 2026-09-30T21:27:42Z）
   - [www.charismarobotics.com / source 5](https://www.charismarobotics.com/s/2019_HRI_Dancing_with_ChairBots-wbrf.pdf)：Public institutional email and physical ChairBot study; historical paper.（核查 2026-09-30T21:27:42Z）
 
-## 73. Laura Stegner · George Washington University
+## 81. Laura Stegner · George Washington University
 
 - 稳定键：`laura-stegner`；批次：hri-002
 - 任职：Assistant Professor
@@ -1637,7 +1815,7 @@
   - [laurastegner.com / source 2](https://laurastegner.com/)：August 2025 faculty start, Hearth Lab direction, email and MS/PhD joining instructions.（核查 2026-09-30T21:35:06Z）
   - [publications.idiap.ch / source 3](https://publications.idiap.ch/attachments/papers/2023/Stegner_CHI_2023.pdf)：Section4.2.4 identifies physical Stretch RE1 and field-study setup.（核查 2026-09-30T21:35:06Z）
 
-## 74. Guy Hoffman · Cornell University
+## 82. Guy Hoffman · Cornell University
 
 - 稳定键：`guy-hoffman`；批次：hri-001
 - 任职：Associate Professor
@@ -1658,7 +1836,7 @@
   - [hrc2.io / source 3](https://hrc2.io/projects/Collaborative-Design)：Co-present human-robot design-space exploration.（核查 2026-09-30T21:27:42Z）
   - [hrc2.io / source 4](https://hrc2.io/news/)：Visible recruiting news includes old postdoctoral posting, not a summer master's role.（核查 2026-09-30T21:27:42Z）
 
-## 75. Cynthia Breazeal · Massachusetts Institute of Technology
+## 83. Cynthia Breazeal · Massachusetts Institute of Technology
 
 - 稳定键：`cynthia-breazeal`；批次：hri-001
 - 任职：Professor of Media Arts and Sciences; Benesse Professor of Research in Education

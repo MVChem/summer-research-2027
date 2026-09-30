@@ -6748,6 +6748,724 @@
         "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
       ],
       "publicEmail": "wendyju@cornell.edu"
+    },
+    {
+      "id": "yuxiong-wang",
+      "name": "Yuxiong Wang",
+      "aliases": [],
+      "school": "University of Illinois Urbana-Champaign",
+      "homepage": "https://yxw.cs.illinois.edu/",
+      "title": "Assistant Professor",
+      "department": "Siebel School of Computing and Data Science",
+      "batch": "embodied-003",
+      "discoveredAt": "2026-09-30T21:37:18Z",
+      "verifiedAt": "2026-09-30T21:42:30Z",
+      "researchAreas": [
+        "Robot learning",
+        "Humanoid loco-manipulation",
+        "Dexterous control",
+        "Multimodal perception",
+        "Generative modeling"
+      ],
+      "fitReason": "ULTRA (IROS 2026) learns multimodal humanoid whole-body behavior, while Dexplore scales dexterous policies from imperfect human motion capture.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "ULTRA’s primary project explicitly reports a real Unitree G1 picking up, carrying and placing objects from egocentric perception and task goals.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "shortVisit": {
+        "status": "inquiry-only",
+        "summary": "University-hosted faculty homepage explicitly says the group has openings for visiting students and welcomes contact.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "Strong humanoid/dexterous learning and multimodal control match.",
+        "physical": "Named real Unitree G1 demonstrations are in collaborative research; present host-lab platform access is not established.",
+        "shortVisit": "Explicit visiting-student opening, duration and target-period eligibility unspecified.",
+        "freshness": "2026 project and current university sources."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "siebelschool.illinois.edu / source 1",
+          "url": "https://siebelschool.illinois.edu/about/people/faculty/yxw",
+          "summary": "Current official assistant professor title and email.",
+          "verifiedAt": "2026-09-30T21:42:30Z"
+        },
+        {
+          "id": "s2",
+          "label": "yxw.cs.illinois.edu / source 2",
+          "url": "https://yxw.cs.illinois.edu/",
+          "summary": "Research scope and explicit visiting-student openings.",
+          "verifiedAt": "2026-09-30T21:42:30Z"
+        },
+        {
+          "id": "s3",
+          "label": "ultra-humanoid.github.io / source 3",
+          "url": "https://ultra-humanoid.github.io/",
+          "summary": "2026 co-advised project with physical G1 deployment.",
+          "verifiedAt": "2026-09-30T21:42:30Z"
+        },
+        {
+          "id": "s4",
+          "label": "arxiv.org / source 4",
+          "url": "https://arxiv.org/abs/2509.09671",
+          "summary": "Dexplore primary paper, dexterous policy learning from motion capture.",
+          "verifiedAt": "2026-09-30T21:42:30Z"
+        }
+      ],
+      "unknowns": [
+        "Generic opening states no duration, degree restrictions, funding terms or summer-2027 slot. Physical results concern collaborative projects; access for a visitor must be established.",
+        "Summer 2027 acceptance, supervision, exact dates, funding, appointment and university/immigration approvals are unconfirmed. Self-funding alone does not establish eligibility.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "yxw@illinois.edu"
+    },
+    {
+      "id": "zhongzheng-jason-ren",
+      "name": "Zhongzheng (Jason) Ren",
+      "aliases": [
+        "Zhongzheng Ren",
+        "Jason Ren"
+      ],
+      "school": "University of North Carolina at Chapel Hill",
+      "homepage": "https://jason718.github.io/",
+      "title": "Assistant Professor",
+      "department": "Computer Science",
+      "batch": "embodied-003",
+      "discoveredAt": "2026-09-30T21:37:18Z",
+      "verifiedAt": "2026-09-30T21:42:30Z",
+      "researchAreas": [
+        "Robot foundation models",
+        "Action reasoning",
+        "Multimodal generation",
+        "Robot reward models"
+      ],
+      "fitReason": "MolmoAct2 (CoRL 2026 per faculty news) and TOPReward connect embodied reasoning, open action models and robot reward learning.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "MolmoAct2 reports real-world Franka manipulation trials and bimanual YAM demonstrations; the primary paper lists Ren as a coauthor.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "No current external short-visit recruitment instructions verified in reviewed faculty sources.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "Direct embodied action-reasoning/foundation-model match.",
+        "physical": "Current primary coauthored project demonstrates physical manipulation; Ai2 experiments do not establish new UNC lab equipment.",
+        "shortVisit": "No verified visitor route.",
+        "freshness": "Current appointment corroboration and September 2026 news."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "jason718.github.io / source 1",
+          "url": "https://jason718.github.io/",
+          "summary": "Current UNC assistant professorship, explicit email and September 2026 research updates.",
+          "verifiedAt": "2026-09-30T21:42:30Z"
+        },
+        {
+          "id": "s2",
+          "label": "raivn.cs.washington.edu / source 2",
+          "url": "https://raivn.cs.washington.edu/people/",
+          "summary": "UW lab alumni listing independently identifies his UNC assistant professorship.",
+          "verifiedAt": "2026-09-30T21:42:30Z"
+        },
+        {
+          "id": "s3",
+          "label": "arxiv.org / source 3",
+          "url": "https://arxiv.org/abs/2605.02881",
+          "summary": "Primary MolmoAct2 authorship and real-robot study.",
+          "verifiedAt": "2026-09-30T21:42:30Z"
+        },
+        {
+          "id": "s4",
+          "label": "allenai.org / source 4",
+          "url": "https://allenai.org/blog/molmoact2",
+          "summary": "May 2026 release details real Franka trials and bimanual robot data.",
+          "verifiedAt": "2026-09-30T21:42:30Z"
+        }
+      ],
+      "unknowns": [
+        "New UNC faculty homepage also lists an Ai2 role; Ai2 datasets and hardware do not imply availability in a UNC visitor appointment. No 2027 hosting claim.",
+        "Summer 2027 acceptance, supervision, exact dates, funding, appointment and university/immigration approvals are unconfirmed. Self-funding alone does not establish eligibility.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "jasonren@cs.unc.edu"
+    },
+    {
+      "id": "chenfeng-xu",
+      "name": "Chenfeng Xu",
+      "aliases": [],
+      "school": "The University of Texas at Austin",
+      "homepage": "https://www.chenfengx.com/",
+      "title": "Assistant Professor (faculty directory also uses incoming in biography)",
+      "department": "Computer Science",
+      "batch": "embodied-003",
+      "discoveredAt": "2026-09-30T21:37:18Z",
+      "verifiedAt": "2026-09-30T21:42:30Z",
+      "researchAreas": [
+        "Cross-embodiment robot learning",
+        "Efficient robot policy execution",
+        "Robot data augmentation",
+        "Efficient AI systems"
+      ],
+      "fitReason": "OXE-AugE (ICML 2026) directly addresses scaling cross-embodiment policy learning; DiscreteRTC (CoRL 2026) connects robot diffusion policies to asynchronous execution.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "OXE-AugE tests OpenVLA/pi0 policies on a physical Franka with default gripper and a modified Robotiq gripper across four manipulation tasks.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "No external summer-visitor or master’s internship invitation verified in the reviewed faculty sources.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 14
+      },
+      "scoreReasons": {
+        "fit": "Strong physical policy generalization and data/efficiency fit.",
+        "physical": "Real Franka policy evaluation is verified in coauthored work; the incoming/current appointment discrepancy and new-host hardware remain unresolved.",
+        "shortVisit": "Unknown visitor route.",
+        "freshness": "2026 projects; mild reduction for current/incoming wording discrepancy."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "www.cs.utexas.edu / source 1",
+          "url": "https://www.cs.utexas.edu/people/faculty-researchers/chenfeng-xu",
+          "summary": "Official UT faculty title/affiliation; biography retains incoming wording.",
+          "verifiedAt": "2026-09-30T21:42:30Z"
+        },
+        {
+          "id": "s2",
+          "label": "www.chenfengx.com / source 2",
+          "url": "https://www.chenfengx.com/",
+          "summary": "Current self-description and explicit institutional email.",
+          "verifiedAt": "2026-09-30T21:42:30Z"
+        },
+        {
+          "id": "s3",
+          "label": "www.chenfengx.com / source 3",
+          "url": "https://www.chenfengx.com/s-projects-basic-3",
+          "summary": "2026 OXE-AugE and DiscreteRTC project roles.",
+          "verifiedAt": "2026-09-30T21:42:30Z"
+        },
+        {
+          "id": "s4",
+          "label": "oxe-auge.github.io / source 4",
+          "url": "https://oxe-auge.github.io/",
+          "summary": "ICML 2026 physical Franka/modified-gripper experiments and co-lead attribution.",
+          "verifiedAt": "2026-09-30T21:42:30Z"
+        }
+      ],
+      "unknowns": [
+        "UT’s faculty page title is Assistant Professor but biography says incoming; personal homepage states current tenure-track appointment. Exact start and 2027 lab capacity should be confirmed.",
+        "Summer 2027 acceptance, supervision, exact dates, funding, appointment and university/immigration approvals are unconfirmed. Self-funding alone does not establish eligibility.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "cxu@utexas.edu"
+    },
+    {
+      "id": "ranjay-krishna",
+      "name": "Ranjay Krishna",
+      "aliases": [],
+      "school": "University of Washington",
+      "homepage": "https://www.ranjaykrishna.com/index.html",
+      "title": "Assistant Professor",
+      "department": "Paul G. Allen School of Computer Science and Engineering",
+      "batch": "embodied-003",
+      "discoveredAt": "2026-09-30T21:37:51Z",
+      "verifiedAt": "2026-09-30T21:42:30Z",
+      "researchAreas": [
+        "Embodied reasoning",
+        "Robot foundation models",
+        "Language grounding",
+        "Multimodal learning"
+      ],
+      "fitReason": "MolmoAct2 combines action generation with spatial/embodied reasoning and open robot data, providing direct foundation-policy research fit.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "MolmoAct2’s primary release reports real Franka tasks including object placement and precision pipette/cube manipulation; Krishna is a paper coauthor.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "Prospective-students guidance discusses PhD admissions and campus research. No current external eight-week visitor route verified.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5"
+        ]
+      },
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 14
+      },
+      "scoreReasons": {
+        "fit": "Exact multimodal embodied-reasoning and VLA fit.",
+        "physical": "Real manipulation in a current coauthored project is verified; industry and university hardware access are distinct and unconfirmed for visitors.",
+        "shortVisit": "No external visitor pathway verified.",
+        "freshness": "2026 project and current directory, but recruiting PDF is older."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "www.cs.washington.edu / source 1",
+          "url": "https://www.cs.washington.edu/people/faculty/ranjay-krishna/",
+          "summary": "Current official UW appointment and public email.",
+          "verifiedAt": "2026-09-30T21:42:30Z"
+        },
+        {
+          "id": "s2",
+          "label": "www.ranjaykrishna.com / source 2",
+          "url": "https://www.ranjaykrishna.com/index.html",
+          "summary": "Current research and concurrent Microsoft role.",
+          "verifiedAt": "2026-09-30T21:42:30Z"
+        },
+        {
+          "id": "s3",
+          "label": "homes.cs.washington.edu / source 3",
+          "url": "https://homes.cs.washington.edu/~ranjay/personal/prospective_students.pdf",
+          "summary": "Campus/degree-research guidance with dated 2025 admissions context.",
+          "verifiedAt": "2026-09-30T21:42:30Z"
+        },
+        {
+          "id": "s4",
+          "label": "arxiv.org / source 4",
+          "url": "https://arxiv.org/abs/2605.02881",
+          "summary": "Primary robot foundation-model paper and authorship.",
+          "verifiedAt": "2026-09-30T21:42:30Z"
+        },
+        {
+          "id": "s5",
+          "label": "allenai.org / source 5",
+          "url": "https://allenai.org/blog/molmoact2",
+          "summary": "Physical manipulation experiments in the 2026 project.",
+          "verifiedAt": "2026-09-30T21:42:30Z"
+        }
+      ],
+      "unknowns": [
+        "Linked guidance refers to the 2025 PhD cycle, so it is not a 2027 vacancy signal. Current homepage also lists Microsoft employment; university supervision capacity and industry-resource access cannot be assumed.",
+        "Summer 2027 acceptance, supervision, exact dates, funding, appointment and university/immigration approvals are unconfirmed. Self-funding alone does not establish eligibility.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "ranjay@cs.washington.edu"
+    },
+    {
+      "id": "kris-m-kitani",
+      "name": "Kris M. Kitani",
+      "aliases": [],
+      "school": "Carnegie Mellon University",
+      "homepage": "https://kriskitani.github.io/",
+      "title": "Associate Research Professor",
+      "department": "Robotics Institute",
+      "batch": "embodied-003",
+      "discoveredAt": "2026-09-30T21:38:18Z",
+      "verifiedAt": "2026-09-30T21:42:30Z",
+      "researchAreas": [
+        "Robot planning",
+        "Vision-language/video models",
+        "Imitation and reinforcement learning",
+        "Autonomous perception"
+      ],
+      "fitReason": "NovaPlan (2026) turns generated video and VLM plans into closed-loop manipulation and failure recovery; broader lab connects perception to learned decision-making.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "NovaPlan primary project shows actual execution on block stacking, sorting, hidden-object search and Functional Manipulation Benchmark tasks, with real-world gripper geometry noted.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "Current July 2026 hiring text addresses new CMU RI MSR students; no external summer visitor pathway verified.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5"
+        ]
+      },
+      "scores": {
+        "fit": 36,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "Strong VLM/video-guided manipulation planning and learning fit.",
+        "physical": "Real executions are reported in a multi-institution primary project, not a verified current visitor-accessible CMU inventory.",
+        "shortVisit": "Unknown external route; current notice is for CMU students.",
+        "freshness": "July 2026 faculty update and current primary research."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "kriskitani.github.io / source 1",
+          "url": "https://kriskitani.github.io/",
+          "summary": "Current RI title, 2026 hiring scope and research.",
+          "verifiedAt": "2026-09-30T21:42:30Z"
+        },
+        {
+          "id": "s2",
+          "label": "www.cmu.edu / source 2",
+          "url": "https://www.cmu.edu/news/experts/kris.kitani",
+          "summary": "Official university title and systems/research scope.",
+          "verifiedAt": "2026-09-30T21:42:30Z"
+        },
+        {
+          "id": "s3",
+          "label": "www.cs.cmu.edu / source 3",
+          "url": "https://www.cs.cmu.edu/~kkitani/bio/",
+          "summary": "Explicit public institutional email; old program-director wording is not reused.",
+          "verifiedAt": "2026-09-30T21:42:30Z"
+        },
+        {
+          "id": "s4",
+          "label": "nova-plan.github.io / source 4",
+          "url": "https://nova-plan.github.io/",
+          "summary": "2026 primary manipulation project and physical-execution videos.",
+          "verifiedAt": "2026-09-30T21:42:30Z"
+        },
+        {
+          "id": "s5",
+          "label": "arxiv.org / source 5",
+          "url": "https://arxiv.org/abs/2602.20119",
+          "summary": "Primary NovaPlan paper.",
+          "verifiedAt": "2026-09-30T21:42:30Z"
+        }
+      ],
+      "unknowns": [
+        "CMU-enrolled MSR RA notice does not establish eligibility for an external master’s visit. NovaPlan is a multi-institution collaboration; visitor hardware access is not implied.",
+        "Summer 2027 acceptance, supervision, exact dates, funding, appointment and university/immigration approvals are unconfirmed. Self-funding alone does not establish eligibility.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "kkitani@cmu.edu"
+    },
+    {
+      "id": "jia-deng",
+      "name": "Jia Deng",
+      "aliases": [],
+      "school": "Princeton University",
+      "homepage": "https://www.cs.princeton.edu/~jiadeng/",
+      "title": "Professor (currently listed on leave)",
+      "department": "Computer Science",
+      "batch": "embodied-003",
+      "discoveredAt": "2026-09-30T21:38:32Z",
+      "verifiedAt": "2026-09-30T21:42:30Z",
+      "researchAreas": [
+        "Sim-to-real manipulation",
+        "Tactile reinforcement learning",
+        "Procedural robotics data",
+        "Cross-embodiment grasping"
+      ],
+      "fitReason": "PVL explicitly studies mobile/dexterous manipulation and sim-to-real. GCS tactile insertion and GraspGen-X (CVPR 2026) are concrete robot-learning anchors.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "The primary GCS paper reports zero-shot sim-to-real transfer of tactile RL policies for blind insertion; PVL also showcases tactile robot manipulation.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "No lab-specific external short-visit opening verified. University faculty profile currently labels him on leave.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "scores": {
+        "fit": 36,
+        "physical": 24,
+        "shortVisit": 0,
+        "freshness": 14
+      },
+      "scoreReasons": {
+        "fit": "Strong tactile/sim-to-real manipulation, alongside wider vision research.",
+        "physical": "Primary paper verifies tactile policy transfer to real insertion.",
+        "shortVisit": "No verified current lab pathway; leave status is a material caveat.",
+        "freshness": "2026 research/current leave listing, physical anchor initially 2025."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "www.cs.princeton.edu / source 1",
+          "url": "https://www.cs.princeton.edu/people/profile/jiadeng",
+          "summary": "Current professor title, public email and on-leave designation.",
+          "verifiedAt": "2026-09-30T21:42:30Z"
+        },
+        {
+          "id": "s2",
+          "label": "pvl.cs.princeton.edu / source 2",
+          "url": "https://pvl.cs.princeton.edu/",
+          "summary": "Explicit mobile/dexterous manipulation and sim-to-real lab focus.",
+          "verifiedAt": "2026-09-30T21:42:30Z"
+        },
+        {
+          "id": "s3",
+          "label": "arxiv.org / source 3",
+          "url": "https://arxiv.org/abs/2505.02915",
+          "summary": "Primary tactile insertion paper with sim-to-real robot evaluation.",
+          "verifiedAt": "2026-09-30T21:42:30Z"
+        },
+        {
+          "id": "s4",
+          "label": "graspgenx.github.io / source 4",
+          "url": "https://graspgenx.github.io/",
+          "summary": "CVPR 2026 coauthored cross-embodiment grasping research.",
+          "verifiedAt": "2026-09-30T21:42:30Z"
+        }
+      ],
+      "unknowns": [
+        "On-leave listing has no end date. Confirm summer-2027 return/supervision before prioritizing outreach. Princeton’s generic visitor policies do not establish this lab’s availability.",
+        "Summer 2027 acceptance, supervision, exact dates, funding, appointment and university/immigration approvals are unconfirmed. Self-funding alone does not establish eligibility.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "jiadeng@cs.princeton.edu"
+    },
+    {
+      "id": "michael-s-ryoo",
+      "name": "Michael S. Ryoo",
+      "aliases": [],
+      "school": "Stony Brook University",
+      "homepage": "https://michaelryoo.com/",
+      "title": "SUNY Empire Innovation Associate Professor (AI Institute listing)",
+      "department": "Computer Science; AI Innovation Institute",
+      "batch": "embodied-003",
+      "discoveredAt": "2026-09-30T21:39:12Z",
+      "verifiedAt": "2026-09-30T21:42:30Z",
+      "researchAreas": [
+        "Diffusion robot policies",
+        "Language-conditioned manipulation",
+        "Motion representations",
+        "Robot perception"
+      ],
+      "fitReason": "DAWN (CVPR 2026) uses pixel-motion diffusion as the bridge from language intent to low-level manipulation actions.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "DAWN primary project includes real-world grape, kiwi and orange lifting demonstrations and reports sim-to-real policy transfer with small-scale fine-tuning.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "No external short-term visitor route verified from reviewed university/project sources.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5"
+        ]
+      },
+      "scores": {
+        "fit": 37,
+        "physical": 24,
+        "shortVisit": 0,
+        "freshness": 12
+      },
+      "scoreReasons": {
+        "fit": "Direct language-conditioned diffusion manipulation fit.",
+        "physical": "Primary real-world demos and transfer study.",
+        "shortVisit": "No external route verified.",
+        "freshness": "2026 project; title inconsistency and unavailable homepage reduce confidence."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "ai.stonybrook.edu / source 1",
+          "url": "https://ai.stonybrook.edu/people/faculty/MichaelRyoo",
+          "summary": "Official AI Institute rank, department and email.",
+          "verifiedAt": "2026-09-30T21:42:30Z"
+        },
+        {
+          "id": "s2",
+          "label": "www3.cs.stonybrook.edu / source 2",
+          "url": "https://www3.cs.stonybrook.edu/~cvl/people.html",
+          "summary": "Current university computer-vision faculty listing.",
+          "verifiedAt": "2026-09-30T21:42:30Z"
+        },
+        {
+          "id": "s3",
+          "label": "researchconnect.stonybrook.edu / source 3",
+          "url": "https://researchconnect.stonybrook.edu/en/persons/michael-ryoo/",
+          "summary": "University research profile confirms affiliation but has different rank wording.",
+          "verifiedAt": "2026-09-30T21:42:30Z"
+        },
+        {
+          "id": "s4",
+          "label": "eronguyen.me / source 4",
+          "url": "https://eronguyen.me/DAWN/",
+          "summary": "CVPR 2026 project; real-world object-lifting demonstrations.",
+          "verifiedAt": "2026-09-30T21:42:30Z"
+        },
+        {
+          "id": "s5",
+          "label": "arxiv.org / source 5",
+          "url": "https://arxiv.org/abs/2509.22652",
+          "summary": "Primary diffusion-policy robot-control paper.",
+          "verifiedAt": "2026-09-30T21:42:30Z"
+        }
+      ],
+      "unknowns": [
+        "University pages disagree on rank: AI Institute says Associate Professor while research profile uses Professor. Reconfirm current title. Personal homepage timed out, so current industry status and exact supervision arrangement were not verified.",
+        "Summer 2027 acceptance, supervision, exact dates, funding, appointment and university/immigration approvals are unconfirmed. Self-funding alone does not establish eligibility.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "mryoo@cs.stonybrook.edu"
+    },
+    {
+      "id": "raymond-a-yeh",
+      "name": "Raymond A. Yeh",
+      "aliases": [],
+      "school": "Purdue University",
+      "homepage": "https://raymond-yeh.com/",
+      "title": "Assistant Professor",
+      "department": "Computer Science",
+      "batch": "embodied-003",
+      "discoveredAt": "2026-09-30T21:38:00Z",
+      "verifiedAt": "2026-09-30T21:42:30Z",
+      "researchAreas": [
+        "Latent world models",
+        "Reactive robot action chunking",
+        "Generative models",
+        "Robustness"
+      ],
+      "fitReason": "DREAM-Chunk (June 2026) makes VLA action chunks more reactive using a latent world model, linking generative modeling and real policy robustness.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "Primary DREAM-Chunk paper reports hardware experiments on four manipulation tasks across two robot platforms and two VLA policies.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "Homepage advertises PhD and Purdue-campus research and notes a former visiting PhD student; no current external short-term master’s pathway verified.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ]
+      },
+      "scores": {
+        "fit": 34,
+        "physical": 24,
+        "shortVisit": 0,
+        "freshness": 14
+      },
+      "scoreReasons": {
+        "fit": "Direct recent VLA/world-model project, broader lab is vision/generative ML.",
+        "physical": "Primary paper reports two-platform hardware evaluation; exact models not independently extracted.",
+        "shortVisit": "External short-term opening unknown.",
+        "freshness": "2026 primary preprint and current official faculty listing."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "ftp.cs.purdue.edu / source 1",
+          "url": "https://ftp.cs.purdue.edu/graduate/admission/faculty.html",
+          "summary": "Official current CS assistant professor and email.",
+          "verifiedAt": "2026-09-30T21:42:30Z"
+        },
+        {
+          "id": "s2",
+          "label": "raymond-yeh.com / source 2",
+          "url": "https://raymond-yeh.com/",
+          "summary": "Current research, recruitment scope and historical visiting-PhD precedent.",
+          "verifiedAt": "2026-09-30T21:42:30Z"
+        },
+        {
+          "id": "s3",
+          "label": "arxiv.org / source 3",
+          "url": "https://arxiv.org/abs/2606.18589",
+          "summary": "Primary 2026 world-model/action-chunking paper and physical experiments.",
+          "verifiedAt": "2026-09-30T21:42:30Z"
+        }
+      ],
+      "unknowns": [
+        "The six-month example in campus-student instructions is an example time commitment, not an explicit external-visitor prohibition. Past visitor evidence earns no current-opening points.",
+        "Summer 2027 acceptance, supervision, exact dates, funding, appointment and university/immigration approvals are unconfirmed. Self-funding alone does not establish eligibility.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "rayyeh@purdue.edu"
     }
   ]
 }

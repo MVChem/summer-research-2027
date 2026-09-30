@@ -1,0 +1,890 @@
+[
+  {
+    "id": "christoforos-mavrogiannis",
+    "name": "Christoforos Mavrogiannis",
+    "aliases": [],
+    "school": "University of Michigan",
+    "homepage": "https://robotics.umich.edu/people/faculty/christoforos-mavrogiannis/",
+    "title": "Assistant Professor",
+    "department": "Robotics",
+    "batch": "hri-006",
+    "discoveredAt": "2026-09-30T22:03:10Z",
+    "verifiedAt": "2026-09-30T22:07:05Z",
+    "researchAreas": [
+      "Social robot navigation",
+      "Shared autonomy",
+      "Human behavior prediction",
+      "Human-robot collaborative manipulation"
+    ],
+    "fitReason": "Very strong fit for embodied interaction, motion prediction and collaboration in dynamic human spaces. His combination of probabilistic modeling and physical systems supports a bounded technical project rather than only HRI surveys.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The 2025 Implicit Communication paper deploys a collaborative transport controller on a physical Hello Robot Stretch with 24 participants. The Fluent Robotics site additionally maintains a robots page announced in November 2025 and dated 2026 research updates.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No explicit external master's summer-visitor pathway was verified. An ETH master's thesis supervised during his 2026 visit concerns Switzerland and is not evidence of a Michigan summer 2027 opening.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "direct human-aware robot planning and embodied collaboration.",
+      "physical": "named 2025 Stretch human experiment.",
+      "shortVisit": "no relevant pathway.",
+      "freshness": "dated September 2026 lab activity."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "robotics.umich.edu / source 1",
+        "url": "https://robotics.umich.edu/people/faculty/christoforos-mavrogiannis/",
+        "summary": "Current Assistant Professor, Robotics, public email and research areas.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s2",
+        "label": "arxiv.org / source 2",
+        "url": "https://arxiv.org/abs/2502.03346",
+        "summary": "Primary HRI 2025 paper: physical Stretch collaborative transport and 24-person study.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s3",
+        "label": "fluentrobotics.com / source 3",
+        "url": "https://fluentrobotics.com/",
+        "summary": "September 2026 research news; current robot systems and projects.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s4",
+        "label": "fluentrobotics.com / source 4",
+        "url": "https://fluentrobotics.com/robots",
+        "summary": "Current lab robot catalog, linked from homepage.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s5",
+        "label": "chrismavrogiannis.com / source 5",
+        "url": "https://chrismavrogiannis.com/",
+        "summary": "Current Michigan role and February 2026 ETH visit; no summer 2027 presence guarantee.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s6",
+        "label": "crl-ethz.github.io / source 6",
+        "url": "https://crl-ethz.github.io/assets/pdf/2026-Mavrogiannis-CRL.pdf",
+        "summary": "ETH-based master's thesis listing, not a US short visit.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      }
+    ],
+    "unknowns": [
+      "No eight-week summer 2027 slot, funding, remote arrangement or external master's eligibility was confirmed.",
+      "Any visit and self-funding arrangement require PI, department and institutional approval.",
+      "He reported visiting ETH in the spring 2026 semester; location and availability for summer 2027 should be confirmed.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "cmavro@umich.edu"
+  },
+  {
+    "id": "lionel-p-robert-jr",
+    "name": "Lionel P. Robert Jr.",
+    "aliases": [],
+    "school": "University of Michigan",
+    "homepage": "https://si.umich.edu/people/lionel-robert",
+    "title": "Professor",
+    "department": "Information and Robotics",
+    "batch": "hri-006",
+    "discoveredAt": "2026-09-30T22:03:10Z",
+    "verifiedAt": "2026-09-30T22:07:05Z",
+    "researchAreas": [
+      "Human-robot teamwork",
+      "Robot trust and acceptance",
+      "Human-autonomy collaboration",
+      "Team decision support"
+    ],
+    "fitReason": "Relevant for empirical human-robot teamwork, trust and acceptance, with more social-science emphasis than perception algorithms. A technically grounded project should be identified explicitly because much recent work uses surveys, simulation or meta-analysis.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "His 2018 primary EPA-robot study reports 57 teams collaborating with physically embodied action robots. This establishes historical hardware-based HRI; the 2025 UGV prediction paper and recent robot-representation reviews are not treated as independent current hardware proof.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "stale-2022-inquiry; current route unverified",
+      "summary": "MAVRIC's join page explicitly lists summer internships among arrangements for master's students and gives a group contact. However, the page is labeled 2022, and it does not establish external/international eligibility, duration, current openings or a specific PI placement.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 32,
+      "physical": 18,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "relevant teamwork/trust with methods mismatch to core robot learning possible.",
+      "physical": "concrete but old 2018 physical-team study.",
+      "shortVisit": "The explicit master’s internship text is labeled 2022; current external eligibility and availability are unverified, so historical wording receives no opportunity points.",
+      "freshness": "official September 2026 research report, separate from hardware."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "si.umich.edu / source 1",
+        "url": "https://si.umich.edu/people/lionel-robert",
+        "summary": "Current Professor in Information and Robotics; human-robot collaboration research.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s2",
+        "label": "arc.engin.umich.edu / source 2",
+        "url": "https://arc.engin.umich.edu/faculty/lionel-robert/",
+        "summary": "Verified public email and MAVRIC leadership.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s3",
+        "label": "deepblue.lib.umich.edu / source 3",
+        "url": "https://deepblue.lib.umich.edu/handle/2027.42/136918",
+        "summary": "Primary institutional repository record: 2018 physical EPA-robot collaboration study with 57 teams.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s4",
+        "label": "mavric.si.umich.edu / source 4",
+        "url": "https://mavric.si.umich.edu/join-the-group",
+        "summary": "2022-labeled page explicitly lists master's summer internships and contact; current compatibility unconfirmed.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s5",
+        "label": "www.si.umich.edu / source 5",
+        "url": "https://www.si.umich.edu/about-umsi/news/focus-ai-robot-conflict-teammate-attacks-algorithmic-harms",
+        "summary": "September 25, 2026 report on current robot-conflict/trust research; not proof of hardware.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      }
+    ],
+    "unknowns": [
+      "No eight-week summer 2027 slot, funding, remote arrangement or external master's eligibility was confirmed.",
+      "Any visit and self-funding arrangement require PI, department and institutional approval.",
+      "MAVRIC opportunity page is labeled 2022 and may be stale; confirm it still applies and admits outside-university master's visitors.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "lprobert@umich.edu"
+  },
+  {
+    "id": "xi-jessie-yang",
+    "name": "Xi Jessie Yang",
+    "aliases": [],
+    "school": "University of Michigan",
+    "homepage": "https://robotics.umich.edu/people/faculty/xi-jessie-yang/",
+    "title": "Associate Professor",
+    "department": "Industrial and Operations Engineering; Robotics; Information",
+    "batch": "hri-006",
+    "discoveredAt": "2026-09-30T22:03:10Z",
+    "verifiedAt": "2026-09-30T22:07:05Z",
+    "researchAreas": [
+      "Human-robot interaction",
+      "Trust modeling",
+      "Human-autonomy teaming",
+      "Adaptive interfaces"
+    ],
+    "fitReason": "Good fit for human-aware robot assistance, trust prediction and interaction evaluation. Much work is human factors or simulated autonomy; choose an explicitly embodied technical project if physical robots remain the priority.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The 2018 primary Robotic Assistance in the Coordination of Patient Care paper, coauthored by Yang, compares computer support with a physical Aldebaran NAO and reports a hospital-floor demonstration. This is prior collaborative work, not verification of present Michigan lab inventory.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "stale-2022-inquiry; current route unverified",
+      "summary": "MAVRIC's 2022-labeled join page lists master's summer internships and includes Yang among faculty pathways. It does not specify outside-university/international eligibility or 2027 capacity; general ICRL research and degree admissions add no short-visit credit.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 34,
+      "physical": 18,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "strong human-autonomy modeling, weaker direct modern robot-perception focus.",
+      "physical": "older 2018 NAO clinical-coordination system.",
+      "shortVisit": "The group internship text is labeled 2022 and is not verified as a current external visiting route.",
+      "freshness": "official September 2026 personalized-trust research report."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "robotics.umich.edu / source 1",
+        "url": "https://robotics.umich.edu/people/faculty/xi-jessie-yang/",
+        "summary": "Current Associate Professor in IOE/Robotics, email and research.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s2",
+        "label": "www.si.umich.edu / source 2",
+        "url": "https://www.si.umich.edu/people/x-jessie-yang",
+        "summary": "Additional Information appointment and ICRL directorship.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s3",
+        "label": "journals.sagepub.com / source 3",
+        "url": "https://journals.sagepub.com/doi/abs/10.1177/0278364918778344",
+        "summary": "Primary 2018 NAO decision-support comparison and hospital-floor demonstration; Yang coauthor.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s4",
+        "label": "mavric.si.umich.edu / source 4",
+        "url": "https://mavric.si.umich.edu/join-the-group",
+        "summary": "2022-labeled master's summer internship inquiry information; not current eligibility assurance.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s5",
+        "label": "www.si.umich.edu / source 5",
+        "url": "https://www.si.umich.edu/about-umsi/news/focus-ai-robot-conflict-teammate-attacks-algorithmic-harms",
+        "summary": "September 25, 2026 report includes Yang's personalized trust-prediction research.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      }
+    ],
+    "unknowns": [
+      "No eight-week summer 2027 slot, funding, remote arrangement or external master's eligibility was confirmed.",
+      "Any visit and self-funding arrangement require PI, department and institutional approval.",
+      "MAVRIC's 2022 opportunity wording may be stale; current external/international eligibility needs confirmation.",
+      "Current physical robot access is unverified; ICRL homepage returned 403 through the reading tool.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "xijyang@umich.edu"
+  },
+  {
+    "id": "leia-stirling",
+    "name": "Leia Stirling",
+    "aliases": [],
+    "school": "University of Michigan",
+    "homepage": "https://ioe.engin.umich.edu/people/stirling-leia/",
+    "title": "Professor; Director, Center for Ergonomics",
+    "department": "Industrial and Operations Engineering and Robotics",
+    "batch": "hri-006",
+    "discoveredAt": "2026-09-30T22:03:10Z",
+    "verifiedAt": "2026-09-30T22:07:05Z",
+    "researchAreas": [
+      "Physical human-robot interaction",
+      "Wearable robotics",
+      "Human motion modeling",
+      "Human-system integration"
+    ],
+    "fitReason": "Good fit for sensing, human motion analysis and physical interaction with assistive exoskeletons. More biomechanics/human-factors-oriented than general robot perception; a bounded algorithm or existing-data project is likely easier to scope than a new clinical experiment.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Michigan's March 2024 report documents real powered ankle-exoskeleton walking experiments. Current university project descriptions identify a powered elbow exoskeleton for daily-living assistance. Recent publication lists include 2025 active ankle-exoskeleton work, while some 2026/2027 entries are future-dated and are not treated as completed studies.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Michigan Robotics lists Stirling as a SURE undergraduate project mentor. This undergraduate program is not evidence of an eligible external master's short visit. No separate visitor invitation was verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 34,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "assistive sensing and physical HRI with biomechanics emphasis.",
+      "physical": "A concrete physical experiment is from 2024; later apparatus details and current visitor-accessible equipment were not independently verified.",
+      "shortVisit": "undergraduate SURE only.",
+      "freshness": "official September 2026 center directorship and current research activity."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "ioe.engin.umich.edu / source 1",
+        "url": "https://ioe.engin.umich.edu/people/stirling-leia/",
+        "summary": "Current Professor, departments, Center for Ergonomics leadership and interests.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s2",
+        "label": "robotics.umich.edu / source 2",
+        "url": "https://robotics.umich.edu/people/faculty/leia-stirling/",
+        "summary": "Verified public email and robotics appointment.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s3",
+        "label": "robotics.umich.edu / source 3",
+        "url": "https://robotics.umich.edu/news/2024/even-robots-make-mistakes-how-humans-walk-with-imperfect-exoskeletons/",
+        "summary": "March 2024 official physical ankle-exoskeleton walking study.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s4",
+        "label": "robotics.umich.edu / source 4",
+        "url": "https://robotics.umich.edu/academics/undergraduate/sure/",
+        "summary": "Current powered elbow exoskeleton project; undergraduate summer program only.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s5",
+        "label": "stirling.engin.umich.edu / source 5",
+        "url": "https://stirling.engin.umich.edu/publications/",
+        "summary": "Dated 2025 exoskeleton publications; future 2026/2027 entries distinguished from completed work.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s6",
+        "label": "ioe.engin.umich.edu / source 6",
+        "url": "https://ioe.engin.umich.edu/2026/09/02/leia-stirling-named-new-center-for-ergonomics-director/",
+        "summary": "September 2, 2026 current appointment/research update.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      }
+    ],
+    "unknowns": [
+      "No eight-week summer 2027 slot, funding, remote arrangement or external master's eligibility was confirmed.",
+      "Any visit and self-funding arrangement require PI, department and institutional approval.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "leias@umich.edu"
+  },
+  {
+    "id": "cindy-m-grimm",
+    "name": "Cindy M. Grimm",
+    "aliases": [],
+    "school": "Oregon State University",
+    "homepage": "https://web.engr.oregonstate.edu/~grimmc/",
+    "title": "Professor; Robotics Graduate Program Director",
+    "department": "Mechanical, Industrial, and Manufacturing Engineering",
+    "batch": "hri-006",
+    "discoveredAt": "2026-09-30T22:03:25Z",
+    "verifiedAt": "2026-09-30T22:07:05Z",
+    "researchAreas": [
+      "Robot grasping",
+      "Visuomotor manipulation",
+      "Agricultural robotics",
+      "Human-informed robot design"
+    ],
+    "fitReason": "Strong fit for real robot perception/manipulation and learning from human knowledge, especially vision-guided interaction with plants. Less directly assistive HRI, but technically aligned with physical AI.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The September 21, 2026 primary visuomotor-pruning preprint reports 38 physical trials, including 28 outdoor orchard and 10 indoor tests, using hybrid reinforcement learning for zero-shot sim-to-real transfer.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Her official homepage says she does not answer generic lab-space/CV emails and directs applicants through degree admissions; specific research questions can use an RQ: subject. No explicit short visitor route was verified, and generic outreach should respect these instructions.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "direct visuomotor physical manipulation with human-informed methods.",
+      "physical": "38 explicitly physical 2026 trials.",
+      "shortVisit": "no qualifying route and restrictive contact guidance.",
+      "freshness": "September 2026 primary research."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.oregonstate.edu / source 1",
+        "url": "https://engineering.oregonstate.edu/research/robotics/field-robotics",
+        "summary": "Current full Professor, Robotics Graduate Program Director and email.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s2",
+        "label": "web.engr.oregonstate.edu / source 2",
+        "url": "https://web.engr.oregonstate.edu/~grimmc/",
+        "summary": "Official research interests and explicit no generic lab-space/CV emails; degree-admission process.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s3",
+        "label": "cindygr.github.io / source 3",
+        "url": "https://cindygr.github.io/",
+        "summary": "Current academic research site corroborates agricultural manipulation focus and contact guidance.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/abs/2609.24906",
+        "summary": "September 21, 2026 primary preprint, 38 real physical pruning trials.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s5",
+        "label": "research.oregonstate.edu / source 5",
+        "url": "https://research.oregonstate.edu/ora/robotics-awardees",
+        "summary": "2024–25 specialty crop robotics project with Grimm.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      }
+    ],
+    "unknowns": [
+      "No eight-week summer 2027 slot, funding, remote arrangement or external master's eligibility was confirmed.",
+      "Any visit and self-funding arrangement require PI, department and institutional approval.",
+      "Do not send a generic CV/space inquiry contrary to her published contact guidance; a specific research question is distinct from an opening request.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "cindy.grimm@oregonstate.edu"
+  },
+  {
+    "id": "cristina-g-wilson",
+    "name": "Cristina G. Wilson",
+    "aliases": [],
+    "school": "Oregon State University",
+    "homepage": "https://www.radlab.us/people",
+    "title": "Assistant Professor (Senior Research); Director, Research in Applied Decisions Lab",
+    "department": "Mechanical, Industrial, and Manufacturing Engineering; CoRIS",
+    "batch": "hri-006",
+    "discoveredAt": "2026-09-30T22:03:25Z",
+    "verifiedAt": "2026-09-30T22:07:05Z",
+    "researchAreas": [
+      "Human-robot field science",
+      "Cognition-aware robotics",
+      "Robot decision support",
+      "Human-in-the-loop exploration"
+    ],
+    "fitReason": "Good fit for physically grounded human-AI collaboration and interfaces that help experts direct robots. Stronger human decision-making emphasis than robot policy learning; concrete existing field-data or interface tasks may fit CS preparation.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Oregon State's 2025 student-research report documents Wilson's team testing a four-legged planetary exploration robot at Mount Hood. Another official report describes manipulator-equipped underwater robots for her human-interface work. A 2026 paper records explainable adaptive robotic scientific data collection.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Official REU project pages list her field-science HRI work, but the REU is an undergraduate route. No explicit external master's or short-visitor invitation was verified; a local undergraduate mentorship example is not eligibility evidence.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 35,
+      "physical": 24,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "strong expert-robot collaboration with cognitive-science emphasis.",
+      "physical": "official 2025 physical quadruped field-test and underwater-manipulator reports, no visitor hardware access guarantee.",
+      "shortVisit": "only undergraduate REU evidenced.",
+      "freshness": "official lab list includes 2026 research paper."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.oregonstate.edu / source 1",
+        "url": "https://engineering.oregonstate.edu/research/robotics/field-robotics",
+        "summary": "Current Assistant Professor listing and public institutional email.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s2",
+        "label": "engineering.oregonstate.edu / source 2",
+        "url": "https://engineering.oregonstate.edu/all-stories/undergrad-dives-deep-underwater-robotics-research",
+        "summary": "Official 2025 account identifies Senior Research title, RAD directorship and underwater manipulator interfaces.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s3",
+        "label": "engineering.oregonstate.edu / source 3",
+        "url": "https://engineering.oregonstate.edu/all-stories/three-real-world-robotics-projects-graduate-engineering-students",
+        "summary": "2025 university report explicitly states Wilson's team tested a quadruped at Mount Hood.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s4",
+        "label": "research.engr.oregonstate.edu / source 4",
+        "url": "https://research.engr.oregonstate.edu/rdml/publications",
+        "summary": "Official 2026 paper listing: Explainable and Adaptable Robotic Decision Making for Scientific Data Collection.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s5",
+        "label": "engineering.oregonstate.edu / source 5",
+        "url": "https://engineering.oregonstate.edu/research/CoRIS/reu-robots-real-world/projects",
+        "summary": "Undergraduate REU mentor/project description; not external master's eligibility.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s6",
+        "label": "www.radlab.us / source 6",
+        "url": "https://www.radlab.us/people",
+        "summary": "RAD directorship; older Research Associate title is superseded by newer university reporting.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      }
+    ],
+    "unknowns": [
+      "No eight-week summer 2027 slot, funding, remote arrangement or external master's eligibility was confirmed.",
+      "Any visit and self-funding arrangement require PI, department and institutional approval.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "cristina.wilson@oregonstate.edu"
+  },
+  {
+    "id": "paul-robinette",
+    "name": "Paul Robinette",
+    "aliases": [],
+    "school": "University of Massachusetts Lowell",
+    "homepage": "https://www.uml.edu/robotics/faculty/robinette-paul.aspx",
+    "title": "Associate Professor; Associate Chair for Master of Science Programs",
+    "department": "Electrical and Computer Engineering",
+    "batch": "hri-006",
+    "discoveredAt": "2026-09-30T22:03:32Z",
+    "verifiedAt": "2026-09-30T22:07:05Z",
+    "researchAreas": [
+      "Human-robot trust",
+      "Trust repair",
+      "Field and marine robotics",
+      "Human-robot teaming"
+    ],
+    "fitReason": "Relevant for trust calibration, robot explanations and robust real-world interaction. A technical CS project should connect the human-factors question to actual robot behavior; some recent studies are online-only.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "UMass Lowell's fall 2024 report depicts Robinette with a physical QTrobot used in HRI research. His official biography also describes real marine field experiments. The 2025 trust-repair journal paper is an online experiment and is not counted as new hardware evidence.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No explicit current external master's summer-visitor route was verified. His role coordinating master's programs does not itself establish visitor eligibility or a lab opening.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 35,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "strong HRI trust and field interaction.",
+      "physical": "concrete 2024 QTrobot/earlier marine work, recent online paper excluded from hardware proof.",
+      "shortVisit": "unverified.",
+      "freshness": "primary publisher dates trust-repair paper October 2025, despite January 2026 issue."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.uml.edu / source 1",
+        "url": "https://www.uml.edu/robotics/faculty/robinette-paul.aspx",
+        "summary": "Current Associate Professor/Associate Chair and public email; page image alt has stale Assistant title.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s2",
+        "label": "sites.uml.edu / source 2",
+        "url": "https://sites.uml.edu/paul-robinette/",
+        "summary": "Official research biography includes physical marine and lab experiments; rank text is stale.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s3",
+        "label": "www.uml.edu / source 3",
+        "url": "https://www.uml.edu/engineering/research/engineering-solutions/es-fall-2024/empowering-independence.aspx",
+        "summary": "Fall 2024 official QTrobot HRI report and physical photograph.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s4",
+        "label": "doi.org / source 4",
+        "url": "https://doi.org/10.1145/3767729",
+        "summary": "Primary publisher record: October 28, 2025 publication; explicitly online trust-repair experiment, not physical.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      }
+    ],
+    "unknowns": [
+      "No eight-week summer 2027 slot, funding, remote arrangement or external master's eligibility was confirmed.",
+      "Any visit and self-funding arrangement require PI, department and institutional approval.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "Paul_Robinette@uml.edu"
+  },
+  {
+    "id": "alan-r-wagner",
+    "name": "Alan R. Wagner",
+    "aliases": [],
+    "school": "Pennsylvania State University",
+    "homepage": "https://www.aero.psu.edu/department/directory-detail-g.aspx?q=azw78",
+    "title": "Associate Professor",
+    "department": "Aerospace Engineering",
+    "batch": "hri-006",
+    "discoveredAt": "2026-09-30T22:03:44Z",
+    "verifiedAt": "2026-09-30T22:07:05Z",
+    "researchAreas": [
+      "Human-robot trust",
+      "Social robot learning",
+      "Robot-guided emergency evacuation",
+      "Humanitarian robotics"
+    ],
+    "fitReason": "Good fit for robot social reasoning, few-shot perception and interaction in difficult settings. Focus a potential project on benign assistive/search-and-rescue or general HRI questions, with scope and access confirmed.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The official REAL project page documents active class selection tested with a real Pepper robot separately from Minecraft simulation. The linked demonstrations date to 2022. Current evacuation project language describes planned development, so it is not counted as an already completed deployment.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "REAL seeks master's/PhD applicants through Penn State graduate admissions; existing students generally spend a semester on independent study before joining. This is not an eight-week external-master's visitor invitation.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 35,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "physical HRI and robot learning relevant, project focus must be selected.",
+      "physical": "real Pepper experiments are older 2022 evidence.",
+      "shortVisit": "degree admissions and semester onboarding, no visitor pathway.",
+      "freshness": "official faculty record includes 2026 research, separate from physical proof."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.aero.psu.edu / source 1",
+        "url": "https://www.aero.psu.edu/department/directory-detail-g.aspx?q=azw78",
+        "summary": "Current Associate Professor, department, institutional email and 2026 publication.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s2",
+        "label": "sites.psu.edu / source 2",
+        "url": "https://sites.psu.edu/real/people/",
+        "summary": "Current REAL leadership and research interests.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s3",
+        "label": "sites.psu.edu / source 3",
+        "url": "https://sites.psu.edu/real/active-class-selection-for-few-shot-class-incremental-learning/",
+        "summary": "Real Pepper experiments distinct from Minecraft simulation;2022 demonstration files.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s4",
+        "label": "sites.psu.edu / source 4",
+        "url": "https://sites.psu.edu/real/for-students/",
+        "summary": "Graduate admissions, local independent-study expectations and no explicit visitor route.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s5",
+        "label": "sites.psu.edu / source 5",
+        "url": "https://sites.psu.edu/real/projects/interactive-and-collaborative-robot-assisted-emergency-evacuation/",
+        "summary": "Future development description; not completed deployment proof.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      }
+    ],
+    "unknowns": [
+      "No eight-week summer 2027 slot, funding, remote arrangement or external master's eligibility was confirmed.",
+      "Any visit and self-funding arrangement require PI, department and institutional approval.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "azw78@psu.edu"
+  },
+  {
+    "id": "chung-hyuk-park",
+    "name": "Chung Hyuk Park",
+    "aliases": [],
+    "school": "George Washington University",
+    "homepage": "https://bme.engineering.gwu.edu/chung-hyuk-park",
+    "title": "Associate Professor",
+    "department": "Biomedical Engineering",
+    "batch": "hri-006",
+    "discoveredAt": "2026-09-30T22:04:01Z",
+    "verifiedAt": "2026-09-30T22:07:05Z",
+    "researchAreas": [
+      "Multimodal assistive HRI",
+      "Telepresence robotics",
+      "Robot learning",
+      "Computer vision and haptics"
+    ],
+    "fitReason": "Strong fit for multimodal robot perception, assistive interaction and teleoperation. Existing sensor/robot systems could support a bounded CS task, while clinical or child-focused experiments require additional approvals and time.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The ART-Med lab's explicit equipment inventory lists a mobile Adept platform with two Kinova JACO2 arms, Pepper and NAO humanoids, DARWin robots, depth cameras, haptic interfaces and motion/physiology sensors. This is direct current inventory evidence, not proof of a particular 2027 experiment.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Faculty/lab pages list master's mentorship and local undergraduate awards, but no explicit external master's summer-visitor pathway was verified. Grants and past student awards do not establish funding or permission to self-fund.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "direct multimodal assistive robots, vision, learning and teleoperation.",
+      "physical": "explicit current lab inventory of named robot platforms.",
+      "shortVisit": "no specific route.",
+      "freshness": "official KAIST July 2026 seminar and 2026 conference organizer record, with lab news updated December 2025."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "bme.engineering.gwu.edu / source 1",
+        "url": "https://bme.engineering.gwu.edu/chung-hyuk-park",
+        "summary": "Current Associate Professor, BME affiliation and linked academic site.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s2",
+        "label": "www.chunghyukpark.com / source 2",
+        "url": "https://www.chunghyukpark.com/lab-equipment.html",
+        "summary": "Explicit named physical robot/sensor inventory.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s3",
+        "label": "www.chunghyukpark.com / source 3",
+        "url": "https://www.chunghyukpark.com/",
+        "summary": "Research news updated December 2025; student histories do not establish visitor eligibility.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s4",
+        "label": "irobot.kaist.ac.kr / source 4",
+        "url": "https://irobot.kaist.ac.kr/bbs/board.php?bo_table=news&device=pc&page=1&sod=desc&sop=and&sst=wr_datetime&wr_id=74",
+        "summary": "Official July9,2026 seminar confirms current GW activity.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      },
+      {
+        "id": "s5",
+        "label": "ro-man2026.org / source 5",
+        "url": "https://ro-man2026.org/wp-content/uploads/2026/02/Roman2026_SE_proposal.pdf",
+        "summary": "Official 2026 organizer biography verifies Associate Professor and public email.",
+        "verifiedAt": "2026-09-30T22:07:05Z"
+      }
+    ],
+    "unknowns": [
+      "No eight-week summer 2027 slot, funding, remote arrangement or external master's eligibility was confirmed.",
+      "Any visit and self-funding arrangement require PI, department and institutional approval.",
+      "Projects involving patients or children may need separate ethics, training and access permissions; do not presume these can be arranged in eight weeks.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "chpark@gwu.edu"
+  }
+]

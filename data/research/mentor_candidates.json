@@ -24,7 +24,8 @@
     "batches/hri-002.json",
     "batches/hri-003.json",
     "batches/hri-004.json",
-    "batches/hri-005.json"
+    "batches/hri-005.json",
+    "batches/hri-006.json"
   ],
   "candidates": [
     {
@@ -3827,6 +3828,240 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-005.json",
       "detailPage": "batches/hri-005.md#bill-smart"
+    },
+    {
+      "id": "christoforos-mavrogiannis",
+      "name": "Christoforos Mavrogiannis",
+      "aliases": [],
+      "school": "University of Michigan",
+      "title": "Assistant Professor",
+      "homepage": "https://robotics.umich.edu/people/faculty/christoforos-mavrogiannis/",
+      "batch": "hri-006",
+      "discoveredAt": "2026-09-30T22:03:10Z",
+      "verifiedAt": "2026-09-30T22:07:05Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Social robot navigation",
+        "Shared autonomy",
+        "Human behavior prediction",
+        "Human-robot collaborative manipulation"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-006.json",
+      "detailPage": "batches/hri-006.md#christoforos-mavrogiannis"
+    },
+    {
+      "id": "lionel-p-robert-jr",
+      "name": "Lionel P. Robert Jr.",
+      "aliases": [],
+      "school": "University of Michigan",
+      "title": "Professor",
+      "homepage": "https://si.umich.edu/people/lionel-robert",
+      "batch": "hri-006",
+      "discoveredAt": "2026-09-30T22:03:10Z",
+      "verifiedAt": "2026-09-30T22:07:05Z",
+      "scores": {
+        "fit": 32,
+        "physical": 18,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-robot teamwork",
+        "Robot trust and acceptance",
+        "Human-autonomy collaboration",
+        "Team decision support"
+      ],
+      "shortVisitStatus": "stale-2022-inquiry; current route unverified",
+      "recordFile": "batches/hri-006.json",
+      "detailPage": "batches/hri-006.md#lionel-p-robert-jr"
+    },
+    {
+      "id": "xi-jessie-yang",
+      "name": "Xi Jessie Yang",
+      "aliases": [],
+      "school": "University of Michigan",
+      "title": "Associate Professor",
+      "homepage": "https://robotics.umich.edu/people/faculty/xi-jessie-yang/",
+      "batch": "hri-006",
+      "discoveredAt": "2026-09-30T22:03:10Z",
+      "verifiedAt": "2026-09-30T22:07:05Z",
+      "scores": {
+        "fit": 34,
+        "physical": 18,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-robot interaction",
+        "Trust modeling",
+        "Human-autonomy teaming",
+        "Adaptive interfaces"
+      ],
+      "shortVisitStatus": "stale-2022-inquiry; current route unverified",
+      "recordFile": "batches/hri-006.json",
+      "detailPage": "batches/hri-006.md#xi-jessie-yang"
+    },
+    {
+      "id": "leia-stirling",
+      "name": "Leia Stirling",
+      "aliases": [],
+      "school": "University of Michigan",
+      "title": "Professor; Director, Center for Ergonomics",
+      "homepage": "https://ioe.engin.umich.edu/people/stirling-leia/",
+      "batch": "hri-006",
+      "discoveredAt": "2026-09-30T22:03:10Z",
+      "verifiedAt": "2026-09-30T22:07:05Z",
+      "scores": {
+        "fit": 34,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Physical human-robot interaction",
+        "Wearable robotics",
+        "Human motion modeling",
+        "Human-system integration"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-006.json",
+      "detailPage": "batches/hri-006.md#leia-stirling"
+    },
+    {
+      "id": "cindy-m-grimm",
+      "name": "Cindy M. Grimm",
+      "aliases": [],
+      "school": "Oregon State University",
+      "title": "Professor; Robotics Graduate Program Director",
+      "homepage": "https://web.engr.oregonstate.edu/~grimmc/",
+      "batch": "hri-006",
+      "discoveredAt": "2026-09-30T22:03:25Z",
+      "verifiedAt": "2026-09-30T22:07:05Z",
+      "scores": {
+        "fit": 37,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Robot grasping",
+        "Visuomotor manipulation",
+        "Agricultural robotics",
+        "Human-informed robot design"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-006.json",
+      "detailPage": "batches/hri-006.md#cindy-m-grimm"
+    },
+    {
+      "id": "cristina-g-wilson",
+      "name": "Cristina G. Wilson",
+      "aliases": [],
+      "school": "Oregon State University",
+      "title": "Assistant Professor (Senior Research); Director, Research in Applied Decisions Lab",
+      "homepage": "https://www.radlab.us/people",
+      "batch": "hri-006",
+      "discoveredAt": "2026-09-30T22:03:25Z",
+      "verifiedAt": "2026-09-30T22:07:05Z",
+      "scores": {
+        "fit": 35,
+        "physical": 24,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-robot field science",
+        "Cognition-aware robotics",
+        "Robot decision support",
+        "Human-in-the-loop exploration"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-006.json",
+      "detailPage": "batches/hri-006.md#cristina-g-wilson"
+    },
+    {
+      "id": "paul-robinette",
+      "name": "Paul Robinette",
+      "aliases": [],
+      "school": "University of Massachusetts Lowell",
+      "title": "Associate Professor; Associate Chair for Master of Science Programs",
+      "homepage": "https://www.uml.edu/robotics/faculty/robinette-paul.aspx",
+      "batch": "hri-006",
+      "discoveredAt": "2026-09-30T22:03:32Z",
+      "verifiedAt": "2026-09-30T22:07:05Z",
+      "scores": {
+        "fit": 35,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Human-robot trust",
+        "Trust repair",
+        "Field and marine robotics",
+        "Human-robot teaming"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-006.json",
+      "detailPage": "batches/hri-006.md#paul-robinette"
+    },
+    {
+      "id": "alan-r-wagner",
+      "name": "Alan R. Wagner",
+      "aliases": [],
+      "school": "Pennsylvania State University",
+      "title": "Associate Professor",
+      "homepage": "https://www.aero.psu.edu/department/directory-detail-g.aspx?q=azw78",
+      "batch": "hri-006",
+      "discoveredAt": "2026-09-30T22:03:44Z",
+      "verifiedAt": "2026-09-30T22:07:05Z",
+      "scores": {
+        "fit": 35,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-robot trust",
+        "Social robot learning",
+        "Robot-guided emergency evacuation",
+        "Humanitarian robotics"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-006.json",
+      "detailPage": "batches/hri-006.md#alan-r-wagner"
+    },
+    {
+      "id": "chung-hyuk-park",
+      "name": "Chung Hyuk Park",
+      "aliases": [],
+      "school": "George Washington University",
+      "title": "Associate Professor",
+      "homepage": "https://bme.engineering.gwu.edu/chung-hyuk-park",
+      "batch": "hri-006",
+      "discoveredAt": "2026-09-30T22:04:01Z",
+      "verifiedAt": "2026-09-30T22:07:05Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Multimodal assistive HRI",
+        "Telepresence robotics",
+        "Robot learning",
+        "Computer vision and haptics"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-006.json",
+      "detailPage": "batches/hri-006.md#chung-hyuk-park"
     }
   ]
 }

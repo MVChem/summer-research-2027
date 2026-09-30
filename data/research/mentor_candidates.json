@@ -21,6 +21,7 @@
     "batches/control-010.json",
     "batches/control-011.json",
     "batches/control-012.json",
+    "batches/control-013.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -1835,6 +1836,35 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-012.json",
       "detailPage": "batches/control-012.md#maani-ghaffari"
+    },
+    {
+      "id": "neel-p-bhatt",
+      "name": "Neel P. Bhatt",
+      "aliases": [
+        "Neel Bhatt"
+      ],
+      "school": "University of Texas at Dallas",
+      "title": "Assistant Professor",
+      "homepage": "https://neel1302.github.io/",
+      "batch": "control-013",
+      "discoveredAt": "2026-09-30T22:50:06Z",
+      "verifiedAt": "2026-09-30T22:55:17Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 10,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "neurosymbolic embodied AI",
+        "uncertainty-aware active perception",
+        "heterogeneous multi-robot teaming",
+        "formal methods for autonomy",
+        "physical world models"
+      ],
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/control-013.json",
+      "detailPage": "batches/control-013.md#neel-p-bhatt"
     },
     {
       "id": "tom-silver",

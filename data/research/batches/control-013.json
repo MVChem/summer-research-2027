@@ -1,0 +1,105 @@
+[
+  {
+    "id": "neel-p-bhatt",
+    "name": "Neel P. Bhatt",
+    "aliases": [
+      "Neel Bhatt"
+    ],
+    "school": "University of Texas at Dallas",
+    "homepage": "https://neel1302.github.io/",
+    "title": "Assistant Professor",
+    "department": "Systems Engineering, Erik Jonsson School of Engineering and Computer Science",
+    "batch": "control-013",
+    "discoveredAt": "2026-09-30T22:50:06Z",
+    "verifiedAt": "2026-09-30T22:55:17Z",
+    "researchAreas": [
+      "neurosymbolic embodied AI",
+      "uncertainty-aware active perception",
+      "heterogeneous multi-robot teaming",
+      "formal methods for autonomy",
+      "physical world models"
+    ],
+    "fitReason": "Combines learned perception and foundation-model reasoning with trustworthy decisions for physical multi-robot teams; current recruitment explicitly includes2027 visiting/intern inquiries.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Co-GLANCE (June2026) uses VLM-supervised compact onboard perception with calibrated uncertainty to guide simultaneous real DJI Matrice600 and Boston Dynamics Spot deployments. The aerial robot acquires viewpoints and issues waypoints that the ground robot follows. Bhatt is an equal-contribution author. This is pre-UT Dallas work at UT Austin; comparable equipment in the new lab is unverified. The active-perception rule is heuristic, so do not describe it as end-to-end learned control.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "Homepage prominently invites discussions for visiting students and interns starting Spring/Summer/Fall2027. Its openings section gives a separate visiting/intern email application option requesting a CV and one-page research statement. This establishes a current inquiry route with an explicit2027 period, without a promised duration or placement.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 10,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Neurosymbolic AI, uncertainty-aware learned perception and physical multi-agent autonomy are direct fit; active-perception policy itself is heuristic.",
+      "physical": "Named, actual2026 air/ground deployments, capped for work predating new institution; new UTD lab equipment not established.",
+      "shortVisit": "Explicit2027 visitor/intern inquiry invitation; eight-week duration and exact appointment eligibility not confirmed.",
+      "freshness": "June2026 primary robotics paper, Fall2026 official appointment, and current2027 recruitment wording."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "syse.utdallas.edu / source 1",
+        "url": "https://syse.utdallas.edu/ourteam/staff/neel-p-bhatt/",
+        "summary": "Official page displays Assistant Professor in Systems Engineering, Fall2026 arrival and current UTD email; /staff/ path does not change the faculty title.",
+        "verifiedAt": "2026-09-30T22:55:17Z",
+        "retrieval": "direct cloud-browser primary page at2026-09-30T22:51:47Z after web fetch502; exact URL verified by child"
+      },
+      {
+        "id": "s2",
+        "label": "neel1302.github.io / source 2",
+        "url": "https://neel1302.github.io/",
+        "summary": "Current UTD affiliation, explicit Spring/Summer/Fall2027 visitor/intern discussion invitation, separate application instructions.",
+        "verifiedAt": "2026-09-30T22:55:17Z",
+        "retrieval": "direct author HTML via web.run; final recheck2026-09-30T22:55:17Z"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2606.09919v1",
+        "summary": "Sections3.1,4.1,4.4 describe learned onboard perception and simultaneous real Matrice600/Spot deployment; author affiliations UT Austin.",
+        "verifiedAt": "2026-09-30T22:55:17Z",
+        "retrieval": "direct primary manuscript HTML via web.run; child verification"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/abs/2606.09919",
+        "summary": "June7,2026 primary paper date and Bhatt authorship.",
+        "verifiedAt": "2026-09-30T22:55:17Z",
+        "retrieval": "direct primary abstract via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "co-glance.github.io / source 5",
+        "url": "https://co-glance.github.io/",
+        "summary": "Author project corroborates named air/ground robot hardware, learned perception and physical robot-routing examples.",
+        "verifiedAt": "2026-09-30T22:55:17Z",
+        "retrieval": "direct primary project HTML via web.run"
+      }
+    ],
+    "unknowns": [
+      "Eight-week capacity, external-master's approval, funding, institutional appointment and UTD hardware access remain unconfirmed. Current UTD faculty role began Fall2026; the homepage still includes an old UT Austin email and lower openings wording Fall2026/Spring2027. Use the official current UTD professional email. Institution-specific category and project approval remain required; general rules do not establish a funded place.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "Neel.Bhatt@utdallas.edu"
+  }
+]

@@ -2,7 +2,7 @@
 
 [字段与评分说明](README.md) · [结构化记录](mentor_candidates.json)
 
-新增 **10 位**；原有 200 位保持不变。时间均为 UTC。
+新增 **20 位**；原有 200 位保持不变。时间均为 UTC。
 
 总分 = 研究匹配 40 + 真机证据 25 + 短访证据 20 + 信息新鲜度 15。分数是筛选优先级，不是录取概率；没有联系导师或发送邮件。
 
@@ -10,14 +10,24 @@
 |---:|---|---:|---|---|---|
 | 1 | [Negar Mehr](https://negarmehr.com/) · University of California, Berkeley | 87 | 39 / 25 / 8 / 15 | 2026-09-30T21:21:57Z | 2026-09-30T21:24:34Z |
 | 2 | [Somil Bansal](https://smlbansal.github.io/) · Stanford University | 87 | 39 / 23 / 10 / 15 | 2026-09-30T21:21:51Z | 2026-09-30T21:24:34Z |
-| 3 | [Mac Schwager](https://msl.stanford.edu/) · Stanford University | 81 | 38 / 20 / 8 / 15 | 2026-09-30T21:22:05Z | 2026-09-30T21:24:34Z |
-| 4 | [Jaime Fernández Fisac](https://saferobotics.princeton.edu/jaime) · Princeton University | 80 | 40 / 25 / 0 / 15 | 2026-09-30T21:21:51Z | 2026-09-30T21:24:34Z |
-| 5 | [Sylvia Herbert](https://sylviaherbert.com/) · University of California, San Diego | 78 | 39 / 24 / 0 / 15 | 2026-09-30T21:21:51Z | 2026-09-30T21:29:46Z |
-| 6 | [Soon-Jo Chung](https://aerospacerobotics.caltech.edu/) · California Institute of Technology | 78 | 38 / 25 / 0 / 15 | 2026-09-30T21:21:57Z | 2026-09-30T21:24:34Z |
-| 7 | [Aaron D. Ames](https://www.bipedalrobotics.com/) · California Institute of Technology | 74 | 39 / 25 / 0 / 10 | 2026-09-30T21:21:57Z | 2026-09-30T21:24:34Z |
-| 8 | [Koushil Sreenath](https://hybrid-robotics.berkeley.edu/) · University of California, Berkeley | 74 | 39 / 25 / 0 / 10 | 2026-09-30T21:22:05Z | 2026-09-30T21:24:34Z |
-| 9 | [David Fridovich-Keil](https://dfridovi.github.io/) · University of Texas at Austin | 73 | 38 / 20 / 0 / 15 | 2026-09-30T21:21:51Z | 2026-09-30T21:24:34Z |
-| 10 | [Karen Leung](https://depts.washington.edu/ctrl/) · University of Washington | 69 | 37 / 18 / 0 / 14 | 2026-09-30T21:21:57Z | 2026-09-30T21:24:34Z |
+| 3 | [Allison Okamura](https://profiles.stanford.edu/allison-okamura) · Stanford University | 82 | 32 / 25 / 10 / 15 | 2026-09-30T21:22:28Z | 2026-09-30T21:27:42Z |
+| 4 | [Mac Schwager](https://msl.stanford.edu/) · Stanford University | 81 | 38 / 20 / 8 / 15 | 2026-09-30T21:22:05Z | 2026-09-30T21:24:34Z |
+| 5 | [Jaime Fernández Fisac](https://saferobotics.princeton.edu/jaime) · Princeton University | 80 | 40 / 25 / 0 / 15 | 2026-09-30T21:21:51Z | 2026-09-30T21:24:34Z |
+| 6 | [Henny Admoni](https://www.hennyadmoni.com/) · Carnegie Mellon University | 79 | 39 / 25 / 0 / 15 | 2026-09-30T21:22:12Z | 2026-09-30T21:27:42Z |
+| 7 | [Sylvia Herbert](https://sylviaherbert.com/) · University of California, San Diego | 78 | 39 / 24 / 0 / 15 | 2026-09-30T21:21:51Z | 2026-09-30T21:29:46Z |
+| 8 | [Soon-Jo Chung](https://aerospacerobotics.caltech.edu/) · California Institute of Technology | 78 | 38 / 25 / 0 / 15 | 2026-09-30T21:21:57Z | 2026-09-30T21:24:34Z |
+| 9 | [Laurel Riek](https://profiles.ucsd.edu/laurel.riek) · University of California San Diego | 78 | 38 / 25 / 0 / 15 | 2026-09-30T21:22:12Z | 2026-09-30T21:27:42Z |
+| 10 | [Bilge Mutlu](https://bmutlu.github.io/) · University of Wisconsin–Madison | 76 | 37 / 24 / 0 / 15 | 2026-09-30T21:22:12Z | 2026-09-30T21:27:42Z |
+| 11 | [Brian Scassellati](https://engineering.yale.edu/research-and-faculty/faculty-directory/brian-scassellati) · Yale University | 75 | 35 / 25 / 0 / 15 | 2026-09-30T21:22:28Z | 2026-09-30T21:27:42Z |
+| 12 | [Aaron D. Ames](https://www.bipedalrobotics.com/) · California Institute of Technology | 74 | 39 / 25 / 0 / 10 | 2026-09-30T21:21:57Z | 2026-09-30T21:24:34Z |
+| 13 | [Koushil Sreenath](https://hybrid-robotics.berkeley.edu/) · University of California, Berkeley | 74 | 39 / 25 / 0 / 10 | 2026-09-30T21:22:05Z | 2026-09-30T21:24:34Z |
+| 14 | [Maja Matarić](https://viterbi.usc.edu/directory/faculty/Mataric/Maja) · University of Southern California | 74 | 36 / 20 / 5 / 13 | 2026-09-30T21:22:19Z | 2026-09-30T21:27:42Z |
+| 15 | [David Fridovich-Keil](https://dfridovi.github.io/) · University of Texas at Austin | 73 | 38 / 20 / 0 / 15 | 2026-09-30T21:21:51Z | 2026-09-30T21:24:34Z |
+| 16 | [Selma Šabanović](https://luddy.iu.edu/people/sabanovic-selma.html) · Indiana University Bloomington | 70 | 34 / 23 / 8 / 5 | 2026-09-30T21:22:12Z | 2026-09-30T21:27:42Z |
+| 17 | [Karen Leung](https://depts.washington.edu/ctrl/) · University of Washington | 69 | 37 / 18 / 0 / 14 | 2026-09-30T21:21:57Z | 2026-09-30T21:24:34Z |
+| 18 | [Heather Knight](https://www.charismarobotics.com/team) · Oregon State University | 64 | 34 / 20 / 0 / 10 | 2026-09-30T21:22:28Z | 2026-09-30T21:27:42Z |
+| 19 | [Guy Hoffman](https://www.cs.cornell.edu/people/guy-hoffman) · Cornell University | 61 | 36 / 20 / 0 / 5 | 2026-09-30T21:22:19Z | 2026-09-30T21:27:42Z |
+| 20 | [Cynthia Breazeal](https://www.media.mit.edu/people/cynthiab/overview/) · Massachusetts Institute of Technology | 59 | 34 / 20 / 0 / 5 | 2026-09-30T21:22:19Z | 2026-09-30T21:27:42Z |
 
 ## 1. Negar Mehr · University of California, Berkeley
 
@@ -61,7 +71,27 @@
   - [smlbansal.github.io / source 3](https://smlbansal.github.io/sia-lab/index.html)：Quadrupedal safety filters; 2026 visitors, robotics publications and driving project.（核查 2026-09-30T21:24:34Z）
   - [smlbansal.github.io / source 4](https://smlbansal.github.io/sia-lab/joinus.html)：Explicit visiting-student/intern inquiry instructions including desired duration and funding.（核查 2026-09-30T21:24:34Z）
 
-## 3. Mac Schwager · Stanford University
+## 3. Allison Okamura · Stanford University
+
+- 稳定键：`allison-okamura`；批次：hri-001
+- 任职：Richard W. Weiland Professor of Engineering
+- 方向：Haptics；Teleoperation；Human-robot interaction；Assistive and rehabilitation robotics；Soft robots
+- 匹配理由：Promising adjacent fit for researchers interested in shared control, haptic interaction, perception or robot-assistance algorithms. Less centered on foundation-model robotics, with more hardware/control background potentially needed.
+- 真机证据（public-hardware-evidence）：Stanford's profile documents physical soft-robot experiments, robot-assisted rehabilitation and surgical teleoperation systems; CHARM studies haptic devices and assistive robots. Recent profile-listed work includes a physically demonstrated long vine robot.
+- 短访证据（inquiry-only）：Okamura's own lab page explicitly says visiting students may send a CV and research statement if they have their own financial support when no position is advertised, contingent on relevance and space. CHARM records summer-researcher/visitor presentations in August 2026. No eight-week 2027 slot is promised.
+- 首次发现：2026-09-30T21:22:28Z；最后核查：2026-09-30T21:27:42Z
+- 评分依据：
+  - fit 32/40：useful CS-to-haptics/control fit but hardware emphasis.
+  - physical 25/25：concrete physical systems.
+  - shortVisit 10/20：explicit conditional visitor route, duration unspecified.
+  - freshness 15/15：current official profile and dated 2026 lab visits.
+- 未确认事项：The visitor invitation is conditional on background, space and financial support; it does not prove university permission for a specific self-funded arrangement.；Duration, external master's appointment, costs, visa support and supervision must be confirmed with the host and institution.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.
+- 来源：
+  - [profiles.stanford.edu / source 1](https://profiles.stanford.edu/allison-okamura)：Official current profile and physical robot experiments/publications.（核查 2026-09-30T21:27:42Z）
+  - [charm.stanford.edu / source 2](https://charm.stanford.edu/Main/AllisonOkamura)：Professor title, email and explicit conditional visitor inquiry with own financial support.（核查 2026-09-30T21:27:42Z）
+  - [charm.stanford.edu / source 3](https://charm.stanford.edu/Main/PastLabMeetings)：Dated August 2026 summer researcher and visitor presentations; historical precedent only.（核查 2026-09-30T21:27:42Z）
+
+## 4. Mac Schwager · Stanford University
 
 - 稳定键：`mac-schwager`；批次：control-001
 - 任职：Associate Professor
@@ -81,7 +111,7 @@
   - [msl.stanford.edu / source 2](https://msl.stanford.edu/)：Collaborative autonomy for physical robots; public email and explicit non-Stanford visiting-researcher inquiries.（核查 2026-09-30T21:24:34Z）
   - [arxiv.org / source 3](https://arxiv.org/abs/2403.02751)：Splat-Nav author paper describes 126 hardware flights, onboard RGB localization and real-time safe navigation.（核查 2026-09-30T21:24:34Z）
 
-## 4. Jaime Fernández Fisac · Princeton University
+## 5. Jaime Fernández Fisac · Princeton University
 
 - 稳定键：`jaime-fernandez-fisac`；批次：control-001
 - 任职：Assistant Professor
@@ -102,7 +132,29 @@
   - [saferobotics.princeton.edu / source 3](https://saferobotics.princeton.edu/)：Safety-centric RL to physical control; 2026 research activity.（核查 2026-09-30T21:24:34Z）
   - [www.cs.princeton.edu / source 4](https://www.cs.princeton.edu/people/profile/jfisac)：Official public faculty email and CS associated faculty appointment.（核查 2026-09-30T21:24:34Z）
 
-## 5. Sylvia Herbert · University of California, San Diego
+## 6. Henny Admoni · Carnegie Mellon University
+
+- 稳定键：`henny-admoni`；批次：hri-001
+- 任职：Associate Professor
+- 方向：Human-robot interaction；Assistive manipulation；Human-centered robot learning；Human behavior modeling
+- 匹配理由：Very strong technical fit for human-aware robot assistance: the HARP lab combines machine learning and computer vision with robot manipulators that help people with motor impairments. A focused perception or shared-autonomy evaluation project could suit graduate visitors, subject to an actual mentor and scoped project.
+- 真机证据（public-hardware-evidence）：The lab's Robot Partners page identifies Kinova MICO arms Duet and Trio, a Baxter two-arm robot, Kuri, and Roomba Create 2. Its research includes assistive manipulators.
+- 短访证据（unknown）：The lab welcomed RISS scholars and CMU undergraduates in June 2026, but this is historical summer activity. RISS explicitly excludes master's students, so it is not an eligible application route for graduate visitors. No external master's eight-week opening was verified.
+- 首次发现：2026-09-30T21:22:12Z；最后核查：2026-09-30T21:27:42Z
+- 评分依据：
+  - fit 39/40：direct assistive/HRI learning fit.
+  - physical 25/25：named physical robot inventory.
+  - shortVisit 0/20：only verified summer route is ineligible for master's profile.
+  - freshness 15/15：current official affiliation plus dated 2026 lab activity.
+- 未确认事项：RISS is undergraduate-only and excludes graduate students and international students studying outside the US.；The personal working-with-me page chiefly addresses current CMU students and graduate admissions; it is not a visitor offer.；A separate authorized visitor appointment, duration, funding, supervision and access would need confirmation.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.
+- 来源：
+  - [www.hennyadmoni.com / source 1](https://www.hennyadmoni.com/)：Current title, institution, lab leadership, research areas and public email.（核查 2026-09-30T21:27:42Z）
+  - [harplab.github.io / source 2](https://harplab.github.io/bots/)：Named physical Kinova, Baxter, Kuri and Create robot platforms.（核查 2026-09-30T21:27:42Z）
+  - [harplab.github.io / source 3](https://harplab.github.io/)：Assistive robot research and dated June 2026 summer-student activity.（核查 2026-09-30T21:27:42Z）
+  - [www.hennyadmoni.com / source 4](https://www.hennyadmoni.com/working-with-me/)：Research-entry guidance; generally no positions for non-CMU undergraduates.（核查 2026-09-30T21:27:42Z）
+  - [riss.ri.cmu.edu / source 5](https://riss.ri.cmu.edu/faq/)：RISS expressly excludes graduate students and international students attending university outside the US.（核查 2026-09-30T21:27:42Z）
+
+## 7. Sylvia Herbert · University of California, San Diego
 
 - 稳定键：`sylvia-herbert`；批次：control-001
 - 任职：Associate Professor
@@ -123,7 +175,7 @@
   - [sylviaherbert.com / source 3](https://sylviaherbert.com/join-us)：Prospective MS collaboration after admission; current-student forms and separate PhD/postdoc guidance.（核查 2026-09-30T21:24:34Z）
   - [UCSD Jacobs School faculty profile](https://jacobsschool.ucsd.edu/faculty/profile?id=516)：Official current faculty profile lists Associate Professor in MAE, reinforcement learning and physical testing.（核查 2026-09-30T21:29:46Z）
 
-## 6. Soon-Jo Chung · California Institute of Technology
+## 8. Soon-Jo Chung · California Institute of Technology
 
 - 稳定键：`soon-jo-chung`；批次：control-001
 - 任职：Bren Professor of Control and Dynamical Systems
@@ -144,7 +196,71 @@
   - [sites.google.com / source 3](https://sites.google.com/view/contractiontheory/)：PI-maintained learning-based-control tutorial and public Caltech email.（核查 2026-09-30T21:24:34Z）
   - [www.cms.caltech.edu / source 4](https://www.cms.caltech.edu/research/robotics-and-autonomous-control)：Official Caltech overview connects Chung to swarm robots and robustness of learning-enabled autonomy.（核查 2026-09-30T21:24:34Z）
 
-## 7. Aaron D. Ames · California Institute of Technology
+## 9. Laurel Riek · University of California San Diego
+
+- 稳定键：`laurel-riek`；批次：hri-001
+- 任职：Professor
+- 方向：Healthcare robotics；Human-robot teaming；Embodied AI；Assistive robots
+- 匹配理由：Strong human-centered robotics fit combining technical perception, behavior modeling and robot coordination with assistive applications. A CS project on robot-centric perception or shared manipulation is closer to a physical-robot research agenda than a generic healthcare-AI project.
+- 真机证据（public-hardware-evidence）：Healthcare Robotics Lab documents open-source telemedical robots, cognitively assistive robots at home, robot-centric group detection and shared-manipulation coordination. Its official GitHub lists IRIS hardware/software and CARMEN projects.
+- 短访证据（unknown）：Riek offered a 2026 STARS project in assistive-technology design/UI development. STARS is an undergraduate program and is not an established route for graduate visitors. UCSD separately documents a Visiting Graduate Student route, including MS students and personal funds, but no lab-specific 2027 slot was verified.
+- 首次发现：2026-09-30T21:22:12Z；最后核查：2026-09-30T21:27:42Z
+- 评分依据：
+  - fit 38/40：direct embodied/HRI/assistive fit.
+  - physical 25/25：real robot systems and manipulation.
+  - shortVisit 0/20：no compatible lab-specific visitor opening, institutional route recorded separately.
+  - freshness 15/15：current official affiliation and 2026 research.
+- 未确认事项：STARS does not normally accept international students; a funded undergraduate-program exception is not evidence of master's eligibility.；UCSD VGS requires faculty sponsorship and institutional approvals, research related to the home degree, and sufficient preparation; the policy says typically third year or beyond depending on discipline.；VGS policy allows personal funds and no minimum duration, but international packets require at least three months and possibly longer for visa processing. Insurance, support minima and screening apply.；The general lab recruitment page still names 2024 and must not be presented as a current summer opening.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.
+- 来源：
+  - [profiles.ucsd.edu / source 1](https://profiles.ucsd.edu/laurel.riek)：Current CSE professorship, Healthcare Robotics Lab, embodied AI and human-robot teaming.（核查 2026-09-30T21:27:42Z）
+  - [healthrobotics.ucsd.edu / source 2](https://healthrobotics.ucsd.edu/)：Physical assistive and telemedical robots, shared manipulation, and 2025–2026 publications.（核查 2026-09-30T21:27:42Z）
+  - [cse.ucsd.edu / source 3](https://cse.ucsd.edu/people/faculty-profiles/laurel-riek)：Public institutional email.（核查 2026-09-30T21:27:42Z）
+  - [grad.ucsd.edu / source 4](https://grad.ucsd.edu/oar2/undergraduate-students/stars/twentysixproject-descriptions.html)：Riek's 2026 STARS host project is a past undergraduate-program listing.（核查 2026-09-30T21:27:42Z）
+  - [www.grad.ucsd.edu / source 5](https://www.grad.ucsd.edu/oar2/undergraduate-students/stars/index.html)：Program scope and international-student restrictions.（核查 2026-09-30T21:27:42Z）
+  - [www.grad.ucsd.edu / source 6](https://www.grad.ucsd.edu/financial/non-uc-visiting-grads/index.html)：External MS eligibility, personal-fund option, no minimum appointment length, sponsor approvals and advance processing; not PI availability.（核查 2026-09-30T21:27:42Z）
+  - [healthrobotics.ucsd.edu / source 7](https://healthrobotics.ucsd.edu/papers/prospective.html)：General lab recruitment page is dated to 2024.（核查 2026-09-30T21:27:42Z）
+
+## 10. Bilge Mutlu · University of Wisconsin–Madison
+
+- 稳定键：`bilge-mutlu`；批次：hri-001
+- 任职：Professor
+- 方向：Human-robot collaboration；Shared autonomy；Robot programming interfaces；Assistive and care robotics
+- 匹配理由：Strong CS-facing HRI match: shared-control manipulation, natural-language interfaces and end-user robot programming could support a focused short project with concrete robot evaluation.
+- 真机证据（public-hardware-evidence）：The faculty research page describes shared-control bimanual robot manipulation, human-robot teaming systems, and deployments of social robots in homes and schools. It links 2024 teaming work and 2026 robot-assisted group tours.
+- 短访证据（unknown）：The current faculty page invites UW students to discuss joining the lab and links general joining information. No external master's visitor or summer2027 offer was verified.
+- 首次发现：2026-09-30T21:22:12Z；最后核查：2026-09-30T21:27:42Z
+- 评分依据：
+  - fit 37/40：very good collaboration/programming fit.
+  - physical 24/25：documented manipulation and real-world robot systems.
+  - shortVisit 0/20：external short visit unverified.
+  - freshness 15/15：2026 research and current institutional profile.
+- 未确认事项：A UW-student invitation does not establish access for an external master's visitor.；Self-funded status, appointment, research access, duration and supervision all require confirmation.；Endowed-title labels differ across institutional pages; use the stable Professor title.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.
+- 来源：
+  - [bmutlu.github.io / source 1](https://bmutlu.github.io/)：Affiliation, current research, physical collaborative systems, and 2026 activity; invitation specifically mentions UW students.（核查 2026-09-30T21:27:42Z）
+  - [wid.wisc.edu / source 2](https://wid.wisc.edu/people/bilge-mutlu/)：Institutional professor profile and public email.（核查 2026-09-30T21:27:42Z）
+
+## 11. Brian Scassellati · Yale University
+
+- 稳定键：`brian-scassellati`；批次：hri-001
+- 任职：A. Bartlett Giamatti Professor of Computer Science
+- 方向：Social robotics；Embodied computational models；Human-robot interaction；Social learning and machine perception
+- 匹配理由：Strong embodied-social-AI fit, especially robot adaptation to human goals, social perception and assistive interaction. A CS project would need a narrowly scoped technical contribution rather than assuming access to a clinical study.
+- 真机证据（public-hardware-evidence）：The Yale lab's robot inventory includes Baxter, Nao, MAKI, Keepon, DragonBot and KUKA YouBot arms; the YouBot arms support a collaborative workbench testbed. The lab reports 2026 Ommie robot-demo activity.
+- 短访证据（unknown）：Graduate-admissions guidance is not a visiting-research offer. The lab says its high-school summer internship was canceled for 2026; that notice is neither relevant eligibility nor evidence of a 2027 master's opening.
+- 首次发现：2026-09-30T21:22:28Z；最后核查：2026-09-30T21:27:42Z
+- 评分依据：
+  - fit 35/40：strong social embodied AI, less direct manipulation focus.
+  - physical 25/25：explicit physical robot/testbed inventory.
+  - shortVisit 0/20：no compatible visitor opening.
+  - freshness 15/15：current profile and 2026 research news.
+- 未确认事项：Do not apply to the high-school or undergraduate pathways for a master's placement.；The graduate-admissions page asks applicants not to send admissions materials directly; a visitor inquiry would require separate clarification.；Host capacity, visitor appointment, funding and ethical/research-access constraints remain unknown.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.
+- 来源：
+  - [engineering.yale.edu / source 1](https://engineering.yale.edu/research-and-faculty/faculty-directory/brian-scassellati)：Current professorship, appointments, social robotics research and email.（核查 2026-09-30T21:27:42Z）
+  - [scazlab.yale.edu / source 2](https://scazlab.yale.edu/our-robots)：Named physical robots and collaborative YouBot testbed.（核查 2026-09-30T21:27:42Z）
+  - [scazlab.yale.edu / source 3](https://scazlab.yale.edu/)：2026 lab activity and explicitly canceled 2026 high-school internship.（核查 2026-09-30T21:27:42Z）
+  - [scazlab.yale.edu / source 4](https://scazlab.yale.edu/prospective-graduate-students)：Degree admissions instructions, not visitor recruitment.（核查 2026-09-30T21:27:42Z）
+
+## 12. Aaron D. Ames · California Institute of Technology
 
 - 稳定键：`aaron-d-ames`；批次：control-001
 - 任职：Bren Professor; Director, Center for Autonomous Systems and Technologies
@@ -165,7 +281,7 @@
   - [arxiv.org / source 3](https://arxiv.org/abs/2510.14959)：CBF-RL paper includes real Unitree G1 safe navigation and stairs.（核查 2026-09-30T21:24:34Z）
   - [arxiv.org / source 4](https://arxiv.org/abs/2508.09354)：CLF-guided RL with extensive real G1 experiments.（核查 2026-09-30T21:24:34Z）
 
-## 8. Koushil Sreenath · University of California, Berkeley
+## 13. Koushil Sreenath · University of California, Berkeley
 
 - 稳定键：`koushil-sreenath`；批次：control-001
 - 任职：Associate Professor
@@ -186,7 +302,29 @@
   - [hybrid-robotics.berkeley.edu / source 3](https://hybrid-robotics.berkeley.edu/join-us/)：Visiting undergraduate form exists; visiting graduate instructions remain unpublished.（核查 2026-09-30T21:24:34Z）
   - [iconlab.negarmehr.com / source 4](https://iconlab.negarmehr.com/DDAT/)：Coauthored diffusion-control project deployed on real GO1/GO2 quadrupeds.（核查 2026-09-30T21:24:34Z）
 
-## 9. David Fridovich-Keil · University of Texas at Austin
+## 14. Maja Matarić · University of Southern California
+
+- 稳定键：`maja-mataric`；批次：hri-001
+- 任职：Chan Soon-Shiong Chair and Distinguished Professor
+- 方向：Socially assistive robotics；Personalized robot behavior；Human-robot interaction；Learning from interaction
+- 匹配理由：Strong fit for computational socially assistive robotics, personalized behavior and real-system integration. A project building or evaluating a robot policy could be well aligned with CS, with human-study approvals considered in scope.
+- 真机证据（public-hardware-evidence）：Official research/admissions materials specify original computational work integrated on physical robot platforms and evaluated with users. USC reports deployed assistive robots and a mixed-reality learning pilot with a physical robot tutor.
+- 短访证据（inquiry-only）：The official contact page welcomes university volunteers including students outside USC and directs them to the lab's student instructions. This is a broad volunteer inquiry route only; the separate PhD/postdoc recruiting page is not summer evidence.
+- 首次发现：2026-09-30T21:22:19Z；最后核查：2026-09-30T21:27:42Z
+- 评分依据：
+  - fit 36/40：strong personalized assistive-robot algorithms.
+  - physical 20/25：Real robot work is documented, including a 2021 robot-tutor report; 2026 symposium activity does not establish a new hardware experiment.
+  - shortVisit 5/20：external volunteer invitation with no duration/eligibility.
+  - freshness 13/15：current faculty and 2026 activity but visitor guidance undated.
+- 未确认事项：Outside-USC volunteering language does not establish lawful international visitor status, self-funding approval, access to hardware or an eight-week commitment.；The university faculty directory also lists a Google DeepMind role; faculty supervision capacity must be verified rather than assumed.；External master's appointment and possible human-study training/approvals require confirmation.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.
+- 来源：
+  - [viterbi.usc.edu / source 1](https://viterbi.usc.edu/directory/faculty/Mataric/Maja)：Current USC title, department, research background and public email; also lists DeepMind role.（核查 2026-09-30T21:27:42Z）
+  - [robotics.usc.edu / source 2](https://robotics.usc.edu/~maja/applicants.html)：Computational contributions integrated with physical robots and real-world evaluation; recruiting is PhD/postdoc.（核查 2026-09-30T21:27:42Z）
+  - [robotics.usc.edu / source 3](https://robotics.usc.edu/~maja/contact.html)：Explicit contact guidance for university volunteers at USC and outside.（核查 2026-09-30T21:27:42Z）
+  - [magazine.viterbi.usc.edu / source 4](https://magazine.viterbi.usc.edu/spring-2021/intro/letting-robots-guide-the-learning-experience/)：USC reports physical robot-tutor research.（核查 2026-09-30T21:27:42Z）
+  - [gero.usc.edu / source 5](https://gero.usc.edu/2026/04/27/usc-age-tech-symposium-2026/)：Dated 2026 university activity in socially assistive robotics.（核查 2026-09-30T21:27:42Z）
+
+## 15. David Fridovich-Keil · University of Texas at Austin
 
 - 稳定键：`david-fridovich-keil`；批次：control-001
 - 任职：Assistant Professor
@@ -207,7 +345,27 @@
   - [arxiv.org / source 3](https://arxiv.org/abs/2505.11494)：SHIELD paper coauthorship and learned-dynamics safety layer deployed on Unitree G1 hardware.（核查 2026-09-30T21:24:34Z）
   - [clearoboticslab.github.io / source 4](https://clearoboticslab.github.io/)：Lab news updated September 29, 2026, including model-based RL and neural control work.（核查 2026-09-30T21:24:34Z）
 
-## 10. Karen Leung · University of Washington
+## 16. Selma Šabanović · Indiana University Bloomington
+
+- 稳定键：`selma-sabanovic`；批次：hri-001
+- 任职：Professor
+- 方向：Human-robot interaction；Socially assistive robots；Participatory robot design；Robot behavior in everyday contexts
+- 匹配理由：Good fit for embodied social-robot behavior, prototyping and field evaluation. This is more human-centered design and HRI evaluation than robot-learning algorithms; a CS visitor should propose a concrete implementation or evaluation contribution.
+- 真机证据（public-hardware-evidence）：R-House's official lab page shows and names Haru, Nao and Baxter platforms and describes in-situ robot prototyping and field studies, including assistive robots in everyday use.
+- 短访证据（inquiry-only）：R-House explicitly invites students, researchers and visiting scholars to contact Šabanović and says it hosts visitors. This is a duration-unspecified inquiry route, not a summer2027 opening.
+- 首次发现：2026-09-30T21:22:12Z；最后核查：2026-09-30T21:27:42Z
+- 评分依据：
+  - fit 34/40：direct HRI but less algorithm-centric.
+  - physical 23/25：named physical social/manipulation platforms and field work.
+  - shortVisit 8/20：explicit visitor invitation without duration/eligibility.
+  - freshness 5/15：Current undated faculty and lab pages were verified; no explicitly dated 2025–2026 research update is cited.
+- 未确认事项：The lab invitation does not specify eight-week duration, master's eligibility, international appointment arrangements or funding.；Determine whether a technical robot-development project rather than primarily qualitative research matches the proposed project.；Institutional approval and any self-funded appointment conditions remain unverified.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.
+- 来源：
+  - [luddy.iu.edu / source 1](https://luddy.iu.edu/people/sabanovic-selma.html)：Current professor title, departments, R-House leadership and institutional email.（核查 2026-09-30T21:27:42Z）
+  - [r-house.luddy.indiana.edu / source 2](https://r-house.luddy.indiana.edu/index.html)：Physical Haru/Nao/Baxter platforms, robot field research, and visitors.（核查 2026-09-30T21:27:42Z）
+  - [r-house.luddy.indiana.edu / source 3](https://r-house.luddy.indiana.edu/contact/index.html)：Explicit invitation to students, researchers and visiting scholars; also lists selmas@indiana.edu.（核查 2026-09-30T21:27:42Z）
+
+## 17. Karen Leung · University of Washington
 
 - 稳定键：`karen-leung`；批次：control-001
 - 任职：Assistant Professor
@@ -228,3 +386,68 @@
   - [www.aa.washington.edu / source 3](https://www.aa.washington.edu/news/article/2025-03-24/building-customized-trust-autonomous-systems-karen-leung-receives-nsf-grant)：Current UW instrumented HRI project linking perception, human behavior and adaptive control.（核查 2026-09-30T21:24:34Z）
   - [depts.washington.edu / source 4](https://depts.washington.edu/ctrl/contact/)：General lab inquiries and current-UW meeting route; no short-visit invitation.（核查 2026-09-30T21:24:34Z）
   - [depts.washington.edu / source 5](https://depts.washington.edu/ctrl/)：Current lab with June 2026 research news.（核查 2026-09-30T21:24:34Z）
+
+## 18. Heather Knight · Oregon State University
+
+- 稳定键：`heather-knight`；批次：hri-001
+- 任职：Assistant Professor (as listed by the lab and university sources)
+- 方向：Human-robot interaction；Social robot motion；Human-in-the-loop service robots；Multi-robot social interaction
+- 匹配理由：Good fit for physically grounded robot communication, legible motion and semantic robot commands. A bounded robot-behavior implementation and evaluation could be a better match than a large foundation-model training project.
+- 真机证据（public-hardware-evidence）：CHARISMA describes ChairBots built from Neato robot vacuums, chairs and force sensors, including human-robot partner dancing. The lab lists 2025 robot-arm action/semantic command work and service-robot experiments.
+- 短访证据（unknown）：No current external master's visitor or summer2027 opening was verified. Past artistic visits and summer collaborations do not establish a present research placement.
+- 首次发现：2026-09-30T21:22:28Z；最后核查：2026-09-30T21:27:42Z
+- 评分依据：
+  - fit 34/40：good motion/semantic HRI fit.
+  - physical 20/25：Named ChairBot hardware is documented in older work; current physical hardware access is not confirmed.
+  - shortVisit 0/20：no current visitor pathway.
+  - freshness 10/15：Dated 2025 lab publications and university corroboration; current main directory could not be read.
+- 未确认事项：The accessible lab and university sources list Assistant Professor; verify title and hosting capacity again before any outreach because the main EECS directory URL did not load.；Master's visitor appointment, eight-week scope, funding, international eligibility and hardware access are unverified.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.
+- 来源：
+  - [www.charismarobotics.com / source 1](https://www.charismarobotics.com/team)：Lab leadership, Assistant Professor title and technical background.（核查 2026-09-30T21:27:42Z）
+  - [blogs.oregonstate.edu / source 2](https://blogs.oregonstate.edu/marineautonomy/people/)：University-hosted listing confirms Oregon State EECS affiliation and HRI area.（核查 2026-09-30T21:27:42Z）
+  - [www.charismarobotics.com / source 3](https://www.charismarobotics.com/)：Physical ChairBot construction and robot-interaction research.（核查 2026-09-30T21:27:42Z）
+  - [www.charismarobotics.com / source 4](https://www.charismarobotics.com/publications)：Dated 2025 robot-arm/semantic command and 2024 service-robot publications.（核查 2026-09-30T21:27:42Z）
+  - [www.charismarobotics.com / source 5](https://www.charismarobotics.com/s/2019_HRI_Dancing_with_ChairBots-wbrf.pdf)：Public institutional email and physical ChairBot study; historical paper.（核查 2026-09-30T21:27:42Z）
+
+## 19. Guy Hoffman · Cornell University
+
+- 稳定键：`guy-hoffman`；批次：hri-001
+- 任职：Associate Professor
+- 方向：Human-robot collaboration；Robot companionship；Embodied AI and social perception；Nonverbal robot communication
+- 匹配理由：Good match for physically grounded human-AI collaboration, timing/fluency and socially aware perception. The ShadowSense project offers a concrete bridge from computer vision to embodied interaction.
+- 真机证据（public-hardware-evidence）：HRC²'s ShadowSense project places a camera inside a robot body to recognize touch gestures through shadows, with experimental evaluation of six gestures under varied lighting. The lab also studies co-present human-robot collaborative design.
+- 短访证据（unknown）：No summer2027 or external master's short-visit pathway was verified. HRC²'s publicly visible recruiting news includes a 2021 postdoc advertisement, which is not a visitor opportunity for graduate visitors.
+- 首次发现：2026-09-30T21:22:19Z；最后核查：2026-09-30T21:27:42Z
+- 评分依据：
+  - fit 36/40：strong embodied-collaboration/perception relevance.
+  - physical 20/25：Concrete physical ShadowSense setup is documented, but the selected project and recruiting evidence is older.
+  - shortVisit 0/20：no matching short-visit route.
+  - freshness 5/15：Current faculty affiliation is verified; concrete project/news evidence is older or undated, without cited 2025–2026 update.
+- 未确认事项：Do not treat a past postdoc advertisement or graduate field membership as a master's summer opening.；Eight-week project scope, available supervisor, visitor appointment and funding need confirmation.；Some HRC² news is old despite the current Cornell faculty affiliation.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.
+- 来源：
+  - [www.cs.cornell.edu / source 1](https://www.cs.cornell.edu/people/guy-hoffman)：Current Cornell title, primary department, HRC² leadership, research and email.（核查 2026-09-30T21:27:42Z）
+  - [hrc2.io / source 2](https://hrc2.io/projects/ShadowSense)：Physical robot-body sensing setup and gesture experiment.（核查 2026-09-30T21:27:42Z）
+  - [hrc2.io / source 3](https://hrc2.io/projects/Collaborative-Design)：Co-present human-robot design-space exploration.（核查 2026-09-30T21:27:42Z）
+  - [hrc2.io / source 4](https://hrc2.io/news/)：Visible recruiting news includes old postdoctoral posting, not a summer master's role.（核查 2026-09-30T21:27:42Z）
+
+## 20. Cynthia Breazeal · Massachusetts Institute of Technology
+
+- 稳定键：`cynthia-breazeal`；批次：hri-001
+- 任职：Professor of Media Arts and Sciences; Benesse Professor of Research in Education
+- 方向：Social robotics；Personalized robot companions；Human-robot interaction；Conversational and affective embodied AI
+- 匹配理由：Good fit for physically embodied conversational AI and long-term human-robot interaction. The technical match is strongest for research on personalization, social learning or multimodal interaction rather than dexterous manipulation.
+- 真机证据（public-hardware-evidence）：The Personal Robots group develops and studies physical Jibo companions. Its Huggable platform includes touch sensors, actuators, cameras and a teleoperation interface; MIT reports real-world robot research and visiting students in the group.
+- 短访证据（precedent-only）：MIT News documents past international visiting students in 2023, but historical precedent earns no current-pathway points. The group's applicant information leads to the MAS degree program; a UROP invitation does not establish an external master's visitor role.
+- 首次发现：2026-09-30T21:22:19Z；最后核查：2026-09-30T21:27:42Z
+- 评分依据：
+  - fit 34/40：strong social/conversational embodiment but weaker manipulation match.
+  - physical 20/25：Physical companion platforms are documented; the concrete deployment and visitor report cited is from 2023.
+  - shortVisit 0/20：visitor precedent is not a present invitation.
+  - freshness 5/15：Current faculty page is verified, but the dated concrete source is from 2023; current recruitment is unconfirmed.
+- 未确认事项：No current external master's short-visit invitation or eight-week slot was verified.；UROP and graduate-admissions pathways must not be presented as summer visitor eligibility.；A faculty-hosted visitor arrangement, institutional permission for self-funding, access and supervision require confirmation.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.
+- 来源：
+  - [www.media.mit.edu / source 1](https://www.media.mit.edu/people/cynthiab/overview/)：Current titles, Personal Robots leadership, HRI research and public email.（核查 2026-09-30T21:27:42Z）
+  - [news.mit.edu / source 2](https://news.mit.edu/2023/making-life-friendlier-personal-robots-sharifa-alghowinem-0910)：Physical Jibo work and past visiting students, explicitly historical.（核查 2026-09-30T21:27:42Z）
+  - [robots.media.mit.edu / source 3](https://robots.media.mit.edu/portfolio/huggable/)：Physical sensors, actuators and teleoperation interface on Huggable.（核查 2026-09-30T21:27:42Z）
+  - [www.media.mit.edu / source 4](https://www.media.mit.edu/groups/personal-robots/applicant-information/)：Technical research fit and MAS degree-application route, no short-visit offer.（核查 2026-09-30T21:27:42Z）
+  - [cynthiabreazeal.media.mit.edu / source 5](https://cynthiabreazeal.media.mit.edu/contact/urops/)：UROP interest invitation, not established eligibility for graduate visitors.（核查 2026-09-30T21:27:42Z）

@@ -28,6 +28,7 @@
     "batches/embodied-007.json",
     "batches/embodied-008.json",
     "batches/embodied-009.json",
+    "batches/embodied-010.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -3426,6 +3427,86 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-009.json",
       "detailPage": "batches/embodied-009.md#jeff-schneider"
+    },
+    {
+      "id": "ruohan-zhang",
+      "name": "Ruohan Zhang",
+      "aliases": [],
+      "school": "Northwestern University",
+      "title": "Assistant Professor",
+      "homepage": "https://ruohanzhang.com/",
+      "batch": "embodied-010",
+      "discoveredAt": "2026-09-30T22:42:58Z",
+      "verifiedAt": "2026-09-30T22:47:12Z",
+      "scores": {
+        "fit": 40,
+        "physical": 20,
+        "shortVisit": 7,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Foundation models for robotics",
+        "Video-to-robot manipulation",
+        "Learned dynamics",
+        "Human demonstration learning",
+        "Brain-robot interfaces"
+      ],
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/embodied-010.json",
+      "detailPage": "batches/embodied-010.md#ruohan-zhang"
+    },
+    {
+      "id": "yen-ling-kuo",
+      "name": "Yen-Ling Kuo",
+      "aliases": [],
+      "school": "University of Virginia",
+      "title": "Assistant Professor; Anita Jones Faculty Fellow",
+      "homepage": "https://live-robotics-uva.github.io/",
+      "batch": "embodied-010",
+      "discoveredAt": "2026-09-30T22:42:58Z",
+      "verifiedAt": "2026-09-30T22:47:12Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Force-aware robot learning",
+        "Visuotactile manipulation",
+        "Vision-language-action policies",
+        "Human-robot interaction",
+        "Language-conditioned planning"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-010.json",
+      "detailPage": "batches/embodied-010.md#yen-ling-kuo"
+    },
+    {
+      "id": "anand-bhattad",
+      "name": "Anand Bhattad",
+      "aliases": [],
+      "school": "Johns Hopkins University",
+      "title": "Assistant Professor",
+      "homepage": "https://anandbhattad.github.io/",
+      "batch": "embodied-010",
+      "discoveredAt": "2026-09-30T22:39:24Z",
+      "verifiedAt": "2026-09-30T22:47:12Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "View-invariant robot imitation learning",
+        "Physics-aware visual models",
+        "Embodied multimodal perception",
+        "Generative-model reasoning"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-010.json",
+      "detailPage": "batches/embodied-010.md#anand-bhattad"
     },
     {
       "id": "henny-admoni",

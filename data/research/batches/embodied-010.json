@@ -1,0 +1,307 @@
+[
+  {
+    "id": "ruohan-zhang",
+    "name": "Ruohan Zhang",
+    "aliases": [],
+    "school": "Northwestern University",
+    "homepage": "https://ruohanzhang.com/",
+    "title": "Assistant Professor",
+    "department": "Computer Science; Center for Robotics and Biosystems",
+    "batch": "embodied-010",
+    "discoveredAt": "2026-09-30T22:42:58Z",
+    "verifiedAt": "2026-09-30T22:47:12Z",
+    "researchAreas": [
+      "Foundation models for robotics",
+      "Video-to-robot manipulation",
+      "Learned dynamics",
+      "Human demonstration learning",
+      "Brain-robot interfaces"
+    ],
+    "fitReason": "Dream2Flow (ICRA 2026) translates generated human-object interaction videos into robot control using 3D object flow. IMPASTO (2026) learns painting dynamics from robot self-play and plans force-sensitive brushstrokes.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Dream2Flow executes planned motions on a physical Franka for household tasks such as opening a drawer and sweeping pasta. IMPASTO uses a Franka Panda with a six-axis force/torque sensor and real brush/paint, with learned pixel dynamics and closed-loop planning.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "The faculty’s published Northwestern recruitment announcement explicitly invites research interns through a form, separately from PhD applications. It does not state duration, funding, external-master’s restrictions or summer 2027 availability.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 40,
+      "physical": 20,
+      "shortVisit": 7,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Exceptionally direct foundation-model, world-model and physical manipulation agenda.",
+      "physical": "Verified Franka experiments were conducted during the preceding Stanford affiliation; current Northwestern hardware availability is unconfirmed.",
+      "shortVisit": "Explicit research-intern inquiry route, duration and applicant eligibility unspecified.",
+      "freshness": "Current Fall 2026 Northwestern directory and 2026 physical learning projects."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "robotics.northwestern.edu / source 1",
+        "url": "https://robotics.northwestern.edu/people/profiles/faculty/zhang-ruohan.html",
+        "summary": "Current official assistant-professor appointment, professional email and robotics scope.",
+        "verifiedAt": "2026-09-30T22:47:12Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "ruohanzhang.com / source 2",
+        "url": "https://ruohanzhang.com/",
+        "summary": "Directly read Northwestern intern invitation; personal page still retains incoming/Stanford wording.",
+        "verifiedAt": "2026-09-30T22:47:12Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "dream2flow.github.io / source 3",
+        "url": "https://dream2flow.github.io/",
+        "summary": "Primary ICRA 2026 project with generated-video-to-robot manipulation.",
+        "verifiedAt": "2026-09-30T22:47:12Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2512.24766v1",
+        "summary": "Primary Dream2Flow physical Franka execution and separate simulation RL experiments.",
+        "verifiedAt": "2026-09-30T22:47:12Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2603.29315v1",
+        "summary": "Primary 2026 IMPASTO physical Panda, force sensor and learned dynamics/planning.",
+        "verifiedAt": "2026-09-30T22:47:12Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "The personal page retains incoming/Fall 2026 and Stanford wording; current Northwestern status and professional email are verified by the university robotics directory. The cited hardware projects arose at Stanford, so Northwestern platform availability must be confirmed. Dream2Flow’s physical experiments use trajectory optimization; its multi-embodiment RL experiments are separate and must not be described as physical humanoid deployment.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "ruohan.zhang@northwestern.edu"
+  },
+  {
+    "id": "yen-ling-kuo",
+    "name": "Yen-Ling Kuo",
+    "aliases": [],
+    "school": "University of Virginia",
+    "homepage": "https://live-robotics-uva.github.io/",
+    "title": "Assistant Professor; Anita Jones Faculty Fellow",
+    "department": "Computer Science; Link Lab",
+    "batch": "embodied-010",
+    "discoveredAt": "2026-09-30T22:42:58Z",
+    "verifiedAt": "2026-09-30T22:47:12Z",
+    "researchAreas": [
+      "Force-aware robot learning",
+      "Visuotactile manipulation",
+      "Vision-language-action policies",
+      "Human-robot interaction",
+      "Language-conditioned planning"
+    ],
+    "fitReason": "TF-Gripper/RETAF (February 2026) learns fast tactile force adaptation separately from slower end-effector pose policies, including Diffusion Policy and pi0.5. This directly connects multimodal learning with contact-sensitive physical manipulation.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The primary study names a Franka Research 3 with the custom TF-Gripper and two RealSense cameras. Five physical tasks include tofu, potato-chip and tomato handling and dropper-based liquid transfer. Hardware is evaluated with learned policies rather than only teleoperation.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "An official NTU partner listing explicitly describes Kuo’s summer research internships for master’s as well as other degree levels, normally twelve weeks. This is useful evidence of an external-student route in that partner context, but eligibility for a external-university applicant through or outside that program is unverified. Her current personal page only generally invites motivated students.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct multimodal learning and tactile manipulation with foundation-policy integration.",
+      "physical": "Named real arm/gripper and five policy-controlled manipulation tasks.",
+      "shortVisit": "Partner-program route documented, but external-university applicant eligibility and eight-week route unknown; no credit assumed.",
+      "freshness": "February 2026 hardware-learning study and current official faculty record."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.virginia.edu / source 1",
+        "url": "https://engineering.virginia.edu/faculty/yen-ling-kuo",
+        "summary": "Official current assistant professor and Anita Jones Faculty Fellow, CS/Link Lab.",
+        "verifiedAt": "2026-09-30T22:47:12Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "yenlingkuo.com / source 2",
+        "url": "https://yenlingkuo.com/",
+        "summary": "Live cloud-browser-rendered current professional email and general student recruitment; static web extraction omitted body.",
+        "verifiedAt": "2026-09-30T22:47:12Z",
+        "retrieval": "direct-browser-primary"
+      },
+      {
+        "id": "s3",
+        "label": "live-robotics-uva.github.io / source 3",
+        "url": "https://live-robotics-uva.github.io/",
+        "summary": "Current robot-learning lab mission.",
+        "verifiedAt": "2026-09-30T22:47:12Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "force-gripper.github.io / source 4",
+        "url": "https://force-gripper.github.io/",
+        "summary": "Primary 2026 project authorship, explicit UVA email and real policy demonstrations.",
+        "verifiedAt": "2026-09-30T22:47:12Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2602.10013v1",
+        "summary": "Primary Franka Research 3, five learned force-regulation tasks and DP/pi0.5 comparisons.",
+        "verifiedAt": "2026-09-30T22:47:12Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "internshipabroad.ntu.edu.tw / source 6",
+        "url": "https://internshipabroad.ntu.edu.tw/organization/yen-ling-kuo",
+        "summary": "Official partner internship listing includes master’s students and normal twelve-week summer duration; not proof of eligibility outside the named partnership.",
+        "verifiedAt": "2026-09-30T22:47:12Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Do not treat the NTU listing’s two places, fee support or twelve-week arrangement as a summer 2027 offer or as generally available to non-NTU students. Eight-week compatibility, external appointment and university approvals need direct confirmation. RETAF is a preprint with limited tabletop task evaluation.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "ylkuo@virginia.edu"
+  },
+  {
+    "id": "anand-bhattad",
+    "name": "Anand Bhattad",
+    "aliases": [],
+    "school": "Johns Hopkins University",
+    "homepage": "https://anandbhattad.github.io/",
+    "title": "Assistant Professor",
+    "department": "Computer Science; Data Science and AI Institute",
+    "batch": "embodied-010",
+    "discoveredAt": "2026-09-30T22:39:24Z",
+    "verifiedAt": "2026-09-30T22:47:12Z",
+    "researchAreas": [
+      "View-invariant robot imitation learning",
+      "Physics-aware visual models",
+      "Embodied multimodal perception",
+      "Generative-model reasoning"
+    ],
+    "fitReason": "Know Your Camera (ICRA 2026) improves policy generalization by explicitly conditioning ACT, Diffusion Policy and SmolVLA on camera geometry. The broader 3P group studies physical reasoning and perceptual structure in generative models.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The primary paper’s real experiment uses a UR5 with Robotiq three-finger gripper on pick-and-place, plate insertion and mug hanging. ACT and Diffusion Policy are trained and executed under varied camera poses. SmolVLA’s reported evaluations are simulated, not this physical experiment.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The rendered faculty page lists BS/MS researchers and external student collaborators, but no current external short-term internship or visiting-master’s invitation was found. These memberships are precedent only.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong perception-policy generalization fit; broader group primarily vision/generative modeling.",
+      "physical": "The physical camera-conditioned policy study is a TTIC/TRI collaboration; current JHU-local hardware is unconfirmed.",
+      "shortVisit": "No current external short-term invitation verified; collaborators are precedent.",
+      "freshness": "ICRA 2026 project and September 2026 current lab updates."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.cs.jhu.edu / source 1",
+        "url": "https://www.cs.jhu.edu/faculty/anand-bhattad/",
+        "summary": "Official current assistant professor, 3P group and explicit professional email.",
+        "verifiedAt": "2026-09-30T22:47:12Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "anandbhattad.github.io / source 2",
+        "url": "https://anandbhattad.github.io/",
+        "summary": "Live cloud-browser-rendered September 2026 research page and group memberships; static web extraction contained only header.",
+        "verifiedAt": "2026-09-30T22:47:12Z",
+        "retrieval": "direct-browser-primary"
+      },
+      {
+        "id": "s3",
+        "label": "ripl.github.io / source 3",
+        "url": "https://ripl.github.io/know_your_camera/",
+        "summary": "Primary ICRA 2026 project and JHU authorship.",
+        "verifiedAt": "2026-09-30T22:47:12Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2510.02268v1",
+        "summary": "Primary Section IV-B physical UR5, ACT and Diffusion Policy experiments; SmolVLA appears in simulation section.",
+        "verifiedAt": "2026-09-30T22:47:12Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "The physical study is a TTIC/TRI collaboration; local JHU hardware and project access are unconfirmed. Generative image/physics projects elsewhere on the page should not be counted as robot deployments. Summer intake and the eight-week project route remain unknown.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "bhattad@jhu.edu"
+  }
+]

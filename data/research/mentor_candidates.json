@@ -5828,6 +5828,926 @@
         "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
       ],
       "publicEmail": "ramv@umich.edu"
+    },
+    {
+      "id": "marynel-vazquez",
+      "name": "Marynel Vázquez",
+      "aliases": [],
+      "school": "Yale University",
+      "homepage": "https://engineering.yale.edu/research-and-faculty/faculty-directory/marynel-vazquez",
+      "title": "Assistant Professor",
+      "department": "Computer Science",
+      "batch": "hri-003",
+      "discoveredAt": "2026-09-30T21:36:19Z",
+      "verifiedAt": "2026-09-30T21:42:22Z",
+      "researchAreas": [
+        "Multi-party HRI",
+        "Social robot perception",
+        "Robot adaptation to human preferences",
+        "Human-robot collaboration"
+      ],
+      "fitReason": "Strong fit for robot-centric perception, social scene reasoning and learning from human feedback. A bounded perception or preference-adaptation experiment is directly relevant to CS and physical embodied interaction.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "Yale's September 2025 report describes a physical robot handing toy-pizza ingredients to a human while adapting to collaboration preferences. The 2025 Building Interactive Machines course uses Shutter robot copies and shared lab robots.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "The public open-positions page addresses Yale students and PhD applicants. Local undergraduate summer mentorship is not an external master's visitor offer.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "scores": {
+        "fit": 37,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "scoreReasons": {
+        "fit": "direct perception/adaptive HRI fit.",
+        "physical": "explicit 2025 physical collaboration.",
+        "shortVisit": "visitor route unverified.",
+        "freshness": "dated 2025 evidence."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "engineering.yale.edu / source 1",
+          "url": "https://engineering.yale.edu/research-and-faculty/faculty-directory/marynel-vazquez",
+          "summary": "Current title, email and multi-party HRI perception/decision making.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        },
+        {
+          "id": "s2",
+          "label": "engineering.yale.edu / source 2",
+          "url": "https://engineering.yale.edu/news-and-events/news/when-machines-join-team",
+          "summary": "September 22,2025 real human-robot pizza-building/adaptation experiment.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        },
+        {
+          "id": "s3",
+          "label": "cpsc459-bim.gitlab.io / source 3",
+          "url": "https://cpsc459-bim.gitlab.io/f25/",
+          "summary": "Fall 2025 real Shutter robots and laboratory access in course context.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        },
+        {
+          "id": "s4",
+          "label": "marynel.net / source 4",
+          "url": "https://marynel.net/open_positions/",
+          "summary": "Yale-local and PhD joining routes only.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        }
+      ],
+      "unknowns": [
+        "No eight-week summer 2027 slot, funding, permitted personal-funding arrangement, international visitor eligibility or hardware access is confirmed; host and institutional approval are required.",
+        "Prior visiting-scientist collaborations or Yale summer researchers do not establish a current external master's pathway.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "marynel.vazquez@yale.edu"
+    },
+    {
+      "id": "tesca-fitzgerald",
+      "name": "Tesca Fitzgerald",
+      "aliases": [],
+      "school": "Yale University",
+      "homepage": "https://engineering.yale.edu/research-and-faculty/faculty-directory/tesca-fitzgerald",
+      "title": "Assistant Professor",
+      "department": "Computer Science",
+      "batch": "hri-003",
+      "discoveredAt": "2026-09-30T21:36:19Z",
+      "verifiedAt": "2026-09-30T21:42:22Z",
+      "researchAreas": [
+        "Interactive robot learning",
+        "One-shot manipulation",
+        "Human feedback",
+        "Task and tool transfer"
+      ],
+      "fitReason": "Excellent match for sample-efficient robot learning grounded in human interaction. One-shot task transfer, task-relevant spatial frames and correction timing offer concrete CS research angles.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "The CoRL 2025 TReF-6 paper uses a physical seven-DOF Kinova Gen 3 on peg-in-hole dropping, cabinet-door opening and surface wiping, with VLM-based semantic grounding and perception.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "shortVisit": {
+        "status": "inquiry-only",
+        "summary": "The current IQR homepage explicitly welcomes visiting students and interns alongside PhD students and postdocs. This supports a general inquiry route, but gives no duration, international eligibility or summer 2027 opening.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "direct interactive/one-shot learning.",
+        "physical": "recent named physical arm experiments.",
+        "shortVisit": "explicit generic visitor/intern route.",
+        "freshness": "dated 2026 lab activity."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "engineering.yale.edu / source 1",
+          "url": "https://engineering.yale.edu/research-and-faculty/faculty-directory/tesca-fitzgerald",
+          "summary": "Official title, email and interactive robot-learning agenda.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        },
+        {
+          "id": "s2",
+          "label": "iqr.cs.yale.edu / source 2",
+          "url": "https://iqr.cs.yale.edu/",
+          "summary": "Explicit visiting-student/intern invitation and dated AAMAS 2026 research news.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        },
+        {
+          "id": "s3",
+          "label": "arxiv.org / source 3",
+          "url": "https://arxiv.org/html/2509.00310v2",
+          "summary": "Primary TReF-6 paper §4.2 identifies Kinova Gen 3 and real-world tasks.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        },
+        {
+          "id": "s4",
+          "label": "iqr.cs.yale.edu / source 4",
+          "url": "https://iqr.cs.yale.edu/contact/",
+          "summary": "Contact guidance and local/PhD routes, lacking duration or international specifics.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        }
+      ],
+      "unknowns": [
+        "No eight-week summer 2027 slot, funding, permitted personal-funding arrangement, international visitor eligibility or hardware access is confirmed; host and institutional approval are required.",
+        "The linked contact page mostly describes degree/local-student routes; ask explicitly how the homepage's visitor/intern invitation applies to external master's students.",
+        "A named previous visiting undergraduate is precedent only, not eligibility.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "tesca.fitzgerald@yale.edu"
+    },
+    {
+      "id": "monroe-kennedy-iii",
+      "name": "Monroe Kennedy III",
+      "aliases": [],
+      "school": "Stanford University",
+      "homepage": "https://engineering.stanford.edu/people/monroe-kennedy",
+      "title": "Assistant Professor",
+      "department": "Mechanical Engineering; courtesy Computer Science",
+      "batch": "hri-003",
+      "discoveredAt": "2026-09-30T21:36:19Z",
+      "verifiedAt": "2026-09-30T21:42:22Z",
+      "researchAreas": [
+        "Assistive manipulation",
+        "Tactile perception",
+        "Human-robot collaboration",
+        "Robot learning",
+        "Humanoid autonomy"
+      ],
+      "fitReason": "Excellent physical-robot fit spanning visual/tactile learning, intent estimation and collaborative manipulation. A narrowly scoped sensing, representation or shared-control project could match CS preparation.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "TensorTouch's primary project page documents tactile-sensor-equipped fingers performing contact-rich manipulation, including selectively grasping moving strings. ARMLab's 2026 timeline includes tactile dexterity, humanoid navigation and human-motion prediction.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "ARMLab lists undergraduate summer programs and records a visiting MS scholar in 2023. No current external master's short-visit invitation verified; the historical visit earns zero opportunity points.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5"
+        ]
+      },
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "direct assistive tactile/visual learning.",
+        "physical": "recent physical dexterity.",
+        "shortVisit": "only prior MS visit/local-degree routes.",
+        "freshness": "dated 2026 research."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "engineering.stanford.edu / source 1",
+          "url": "https://engineering.stanford.edu/people/monroe-kennedy",
+          "summary": "Official current title, departments and assistive robotics focus.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        },
+        {
+          "id": "s2",
+          "label": "arm.stanford.edu / source 2",
+          "url": "https://arm.stanford.edu/",
+          "summary": "Dated 2026 lab research and current agenda.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        },
+        {
+          "id": "s3",
+          "label": "tensor-touch.github.io / source 3",
+          "url": "https://tensor-touch.github.io/",
+          "summary": "Named-author physical tactile manipulation project with 2025 citation.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        },
+        {
+          "id": "s4",
+          "label": "arm.stanford.edu / source 4",
+          "url": "https://arm.stanford.edu/about/",
+          "summary": "Undergraduate internships and degree/postdoc joining information.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        },
+        {
+          "id": "s5",
+          "label": "arm.stanford.edu / source 5",
+          "url": "https://arm.stanford.edu/people/",
+          "summary": "Past visiting MS scholar in 2023, not present recruitment.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        }
+      ],
+      "unknowns": [
+        "No eight-week summer 2027 slot, funding, permitted personal-funding arrangement, international visitor eligibility or hardware access is confirmed; host and institutional approval are required.",
+        "Undergraduate SURF/CURIS routes do not establish eligibility for an overseas master's student.",
+        "The prior visiting MS record is historical; verify the applicable Stanford appointment route.",
+        "Public faculty email was not verified in this pass, so none is supplied.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ]
+    },
+    {
+      "id": "angelique-taylor",
+      "name": "Angelique Taylor",
+      "aliases": [],
+      "school": "Cornell University, Cornell Tech",
+      "homepage": "https://tech.cornell.edu/people/angelique-taylor/",
+      "title": "Andrew H. and Ann R. Tisch Assistant Professor",
+      "department": "Information Science; Emergency Medicine appointment at Weill Cornell Medicine",
+      "batch": "hri-003",
+      "discoveredAt": "2026-09-30T21:36:19Z",
+      "verifiedAt": "2026-09-30T21:42:22Z",
+      "researchAreas": [
+        "Robot perception of groups",
+        "Human-robot teaming",
+        "Healthcare robotics",
+        "Embodied AI"
+      ],
+      "fitReason": "Strong match for physical robot perception and multi-person collaboration, especially robot vision and behavior in complex environments. A bounded perception or mobile-robot coordination task may fit better than a new clinical deployment.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "AIRLab documents physical crash-cart robots Clifford, Cart2D 2, D(rawer)Bot and BigRedMobile, plus TurtleBot 4 and TIAGo platforms. Cart2D 2 is explicitly teleoperated, not autonomous. Cornell reported the crash-cart work in 2026.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "Taylor encourages master's students to contact lab PhD students for collaborative research and directs open-position inquiries to an online form. This is generic research joining information, not a verified external short-visit route.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "scores": {
+        "fit": 37,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "direct embodied perception/teamwork.",
+        "physical": "multiple named current robot systems.",
+        "shortVisit": "no external short-visit statement.",
+        "freshness": "explicit 2026 work."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "tech.cornell.edu / source 1",
+          "url": "https://tech.cornell.edu/people/angelique-taylor/",
+          "summary": "Official title, Cornell Tech affiliation and email.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        },
+        {
+          "id": "s2",
+          "label": "www.angeliquemtaylor.com / source 2",
+          "url": "https://www.angeliquemtaylor.com/",
+          "summary": "Departments, research, master's collaboration instructions and 2026 papers.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        },
+        {
+          "id": "s3",
+          "label": "liquetaylor.wixstudio.com / source 3",
+          "url": "https://liquetaylor.wixstudio.com/airlab",
+          "summary": "Current named physical platform inventory and exact teleoperation limitations.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        },
+        {
+          "id": "s4",
+          "label": "tech.cornell.edu / source 4",
+          "url": "https://tech.cornell.edu/news/robotic-medical-crash-cart-cornell-tech/",
+          "summary": "Dated 2026 university report of physical crash-cart robot work.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        }
+      ],
+      "unknowns": [
+        "No eight-week summer 2027 slot, funding, permitted personal-funding arrangement, international visitor eligibility or hardware access is confirmed; host and institutional approval are required.",
+        "Cornell Tech is in New York City; do not assume the visit is at Ithaca.",
+        "Master's collaboration language does not specify external/international students or duration.",
+        "Distinguish teleoperated prototypes from autonomous robot capabilities; care-setting research may add approval/training requirements.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "amt298@cornell.edu"
+    },
+    {
+      "id": "holly-yanco",
+      "name": "Holly Yanco",
+      "aliases": [],
+      "school": "University of Massachusetts Amherst",
+      "homepage": "https://www.umass.edu/engineering/about/directory/holly-yanco",
+      "title": "Distinguished Professor",
+      "department": "Mechanical and Industrial Engineering; Manning College of Information and Computer Sciences",
+      "batch": "hri-003",
+      "discoveredAt": "2026-09-30T21:36:25Z",
+      "verifiedAt": "2026-09-30T21:42:22Z",
+      "researchAreas": [
+        "Human-robot interaction",
+        "Robot performance evaluation",
+        "Assistive robotics",
+        "Grasping and manipulation benchmarking"
+      ],
+      "fitReason": "Strong systems/evaluation fit for a CS visitor interested in rigorous robot capability benchmarks, interaction interfaces or perception-dependent manipulation. Less centered on training large foundation models.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "NERVE's current capabilities page identifies the ARMada manipulation testbed, Digit, DRC-HUBO, Spot and V 60, and human-robot teaming research. Yanco remains NERVE co-director; the Amherst site's 2026 expansion is newly announced, so specific campus/platform availability needs verification.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "Historical Lowell reporting describes undergraduate summer hiring; no current external master's short-visit opening at Amherst or NERVE was verified.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5"
+        ]
+      },
+      "scores": {
+        "fit": 35,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "strong robot systems/evaluation and HRI.",
+        "physical": "named current NERVE inventory with active co-directorship.",
+        "shortVisit": "visitor route unknown.",
+        "freshness": "dated 2026 institutional evidence."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "www.umass.edu / source 1",
+          "url": "https://www.umass.edu/engineering/about/directory/holly-yanco",
+          "summary": "Current Distinguished Professor appointments and email; old biography text noted.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        },
+        {
+          "id": "s2",
+          "label": "www.umass.edu / source 2",
+          "url": "https://www.umass.edu/robotics/news/dr-holly-yanco-joins-umass-amherst",
+          "summary": "Official joining announcement distinguishes previous Lowell role.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        },
+        {
+          "id": "s3",
+          "label": "www.umass.edu / source 3",
+          "url": "https://www.umass.edu/news/article/umass-amherst-nerve-center-site-will-enable-robotics-testing-agriculture-aquatics",
+          "summary": "August 27,2026 current NERVE co-directorship and Amherst expansion.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        },
+        {
+          "id": "s4",
+          "label": "www.uml.edu / source 4",
+          "url": "https://www.uml.edu/Research/NERVE/research-capabilities.aspx",
+          "summary": "Current physical robot/testbed inventory and HRI/manipulation evaluation.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        },
+        {
+          "id": "s5",
+          "label": "www.uml.edu / source 5",
+          "url": "https://www.uml.edu/sciences/publications/elements/2023/computer-science-levels-up.aspx",
+          "summary": "Historical undergraduate summer hiring only.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        }
+      ],
+      "unknowns": [
+        "No eight-week summer 2027 slot, funding, permitted personal-funding arrangement, international visitor eligibility or hardware access is confirmed; host and institutional approval are required.",
+        "Use current Amherst appointment; some Lowell pages and even Amherst biography text retain the old institution.",
+        "Do not assume all Lowell testbeds are available at Amherst or open to every visitor; confirm host campus, project and access.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "hyanco@umass.edu"
+    },
+    {
+      "id": "david-feil-seifer",
+      "name": "David Feil-Seifer",
+      "aliases": [],
+      "school": "University of Nevada, Reno",
+      "homepage": "https://www.unr.edu/cse/people/david-feil-seifer",
+      "title": "Professor",
+      "department": "Computer Science and Engineering",
+      "batch": "hri-003",
+      "discoveredAt": "2026-09-30T21:36:25Z",
+      "verifiedAt": "2026-09-30T21:42:22Z",
+      "researchAreas": [
+        "Socially assistive robots",
+        "Human-aware navigation",
+        "Long-term HRI",
+        "Robot expression and adaptation"
+      ],
+      "fitReason": "Good CS/embodied-HRI fit for socially aware navigation, expressive behavior and long-term adaptation. A concrete robot-perception or behavior module could be appropriate for a short visit.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "A 2026 university report shows Manuel, a physical mobile robot in the lab. The official expressive-robots project describes the M social robot using an animated face, speech and body motion for interaction.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "The faculty page recruits PhD students; an undergraduate-project listing is not an external master's visitor invitation. No matching summer 2027 route was verified.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "scores": {
+        "fit": 34,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "good assistive/navigation HRI.",
+        "physical": "named current physical robots.",
+        "shortVisit": "PhD/undergraduate listings are not visitor routes.",
+        "freshness": "dated 2026 university report."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "www.unr.edu / source 1",
+          "url": "https://www.unr.edu/cse/people/david-feil-seifer",
+          "summary": "Current professor title, email, lab role, research and PhD instructions.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        },
+        {
+          "id": "s2",
+          "label": "www.unr.edu / source 2",
+          "url": "https://www.unr.edu/nevada-today/news/2026/robotics-masters-program",
+          "summary": "April 29,2026 physical Manuel lab robot and current research.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        },
+        {
+          "id": "s3",
+          "label": "www.unr.edu / source 3",
+          "url": "https://www.unr.edu/undergradresearch/opportunities/prep/feil-seifer-s27",
+          "summary": "Specific M social robot platform and expressive-behavior project, undergraduate context.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        },
+        {
+          "id": "s4",
+          "label": "www.cse.unr.edu / source 4",
+          "url": "https://www.cse.unr.edu/~dave/research.php",
+          "summary": "Current human-aware navigation and socially assistive robotics agenda.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        }
+      ],
+      "unknowns": [
+        "No eight-week summer 2027 slot, funding, permitted personal-funding arrangement, international visitor eligibility or hardware access is confirmed; host and institutional approval are required.",
+        "The expressive-robot project is in undergraduate research listings, so its existence does not establish master's eligibility.",
+        "Do not infer citizenship or student-program access from lab funding sources.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "dfseifer@unr.edu"
+    },
+    {
+      "id": "thomas-m-howard",
+      "name": "Thomas M. Howard",
+      "aliases": [],
+      "school": "University of Rochester",
+      "homepage": "https://www.hajim.rochester.edu/ece/news-events/news/2026/2026-06-29_howard-promo-news.html",
+      "title": "Professor of Electrical and Computer Engineering",
+      "department": "Electrical and Computer Engineering; secondary appointments in Computer Science and Biomedical Engineering",
+      "batch": "hri-003",
+      "discoveredAt": "2026-09-30T21:36:25Z",
+      "verifiedAt": "2026-09-30T21:42:22Z",
+      "researchAreas": [
+        "Language-grounded robot planning",
+        "Human-robot interaction",
+        "Robot decision making",
+        "Field robotics"
+      ],
+      "fitReason": "Strong technical fit for grounding language in physical robots, planning under uncertainty and human-robot communication. Could support a focused language-perception-planning module or evaluation project.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "Rochester documents a two-arm Rethink humanoid torso and six Clearpath mobile platforms for language-directed manipulation/navigation. A 2022 primary Field Robotics paper reports experiments on three unmanned ground vehicles. These are historical systems, not a guaranteed current inventory.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "No current external master's visitor or summer 2027 opening was found in the official faculty/research sources checked.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "direct language-to-physical planning fit.",
+        "physical": "concrete but older robot experiments.",
+        "shortVisit": "visit unknown.",
+        "freshness": "dated 2026 role/active-lab confirmation."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "www.hajim.rochester.edu / source 1",
+          "url": "https://www.hajim.rochester.edu/ece/news-events/news/2026/2026-06-29_howard-promo-news.html",
+          "summary": "June 29,2026 promotion notice, effective July 1; current lab leadership and secondary appointments.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        },
+        {
+          "id": "s2",
+          "label": "www.cs.rochester.edu / source 2",
+          "url": "https://www.cs.rochester.edu/u/www/people/faculty/howard_thomas/index.html",
+          "summary": "Research and public email; rank superseded by 2026 promotion.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        },
+        {
+          "id": "s3",
+          "label": "www.hajim.rochester.edu / source 3",
+          "url": "https://www.hajim.rochester.edu/dsc/research/howard.html",
+          "summary": "Concrete two-arm torso and six mobile robots for natural-language interaction.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        },
+        {
+          "id": "s4",
+          "label": "ttic.edu / source 4",
+          "url": "https://ttic.edu/ripl/assets/publications/howard21.pdf",
+          "summary": "Primary 2022 field-robot paper describes language-guided experiments on three ground vehicles.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        }
+      ],
+      "unknowns": [
+        "No eight-week summer 2027 slot, funding, permitted personal-funding arrangement, international visitor eligibility or hardware access is confirmed; host and institutional approval are required.",
+        "Use Professor effective July 1,2026 per official promotion news; older CS directory still says Associate Professor.",
+        "Confirm present platform availability and project scope because detailed physical-system evidence is older.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "thoward@ece.rochester.edu"
+    },
+    {
+      "id": "daniel-szafir",
+      "name": "Daniel Szafir",
+      "aliases": [],
+      "school": "University of North Carolina at Chapel Hill",
+      "homepage": "https://www.danszafir.com/",
+      "title": "Associate Professor",
+      "department": "Computer Science",
+      "batch": "hri-003",
+      "discoveredAt": "2026-09-30T21:36:36Z",
+      "verifiedAt": "2026-09-30T21:42:22Z",
+      "researchAreas": [
+        "Human-robot teaming",
+        "Shared control",
+        "Robot demonstration interfaces",
+        "Embodied learning",
+        "Mixed-reality robotics"
+      ],
+      "fitReason": "Strong fit for CS work joining interfaces, robot learning and physically grounded collaboration. ARCADE connects human demonstrations to real robot manipulation; recent coauthored work also includes VLA and long-horizon learning.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "The 2024 ARCADE primary paper evaluates on a real Fetch robot for reach, push, pick-and-place and water pouring. The 2025 field-robotics record describes competency-aware robot surface exploration at a Mars analog site.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5",
+          "s6"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "The personal page links a joining page, but it returned502 errors during this pass. No compatible current short-visit or summer 2027 offer verified.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5",
+          "s6"
+        ]
+      },
+      "scores": {
+        "fit": 37,
+        "physical": 23,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "strong learning/shared-control interface fit.",
+        "physical": "physical Fetch and recent field work.",
+        "shortVisit": "joining policy/current opportunity unknown.",
+        "freshness": "explicit 2026 coauthored research, official appointment corroboration."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "www.danszafir.com / source 1",
+          "url": "https://www.danszafir.com/",
+          "summary": "Current UNC title, email, IRON leadership and research focus.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        },
+        {
+          "id": "s2",
+          "label": "unc-public.courseleaf.com / source 2",
+          "url": "https://unc-public.courseleaf.com/graduate/schools-departments/computer-science/",
+          "summary": "Official UNC catalog corroborates associate professorship.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        },
+        {
+          "id": "s3",
+          "label": "arxiv.org / source 3",
+          "url": "https://arxiv.org/abs/2410.15994",
+          "summary": "Primary ARCADE paper explicitly reports real Fetch experiments.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        },
+        {
+          "id": "s4",
+          "label": "experts.colorado.edu / source 4",
+          "url": "https://experts.colorado.edu/display/pubid_393067",
+          "summary": "Official coauthor-institution record of 2025 field-robot paper.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        },
+        {
+          "id": "s5",
+          "label": "yy-gx.github.io / source 5",
+          "url": "https://yy-gx.github.io/publications/",
+          "summary": "Researcher's coauthor page lists dated 2025/2026 shared work.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        },
+        {
+          "id": "s6",
+          "label": "iron-lab.org / source 6",
+          "url": "https://iron-lab.org/join_us",
+          "summary": "Linked joining page was inaccessible; no visitor claim based on it.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        }
+      ],
+      "unknowns": [
+        "No eight-week summer 2027 slot, funding, permitted personal-funding arrangement, international visitor eligibility or hardware access is confirmed; host and institutional approval are required.",
+        "Primary institution is UNC, despite old Colorado sources; a visiting Colorado affiliation does not change intended host.",
+        "Full joining-policy text remains unverified; do not infer openness from a generic collaboration invitation.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "daniel.szafir@cs.unc.edu"
+    },
+    {
+      "id": "karthik-mahadevan",
+      "name": "Karthik Mahadevan",
+      "aliases": [],
+      "school": "Massachusetts Institute of Technology (current postdoc); University of Texas at Austin (incoming Spring 2027)",
+      "homepage": "https://www.cs.utexas.edu/people/faculty-researchers/karthik-mahadevan",
+      "title": "Incoming Assistant Professor; current MIT postdoctoral researcher",
+      "department": "Computer Science at incoming UT Austin appointment",
+      "batch": "hri-003",
+      "discoveredAt": "2026-09-30T21:36:36Z",
+      "verifiedAt": "2026-09-30T21:42:22Z",
+      "researchAreas": [
+        "Human-robot interaction",
+        "Robot foundation-model interfaces",
+        "Teleoperation",
+        "Human-guided robot behavior"
+      ],
+      "fitReason": "Strong new-faculty lead for human instructions, foundation-model interfaces and adaptive physical collaboration. Incoming Spring 2027 timing may align with summer planning, but new-lab readiness is a material unknown.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "ImageInThat's 2025 primary paper distinguishes its simulated user study from a separate case study that executes translated image instructions on a physical robot arm. GenEM is not counted as physical proof because its evaluation includes simulation/video methods.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "The September 23,2026 announcement invites researchers and postdocs and recruits PhD students for fall 2027. It does not explicitly offer visiting students, internships, eight-week visits or master's eligibility.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "direct foundation-model/HRI interface fit.",
+        "physical": "Separate real-arm proof of concept is verified in 2025 work; the new UT lab is an announced future host with unverified equipment.",
+        "shortVisit": "researcher recruitment not specific visitor pathway.",
+        "freshness": "dated 2026 announcement with UT corroboration."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "www.cs.utexas.edu / source 1",
+          "url": "https://www.cs.utexas.edu/people/faculty-researchers/karthik-mahadevan",
+          "summary": "Official incoming UT Austin appointment, ENACT lab and email.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        },
+        {
+          "id": "s2",
+          "label": "karthikmahadevan.ca / source 2",
+          "url": "https://karthikmahadevan.ca/post/faculty-2026/",
+          "summary": "Dated September 23,2026 Spring 2027 announcement and recruitment scope.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        },
+        {
+          "id": "s3",
+          "label": "karthikmahadevan.ca / source 3",
+          "url": "https://karthikmahadevan.ca/",
+          "summary": "Current MIT postdoc and research agenda.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        },
+        {
+          "id": "s4",
+          "label": "arxiv.org / source 4",
+          "url": "https://arxiv.org/html/2503.15500v1",
+          "summary": "Primary ImageInThat paper explicitly separates simulated user study and physical-arm case study.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        }
+      ],
+      "unknowns": [
+        "No eight-week summer 2027 slot, funding, permitted personal-funding arrangement, international visitor eligibility or hardware access is confirmed; host and institutional approval are required.",
+        "UT Austin is an officially corroborated incoming Spring 2027 appointment, not the current host; confirm appointment start and lab/hardware setup.",
+        "A generic researcher invitation is insufficient evidence of a short-visit route.",
+        "Keep simulated user study and physical proof-of-concept distinct.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "karthikm@cs.utexas.edu"
+    },
+    {
+      "id": "wendy-ju",
+      "name": "Wendy Ju",
+      "aliases": [],
+      "school": "Cornell University, Cornell Tech",
+      "homepage": "https://www.cs.cornell.edu/people/wendy-ju",
+      "title": "Professor",
+      "department": "Information Science; Jacobs Technion-Cornell Institute",
+      "batch": "hri-003",
+      "discoveredAt": "2026-09-30T21:37:06Z",
+      "verifiedAt": "2026-09-30T21:42:22Z",
+      "researchAreas": [
+        "Human-robot interaction",
+        "Robot social perception",
+        "Implicit communication",
+        "Embodied interaction design"
+      ],
+      "fitReason": "Good match for human-aware robot behavior, social perception and evaluating real-world robot interaction. More interaction-design/HCI emphasis than manipulation-policy learning; a CS project should make the computational contribution explicit.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "IRL lists 2025 physical trash-barrel robot field research and TrashBot NYC videos. The lab also documents 2026 TiltyBot construction/prototyping and work connecting bystander cues to robot failure detection.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "The current lab team includes interns and a visiting researcher, but this is membership/precedent only. No explicit current short-visit invitation or master's summer 2027 eligibility verified.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "scores": {
+        "fit": 34,
+        "physical": 24,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "strong human-centered robot perception/behavior but design-heavy.",
+        "physical": "recent physical field/prototype systems.",
+        "shortVisit": "membership alone not opportunity.",
+        "freshness": "dated 2026 university activity."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "www.cs.cornell.edu / source 1",
+          "url": "https://www.cs.cornell.edu/people/wendy-ju",
+          "summary": "Current professorship, institution, department and email.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        },
+        {
+          "id": "s2",
+          "label": "irl.tech.cornell.edu / source 2",
+          "url": "https://irl.tech.cornell.edu/",
+          "summary": "2025 physical TrashBot/trash-barrel robot research and existing intern/visitor roster.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        },
+        {
+          "id": "s3",
+          "label": "irl.tech.cornell.edu / source 3",
+          "url": "https://irl.tech.cornell.edu/question-to-prototype-workshop/",
+          "summary": "Dated April 2026 physical TiltyBot prototyping workshop.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        },
+        {
+          "id": "s4",
+          "label": "tech.cornell.edu / source 4",
+          "url": "https://tech.cornell.edu/news/can-robots-read-the-room/",
+          "summary": "July 2026 robot social-intelligence research; video-based study is distinguished from physical deployment.",
+          "verifiedAt": "2026-09-30T21:42:22Z"
+        }
+      ],
+      "unknowns": [
+        "No eight-week summer 2027 slot, funding, permitted personal-funding arrangement, international visitor eligibility or hardware access is confirmed; host and institutional approval are required.",
+        "Cornell Tech host is New York City; confirm on-site supervision and platform.",
+        "Existing interns do not prove an open slot or compatibility with external master's students.",
+        "Current official Cornell profile says Professor; older project pages still say Associate Professor.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "wendyju@cornell.edu"
     }
   ]
 }

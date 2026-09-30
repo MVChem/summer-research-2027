@@ -1,0 +1,812 @@
+[
+  {
+    "id": "wanxin-jin",
+    "name": "Wanxin Jin",
+    "aliases": [],
+    "school": "Arizona State University",
+    "homepage": "https://irislab.tech/",
+    "title": "Assistant Professor",
+    "department": "School for Engineering of Matter, Transport and Energy; Mechanical and Aerospace Engineering",
+    "batch": "control-005",
+    "discoveredAt": "2026-09-30T22:00:21Z",
+    "verifiedAt": "2026-09-30T22:01:01Z",
+    "researchAreas": [
+      "contact-rich robot learning",
+      "dexterous manipulation",
+      "learning-based control",
+      "physics-grounded embodied AI"
+    ],
+    "fitReason": "Very strong match for robot learning and control that exploits contact physics, with explicit interests spanning RL, imitation learning, world models, and robot learning from human feedback.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "IRIS lists its Franka Research 3, Allegro, and LEAP hands. ComFree-Sim (March 2026) reports real-time in-hand manipulation on a real LEAP hand, while the 2026 hierarchical RL-MPC paper reports zero-shot sim-to-real manipulation.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "The joining page, last updated August 28, 2026, explicitly invites research interns working remotely or in person, depending on project fit and availability, via a form. Duration is unspecified. The separate 2026 SURI program is closed and its 2027 cycle is unpublished.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 40,
+      "physical": 25,
+      "shortVisit": 10,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct contact-rich physical AI and learning/control match.",
+      "physical": "Named own-lab robot inventory corroborates current physical manipulation papers.",
+      "shortVisit": "Explicit current remote or in-person internship route, but no duration/2027 eligibility.",
+      "freshness": "August2026 lab update and primary 2026 technical papers."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "search.asu.edu / source 1",
+        "url": "https://search.asu.edu/profile/4837210",
+        "summary": "Official current Assistant Professor appointment and robotics/control/ML affiliation.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "official search-index content; current faculty page listed 2026–27 teaching"
+      },
+      {
+        "id": "s2",
+        "label": "irislab.tech / source 2",
+        "url": "https://irislab.tech/joining/",
+        "summary": "Full page explicitly invites remote/in-person research interns; current robot inventory; August28,2026 update.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "full web page opened"
+      },
+      {
+        "id": "s3",
+        "label": "irislab.tech / source 3",
+        "url": "https://irislab.tech/",
+        "summary": "Current contact-rich learning research and dated 2026 developments.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "full web page opened"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/abs/2603.12185",
+        "summary": "March2026 ComFree-Sim primary paper includes real LEAP-hand manipulation.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "primary abstract opened"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/abs/2601.10930",
+        "summary": "RL-MPC contact-intention manipulation with sim-to-real transfer; revised August19,2026.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "primary abstract opened"
+      },
+      {
+        "id": "s6",
+        "label": "students.engineering.asu.edu / source 6",
+        "url": "https://students.engineering.asu.edu/graduate/research/suri/",
+        "summary": "Historical closed2026 program lists Jin; no2027 availability established.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "full official page opened"
+      }
+    ],
+    "unknowns": [
+      "Current intern invitation does not establish eight-week availability, funding, international eligibility, or acceptance. PhD openings starting as early as Spring2027 are separate from internships.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "wjin@asu.edu"
+  },
+  {
+    "id": "ye-zhao",
+    "name": "Ye Zhao",
+    "aliases": [],
+    "school": "Georgia Institute of Technology",
+    "homepage": "https://lab-idar.gatech.edu/",
+    "title": "Associate Professor",
+    "department": "Mechanical Engineering",
+    "batch": "control-005",
+    "discoveredAt": "2026-09-30T21:57:04Z",
+    "verifiedAt": "2026-09-30T22:01:01Z",
+    "researchAreas": [
+      "humanoid robot learning",
+      "safe reinforcement learning",
+      "contact-rich locomotion and manipulation",
+      "task and motion planning"
+    ],
+    "fitReason": "Very strong real-robot RL, diffusion-policy adaptation, contact-rich control, and humanoid autonomy fit.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "REFINE-DP (2026) demonstrates jointly RL-fine-tuned diffusion planning and low-level loco-manipulation on a 29-DoF Booster T1 humanoid, including box transport, door opening, and stepping to retrieve an object. The LIDAR site also documents current physical humanoid deployment.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "Current joining page explicitly provides visiting-scholar instructions: email research materials, requested start/end dates, and advisor support or contact. It warns that school visitor-number limits can constrain availability.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 40,
+      "physical": 25,
+      "shortVisit": 8,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct humanoid physical learning, safe RL, and control.",
+      "physical": "Named current own-lab robot and multiple hardware learning demonstrations.",
+      "shortVisit": "Explicit current visitor inquiry route with dates/advisor support, but duration and eligibility not established.",
+      "freshness": "Current title corroboration and multiple dated 2026 research updates."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "dcl.gatech.edu / source 1",
+        "url": "https://dcl.gatech.edu/people/",
+        "summary": "Current official Georgia Tech DCL directory lists Ye Zhao as Associate Professor in ME.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "official search-index content"
+      },
+      {
+        "id": "s2",
+        "label": "sites.gatech.edu / source 2",
+        "url": "https://sites.gatech.edu/research/spotlight-2026/",
+        "summary": "2026 official research spotlight independently lists Associate Professor.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "official search-index content"
+      },
+      {
+        "id": "s3",
+        "label": "sites.google.com / source 3",
+        "url": "https://sites.google.com/site/yezhaout",
+        "summary": "Faculty-maintained current Associate Professor title, email, and safe robot-learning scope.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "primary search-index content"
+      },
+      {
+        "id": "s4",
+        "label": "lab-idar.gatech.edu / source 4",
+        "url": "https://lab-idar.gatech.edu/joining/",
+        "summary": "Explicit visiting-scholar application guidance and visitor-cap caveat.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "full web page opened"
+      },
+      {
+        "id": "s5",
+        "label": "lab-idar.gatech.edu / source 5",
+        "url": "https://lab-idar.gatech.edu/",
+        "summary": "Dated 2026 humanoid learning/control research and physical deployment news.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "full web page opened"
+      },
+      {
+        "id": "s6",
+        "label": "refine-dp.github.io / source 6",
+        "url": "https://refine-dp.github.io/REFINE-DP/",
+        "summary": "Primary project: named Booster T1 hardware with RL-fine-tuned diffusion policy and autonomous tasks.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "full primary project page opened"
+      }
+    ],
+    "unknowns": [
+      "Visitor duration, funding, and external graduate-student eligibility remain unspecified. Official DCL and2026 GT research spotlight confirm Associate Professor; some older directories still say Assistant. No2027 commitment verified.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "ye.zhao@me.gatech.edu"
+  },
+  {
+    "id": "wenlong-zhang",
+    "name": "Wenlong Zhang",
+    "aliases": [],
+    "school": "Arizona State University",
+    "homepage": "https://home.riselab.info/",
+    "title": "Associate Professor; Research Director",
+    "department": "School of Manufacturing Systems and Networks",
+    "batch": "control-005",
+    "discoveredAt": "2026-09-30T21:52:12Z",
+    "verifiedAt": "2026-09-30T22:01:01Z",
+    "researchAreas": [
+      "reinforcement learning control",
+      "soft and wearable robotics",
+      "human-robot teaming",
+      "aerial robotics"
+    ],
+    "fitReason": "Strong hands-on learning/control fit, particularly physical adaptation and safety in soft, wearable, aerial, and manufacturing robots.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The ICML2025 paper Reinforcement Learning Control of a Physical Robot Device for Assisted Human Walking without a Simulator develops offline expert initialization followed by online actor-critic adaptation for a physical soft exosuit.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "precedent-only",
+      "summary": "Zhang is listed in the official closed2026 SURI catalog with robot-learning projects. The general2026 program was eight weeks with an international/master's eligibility pathway. No current external lab internship invitation or2027 SURI cycle was verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "Direct adaptive RL for real robots, with practical physical-HRI applications.",
+      "physical": "Corresponding-author physical exosuit learning study from ASU.",
+      "shortVisit": "Only closed historical2026 summer route, no current2027 invitation.",
+      "freshness": "Current official appointment; inspected technical evidence is dated2025."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "search.asu.edu / source 1",
+        "url": "https://search.asu.edu/profile/2727367",
+        "summary": "Official current Associate Professor and school Research Director title.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "official search-index content"
+      },
+      {
+        "id": "s2",
+        "label": "home.riselab.info / source 2",
+        "url": "https://home.riselab.info/",
+        "summary": "Primary lab scope includes intelligent learning/control for wearable, soft, and aerial robots.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "full page opened"
+      },
+      {
+        "id": "s3",
+        "label": "openreview.net / source 3",
+        "url": "https://openreview.net/pdf/b29fb06f76481e8dd38ab85f9167bd53f9ec9a67.pdf",
+        "summary": "ICML2025 primary paper: physical soft-exosuit RL and corresponding author email.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "primary paper search-index content"
+      },
+      {
+        "id": "s4",
+        "label": "students.engineering.asu.edu / source 4",
+        "url": "https://students.engineering.asu.edu/graduate/research/suri/",
+        "summary": "Closed2026 program description and faculty/project listing;2027 unpublished.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "full official page opened"
+      },
+      {
+        "id": "s5",
+        "label": "students.engineering.asu.edu / source 5",
+        "url": "https://students.engineering.asu.edu/wp-content/uploads/2025/12/SURI_2026_Project_Catalog.pdf",
+        "summary": "Historical2026 Zhang projects in digital twins and robot learning; no current invitation inferred.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "official PDF search-index content"
+      }
+    ],
+    "unknowns": [
+      "2026 SURI is closed. Its eligibility/funding terms cannot be assumed to recur in2027. Ordinary lab PhD/postdoc recruitment is separate. Physical wearable work may require additional protocol and training approval.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "wenlong.zhang@asu.edu"
+  },
+  {
+    "id": "kunal-garg",
+    "name": "Kunal Garg",
+    "aliases": [],
+    "school": "Arizona State University",
+    "homepage": "https://sites.google.com/asu.edu/kunalgarg/",
+    "title": "Assistant Professor",
+    "department": "School for Engineering of Matter, Transport and Energy; Mechanical and Aerospace Engineering",
+    "batch": "control-005",
+    "discoveredAt": "2026-09-30T21:55:56Z",
+    "verifiedAt": "2026-09-30T22:01:01Z",
+    "researchAreas": [
+      "safe robot learning",
+      "multi-agent coordination",
+      "neural safety certificates",
+      "foundation models for control"
+    ],
+    "fitReason": "Strong safe-learning/control and distributed physical autonomy match, including graph neural safety certificates and transformer-guided safe policies.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The coauthored GCBF+ paper/project (T-RO2025, originating at MIT) demonstrates learned graph-barrier controllers on real Crazyflie2.1 swarms, including collision-free motion and docking. Current ASU BarrierFormer (CoRL2026) evidence inspected here is simulation, not hardware.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current page describes master's/current-student research. It explicitly states no new PhD recruitment for AY2027–28 and asks not to send Spring/Fall2027 PhD inquiries. No external short-visit route verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct safety-certified learning and multi-robot control.",
+      "physical": "Specific recent physical collaboration predating/currently separate from ASU lab inventory.",
+      "shortVisit": "No explicit external visitor route;2027 degree recruitment is closed.",
+      "freshness": "September2026 technical update and current primary pages."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "search.asu.edu / source 1",
+        "url": "https://search.asu.edu/profile/5172311",
+        "summary": "Official Assistant Professor appointment, research directions, and current teaching.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "official search-index content"
+      },
+      {
+        "id": "s2",
+        "label": "sites.google.com / source 2",
+        "url": "https://sites.google.com/asu.edu/kunalgarg/people",
+        "summary": "Explicit AY2027–28 PhD recruitment closure, master's guidance, and public email.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "full web page opened"
+      },
+      {
+        "id": "s3",
+        "label": "mit-realm.github.io / source 3",
+        "url": "https://mit-realm.github.io/gcbfplus/",
+        "summary": "Primary2025 project documents Garg coauthorship and real Crazyflie swarm experiments at MIT.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "primary search-index content"
+      },
+      {
+        "id": "s4",
+        "label": "safe-robotics-group-at-asu.github.io / source 4",
+        "url": "https://safe-robotics-group-at-asu.github.io/BarrierFormer-website/",
+        "summary": "Current CoRL2026 transformer safety-controller project; reported evaluations are simulated dynamical systems.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "full primary project page opened"
+      },
+      {
+        "id": "s5",
+        "label": "sites.google.com / source 5",
+        "url": "https://sites.google.com/asu.edu/kunalgarg/",
+        "summary": "September2026 BarrierFormer acceptance update.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "full web page opened"
+      }
+    ],
+    "unknowns": [
+      "Do not frame the closed PhD recruitment as a summer opening. Master's research instructions do not establish external visiting-student eligibility; present ASU hardware availability requires confirmation.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "kgarg24@asu.edu"
+  },
+  {
+    "id": "wenhao-luo",
+    "name": "Wenhao Luo",
+    "aliases": [],
+    "school": "University of Illinois Chicago",
+    "homepage": "https://www.cs.uic.edu/~wenhao/",
+    "title": "Assistant Professor",
+    "department": "Computer Science",
+    "batch": "control-005",
+    "discoveredAt": "2026-09-30T21:52:12Z",
+    "verifiedAt": "2026-09-30T22:01:01Z",
+    "researchAreas": [
+      "safe reinforcement learning",
+      "multi-robot coordination",
+      "online learning",
+      "interactive autonomy"
+    ],
+    "fitReason": "Strong AI/control fit for safe and resilient physical robot teams, including conformal safe RL and learned communication-aware coordination.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The2024 IROS project integrates online Gaussian-process learning with connectivity barrier certificates and reports a real-world robot RSSI dataset/experiment. UIC's July2025 official article shows Luo with a Cobot Magic robot and quadcopters; planned lab expansion is not treated as completed experiments.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Homepage welcomes students at BS/MS/PhD levels, but does not explicitly describe external research visitors or a short summer route.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 14
+    },
+    "scoreReasons": {
+      "fit": "Direct safe RL and online multi-robot learning/control.",
+      "physical": "Physical experiment at prior institution and current UIC robot presence; deployment maturity not assumed.",
+      "shortVisit": "Generic student recruitment only.",
+      "freshness": "Current UIC affiliation corroborated by September2026 report and2025 lab news."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.cs.uic.edu / source 1",
+        "url": "https://www.cs.uic.edu/~wenhao/",
+        "summary": "Current UIC Assistant Professor affiliation/email; safe RL and multi-robot learning publications.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "full web page opened"
+      },
+      {
+        "id": "s2",
+        "label": "cs.uic.edu / source 2",
+        "url": "https://cs.uic.edu/news-stories/cs-welcomes-robotics-researcher-wenhao-luo/",
+        "summary": "Official March10,2025 UIC appointment announcement after UNC Charlotte.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "official search-index content"
+      },
+      {
+        "id": "s3",
+        "label": "today.uic.edu / source 3",
+        "url": "https://today.uic.edu/new-computer-science-building-to-boost-robotics-research-at-uic/",
+        "summary": "July2025 physical robot photographs and current lab context; planned facilities explicitly distinguished.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "official search-index content"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/pdf/2410.05798",
+        "summary": "Primary IROS2024 GP/CBF paper includes real-world robot communication measurements.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "full primary PDF opened"
+      },
+      {
+        "id": "s5",
+        "label": "today.uic.edu / source 5",
+        "url": "https://today.uic.edu/research-funding-at-uic-reaches-498m-in-fy-2026/",
+        "summary": "September2026 official report confirms current UIC research activity.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "official search-index content"
+      }
+    ],
+    "unknowns": [
+      "Luo joined UIC in spring2025; older papers and pages list UNC Charlotte. Generic recruitment and local high-school internship plans do not establish an external graduate summer opening.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "wenhao@uic.edu"
+  },
+  {
+    "id": "vaibhav-srivastava",
+    "name": "Vaibhav Srivastava",
+    "aliases": [],
+    "school": "Michigan State University",
+    "homepage": "https://www.egr.msu.edu/~vaibhav/",
+    "title": "Associate Professor",
+    "department": "Electrical and Computer Engineering; Mechanical Engineering by courtesy",
+    "batch": "control-005",
+    "discoveredAt": "2026-09-30T21:55:24Z",
+    "verifiedAt": "2026-09-30T22:01:01Z",
+    "researchAreas": [
+      "human-robot decision-making",
+      "multi-agent learning",
+      "adaptive sensing",
+      "learning-based control"
+    ],
+    "fitReason": "Strong fit for robot-team learning, human-in-the-loop autonomy, and principled decision-making under uncertainty.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The coauthored August2026 preprint Structured LLM Reasoning for Zero-Shot Human–Robot Coordination Under Hidden Goals reports a small MSU pilot where participants collaborate with a physical6-DoF robot on a construction task; compares structured LLM policies with an offline MARL policy. It is a pilot, not broad performance validation.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current faculty and research pages verify contact and mentoring, but no explicit external short-visit invitation was found.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct decision-making, learning, and physical human-robot systems.",
+      "physical": "Clear recent coauthored physical robot pilot; present lab inventory separately unverified.",
+      "shortVisit": "No explicit short-term external route.",
+      "freshness": "August2026 primary experiment and dated2026 CV."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.egr.msu.edu / source 1",
+        "url": "https://www.egr.msu.edu/~vaibhav/",
+        "summary": "Current Associate Professor appointment, mixed human-robot and networked systems scope.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "full official faculty-maintained page opened"
+      },
+      {
+        "id": "s2",
+        "label": "www.egr.msu.edu / source 2",
+        "url": "https://www.egr.msu.edu/~vaibhav/srivastava_cv.pdf",
+        "summary": "2026 CV confirms current MSU role, email, and physical-robot learning research vision.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "official PDF search-index content"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2608.04309v1",
+        "summary": "August2026 primary preprint, SectionIV-A: physical6-DoF robot pilot with LLM/ToM and MARL conditions at MSU.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "full primary paper opened"
+      }
+    ],
+    "unknowns": [
+      "The physical study is small and a preprint; no summer funding, duration, or visiting-student eligibility verified. Human-subjects projects can require protocol and training approval.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "vaibhav@msu.edu"
+  },
+  {
+    "id": "panagiotis-tsiotras",
+    "name": "Panagiotis Tsiotras",
+    "aliases": [],
+    "school": "Georgia Institute of Technology",
+    "homepage": "https://dcsl.gatech.edu/tsiotras.html",
+    "title": "Professor; David and Andrew Lewis Chair",
+    "department": "Aerospace Engineering",
+    "batch": "control-005",
+    "discoveredAt": "2026-09-30T21:52:12Z",
+    "verifiedAt": "2026-09-30T22:01:01Z",
+    "researchAreas": [
+      "safe learning-based control",
+      "autonomous vehicles",
+      "multi-agent planning",
+      "nonlinear optimal control"
+    ],
+    "fitReason": "Strong learning/control and autonomous-systems fit, particularly safety-aware predictive control, perception, and multi-vehicle coordination.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Safe Beyond the Horizon (RSS2025), coauthored with Tsiotras, learns neural control-barrier functions for sampling-based MPC and documents AutoRally hardware tests. His2025 formation-control paper separately reports real-world multi-robot experiments; its event-triggered controller is not itself an ML method.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Official public pages verify current research/advising, including2026 autonomous racing teaching, but no explicit external short-visit route was verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 14
+    },
+    "scoreReasons": {
+      "fit": "Direct safe learned control and autonomous vehicle/multi-agent applications.",
+      "physical": "Named physical AutoRally collaboration; current sole-lab equipment not independently inspected.",
+      "shortVisit": "No explicit external short-visit route.",
+      "freshness": "2026 learning paper/teaching and2025 hardware research."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "ai.gatech.edu / source 1",
+        "url": "https://ai.gatech.edu/node/21396",
+        "summary": "Official Professor/Chair title, email, and AI-linked nonlinear/optimal-control scope.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "official search-index content"
+      },
+      {
+        "id": "s2",
+        "label": "dcsl.gatech.edu / source 2",
+        "url": "https://dcsl.gatech.edu/tsiotras.html",
+        "summary": "Faculty-maintained appointment and lab affiliation.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "primary search-index content"
+      },
+      {
+        "id": "s3",
+        "label": "www.roboticsproceedings.org / source 3",
+        "url": "https://www.roboticsproceedings.org/rss21/p112.html",
+        "summary": "RSS2025 primary proceedings confirms neural-CBF MPC paper, authorship, and hardware experiments.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "primary proceedings search-index content"
+      },
+      {
+        "id": "s4",
+        "label": "mit-realm.github.io / source 4",
+        "url": "https://mit-realm.github.io/ns-vimpc/",
+        "summary": "Primary project explicitly separates simulation from AutoRally hardware experiments.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "full primary project page opened"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/abs/2605.26304",
+        "summary": "May2026 collaborative navigation with sparse Gaussian processes corroborates current learning research.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "primary abstract search-index content"
+      },
+      {
+        "id": "s6",
+        "label": "syllabus.gatech.edu / source 6",
+        "url": "https://syllabus.gatech.edu/sites/default/files/2026-04/Fall-2026-85476-Tsiotras-2601-VVB.pdf",
+        "summary": "Current Fall2026 autonomous racing teaching/advising; not a visitor route.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "official PDF search-index content"
+      }
+    ],
+    "unknowns": [
+      "Internal VIP/degree-course participation is not external visiting admission. Duration, funding, and summer2027 mentoring capacity remain unconfirmed.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "tsiotras@gatech.edu"
+  },
+  {
+    "id": "francesco-bullo",
+    "name": "Francesco Bullo",
+    "aliases": [],
+    "school": "University of California, Santa Barbara",
+    "homepage": "https://fbullo.github.io/",
+    "title": "Distinguished Professor; Mosher Endowed Chair",
+    "department": "Mechanical Engineering",
+    "batch": "control-005",
+    "discoveredAt": "2026-09-30T21:52:24Z",
+    "verifiedAt": "2026-09-30T22:01:01Z",
+    "researchAreas": [
+      "multi-agent networks",
+      "learning and control",
+      "robot coordination",
+      "neural dynamical systems"
+    ],
+    "fitReason": "Good fit for mathematically grounded multi-agent learning/control, with a recent LLM-enabled physical robot-coordination collaboration; group focus remains broad and theory-heavy.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Coauthor of the August2026 physical6-DoF robot construction pilot with LLM/ToM and MARL policies. The experiment was conducted with MSU collaborators, so it does not establish UCSB lab equipment or on-site hardware access.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Prospective-student page primarily describes graduate admissions and states a2027/28 position is unlikely. No explicit external short-visit route verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 34,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong theory for multi-agent learning/control with current physical collaboration.",
+      "physical": "Recent physical coauthored experiment at a collaborator institution.",
+      "shortVisit": "Degree recruitment only, no short-visit route.",
+      "freshness": "August2026 paper and official2026 appointment confirmation."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "me.ucsb.edu / source 1",
+        "url": "https://me.ucsb.edu/people/francesco-bullo",
+        "summary": "Official current Distinguished Professor appointment and public email.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "official search-index content"
+      },
+      {
+        "id": "s2",
+        "label": "me.ucsb.edu / source 2",
+        "url": "https://me.ucsb.edu/news/news/three-mechanical-engineering-professors-receive-newly-established-endowed-chairs",
+        "summary": "June3,2026 official announcement confirms Mosher endowed chair.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "official search-index content"
+      },
+      {
+        "id": "s3",
+        "label": "fbullo.github.io / source 3",
+        "url": "https://fbullo.github.io/",
+        "summary": "Current research emphasis and dated2026 activity.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "full primary page opened"
+      },
+      {
+        "id": "s4",
+        "label": "fbullo.github.io / source 4",
+        "url": "https://fbullo.github.io/msg-prospective.html",
+        "summary": "Graduate-admission guidance; explicitly unlikely to have2027/28 position, without external short-visit route.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "full primary page opened"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2608.04309v1",
+        "summary": "Coauthored August2026 physical robot pilot with MSU; not evidence of UCSB hardware.",
+        "verifiedAt": "2026-09-30T22:01:01Z",
+        "retrieval": "full primary paper opened"
+      }
+    ],
+    "unknowns": [
+      "The2027/28 statement concerns degree recruitment, not proof of a blanket visitor prohibition. Do not infer summer availability from coauthored hardware work or a new endowed chair.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "bullo@ucsb.edu"
+  }
+]

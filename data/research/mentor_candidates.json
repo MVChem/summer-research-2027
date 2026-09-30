@@ -13,6 +13,7 @@
     "batches/control-002.json",
     "batches/control-003.json",
     "batches/control-004.json",
+    "batches/control-005.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -1022,6 +1023,214 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-004.json",
       "detailPage": "batches/control-004.md#francesco-borrelli"
+    },
+    {
+      "id": "wanxin-jin",
+      "name": "Wanxin Jin",
+      "aliases": [],
+      "school": "Arizona State University",
+      "title": "Assistant Professor",
+      "homepage": "https://irislab.tech/",
+      "batch": "control-005",
+      "discoveredAt": "2026-09-30T22:00:21Z",
+      "verifiedAt": "2026-09-30T22:01:01Z",
+      "scores": {
+        "fit": 40,
+        "physical": 25,
+        "shortVisit": 10,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "contact-rich robot learning",
+        "dexterous manipulation",
+        "learning-based control",
+        "physics-grounded embodied AI"
+      ],
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/control-005.json",
+      "detailPage": "batches/control-005.md#wanxin-jin"
+    },
+    {
+      "id": "ye-zhao",
+      "name": "Ye Zhao",
+      "aliases": [],
+      "school": "Georgia Institute of Technology",
+      "title": "Associate Professor",
+      "homepage": "https://lab-idar.gatech.edu/",
+      "batch": "control-005",
+      "discoveredAt": "2026-09-30T21:57:04Z",
+      "verifiedAt": "2026-09-30T22:01:01Z",
+      "scores": {
+        "fit": 40,
+        "physical": 25,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "humanoid robot learning",
+        "safe reinforcement learning",
+        "contact-rich locomotion and manipulation",
+        "task and motion planning"
+      ],
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/control-005.json",
+      "detailPage": "batches/control-005.md#ye-zhao"
+    },
+    {
+      "id": "wenlong-zhang",
+      "name": "Wenlong Zhang",
+      "aliases": [],
+      "school": "Arizona State University",
+      "title": "Associate Professor; Research Director",
+      "homepage": "https://home.riselab.info/",
+      "batch": "control-005",
+      "discoveredAt": "2026-09-30T21:52:12Z",
+      "verifiedAt": "2026-09-30T22:01:01Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "reinforcement learning control",
+        "soft and wearable robotics",
+        "human-robot teaming",
+        "aerial robotics"
+      ],
+      "shortVisitStatus": "precedent-only",
+      "recordFile": "batches/control-005.json",
+      "detailPage": "batches/control-005.md#wenlong-zhang"
+    },
+    {
+      "id": "kunal-garg",
+      "name": "Kunal Garg",
+      "aliases": [],
+      "school": "Arizona State University",
+      "title": "Assistant Professor",
+      "homepage": "https://sites.google.com/asu.edu/kunalgarg/",
+      "batch": "control-005",
+      "discoveredAt": "2026-09-30T21:55:56Z",
+      "verifiedAt": "2026-09-30T22:01:01Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "safe robot learning",
+        "multi-agent coordination",
+        "neural safety certificates",
+        "foundation models for control"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-005.json",
+      "detailPage": "batches/control-005.md#kunal-garg"
+    },
+    {
+      "id": "wenhao-luo",
+      "name": "Wenhao Luo",
+      "aliases": [],
+      "school": "University of Illinois Chicago",
+      "title": "Assistant Professor",
+      "homepage": "https://www.cs.uic.edu/~wenhao/",
+      "batch": "control-005",
+      "discoveredAt": "2026-09-30T21:52:12Z",
+      "verifiedAt": "2026-09-30T22:01:01Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 14
+      },
+      "researchAreas": [
+        "safe reinforcement learning",
+        "multi-robot coordination",
+        "online learning",
+        "interactive autonomy"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-005.json",
+      "detailPage": "batches/control-005.md#wenhao-luo"
+    },
+    {
+      "id": "vaibhav-srivastava",
+      "name": "Vaibhav Srivastava",
+      "aliases": [],
+      "school": "Michigan State University",
+      "title": "Associate Professor",
+      "homepage": "https://www.egr.msu.edu/~vaibhav/",
+      "batch": "control-005",
+      "discoveredAt": "2026-09-30T21:55:24Z",
+      "verifiedAt": "2026-09-30T22:01:01Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "human-robot decision-making",
+        "multi-agent learning",
+        "adaptive sensing",
+        "learning-based control"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-005.json",
+      "detailPage": "batches/control-005.md#vaibhav-srivastava"
+    },
+    {
+      "id": "panagiotis-tsiotras",
+      "name": "Panagiotis Tsiotras",
+      "aliases": [],
+      "school": "Georgia Institute of Technology",
+      "title": "Professor; David and Andrew Lewis Chair",
+      "homepage": "https://dcsl.gatech.edu/tsiotras.html",
+      "batch": "control-005",
+      "discoveredAt": "2026-09-30T21:52:12Z",
+      "verifiedAt": "2026-09-30T22:01:01Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 14
+      },
+      "researchAreas": [
+        "safe learning-based control",
+        "autonomous vehicles",
+        "multi-agent planning",
+        "nonlinear optimal control"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-005.json",
+      "detailPage": "batches/control-005.md#panagiotis-tsiotras"
+    },
+    {
+      "id": "francesco-bullo",
+      "name": "Francesco Bullo",
+      "aliases": [],
+      "school": "University of California, Santa Barbara",
+      "title": "Distinguished Professor; Mosher Endowed Chair",
+      "homepage": "https://fbullo.github.io/",
+      "batch": "control-005",
+      "discoveredAt": "2026-09-30T21:52:24Z",
+      "verifiedAt": "2026-09-30T22:01:01Z",
+      "scores": {
+        "fit": 34,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "multi-agent networks",
+        "learning and control",
+        "robot coordination",
+        "neural dynamical systems"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-005.json",
+      "detailPage": "batches/control-005.md#francesco-bullo"
     },
     {
       "id": "tom-silver",

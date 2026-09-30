@@ -1776,6 +1776,802 @@
         "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
       ],
       "publicEmail": "knighth@oregonstate.edu"
+    },
+    {
+      "id": "tom-silver",
+      "name": "Tom Silver",
+      "aliases": [],
+      "school": "Princeton University",
+      "homepage": "https://tomsilver.github.io/",
+      "title": "Assistant Professor",
+      "department": "Electrical and Computer Engineering",
+      "batch": "embodied-001",
+      "discoveredAt": "2026-09-30T21:21:59Z",
+      "verifiedAt": "2026-09-30T21:28:42Z",
+      "researchAreas": [
+        "Robot planning and learning",
+        "Foundation models",
+        "Task and motion planning",
+        "Robot caregiving"
+      ],
+      "fitReason": "Generalist robot planning with foundation models and learning; a bounded planning/evaluation project could suit a CS master’s visitor.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "PRPL publishes code for its real TidyBot mobile manipulator; Princeton reports his FEAST meal-assistance collaboration deployed in homes (2025).",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "shortVisit": {
+        "status": "inquiry-only",
+        "summary": "PRPL explicitly invites graduate students at other institutions to inquire about visiting via VSRC. Official VSRC allows 1–12 months and lists summer 2027 applications opening December 2026.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "scores": {
+        "fit": 37,
+        "physical": 25,
+        "shortVisit": 17,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "Direct planning/foundation-model robotics fit; less centered on end-to-end VLA than some peers.",
+        "physical": "Named real mobile manipulator and home deployment.",
+        "shortVisit": "Lab-specific external-graduate route plus compatible two-calendar-month institutional structure; no host acceptance.",
+        "freshness": "Current faculty/lab pages with September 2026 updates and explicit summer-2027 institutional dates."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "tomsilver.github.io / source 1",
+          "url": "https://tomsilver.github.io/",
+          "summary": "Current ECE title, contact, research methods.",
+          "verifiedAt": "2026-09-30T21:28:42Z"
+        },
+        {
+          "id": "s2",
+          "label": "prpl-group.com / source 2",
+          "url": "https://prpl-group.com/",
+          "summary": "September 2026 research; real TidyBot code; external graduate visitor route through VSRC and no remote internships.",
+          "verifiedAt": "2026-09-30T21:28:42Z"
+        },
+        {
+          "id": "s3",
+          "label": "ece.princeton.edu / source 3",
+          "url": "https://ece.princeton.edu/news/tom-silver-joins-princeton-faculty-expertise-robot-planning-and-learning",
+          "summary": "2025 faculty appointment and real-home meal-assistance robot deployment.",
+          "verifiedAt": "2026-09-30T21:28:42Z"
+        },
+        {
+          "id": "s4",
+          "label": "gradschool.princeton.edu / source 4",
+          "url": "https://gradschool.princeton.edu/admission-onboarding/nondegree-programs/research-collaborators/visiting-student-research",
+          "summary": "Graduate enrollment, 1–12 calendar months, 4–6-month application lead time, sponsor, funding and non-remote requirements; summer 2027 opening.",
+          "verifiedAt": "2026-09-30T21:28:42Z"
+        }
+      ],
+      "unknowns": [
+        "VSRC uses full calendar months, so an approximately eight-week visit may need date adjustment. Apply 4–6 months before start; home-adviser letter and willing Princeton sponsor required.",
+        "PRPL and VSRC explicitly do not support remote internships/research. Financial documentation required; official page currently excludes CSC funding.",
+        "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals must be confirmed. Self-funding alone does not establish eligibility.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "tsilver@princeton.edu"
+    },
+    {
+      "id": "dhruv-shah",
+      "name": "Dhruv Shah",
+      "aliases": [],
+      "school": "Princeton University",
+      "homepage": "https://dhruvshah.me/",
+      "title": "Assistant Professor",
+      "department": "Electrical and Computer Engineering",
+      "batch": "embodied-001",
+      "discoveredAt": "2026-09-30T21:21:32Z",
+      "verifiedAt": "2026-09-30T21:28:42Z",
+      "researchAreas": [
+        "Robot foundation models",
+        "Reinforcement learning",
+        "Navigation",
+        "Humanoid robotics"
+      ],
+      "fitReason": "Large-scale learning, continual improvement, and foundation-model deployment directly match embodied-AI interests.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "Princeton’s April 2026 profile describes autonomous racing-robot experiments and current home-robot work; his prior Gemini Robotics work targets dexterous robots.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "shortVisit": {
+        "status": "inquiry-only",
+        "summary": "PRISM’s contact page offers a specific form for non-Princeton students interested in short-term visits.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "scores": {
+        "fit": 40,
+        "physical": 25,
+        "shortVisit": 10,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "Exact foundation-model and real-world robot learning fit.",
+        "physical": "Concrete physical-robot experimentation documented by university.",
+        "shortVisit": "Explicit short-term external visitor route, duration and individual eligibility unspecified.",
+        "freshness": "2026 university profile and current lab/contact pages."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "ece.princeton.edu / source 1",
+          "url": "https://ece.princeton.edu/people/shahd",
+          "summary": "Current assistant professorship and foundation-model/RL research.",
+          "verifiedAt": "2026-09-30T21:28:42Z"
+        },
+        {
+          "id": "s2",
+          "label": "prism.robotics.princeton.edu / source 2",
+          "url": "https://prism.robotics.princeton.edu/members",
+          "summary": "PI role and explicit university email.",
+          "verifiedAt": "2026-09-30T21:28:42Z"
+        },
+        {
+          "id": "s3",
+          "label": "prism.robotics.princeton.edu / source 3",
+          "url": "https://prism.robotics.princeton.edu/contact",
+          "summary": "Dedicated prospective short-term visitor form for non-Princeton students.",
+          "verifiedAt": "2026-09-30T21:28:42Z"
+        },
+        {
+          "id": "s4",
+          "label": "ece.princeton.edu / source 4",
+          "url": "https://ece.princeton.edu/node/10221",
+          "summary": "April 6, 2026 account of physical robot experiments and current research.",
+          "verifiedAt": "2026-09-30T21:28:42Z"
+        }
+      ],
+      "unknowns": [
+        "Form is an inquiry route, without stated duration, funding, degree-specific eligibility or a 2027 slot. Princeton undergraduate/MS research form is separately restricted to current/admitted students.",
+        "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals must be confirmed. Self-funding alone does not establish eligibility.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "shahd@princeton.edu"
+    },
+    {
+      "id": "animesh-garg",
+      "name": "Animesh Garg",
+      "aliases": [],
+      "school": "Georgia Institute of Technology",
+      "homepage": "https://animesh.garg.tech/",
+      "title": "Stephen Fleming Early Career Assistant Professor",
+      "department": "School of Interactive Computing",
+      "batch": "embodied-001",
+      "discoveredAt": "2026-09-30T21:21:32Z",
+      "verifiedAt": "2026-09-30T21:28:42Z",
+      "researchAreas": [
+        "Robot learning",
+        "Foundation models",
+        "Dexterous manipulation",
+        "Imitation learning"
+      ],
+      "fitReason": "PAIR combines robot foundation models, data-efficient skill learning and scalable demonstration collection; COBALT is a concrete 2026 project anchor.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "COBALT (ICRA 2026) explicitly supports real robot and bimanual teleoperation; PAIR’s current applications include humanoids and self-driving laboratories.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "shortVisit": {
+        "status": "inquiry-only",
+        "summary": "PAIR explicitly lists a few short-term opportunities for non-Georgia-Tech visitors, preferring self-funded or fellowship-supported visitors; form plus email is the prescribed route.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 10,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "Direct foundation-model/manipulation/data-generation fit.",
+        "physical": "Explicit current real-robot bimanual project.",
+        "shortVisit": "Short-term inquiry and funding preference explicit; eight-week compatibility not established.",
+        "freshness": "2026 projects and current official affiliation."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "www.ic.gatech.edu / source 1",
+          "url": "https://www.ic.gatech.edu/people/animesh-garg",
+          "summary": "University affiliation, title and email.",
+          "verifiedAt": "2026-09-30T21:28:42Z"
+        },
+        {
+          "id": "s2",
+          "label": "www.pair.toronto.edu / source 2",
+          "url": "https://www.pair.toronto.edu/",
+          "summary": "Lab confirms move to Georgia Tech; June 2026 research news.",
+          "verifiedAt": "2026-09-30T21:28:42Z"
+        },
+        {
+          "id": "s3",
+          "label": "cobalt-teleop.github.io / source 3",
+          "url": "https://cobalt-teleop.github.io/",
+          "summary": "ICRA 2026 real-world and bimanual robot data-collection platform.",
+          "verifiedAt": "2026-09-30T21:28:42Z"
+        },
+        {
+          "id": "s4",
+          "label": "www.pair.toronto.edu / source 4",
+          "url": "https://www.pair.toronto.edu/contact/",
+          "summary": "Dedicated short-term external visitor pathway, self/fellowship funding preference.",
+          "verifiedAt": "2026-09-30T21:28:42Z"
+        }
+      ],
+      "unknowns": [
+        "Separate UG/MS route requires Georgia Tech enrollment; use only the explicitly separate visitor route. Short-term duration, institutional visitor status and 2027 capacity are unspecified.",
+        "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals must be confirmed. Self-funding alone does not establish eligibility.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "animesh.garg@gatech.edu"
+    },
+    {
+      "id": "yue-wang",
+      "name": "Yue Wang",
+      "aliases": [],
+      "school": "University of Southern California",
+      "homepage": "https://yuewang.xyz/",
+      "title": "Assistant Professor",
+      "department": "Thomas Lord Department of Computer Science",
+      "batch": "embodied-001",
+      "discoveredAt": "2026-09-30T21:22:22Z",
+      "verifiedAt": "2026-09-30T21:28:42Z",
+      "researchAreas": [
+        "Humanoid vision-language-action models",
+        "Dexterous manipulation",
+        "Robot data engines",
+        "Generative simulation"
+      ],
+      "fitReason": "PSI Lab’s Psi-0 (RSS 2026) directly links human-video pretraining to humanoid action learning and whole-body manipulation.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "Psi-0 reports real-world humanoid trials across navigation, carrying, pouring and cleanup; DexMulti also demonstrates manipulation with LEAP and Allegro hands.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "shortVisit": {
+        "status": "inquiry-only",
+        "summary": "Faculty homepage explicitly seeks visiting students and points internship candidates to a job post.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "scores": {
+        "fit": 40,
+        "physical": 25,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "Exact humanoid VLA and manipulation match.",
+        "physical": "Named humanoid tasks and physical dexterous hands.",
+        "shortVisit": "Explicit visitor/intern invitation, but unspecified duration and conditions.",
+        "freshness": "Multiple 2026 project and faculty sources."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "viterbi.usc.edu / source 1",
+          "url": "https://viterbi.usc.edu/directory/faculty/Wang/Yue",
+          "summary": "Current CS assistant professorship and public email.",
+          "verifiedAt": "2026-09-30T21:28:42Z"
+        },
+        {
+          "id": "s2",
+          "label": "yuewang.xyz / source 2",
+          "url": "https://yuewang.xyz/",
+          "summary": "Visiting-student invitation and 2026 research updates.",
+          "verifiedAt": "2026-09-30T21:28:42Z"
+        },
+        {
+          "id": "s3",
+          "label": "psi-lab.ai / source 3",
+          "url": "https://psi-lab.ai/Psi0/",
+          "summary": "RSS 2026 robot foundation model and real-world humanoid demonstrations.",
+          "verifiedAt": "2026-09-30T21:28:42Z"
+        },
+        {
+          "id": "s4",
+          "label": "dexmulti.github.io / source 4",
+          "url": "https://dexmulti.github.io/",
+          "summary": "IROS 2026 physical dexterous-hand demonstrations.",
+          "verifiedAt": "2026-09-30T21:28:42Z"
+        }
+      ],
+      "unknowns": [
+        "The general visiting-student invitation does not establish duration, funding, international visitor eligibility, or summer-2027 availability. USC REU listings are not treated as master’s eligibility.",
+        "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals must be confirmed. Self-funding alone does not establish eligibility.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "yue.w@usc.edu"
+    },
+    {
+      "id": "daniel-seita",
+      "name": "Daniel Seita",
+      "aliases": [],
+      "school": "University of Southern California",
+      "homepage": "https://danielseita.github.io/",
+      "title": "Assistant Professor",
+      "department": "Thomas Lord Department of Computer Science",
+      "batch": "embodied-001",
+      "discoveredAt": "2026-09-30T21:21:59Z",
+      "verifiedAt": "2026-09-30T21:28:42Z",
+      "researchAreas": [
+        "Robot manipulation",
+        "Imitation learning",
+        "Dexterous hands",
+        "Deformable objects",
+        "Foundation-model evaluation"
+      ],
+      "fitReason": "SLURM studies manipulation in messy real settings; 2026 DexMulti and CRAFT provide practical manipulation and data-generation entry points.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "DexMulti reports over 1,000 physical trials, including drawer/container tasks and cross-hand transfer between LEAP and Allegro.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "shortVisit": {
+        "status": "inquiry-only",
+        "summary": "SLURM accepts project-idea pitches (0.5–1 page) from external visitors but describes these as very rare and currently unfunded.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 5,
+        "freshness": 13
+      },
+      "scoreReasons": {
+        "fit": "Strong hands-on manipulation and learning fit.",
+        "physical": "Named robot hands with substantial real experiment evidence.",
+        "shortVisit": "Explicit external-visitor consideration but rare/unfunded and not duration-specific.",
+        "freshness": "2026 research; small freshness reduction for recruitment-page date anomaly."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "stevens-computing-ai.usc.edu / source 1",
+          "url": "https://stevens-computing-ai.usc.edu/directory/faculty/profile/?fname=Daniel&lname=Seita",
+          "summary": "Official assistant professor affiliation and contact.",
+          "verifiedAt": "2026-09-30T21:28:42Z"
+        },
+        {
+          "id": "s2",
+          "label": "slurm-lab-usc.github.io / source 2",
+          "url": "https://slurm-lab-usc.github.io/getting_involved/",
+          "summary": "External visitor pitch route, rarity and no current funding; displayed future-month update label.",
+          "verifiedAt": "2026-09-30T21:28:42Z"
+        },
+        {
+          "id": "s3",
+          "label": "slurm-lab-usc.github.io / source 3",
+          "url": "https://slurm-lab-usc.github.io/publications/",
+          "summary": "2026 manipulation/data-generation projects.",
+          "verifiedAt": "2026-09-30T21:28:42Z"
+        },
+        {
+          "id": "s4",
+          "label": "dexmulti.github.io / source 4",
+          "url": "https://dexmulti.github.io/",
+          "summary": "Named hardware and real-world manipulation trials.",
+          "verifiedAt": "2026-09-30T21:28:42Z"
+        }
+      ],
+      "unknowns": [
+        "Recruitment page labels its update October 2026 although checked September 30; treat recency cautiously and reconfirm. No eight-week or summer-2027 commitment stated.",
+        "The normal USC master’s/undergraduate form is distinct from external-visitor consideration.",
+        "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals must be confirmed. Self-funding alone does not establish eligibility.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "seita@usc.edu"
+    },
+    {
+      "id": "jesse-thomason",
+      "name": "Jesse Thomason",
+      "aliases": [],
+      "school": "Georgia Institute of Technology",
+      "homepage": "https://jessethomason.com/",
+      "title": "Associate Professor",
+      "department": "School of Interactive Computing",
+      "batch": "embodied-001",
+      "discoveredAt": "2026-09-30T21:21:59Z",
+      "verifiedAt": "2026-09-30T21:28:42Z",
+      "researchAreas": [
+        "Language grounding",
+        "Vision-language-action models",
+        "Robot policy evaluation",
+        "Embodied planning"
+      ],
+      "fitReason": "GLAMOR links language, perception and action; SAFECAST (August 2026) studies VLA failure detection under deployment shifts.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "SAFECAST reports evaluation with real-world DROID robot rollouts as well as LIBERO simulation. Faculty publication list separately tags several 2026 works as physical-robot research.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "No current external summer/master’s visitor pathway verified in reviewed faculty/lab sources.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ]
+      },
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "Strong VLA/language grounding and evaluation match.",
+        "physical": "Real robot data and experiments are verified in primary research; equipment and access following the August 2026 move remain unconfirmed.",
+        "shortVisit": "Unknown external visitor opening.",
+        "freshness": "August 2026 move and primary preprint with current university confirmation."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "ic.gatech.edu / source 1",
+          "url": "https://ic.gatech.edu/people/jesse-thomason",
+          "summary": "Current Georgia Tech title, department and public email.",
+          "verifiedAt": "2026-09-30T21:28:42Z"
+        },
+        {
+          "id": "s2",
+          "label": "jessethomason.com / source 2",
+          "url": "https://jessethomason.com/",
+          "summary": "August 2026 move and recent physical-robot/VLA publications.",
+          "verifiedAt": "2026-09-30T21:28:42Z"
+        },
+        {
+          "id": "s3",
+          "label": "arxiv.org / source 3",
+          "url": "https://arxiv.org/abs/2608.04246",
+          "summary": "Primary SAFECAST paper; real-world DROID evaluation.",
+          "verifiedAt": "2026-09-30T21:28:42Z"
+        }
+      ],
+      "unknowns": [
+        "Moved to Georgia Tech in August 2026; USC pages can be stale or refer to adjunct affiliation. No summer-visit inference from PhD recruitment or prior USC work.",
+        "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals must be confirmed. Self-funding alone does not establish eligibility.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "jthomason7@gatech.edu"
+    },
+    {
+      "id": "antonio-loquercio",
+      "name": "Antonio Loquercio",
+      "aliases": [],
+      "school": "University of Pennsylvania",
+      "homepage": "https://antonilo.github.io/",
+      "title": "Assistant Professor",
+      "department": "Electrical and Systems Engineering; courtesy Computer and Information Science",
+      "batch": "embodied-001",
+      "discoveredAt": "2026-09-30T21:24:15Z",
+      "verifiedAt": "2026-09-30T21:28:42Z",
+      "researchAreas": [
+        "Physical intelligence",
+        "Sim-to-real robot learning",
+        "World models",
+        "Agile autonomy",
+        "Learning manipulation from video"
+      ],
+      "fitReason": "End-to-end sensory-to-action learning and sim-to-real adaptation match robot-learning interests; HOP offers a manipulation-from-video angle.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "Agile Flight Emerges from Multi-Agent Competitive Racing (ICRA 2026) reports real-world flight and sim-to-real transfer; HOP is manipulation-prior learning, and is not used alone as hardware evidence.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "Reviewed recruiting text addresses PhD admissions and current Penn students, without an external short-visit invitation.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5"
+        ]
+      },
+      "scores": {
+        "fit": 36,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 14
+      },
+      "scoreReasons": {
+        "fit": "Strong robot-learning/sim-to-real fit, somewhat more aerial than manipulation.",
+        "physical": "Explicit real-world flight experiments.",
+        "shortVisit": "No external short-visit route verified.",
+        "freshness": "2026 primary research and lab news."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "ai.upenn.edu / source 1",
+          "url": "https://ai.upenn.edu/ideas-generative-ai-symposium",
+          "summary": "University profile confirms ESE appointment and CIS courtesy affiliation.",
+          "verifiedAt": "2026-09-30T21:28:42Z"
+        },
+        {
+          "id": "s2",
+          "label": "antonilo.github.io / source 2",
+          "url": "https://antonilo.github.io/",
+          "summary": "Current research, 2026 flight paper, 2025 HOP, recruiting scope.",
+          "verifiedAt": "2026-09-30T21:28:42Z"
+        },
+        {
+          "id": "s3",
+          "label": "antonilo.github.io / source 3",
+          "url": "https://antonilo.github.io/contact.html",
+          "summary": "Public institutional email.",
+          "verifiedAt": "2026-09-30T21:28:42Z"
+        },
+        {
+          "id": "s4",
+          "label": "arxiv.org / source 4",
+          "url": "https://arxiv.org/abs/2512.11781",
+          "summary": "Primary March 2026 revision documents physical racing experiments.",
+          "verifiedAt": "2026-09-30T21:28:42Z"
+        },
+        {
+          "id": "s5",
+          "label": "jirl-upenn.github.io / source 5",
+          "url": "https://jirl-upenn.github.io/",
+          "summary": "July 2026 agile-autonomy research funding update.",
+          "verifiedAt": "2026-09-30T21:28:42Z"
+        }
+      ],
+      "unknowns": [
+        "External master’s eligibility and eight-week feasibility unknown; do not use current-Penn interest form as proof of outside eligibility.",
+        "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals must be confirmed. Self-funding alone does not establish eligibility.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "aloque@seas.upenn.edu"
+    },
+    {
+      "id": "stefanos-nikolaidis",
+      "name": "Stefanos Nikolaidis",
+      "aliases": [],
+      "school": "University of Southern California",
+      "homepage": "https://stefanosnikolaidis.net/",
+      "title": "Associate Professor",
+      "department": "Thomas Lord Department of Computer Science",
+      "batch": "embodied-001",
+      "discoveredAt": "2026-09-30T21:21:59Z",
+      "verifiedAt": "2026-09-30T21:28:42Z",
+      "researchAreas": [
+        "Embodied AI robustness",
+        "Vision-language-action evaluation",
+        "Quality-diversity optimization",
+        "Human-robot collaboration"
+      ],
+      "fitReason": "Q-DIG (IROS 2026) offers a concrete VLA robustness project connecting generative instruction testing to physical robot policy improvement.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "Q-DIG evaluates a Gen-2 Kinova JACO arm with RealSense D435i cameras on can and sponge pushing and compares OpenVLA-OFT policies.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "Join page describes PhD/postdoc and current USC student routes; no external summer-master’s visitor pathway verified.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "scores": {
+        "fit": 35,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "Strong VLA evaluation and robustness fit.",
+        "physical": "Named real arm, cameras and manipulation tasks.",
+        "shortVisit": "Unknown summer external-visitor route.",
+        "freshness": "2026 project and current faculty/lab sources."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "stefanosnikolaidis.net / source 1",
+          "url": "https://stefanosnikolaidis.net/",
+          "summary": "Current tenured USC associate professorship and research focus; concurrent Waymo role.",
+          "verifiedAt": "2026-09-30T21:28:42Z"
+        },
+        {
+          "id": "s2",
+          "label": "icaros.usc.edu / source 2",
+          "url": "https://icaros.usc.edu/",
+          "summary": "USC lab affiliation and public email.",
+          "verifiedAt": "2026-09-30T21:28:42Z"
+        },
+        {
+          "id": "s3",
+          "label": "www.stefanosnikolaidis.net / source 3",
+          "url": "https://www.stefanosnikolaidis.net/join.html",
+          "summary": "Recruitment scope, with no external short-visit route.",
+          "verifiedAt": "2026-09-30T21:28:42Z"
+        },
+        {
+          "id": "s4",
+          "label": "qdigvla.github.io / source 4",
+          "url": "https://qdigvla.github.io/",
+          "summary": "IROS 2026 co-advised VLA robustness work and named real robot.",
+          "verifiedAt": "2026-09-30T21:28:42Z"
+        }
+      ],
+      "unknowns": [
+        "Public homepage also lists a Waymo role; actual summer supervision capacity must be checked. USC student and REU pathways do not establish eligibility for an external master’s visitor.",
+        "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals must be confirmed. Self-funding alone does not establish eligibility.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "nikolaid@usc.edu"
+    },
+    {
+      "id": "jean-oh",
+      "name": "Jean Oh",
+      "aliases": [],
+      "school": "Carnegie Mellon University",
+      "homepage": "https://www.cs.cmu.edu/~jeanoh/",
+      "title": "Associate Research Professor",
+      "department": "Robotics Institute",
+      "batch": "embodied-001",
+      "discoveredAt": "2026-09-30T21:24:15Z",
+      "verifiedAt": "2026-09-30T21:28:42Z",
+      "researchAreas": [
+        "Robot learning and planning",
+        "Contact-rich manipulation",
+        "Creative robotics",
+        "Physical AI"
+      ],
+      "fitReason": "BIG offers embodied learning/planning, including Spline-FRIDA’s learned robot brushstroke model and MOE-Hair’s contact-rich manipulation (2025).",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "MOE-Hair uses a tendon-driven soft manipulator, RGB-D force estimation and actual hair-care trials; Spline-FRIDA executes learned strokes on the FRIDA painting platform.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "Faculty page documents historical RISS summer supervision (2017–2019), but no present visitor opening or master’s eligibility was verified.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5"
+        ]
+      },
+      "scores": {
+        "fit": 33,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "scoreReasons": {
+        "fit": "Good physical learning/manipulation fit, more creative and soft-robotics oriented.",
+        "physical": "Concrete manipulation and painting platforms with physical experiments.",
+        "shortVisit": "Only historical precedent, not a current pathway.",
+        "freshness": "Current university directory plus relevant dated 2025 research; no dated 2026 research evidence is cited."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "www.cs.cmu.edu / source 1",
+          "url": "https://www.cs.cmu.edu/~jeanoh/",
+          "summary": "Current RI title and explicit contact; historical summer supervision.",
+          "verifiedAt": "2026-09-30T21:28:42Z"
+        },
+        {
+          "id": "s2",
+          "label": "www.csd.cs.cmu.edu / source 2",
+          "url": "https://www.csd.cs.cmu.edu/people/faculty/jean-oh",
+          "summary": "Current CMU faculty directory.",
+          "verifiedAt": "2026-09-30T21:28:42Z"
+        },
+        {
+          "id": "s3",
+          "label": "cmubig.github.io / source 3",
+          "url": "https://cmubig.github.io/research/",
+          "summary": "Selected 2025 robot learning and manipulation projects.",
+          "verifiedAt": "2026-09-30T21:28:42Z"
+        },
+        {
+          "id": "s4",
+          "label": "moehair.github.io / source 4",
+          "url": "https://moehair.github.io/",
+          "summary": "HRI 2025 physical soft-manipulator system and experiments.",
+          "verifiedAt": "2026-09-30T21:28:42Z"
+        },
+        {
+          "id": "s5",
+          "label": "arxiv.org / source 5",
+          "url": "https://arxiv.org/pdf/2412.00597",
+          "summary": "Spline-FRIDA primary paper, revised March 2025; real robot drawing and learned stroke dynamics.",
+          "verifiedAt": "2026-09-30T21:28:42Z"
+        }
+      ],
+      "unknowns": [
+        "Historical undergraduate summer supervision earns no current opportunity points. An eight-week master’s visit needs a separately confirmed route.",
+        "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals must be confirmed. Self-funding alone does not establish eligibility.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "jeanoh@cmu.edu"
     }
   ]
 }

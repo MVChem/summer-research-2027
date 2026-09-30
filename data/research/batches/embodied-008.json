@@ -1,0 +1,731 @@
+[
+  {
+    "id": "aniket-bera",
+    "name": "Aniket Bera",
+    "aliases": [],
+    "school": "Purdue University",
+    "homepage": "https://ideas.cs.purdue.edu/",
+    "title": "Associate Professor",
+    "department": "Computer Science",
+    "batch": "embodied-008",
+    "discoveredAt": "2026-09-30T22:18:52Z",
+    "verifiedAt": "2026-09-30T22:25:24Z",
+    "researchAreas": [
+      "Generative grasping",
+      "Vision-language-action models",
+      "Robot learning",
+      "Contact-rich manipulation",
+      "Human-aware planning"
+    ],
+    "fitReason": "IDEAS studies embodied perception, planning and manipulation. GraspMF (August2026) uses Lie-group-constrained MeanFlow for rapid generative grasping; current research also connects VLA/diffusion policies with geometric reasoning.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "GraspMF SectionV-F names the Franka Research3, Franka Hand and wrist-mounted Orbbec RGB-D camera; the real robot executes generated grasps on household mugs and a bowl.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Official university research-assistant notice welcomes strong BS/MS/PhD researchers and asks for a research statement, CV and transcripts. No explicit external visitor/intern status or short-term duration is stated; the faculty hiring page separately discusses admissions and current Purdue students.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct generative robot learning and contact-manipulation agenda.",
+      "physical": "Named2026 physical robot grasp execution.",
+      "shortVisit": "General RA invitation lacks explicit external intern/visitor pathway.",
+      "freshness": "August2026 project and current official appointment."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.cs.purdue.edu / source 1",
+        "url": "https://www.cs.purdue.edu/people/faculty/bera89.html",
+        "summary": "Official current associate professor, research scope and explicit email.",
+        "verifiedAt": "2026-09-30T22:25:24Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "ideas.cs.purdue.edu / source 2",
+        "url": "https://ideas.cs.purdue.edu/",
+        "summary": "Current university lab.",
+        "verifiedAt": "2026-09-30T22:25:24Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "www.cs.purdue.edu / source 3",
+        "url": "https://www.cs.purdue.edu/corporate/employment/ideaslab.html",
+        "summary": "Direct general BS/MS/PhD RA inquiry notice; external short-visit status unspecified.",
+        "verifiedAt": "2026-09-30T22:25:24Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "www.cs.purdue.edu / source 4",
+        "url": "https://www.cs.purdue.edu/homes/ab/about.html",
+        "summary": "Degree-admission and current-campus hiring guidance.",
+        "verifiedAt": "2026-09-30T22:25:24Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2608.26076v1",
+        "summary": "Primary GraspMF paper includes Bera and named FR3 grasping experiments.",
+        "verifiedAt": "2026-09-30T22:25:24Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "The general RA notice does not establish an external-master’s eight-week pathway. GraspMF is under review. The lab has government/industry collaborations; project-specific access conditions must be checked rather than inferred.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "ab@cs.purdue.edu"
+  },
+  {
+    "id": "michael-kaess",
+    "name": "Michael Kaess",
+    "aliases": [],
+    "school": "Carnegie Mellon University",
+    "homepage": "https://www.cs.cmu.edu/~kaess/",
+    "title": "Professor",
+    "department": "Robotics Institute, School of Computer Science",
+    "batch": "embodied-008",
+    "discoveredAt": "2026-09-30T22:18:52Z",
+    "verifiedAt": "2026-09-30T22:25:24Z",
+    "researchAreas": [
+      "Tactile dexterous learning",
+      "Multimodal perception",
+      "Sim-to-real policy distillation",
+      "Robot mapping"
+    ],
+    "fitReason": "PTLD (March2026) transfers privileged simulation-trained manipulation policies into tactile policies using physical demonstrations and representation distillation. This provides a direct dexterity project within the broader perception lab.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "PTLD uses a Xela-uSkin-instrumented Allegro hand mounted on Franka Panda. Full text and project page show real-world in-hand rotation/reorientation and tactile-data collection from executed policies.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current external master’s summer or short-term visitor intake verified. RPL lists a visiting student and prior visitors, which is hosting precedent only.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct tactile robot reinforcement-learning/distillation research.",
+      "physical": "Real tactile hand/arm experiments are verified in a multi-institution collaboration; current host-lab equipment access is unconfirmed.",
+      "shortVisit": "Visitor precedent only; current external summer intake unknown.",
+      "freshness": "March2026 experimental work and August2026 official faculty news."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.ri.cmu.edu / source 1",
+        "url": "https://www.ri.cmu.edu/ri-faculty/michael-kaess/",
+        "summary": "Official current full-professor appointment.",
+        "verifiedAt": "2026-09-30T22:25:24Z",
+        "retrieval": "indexed-primary-excerpt"
+      },
+      {
+        "id": "s2",
+        "label": "www.cs.cmu.edu / source 2",
+        "url": "https://www.cs.cmu.edu/~kaess/",
+        "summary": "Current professional email and research role.",
+        "verifiedAt": "2026-09-30T22:25:24Z",
+        "retrieval": "indexed-primary-excerpt"
+      },
+      {
+        "id": "s3",
+        "label": "rpl.ri.cmu.edu / source 3",
+        "url": "https://rpl.ri.cmu.edu/people/",
+        "summary": "Current/past visitor listings, not an advertised summer pathway.",
+        "verifiedAt": "2026-09-30T22:25:24Z",
+        "retrieval": "indexed-primary-excerpt"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2603.04531v1",
+        "summary": "Primary SectionV actual Allegro/Panda setup and SectionVI physical policy experiments.",
+        "verifiedAt": "2026-09-30T22:25:24Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "akashsharma02.github.io / source 5",
+        "url": "https://akashsharma02.github.io/ptld-website/",
+        "summary": "Physical policy demonstrations and method; affiliation superscripts not relied upon.",
+        "verifiedAt": "2026-09-30T22:25:24Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "www.cs.cmu.edu / source 6",
+        "url": "https://www.cs.cmu.edu/news/2026/kaess-cnr-fellow",
+        "summary": "August2026 current CMU professor news and one-year ONR fellowship.",
+        "verifiedAt": "2026-09-30T22:25:24Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "PTLD is a preprint and a multi-institution collaboration, so local equipment and project access need confirmation. The project website has inconsistent author-affiliation superscripts; current CMU affiliation is established by official CMU sources and the paper, not those superscripts. A one-year ONR fellowship announced August2026 makes2027 mentoring capacity worth checking; no absence or visitor ban is stated.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "kaess@cmu.edu"
+  },
+  {
+    "id": "yu-xiang",
+    "name": "Yu Xiang",
+    "aliases": [],
+    "school": "University of Texas at Dallas",
+    "homepage": "https://yuxng.github.io/",
+    "title": "Assistant Professor",
+    "department": "Computer Science",
+    "batch": "embodied-008",
+    "discoveredAt": "2026-09-30T22:21:22Z",
+    "verifiedAt": "2026-09-30T22:25:24Z",
+    "researchAreas": [
+      "Cross-embodiment manipulation",
+      "Human-demonstration transfer",
+      "Robot perception learning",
+      "Mobile manipulation"
+    ],
+    "fitReason": "HRT1 transfers one RGB-D human demonstration into a robot mobile-manipulation trajectory using learned perception and optimization. June2026 RL-MPC collaboration adds learned contact-intention reasoning for non-prehensile tasks.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "HRT1 full text evaluates a Fetch mobile manipulator across16 physical tasks. The2026 RL-MPC study independently verifies real Franka pushing, reorientation and environment-assisted repositioning.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current external master’s summer visitor route verified. An official article’s seven-week STEM Bridge summer program is explicitly for high-school students and cannot be used as master’s opportunity evidence.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong human-to-robot transfer, perception learning and contact RL fit.",
+      "physical": "Named physical mobile manipulator plus2026 Franka deployment.",
+      "shortVisit": "No external short-visit invitation verified; school camp is inapplicable.",
+      "freshness": "Current profile,2025 full-system study and2026 learned-contact collaboration."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "profiles.utdallas.edu / source 1",
+        "url": "https://profiles.utdallas.edu/index.php/yu.xiang",
+        "summary": "Official assistant professor role and current robotics agenda.",
+        "verifiedAt": "2026-09-30T22:25:24Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "yuxng.github.io / source 2",
+        "url": "https://yuxng.github.io/",
+        "summary": "Current research and personal faculty page.",
+        "verifiedAt": "2026-09-30T22:25:24Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "dox.utdallas.edu / source 3",
+        "url": "https://dox.utdallas.edu/syl155159",
+        "summary": "Official Fall2025 robotics syllabus explicitly gives professional email.",
+        "verifiedAt": "2026-09-30T22:25:24Z",
+        "retrieval": "indexed-primary-excerpt"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2510.21026v1",
+        "summary": "Primary Fetch experiments and explicit manual-verification/open-loop limitations.",
+        "verifiedAt": "2026-09-30T22:25:24Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2601.10930v3",
+        "summary": "Primary2026 RL-MPC authorship and real Franka experiments.",
+        "verifiedAt": "2026-09-30T22:25:24Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "cs.utdallas.edu / source 6",
+        "url": "https://cs.utdallas.edu/32466/empowering-robots-to-assist-humans-dr-yu-xiang-works-with-utd-students-and-summer-campers-to-advance-robots-autonomy/",
+        "summary": "Summer precedent expressly high-school scope, not master’s eligibility.",
+        "verifiedAt": "2026-09-30T22:25:24Z",
+        "retrieval": "indexed-primary-excerpt"
+      }
+    ],
+    "unknowns": [
+      "HRT1 is training-free trajectory transfer, not newly trained policy learning; experiments use manual object-pose verification and open-loop execution after planning. Lab main site and HRT1 project page failed retrieval, but the primary paper and university profile were readable.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "yu.xiang@utdallas.edu"
+  },
+  {
+    "id": "maxim-likhachev",
+    "name": "Maxim Likhachev",
+    "aliases": [],
+    "school": "Carnegie Mellon University",
+    "homepage": "https://www.cs.cmu.edu/~maxim/",
+    "title": "Professor",
+    "department": "Robotics Institute, School of Computer Science",
+    "batch": "embodied-008",
+    "discoveredAt": "2026-09-30T22:19:55Z",
+    "verifiedAt": "2026-09-30T22:25:24Z",
+    "researchAreas": [
+      "Policy execution planning",
+      "Multi-arm manipulation",
+      "Learning-guided search",
+      "Robot planning under uncertainty"
+    ],
+    "fitReason": "The July2026 multi-hand embodiment paper connects abstract manipulation trajectories to collision-free multi-arm execution through assignment and null-space search. The group also develops learning-informed real-time planning.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The2026 paper explicitly reports a physical three-arm setup performing cloth rotation, box flipping and planar pushing; implementation identifies Kinova Gen3 arms. Its450 benchmark problems are separately simulated.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current external short-term master’s visitor invitation verified from faculty and lab-linked sources. Past RISS mentoring is undergraduate precedent and is not a current master’s offer.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong manipulation/planning interface with learned policy execution, less direct policy learning.",
+      "physical": "Named physical multi-arm collaborative manipulation.",
+      "shortVisit": "No current external master’s short-visit route.",
+      "freshness": "July2026 primary study and current CMU role."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.ri.cmu.edu / source 1",
+        "url": "https://www.ri.cmu.edu/ri-faculty/maxim-likhachev/",
+        "summary": "Official current professor, department and public email.",
+        "verifiedAt": "2026-09-30T22:25:24Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "www.cs.cmu.edu / source 2",
+        "url": "https://www.cs.cmu.edu/~maxim/",
+        "summary": "Current2026 teaching and research/lab description.",
+        "verifiedAt": "2026-09-30T22:25:24Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2607.22020v1",
+        "summary": "Primary physical three-arm experiment and Kinova Gen3 implementation.",
+        "verifiedAt": "2026-09-30T22:25:24Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "multi-graph-search.github.io / source 4",
+        "url": "https://multi-graph-search.github.io/",
+        "summary": "Related2026 high-dimensional planning project.",
+        "verifiedAt": "2026-09-30T22:25:24Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "riss.ri.cmu.edu / source 5",
+        "url": "https://riss.ri.cmu.edu/meet-the-2022-ri-summer-scholars/",
+        "summary": "Historical summer mentoring only, not current visitor eligibility.",
+        "verifiedAt": "2026-09-30T22:25:24Z",
+        "retrieval": "indexed-primary-excerpt"
+      }
+    ],
+    "unknowns": [
+      "This project is search-based policy-execution infrastructure, not evidence that the hardware demonstration trained or deployed a new foundation model. It is a July2026 preprint. Summer capacity, appointment and eight-week project scope remain unknown.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "mlikhach@andrew.cmu.edu"
+  },
+  {
+    "id": "aaron-m-johnson",
+    "name": "Aaron M. Johnson",
+    "aliases": [],
+    "school": "Carnegie Mellon University",
+    "homepage": "https://www.cmu.edu/me/robomechanicslab/",
+    "title": "Professor",
+    "department": "Mechanical Engineering; courtesy Robotics Institute and Electrical and Computer Engineering",
+    "batch": "embodied-008",
+    "discoveredAt": "2026-09-30T22:19:00Z",
+    "verifiedAt": "2026-09-30T22:25:24Z",
+    "researchAreas": [
+      "Robot reinforcement learning",
+      "Humanoid loco-manipulation",
+      "Contact-rich planning",
+      "Physical robot interaction"
+    ],
+    "fitReason": "FARO (July2026) combines feasibility-aware motion optimization, LLM-guided contact-plan proposals and an RL-based tracking controller for humanoid loco-manipulation. Robomechanics also studies learned locomotion in challenging terrain.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "FARO explicitly shows optimized trajectories executed on a real humanoid robot with a pretrained RL tracker. The paper distinguishes physical executions from its broader search/optimization evaluation.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Fall2026 project document offers research projects to CMU master’s students, prioritizing MS-R slots. Existing visiting students appear on the lab people page, but no current external short-term master’s invitation is verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong learned locomotion and LLM/RL-guided physical contact planning.",
+      "physical": "The physical FARO humanoid execution is in a TUM collaboration during a visiting appointment; current CMU access is unconfirmed.",
+      "shortVisit": "Campus master’s projects and visitor precedent, no external short-visit invitation.",
+      "freshness": "July2026 project and Fall2026 current research document."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.cmu.edu / source 1",
+        "url": "https://engineering.cmu.edu/directory/bios/johnson-aaron.html",
+        "summary": "Official full professor role, courtesy appointments and professional email.",
+        "verifiedAt": "2026-09-30T22:25:24Z",
+        "retrieval": "indexed-primary-excerpt"
+      },
+      {
+        "id": "s2",
+        "label": "www.cmu.edu / source 2",
+        "url": "https://www.cmu.edu/me/robomechanicslab/",
+        "summary": "Current lab and Fall2026 project link.",
+        "verifiedAt": "2026-09-30T22:25:24Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "www.cmu.edu / source 3",
+        "url": "https://www.cmu.edu/me/robomechanicslab/RML_Projects_F2026.pdf",
+        "summary": "Campus master’s project instructions and priority; no explicit external visitor category.",
+        "verifiedAt": "2026-09-30T22:25:24Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "www.cmu.edu / source 4",
+        "url": "https://www.cmu.edu/me/robomechanicslab/people.html",
+        "summary": "Visiting-student precedent only.",
+        "verifiedAt": "2026-09-30T22:25:24Z",
+        "retrieval": "indexed-primary-excerpt"
+      },
+      {
+        "id": "s5",
+        "label": "www.andrew.cmu.edu / source 5",
+        "url": "https://www.andrew.cmu.edu/user/amj1/JohnsonAaronCV.pdf",
+        "summary": "Full professor since2025 and2025–2026 TUM visiting appointment.",
+        "verifiedAt": "2026-09-30T22:25:24Z",
+        "retrieval": "indexed-primary-excerpt"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2607.18362v1",
+        "summary": "Primary FARO real humanoid execution with RL controller and LLM-guided planning.",
+        "verifiedAt": "2026-09-30T22:25:24Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "CV lists a2025–2026 TUM visiting appointment; summer2027 location/capacity should be confirmed. FARO is a TUM collaboration and preprint; CMU access to that physical platform is not established. Current-CMU master’s project availability does not establish an external visitor route.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "amj1@andrew.cmu.edu"
+  },
+  {
+    "id": "jiaoyang-li",
+    "name": "Jiaoyang Li",
+    "aliases": [],
+    "school": "Carnegie Mellon University",
+    "homepage": "https://jiaoyangli.me/",
+    "title": "Assistant Professor",
+    "department": "Robotics Institute, School of Computer Science",
+    "batch": "embodied-008",
+    "discoveredAt": "2026-09-30T22:22:13Z",
+    "verifiedAt": "2026-09-30T22:25:24Z",
+    "researchAreas": [
+      "Multi-arm manipulation",
+      "Multi-robot AI planning",
+      "Policy execution",
+      "Learning-based coordination"
+    ],
+    "fitReason": "ARCS connects learned multi-robot coordination with planning and optimization. July2026 work grounds abstract multi-hand trajectories into feasible multi-arm motions; this is a focused manipulation-execution project within a broader coordination agenda.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The2026 coauthored paper explicitly demonstrates cloth rotation, box flipping and planar pushing on a physical three-arm Kinova Gen3 setup, separate from simulated benchmarks.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Faculty page directs prospective graduates to CMU admissions, current CMU students to email, and undergraduate summer applicants to RISS. No external master’s summer route is specified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 36,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong AI planning and manipulation-execution interface; broader emphasis multi-robot coordination.",
+      "physical": "A coauthored three-arm physical experiment is verified, distinct from simulation; own-lab hardware ownership and visitor access are unconfirmed.",
+      "shortVisit": "Published summer route undergraduate-only; external master’s route unknown.",
+      "freshness": "July2026 primary study and current official faculty record."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.ri.cmu.edu / source 1",
+        "url": "https://www.ri.cmu.edu/ri-faculty/jiaoyang-li/",
+        "summary": "Official current assistant professor, department and public email.",
+        "verifiedAt": "2026-09-30T22:25:24Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "jiaoyangli.me / source 2",
+        "url": "https://jiaoyangli.me/",
+        "summary": "Directly read research-opportunity categories and current research agenda.",
+        "verifiedAt": "2026-09-30T22:25:24Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2607.22020v1",
+        "summary": "Primary2026 physical three-arm study and authorship.",
+        "verifiedAt": "2026-09-30T22:25:24Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Do not mistake the ten-thousand-robot imitation-learning title for physical deployment of ten thousand robots. Cited physical evidence is the separate three-arm study. The study is a preprint and does not establish training of a new foundation policy on those arms.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "jiaoyanl@andrew.cmu.edu"
+  },
+  {
+    "id": "sebastian-scherer",
+    "name": "Sebastian Scherer",
+    "aliases": [],
+    "school": "Carnegie Mellon University",
+    "homepage": "https://theairlab.org/",
+    "title": "Research Professor",
+    "department": "Robotics Institute, School of Computer Science",
+    "batch": "embodied-008",
+    "discoveredAt": "2026-09-30T22:19:00Z",
+    "verifiedAt": "2026-09-30T22:25:24Z",
+    "researchAreas": [
+      "Embodied semantic navigation",
+      "Vision-language reasoning",
+      "Robot memory",
+      "Learning-based perception",
+      "Aerial robotics"
+    ],
+    "fitReason": "RAVEN (ICRA2026) combines persistent semantic spatial memory and adaptive search with vision-language cues for long-range object-goal navigation. AirLab’s2026 portfolio also includes temporal spatial memory and aerial-manipulation learning benchmarks.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "RAVEN’s primary full text reports physical outdoor aerial-robot tests finding a water tower and red building with onboard mapping/search. Crucially, the real-world experiment leaves onboard LVLM integration to future work; the full LVLM component was tested in simulation.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "AirLab openings list centrally admitted graduate students, current CMU students, and staff/postdocs. No external master’s eight-week summer pathway is explicitly offered.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 24,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong embodied memory/perception/navigation, lower manipulation emphasis.",
+      "physical": "Explicit autonomous aerial field trials; full LVLM pipeline not physically deployed.",
+      "shortVisit": "Only degree/current-campus/staff categories published.",
+      "freshness": "2026 project acceptance and current official appointment."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.ri.cmu.edu / source 1",
+        "url": "https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/",
+        "summary": "Official current research professor appointment and explicit email.",
+        "verifiedAt": "2026-09-30T22:25:24Z",
+        "retrieval": "indexed-primary-excerpt"
+      },
+      {
+        "id": "s2",
+        "label": "theairlab.org / source 2",
+        "url": "https://theairlab.org/",
+        "summary": "Current lab affiliation.",
+        "verifiedAt": "2026-09-30T22:25:24Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "theairlab.org / source 3",
+        "url": "https://theairlab.org/openings/",
+        "summary": "Directly read recruitment categories; no explicit external short visitor route.",
+        "verifiedAt": "2026-09-30T22:25:24Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "theairlab.org / source 4",
+        "url": "https://theairlab.org/research/",
+        "summary": "2026 memory/navigation and simulation-benchmark work.",
+        "verifiedAt": "2026-09-30T22:25:24Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "raven-semantic.github.io / source 5",
+        "url": "https://raven-semantic.github.io/",
+        "summary": "Primary project identifies ICRA2026 presentation and physical field evaluation.",
+        "verifiedAt": "2026-09-30T22:25:24Z",
+        "retrieval": "indexed-primary-excerpt"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2509.23563v1",
+        "summary": "Physical field tests and explicit exclusion of onboard LVLM from these trials.",
+        "verifiedAt": "2026-09-30T22:25:24Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Use research professor from the current official RI profile; the lab contact page retains older associate-research wording. Do not call AM-Bench a hardware demonstration or claim full onboard VLM reasoning in RAVEN field trials.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "basti@andrew.cmu.edu"
+  }
+]

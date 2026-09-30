@@ -24,6 +24,7 @@
     "batches/embodied-005.json",
     "batches/embodied-006.json",
     "batches/embodied-007.json",
+    "batches/embodied-008.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -3104,6 +3105,190 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-007.json",
       "detailPage": "batches/embodied-007.md#cagdas-d-onal"
+    },
+    {
+      "id": "aniket-bera",
+      "name": "Aniket Bera",
+      "aliases": [],
+      "school": "Purdue University",
+      "title": "Associate Professor",
+      "homepage": "https://ideas.cs.purdue.edu/",
+      "batch": "embodied-008",
+      "discoveredAt": "2026-09-30T22:18:52Z",
+      "verifiedAt": "2026-09-30T22:25:24Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Generative grasping",
+        "Vision-language-action models",
+        "Robot learning",
+        "Contact-rich manipulation",
+        "Human-aware planning"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-008.json",
+      "detailPage": "batches/embodied-008.md#aniket-bera"
+    },
+    {
+      "id": "michael-kaess",
+      "name": "Michael Kaess",
+      "aliases": [],
+      "school": "Carnegie Mellon University",
+      "title": "Professor",
+      "homepage": "https://www.cs.cmu.edu/~kaess/",
+      "batch": "embodied-008",
+      "discoveredAt": "2026-09-30T22:18:52Z",
+      "verifiedAt": "2026-09-30T22:25:24Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Tactile dexterous learning",
+        "Multimodal perception",
+        "Sim-to-real policy distillation",
+        "Robot mapping"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-008.json",
+      "detailPage": "batches/embodied-008.md#michael-kaess"
+    },
+    {
+      "id": "yu-xiang",
+      "name": "Yu Xiang",
+      "aliases": [],
+      "school": "University of Texas at Dallas",
+      "title": "Assistant Professor",
+      "homepage": "https://yuxng.github.io/",
+      "batch": "embodied-008",
+      "discoveredAt": "2026-09-30T22:21:22Z",
+      "verifiedAt": "2026-09-30T22:25:24Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Cross-embodiment manipulation",
+        "Human-demonstration transfer",
+        "Robot perception learning",
+        "Mobile manipulation"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-008.json",
+      "detailPage": "batches/embodied-008.md#yu-xiang"
+    },
+    {
+      "id": "maxim-likhachev",
+      "name": "Maxim Likhachev",
+      "aliases": [],
+      "school": "Carnegie Mellon University",
+      "title": "Professor",
+      "homepage": "https://www.cs.cmu.edu/~maxim/",
+      "batch": "embodied-008",
+      "discoveredAt": "2026-09-30T22:19:55Z",
+      "verifiedAt": "2026-09-30T22:25:24Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Policy execution planning",
+        "Multi-arm manipulation",
+        "Learning-guided search",
+        "Robot planning under uncertainty"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-008.json",
+      "detailPage": "batches/embodied-008.md#maxim-likhachev"
+    },
+    {
+      "id": "aaron-m-johnson",
+      "name": "Aaron M. Johnson",
+      "aliases": [],
+      "school": "Carnegie Mellon University",
+      "title": "Professor",
+      "homepage": "https://www.cmu.edu/me/robomechanicslab/",
+      "batch": "embodied-008",
+      "discoveredAt": "2026-09-30T22:19:00Z",
+      "verifiedAt": "2026-09-30T22:25:24Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Robot reinforcement learning",
+        "Humanoid loco-manipulation",
+        "Contact-rich planning",
+        "Physical robot interaction"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-008.json",
+      "detailPage": "batches/embodied-008.md#aaron-m-johnson"
+    },
+    {
+      "id": "jiaoyang-li",
+      "name": "Jiaoyang Li",
+      "aliases": [],
+      "school": "Carnegie Mellon University",
+      "title": "Assistant Professor",
+      "homepage": "https://jiaoyangli.me/",
+      "batch": "embodied-008",
+      "discoveredAt": "2026-09-30T22:22:13Z",
+      "verifiedAt": "2026-09-30T22:25:24Z",
+      "scores": {
+        "fit": 36,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Multi-arm manipulation",
+        "Multi-robot AI planning",
+        "Policy execution",
+        "Learning-based coordination"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-008.json",
+      "detailPage": "batches/embodied-008.md#jiaoyang-li"
+    },
+    {
+      "id": "sebastian-scherer",
+      "name": "Sebastian Scherer",
+      "aliases": [],
+      "school": "Carnegie Mellon University",
+      "title": "Research Professor",
+      "homepage": "https://theairlab.org/",
+      "batch": "embodied-008",
+      "discoveredAt": "2026-09-30T22:19:00Z",
+      "verifiedAt": "2026-09-30T22:25:24Z",
+      "scores": {
+        "fit": 37,
+        "physical": 24,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Embodied semantic navigation",
+        "Vision-language reasoning",
+        "Robot memory",
+        "Learning-based perception",
+        "Aerial robotics"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-008.json",
+      "detailPage": "batches/embodied-008.md#sebastian-scherer"
     },
     {
       "id": "henny-admoni",

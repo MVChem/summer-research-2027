@@ -3274,6 +3274,927 @@
         "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
       ],
       "publicEmail": "pavone@stanford.edu"
+    },
+    {
+      "id": "chien-ming-huang",
+      "name": "Chien-Ming Huang",
+      "aliases": [],
+      "school": "Johns Hopkins University",
+      "homepage": "https://www.cs.jhu.edu/faculty/chien-ming-huang/",
+      "title": "John C. Malone Associate Professor",
+      "department": "Computer Science",
+      "batch": "hri-002",
+      "discoveredAt": "2026-09-30T21:28:48Z",
+      "verifiedAt": "2026-09-30T21:35:06Z",
+      "researchAreas": [
+        "Human-robot teaming",
+        "Embodied conversational AI",
+        "Assistive robotics",
+        "Multimodal human behavior"
+      ],
+      "fitReason": "Strong CS/HRI fit for perception of human cues, conversational robot behavior and collaborative interfaces. A bounded robot-error detection or interaction-policy project could align well.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "ELLA (IDC 2026) is an autonomous generative-AI social robot tested through home design workshops and an eight-day home deployment. Earlier lab work also includes physical robot handovers and robot programming interfaces.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "The lab's joining page addresses JHU students and degree applicants. No external master's short-visit opening was found.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "scores": {
+        "fit": 37,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "direct human-aware embodied AI.",
+        "physical": "2026 physical home-robot deployment.",
+        "shortVisit": "visitor route unknown.",
+        "freshness": "explicit 2026 research plus current official profile."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "www.cs.jhu.edu / source 1",
+          "url": "https://www.cs.jhu.edu/faculty/chien-ming-huang/",
+          "summary": "Current title, affiliation, research and institutional email.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        },
+        {
+          "id": "s2",
+          "label": "www.cs.jhu.edu / source 2",
+          "url": "https://www.cs.jhu.edu/~cmhuang/",
+          "summary": "Dated 2025–2026 embodied-robot research.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        },
+        {
+          "id": "s3",
+          "label": "arxiv.org / source 3",
+          "url": "https://arxiv.org/abs/2603.12508",
+          "summary": "Primary 2026 ELLA paper describes autonomous robot home deployment.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        },
+        {
+          "id": "s4",
+          "label": "intuitivecomputing.github.io / source 4",
+          "url": "https://intuitivecomputing.github.io/join.html",
+          "summary": "Joining guidance is for JHU students and MS/PhD/MSE degree applications.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        }
+      ],
+      "unknowns": [
+        "An eight-week external master's appointment, supervision, funding or permitted personal funding, international eligibility and hardware access require host/institution confirmation.",
+        "Degree admissions and research-study participation are not visitor recruitment.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "chienming.huang@jhu.edu"
+    },
+    {
+      "id": "daniel-rakita",
+      "name": "Daniel Rakita",
+      "aliases": [
+        "Danny Rakita"
+      ],
+      "school": "Yale University",
+      "homepage": "https://engineering.yale.edu/research-and-faculty/faculty-directory/daniel-rakita",
+      "title": "Assistant Professor",
+      "department": "Computer Science",
+      "batch": "hri-002",
+      "discoveredAt": "2026-09-30T21:28:48Z",
+      "verifiedAt": "2026-09-30T21:35:06Z",
+      "researchAreas": [
+        "Robot learning",
+        "3D perception for manipulation",
+        "Shared-control manipulation",
+        "Real-time planning"
+      ],
+      "fitReason": "Excellent CS-facing fit spanning geometric visual representations, diffusion policies, shared autonomy and real-time robot manipulation. A scoped perception-to-action experiment is closely aligned with physical embodied AI.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "The 2026 version of hPGA-DP reports experiments on two seven-DOF xArm7 robots on linear actuators, one with a depth camera and one with a gripper, performing block stacking and drawer interaction.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "APOLLO's joining page lists PhD admissions and research for existing Yale undergraduates. No external master's summer placement was verified.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "direct robot-learning/3D-action fit.",
+        "physical": "concrete 2026 dual-arm experiments.",
+        "shortVisit": "compatible visit unverified.",
+        "freshness": "dated 2026 work and current university profile."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "engineering.yale.edu / source 1",
+          "url": "https://engineering.yale.edu/research-and-faculty/faculty-directory/daniel-rakita",
+          "summary": "Current appointment and shared-control manipulation research.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        },
+        {
+          "id": "s2",
+          "label": "dannyrakita.net / source 2",
+          "url": "https://dannyrakita.net/",
+          "summary": "Current research focus and 2026 publication news.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        },
+        {
+          "id": "s3",
+          "label": "arxiv.org / source 3",
+          "url": "https://arxiv.org/html/2507.05695v4",
+          "summary": "Section V-B details physical dual-xArm7 experiments and perception pipeline.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        },
+        {
+          "id": "s4",
+          "label": "apollo-lab-yale.github.io / source 4",
+          "url": "https://apollo-lab-yale.github.io/joining/",
+          "summary": "Only PhD admissions and existing Yale undergraduate research routes listed.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        }
+      ],
+      "unknowns": [
+        "An eight-week external master's appointment, supervision, funding or permitted personal funding, international eligibility and hardware access require host/institution confirmation.",
+        "Use full official name Daniel Rakita; Danny is an alias, not a second candidate.",
+        "A PhD recruiting page or undergraduate Yale position is not short-visit evidence.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "daniel.rakita@yale.edu"
+    },
+    {
+      "id": "pragathi-praveena",
+      "name": "Pragathi Praveena",
+      "aliases": [],
+      "school": "Carnegie Mellon University (current); George Mason University (announced January 2027)",
+      "homepage": "https://pragathipraveena.com/",
+      "title": "Postdoctoral Fellow; announced incoming Assistant Professor",
+      "department": "Robotics Institute (current); Information Sciences and Technology (announced GMU)",
+      "batch": "hri-002",
+      "discoveredAt": "2026-09-30T21:28:48Z",
+      "verifiedAt": "2026-09-30T21:35:06Z",
+      "researchAreas": [
+        "Human-robot collaboration",
+        "Robotic groupware",
+        "Shared-control camera systems",
+        "Embodied human-AI interaction"
+      ],
+      "fitReason": "Good fit for physically grounded human collaboration, shared control, robot teleoperation and multimodal interfaces. An incoming-lab lead may be useful for summer 2027, but establishing the lab and its hosting arrangements cannot be assumed.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "Periscope's primary research paper describes a camera mounted on a semi-autonomous robot arm, co-located with a worker, with shared camera control evaluated on collaborative assembly tasks. This is demonstrated prior work, not proof of GMU hardware readiness.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "The personal academic page announces a January 2027 GMU faculty start. It does not verify a summer internship or external visiting-master's pathway.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "scores": {
+        "fit": 35,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "scoreReasons": {
+        "fit": "strong human-centered robot collaboration.",
+        "physical": "concrete but 2023 prior physical work.",
+        "shortVisit": "no current visitor pathway.",
+        "freshness": "updated transition/CV but new host is future and current hardware unverified."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "pragathipraveena.com / source 1",
+          "url": "https://pragathipraveena.com/",
+          "summary": "Current CMU postdoc and explicit announced January 2027 GMU IST Assistant Professor start.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        },
+        {
+          "id": "s2",
+          "label": "risingstars-eecs.mit.edu / source 2",
+          "url": "https://risingstars-eecs.mit.edu/participants/pragathi-praveena/",
+          "summary": "Institutional corroboration of CMU role and Periscope research.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        },
+        {
+          "id": "s3",
+          "label": "publications.idiap.ch / source 3",
+          "url": "https://publications.idiap.ch/attachments/papers/2023/Praveena_PACMHCI_2023.pdf",
+          "summary": "Primary physical shared-camera robot-arm assembly experiments (2023).",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        },
+        {
+          "id": "s4",
+          "label": "pragathipraveena.com / source 4",
+          "url": "https://pragathipraveena.com/assets/files/praveena-cv.pdf",
+          "summary": "Academic CV includes 2026 service; no summer visitor offer inferred.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        }
+      ],
+      "unknowns": [
+        "An eight-week external master's appointment, supervision, funding or permitted personal funding, international eligibility and hardware access require host/institution confirmation.",
+        "Current affiliation remains CMU postdoc as of verification; GMU is an announced future appointment based on the researcher's own page.",
+        "Confirm GMU start, lab readiness and sponsoring authority before any placement inquiry.",
+        "No GMU institutional faculty announcement was found in this search pass.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "pragathi@cmu.edu"
+    },
+    {
+      "id": "david-porfirio",
+      "name": "David Porfirio",
+      "aliases": [],
+      "school": "George Mason University",
+      "homepage": "https://dporfirio.github.io/",
+      "title": "Assistant Professor",
+      "department": "Computer Science",
+      "batch": "hri-002",
+      "discoveredAt": "2026-09-30T21:28:48Z",
+      "verifiedAt": "2026-09-30T21:35:06Z",
+      "researchAreas": [
+        "End-user robot programming",
+        "Human-guided planning",
+        "Multimodal interfaces",
+        "Robot task representations"
+      ],
+      "fitReason": "Good CS-facing match for language/gesture-to-task interfaces, formal representations and user-guided robot planning. Best suited to a concrete robot-programming or grounded-planning project.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "The CHI 2021 Figaro paper explicitly describes deploying synthesized interactions on a physical Temi robot (and separately virtual Pepper). This verifies prior physical work; current ARI lab's NAO image is not treated as an independently verified hardware inventory.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "ARI has a joining page, but the retrieved page did not expose usable recruiting details. No external master's or summer 2027 visitor invitation was verified.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5"
+        ]
+      },
+      "scores": {
+        "fit": 35,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "strong grounded task-interface fit.",
+        "physical": "physical Temi prior work but dated 2021.",
+        "shortVisit": "visit unknown.",
+        "freshness": "dated 2026 lab activity and institutional corroboration."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "dporfirio.github.io / source 1",
+          "url": "https://dporfirio.github.io/",
+          "summary": "Current GMU CS title, email and robot-planning/programming focus.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        },
+        {
+          "id": "s2",
+          "label": "cahmp.gmu.edu / source 2",
+          "url": "https://cahmp.gmu.edu/group/core/",
+          "summary": "University-hosted 2026 core-faculty listing corroborates appointment.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        },
+        {
+          "id": "s3",
+          "label": "ari-lab-gmu.github.io / source 3",
+          "url": "https://ari-lab-gmu.github.io/",
+          "summary": "Lab founded in August 2025; dated 2026 research news.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        },
+        {
+          "id": "s4",
+          "label": "par.nsf.gov / source 4",
+          "url": "https://par.nsf.gov/servlets/purl/10320798",
+          "summary": "CHI 2021 primary paper §3.6 explicitly distinguishes physical Temi from virtual Pepper deployments.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        },
+        {
+          "id": "s5",
+          "label": "ari-lab-gmu.github.io / source 5",
+          "url": "https://ari-lab-gmu.github.io/join-us/",
+          "summary": "Joining page checked; no readable external short-visit details verified.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        }
+      ],
+      "unknowns": [
+        "An eight-week external master's appointment, supervision, funding or permitted personal funding, international eligibility and hardware access require host/institution confirmation.",
+        "Do not conflate the virtual Pepper evaluation with a physical Pepper deployment.",
+        "Physical evidence is historical; confirm the new GMU lab's actual available robot platforms.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "dporfiri@gmu.edu"
+    },
+    {
+      "id": "laura-stegner",
+      "name": "Laura Stegner",
+      "aliases": [],
+      "school": "George Washington University",
+      "homepage": "https://engineering.gwu.edu/laura-stegner",
+      "title": "Assistant Professor",
+      "department": "Mechanical and Aerospace Engineering",
+      "batch": "hri-002",
+      "discoveredAt": "2026-09-30T21:29:03Z",
+      "verifiedAt": "2026-09-30T21:35:06Z",
+      "researchAreas": [
+        "Assistive robotics",
+        "Human-robot interaction",
+        "End-user robot programming",
+        "Robot systems in care environments"
+      ],
+      "fitReason": "Good assistive/HRI fit, especially interfaces and complete robot systems designed with end users. A CS visitor should emphasize implementation, perception/planning integration or evaluation, given the group's design-heavy focus.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "The CHI 2023 Situated Participatory Design study used a physical Stretch RE1 mobile manipulator with RGB-D/laser sensing, an actuated arm, extra cameras and teleoperation in an assisted-living facility. The study was performed in 2022 at her prior institution.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "The current personal page invites prospective MS/PhD students to email research materials. This is generic degree/lab recruitment, not a verified external short-visit route.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ]
+      },
+      "scores": {
+        "fit": 33,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "scoreReasons": {
+        "fit": "relevant assistive systems but design/field emphasis.",
+        "physical": "concrete older Stretch field work.",
+        "shortVisit": "generic MS/PhD interest only.",
+        "freshness": "dated 2025 appointment, current official profile."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "engineering.gwu.edu / source 1",
+          "url": "https://engineering.gwu.edu/laura-stegner",
+          "summary": "University title, MAE department and care-robotics research.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        },
+        {
+          "id": "s2",
+          "label": "laurastegner.com / source 2",
+          "url": "https://laurastegner.com/",
+          "summary": "August 2025 faculty start, Hearth Lab direction, email and MS/PhD joining instructions.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        },
+        {
+          "id": "s3",
+          "label": "publications.idiap.ch / source 3",
+          "url": "https://publications.idiap.ch/attachments/papers/2023/Stegner_CHI_2023.pdf",
+          "summary": "Section4.2.4 identifies physical Stretch RE1 and field-study setup.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        }
+      ],
+      "unknowns": [
+        "An eight-week external master's appointment, supervision, funding or permitted personal funding, international eligibility and hardware access require host/institution confirmation.",
+        "Current primary department is MAE, not Computer Science.",
+        "Confirm new GW lab hardware and whether a short project can proceed without waiting for new human-study approvals.",
+        "Older Stretch field research does not establish current visitor access.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "laura.stegner@gwu.edu"
+    },
+    {
+      "id": "naomi-fitter",
+      "name": "Naomi Fitter",
+      "aliases": [],
+      "school": "Oregon State University",
+      "homepage": "https://osusharelab.com/people/",
+      "title": "Associate Professor",
+      "department": "Mechanical, Industrial, and Manufacturing Engineering; CoRIS",
+      "batch": "hri-002",
+      "discoveredAt": "2026-09-30T21:29:03Z",
+      "verifiedAt": "2026-09-30T21:35:06Z",
+      "researchAreas": [
+        "Socially assistive robotics",
+        "Social haptics",
+        "Embodied interaction",
+        "Robot behavior for wellness"
+      ],
+      "fitReason": "Good match for robot behavior, physical interaction and assistive systems, with opportunities for CS implementation and controlled HRI evaluation. More user-centered systems work than large-scale robot foundation models.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "Oregon State's 2026 robotics article identifies SAMI as a robot built and programmed by Fitter's team to assist older adults. Earlier documented systems include physical PR2/Baxter social-physical interaction and expressive telepresence robots.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "Public contact and team pages were checked; no external master's short-visit or summer 2027 invitation verified. Undergraduate summer experience reports would not prove eligibility.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5"
+        ]
+      },
+      "scores": {
+        "fit": 34,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "strong assistive/HRI systems fit.",
+        "physical": "recent physical SAMI system.",
+        "shortVisit": "compatible visitor opportunity unknown.",
+        "freshness": "dated 2026 university activity."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "osusharelab.com / source 1",
+          "url": "https://osusharelab.com/people/",
+          "summary": "Lab biography explicitly states Associate Professor effective fall 2024.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        },
+        {
+          "id": "s2",
+          "label": "engineering.oregonstate.edu / source 2",
+          "url": "https://engineering.oregonstate.edu/academics/discover-engineering/what-robotics-engineering",
+          "summary": "Recent official report identifies physical SAMI robot built/programmed for older-adult assistance.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        },
+        {
+          "id": "s3",
+          "label": "diversity.oregonstate.edu / source 3",
+          "url": "https://diversity.oregonstate.edu/state-inclusive-excellence/naomi-fitter",
+          "summary": "Dated 2026 institutional research and title corroboration.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        },
+        {
+          "id": "s4",
+          "label": "osusharelab.com / source 4",
+          "url": "https://osusharelab.com/contact/",
+          "summary": "Public professional contact, no visitor offer.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        },
+        {
+          "id": "s5",
+          "label": "engineering.oregonstate.edu / source 5",
+          "url": "https://engineering.oregonstate.edu/all-stories/naomi-fitter-wins-nsf-career-award",
+          "summary": "August 2025 account of robot nudging research and current team work.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        }
+      ],
+      "unknowns": [
+        "An eight-week external master's appointment, supervision, funding or permitted personal funding, international eligibility and hardware access require host/institution confirmation.",
+        "Current title is Associate Professor, effective fall 2024; the personal site's Assistant Professor label is stale.",
+        "Human-participant and care-setting access may require training or approvals; do not assume a clinical project fits eight weeks.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "naomi.fitter@oregonstate.edu"
+    },
+    {
+      "id": "sarah-sebo",
+      "name": "Sarah Sebo",
+      "aliases": [],
+      "school": "University of Kansas; continuing University of Chicago research affiliation",
+      "homepage": "https://eecs.ku.edu/people/sarah-sebo",
+      "title": "Assistant Professor",
+      "department": "Electrical Engineering and Computer Science (KU)",
+      "batch": "hri-002",
+      "discoveredAt": "2026-09-30T21:29:03Z",
+      "verifiedAt": "2026-09-30T21:35:06Z",
+      "researchAreas": [
+        "Social human-robot interaction",
+        "Robot teams",
+        "Embodied conversational AI",
+        "Adaptive social robot behavior"
+      ],
+      "fitReason": "Good fit for language-enabled physical robots and social team behavior. A compact programming/evaluation project may suit CS; manipulator learning is less central.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "UChicago's October 2025 lab report names Misty II and describes programming physical robots with verbal/nonverbal behavior, including an LLM-to-speech pipeline. Dated 2026 work studies robots in real classroom interactions.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "The lab offered an in-person 10-week UChicago research internship for summer 2026 with a February27 deadline, now past. It currently describes undergraduate/master's participation, but no external international master's summer 2027 eligibility or eight-week option was verified.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5"
+        ]
+      },
+      "scores": {
+        "fit": 34,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "strong social embodied AI.",
+        "physical": "recent physical robot and classroom evidence.",
+        "shortVisit": "only expired ten-week internship and degree/local routes.",
+        "freshness": "official 2026 move and research."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "eecs.ku.edu / source 1",
+          "url": "https://eecs.ku.edu/people/sarah-sebo",
+          "summary": "Current KU title, EECS affiliation and email.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        },
+        {
+          "id": "s2",
+          "label": "sebo-hri-lab.github.io / source 2",
+          "url": "https://sebo-hri-lab.github.io/index.html",
+          "summary": "Explicit summer 2026 KU move and split-campus arrangements through 2028.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        },
+        {
+          "id": "s3",
+          "label": "hri.cs.uchicago.edu / source 3",
+          "url": "https://hri.cs.uchicago.edu/pages/join-us.html",
+          "summary": "Past summer 2026 ten-week internship and undergraduate/master's joining routes.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        },
+        {
+          "id": "s4",
+          "label": "computerscience.uchicago.edu / source 4",
+          "url": "https://computerscience.uchicago.edu/news/sebo-lab-programming-robots-to-better-interact-with-humans/",
+          "summary": "October 2025 physical Misty II and LLM-based robot interaction.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        },
+        {
+          "id": "s5",
+          "label": "news.uchicago.edu / source 5",
+          "url": "https://news.uchicago.edu/story/teach-social-emotional-skills-does-robot-need-pretend-be-human",
+          "summary": "March 2026 classroom robot research.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        }
+      ],
+      "unknowns": [
+        "An eight-week external master's appointment, supervision, funding or permitted personal funding, international eligibility and hardware access require host/institution confirmation.",
+        "Sebo moved to KU in summer 2026; lab states activities continue at both KU and UChicago through 2028. Confirm intended host campus and on-site supervision.",
+        "Past internship was ten weeks, not an approximately eight-week stay; do not present it as a current opening.",
+        "KU PhD recruitment for fall 2027 is a separate degree route.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "sarah.sebo@ku.edu"
+    },
+    {
+      "id": "bradley-hayes",
+      "name": "Bradley Hayes",
+      "aliases": [],
+      "school": "University of Colorado Boulder",
+      "homepage": "https://www.colorado.edu/cs/bradley-hayes",
+      "title": "Associate Professor",
+      "department": "Computer Science",
+      "batch": "hri-002",
+      "discoveredAt": "2026-09-30T21:29:12Z",
+      "verifiedAt": "2026-09-30T21:35:06Z",
+      "researchAreas": [
+        "Human-robot collaboration",
+        "Learning from demonstration",
+        "Explainable robot AI",
+        "Assistive robot perception"
+      ],
+      "fitReason": "Strong technical HRI fit linking planning, learning, human behavior and robot perception. A narrowly scoped shared-autonomy, explanatory planning or real-world perception evaluation could align well.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "The primary ShelfHelp paper documents a real robotic cane with depth/odometry cameras and human-subject evaluation for object-retrieval guidance. ShelfAware adds real-world visual-inertial localization experiments in retail environments; it is not by itself proof of robot-arm actuation.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "CAIRO's joining page addresses current CU students and prospective PhD admissions. No external master's summer 2027 or short-visitor route verified.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5"
+        ]
+      },
+      "scores": {
+        "fit": 37,
+        "physical": 22,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "direct technical human-robot collaboration/perception.",
+        "physical": "older robotic cane plus 2026 physical sensor trials, limited actuator evidence.",
+        "shortVisit": "visit unknown.",
+        "freshness": "explicit 2026 research."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "www.colorado.edu / source 1",
+          "url": "https://www.colorado.edu/cs/bradley-hayes",
+          "summary": "Current associate professorship, email and human-robot-learning research.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        },
+        {
+          "id": "s2",
+          "label": "www.cairo-lab.com / source 2",
+          "url": "https://www.cairo-lab.com/",
+          "summary": "Dated 2026 lab activity and current scope.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        },
+        {
+          "id": "s3",
+          "label": "www.cairo-lab.com / source 3",
+          "url": "https://www.cairo-lab.com/papers/aamas23.pdf",
+          "summary": "Concrete camera-equipped robotic-cane setup and evaluation (2023).",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        },
+        {
+          "id": "s4",
+          "label": "www.cairo-lab.com / source 4",
+          "url": "https://www.cairo-lab.com/papers/ral26.pdf",
+          "summary": "2026 real-world visual-inertial semantic localization experiments.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        },
+        {
+          "id": "s5",
+          "label": "www.cairo-lab.com / source 5",
+          "url": "https://www.cairo-lab.com/join.html",
+          "summary": "Current CU student and PhD routes, not an external summer visitor offer.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        }
+      ],
+      "unknowns": [
+        "An eight-week external master's appointment, supervision, funding or permitted personal funding, international eligibility and hardware access require host/institution confirmation.",
+        "Some robotics-program pages have stale Assistant Professor titles; current CS profile and catalog say Associate Professor.",
+        "Assistive cane/sensor experiments establish physical grounding, but do not imply access to a manipulator project.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "bradley.hayes@colorado.edu"
+    },
+    {
+      "id": "alessandro-roncone",
+      "name": "Alessandro Roncone",
+      "aliases": [],
+      "school": "University of Colorado Boulder",
+      "homepage": "https://www.colorado.edu/cs/alessandro-roncone",
+      "title": "Associate Professor",
+      "department": "Computer Science",
+      "batch": "hri-002",
+      "discoveredAt": "2026-09-30T21:29:12Z",
+      "verifiedAt": "2026-09-30T21:35:06Z",
+      "researchAreas": [
+        "Embodied intelligence",
+        "Human-robot collaboration",
+        "Robot control and planning",
+        "Tactile/proximity sensing",
+        "Learning from human feedback"
+      ],
+      "fitReason": "Excellent technical fit for human-aware robot learning, planning and embodied sensing. Explicit C++/Python, ROS2 and learning/simulation skills on the lab page make a concrete systems contribution a plausible project pitch.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "The HIRO lab's current recruiting/equipment page names torque-controlled Franka Emika Panda manipulators and hands-on physical sensors/actuators; it describes sim-to-real as a core area. The university's June 2026 feature corroborates active robotics research.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "HIRO seeks master's researchers, but its instructions route prospective MS students to CU graduate admissions and current CU students to local research. No short-term external master's visitor opening was verified.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ]
+      },
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "direct embodied/control/HRI fit.",
+        "physical": "named current physical manipulator inventory.",
+        "shortVisit": "degree recruitment is not short-visit evidence.",
+        "freshness": "dated 2026 official research and current lab page."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "www.colorado.edu / source 1",
+          "url": "https://www.colorado.edu/cs/alessandro-roncone",
+          "summary": "Current associate title, email and HIRO research.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        },
+        {
+          "id": "s2",
+          "label": "hiro-group.ronc.one / source 2",
+          "url": "https://hiro-group.ronc.one/join_us.html",
+          "summary": "Franka Panda equipment, robot stack and explicit distinction between degree applicants/current CU students.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        },
+        {
+          "id": "s3",
+          "label": "www.colorado.edu / source 3",
+          "url": "https://www.colorado.edu/research/partnerships/2026/06/18/faculty-spotlight-alessandro-roncone-computer-science",
+          "summary": "Dated June 2026 institutional research activity.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        }
+      ],
+      "unknowns": [
+        "An eight-week external master's appointment, supervision, funding or permitted personal funding, international eligibility and hardware access require host/institution confirmation.",
+        "General master's recruiting does not imply a visiting-student or summer slot.",
+        "Confirm project-level access conditions rather than inferring restrictions or eligibility from lab funders.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "alessandro.roncone@colorado.edu"
+    },
+    {
+      "id": "tom-williams",
+      "name": "Tom Williams",
+      "aliases": [],
+      "school": "Colorado School of Mines",
+      "homepage": "https://www.mines.edu/about/faculty-directory/profiles/tom-williams.html",
+      "title": "Associate Professor",
+      "department": "Computer Science",
+      "batch": "hri-002",
+      "discoveredAt": "2026-09-30T21:30:51Z",
+      "verifiedAt": "2026-09-30T21:35:06Z",
+      "researchAreas": [
+        "Language-capable robots",
+        "Human-robot interaction",
+        "Robot cognitive architectures",
+        "Mixed-reality robot interfaces"
+      ],
+      "fitReason": "Good fit for physically grounded language interaction, multimodal communication and robot cognition. Recent lab direction includes substantial design/ethics work, so verify that a technical embodied-AI project is available.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "The lab documents physical Nao robot work and its 2026 publication list includes Data Chase, a robot-supported collaborative museum system. Historical Mines project documentation describes integrating a Kobuki Turtlebot2 into a natural-language robot architecture.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5",
+          "s6"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "Joining instructions describe current Mines undergraduate/graduate research and MS/PhD degree routes. No external master's short-visit opportunity was verified.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5",
+          "s6"
+        ]
+      },
+      "scores": {
+        "fit": 33,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "language-grounded HRI but current design-heavy focus.",
+        "physical": "physical platforms verified with older documentation, recent paper listing less detailed.",
+        "shortVisit": "visit unknown.",
+        "freshness": "explicit 2026 research."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "www.mines.edu / source 1",
+          "url": "https://www.mines.edu/about/faculty-directory/profiles/tom-williams.html",
+          "summary": "Current title, affiliation, email and language-capable robotics focus.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        },
+        {
+          "id": "s2",
+          "label": "mirrorlab.mines.edu / source 2",
+          "url": "https://mirrorlab.mines.edu/high-gear-2/",
+          "summary": "Physical Nao robot work documented by the lab.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        },
+        {
+          "id": "s3",
+          "label": "mirrorlab.mines.edu / source 3",
+          "url": "https://mirrorlab.mines.edu/publications/",
+          "summary": "Explicit 2026 robot research, including Data Chase.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        },
+        {
+          "id": "s4",
+          "label": "cs-courses.mines.edu / source 4",
+          "url": "https://cs-courses.mines.edu/csci370/FS2019S/FinalReport/CSMWilliams.pdf",
+          "summary": "Historical physical Turtlebot2 natural-language integration.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        },
+        {
+          "id": "s5",
+          "label": "mirrorlab.mines.edu / source 5",
+          "url": "https://mirrorlab.mines.edu/research/",
+          "summary": "Current research scope, with design/ethics emphasis.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        },
+        {
+          "id": "s6",
+          "label": "mirrorlab.mines.edu / source 6",
+          "url": "https://mirrorlab.mines.edu/contact/",
+          "summary": "Joining page limited to local-student and degree routes.",
+          "verifiedAt": "2026-09-30T21:35:06Z"
+        }
+      ],
+      "unknowns": [
+        "An eight-week external master's appointment, supervision, funding or permitted personal funding, international eligibility and hardware access require host/institution confirmation.",
+        "A local undergraduate research project or PhD invitation is not an external master's summer offer.",
+        "Confirm technical project focus and available physical platform rather than relying only on broad HRI fit.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "twilliams@mines.edu"
     }
   ]
 }

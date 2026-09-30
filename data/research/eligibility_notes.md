@@ -24,7 +24,7 @@ Tom Silver 的 [PRPL](https://prpl-group.com/) 明确邀请外校研究生就 VS
 
 来源：[Stanford Research Policy Handbook · VSR](https://doresearch.stanford.edu/policies/research-policy-handbook/non-faculty-research-appointments/visiting-student-researchers)、[Bechtel · J-1 funding requirements](https://bechtel.stanford.edu/departments/j-1-scholars/funding-requirements-j-1-scholars)
 
-费用提醒：Bechtel 当前 VSR 专表列 2026–27 最低每月 4,012 美元，未含 Cardinal Care；保险按季度计费，不按短期停留比例折算。该金额是已发布时期的要求，不能当成所有 2027 访问的最终报价。
+费用提醒（2026-09-30T21:44:40Z 复核）：2026–27 的每月财力要求为 4,012 美元，已包含生活费估算 2,500、VSR 注册费 1,418 和校园健康费 94 美元，未含 Cardinal Care。这是财力证明计算基准，不是全部要交给学校的账单；不要再把注册费重复叠加。保险按季度计费，不按短期停留比例折算。实际住房、机票、签证和相关院系费用另行核算；当前金额不是所有 2027 访问的最终报价。
 
 Allison Okamura 的 [CHARM 个人页](https://charm.stanford.edu/Main/AllisonOkamura) 有条件接受访客询问；关联 [CDR visitor appointments](https://centerfordesignresearch.stanford.edu/resources/visiting-appointments) 页面偏好 6–12 个月 VSR。若由 CDR 办理，需特别确认短期安排和额外费用。偏好不等于绝对禁止八周；页面 2025–26 费用不能直接作为 2027 报价。
 
@@ -33,6 +33,8 @@ Allison Okamura 的 [CHARM 个人页](https://charm.stanford.edu/Main/AllisonOka
 核查：2026-09-30T21:37:40Z。研究生 VSR 路径要求已持本科学位并在 UC 系统以外就读研究生；任期 30 天至一年，仅限线下。通常为个人或外部资金支持，不领取工资，可有主办方生活补助；服务、院系、签证和保险费用需逐项确认。满足学校身份条件仍不等于导师同意接收。
 
 来源：[Berkeley VSPA · Visiting Student Researchers](https://vspa.berkeley.edu/initiate/overview/visiting-student-researchers)
+
+费用复核（2026-09-30T21:49:05Z）：[VSPA University Services Fee](https://vspa.berkeley.edu/about/university-services-fee) 当前列 VSR 首年 1,000 美元，明确不按访问时长比例折算，且与院系、签证服务费分开。页面的 500 美元 summer internship 优惠属于特定获批项目，不用于普通暑期 VSR。实际付款责任由主办方确认，金额与资格在申请前复查。
 
 ## CMU · RISS 不作为硕士访问路径
 

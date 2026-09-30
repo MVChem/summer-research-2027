@@ -36,7 +36,8 @@
     "batches/hri-006.json",
     "batches/hri-007.json",
     "batches/hri-008.json",
-    "batches/hri-009.json"
+    "batches/hri-009.json",
+    "batches/hri-010.json"
   ],
   "candidates": [
     {
@@ -5344,6 +5345,58 @@
       "shortVisitStatus": "inquiry-only · 通常12–15周，8周未确认",
       "recordFile": "batches/hri-009.json",
       "detailPage": "batches/hri-009.md#matthew-r-walter"
+    },
+    {
+      "id": "xiaoli-zhang",
+      "name": "Xiaoli Zhang",
+      "aliases": [],
+      "school": "Colorado School of Mines",
+      "title": "Professor; Robotics Program Director",
+      "homepage": "https://mechanical.mines.edu/project/zhang-xiaoli/",
+      "batch": "hri-010",
+      "discoveredAt": "2026-09-30T22:41:07Z",
+      "verifiedAt": "2026-09-30T22:47:03Z",
+      "scores": {
+        "fit": 40,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Vision-language-action shared control",
+        "Human intent inference",
+        "Robot learning and manipulation",
+        "Reliable and data-efficient autonomy"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-010.json",
+      "detailPage": "batches/hri-010.md#xiaoli-zhang"
+    },
+    {
+      "id": "weitian-wang",
+      "name": "Weitian Wang",
+      "aliases": [],
+      "school": "Montclair State University",
+      "title": "Professor; Founder Director of Collaborative Robotics and Smart Systems Laboratory",
+      "homepage": "https://inside.montclair.edu/directory/weitian-wang",
+      "batch": "hri-010",
+      "discoveredAt": "2026-09-30T22:41:07Z",
+      "verifiedAt": "2026-09-30T22:47:03Z",
+      "scores": {
+        "fit": 39,
+        "physical": 24,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Robot learning from demonstration",
+        "Deep reinforcement learning for collaboration",
+        "Human intent understanding",
+        "Multimodal perception and human-robot teaming"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-010.json",
+      "detailPage": "batches/hri-010.md#weitian-wang"
     }
   ]
 }

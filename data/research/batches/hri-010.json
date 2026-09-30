@@ -1,0 +1,234 @@
+[
+  {
+    "id": "xiaoli-zhang",
+    "name": "Xiaoli Zhang",
+    "aliases": [],
+    "school": "Colorado School of Mines",
+    "homepage": "https://mechanical.mines.edu/project/zhang-xiaoli/",
+    "title": "Professor; Robotics Program Director",
+    "department": "Mechanical Engineering; Robotics Program",
+    "batch": "hri-010",
+    "discoveredAt": "2026-09-30T22:41:07Z",
+    "verifiedAt": "2026-09-30T22:47:03Z",
+    "researchAreas": [
+      "Vision-language-action shared control",
+      "Human intent inference",
+      "Robot learning and manipulation",
+      "Reliable and data-efficient autonomy"
+    ],
+    "fitReason": "Very strong CS/embodied-AI fit: current research combines VLM intent inference, VLA policy uncertainty and human authority allocation for physical manipulation. A focused model-calibration or shared-autonomy project is more relevant than the lab’s separate materials/manufacturing research.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The September 21, 2026 primary shared-control paper specifies a physical six-joint LeRobot SO-101, Joy-Con teleoperation and RGB cameras. It evaluates Moondream3/SmolVLA-based assistance in pick-and-place and stacking with 12 participants; 400 demonstrations train the models.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current lab-specific external-master’s summer or visitor invitation was verified. Mines does have an institutional unpaid Contingent Visiting Scholar category explicitly covering external graduate students, and its J-1 funding page permits personal/family funding. This is an administrative possibility only; no host, eight-week schedule, funding or summer 2027 place is confirmed.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 40,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "direct VLM/VLA, uncertainty and human-robot shared autonomy.",
+      "physical": "specific 2026 real-arm experiment.",
+      "shortVisit": "institution-level pathway but no lab invitation.",
+      "freshness": "September 2026 primary paper and verified 2026 promotion."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.mines.edu / source 1",
+        "url": "https://www.mines.edu/news/all-news/2026/25-mines-faculty-members-awarded-promotion-tenure.html",
+        "summary": "May 19, 2026 official promotion to Professor for academic year 2026–27.",
+        "verifiedAt": "2026-09-30T22:47:03Z"
+      },
+      {
+        "id": "s2",
+        "label": "catalog.mines.edu / source 2",
+        "url": "https://catalog.mines.edu/graduate/programs/interdisciplinaryprograms/robotics/",
+        "summary": "Current catalog names Robotics Program Director and lists her under Professors.",
+        "verifiedAt": "2026-09-30T22:47:03Z"
+      },
+      {
+        "id": "s3",
+        "label": "mechanical.mines.edu / source 3",
+        "url": "https://mechanical.mines.edu/project/zhang-xiaoli/",
+        "summary": "Official indexed department profile verifies research and email; full-page fetch returned 403; old rank superseded by promotion notice.",
+        "verifiedAt": "2026-09-30T22:47:03Z"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2609.25369v1",
+        "summary": "Primary full-text September 2026 study, Section IV, identifies SO-101 hardware, model training and human experiment; author affiliation/email confirm Mines.",
+        "verifiedAt": "2026-09-30T22:47:03Z"
+      },
+      {
+        "id": "s5",
+        "label": "engineering.buffalo.edu / source 5",
+        "url": "https://engineering.buffalo.edu/mechanical-aerospace/news-and-events/seminars.host.html/content/shared/engineering/mechanical-aerospace/modules/news-and-events/seminar/2026-seminars/spring/xiaoli-zhang.detail.html",
+        "summary": "January 22, 2026 official seminar describes data-efficient autonomy, manipulation, sim-to-real transfer and intent-driven control.",
+        "verifiedAt": "2026-09-30T22:47:03Z"
+      },
+      {
+        "id": "s6",
+        "label": "helpcenter.mines.edu / source 6",
+        "url": "https://helpcenter.mines.edu/TDClient/2657/maps/KB/Article/146738/Contingent-Connected-Appointments-How-To-Start-a-Job-Requisition-for-a-Contingent-Connected-Worker-t",
+        "summary": "Full public page read in cloud browser: unpaid visiting category explicitly includes external graduate students; host and international review required.",
+        "verifiedAt": "2026-09-30T22:47:03Z"
+      },
+      {
+        "id": "s7",
+        "label": "global.mines.edu / source 7",
+        "url": "https://global.mines.edu/international-scholar-services/application-procedures-for-j-1-exchange-visitors-and-their-host-departments/",
+        "summary": "Cloud-browser full-page/expanded sections: personal-family funds allowed, current $3,000/month minimum, 4–6 month recommended lead time and ISSS approval.",
+        "verifiedAt": "2026-09-30T22:47:03Z"
+      }
+    ],
+    "unknowns": [
+      "Official May 2026 promotion notice and 2026–27 catalog support Professor; older department/directory pages still say Associate Professor.",
+      "The lab site could not be fully read; lack of a verified invitation is not a claim that visits are prohibited.",
+      "Mines recommends initiating J-1 processing 4–6 months ahead. Current minimum support is $3,000/month; all 2027 amounts and requirements need rechecking.",
+      "The external-graduate appointment category does not by itself establish immigration eligibility, PI willingness, or eight-week approval. Formal HR, ISSS and export-control review is required.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "xlzhang@mines.edu"
+  },
+  {
+    "id": "weitian-wang",
+    "name": "Weitian Wang",
+    "aliases": [],
+    "school": "Montclair State University",
+    "homepage": "https://inside.montclair.edu/directory/weitian-wang",
+    "title": "Professor; Founder Director of Collaborative Robotics and Smart Systems Laboratory",
+    "department": "School of Computing; CRoSS Lab",
+    "batch": "hri-010",
+    "discoveredAt": "2026-09-30T22:41:07Z",
+    "verifiedAt": "2026-09-30T22:47:03Z",
+    "researchAreas": [
+      "Robot learning from demonstration",
+      "Deep reinforcement learning for collaboration",
+      "Human intent understanding",
+      "Multimodal perception and human-robot teaming"
+    ],
+    "fitReason": "Strong AI-method overlap with learning from demonstrations, deep Q-learning, natural-language robot teaching and multimodal human-intent inference in physical collaborative manipulation.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The official university record of his August 2025 DQN collaborative-learning paper reports real-world robot implementation and a user study. His coauthored ASME MCROS report specifies two UR10e arms on an all-terrain mobile base with multimodal sensors and actual application trials. The exact arm used in the separate DQN study was not verified from full paper text.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The full lab openings page advertises degree-seeking PhD positions beginning Spring/Fall 2025, not short visits. A 2024 university REU listing includes Wang but restricts eligibility to US citizens/permanent residents who are undergraduates; it is not suitable evidence for this external master’s profile. No lab-specific summer 2027 visitor opening or funding verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 24,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "direct embodied learning and physical collaboration.",
+      "physical": "recent real-world DQN study plus named lab hardware, but exact experimental platform not checked in full DQN paper.",
+      "shortVisit": "only degree/REU pathways verified.",
+      "freshness": "lab lists 2026 ICRA, speech-vision action planning and hand-tracking papers."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "inside.montclair.edu / source 1",
+        "url": "https://inside.montclair.edu/directory/weitian-wang",
+        "summary": "Full official directory confirms Professor, School of Computing, CRoSS directorship and email.",
+        "verifiedAt": "2026-09-30T22:47:03Z"
+      },
+      {
+        "id": "s2",
+        "label": "www.raiserobot.com / source 2",
+        "url": "https://www.raiserobot.com/research",
+        "summary": "Full lab research page describes demonstration learning, language instructions, human intent and collaborative manufacturing.",
+        "verifiedAt": "2026-09-30T22:47:03Z"
+      },
+      {
+        "id": "s3",
+        "label": "www.raiserobot.com / source 3",
+        "url": "https://www.raiserobot.com/publications",
+        "summary": "Full lab list includes 2026 robotics papers and 2025 real-world DQN collaboration.",
+        "verifiedAt": "2026-09-30T22:47:03Z"
+      },
+      {
+        "id": "s4",
+        "label": "researchwith.montclair.edu / source 4",
+        "url": "https://researchwith.montclair.edu/en/publications/development-and-evaluation-of-a-deep-q-network-based-robot-learni/",
+        "summary": "Official 2025 paper abstract and authorship: real-world collaborative robot validation and user study; DOI 10.1109/CASE58245.2025.11164081.",
+        "verifiedAt": "2026-09-30T22:47:03Z"
+      },
+      {
+        "id": "s5",
+        "label": "imece.secure-platform.com / source 5",
+        "url": "https://imece.secure-platform.com/a/solicitations/236/sessiongallery/18145/application/150367",
+        "summary": "Primary ASME MCROS report coauthored by Wang specifies two UR10e arms, mobile base and physical application trials; author bio separately identifies Husky/Franka equipment.",
+        "verifiedAt": "2026-09-30T22:47:03Z"
+      },
+      {
+        "id": "s6",
+        "label": "www.raiserobot.com / source 6",
+        "url": "https://www.raiserobot.com/openings",
+        "summary": "Full page advertises Spring/Fall 2025 PhD degree positions only.",
+        "verifiedAt": "2026-09-30T22:47:03Z"
+      },
+      {
+        "id": "s7",
+        "label": "msuweb.montclair.edu / source 7",
+        "url": "https://msuweb.montclair.edu/~samanthulab/reu/",
+        "summary": "Full 2024 university REU page lists Wang; its US citizenship/permanent residency and undergraduate requirements do not support this master’s profile.",
+        "verifiedAt": "2026-09-30T22:47:03Z"
+      }
+    ],
+    "unknowns": [
+      "Current official directory and biography both say Professor; older university research-profile text still says Assistant Professor.",
+      "Do not treat funded PhD advertisements as short-visit funding.",
+      "The cited REU route is undergraduate- and citizenship/residency-restricted; no eligibility under that route is established.",
+      "External graduate appointment, eight-week duration, immigration support and permission for self-funding all remain unverified.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "wangw@montclair.edu"
+  }
+]

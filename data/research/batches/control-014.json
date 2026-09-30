@@ -1,0 +1,133 @@
+[
+  {
+    "id": "jiefeng-sun",
+    "name": "Jiefeng Sun",
+    "aliases": [],
+    "school": "Arizona State University",
+    "homepage": "https://sunrobotics.lab.asu.edu/",
+    "title": "Assistant Professor",
+    "department": "Aerospace and Mechanical Engineering, School for Engineering of Matter, Transport and Energy",
+    "batch": "control-014",
+    "discoveredAt": "2026-09-30T23:18:10Z",
+    "verifiedAt": "2026-09-30T23:20:06Z",
+    "researchAreas": [
+      "data-driven robot dynamics and control",
+      "physics-informed Koopman learning",
+      "soft continuum manipulation",
+      "artificial-muscle robotics",
+      "model predictive control"
+    ],
+    "fitReason": "Concrete learned-dynamics control on physical soft robots, with current summer-intern inquiries welcomed. Stronger in data-efficient control and hardware integration than foundation models or end-to-end reinforcement learning.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "September 2, 2026 preprint reports learned Koopman/MPC shape control on actual three- and five-segment cable-driven arms, using Dynamixel actuators, OptiTrack and ROS 2. Ten-segment results are simulation only. References are predefined and external motion capture is required. Separate 2026 RA-L work demonstrates physics-informed Koopman control of an artificial-muscle continuum robot; ASU news identifies the corresponding student-led hardware in Sun's current Tempe lab.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "Current lab Openings page explicitly welcomes visiting scholars and summer research interns to email Sun about available opportunities. The same page says no expected Fall 2027 PhD opening, under its separate PhD heading. Local ASU master's thesis recruitment and dated December 2025 SURI advertising do not establish an external summer 2027 funded place.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "scores": {
+      "fit": 34,
+      "physical": 25,
+      "shortVisit": 10,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct learning-based robot control, though narrower control/materials emphasis than general embodied AI or RL.",
+      "physical": "Current student-led hardware connected to the ASU lab, actual multi-segment control experiments and separate artificial-muscle learning controller.",
+      "shortVisit": "Explicit current summer-intern inquiry invitation; no specified eight-week duration or confirmed external-master's place.",
+      "freshness": "September 2026 primary manuscript plus 2026 RA-L article and dated current-lab news."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "search.asu.edu / source 1",
+        "url": "https://search.asu.edu/profile/4837211",
+        "summary": "Official current Assistant Professor affiliation in aerospace/mechanical engineering at ASU, Tempe; linked lab.",
+        "verifiedAt": "2026-09-30T23:20:06Z",
+        "retrieval": "direct official/author HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "sunrobotics.lab.asu.edu / source 2",
+        "url": "https://sunrobotics.lab.asu.edu/Openings/",
+        "summary": "Explicit summer-intern/visiting-scholar inquiry invitation and public email; separate Fall 2027 PhD closure. Internal master's section must not be generalized.",
+        "verifiedAt": "2026-09-30T23:20:06Z",
+        "retrieval": "direct official/author HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "sunrobotics.lab.asu.edu / source 3",
+        "url": "https://sunrobotics.lab.asu.edu/",
+        "summary": "March 3, 2026 current-lab RA-L control news; March 20 NVIDIA grant for learning-based locomotion is prospective work. December 2025 SURI announcement is historical.",
+        "verifiedAt": "2026-09-30T23:20:06Z",
+        "retrieval": "direct official/author HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/abs/2609.03175",
+        "summary": "September 2, 2026 submission, Sun corresponding-author mark in linked manuscript, submitted to TRO.",
+        "verifiedAt": "2026-09-30T23:20:06Z",
+        "retrieval": "direct official/author HTML via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2609.03175v1",
+        "summary": "Sections V and VI-C establish real three/five-segment control and its laboratory/planning limitations; Section IV distinguishes simulation.",
+        "verifiedAt": "2026-09-30T23:20:06Z",
+        "retrieval": "direct official/author HTML via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "asu.elsevierpure.com / source 6",
+        "url": "https://asu.elsevierpure.com/en/publications/data-efficient-real-time-control-of-an-artificial-muscle-driven-c/",
+        "summary": "ASU publication record verifies 2026 RA-L learning-based continuum-robot experiments, authorship and DOI 10.1109/LRA.2026.3668444.",
+        "verifiedAt": "2026-09-30T23:20:06Z",
+        "retrieval": "direct official/author HTML via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "news.asu.edu / source 7",
+        "url": "https://news.asu.edu/20260401-science-and-technology-giving-robots-more-muscle-can-help-them-lose-weight",
+        "summary": "April 1, 2026 university news locates Jiahe Wang and Eric Weissman's actual soft-arm/actuator work in Sun's Tempe lab.",
+        "verifiedAt": "2026-09-30T23:20:06Z",
+        "retrieval": "direct official/author HTML via web.run"
+      },
+      {
+        "id": "s8",
+        "label": "github.com / source 8",
+        "url": "https://github.com/sunroboticslab/PIKO-Continuum-Robot-MPC-2026RAL",
+        "summary": "Lab implementation includes Koopman training and ROS 2 hardware communication for the 2026 RA-L work.",
+        "verifiedAt": "2026-09-30T23:20:06Z",
+        "retrieval": "direct official/author HTML via web.run"
+      }
+    ],
+    "unknowns": [
+      "Visitor duration, external-master's eligibility, 2027 capacity, project and funding remain unconfirmed. Follow the separate ASU feasibility note and obtain the actual institutional appointment; personal funding does not bypass approval. The September 2026 work is submitted to TRO, not verified accepted. Current locomotion learning support is a project direction, not proof of an already deployed learned quadruped policy.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "jiefeng.sun@asu.edu"
+  }
+]

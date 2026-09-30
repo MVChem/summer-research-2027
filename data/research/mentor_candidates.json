@@ -22,6 +22,7 @@
     "batches/control-011.json",
     "batches/control-012.json",
     "batches/control-013.json",
+    "batches/control-014.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -1867,6 +1868,33 @@
       "shortVisitStatus": "inquiry-only",
       "recordFile": "batches/control-013.json",
       "detailPage": "batches/control-013.md#neel-p-bhatt"
+    },
+    {
+      "id": "jiefeng-sun",
+      "name": "Jiefeng Sun",
+      "aliases": [],
+      "school": "Arizona State University",
+      "title": "Assistant Professor",
+      "homepage": "https://sunrobotics.lab.asu.edu/",
+      "batch": "control-014",
+      "discoveredAt": "2026-09-30T23:18:10Z",
+      "verifiedAt": "2026-09-30T23:20:06Z",
+      "scores": {
+        "fit": 34,
+        "physical": 25,
+        "shortVisit": 10,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "data-driven robot dynamics and control",
+        "physics-informed Koopman learning",
+        "soft continuum manipulation",
+        "artificial-muscle robotics",
+        "model predictive control"
+      ],
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/control-014.json",
+      "detailPage": "batches/control-014.md#jiefeng-sun"
     },
     {
       "id": "tom-silver",

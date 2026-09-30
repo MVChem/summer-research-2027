@@ -7466,6 +7466,830 @@
         "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
       ],
       "publicEmail": "rayyeh@purdue.edu"
+    },
+    {
+      "id": "changliu-liu",
+      "name": "Changliu Liu",
+      "aliases": [],
+      "school": "Carnegie Mellon University",
+      "homepage": "https://www.ri.cmu.edu/ri-faculty/changliu-liu/",
+      "title": "Associate Professor",
+      "department": "Robotics Institute",
+      "batch": "control-004",
+      "discoveredAt": "2026-09-30T21:42:09Z",
+      "verifiedAt": "2026-09-30T21:47:35Z",
+      "researchAreas": [
+        "safe reinforcement learning",
+        "robot learning",
+        "humanoid control",
+        "human-robot collaboration"
+      ],
+      "fitReason": "Strong match for safety-constrained learning, humanoid skills, and learned manipulation with physical validation.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "The current ICL inventory includes Unitree G1 and Go2, Kinova Gen3, industrial arms, and bimanual platforms. The research statement reports hardware learning for assembly and sim-to-real RL for locomotion.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "shortVisit": {
+        "status": "inquiry-only",
+        "summary": "The current lab homepage explicitly invites prospective students and visitors to complete a joining form. Duration and external-student eligibility details are unspecified; the form itself could not be inspected with the research tool.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 8,
+        "freshness": 14
+      },
+      "scoreReasons": {
+        "fit": "Direct safe-learning/control and physical robot-learning match.",
+        "physical": "Named own-lab hardware plus explicit real-world learning demonstrations.",
+        "shortVisit": "Current explicit visitor inquiry route; duration and eligibility unconfirmed.",
+        "freshness": "Current official appointment and lab updates dated 2026, with current equipment inventory."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "www.ri.cmu.edu / source 1",
+          "url": "https://www.ri.cmu.edu/ri-faculty/changliu-liu/",
+          "summary": "Current official Associate Professor title and public email.",
+          "verifiedAt": "2026-09-30T21:47:35Z"
+        },
+        {
+          "id": "s2",
+          "label": "icontrol.ri.cmu.edu / source 2",
+          "url": "https://icontrol.ri.cmu.edu/",
+          "summary": "Explicit prospective-student/visitor form invitation; dated May and April 2026 lab updates.",
+          "verifiedAt": "2026-09-30T21:47:35Z"
+        },
+        {
+          "id": "s3",
+          "label": "icontrol.ri.cmu.edu / source 3",
+          "url": "https://icontrol.ri.cmu.edu/robots.html",
+          "summary": "Named current lab robot inventory including humanoid, quadruped, and manipulation hardware.",
+          "verifiedAt": "2026-09-30T21:47:35Z"
+        },
+        {
+          "id": "s4",
+          "label": "icontrol.ri.cmu.edu / source 4",
+          "url": "https://icontrol.ri.cmu.edu/research/statement.html",
+          "summary": "Safe RL, hardware learning, sim-to-real locomotion, and Kinova co-assembly examples.",
+          "verifiedAt": "2026-09-30T21:47:35Z"
+        }
+      ],
+      "unknowns": [
+        "No eight-week commitment, funding terms, or international visitor eligibility verified. Host/institution approval required before treating the inquiry route as feasible.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "cliu6@andrew.cmu.edu"
+    },
+    {
+      "id": "anushri-dixit",
+      "name": "Anushri Dixit",
+      "aliases": [],
+      "school": "University of California, Los Angeles",
+      "homepage": "https://samueli.ucla.edu/people/anushri-dixit/",
+      "title": "Assistant Professor",
+      "department": "Mechanical and Aerospace Engineering",
+      "batch": "control-004",
+      "discoveredAt": "2026-09-30T21:41:52Z",
+      "verifiedAt": "2026-09-30T21:47:35Z",
+      "researchAreas": [
+        "risk-aware reinforcement learning",
+        "safe autonomy",
+        "uncertainty quantification",
+        "learned perception"
+      ],
+      "fitReason": "Direct fit for reliable learning-based robot autonomy, including risk-aware locomotion and uncertainty-aware perception.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "Risk-Aware Reinforcement Learning with Bandit-Based Adaptation for Quadrupedal Locomotion reports risk-conditioned RL and online bandit adaptation on a real Unitree Go2 in unknown terrain; the lab lists ICRA 2026 acceptance.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "The contact page describes PhD applications and research inquiries from current UCLA undergraduate/master's students. No external short-visit invitation was verified.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 14
+      },
+      "scoreReasons": {
+        "fit": "Direct risk-aware RL and uncertainty-aware robotics.",
+        "physical": "Own-lab coauthored real quadruped learning deployment.",
+        "shortVisit": "No current explicit external visitor route found.",
+        "freshness": "2026 lab research updates and acceptance, current official faculty page."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "samueli.ucla.edu / source 1",
+          "url": "https://samueli.ucla.edu/people/anushri-dixit/",
+          "summary": "Official UCLA appointment and public email.",
+          "verifiedAt": "2026-09-30T21:47:35Z"
+        },
+        {
+          "id": "s2",
+          "label": "practice-lab-ucla.github.io / source 2",
+          "url": "https://practice-lab-ucla.github.io/",
+          "summary": "2026 research news and ICRA 2026 acceptance.",
+          "verifiedAt": "2026-09-30T21:47:35Z"
+        },
+        {
+          "id": "s3",
+          "label": "arxiv.org / source 3",
+          "url": "https://arxiv.org/pdf/2510.14338",
+          "summary": "Dixit-coauthored risk-aware RL paper with Unitree Go2 physical experiments.",
+          "verifiedAt": "2026-09-30T21:47:35Z"
+        },
+        {
+          "id": "s4",
+          "label": "practice-lab-ucla.github.io / source 4",
+          "url": "https://practice-lab-ucla.github.io/contact/",
+          "summary": "PhD and current-UCLA student routes, without explicit external visiting-student pathway.",
+          "verifiedAt": "2026-09-30T21:47:35Z"
+        }
+      ],
+      "unknowns": [
+        "Current-UCLA project instructions do not establish eligibility for external visitors. Duration, funding, and international visitor rules need confirmation.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "anushridixit@ucla.edu"
+    },
+    {
+      "id": "yorie-nakahira",
+      "name": "Yorie Nakahira",
+      "aliases": [],
+      "school": "Carnegie Mellon University",
+      "homepage": "https://users.ece.cmu.edu/~ynakahir/",
+      "title": "Associate Professor",
+      "department": "Electrical and Computer Engineering",
+      "batch": "control-004",
+      "discoveredAt": "2026-09-30T21:41:52Z",
+      "verifiedAt": "2026-09-30T21:47:35Z",
+      "researchAreas": [
+        "safe learning and control",
+        "probabilistic safety",
+        "language-guided control",
+        "physical AI"
+      ],
+      "fitReason": "Strong safe-control and learning foundation, with current language-guided safety and humanoid VLA research.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "The September 2026 faculty-maintained site states that the group develops and deploys vision-language-action models on humanoid robots through the Fujitsu-CMU Physical AI center. No named platform or independently inspected deployment paper was verified here.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "The joining page offers CMU PhD/postdoc and current-CMU undergraduate/master's routes. Its separate NII opportunities are in Japan. No external CMU short-visit route was verified.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ]
+      },
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "Direct safe learning, uncertainty, and language-guided control match.",
+        "physical": "Current primary-source deployment claim, but platform and experiment details not independently inspected.",
+        "shortVisit": "No explicit external US short-visit route.",
+        "freshness": "Faculty page explicitly updated September 2026 and lists multiple 2026 papers."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "www.ece.cmu.edu / source 1",
+          "url": "https://www.ece.cmu.edu/directory/bios/nakahira-yorie.html",
+          "summary": "Current official Associate Professor appointment.",
+          "verifiedAt": "2026-09-30T21:47:35Z"
+        },
+        {
+          "id": "s2",
+          "label": "users.ece.cmu.edu / source 2",
+          "url": "https://users.ece.cmu.edu/~ynakahir/",
+          "summary": "Last updated September 2026; public email, 2026 safe-learning papers, and explicit humanoid VLA deployment description.",
+          "verifiedAt": "2026-09-30T21:47:35Z"
+        },
+        {
+          "id": "s3",
+          "label": "users.ece.cmu.edu / source 3",
+          "url": "https://users.ece.cmu.edu/~ynakahir/join.html",
+          "summary": "CMU degree/postdoc/current-student routes and separate Japan NII route.",
+          "verifiedAt": "2026-09-30T21:47:35Z"
+        }
+      ],
+      "unknowns": [
+        "Do not conflate Japan NII recruitment with a US visit. Degree recruitment and current-student research are not visiting admissions.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "yorie@cmu.edu"
+    },
+    {
+      "id": "michael-m-zavlanos",
+      "name": "Michael M. Zavlanos",
+      "aliases": [],
+      "school": "Duke University",
+      "homepage": "https://www.michaelmzavlanos.org/",
+      "title": "Professor",
+      "department": "Mechanical Engineering and Materials Science; secondary ECE and Computer Science",
+      "batch": "control-004",
+      "discoveredAt": "2026-09-30T21:41:52Z",
+      "verifiedAt": "2026-09-30T21:47:35Z",
+      "researchAreas": [
+        "robot learning",
+        "multi-agent autonomy",
+        "control and optimization",
+        "LLM-guided reinforcement learning"
+      ],
+      "fitReason": "Robot-learning and multi-agent-control fit, including preference-driven RL, perception transfer, and distributed autonomous systems.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "The coauthored LAPP paper (2025), Section 5.4, deploys LLM-preference-trained RL policies on a physical Unitree Go2 for gait selection and stair climbing. Perception Stitching (2024) also reports real manipulation. These are collaborative publications, not confirmation of present sole-lab equipment.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "Current public faculty/lab pages provide contact information but no verified external short-visit invitation.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 12
+      },
+      "scoreReasons": {
+        "fit": "Direct robot RL plus distributed autonomy, with broader health-AI activity.",
+        "physical": "Clear real quadruped experiment in collaborative research; present sole-lab equipment is not confirmed.",
+        "shortVisit": "No explicit short-visit pathway found.",
+        "freshness": "Current official pages, January 2026 activity, and 2025 robot-learning publication."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "robotics.duke.edu / source 1",
+          "url": "https://robotics.duke.edu/faculty/michael-zavlanos",
+          "summary": "Official Duke faculty and robotics research affiliation.",
+          "verifiedAt": "2026-09-30T21:47:35Z"
+        },
+        {
+          "id": "s2",
+          "label": "www.michaelmzavlanos.org / source 2",
+          "url": "https://www.michaelmzavlanos.org/",
+          "summary": "Professor title, public email, current research focus, and January 2026 activity.",
+          "verifiedAt": "2026-09-30T21:47:35Z"
+        },
+        {
+          "id": "s3",
+          "label": "arxiv.org / source 3",
+          "url": "https://arxiv.org/html/2504.15472v1",
+          "summary": "LAPP authorship and Section 5.4 Unitree Go2 real-world experiments.",
+          "verifiedAt": "2026-09-30T21:47:35Z"
+        },
+        {
+          "id": "s4",
+          "label": "arxiv.org / source 4",
+          "url": "https://arxiv.org/html/2406.19971v2",
+          "summary": "Perception Stitching coauthorship and real-world Reach/Push/Lift/Stack experiments.",
+          "verifiedAt": "2026-09-30T21:47:35Z"
+        }
+      ],
+      "unknowns": [
+        "Current work spans robotics and health AI, and the PI also lists an Amazon Scholar role. Specific on-site summer mentoring availability must be confirmed.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "michael.zavlanos@duke.edu"
+    },
+    {
+      "id": "ioannis-yiannis-kantaros",
+      "name": "Ioannis (Yiannis) Kantaros",
+      "aliases": [],
+      "school": "Washington University in St. Louis",
+      "homepage": "https://aprc.wustl.edu/faculty/Yiannis-Kantaros.html",
+      "title": "Assistant Professor",
+      "department": "Electrical and Systems Engineering",
+      "batch": "control-004",
+      "discoveredAt": "2026-09-30T21:42:18Z",
+      "verifiedAt": "2026-09-30T21:47:35Z",
+      "researchAreas": [
+        "safe autonomy",
+        "multi-robot planning",
+        "formal methods",
+        "uncertainty-aware perception"
+      ],
+      "fitReason": "Strong match for reliable AI-enabled robot teams, semantic planning, and formal guarantees under perception uncertainty.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "The February 2026 accepted RA-L paper Safe Planning in Unknown Environments Using Conformalized Semantic Maps includes hardware experiments with a Clearpath Jackal, RealSense D455, and Detectron2 segmentation, separate from its Gazebo Husky simulations.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "Official faculty and indexed lab pages verify research/contact but did not establish a current external short-visit invitation. The lab homepage could not be fully retrieved.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ]
+      },
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 14
+      },
+      "scoreReasons": {
+        "fit": "Direct safe AI-enabled autonomy and semantic planning fit.",
+        "physical": "Real Jackal experiments are verified in coauthored research, distinct from simulation; present host-lab ownership is not established.",
+        "shortVisit": "No explicit current visitor invitation verified.",
+        "freshness": "Official current faculty record and accepted 2026 hardware paper."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "aprc.wustl.edu / source 1",
+          "url": "https://aprc.wustl.edu/faculty/Yiannis-Kantaros.html",
+          "summary": "Current official Assistant Professor title, email, and AI-enabled multi-robot research.",
+          "verifiedAt": "2026-09-30T21:47:35Z"
+        },
+        {
+          "id": "s2",
+          "label": "sites.wustl.edu / source 2",
+          "url": "https://sites.wustl.edu/kantaroslab/",
+          "summary": "Indexed official lab description supports safe, robust AI-enabled autonomy; full fetch unavailable.",
+          "verifiedAt": "2026-09-30T21:47:35Z"
+        },
+        {
+          "id": "s3",
+          "label": "existentialrobotics.org / source 3",
+          "url": "https://existentialrobotics.org/ref/Sundarsingh_ConformalizedMapPlanning_RAL26.pdf",
+          "summary": "Accepted February 3, 2026; Section V-E explicitly describes physical Jackal experiments.",
+          "verifiedAt": "2026-09-30T21:47:35Z"
+        }
+      ],
+      "unknowns": [
+        "Institutional visiting-learner rules do not establish a lab opening. Timing, funding, duration, and international eligibility remain unconfirmed.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "ioannisk@wustl.edu"
+    },
+    {
+      "id": "guannan-qu",
+      "name": "Guannan Qu",
+      "aliases": [],
+      "school": "Carnegie Mellon University",
+      "homepage": "https://www.guannanqu.com/",
+      "title": "Associate Professor",
+      "department": "Electrical and Computer Engineering",
+      "batch": "control-004",
+      "discoveredAt": "2026-09-30T21:42:09Z",
+      "verifiedAt": "2026-09-30T21:47:35Z",
+      "researchAreas": [
+        "learning-based control",
+        "distributed reinforcement learning",
+        "robot locomotion",
+        "generative AI safety"
+      ],
+      "fitReason": "Learning/control and distributed-RL foundation with a concrete real-robot sampling-based control collaboration; current research also emphasizes generative AI.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "DIAL-MPC, coauthored with Guannan Qu, reports full-order sampling control and physical quadruped jumping with payload. It is training-free diffusion-style optimization, not an RL-trained diffusion policy; current own-lab hardware is unverified.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "Current official and personal research pages did not establish an explicit external short-visit route.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "scores": {
+        "fit": 35,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 13
+      },
+      "scoreReasons": {
+        "fit": "Strong learning/control, somewhat broader current AI direction.",
+        "physical": "Specific physical locomotion in coauthored 2024/ICRA2025 work; own hardware unverified.",
+        "shortVisit": "No explicit short-visit route.",
+        "freshness": "Current official appointment and 2026 research, but physical source older."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "engineering.cmu.edu / source 1",
+          "url": "https://engineering.cmu.edu/directory/bios/qu-guannan.html",
+          "summary": "Official current Associate Professor appointment and public email.",
+          "verifiedAt": "2026-09-30T21:47:35Z"
+        },
+        {
+          "id": "s2",
+          "label": "www.guannanqu.com / source 2",
+          "url": "https://www.guannanqu.com/",
+          "summary": "Current research and contact context.",
+          "verifiedAt": "2026-09-30T21:47:35Z"
+        },
+        {
+          "id": "s3",
+          "label": "www.guannanqu.com / source 3",
+          "url": "https://www.guannanqu.com/research/",
+          "summary": "Recent generative-AI and robot-control research, including 2026 work.",
+          "verifiedAt": "2026-09-30T21:47:35Z"
+        },
+        {
+          "id": "s4",
+          "label": "arxiv.org / source 4",
+          "url": "https://arxiv.org/abs/2409.15610",
+          "summary": "DIAL-MPC authorship, training-free method, and physical quadruped control.",
+          "verifiedAt": "2026-09-30T21:47:35Z"
+        }
+      ],
+      "unknowns": [
+        "Confirm whether a proposed project is physical robot control rather than the group's newer non-robotics generative-AI work. No summer visitor eligibility or funding terms verified.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "gqu@andrew.cmu.edu"
+    },
+    {
+      "id": "na-lina-li",
+      "name": "Na (Lina) Li",
+      "aliases": [],
+      "school": "Harvard University",
+      "homepage": "https://nali.seas.harvard.edu/",
+      "title": "Winokur Family Professor of Electrical Engineering and Applied Mathematics",
+      "department": "School of Engineering and Applied Sciences",
+      "batch": "control-004",
+      "discoveredAt": "2026-09-30T21:42:18Z",
+      "verifiedAt": "2026-09-30T21:47:35Z",
+      "researchAreas": [
+        "reinforcement learning",
+        "learning and control",
+        "imitation learning",
+        "multi-agent systems"
+      ],
+      "fitReason": "Strong model-based/model-free learning-control fit, including representations for physical robot imitation and scalable multi-agent learning.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "The 2025 coauthored Offline Imitation Learning upon Arbitrary Demonstrations paper reports real-quadruped imitation using dynamics representations pre-trained in simulation. The separately publicized September 2026 RLE-Bench is simulation-based and is not counted as hardware deployment.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "Homepage invites students and postdocs and directs prospective students to degree applications; no external short-visit invitation verified.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ]
+      },
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "Direct RL and representation-based control with robotics applications.",
+        "physical": "Coauthored 2025 real-quadruped imitation is verified; current host-lab hardware remains unconfirmed.",
+        "shortVisit": "Only degree/postdoc recruitment, not short visitors.",
+        "freshness": "September 2026 official research article and current faculty-maintained updates."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "nali.seas.harvard.edu / source 1",
+          "url": "https://nali.seas.harvard.edu/",
+          "summary": "Current endowed professor title, learning-control scope, July 2026 physical-AI keynote, and admissions instructions.",
+          "verifiedAt": "2026-09-30T21:47:35Z"
+        },
+        {
+          "id": "s2",
+          "label": "www.merl.com / source 2",
+          "url": "https://www.merl.com/publications/docs/TR2025-147.pdf",
+          "summary": "Primary October 2025 technical report, Na Li authorship/contact, and real-quadruped imitation experiments.",
+          "verifiedAt": "2026-09-30T21:47:35Z"
+        },
+        {
+          "id": "s3",
+          "label": "seas.harvard.edu / source 3",
+          "url": "https://seas.harvard.edu/news/can-your-ai-engineer-robot",
+          "summary": "September 17, 2026 Harvard research report about RLE-Bench; explicitly simulation-based.",
+          "verifiedAt": "2026-09-30T21:47:35Z"
+        }
+      ],
+      "unknowns": [
+        "Generic student recruitment is not visiting admission. Project availability, funding, appointment rules, and eight-week feasibility remain unconfirmed.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "nali@seas.harvard.edu"
+    },
+    {
+      "id": "nora-ayanian",
+      "name": "Nora Ayanian",
+      "aliases": [],
+      "school": "Brown University",
+      "homepage": "https://engineering.brown.edu/people/nora-ayanian",
+      "title": "Associate Professor",
+      "department": "Engineering and Computer Science",
+      "batch": "control-004",
+      "discoveredAt": "2026-09-30T21:42:18Z",
+      "verifiedAt": "2026-09-30T21:47:35Z",
+      "researchAreas": [
+        "multi-robot coordination",
+        "aerial robotics",
+        "AI for robot teams",
+        "heterogeneous autonomy"
+      ],
+      "fitReason": "Strong physical multi-agent autonomy fit, with coordination algorithms that enable non-experts to direct resilient robot teams.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "Brown's official research coverage describes UAV-team control and AI/ML for adaptive robot collaboration. Brown's 2023 summer-research symposium documents Crazyflie multi-agent pathfinding work; the 2025 faculty UTRA list includes hands-on drone development. These show physical research history, not a current external opening.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "The verified summer project is a historical Brown undergraduate UTRA project, not an external graduate visitor invitation. No current external short-visit route verified.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "scores": {
+        "fit": 35,
+        "physical": 19,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "scoreReasons": {
+        "fit": "Direct physical multi-agent systems and AI-enabled coordination.",
+        "physical": "Physical drone work documented, but hardware evidence is older and some is project-based.",
+        "shortVisit": "Past internal undergraduate program only.",
+        "freshness": "Current official appointment, with substantive physical sources from 2023–2025."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "engineering.brown.edu / source 1",
+          "url": "https://engineering.brown.edu/people/nora-ayanian",
+          "summary": "Current Brown Associate Professor title and public email.",
+          "verifiedAt": "2026-09-30T21:47:35Z"
+        },
+        {
+          "id": "s2",
+          "label": "engineering.brown.edu / source 2",
+          "url": "https://engineering.brown.edu/news/2024-03-04/ayanian-sxsw-conference",
+          "summary": "Official research description of UAV-team control and adaptive AI/ML collaboration.",
+          "verifiedAt": "2026-09-30T21:47:35Z"
+        },
+        {
+          "id": "s3",
+          "label": "utra.brown.edu / source 3",
+          "url": "https://utra.brown.edu/sites/default/files/symposium/2023-Summer-UTRA-Symposium-Pamphlet.pdf",
+          "summary": "Historical physical Crazyflie multi-agent pathfinding project.",
+          "verifiedAt": "2026-09-30T21:47:35Z"
+        },
+        {
+          "id": "s4",
+          "label": "utra.brown.edu / source 4",
+          "url": "https://utra.brown.edu/sites/default/files/Summer%202025%20Faculty%20UTRA%20Opportunities%20updated%201%2021%2025.pdf",
+          "summary": "Historical Brown undergraduate drone development and diagnosis project; not a current external visitor route.",
+          "verifiedAt": "2026-09-30T21:47:35Z"
+        }
+      ],
+      "unknowns": [
+        "Current institution is Brown, not older USC affiliation. Past UTRA projects do not imply external eligibility, current availability, or 2027 funding.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "Nora_Ayanian@brown.edu"
+    },
+    {
+      "id": "vasileios-tzoumas",
+      "name": "Vasileios Tzoumas",
+      "aliases": [],
+      "school": "University of Michigan",
+      "homepage": "https://vasileiostzoumas.com/",
+      "title": "Assistant Professor",
+      "department": "Aerospace Engineering",
+      "batch": "control-004",
+      "discoveredAt": "2026-09-30T21:42:18Z",
+      "verifiedAt": "2026-09-30T21:47:35Z",
+      "researchAreas": [
+        "multi-robot coordination",
+        "online learning",
+        "resource-aware autonomy",
+        "aerial robotics"
+      ],
+      "fitReason": "Good control/online-learning and physical autonomy fit, especially distributed decision-making and resource-aware robot teams.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "MorphQuad (July 2026) reports a real morphable quadrotor with onboard autonomy, valve turning, contact tasks, and disturbance recovery. This is hardware/control co-design, not an RL demonstration; online-learning and multi-agent work supplies the AI connection separately.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "Prospective-student instructions concern graduate admissions or current Michigan master's/undergraduate projects and internships. No external short-visit invitation verified.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "scores": {
+        "fit": 35,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "Direct physical autonomy and multi-agent online learning; hardware paper itself is control-centric.",
+        "physical": "Recent named own-lab physical aerial robot and onboard task demonstrations.",
+        "shortVisit": "No explicit external visitor route.",
+        "freshness": "July 2026 hardware paper and September 2026 lab news."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "aero.engin.umich.edu / source 1",
+          "url": "https://aero.engin.umich.edu/people/tzoumas-vasileios/",
+          "summary": "Official Michigan Assistant Professor appointment.",
+          "verifiedAt": "2026-09-30T21:47:35Z"
+        },
+        {
+          "id": "s2",
+          "label": "vasileiostzoumas.com / source 2",
+          "url": "https://vasileiostzoumas.com/",
+          "summary": "Public email, online-learning/control research, and September 2026 multi-robot and hardware updates.",
+          "verifiedAt": "2026-09-30T21:47:35Z"
+        },
+        {
+          "id": "s3",
+          "label": "arxiv.org / source 3",
+          "url": "https://arxiv.org/abs/2607.02764",
+          "summary": "MorphQuad physical aerial manipulation/control demonstrations; submitted July 2026.",
+          "verifiedAt": "2026-09-30T21:47:35Z"
+        },
+        {
+          "id": "s4",
+          "label": "vasileiostzoumas.com / source 4",
+          "url": "https://vasileiostzoumas.com/students/",
+          "summary": "Degree-admission and current-Michigan research routes rather than external short-term invitation.",
+          "verifiedAt": "2026-09-30T21:47:35Z"
+        }
+      ],
+      "unknowns": [
+        "Current-student internships do not establish external visitor eligibility. No 2027 duration, funding, or on-site mentoring commitment verified.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "vtzoumas@umich.edu"
+    },
+    {
+      "id": "francesco-borrelli",
+      "name": "Francesco Borrelli",
+      "aliases": [],
+      "school": "University of California, Berkeley",
+      "homepage": "https://me.berkeley.edu/people/francesco-borrelli/",
+      "title": "Professor; FANUC Chair in Mechanical Systems",
+      "department": "Mechanical Engineering",
+      "batch": "control-004",
+      "discoveredAt": "2026-09-30T21:42:36Z",
+      "verifiedAt": "2026-09-30T21:47:35Z",
+      "researchAreas": [
+        "learning model predictive control",
+        "model-based AI",
+        "autonomous racing",
+        "safe control"
+      ],
+      "fitReason": "Strong learning-based predictive-control fit for autonomous vehicles and robotics, including learned dynamics, constraints, and safe sets.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "The Berkeley learning-MPC project page links physical BARC, Hyundai Genesis, and Indy Dallara track tests. Its 2024 ICRA work adds error-dynamics regression for autonomous racing. Physical evidence is established but the inspected hardware source is older than 2026.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "Official faculty and accessible project pages did not verify an explicit current external short-visit invitation. The main MPC lab site could not be retrieved.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ]
+      },
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 5
+      },
+      "scoreReasons": {
+        "fit": "Direct learned predictive control and model-based physical AI.",
+        "physical": "Multiple explicit hardware test platforms, but inspected sources older and current equipment unverified.",
+        "shortVisit": "No explicit current short-visit route verified.",
+        "freshness": "Current faculty role is verified; specifically inspected dated technical evidence reaches 2024, with no cited 2025–2026 research update."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "me.berkeley.edu / source 1",
+          "url": "https://me.berkeley.edu/people/francesco-borrelli/",
+          "summary": "Official current Professor/FANUC Chair title, public email, and model-based AI/control research.",
+          "verifiedAt": "2026-09-30T21:47:35Z"
+        },
+        {
+          "id": "s2",
+          "label": "sites.google.com / source 2",
+          "url": "https://sites.google.com/berkeley.edu/lmpc/home",
+          "summary": "Primary Berkeley learning-MPC page with named physical racing platforms, test videos, and ICRA 2024 paper.",
+          "verifiedAt": "2026-09-30T21:47:35Z"
+        },
+        {
+          "id": "s3",
+          "label": "arxiv.org / source 3",
+          "url": "https://arxiv.org/abs/1901.08184",
+          "summary": "Primary BARC experimental validation of learning-based autonomous racing; historical evidence.",
+          "verifiedAt": "2026-09-30T21:47:35Z"
+        }
+      ],
+      "unknowns": [
+        "Institutional visiting-scholar links and past visitor examples are not lab vacancies. Eight-week eligibility and summer 2027 availability remain unknown.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "fborrelli@berkeley.edu"
     }
   ]
 }

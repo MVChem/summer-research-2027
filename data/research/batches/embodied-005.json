@@ -1,0 +1,731 @@
+[
+  {
+    "id": "axel-krieger",
+    "name": "Axel Krieger",
+    "aliases": [],
+    "school": "Johns Hopkins University",
+    "homepage": "https://imerse.lcsr.jhu.edu/",
+    "title": "Associate Professor; Carol Croft Linde Faculty Scholar",
+    "department": "Mechanical Engineering; Laboratory for Computational Sensing and Robotics",
+    "batch": "embodied-005",
+    "discoveredAt": "2026-09-30T21:53:49Z",
+    "verifiedAt": "2026-09-30T21:59:27Z",
+    "researchAreas": [
+      "Surgical imitation learning",
+      "Vision-language-action policies",
+      "Robot autonomy",
+      "Soft-tissue manipulation"
+    ],
+    "fitReason": "SurgVIL (CoRL 2026 acceptance reported by lab) augments robot demonstrations with open-source surgical videos across ACT, pi_0 and GR00T-H policy backbones.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "SurgVIL evaluates needle pickup and cholecystectomy cutting on a da Vinci robot, including real-tissue generalization. IMERSE also documents STAR and dual-arm ASTR platforms.",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The lab lists an existing visiting scholar, but no current external master’s visitor intake or eight-week pathway is published in reviewed sources.",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct foundation-policy and video-to-robot imitation learning match in surgery.",
+      "physical": "Named physical surgical robot and two current policy tasks.",
+      "shortVisit": "Existing visitor does not establish intake.",
+      "freshness": "September 2026 primary paper and lab update."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "imerse.lcsr.jhu.edu / source 1",
+        "url": "https://imerse.lcsr.jhu.edu/",
+        "summary": "University-hosted lab confirms title, professional email, platforms and September 2026 CoRL acceptance.",
+        "verifiedAt": "2026-09-30T21:59:27Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "arxiv.org / source 2",
+        "url": "https://arxiv.org/abs/2608.16058",
+        "summary": "Primary September 27, 2026 revision: two da Vinci tasks and foundation-policy backbones.",
+        "verifiedAt": "2026-09-30T21:59:27Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Medical-robot projects can require specialized safety/training and data approvals; research demonstrations are not evidence of clinical deployment or visitor access. A listed visitor is precedent only.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "axel@jhu.edu"
+  },
+  {
+    "id": "kristen-grauman",
+    "name": "Kristen Grauman",
+    "aliases": [],
+    "school": "University of Texas at Austin",
+    "homepage": "https://www.cs.utexas.edu/~grauman/",
+    "title": "Professor",
+    "department": "Computer Science",
+    "batch": "embodied-005",
+    "discoveredAt": "2026-09-30T21:53:37Z",
+    "verifiedAt": "2026-09-30T21:59:27Z",
+    "researchAreas": [
+      "Visual robot learning",
+      "Affordance learning",
+      "Multimodal perception",
+      "Learning from human activity"
+    ],
+    "fitReason": "SPARTA, published as Mash, Spread, Slice! (ICRA 2026), learns progress-aware visual representations and rewards for non-rigid object-state manipulation.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "SPARTA is validated on a real robot for three transformation tasks across ten objects, with a reinforcement-learning variant requiring neither demonstrations nor simulation.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Homepage lists historical visiting researchers and graduate-admissions instructions; no current external master’s summer-visit route verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct visual reward and real-world manipulation learning match.",
+      "physical": "Three physical transformation tasks across ten objects.",
+      "shortVisit": "Only past visitors and degree admissions verified.",
+      "freshness": "ICRA 2026 paper and current fall-2026 faculty page."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.cs.utexas.edu / source 1",
+        "url": "https://www.cs.utexas.edu/~grauman/",
+        "summary": "Current UT professor, public email, fall 2026 teaching and recruiting scope.",
+        "verifiedAt": "2026-09-30T21:59:27Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "vision.cs.utexas.edu / source 2",
+        "url": "https://vision.cs.utexas.edu/projects/sparta-robot/",
+        "summary": "Primary ICRA 2026 project and real robot object-state tasks.",
+        "verifiedAt": "2026-09-30T21:59:27Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/abs/2509.24129",
+        "summary": "March 2026 revision verifies real robot experiments, learning variant and authorship.",
+        "verifiedAt": "2026-09-30T21:59:27Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Older collaborator pages call SPARTA Smash and Spread; use the updated project/paper title. Historical visitors and current PhD advising do not establish availability.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "grauman@cs.utexas.edu"
+  },
+  {
+    "id": "kevin-m-lynch",
+    "name": "Kevin M. Lynch",
+    "aliases": [],
+    "school": "Northwestern University",
+    "homepage": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/lynch-kevin.html",
+    "title": "Professor; Director, Center for Robotics and Biosystems",
+    "department": "Mechanical Engineering; Center for Robotics and Biosystems",
+    "batch": "embodied-005",
+    "discoveredAt": "2026-09-30T21:54:14Z",
+    "verifiedAt": "2026-09-30T21:59:27Z",
+    "researchAreas": [
+      "Dexterous robot learning",
+      "In-hand manipulation",
+      "Physics-informed reinforcement learning",
+      "Robot control"
+    ],
+    "fitReason": "Robust In-Hand Manipulation via Priors in Reinforcement Learning and Mechanical Design (July 2026) combines grasp-quality reward shaping and fingertip geometry for transferable policies.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Primary paper deploys on a 16-DoF Allegro V4 hand mounted on a Franka Research 3 arm, testing cylinders, cuboids and balls across four palm orientations.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No matching external master’s visitor route verified. The published HAND 2026 REU is a ten-week undergraduate program hosted at Texas A&M, not a summer-2027 Northwestern master’s invitation.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct physics-informed dexterous RL fit.",
+      "physical": "Named current hand/arm system and systematic physical trials.",
+      "shortVisit": "Summer program found is undergraduate-only; alternate visitor route unknown.",
+      "freshness": "July 2026 primary experiments and current faculty profile."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.mccormick.northwestern.edu / source 1",
+        "url": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/lynch-kevin.html",
+        "summary": "Current professor/director roles and email.",
+        "verifiedAt": "2026-09-30T21:59:27Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "arxiv.org / source 2",
+        "url": "https://arxiv.org/html/2607.12105",
+        "summary": "July 2026 primary study: RL, real Allegro V4/Franka hardware and evaluation.",
+        "verifiedAt": "2026-09-30T21:59:27Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "hand-erc.org / source 3",
+        "url": "https://hand-erc.org/ewd-reu/",
+        "summary": "2026 undergraduate-only program terms; not applicant-appropriate.",
+        "verifiedAt": "2026-09-30T21:59:27Z",
+        "retrieval": "indexed-primary-excerpt"
+      },
+      {
+        "id": "s4",
+        "label": "usa.honda-ri.com / source 4",
+        "url": "https://usa.honda-ri.com/job-position-detail/-/asset_publisher/SgMsVAEFxU9G/content/academic-proposal",
+        "summary": "Closed 2026 university hardware project involving Lynch; not an external-student opening.",
+        "verifiedAt": "2026-09-30T21:59:27Z",
+        "retrieval": "indexed-primary-excerpt"
+      }
+    ],
+    "unknowns": [
+      "HAND 2026 REU requires undergraduate enrollment at a US four-year institution and specified US citizenship/national/permanent-resident status; graduate enrollment does not satisfy the undergraduate requirement. Citizenship eligibility must be independently verified. The separate 2026 Honda collaboration is not a 2027 visitor offer.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "kmlynch@northwestern.edu"
+  },
+  {
+    "id": "kostas-e-bekris",
+    "name": "Kostas E. Bekris",
+    "aliases": [],
+    "school": "Rutgers University",
+    "homepage": "https://pracsys.cs.rutgers.edu/members/kostas-bekris/",
+    "title": "Professor",
+    "department": "Computer Science",
+    "batch": "embodied-005",
+    "discoveredAt": "2026-09-30T21:55:09Z",
+    "verifiedAt": "2026-09-30T21:59:27Z",
+    "researchAreas": [
+      "Residual reinforcement learning",
+      "Contact-rich manipulation",
+      "Sim-to-real",
+      "Task and motion planning"
+    ],
+    "fitReason": "Integrating Model-based Control and RL for Sim2Real Transfer of Tight Insertion Policies (ICRA 2025) combines a geometric controller, residual RL and curriculum training for precise assembly.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The policy transfers from a simulated Franka to a physical Kuka iiwa14 with a Robotiq three-finger gripper. Experiments include plug/socket and unseen household-object insertion.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "PRACSYS provides contact details and a visitor/alumni list, but no current external eight-week master’s visitor invitation was verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 14
+    },
+    "scoreReasons": {
+      "fit": "Direct robot RL and precision manipulation match.",
+      "physical": "Named physical platform with zero-shot policy transfer and novel-object tests.",
+      "shortVisit": "Visitor list is not a current intake route.",
+      "freshness": "2025 physical paper plus active 2026 university lab research."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "pracsys.cs.rutgers.edu / source 1",
+        "url": "https://pracsys.cs.rutgers.edu/members/kostas-bekris/",
+        "summary": "Current Rutgers professor and concurrent Amazon Scholar role.",
+        "verifiedAt": "2026-09-30T21:59:27Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "pracsys.cs.rutgers.edu / source 2",
+        "url": "https://pracsys.cs.rutgers.edu/",
+        "summary": "University-hosted lab focus, explicit professional email and visitor-history pointer.",
+        "verifiedAt": "2026-09-30T21:59:27Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "pracsys.cs.rutgers.edu / source 3",
+        "url": "https://pracsys.cs.rutgers.edu/projects/manipulation/",
+        "summary": "Current research list including 2025 learned insertion and 2026 planning.",
+        "verifiedAt": "2026-09-30T21:59:27Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2505.11858v1",
+        "summary": "Primary methods, actual Kuka/Robotiq deployment and Rutgers-work attribution.",
+        "verifiedAt": "2026-09-30T21:59:27Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Concurrent Amazon Scholar role does not grant industry access. The primary insertion paper explicitly states the work was performed at Rutgers and is not associated with Amazon.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "kostas.bekris@cs.rutgers.edu"
+  },
+  {
+    "id": "andrew-owens",
+    "name": "Andrew Owens",
+    "aliases": [],
+    "school": "Cornell University (Cornell Tech)",
+    "homepage": "https://www.andrewowens.com/",
+    "title": "Associate Professor",
+    "department": "Computer Science; Cornell Bowers College of Computing and Information Science",
+    "batch": "embodied-005",
+    "discoveredAt": "2026-09-30T21:53:37Z",
+    "verifiedAt": "2026-09-30T21:59:27Z",
+    "researchAreas": [
+      "Self-supervised multimodal learning",
+      "Tactile representations",
+      "Cross-sensor transfer",
+      "Visuotactile manipulation"
+    ],
+    "fitReason": "Cross-Sensor Touch Generation (CoRL 2025) translates tactile representations across hardware, enabling transfer of learned manipulation policies without target-sensor retraining.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Primary project demonstrates a marble-rolling behavior-cloning policy trained with GelSlim images and deployed using DIGIT tactile input through zero-shot signal translation.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current external short-term visitor or summer-master’s pathway verified in the reviewed Cornell and faculty pages.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "Strong tactile representation and policy-transfer match within broader multimodal vision.",
+      "physical": "Physical tactile-policy transfer is verified with Michigan collaborators; current Cornell hardware access is unconfirmed.",
+      "shortVisit": "No verified external short-visit route.",
+      "freshness": "Current Cornell appointment plus dated 2025 project evidence; no explicit 2026 research evidence is cited in this record."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "tech.cornell.edu / source 1",
+        "url": "https://tech.cornell.edu/people/andrew-owens/",
+        "summary": "Official current associate professor appointment, research description and email.",
+        "verifiedAt": "2026-09-30T21:59:27Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "www.andrewowens.com / source 2",
+        "url": "https://www.andrewowens.com/",
+        "summary": "Current Cornell teaching, lab and publication record.",
+        "verifiedAt": "2026-09-30T21:59:27Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "samantabelen.github.io / source 3",
+        "url": "https://samantabelen.github.io/cross_sensor_touch_generation/",
+        "summary": "CoRL 2025 physical marble-rolling policy transfer using GelSlim and DIGIT.",
+        "verifiedAt": "2026-09-30T21:59:27Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Current institution is Cornell Tech, not Michigan. The project includes Michigan collaborators, so Cornell-local hardware and supervision arrangements need confirmation.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "andrew.owens@cornell.edu"
+  },
+  {
+    "id": "aaron-m-dollar",
+    "name": "Aaron M. Dollar",
+    "aliases": [],
+    "school": "Yale University",
+    "homepage": "https://www.eng.yale.edu/grablab/",
+    "title": "Frederick W. Beinecke Professor of Mechanical Engineering",
+    "department": "Mechanical Engineering; Computer Science",
+    "batch": "embodied-005",
+    "discoveredAt": "2026-09-30T21:54:07Z",
+    "verifiedAt": "2026-09-30T21:59:27Z",
+    "researchAreas": [
+      "Dexterous manipulation",
+      "Compliant robot hands",
+      "Visual force estimation",
+      "Robot self-identification"
+    ],
+    "fitReason": "Forces for Free (Science Robotics 2025) and Model Q-II (ICRA 2025) connect perception, compliance and hand design for dexterous manipulation. This is more hardware-oriented than a general VLA lab.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Model Q-II paper reports physical grasping and in-hand manipulation evaluation; the Model F3 author hardware release supplies the actual compliant hand and experimental fixtures.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "GRAB lists historical visiting master’s students, including dated 2011 and 2018 visits; homepage currently advertises PhD recruitment only.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 35,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "Strong manipulation/perception/control fit; less foundation-policy focused.",
+      "physical": "Two recent physical hand systems and experimental hardware release.",
+      "shortVisit": "Only historical visiting master’s students and current PhD intake.",
+      "freshness": "Current official appointment and dated 2025 physical research; no specific 2026 project evidence is cited."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.yale.edu / source 1",
+        "url": "https://engineering.yale.edu/research-and-faculty/faculty-directory/aaron-m-dollar",
+        "summary": "Current named professor title and explicit email.",
+        "verifiedAt": "2026-09-30T21:59:27Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "www.eng.yale.edu / source 2",
+        "url": "https://www.eng.yale.edu/grablab/",
+        "summary": "Lab scope and PhD-only published opening.",
+        "verifiedAt": "2026-09-30T21:59:27Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "www.eng.yale.edu / source 3",
+        "url": "https://www.eng.yale.edu/grablab/people.html",
+        "summary": "Historical master’s visitor precedent.",
+        "verifiedAt": "2026-09-30T21:59:27Z",
+        "retrieval": "indexed-primary-excerpt"
+      },
+      {
+        "id": "s4",
+        "label": "www.eng.yale.edu / source 4",
+        "url": "https://www.eng.yale.edu/grablab/pubs.html",
+        "summary": "2025 vision-based force estimation and hand research.",
+        "verifiedAt": "2026-09-30T21:59:27Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "www.eng.yale.edu / source 5",
+        "url": "https://www.eng.yale.edu/grablab/pubs/Dong_ICRA2025.pdf",
+        "summary": "Primary Model Q-II design and physical evaluation.",
+        "verifiedAt": "2026-09-30T21:59:27Z",
+        "retrieval": "indexed-primary-excerpt"
+      },
+      {
+        "id": "s6",
+        "label": "zenodo.org / source 6",
+        "url": "https://zenodo.org/records/15468205",
+        "summary": "Author-released Model F3 and experiment hardware.",
+        "verifiedAt": "2026-09-30T21:59:27Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Visitor history is not a present invitation or evidence of eight-week eligibility. A CS project should be scoped toward perception/control, with hardware prerequisites checked.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Yale VAR 的硕士论文与 J-1 外部资金条件需核实；不可假设仅个人自费可行。[机构说明](../eligibility_notes.md#yale-var)"
+    ],
+    "publicEmail": "aaron.dollar@yale.edu"
+  },
+  {
+    "id": "sam-kriegman",
+    "name": "Sam Kriegman",
+    "aliases": [],
+    "school": "Northwestern University",
+    "homepage": "https://www.xenobot.group/",
+    "title": "Assistant Professor",
+    "department": "Computer Science; Chemical and Biological Engineering; Mechanical Engineering",
+    "batch": "embodied-005",
+    "discoveredAt": "2026-09-30T21:54:38Z",
+    "verifiedAt": "2026-09-30T21:59:27Z",
+    "researchAreas": [
+      "Robot learning",
+      "Evolutionary robotics",
+      "Morphology-control co-design",
+      "Simulation-to-real"
+    ],
+    "fitReason": "The 2026 legged-metamachine work evolves robot body configurations and transfers them to modular physical robots; related work studies morphological pretraining for co-design.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "University report describes assembled three-, four- and five-legged robots tested outdoors on gravel, grass, roots, sand and mud, including self-righting and damage recovery.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Xenobot Join page directs UG/master’s opportunities to Northwestern students, with separate PhD and postdoctoral instructions; no external master’s visitor pathway verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 33,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong physical embodied learning/co-design, lower direct manipulation alignment.",
+      "physical": "Multiple real modular robots and outdoor tasks.",
+      "shortVisit": "Campus recruitment only, no external short-term path verified.",
+      "freshness": "2026 peer-reviewed hardware work and current university affiliation."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "robotics.northwestern.edu / source 1",
+        "url": "https://robotics.northwestern.edu/people/profiles/faculty/kriegman-sam.html",
+        "summary": "Current three-department assistant professor role and email.",
+        "verifiedAt": "2026-09-30T21:59:27Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "www.xenobot.group / source 2",
+        "url": "https://www.xenobot.group/",
+        "summary": "Lab research agenda and Northwestern affiliation.",
+        "verifiedAt": "2026-09-30T21:59:27Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "www.xenobot.group / source 3",
+        "url": "https://www.xenobot.group/join",
+        "summary": "Campus UG/master’s route only; external visits unspecified.",
+        "verifiedAt": "2026-09-30T21:59:27Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "news.northwestern.edu / source 4",
+        "url": "https://news.northwestern.edu/stories/2026/03/evolved-robots-are-born-to-run-and-refuse-to-die",
+        "summary": "March 2026 official account of AI-designed hardware and outdoor trials.",
+        "verifiedAt": "2026-09-30T21:59:27Z",
+        "retrieval": "indexed-primary-excerpt"
+      },
+      {
+        "id": "s5",
+        "label": "pmc.ncbi.nlm.nih.gov / source 5",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12974426/",
+        "summary": "Primary 2026 article: Agile legged locomotion in reconfigurable modular robots.",
+        "verifiedAt": "2026-09-30T21:59:27Z",
+        "retrieval": "indexed-primary-excerpt"
+      }
+    ],
+    "unknowns": [
+      "This is morphology/locomotion and evolutionary learning rather than manipulation or VLA specialization. The eight-week activity described on a faculty teaching page is coursework, not an internship offer.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "sam.kriegman@northwestern.edu"
+  },
+  {
+    "id": "ron-alterovitz",
+    "name": "Ron Alterovitz",
+    "aliases": [],
+    "school": "University of North Carolina at Chapel Hill",
+    "homepage": "https://www.cs.unc.edu/~ron/",
+    "title": "Lawrence Grossberg Distinguished Professor; Associate Chair for Faculty Affairs",
+    "department": "Computer Science",
+    "batch": "embodied-005",
+    "discoveredAt": "2026-09-30T21:54:14Z",
+    "verifiedAt": "2026-09-30T21:59:27Z",
+    "researchAreas": [
+      "Robot motion planning",
+      "Contact-aware autonomy",
+      "Learning from demonstration",
+      "Medical and assistive robotics"
+    ],
+    "fitReason": "Recent contact-aware neuroendovascular planning (RA-L 2026) and broader human-expert learning work support a CS robotics project focused on robust action generation.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The 2026 paper validates a robotic guidewire/catheter actuation platform under fluoroscopy in three physical aortic-arch phantoms; these are phantom experiments, not patient trials.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Lab contact page generally invites people interested in joining to email, but does not specify visitors, summer duration or external master’s eligibility.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 31,
+      "physical": 24,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Good robot autonomy and planning fit; recent project is not learning-centric.",
+      "physical": "Concrete physical actuation, imaging and phantom experiments.",
+      "shortVisit": "Generic inquiry language does not verify visitor eligibility.",
+      "freshness": "2026 primary hardware paper and current faculty role."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.cs.unc.edu / source 1",
+        "url": "https://www.cs.unc.edu/~ron/",
+        "summary": "Current named professorship, administrative role and explicit public email.",
+        "verifiedAt": "2026-09-30T21:59:27Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "robotics.cs.unc.edu / source 2",
+        "url": "https://robotics.cs.unc.edu/",
+        "summary": "Robust planning, learning from experts and assistive/medical robot scope.",
+        "verifiedAt": "2026-09-30T21:59:27Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "robotics.cs.unc.edu / source 3",
+        "url": "https://robotics.cs.unc.edu/contact.html",
+        "summary": "Generic joining inquiry only; no visitor terms.",
+        "verifiedAt": "2026-09-30T21:59:27Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "robotics.cs.unc.edu / source 4",
+        "url": "https://robotics.cs.unc.edu/publications.html",
+        "summary": "RA-L 2026 publication record.",
+        "verifiedAt": "2026-09-30T21:59:27Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/pdf/2601.07945",
+        "summary": "Primary physical guidewire/catheter phantom validation, pp.5–7.",
+        "verifiedAt": "2026-09-30T21:59:27Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Current flagship evidence is classical contact-aware planning, not a learned foundation policy. Treat as adjacent autonomy fit rather than an exact VLA-lab match.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "ron@cs.unc.edu"
+  }
+]

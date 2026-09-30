@@ -18,6 +18,7 @@
     "batches/embodied-002.json",
     "batches/embodied-003.json",
     "batches/embodied-004.json",
+    "batches/embodied-005.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -2075,6 +2076,214 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-004.json",
       "detailPage": "batches/embodied-004.md#honglak-lee"
+    },
+    {
+      "id": "axel-krieger",
+      "name": "Axel Krieger",
+      "aliases": [],
+      "school": "Johns Hopkins University",
+      "title": "Associate Professor; Carol Croft Linde Faculty Scholar",
+      "homepage": "https://imerse.lcsr.jhu.edu/",
+      "batch": "embodied-005",
+      "discoveredAt": "2026-09-30T21:53:49Z",
+      "verifiedAt": "2026-09-30T21:59:27Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Surgical imitation learning",
+        "Vision-language-action policies",
+        "Robot autonomy",
+        "Soft-tissue manipulation"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-005.json",
+      "detailPage": "batches/embodied-005.md#axel-krieger"
+    },
+    {
+      "id": "kristen-grauman",
+      "name": "Kristen Grauman",
+      "aliases": [],
+      "school": "University of Texas at Austin",
+      "title": "Professor",
+      "homepage": "https://www.cs.utexas.edu/~grauman/",
+      "batch": "embodied-005",
+      "discoveredAt": "2026-09-30T21:53:37Z",
+      "verifiedAt": "2026-09-30T21:59:27Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Visual robot learning",
+        "Affordance learning",
+        "Multimodal perception",
+        "Learning from human activity"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-005.json",
+      "detailPage": "batches/embodied-005.md#kristen-grauman"
+    },
+    {
+      "id": "kevin-m-lynch",
+      "name": "Kevin M. Lynch",
+      "aliases": [],
+      "school": "Northwestern University",
+      "title": "Professor; Director, Center for Robotics and Biosystems",
+      "homepage": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/lynch-kevin.html",
+      "batch": "embodied-005",
+      "discoveredAt": "2026-09-30T21:54:14Z",
+      "verifiedAt": "2026-09-30T21:59:27Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Dexterous robot learning",
+        "In-hand manipulation",
+        "Physics-informed reinforcement learning",
+        "Robot control"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-005.json",
+      "detailPage": "batches/embodied-005.md#kevin-m-lynch"
+    },
+    {
+      "id": "kostas-e-bekris",
+      "name": "Kostas E. Bekris",
+      "aliases": [],
+      "school": "Rutgers University",
+      "title": "Professor",
+      "homepage": "https://pracsys.cs.rutgers.edu/members/kostas-bekris/",
+      "batch": "embodied-005",
+      "discoveredAt": "2026-09-30T21:55:09Z",
+      "verifiedAt": "2026-09-30T21:59:27Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 14
+      },
+      "researchAreas": [
+        "Residual reinforcement learning",
+        "Contact-rich manipulation",
+        "Sim-to-real",
+        "Task and motion planning"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-005.json",
+      "detailPage": "batches/embodied-005.md#kostas-e-bekris"
+    },
+    {
+      "id": "andrew-owens",
+      "name": "Andrew Owens",
+      "aliases": [],
+      "school": "Cornell University (Cornell Tech)",
+      "title": "Associate Professor",
+      "homepage": "https://www.andrewowens.com/",
+      "batch": "embodied-005",
+      "discoveredAt": "2026-09-30T21:53:37Z",
+      "verifiedAt": "2026-09-30T21:59:27Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Self-supervised multimodal learning",
+        "Tactile representations",
+        "Cross-sensor transfer",
+        "Visuotactile manipulation"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-005.json",
+      "detailPage": "batches/embodied-005.md#andrew-owens"
+    },
+    {
+      "id": "aaron-m-dollar",
+      "name": "Aaron M. Dollar",
+      "aliases": [],
+      "school": "Yale University",
+      "title": "Frederick W. Beinecke Professor of Mechanical Engineering",
+      "homepage": "https://www.eng.yale.edu/grablab/",
+      "batch": "embodied-005",
+      "discoveredAt": "2026-09-30T21:54:07Z",
+      "verifiedAt": "2026-09-30T21:59:27Z",
+      "scores": {
+        "fit": 35,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Dexterous manipulation",
+        "Compliant robot hands",
+        "Visual force estimation",
+        "Robot self-identification"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-005.json",
+      "detailPage": "batches/embodied-005.md#aaron-m-dollar"
+    },
+    {
+      "id": "sam-kriegman",
+      "name": "Sam Kriegman",
+      "aliases": [],
+      "school": "Northwestern University",
+      "title": "Assistant Professor",
+      "homepage": "https://www.xenobot.group/",
+      "batch": "embodied-005",
+      "discoveredAt": "2026-09-30T21:54:38Z",
+      "verifiedAt": "2026-09-30T21:59:27Z",
+      "scores": {
+        "fit": 33,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Robot learning",
+        "Evolutionary robotics",
+        "Morphology-control co-design",
+        "Simulation-to-real"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-005.json",
+      "detailPage": "batches/embodied-005.md#sam-kriegman"
+    },
+    {
+      "id": "ron-alterovitz",
+      "name": "Ron Alterovitz",
+      "aliases": [],
+      "school": "University of North Carolina at Chapel Hill",
+      "title": "Lawrence Grossberg Distinguished Professor; Associate Chair for Faculty Affairs",
+      "homepage": "https://www.cs.unc.edu/~ron/",
+      "batch": "embodied-005",
+      "discoveredAt": "2026-09-30T21:54:14Z",
+      "verifiedAt": "2026-09-30T21:59:27Z",
+      "scores": {
+        "fit": 31,
+        "physical": 24,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Robot motion planning",
+        "Contact-aware autonomy",
+        "Learning from demonstration",
+        "Medical and assistive robotics"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-005.json",
+      "detailPage": "batches/embodied-005.md#ron-alterovitz"
     },
     {
       "id": "henny-admoni",

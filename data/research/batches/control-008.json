@@ -1,0 +1,132 @@
+[
+  {
+    "id": "reza-azadeh",
+    "name": "Reza Azadeh",
+    "aliases": [
+      "S. Reza Ahmadzadeh",
+      "Reza Ahmadzadeh"
+    ],
+    "school": "University of Massachusetts Lowell",
+    "homepage": "https://www.ahmadzadeh.info/",
+    "title": "Associate Professor",
+    "department": "Richard A. Miner School of Computer and Information Sciences",
+    "batch": "control-008",
+    "discoveredAt": "2026-09-30T22:30:28Z",
+    "verifiedAt": "2026-09-30T22:42:03Z",
+    "researchAreas": [
+      "Learning from demonstration",
+      "Robot manipulation",
+      "Reinforcement learning",
+      "Persistent robot autonomy"
+    ],
+    "fitReason": "Close fit for sample-efficient robot skill learning with physical manipulation and robust execution, including underwater mobile manipulation.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "LURE (OCEANS 2025) learns from demonstrations and combines trajectory editing, LQR and symbolic planning. Experiments use a BlueROV with a Reach Alpha 5 manipulator for loop-on-hook placement in laboratory and pool settings. Both authors are affiliated with his PeARL lab.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only · 自费资格待分类确认",
+      "summary": "The current PeARL homepage, linked by the official faculty directory, explicitly accepts visiting graduate and undergraduate students and requests a cover letter and CV. The separate opportunities page lists old 2019–2022 funded degree/undergraduate roles as closed; those are not current openings.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 8,
+      "freshness": 14
+    },
+    "scoreReasons": {
+      "fit": "Direct skill learning, manipulation and robust robot execution.",
+      "physical": "Own-lab primary paper names the robot and real laboratory/pool experiments; full-PDF retrieval limitation disclosed.",
+      "shortVisit": "Explicit current graduate visitor inquiry; no duration, funding or2027 commitment.",
+      "freshness": "Current2026 affiliation/news and March2026 technical publication; direct hardware paper dates2025."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.uml.edu / source 1",
+        "url": "https://www.uml.edu/sciences/computer-science/people/azadeh-reza.aspx",
+        "summary": "Official current name, Associate Professor affiliation, public email, PeARL link and 2025–2026 publications.",
+        "verifiedAt": "2026-09-30T22:31:42Z",
+        "retrieval": "direct web page"
+      },
+      {
+        "id": "s2",
+        "label": "www.ahmadzadeh.info / source 2",
+        "url": "https://www.ahmadzadeh.info/",
+        "summary": "Current PI homepage, robot-learning interests and 2026 research news.",
+        "verifiedAt": "2026-09-30T22:31:42Z",
+        "retrieval": "direct web page"
+      },
+      {
+        "id": "s3",
+        "label": "www.pearl-robotics.com / source 3",
+        "url": "https://www.pearl-robotics.com/",
+        "summary": "Explicit graduate/undergraduate visitor inquiry with cover letter and CV.",
+        "verifiedAt": "2026-09-30T22:31:42Z",
+        "retrieval": "direct web page"
+      },
+      {
+        "id": "s4",
+        "label": "www.pearl-robotics.com / source 4",
+        "url": "https://www.pearl-robotics.com/opportunities",
+        "summary": "Listed funded PhD and undergraduate postings are old and explicitly closed.",
+        "verifiedAt": "2026-09-30T22:31:42Z",
+        "retrieval": "direct web page"
+      },
+      {
+        "id": "s5",
+        "label": "cs.uml.edu / source 5",
+        "url": "https://cs.uml.edu/~reza/pdf/OCEANS_2025.pdf",
+        "summary": "LURE primary paper describes learned manipulation on BlueROV/Reach Alpha 5 in lab and pool.",
+        "verifiedAt": "2026-09-30T22:31:42Z",
+        "retrieval": "official indexed PDF text, including abstract/introduction and experimental setup; full fetch returned502"
+      },
+      {
+        "id": "s6",
+        "label": "www.elspub.com / source 6",
+        "url": "https://www.elspub.com/doi/10.55092/rl20260006",
+        "summary": "March23,2026 published preference-based learning-from-demonstration study with Azadeh as coauthor.",
+        "verifiedAt": "2026-09-30T22:31:42Z",
+        "retrieval": "direct publisher page"
+      },
+      {
+        "id": "s-uml-scholar-funding",
+        "label": "UML ISSO · scholar planning",
+        "url": "https://www.uml.edu/isso/j-1-scholars/preparing-to-host/planning-to-host.aspx",
+        "summary": "Scholar planning rules include a 25% personal/family-funding cap; ISSO determines the appropriate appointment category.",
+        "verifiedAt": "2026-09-30T22:42:03Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s-uml-intern-funding",
+        "label": "UML ISSO · Student Intern documents",
+        "url": "https://www.uml.edu/isso/j-1-scholars/j-1-intern/required-documents.aspx",
+        "summary": "Student Intern documentation lists personal funds; separate supplemental-funding wording makes fully personal funding unresolved.",
+        "verifiedAt": "2026-09-30T22:42:03Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Visitor duration, funding, international eligibility and summer 2027 capacity are unspecified. The university/ISSO must determine appointment requirements. Closed historical funded positions do not negate the separate visitor inquiry, but no funded visit is promised.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "UMass Lowell scholar rules cap personal/family savings at 25%; Student Intern pages list personal funding but also describe it as supplemental. Do not infer that either route accepts a fully self-funded visit without ISSO confirming the category and current requirements."
+    ],
+    "publicEmail": "Reza_Azadeh@uml.edu"
+  }
+]

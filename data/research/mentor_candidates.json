@@ -16,6 +16,7 @@
     "batches/control-005.json",
     "batches/control-006.json",
     "batches/control-007.json",
+    "batches/control-008.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -1655,6 +1656,35 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-007.json",
       "detailPage": "batches/control-007.md#yan-gu"
+    },
+    {
+      "id": "reza-azadeh",
+      "name": "Reza Azadeh",
+      "aliases": [
+        "S. Reza Ahmadzadeh",
+        "Reza Ahmadzadeh"
+      ],
+      "school": "University of Massachusetts Lowell",
+      "title": "Associate Professor",
+      "homepage": "https://www.ahmadzadeh.info/",
+      "batch": "control-008",
+      "discoveredAt": "2026-09-30T22:30:28Z",
+      "verifiedAt": "2026-09-30T22:42:03Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 8,
+        "freshness": 14
+      },
+      "researchAreas": [
+        "Learning from demonstration",
+        "Robot manipulation",
+        "Reinforcement learning",
+        "Persistent robot autonomy"
+      ],
+      "shortVisitStatus": "inquiry-only · 自费资格待分类确认",
+      "recordFile": "batches/control-008.json",
+      "detailPage": "batches/control-008.md#reza-azadeh"
     },
     {
       "id": "tom-silver",

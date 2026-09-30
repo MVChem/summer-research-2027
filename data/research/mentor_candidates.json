@@ -23,6 +23,7 @@
     "batches/control-012.json",
     "batches/control-013.json",
     "batches/control-014.json",
+    "batches/control-015.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -1897,6 +1898,33 @@
       "shortVisitStatus": "inquiry-only",
       "recordFile": "batches/control-014.json",
       "detailPage": "batches/control-014.md#jiefeng-sun"
+    },
+    {
+      "id": "yi-guo",
+      "name": "Yi Guo",
+      "aliases": [],
+      "school": "Stevens Institute of Technology",
+      "title": "Professor and Thomas E. Hattrick Chair Professor",
+      "homepage": "https://personal.stevens.edu/~yguo1/",
+      "batch": "control-015",
+      "discoveredAt": "2026-09-30T23:19:58Z",
+      "verifiedAt": "2026-09-30T23:27:35Z",
+      "scores": {
+        "fit": 37,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 14
+      },
+      "researchAreas": [
+        "learning-based mobile manipulation",
+        "decentralized multi-robot control",
+        "neural trajectory prediction",
+        "cooperative autonomous robotics",
+        "human-robot interaction"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-015.json",
+      "detailPage": "batches/control-015.md#yi-guo"
     },
     {
       "id": "tom-silver",

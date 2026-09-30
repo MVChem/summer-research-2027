@@ -1,0 +1,133 @@
+[
+  {
+    "id": "yi-guo",
+    "name": "Yi Guo",
+    "aliases": [],
+    "school": "Stevens Institute of Technology",
+    "homepage": "https://personal.stevens.edu/~yguo1/",
+    "title": "Professor and Thomas E. Hattrick Chair Professor",
+    "department": "Electrical and Computer Engineering",
+    "batch": "control-015",
+    "discoveredAt": "2026-09-30T23:19:58Z",
+    "verifiedAt": "2026-09-30T23:27:35Z",
+    "researchAreas": [
+      "learning-based mobile manipulation",
+      "decentralized multi-robot control",
+      "neural trajectory prediction",
+      "cooperative autonomous robotics",
+      "human-robot interaction"
+    ],
+    "fitReason": "Combines model-based control with learned prediction and motion planning for actual cooperating robots. The dynamic ball-passing work offers a concrete robot-learning/control connection, alongside multi-robot coordination.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The official IROS 2025 program describes real-world ball passing between two autonomously controlled mobile manipulators, combining analytical models and neural learning for throwing/catching. First-author code specifies LSTM landing prediction, MLP throwing parameters, OptiTrack and RoboMaster hardware. The lab currently lists first author Xinchi Huang and coauthor Yifan Mao as students. Detailed numerical performance and a complete paper were not accessed.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current invitation for external visiting students or short research internships was found in the checked faculty, research and news pages. The lab news records summer visitors in 2018; that is historical precedent only, with no current opportunity credit.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 14
+    },
+    "scoreReasons": {
+      "fit": "Direct neural learning for cooperative mobile manipulation and decentralized control; less emphasis on general-purpose foundation policies.",
+      "physical": "Official real-experiment abstract and released hardware-oriented code, tied to current students in the same lab. No numerical performance claim or 2026 ViT hardware inference.",
+      "shortVisit": "Only historical summer visitors, without a verified current inquiry invitation or external-master's route.",
+      "freshness": "Current faculty/student pages and official 2026 technical listing; most clearly verified learning-hardware work is IROS 2025. The 2026 listing inconsistency is retained."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.stevens.edu / source 1",
+        "url": "https://www.stevens.edu/profile/yguo1",
+        "summary": "Official current endowed professor title, ECE affiliation, professional email and 2025/2026 publications.",
+        "verifiedAt": "2026-09-30T23:27:35Z",
+        "retrieval": "direct cloud-browser official profile at 2026-09-30T23:25:25Z after web.run fetch failed; web search succeeded"
+      },
+      {
+        "id": "s2",
+        "label": "personal.stevens.edu / source 2",
+        "url": "https://personal.stevens.edu/~yguo1/",
+        "summary": "Faculty homepage confirms current role, department and public email.",
+        "verifiedAt": "2026-09-30T23:27:35Z",
+        "retrieval": "direct official HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "personal.stevens.edu / source 3",
+        "url": "https://personal.stevens.edu/~yguo1/research.html",
+        "summary": "Current students include Xinchi Huang and Yifan Mao; project and research scope. No current short-visit invitation displayed.",
+        "verifiedAt": "2026-09-30T23:27:35Z",
+        "retrieval": "direct cloud-browser author page at 2026-09-30T23:27:14Z after web.run timeout"
+      },
+      {
+        "id": "s4",
+        "label": "ras.papercept.net / source 4",
+        "url": "https://ras.papercept.net/conferences/conferences/IROS25/program/IROS25_ContentListWeb_2.html",
+        "summary": "Paper WeAT2.1 lists all Stevens authors and explicitly real-world neural-learning ball-passing experiments between two robots.",
+        "verifiedAt": "2026-09-30T23:27:35Z",
+        "retrieval": "direct official conference HTML via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "github.com / source 5",
+        "url": "https://github.com/xinchihuang/robot_lacrosse",
+        "summary": "First-author implementation details learned landing prediction, throwing models, motion-capture and named hardware; separates real robot and Gazebo modes.",
+        "verifiedAt": "2026-09-30T23:27:35Z",
+        "retrieval": "direct author repository HTML via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "personal.stevens.edu / source 6",
+        "url": "https://personal.stevens.edu/~yguo1/papers.html",
+        "summary": "Current author publication page lists IROS 2025 lacrosse, ICRA 2026 formation and future October 2026 MECC catching paper.",
+        "verifiedAt": "2026-09-30T23:27:35Z",
+        "retrieval": "direct cloud-browser author page at 2026-09-30T23:25:45Z after web.run timeout"
+      },
+      {
+        "id": "s7",
+        "label": "ras.papercept.net / source 7",
+        "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_ContentListWeb_3.html",
+        "summary": "Paper TuI1I.180 confirms 2026 technical publication activity but title and abstract conflict; simulation explicitly stated, no hardware claim used.",
+        "verifiedAt": "2026-09-30T23:27:35Z",
+        "retrieval": "direct official conference HTML via web.run"
+      },
+      {
+        "id": "s8",
+        "label": "personal.stevens.edu / source 8",
+        "url": "https://personal.stevens.edu/~yguo1/news.html",
+        "summary": "2026 professional news and 2018 summer-student precedent; no current visitor application route verified.",
+        "verifiedAt": "2026-09-30T23:27:35Z",
+        "retrieval": "direct official author HTML via web.run"
+      }
+    ],
+    "unknowns": [
+      "External-master's eligibility, host capacity, exact eight-week dates, institutional approval, funding and remote participation remain unknown. The 2026 ICRA formation title says Vision Transformer/without communication, while its program abstract describes GNN communication and simulation. Do not use that inconsistent listing to claim a physical ViT deployment. The listed October 2026 MECC event had not occurred on the verification date.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "yguo1@stevens.edu"
+  }
+]

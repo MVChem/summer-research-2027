@@ -107,10 +107,10 @@
       "homepage": "https://msl.stanford.edu/",
       "batch": "control-001",
       "discoveredAt": "2026-09-30T21:22:05Z",
-      "verifiedAt": "2026-09-30T21:24:34Z",
+      "verifiedAt": "2026-09-30T23:03:09Z",
       "scores": {
         "fit": 38,
-        "physical": 20,
+        "physical": 25,
         "shortVisit": 8,
         "freshness": 15
       },
@@ -160,12 +160,12 @@
       "homepage": "https://hybrid-robotics.berkeley.edu/",
       "batch": "control-001",
       "discoveredAt": "2026-09-30T21:22:05Z",
-      "verifiedAt": "2026-09-30T21:24:34Z",
+      "verifiedAt": "2026-09-30T22:44:23Z",
       "scores": {
         "fit": 39,
         "physical": 25,
         "shortVisit": 0,
-        "freshness": 10
+        "freshness": 14
       },
       "researchAreas": [
         "reinforcement learning for locomotion",
@@ -238,12 +238,12 @@
       "homepage": "https://www.bipedalrobotics.com/",
       "batch": "control-001",
       "discoveredAt": "2026-09-30T21:21:57Z",
-      "verifiedAt": "2026-09-30T21:24:34Z",
+      "verifiedAt": "2026-09-30T23:03:09Z",
       "scores": {
         "fit": 39,
         "physical": 25,
         "shortVisit": 0,
-        "freshness": 10
+        "freshness": 14
       },
       "researchAreas": [
         "safe reinforcement learning",
@@ -4836,12 +4836,12 @@
       "homepage": "https://www.shrs.pitt.edu/person/dan-ding/",
       "batch": "hri-005",
       "discoveredAt": "2026-09-30T21:54:45Z",
-      "verifiedAt": "2026-09-30T21:58:49Z",
+      "verifiedAt": "2026-09-30T22:58:28Z",
       "scores": {
         "fit": 38,
         "physical": 25,
         "shortVisit": 5,
-        "freshness": 10
+        "freshness": 15
       },
       "researchAreas": [
         "Assistive robotic manipulation",

@@ -181,7 +181,7 @@
     "department": "Aeronautics and Astronautics",
     "batch": "control-001",
     "discoveredAt": "2026-09-30T21:22:05Z",
-    "verifiedAt": "2026-09-30T21:24:34Z",
+    "verifiedAt": "2026-09-30T23:03:09Z",
     "researchAreas": [
       "multi-robot systems",
       "robot learning",
@@ -192,11 +192,12 @@
     "fitReason": "Strong fit for learning and planning in physical multi-robot systems; projects span drone navigation, robot scene representations and cooperative manipulation.",
     "physicalEvidence": {
       "status": "public-hardware-evidence",
-      "summary": "Splat-Nav reports 126 hardware flights using Gaussian-splat maps for safe planning and onboard-RGB localization. Current Stanford publications include 2026 vision-language drone navigation and diffusion planning.",
+      "summary": "September 2026 Training-free Behavior Cloning reports real UFactory xArm6 manipulation and quadrotor navigation with onboard Jetson control. Dexterous Adroit/DexArt benchmarks in that paper are simulated. Earlier Splat-Nav hardware flights remain historical corroboration; visitor platform access is still unconfirmed.",
       "sourceIds": [
         "s1",
         "s2",
-        "s3"
+        "s3",
+        "s-tfbc-refresh"
       ]
     },
     "shortVisit": {
@@ -210,13 +211,13 @@
     },
     "scores": {
       "fit": 38,
-      "physical": 20,
+      "physical": 25,
       "shortVisit": 8,
       "freshness": 15
     },
     "scoreReasons": {
       "fit": "Robot learning and multi-robot autonomy directly relevant.",
-      "physical": "Splat-Nav documents substantial hardware flights in 2024; newer research activity does not make those hardware trials current.",
+      "physical": "A newly verified September 2026 all-Stanford study documents actual xArm6 manipulation and quadrotor trials, providing newer current-group hardware evidence than the earlier 2024 Splat-Nav anchor.",
       "shortVisit": "Explicit visiting-researcher inquiry route without duration or period.",
       "freshness": "Official profile has 2026 work and current lab contact guidance."
     },
@@ -241,6 +242,14 @@
         "url": "https://arxiv.org/abs/2403.02751",
         "summary": "Splat-Nav author paper describes 126 hardware flights, onboard RGB localization and real-time safe navigation.",
         "verifiedAt": "2026-09-30T21:24:34Z"
+      },
+      {
+        "id": "s-tfbc-refresh",
+        "label": "Training-free Behavior Cloning · full primary paper",
+        "url": "https://arxiv.org/html/2609.30134v1",
+        "summary": "September 24, 2026 Stanford paper sections V-A/B/E document real xArm6 and quadrotor experiments. The method fits retrieval/residual components; it is not literally learning-free.",
+        "verifiedAt": "2026-09-30T23:03:09Z",
+        "retrieval": "direct-primary-page"
       }
     ],
     "unknowns": [
@@ -345,7 +354,7 @@
     "department": "Mechanical Engineering",
     "batch": "control-001",
     "discoveredAt": "2026-09-30T21:22:05Z",
-    "verifiedAt": "2026-09-30T21:24:34Z",
+    "verifiedAt": "2026-09-30T22:44:23Z",
     "researchAreas": [
       "reinforcement learning for locomotion",
       "hybrid robotics",
@@ -377,13 +386,13 @@
       "fit": 39,
       "physical": 25,
       "shortVisit": 0,
-      "freshness": 10
+      "freshness": 14
     },
     "scoreReasons": {
       "fit": "RL plus model-based control for physical locomotion.",
       "physical": "Multiple named real-robot learning deployments.",
       "shortVisit": "Available undergraduate form is not established as applicable to master's visitor.",
-      "freshness": "Verified current faculty/lab pages plus dated 2025 DDAT evidence; explicit 2026 research evidence is not yet cited."
+      "freshness": "Dated 2026 LadderMan and DexScrew primary sources now establish current technical activity; this replaces the earlier packet limited to dated 2025 work."
     },
     "sources": [
       {
@@ -413,6 +422,22 @@
         "url": "https://iconlab.negarmehr.com/DDAT/",
         "summary": "Coauthored diffusion-control project deployed on real GO1/GO2 quadrupeds.",
         "verifiedAt": "2026-09-30T21:24:34Z"
+      },
+      {
+        "id": "s-ladderman-refresh",
+        "label": "LadderMan · June 2026 primary paper",
+        "url": "https://arxiv.org/abs/2606.05873",
+        "summary": "June 4, 2026 paper names Sreenath and reports hardware transfer of learned humanoid ladder-climbing control; collaboration does not imply exclusive Berkeley ownership.",
+        "verifiedAt": "2026-09-30T22:44:23Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s-dexscrew-refresh",
+        "label": "DexScrew · ICRA 2026 project",
+        "url": "https://dexscrew.github.io/",
+        "summary": "Primary project names Sreenath as equal advisor and documents real multisensory fastening and screwdriving.",
+        "verifiedAt": "2026-09-30T22:44:23Z",
+        "retrieval": "direct-primary-page"
       }
     ],
     "unknowns": [
@@ -602,7 +627,7 @@
     "department": "Mechanical and Civil Engineering; Control and Dynamical Systems; Aerospace",
     "batch": "control-001",
     "discoveredAt": "2026-09-30T21:21:57Z",
-    "verifiedAt": "2026-09-30T21:24:34Z",
+    "verifiedAt": "2026-09-30T23:03:09Z",
     "researchAreas": [
       "safe reinforcement learning",
       "control barrier functions",
@@ -634,13 +659,13 @@
       "fit": 39,
       "physical": 25,
       "shortVisit": 0,
-      "freshness": 10
+      "freshness": 14
     },
     "scoreReasons": {
       "fit": "Direct safe RL plus control on humanoids.",
       "physical": "Multiple recent explicitly reported real-world humanoid experiments.",
       "shortVisit": "No short-visit route verified.",
-      "freshness": "Current official directory verifies affiliation; the cited dated robotics papers are from 2025, so freshness is capped at 10."
+      "freshness": "September 2026 RoM-Nav primary research and September 29 Caltech reporting now support dated current activity, resolving the earlier 2025-only packet."
     },
     "sources": [
       {
@@ -670,6 +695,22 @@
         "url": "https://arxiv.org/abs/2508.09354",
         "summary": "CLF-guided RL with extensive real G1 experiments.",
         "verifiedAt": "2026-09-30T21:24:34Z"
+      },
+      {
+        "id": "s-romnav-refresh",
+        "label": "RoM-Nav · September 2026 paper",
+        "url": "https://arxiv.org/abs/2609.19272",
+        "summary": "September 16 preprint reports learned physical Unitree G1 navigation and safety filtering; ICRA 2027 status is under review, not accepted.",
+        "verifiedAt": "2026-09-30T23:03:09Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s-caltech-refresh",
+        "label": "Caltech · September 29, 2026",
+        "url": "https://www.caltech.edu/about/news/caltech-roboticist-says-safety-should-be-top-concern-with-humanoid-robots",
+        "summary": "Current institutional coverage corroborates role and physical safety research; its interactive dodgeball demo is simulated and is not hardware evidence.",
+        "verifiedAt": "2026-09-30T23:03:09Z",
+        "retrieval": "direct-primary-page"
       }
     ],
     "unknowns": [

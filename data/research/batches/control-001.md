@@ -106,18 +106,20 @@
 - 匹配理由：Very strong safe learning/control fit for policy learning, learned models or safety filters tested on dynamic robots.
 - 真机证据（public-hardware-evidence）：CBF-RL (2025) trains safety-aware RL and validates real Unitree G1 humanoid obstacle avoidance/stair climbing. CLF-RL also reports extensive real-world G1 experiments; AMBER's official research page identifies physical bipedal and prosthetic platforms.
 - 短访证据（unknown）：No current external graduate short-visit recruitment or summer 2027 opportunity was verified from the reviewed faculty/lab sources. Summer 2027 remains unconfirmed.
-- 首次发现：2026-09-30T21:21:57Z；最后核查：2026-09-30T21:24:34Z
-- 当前总分：74/100；评分依据：
+- 首次发现：2026-09-30T21:21:57Z；最后核查：2026-09-30T23:03:09Z
+- 当前总分：78/100；评分依据：
   - fit 39/40：Direct safe RL plus control on humanoids.
   - physical 25/25：Multiple recent explicitly reported real-world humanoid experiments.
   - shortVisit 0/20：No short-visit route verified.
-  - freshness 10/15：Current official directory verifies affiliation; the cited dated robotics papers are from 2025, so freshness is capped at 10.
+  - freshness 14/15：September 2026 RoM-Nav primary research and September 29 Caltech reporting now support dated current activity, resolving the earlier 2025-only packet.
 - 未确认事项：Research fit is not opportunity evidence. Eight-week visitor appointment, international master's eligibility, funding and any self-funded arrangement require institutional confirmation.；Published research evidence does not confirm current in-group hardware access or summer 2027 supervision capacity.
 - 来源：
   - [directory.caltech.edu / source 1](https://directory.caltech.edu/personnel/adames)：Current named professorship and CAST leadership.（核查 2026-09-30T21:24:34Z）
   - [www.bipedalrobotics.com / source 2](https://www.bipedalrobotics.com/research.html)：Physical bipedal platforms and safety-critical control research.（核查 2026-09-30T21:24:34Z）
   - [arxiv.org / source 3](https://arxiv.org/abs/2510.14959)：CBF-RL paper includes real Unitree G1 safe navigation and stairs.（核查 2026-09-30T21:24:34Z）
   - [arxiv.org / source 4](https://arxiv.org/abs/2508.09354)：CLF-guided RL with extensive real G1 experiments.（核查 2026-09-30T21:24:34Z）
+  - [RoM-Nav · September 2026 paper](https://arxiv.org/abs/2609.19272)：September 16 preprint reports learned physical Unitree G1 navigation and safety filtering; ICRA 2027 status is under review, not accepted.（核查 2026-09-30T23:03:09Z；读取方式 direct-primary-page）
+  - [Caltech · September 29, 2026](https://www.caltech.edu/about/news/caltech-roboticist-says-safety-should-be-top-concern-with-humanoid-robots)：Current institutional coverage corroborates role and physical safety research; its interactive dodgeball demo is simulated and is not hardware evidence.（核查 2026-09-30T23:03:09Z；读取方式 direct-primary-page）
 
 <a id="karen-leung"></a>
 
@@ -199,18 +201,20 @@
 - 匹配理由：Strong real-robot RL and control fit, including humanoid/legged locomotion and learning-based generation of dynamically feasible behavior.
 - 真机证据（public-hardware-evidence）：Lab presents real-world humanoid locomotion with RL, Cassie biped tasks and multiple-quadruped load transport. Coauthored DDAT reports real GO1 and GO2 deployments.
 - 短访证据（unknown）：Join Us provides a visiting-undergraduate application, but the visiting-graduate section is explicitly 'Coming soon'; no usable graduate visitor route was verified. Summer 2027 remains unconfirmed.
-- 首次发现：2026-09-30T21:22:05Z；最后核查：2026-09-30T21:24:34Z
-- 当前总分：74/100；评分依据：
+- 首次发现：2026-09-30T21:22:05Z；最后核查：2026-09-30T22:44:23Z
+- 当前总分：78/100；评分依据：
   - fit 39/40：RL plus model-based control for physical locomotion.
   - physical 25/25：Multiple named real-robot learning deployments.
   - shortVisit 0/20：Available undergraduate form is not established as applicable to master's visitor.
-  - freshness 10/15：Verified current faculty/lab pages plus dated 2025 DDAT evidence; explicit 2026 research evidence is not yet cited.
+  - freshness 14/15：Dated 2026 LadderMan and DexScrew primary sources now establish current technical activity; this replaces the earlier packet limited to dated 2025 work.
 - 未确认事项：The visiting-undergraduate application does not establish a graduate-visitor route. Department page header and current lab/CV say associate professor, while an older bio sentence still says assistant.；Published research evidence does not confirm current in-group hardware access or summer 2027 supervision capacity.
 - 来源：
   - [me.berkeley.edu / source 1](https://me.berkeley.edu/people/koushil-sreenath/)：Official associate-professor header, department and public email; bio contains an older title sentence.（核查 2026-09-30T21:24:34Z）
   - [hybrid-robotics.berkeley.edu / source 2](https://hybrid-robotics.berkeley.edu/)：Real-world RL humanoid locomotion, dynamic bipedal and cooperative quadruped demonstrations.（核查 2026-09-30T21:24:34Z）
   - [hybrid-robotics.berkeley.edu / source 3](https://hybrid-robotics.berkeley.edu/join-us/)：Visiting undergraduate form exists; visiting graduate instructions remain unpublished.（核查 2026-09-30T21:24:34Z）
   - [iconlab.negarmehr.com / source 4](https://iconlab.negarmehr.com/DDAT/)：Coauthored diffusion-control project deployed on real GO1/GO2 quadrupeds.（核查 2026-09-30T21:24:34Z）
+  - [LadderMan · June 2026 primary paper](https://arxiv.org/abs/2606.05873)：June 4, 2026 paper names Sreenath and reports hardware transfer of learned humanoid ladder-climbing control; collaboration does not imply exclusive Berkeley ownership.（核查 2026-09-30T22:44:23Z；读取方式 direct-primary-page）
+  - [DexScrew · ICRA 2026 project](https://dexscrew.github.io/)：Primary project names Sreenath as equal advisor and documents real multisensory fastening and screwdriving.（核查 2026-09-30T22:44:23Z；读取方式 direct-primary-page）
 
 <a id="mac-schwager"></a>
 
@@ -220,12 +224,12 @@
 - 任职：Associate Professor
 - 方向：multi-robot systems；robot learning；safe navigation；neural scene representations；cooperative manipulation
 - 匹配理由：Strong fit for learning and planning in physical multi-robot systems; projects span drone navigation, robot scene representations and cooperative manipulation.
-- 真机证据（public-hardware-evidence）：Splat-Nav reports 126 hardware flights using Gaussian-splat maps for safe planning and onboard-RGB localization. Current Stanford publications include 2026 vision-language drone navigation and diffusion planning.
+- 真机证据（public-hardware-evidence）：September 2026 Training-free Behavior Cloning reports real UFactory xArm6 manipulation and quadrotor navigation with onboard Jetson control. Dexterous Adroit/DexArt benchmarks in that paper are simulated. Earlier Splat-Nav hardware flights remain historical corroboration; visitor platform access is still unconfirmed.
 - 短访证据（inquiry-only）：MSL's current home page explicitly tells non-Stanford students interested in visiting-researcher positions to email Schwager. This is separate from PhD admissions, for which applicants are asked not to contact the lab before admission. Summer 2027 remains unconfirmed.
-- 首次发现：2026-09-30T21:22:05Z；最后核查：2026-09-30T21:24:34Z
-- 当前总分：81/100；评分依据：
+- 首次发现：2026-09-30T21:22:05Z；最后核查：2026-09-30T23:03:09Z
+- 当前总分：86/100；评分依据：
   - fit 38/40：Robot learning and multi-robot autonomy directly relevant.
-  - physical 20/25：Splat-Nav documents substantial hardware flights in 2024; newer research activity does not make those hardware trials current.
+  - physical 25/25：A newly verified September 2026 all-Stanford study documents actual xArm6 manipulation and quadrotor trials, providing newer current-group hardware evidence than the earlier 2024 Splat-Nav anchor.
   - shortVisit 8/20：Explicit visiting-researcher inquiry route without duration or period.
   - freshness 15/15：Official profile has 2026 work and current lab contact guidance.
 - 未确认事项：Generic visiting-researcher invitation does not establish an eight-week 2027 placement, funding, remote work or eligibility of an externally enrolled master's student.；Published research evidence does not confirm current in-group hardware access or summer 2027 supervision capacity.
@@ -233,4 +237,5 @@
   - [profiles.stanford.edu / source 1](https://profiles.stanford.edu/mac-schwager)：Current associate professor appointments and 2025–2026 robotics publications.（核查 2026-09-30T21:24:34Z）
   - [msl.stanford.edu / source 2](https://msl.stanford.edu/)：Collaborative autonomy for physical robots; public email and explicit non-Stanford visiting-researcher inquiries.（核查 2026-09-30T21:24:34Z）
   - [arxiv.org / source 3](https://arxiv.org/abs/2403.02751)：Splat-Nav author paper describes 126 hardware flights, onboard RGB localization and real-time safe navigation.（核查 2026-09-30T21:24:34Z）
+  - [Training-free Behavior Cloning · full primary paper](https://arxiv.org/html/2609.30134v1)：September 24, 2026 Stanford paper sections V-A/B/E document real xArm6 and quadrotor experiments. The method fits retrieval/residual components; it is not literally learning-free.（核查 2026-09-30T23:03:09Z；读取方式 direct-primary-page）
 

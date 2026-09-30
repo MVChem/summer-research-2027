@@ -106,9 +106,16 @@
     "unknowns": [
       "Typical TTIC summer visits are 12–15 weeks, so the requested eight weeks requires agreement. Apply roughly five to six months ahead; English proficiency is required before an offer, plus insurance and student-life privileges. Funding varies and volunteer visits sometimes occur. Physical evidence predates the TTIC appointment and does not establish local UR5 access. No current TTIC personal email was found; the paper’s Berkeley correspondence address is historical. Use the verified program contact for routing rather than guessing.",
       "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
-      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Verified program routing contact: visiting-students@ttic.edu (TTIC Visiting Student Program; https://www.ttic.edu/visiting-student/). The listed Berkeley personal correspondence email is historical, not a verified current TTIC inbox."
     ],
-    "publicEmail": "kaylene@berkeley.edu"
+    "publicEmail": "kaylene@berkeley.edu",
+    "publicEmailCaveat": "Historical 2025 publication correspondence address; current TTIC personal email unverified.",
+    "publicProfessionalContact": {
+      "email": "visiting-students@ttic.edu",
+      "role": "TTIC Visiting Student Program routing contact",
+      "url": "https://www.ttic.edu/visiting-student/"
+    }
   },
   {
     "id": "jeff-schneider",

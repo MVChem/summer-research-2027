@@ -306,7 +306,7 @@
       "Physical human-robot interaction",
       "Robot co-design"
     ],
-    "fitReason": "Strong assistive/embodied-HRI fit with a rare explicit summer-visitor inquiry route. Existing work spans robot-assisted dining, human-robot artistic collaboration and care robots; technical scope should match the user's CS preparation.",
+    "fitReason": "Strong assistive/embodied-HRI fit with a rare explicit summer-visitor inquiry route. Existing work spans robot-assisted dining, human-robot artistic collaboration and care robots; technical scope should match a CS-oriented research scope.",
     "physicalEvidence": {
       "status": "public-hardware-evidence",
       "summary": "The 2025 AURA/Painted Heart Beats primary paper describes a built robot arm painting alongside a human and adapting its motion using an EmotiBit heartbeat sensor. The 2026 social-dining paper is speculative participatory design, not a new physical feeding deployment.",
@@ -608,7 +608,7 @@
     "department": "Rehabilitation Science and Technology; secondary Bioengineering",
     "batch": "hri-005",
     "discoveredAt": "2026-09-30T21:54:45Z",
-    "verifiedAt": "2026-09-30T21:58:49Z",
+    "verifiedAt": "2026-09-30T22:58:28Z",
     "researchAreas": [
       "Assistive robotic manipulation",
       "Shared autonomy",
@@ -640,13 +640,13 @@
       "fit": 38,
       "physical": 25,
       "shortVisit": 5,
-      "freshness": 10
+      "freshness": 15
     },
     "scoreReasons": {
       "fit": "direct shared autonomy and assistive HRI.",
       "physical": "2025 Kinova Gen3 experiments.",
       "shortVisit": "explicit non-Pitt student research intake, but no specific short-visit duration or international approval.",
-      "freshness": "concrete 2025 research."
+      "freshness": "Direct April and August 2026 primary papers now establish current research; video-based preference evaluation and mannequin robot tests are distinguished from clinical deployment."
     },
     "sources": [
       {
@@ -676,6 +676,22 @@
         "url": "https://www.shrs.pitt.edu/academics/rst/",
         "summary": "Explicit non-Pitt student research interest route, volunteer/paid possibilities; all RST faculty receive information.",
         "verifiedAt": "2026-09-30T21:58:49Z"
+      },
+      {
+        "id": "s-pitt-preference-refresh",
+        "label": "Pitt · April 2026 preference learning",
+        "url": "https://arxiv.org/html/2604.01463v1",
+        "summary": "Stretch 3 mock-kitchen footage uses Wizard-of-Oz manipulation; ten participants evaluate prerecorded videos and generated preferences, not live autonomous robot interaction.",
+        "verifiedAt": "2026-09-30T22:58:28Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s-bathing-refresh",
+        "label": "CMU/Pitt · August 2026 transfer study",
+        "url": "https://arxiv.org/html/2608.09127v1",
+        "summary": "Collaborative xArm/DexKit system is tested on a mannequin; the authors state it is not ready for human-subject deployment.",
+        "verifiedAt": "2026-09-30T22:58:28Z",
+        "retrieval": "direct-primary-page"
       }
     ],
     "unknowns": [
@@ -683,7 +699,8 @@
       "External master's eligibility, visitor sponsorship, access and any self-funding arrangement require institutional and PI approval.",
       "Research participant recruitment is not a student placement opportunity.",
       "Clinical/VA work may involve separate access and ethics requirements; no patient or protected-data access assumed.",
-      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "New 2026 sources include prerecorded-video preference evaluation and mannequin testing. They do not establish autonomous human bathing or access to patients."
     ],
     "publicEmail": "dad5@pitt.edu"
   },

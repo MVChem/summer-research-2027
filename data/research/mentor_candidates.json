@@ -36,6 +36,7 @@
     "batches/embodied-011.json",
     "batches/embodied-012.json",
     "batches/embodied-013.json",
+    "batches/embodied-014.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -3817,6 +3818,60 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-013.json",
       "detailPage": "batches/embodied-013.md#yanran-ding"
+    },
+    {
+      "id": "bolei-zhou",
+      "name": "Bolei Zhou",
+      "aliases": [],
+      "school": "University of California, Los Angeles",
+      "title": "Associate Professor",
+      "homepage": "https://boleizhou.github.io/",
+      "batch": "embodied-014",
+      "discoveredAt": "2026-09-30T23:11:08Z",
+      "verifiedAt": "2026-09-30T23:13:58Z",
+      "scores": {
+        "fit": 40,
+        "physical": 25,
+        "shortVisit": 5,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Vision-language-action policies",
+        "Flow-matching robot policies",
+        "Human-preference robot learning",
+        "Urban robot navigation",
+        "Mobile manipulation"
+      ],
+      "shortVisitStatus": "inquiry-only · 当前链接的2025指南，待确认",
+      "recordFile": "batches/embodied-014.json",
+      "detailPage": "batches/embodied-014.md#bolei-zhou"
+    },
+    {
+      "id": "mohammad-khalid-jawed",
+      "name": "Mohammad Khalid Jawed",
+      "aliases": [],
+      "school": "University of California, Los Angeles",
+      "title": "Associate Professor",
+      "homepage": "https://structures.computer/",
+      "batch": "embodied-014",
+      "discoveredAt": "2026-09-30T23:07:26Z",
+      "verifiedAt": "2026-09-30T23:13:58Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Diffusion-policy manipulation",
+        "Obstacle-aware visuomotor learning",
+        "Physics-informed robot learning",
+        "Soft-robot mechanics and control",
+        "Agricultural robotics"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-014.json",
+      "detailPage": "batches/embodied-014.md#mohammad-khalid-jawed"
     },
     {
       "id": "henny-admoni",

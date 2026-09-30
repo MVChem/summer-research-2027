@@ -1,0 +1,216 @@
+[
+  {
+    "id": "bolei-zhou",
+    "name": "Bolei Zhou",
+    "aliases": [],
+    "school": "University of California, Los Angeles",
+    "homepage": "https://boleizhou.github.io/",
+    "title": "Associate Professor",
+    "department": "Computer Science; adjunct Computational Medicine",
+    "batch": "embodied-014",
+    "discoveredAt": "2026-09-30T23:11:08Z",
+    "verifiedAt": "2026-09-30T23:13:58Z",
+    "researchAreas": [
+      "Vision-language-action policies",
+      "Flow-matching robot policies",
+      "Human-preference robot learning",
+      "Urban robot navigation",
+      "Mobile manipulation"
+    ],
+    "fitReason": "FlowPilot (CoRL2026) learns monocular sidewalk navigation with anchored flow matching and human-preference alignment. AURA (CVPR2026) combines multimodal instructions with diffusion control, and Cue the Flow (CoRL2026) steers a frozen VLA for delivery manipulation.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "FlowPilot’s lab project explicitly validates on physical Coco mobile robots in urban environments. AURA’s primary paper reports a safety-supervised physical wheeled-robot study across16 routes totaling about2.8km. Cue the Flow distinguishes real tabletop/mobile-base manipulation demonstrations from its proposed broader delivery pipeline.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only · 当前链接的2025指南，待确认",
+      "summary": "The currently linked prospective-student document has a specific external-visiting-student section discussing two summer visitors. Applicants must have relevant research and have completed a project through writing and submitting a paper; it gives an email subject format and asks for brief background plus CV/homepage. The document is dated January19,2025, so this is a conservative inquiry lead rather than confirmation of summer2027 places.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 40,
+      "physical": 25,
+      "shortVisit": 5,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct VLA, flow-policy, human-alignment and mobile-manipulation fit.",
+      "physical": "Named physical mobile platform with primary experimental protocol and current manipulation demos.",
+      "shortVisit": "Currently linked explicit external summer inquiry route, conservatively limited because document dated2025 and no2027/duration confirmation.",
+      "freshness": "September2026 active lab and multiple2026 primary physical-learning projects."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "samueli.ucla.edu / source 1",
+        "url": "https://samueli.ucla.edu/people/bolei-zhou/",
+        "summary": "Official current associate professor, UCLA CS and public professional email.",
+        "verifiedAt": "2026-09-30T23:13:58Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "boleizhou.github.io / source 2",
+        "url": "https://boleizhou.github.io/",
+        "summary": "Current personal homepage links the prospective-student document and VAIL.",
+        "verifiedAt": "2026-09-30T23:13:58Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "docs.google.com / source 3",
+        "url": "https://docs.google.com/document/d/1u6Qj2bU9LPSDxvAOg2kvJD0MlVyX3obnWtpq17hWt3M",
+        "summary": "Direct Google Docs connector text read succeeded; external summer visitor section, research-through-paper-submission expectation, January19,2025 date.",
+        "verifiedAt": "2026-09-30T23:13:58Z",
+        "retrieval": "direct-primary-document-connector"
+      },
+      {
+        "id": "s4",
+        "label": "vail.cs.ucla.edu / source 4",
+        "url": "https://vail.cs.ucla.edu/",
+        "summary": "September2026 lab activity and current CoRL/CVPR acceptance information.",
+        "verifiedAt": "2026-09-30T23:13:58Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "vail.cs.ucla.edu / source 5",
+        "url": "https://vail.cs.ucla.edu/FlowPilot/",
+        "summary": "Primary project describes physical Coco platform, imitation and human-preference flow policy, versus separate simulation results.",
+        "verifiedAt": "2026-09-30T23:13:58Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2604.01659v1",
+        "summary": "AURA primary paper Section4.4:16 safety-supervised real-world routes/approximately2.8km; shared autonomy architecture.",
+        "verifiedAt": "2026-09-30T23:13:58Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s7",
+        "label": "hatchetproject.github.io / source 7",
+        "url": "https://hatchetproject.github.io/delivery_steer/",
+        "summary": "Primary CoRL2026 Cue the Flow project: cue-conditioned adapter to frozen flow-matching VLA and real delivery-manipulation demonstrations.",
+        "verifiedAt": "2026-09-30T23:13:58Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "No visit length, external-master’s category, funding or summer2027 availability is specified. The document is still linked on the current personal homepage but its dated text may need refreshing. Coco industry collaboration does not establish a university visitor’s access to proprietary platforms or data; confirm UCLA-hosted project/resources. AURA results include human safety intervention and do not establish unsupervised deployment.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "bolei@cs.ucla.edu"
+  },
+  {
+    "id": "mohammad-khalid-jawed",
+    "name": "Mohammad Khalid Jawed",
+    "aliases": [],
+    "school": "University of California, Los Angeles",
+    "homepage": "https://structures.computer/",
+    "title": "Associate Professor",
+    "department": "Mechanical and Aerospace Engineering",
+    "batch": "embodied-014",
+    "discoveredAt": "2026-09-30T23:07:26Z",
+    "verifiedAt": "2026-09-30T23:13:58Z",
+    "researchAreas": [
+      "Diffusion-policy manipulation",
+      "Obstacle-aware visuomotor learning",
+      "Physics-informed robot learning",
+      "Soft-robot mechanics and control",
+      "Agricultural robotics"
+    ],
+    "fitReason": "ObstaDiff (September2026 primary preprint) separates target, obstacles and background in a structured encoder, using diffusion-policy imitation for clutter-aware approach motions. This provides a direct embodied-AI/manipulation project alongside the lab’s physics-based soft-robot work.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "ObstaDiff explicitly uses a physical7DoF Sawyer with eye-in-hand RealSenseD455. It evaluates61 distinct indoor-greenhouse configurations per method,366 executions total. The learned component approaches the pepper; final interaction is a replayed demonstration ending in touching the target, not demonstrated harvesting.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The current team page shows a visiting graduate student and visiting researcher, but no general invitation or external eight-week master’s route was verified. Hosting precedent alone receives no opportunity points.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Current concrete visuomotor diffusion/manipulation research in clutter plus physical modeling.",
+      "physical": "Specific hardware, real trials and a clearly delimited learned component.",
+      "shortVisit": "Visitor roster is precedent, not an explicit current external short-visit invitation.",
+      "freshness": "September2026 primary hardware paper and current UCLA faculty profile."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "samueli.ucla.edu / source 1",
+        "url": "https://samueli.ucla.edu/people/m-khalid-jawed/",
+        "summary": "Official current associate professor in MAE, public email and mechanics/ML/robotics research.",
+        "verifiedAt": "2026-09-30T23:13:58Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "structures.computer / source 2",
+        "url": "https://structures.computer/team",
+        "summary": "Lab current associate professor since2023 and visitor precedent only; no summer pathway established.",
+        "verifiedAt": "2026-09-30T23:13:58Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2609.10918v1",
+        "summary": "September10,2026 primary ObstaDiff paper; Section4.1 names Sawyer/D455, actual trial protocol, learned alignment and replayed target touch.",
+        "verifiedAt": "2026-09-30T23:13:58Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "www.mae.ucla.edu / source 4",
+        "url": "https://www.mae.ucla.edu/laboratories/",
+        "summary": "University lab directory identifies Jawed as Structures-Computer Interaction director and data-driven collaborative-robot/ML methods.",
+        "verifiedAt": "2026-09-30T23:13:58Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "The ObstaDiff study is one indoor testbed, with one execution per configuration/method rather than repeated-trial confidence estimates. New obstacle layouts use known plant species; do not claim unseen-category generalization. Physical comparison is learned alignment plus a common replay library, not an end-to-end learned contact policy.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "khalidjm@seas.ucla.edu"
+  }
+]

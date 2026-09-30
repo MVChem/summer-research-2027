@@ -15,10 +15,10 @@
 | 5 | [Negar Mehr](https://negarmehr.com/) · University of California, Berkeley | 87 | 39 / 25 / 8 / 15 | 2026-09-30T21:21:57Z | 2026-09-30T21:24:34Z |
 | 6 | [Tesca Fitzgerald](https://engineering.yale.edu/research-and-faculty/faculty-directory/tesca-fitzgerald) · Yale University | 87 | 39 / 25 / 8 / 15 | 2026-09-30T21:36:19Z | 2026-09-30T21:42:22Z |
 | 7 | [Somil Bansal](https://smlbansal.github.io/) · Stanford University | 87 | 39 / 23 / 10 / 15 | 2026-09-30T21:21:51Z | 2026-09-30T21:24:34Z |
-| 8 | [Changliu Liu](https://www.ri.cmu.edu/ri-faculty/changliu-liu/) · Carnegie Mellon University | 86 | 39 / 25 / 8 / 14 | 2026-09-30T21:42:09Z | 2026-09-30T21:47:35Z |
+| 8 | [Changliu Liu](https://www.ri.cmu.edu/ri-faculty/changliu-liu/) · Carnegie Mellon University | 86 | 39 / 25 / 8 / 14 | 2026-09-30T21:42:09Z | 2026-09-30T21:57:49Z |
 | 9 | [Dhruv Shah](https://dhruvshah.me/) · Princeton University | 85 | 40 / 20 / 10 / 15 | 2026-09-30T21:21:32Z | 2026-09-30T21:36:49Z |
-| 10 | [Daniel Seita](https://danielseita.github.io/) · University of Southern California | 82 | 39 / 25 / 5 / 13 | 2026-09-30T21:21:59Z | 2026-09-30T21:28:42Z |
-| 11 | [Yu She](https://www.purduemars.com/) · Purdue University | 82 | 38 / 25 / 5 / 14 | 2026-09-30T21:29:56Z | 2026-09-30T21:36:36Z |
+| 10 | [Yu She](https://www.purduemars.com/) · Purdue University | 84 | 38 / 25 / 7 / 14 | 2026-09-30T21:29:56Z | 2026-09-30T21:55:32Z |
+| 11 | [Daniel Seita](https://danielseita.github.io/) · University of Southern California | 82 | 39 / 25 / 5 / 13 | 2026-09-30T21:21:59Z | 2026-09-30T21:28:42Z |
 | 12 | [Mac Schwager](https://msl.stanford.edu/) · Stanford University | 81 | 38 / 20 / 8 / 15 | 2026-09-30T21:22:05Z | 2026-09-30T21:24:34Z |
 | 13 | [Jaime Fernández Fisac](https://saferobotics.princeton.edu/jaime) · Princeton University | 80 | 40 / 25 / 0 / 15 | 2026-09-30T21:21:51Z | 2026-09-30T21:24:34Z |
 | 14 | [Anirudha Majumdar](https://irom-lab.princeton.edu/) · Princeton University | 80 | 40 / 25 / 0 / 15 | 2026-09-30T21:28:26Z | 2026-09-30T21:31:39Z |
@@ -28,7 +28,7 @@
 | 18 | [Daniel Rakita](https://engineering.yale.edu/research-and-faculty/faculty-directory/daniel-rakita) · Yale University | 79 | 39 / 25 / 0 / 15 | 2026-09-30T21:28:48Z | 2026-09-30T21:35:06Z |
 | 19 | [Alessandro Roncone](https://www.colorado.edu/cs/alessandro-roncone) · University of Colorado Boulder | 79 | 39 / 25 / 0 / 15 | 2026-09-30T21:29:12Z | 2026-09-30T21:35:06Z |
 | 20 | [Monroe Kennedy III](https://engineering.stanford.edu/people/monroe-kennedy) · Stanford University | 79 | 39 / 25 / 0 / 15 | 2026-09-30T21:36:19Z | 2026-09-30T21:42:22Z |
-| 21 | [Homanga Bharadhwaj](https://b3.cs.jhu.edu/) · Johns Hopkins University | 79 | 39 / 20 / 5 / 15 | 2026-09-30T21:29:01Z | 2026-09-30T21:31:39Z |
+| 21 | [Homanga Bharadhwaj](https://b3.cs.jhu.edu/) · Johns Hopkins University | 79 | 39 / 20 / 5 / 15 | 2026-09-30T21:29:01Z | 2026-09-30T21:56:57Z |
 | 22 | [Anushri Dixit](https://samueli.ucla.edu/people/anushri-dixit/) · University of California, Los Angeles | 78 | 39 / 25 / 0 / 14 | 2026-09-30T21:41:52Z | 2026-09-30T21:47:35Z |
 | 23 | [Sylvia Herbert](https://sylviaherbert.com/) · University of California, San Diego | 78 | 39 / 24 / 0 / 15 | 2026-09-30T21:21:51Z | 2026-09-30T21:29:46Z |
 | 24 | [Soon-Jo Chung](https://aerospacerobotics.caltech.edu/) · California Institute of Technology | 78 | 38 / 25 / 0 / 15 | 2026-09-30T21:21:57Z | 2026-09-30T21:24:34Z |
@@ -256,19 +256,20 @@
 - 方向：safe reinforcement learning；robot learning；humanoid control；human-robot collaboration
 - 匹配理由：Strong match for safety-constrained learning, humanoid skills, and learned manipulation with physical validation.
 - 真机证据（public-hardware-evidence）：The current ICL inventory includes Unitree G1 and Go2, Kinova Gen3, industrial arms, and bimanual platforms. The research statement reports hardware learning for assembly and sim-to-real RL for locomotion.
-- 短访证据（inquiry-only）：The current lab homepage explicitly invites prospective students and visitors to complete a joining form. Duration and external-student eligibility details are unspecified; the form itself could not be inspected with the research tool.
-- 首次发现：2026-09-30T21:42:09Z；最后核查：2026-09-30T21:47:35Z
+- 短访证据（inquiry-only）：The live ICL homepage invites prospective students and visitors to complete a joining form. Its CMU-owned first page offers a master’s-student status option and asks the current institution/program; later sections were not inspected because they require personal inputs. No duration, funding or 2027 availability is promised.
+- 首次发现：2026-09-30T21:42:09Z；最后核查：2026-09-30T21:57:49Z
 - 评分依据：
   - fit 39/40：Direct safe-learning/control and physical robot-learning match.
   - physical 25/25：Named own-lab hardware plus explicit real-world learning demonstrations.
   - shortVisit 8/20：Current explicit visitor inquiry route; duration and eligibility unconfirmed.
   - freshness 14/15：Current official appointment and lab updates dated 2026, with current equipment inventory.
-- 未确认事项：No eight-week commitment, funding terms, or international visitor eligibility verified. Host/institution approval required before treating the inquiry route as feasible.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.
+- 未确认事项：No eight-week commitment, funding terms, or international visitor eligibility verified. Host/institution approval required before treating the inquiry route as feasible.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.；Only the blank form’s first page was reviewed. No personal information was entered and no application was submitted; later sections and external/international eligibility remain unverified.
 - 来源：
   - [www.ri.cmu.edu / source 1](https://www.ri.cmu.edu/ri-faculty/changliu-liu/)：Current official Associate Professor title and public email.（核查 2026-09-30T21:47:35Z）
   - [icontrol.ri.cmu.edu / source 2](https://icontrol.ri.cmu.edu/)：Explicit prospective-student/visitor form invitation; dated May and April 2026 lab updates.（核查 2026-09-30T21:47:35Z）
   - [icontrol.ri.cmu.edu / source 3](https://icontrol.ri.cmu.edu/robots.html)：Named current lab robot inventory including humanoid, quadruped, and manipulation hardware.（核查 2026-09-30T21:47:35Z）
   - [icontrol.ri.cmu.edu / source 4](https://icontrol.ri.cmu.edu/research/statement.html)：Safe RL, hardware learning, sim-to-real locomotion, and Kinova co-assembly examples.（核查 2026-09-30T21:47:35Z）
+  - [ICL joining form · first page only](https://docs.google.com/forms/d/e/1FAIpQLSet82sGd1MvsMmyYIV8uP50MAkkATkQEXz4Anog7ZurqyXC-A/viewform?pli=1)：CMU-owned first page has a master’s-student option and current-program field, with responses limited to strong active-project matches; later gated sections were not read.（核查 2026-09-30T21:57:49Z）
 
 ## 9. Dhruv Shah · Princeton University
 
@@ -291,7 +292,29 @@
   - [prism.robotics.princeton.edu / source 3](https://prism.robotics.princeton.edu/contact)：Dedicated prospective short-term visitor form for non-Princeton students.（核查 2026-09-30T21:28:42Z）
   - [ece.princeton.edu / source 4](https://ece.princeton.edu/node/10221)：April 6, 2026 university profile: retrospective Berkeley physical racing-robot work and current research agenda, not a current Princeton hardware inventory.（核查 2026-09-30T21:36:49Z）
 
-## 10. Daniel Seita · University of Southern California
+## 10. Yu She · Purdue University
+
+- 稳定键：`yu-she`；批次：embodied-002
+- 任职：Assistant Professor
+- 方向：Robot learning；Tactile sensing；Contact-rich manipulation；Multimodal policies；Loco-manipulation
+- 匹配理由：MARS integrates learned policies with tactile feedback. CONTACT (2026) studies disassembly and TAC-LOCO unifies tactile-aware whole-body control.
+- 真机证据（public-hardware-evidence）：CONTACT reports five real-world disassembly tasks; TAC-LOCO deploys a learned policy on a Unitree Go2 with a WidowX 250 arm and tactile gripper.
+- 短访证据（inquiry-only）：The live MARS prospective-students page has a Visiting Students and Scholars section requesting a CV and three reference contacts by email. Space limits availability; flexibility in the visiting period is helpful. No duration or summer 2027 offer is promised.
+- 首次发现：2026-09-30T21:29:56Z；最后核查：2026-09-30T21:55:32Z
+- 评分依据：
+  - fit 38/40：Strong manipulation and tactile policy learning, somewhat hardware-intensive.
+  - physical 25/25：Named quadruped-arm system plus disassembly experiments.
+  - shortVisit 7/20：The live official lab page explicitly invites visiting students and scholars, subject to space; period flexibility is helpful, but no eight-week or 2027 commitment is stated.
+  - freshness 14/15：2026 primary experiments and current university directory.
+- 未确认事项：Separate Purdue UG/master’s route requires two semesters and does not establish outside eligibility. Visitor route itself states no length, funding or 2027 opening.；Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.；Earlier web-tool fetches timed out; the official visitor page was subsequently read directly in a browser on 2026-09-30. Its separate two-semester Purdue-student instruction is not a visitor-duration requirement.
+- 来源：
+  - [isf.research.purdue.edu / source 1](https://isf.research.purdue.edu/directory/yu-she/)：Official title and public email.（核查 2026-09-30T21:36:36Z）
+  - [engineering.purdue.edu / source 2](https://engineering.purdue.edu/ME/People/faculty.html/ptProfile)：Courtesy Mechanical Engineering appointment.（核查 2026-09-30T21:36:36Z）
+  - [www.purduemars.com / source 3](https://www.purduemars.com/prospective-students)：Live official Visiting Students and Scholars section verifies CV/reference email route, lab-space constraint and preference for scheduling flexibility.（核查 2026-09-30T21:55:32Z）
+  - [arxiv.org / source 4](https://arxiv.org/abs/2603.08560)：CONTACT primary paper, real-world rigid/deformable disassembly.（核查 2026-09-30T21:36:36Z）
+  - [arxiv.org / source 5](https://arxiv.org/abs/2607.10132)：TAC-LOCO primary paper specifies real robot, arm and learned whole-body control.（核查 2026-09-30T21:36:36Z）
+
+## 11. Daniel Seita · University of Southern California
 
 - 稳定键：`daniel-seita`；批次：embodied-001
 - 任职：Assistant Professor
@@ -311,28 +334,6 @@
   - [slurm-lab-usc.github.io / source 2](https://slurm-lab-usc.github.io/getting_involved/)：External visitor pitch route, rarity and no current funding; displayed future-month update label.（核查 2026-09-30T21:28:42Z）
   - [slurm-lab-usc.github.io / source 3](https://slurm-lab-usc.github.io/publications/)：2026 manipulation/data-generation projects.（核查 2026-09-30T21:28:42Z）
   - [dexmulti.github.io / source 4](https://dexmulti.github.io/)：Named hardware and real-world manipulation trials.（核查 2026-09-30T21:28:42Z）
-
-## 11. Yu She · Purdue University
-
-- 稳定键：`yu-she`；批次：embodied-002
-- 任职：Assistant Professor
-- 方向：Robot learning；Tactile sensing；Contact-rich manipulation；Multimodal policies；Loco-manipulation
-- 匹配理由：MARS integrates learned policies with tactile feedback. CONTACT (2026) studies disassembly and TAC-LOCO unifies tactile-aware whole-body control.
-- 真机证据（public-hardware-evidence）：CONTACT reports five real-world disassembly tasks; TAC-LOCO deploys a learned policy on a Unitree Go2 with a WidowX 250 arm and tactile gripper.
-- 短访证据（indexed-inquiry-unconfirmed）：Indexed excerpts of the official MARS prospective-students page describe a Visiting Students and Scholars section requesting CV and three reference contacts, subject to space. The live page could not be retrieved, so the current wording and route remain to be reconfirmed.
-- 首次发现：2026-09-30T21:29:56Z；最后核查：2026-09-30T21:36:36Z
-- 评分依据：
-  - fit 38/40：Strong manipulation and tactile policy learning, somewhat hardware-intensive.
-  - physical 25/25：Named quadruped-arm system plus disassembly experiments.
-  - shortVisit 5/20：Visitor-specific wording is visible in indexed excerpts of the official lab page, but live-page retrieval failed; reconfirm before relying on this inquiry route.
-  - freshness 14/15：2026 primary experiments and current university directory.
-- 未确认事项：Separate Purdue UG/master’s route requires two semesters and does not establish outside eligibility. Visitor route itself states no length, funding or 2027 opening.；Direct page fetch timed out; explicit visitor wording was verified in current indexed lab-page results twice. Recheck live page before outreach.；Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.
-- 来源：
-  - [isf.research.purdue.edu / source 1](https://isf.research.purdue.edu/directory/yu-she/)：Official title and public email.（核查 2026-09-30T21:36:36Z）
-  - [engineering.purdue.edu / source 2](https://engineering.purdue.edu/ME/People/faculty.html/ptProfile)：Courtesy Mechanical Engineering appointment.（核查 2026-09-30T21:36:36Z）
-  - [www.purduemars.com / source 3](https://www.purduemars.com/prospective-students)：Official lab-page wording available in indexed excerpts only; direct retrieval timed out, so current visitor terms require live re-verification.（核查 2026-09-30T21:36:36Z）
-  - [arxiv.org / source 4](https://arxiv.org/abs/2603.08560)：CONTACT primary paper, real-world rigid/deformable disassembly.（核查 2026-09-30T21:36:36Z）
-  - [arxiv.org / source 5](https://arxiv.org/abs/2607.10132)：TAC-LOCO primary paper specifies real robot, arm and learned whole-body control.（核查 2026-09-30T21:36:36Z）
 
 ## 12. Mac Schwager · Stanford University
 
@@ -531,13 +532,13 @@
 - 匹配理由：Strong embodied-AI fit for learning robot policies from human videos and transferring predictive models into dexterous physical behavior.
 - 真机证据（public-hardware-evidence）：Coauthored AINA paper reports learned multi-fingered robot policies for nine everyday manipulation tasks using human smart-glasses demonstrations. This hardware work predates the new JHU lab and is evidence of the PI's research, not proof that the same platform is currently available there.
 - 短访证据（inquiry-only）：B3 explicitly invites non-JHU students interested in short-term research visits to submit a lab-interest form, but the site currently states that its Google Form link has not yet been added. General research inquiries may go to the PI.
-- 首次发现：2026-09-30T21:29:01Z；最后核查：2026-09-30T21:31:39Z
+- 首次发现：2026-09-30T21:29:01Z；最后核查：2026-09-30T21:56:57Z
 - 评分依据：
   - fit 39/40：Direct human-data-to-robot learning and embodied prediction.
   - physical 20/25：Verified hardware research, but current JHU equipment not established.
   - shortVisit 5/20：Explicit short-term invite discounted because required form is missing.
   - freshness 15/15：Current official JHU profile and lab launch/research in2026.
-- 未确认事项：No specific eight-week period, 2027 vacancy, funding or external-master's eligibility promised. Published form is a placeholder. Current JHU faculty page supersedes older CMU/Meta affiliations.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.
+- 未确认事项：No specific eight-week period, 2027 vacancy, funding or external-master's eligibility promised. Published form is a placeholder. Current JHU faculty page supersedes older CMU/Meta affiliations.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.；An independent live recheck on 2026-09-30 could not load the B3 site. Indexed official excerpts still describe the missing form; the original invitation remains provisional and must be reconfirmed before applying.
 - 来源：
   - [www.cs.jhu.edu / source 1](https://www.cs.jhu.edu/faculty/homanga-bharadhwaj/)：Current JHU CS assistant professor and public email.（核查 2026-09-30T21:31:39Z）
   - [b3.cs.jhu.edu / source 2](https://b3.cs.jhu.edu/)：Lab launched August2026; explicit non-JHU short-term visitor category, but missing Google Form.（核查 2026-09-30T21:31:39Z）

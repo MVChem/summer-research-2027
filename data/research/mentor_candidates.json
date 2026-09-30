@@ -2774,7 +2774,7 @@
       "department": "Computer Science",
       "batch": "control-002",
       "discoveredAt": "2026-09-30T21:29:01Z",
-      "verifiedAt": "2026-09-30T21:31:39Z",
+      "verifiedAt": "2026-09-30T21:56:57Z",
       "researchAreas": [
         "robot learning",
         "dexterous manipulation",
@@ -2847,7 +2847,8 @@
       ],
       "unknowns": [
         "No specific eight-week period, 2027 vacancy, funding or external-master's eligibility promised. Published form is a placeholder. Current JHU faculty page supersedes older CMU/Meta affiliations.",
-        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+        "An independent live recheck on 2026-09-30 could not load the B3 site. Indexed official excerpts still describe the missing form; the original invitation remains provisional and must be reconfirmed before applying."
       ],
       "publicEmail": "homanga@jhu.edu"
     },
@@ -4282,7 +4283,7 @@
       "department": "Edwardson School of Industrial Engineering; courtesy Mechanical Engineering",
       "batch": "embodied-002",
       "discoveredAt": "2026-09-30T21:29:56Z",
-      "verifiedAt": "2026-09-30T21:36:36Z",
+      "verifiedAt": "2026-09-30T21:55:32Z",
       "researchAreas": [
         "Robot learning",
         "Tactile sensing",
@@ -4303,8 +4304,8 @@
         ]
       },
       "shortVisit": {
-        "status": "indexed-inquiry-unconfirmed",
-        "summary": "Indexed excerpts of the official MARS prospective-students page describe a Visiting Students and Scholars section requesting CV and three reference contacts, subject to space. The live page could not be retrieved, so the current wording and route remain to be reconfirmed.",
+        "status": "inquiry-only",
+        "summary": "The live MARS prospective-students page has a Visiting Students and Scholars section requesting a CV and three reference contacts by email. Space limits availability; flexibility in the visiting period is helpful. No duration or summer 2027 offer is promised.",
         "sourceIds": [
           "s1",
           "s2",
@@ -4316,13 +4317,13 @@
       "scores": {
         "fit": 38,
         "physical": 25,
-        "shortVisit": 5,
+        "shortVisit": 7,
         "freshness": 14
       },
       "scoreReasons": {
         "fit": "Strong manipulation and tactile policy learning, somewhat hardware-intensive.",
         "physical": "Named quadruped-arm system plus disassembly experiments.",
-        "shortVisit": "Visitor-specific wording is visible in indexed excerpts of the official lab page, but live-page retrieval failed; reconfirm before relying on this inquiry route.",
+        "shortVisit": "The live official lab page explicitly invites visiting students and scholars, subject to space; period flexibility is helpful, but no eight-week or 2027 commitment is stated.",
         "freshness": "2026 primary experiments and current university directory."
       },
       "sources": [
@@ -4344,9 +4345,9 @@
           "id": "s3",
           "label": "www.purduemars.com / source 3",
           "url": "https://www.purduemars.com/prospective-students",
-          "summary": "Official lab-page wording available in indexed excerpts only; direct retrieval timed out, so current visitor terms require live re-verification.",
-          "verifiedAt": "2026-09-30T21:36:36Z",
-          "retrieval": "indexed-primary-excerpt"
+          "summary": "Live official Visiting Students and Scholars section verifies CV/reference email route, lab-space constraint and preference for scheduling flexibility.",
+          "verifiedAt": "2026-09-30T21:55:32Z",
+          "retrieval": "direct-browser-primary"
         },
         {
           "id": "s4",
@@ -4365,9 +4366,9 @@
       ],
       "unknowns": [
         "Separate Purdue UG/master’s route requires two semesters and does not establish outside eligibility. Visitor route itself states no length, funding or 2027 opening.",
-        "Direct page fetch timed out; explicit visitor wording was verified in current indexed lab-page results twice. Recheck live page before outreach.",
         "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
-        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+        "Earlier web-tool fetches timed out; the official visitor page was subsequently read directly in a browser on 2026-09-30. Its separate two-semester Purdue-student instruction is not a visitor-duration requirement."
       ],
       "publicEmail": "yushe@purdue.edu"
     },
@@ -7477,7 +7478,7 @@
       "department": "Robotics Institute",
       "batch": "control-004",
       "discoveredAt": "2026-09-30T21:42:09Z",
-      "verifiedAt": "2026-09-30T21:47:35Z",
+      "verifiedAt": "2026-09-30T21:57:49Z",
       "researchAreas": [
         "safe reinforcement learning",
         "robot learning",
@@ -7497,12 +7498,13 @@
       },
       "shortVisit": {
         "status": "inquiry-only",
-        "summary": "The current lab homepage explicitly invites prospective students and visitors to complete a joining form. Duration and external-student eligibility details are unspecified; the form itself could not be inspected with the research tool.",
+        "summary": "The live ICL homepage invites prospective students and visitors to complete a joining form. Its CMU-owned first page offers a master’s-student status option and asks the current institution/program; later sections were not inspected because they require personal inputs. No duration, funding or 2027 availability is promised.",
         "sourceIds": [
           "s1",
           "s2",
           "s3",
-          "s4"
+          "s4",
+          "s5"
         ]
       },
       "scores": {
@@ -7545,11 +7547,20 @@
           "url": "https://icontrol.ri.cmu.edu/research/statement.html",
           "summary": "Safe RL, hardware learning, sim-to-real locomotion, and Kinova co-assembly examples.",
           "verifiedAt": "2026-09-30T21:47:35Z"
+        },
+        {
+          "id": "s5",
+          "label": "ICL joining form · first page only",
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSet82sGd1MvsMmyYIV8uP50MAkkATkQEXz4Anog7ZurqyXC-A/viewform?pli=1",
+          "summary": "CMU-owned first page has a master’s-student option and current-program field, with responses limited to strong active-project matches; later gated sections were not read.",
+          "verifiedAt": "2026-09-30T21:57:49Z",
+          "retrieval": "direct-browser-primary"
         }
       ],
       "unknowns": [
         "No eight-week commitment, funding terms, or international visitor eligibility verified. Host/institution approval required before treating the inquiry route as feasible.",
-        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+        "Only the blank form’s first page was reviewed. No personal information was entered and no application was submitted; later sections and external/international eligibility remain unverified."
       ],
       "publicEmail": "cliu6@andrew.cmu.edu"
     },

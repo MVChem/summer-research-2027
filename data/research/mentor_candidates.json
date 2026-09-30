@@ -19,6 +19,7 @@
     "batches/control-008.json",
     "batches/control-009.json",
     "batches/control-010.json",
+    "batches/control-011.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -1773,6 +1774,33 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-010.json",
       "detailPage": "batches/control-010.md#todd-d-murphey"
+    },
+    {
+      "id": "masayoshi-tomizuka",
+      "name": "Masayoshi Tomizuka",
+      "aliases": [],
+      "school": "University of California, Berkeley",
+      "title": "Cheryl and John Neerhout, Jr. Distinguished Professor; Distinguished Professor of Mechanical Engineering",
+      "homepage": "https://msc.berkeley.edu/",
+      "batch": "control-011",
+      "discoveredAt": "2026-09-30T22:45:11Z",
+      "verifiedAt": "2026-09-30T22:46:51Z",
+      "scores": {
+        "fit": 40,
+        "physical": 25,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "robot learning",
+        "vision-language-action models",
+        "humanoid loco-manipulation",
+        "adaptive control",
+        "contact-rich dexterous manipulation"
+      ],
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/control-011.json",
+      "detailPage": "batches/control-011.md#masayoshi-tomizuka"
     },
     {
       "id": "tom-silver",

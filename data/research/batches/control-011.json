@@ -1,0 +1,133 @@
+[
+  {
+    "id": "masayoshi-tomizuka",
+    "name": "Masayoshi Tomizuka",
+    "aliases": [],
+    "school": "University of California, Berkeley",
+    "homepage": "https://msc.berkeley.edu/",
+    "title": "Cheryl and John Neerhout, Jr. Distinguished Professor; Distinguished Professor of Mechanical Engineering",
+    "department": "Mechanical Engineering",
+    "batch": "control-011",
+    "discoveredAt": "2026-09-30T22:45:11Z",
+    "verifiedAt": "2026-09-30T22:46:51Z",
+    "researchAreas": [
+      "robot learning",
+      "vision-language-action models",
+      "humanoid loco-manipulation",
+      "adaptive control",
+      "contact-rich dexterous manipulation"
+    ],
+    "fitReason": "Direct overlap between learned robot policies and physical control, with current group projects in closed-loop foundation-model adaptation, whole-body humanoid navigation and dexterous manipulation.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "CLIFT (July2026) reports learned closed-loop policy improvement on a real Unitree G1 for box packing, cup insertion and bimanual plate transfer. TANGO (September2026) reports real G1 whole-body navigation using a VLA trained in simulation. Both are listed on the current MSC research page, and the current group roster identifies project leader Yuxin Chen as a lab PhD student; these are current-group deployments with collaborators, not inferred robot ownership.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "The current MSC homepage expressly invites people seeking visiting opportunities to email Tomizuka or the relevant project contact with a CV and short research statement, separate from its Berkeley-enrolled undergraduate/master's language. A July14,2025 soft-robotics call for undergraduate or visiting students remains posted, and the current research page welcomes prospective visitors in that project. Neither establishes a 2027 opening or eight-week acceptance.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "scores": {
+      "fit": 40,
+      "physical": 25,
+      "shortVisit": 8,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Current generalist robot policies, VLA navigation and adaptive physical control closely match AI plus real-robot methods.",
+      "physical": "Two named 2026 G1 hardware studies connected by current official research links and current group student roster.",
+      "shortVisit": "Explicit general visiting inquiry route, with no supported eight-week period or external-master's-specific invitation.",
+      "freshness": "July and September2026 primary technical papers plus current faculty and lab pages."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "me.berkeley.edu / source 1",
+        "url": "https://me.berkeley.edu/people/masayoshi-tomizuka/",
+        "summary": "Official current distinguished-professor title, department and public email.",
+        "verifiedAt": "2026-09-30T22:46:51Z",
+        "retrieval": "direct official HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "msc.berkeley.edu / source 2",
+        "url": "https://msc.berkeley.edu/index.html",
+        "summary": "Explicit visiting-opportunity inquiry route, separate current-Berkeley student wording, July14,2025 visitor call and August7,2026 lab event update.",
+        "verifiedAt": "2026-09-30T22:46:51Z",
+        "retrieval": "direct official lab HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "msc.berkeley.edu / source 3",
+        "url": "https://msc.berkeley.edu/research/",
+        "summary": "Current robot learning, embodied AI and dexterous manipulation projects; links CLIFT/TANGO and names project contacts.",
+        "verifiedAt": "2026-09-30T22:46:51Z",
+        "retrieval": "direct official lab HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "msc.berkeley.edu / source 4",
+        "url": "https://msc.berkeley.edu/people/students.html",
+        "summary": "Current roster identifies Yuxin Chen, first/co-first author of the hardware projects, among lab PhD students.",
+        "verifiedAt": "2026-09-30T22:46:51Z",
+        "retrieval": "direct official lab HTML via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "thomaschen98.github.io / source 5",
+        "url": "https://thomaschen98.github.io/clift/",
+        "summary": "Author project lists Tomizuka/Berkeley and describes three physical Unitree G1 manipulation tasks with closed-loop VLA improvement.",
+        "verifiedAt": "2026-09-30T22:46:51Z",
+        "retrieval": "direct author project HTML, linked by official lab"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/abs/2607.29172",
+        "summary": "July31,2026 paper, Tomizuka coauthor, real-humanoid foundation-model adaptation.",
+        "verifiedAt": "2026-09-30T22:46:51Z",
+        "retrieval": "direct primary paper abstract via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "tango-vla.github.io / source 7",
+        "url": "https://tango-vla.github.io/",
+        "summary": "Author project names Tomizuka and reports zero-shot physical G1 language-conditioned whole-body navigation.",
+        "verifiedAt": "2026-09-30T22:46:51Z",
+        "retrieval": "direct author project HTML, linked by official lab"
+      },
+      {
+        "id": "s8",
+        "label": "arxiv.org / source 8",
+        "url": "https://arxiv.org/abs/2609.09158",
+        "summary": "September8,2026 paper date and authorship; explicitly reports real G1 deployment after simulation training.",
+        "verifiedAt": "2026-09-30T22:46:51Z",
+        "retrieval": "direct primary paper abstract via web.run"
+      }
+    ],
+    "unknowns": [
+      "External master's status, project fit, eight-week duration and lab capacity require confirmation. General visiting inquiries are broader than the Berkeley-enrolled student path; the soft-robotics project may be more hardware/mechanics-focused than robot learning. Any in-person visit requires the appropriate Berkeley appointment and current institutional funding/fee rules; no informal unpaid arrangement or funding promise is established.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "tomizuka@berkeley.edu"
+  }
+]

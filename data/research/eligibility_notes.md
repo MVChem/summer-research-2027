@@ -49,3 +49,11 @@ Allison Okamura 的 [CHARM 个人页](https://charm.stanford.edu/Main/AllisonOka
 核查：2026-09-30T22:33:54Z。VAR 面向持续在外校就读、研究构成本校学位论文工作的研究生；官方 FAQ 明确不接受无论文要求的硕士项目。Yale 赞助的 J-1 学生身份要求至少 51% 的学费与生活支持来自非个人、非家庭的外部奖学金/助研等来源，不能假设仅个人自费就符合。国际申请至少提前 90 天；页面现列每月或不足一月 425 美元及其他申请/文件费用，2027 年应复核。需导师与院系批准，机构规则不证明实验室名额。
 
 来源：[Yale VAR](https://gsas.yale.edu/admissions/non-degree-application-process/visiting-assistant-research-var)、[VAR FAQ](https://gsas.yale.edu/admissions/non-degree-application-process/visiting-assistant-research-var/visiting-assistant-research-var-faqs)。未核实其他适用身份，不将其他类别当作自动替代方案。
+
+<a id="mit-visiting-students"></a>
+
+## MIT · 外校研究生 Visiting Student
+
+核查：2026-09-30T23:09:41Z。中央 [ISO FAQ](https://iso.mit.edu/getting-started/visiting-students-faq/) 描述导师邀请、在校研究的 3 周至 12 个月访问，并要求至少 51% 的全部支持来自非个人来源；完全个人/家庭自费不符合该路径。完整材料至少提前 90 天，具体日期与系所流程另核实。[ISchO](https://ischo.mit.edu/mit-administrators/visa-processing-information/j-1-visa-international-scholars/frequently-asked) 将仍在海外在读的学位学生导向 ISO Visiting Student，不能把 scholar 类别当成自动替代。
+
+[2026–27 ISO 费用估算](https://iso.mit.edu/wp-content/uploads/2026/07/VS-Estimated-Expense-AY-2026-2027.pdf) 列单人每月 4,350 美元支持额，包含生活费估算 3,725 与月费 625；这是证明支持的估算，不是全部缴费账单。[Registrar](https://registrar.mit.edu/registration-academics/tuition-fees/visiting-student) 另列 1,000 美元处理费由导师 discretionary funds 支付。金额和系所要求在 2027 安排前复核，不能由政策推定导师名额。

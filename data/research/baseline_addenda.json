@@ -1,0 +1,39 @@
+{
+  "baselineCommit": "834e348e17e47333777353e419dcc058f9f46846",
+  "originalRecordsModified": false,
+  "events": [
+    {
+      "baselineId": 28,
+      "name": "Minchen Li",
+      "observedAt": "2026-09-30T22:43:36Z",
+      "eventType": "later-public-source-verification-not-discovery",
+      "finding": "Current external visitor invitation says visits usually range from six to twelve months. This is a stated norm, not an explicit minimum. Separate summer internship/volunteer link resolves to a ten-week undergraduate CSD program, closed for 2026. Neither establishes compatibility for an external master’s eight-week summer2027 visit.",
+      "sources": [
+        {
+          "url": "https://www.cs.cmu.edu/~minchenl/",
+          "retrieval": "direct-primary-page",
+          "evidence": "Opportunities section gives usual six-to-twelve-month visitor length and separate summer-program link."
+        },
+        {
+          "url": "https://www.csd.cmu.edu/academics/bachelors/summer-research-internship-in-computer-science",
+          "retrieval": "direct-primary-page",
+          "evidence": "Program explicitly undergraduate, ten weeks, 2026 application closed."
+        }
+      ]
+    },
+    {
+      "baselineId": 121,
+      "name": "Erdem Biyik",
+      "observedAt": "2026-09-30T22:49:43Z",
+      "eventType": "later-public-source-verification-not-discovery",
+      "finding": "Current prospective page explicitly expects self-funded internships to last at least ten weeks. Remote work is described as an exception for extraordinary students. Paid internships are restricted to listed official USC programs in the explicitly dated Summer2026 statement; do not extend that dated restriction to Summer2027 without rechecking.",
+      "sources": [
+        {
+          "url": "https://ebiyik.github.io/prospective/",
+          "retrieval": "direct-primary-page",
+          "evidence": "Non-USC student section separates official paid programs (dated2026), self-funded internships expected at least ten weeks, and exceptional remote work."
+        }
+      ]
+    }
+  ]
+}

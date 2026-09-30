@@ -1,6 +1,6 @@
 # 持续导师检索记录
 
-[查看新增候选排序](ranked_candidates.md) · [结构化记录](mentor_candidates.json) · [机构访问规则](eligibility_notes.md)
+[查看新增候选排序](ranked_candidates.md) · [结构化记录](mentor_candidates.json) · [机构访问规则](eligibility_notes.md) · [旧名单后续补充](baseline_addenda.md) · [项目周期](program_watch.md)
 
 这里只记录新发现候选。原有 **200 位**及其编号、姓名、资料和浏览器联系记录保持不变；不为旧记录补造发现时间。现有应用仍读取原 200 位，新候选先在此通过 GitHub 浏览。
 

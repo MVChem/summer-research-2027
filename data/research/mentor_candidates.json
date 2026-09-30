@@ -48,7 +48,8 @@
     "batches/hri-010.json",
     "batches/hri-011.json",
     "batches/hri-012.json",
-    "batches/hri-013.json"
+    "batches/hri-013.json",
+    "batches/hri-014.json"
   ],
   "candidates": [
     {
@@ -5894,6 +5895,32 @@
       "shortVisitStatus": "inquiry-only",
       "recordFile": "batches/hri-013.json",
       "detailPage": "batches/hri-013.md#na-du"
+    },
+    {
+      "id": "yayun-du",
+      "name": "Yayun Du",
+      "aliases": [],
+      "school": "Vanderbilt University",
+      "title": "Assistant Professor",
+      "homepage": "https://duyayun.github.io/",
+      "batch": "hri-014",
+      "discoveredAt": "2026-09-30T23:10:20Z",
+      "verifiedAt": "2026-09-30T23:14:47Z",
+      "scores": {
+        "fit": 36,
+        "physical": 20,
+        "shortVisit": 10,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Physiology-conditioned human-robot interaction",
+        "Multimodal sensing and edge AI",
+        "Adaptive robot control and reinforcement learning",
+        "Learned robot perception and navigation"
+      ],
+      "shortVisitStatus": "inquiry-only · 当前真机资源未确认",
+      "recordFile": "batches/hri-014.json",
+      "detailPage": "batches/hri-014.md#yayun-du"
     }
   ]
 }

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "yayun-du",
+    "name": "Yayun Du",
+    "aliases": [],
+    "school": "Vanderbilt University",
+    "homepage": "https://duyayun.github.io/",
+    "title": "Assistant Professor",
+    "department": "Electrical and Computer Engineering; SYMBIO-X Lab; Vanderbilt Institute for Surgery and Engineering",
+    "batch": "hri-014",
+    "discoveredAt": "2026-09-30T23:10:20Z",
+    "verifiedAt": "2026-09-30T23:14:47Z",
+    "researchAreas": [
+      "Physiology-conditioned human-robot interaction",
+      "Multimodal sensing and edge AI",
+      "Adaptive robot control and reinforcement learning",
+      "Learned robot perception and navigation"
+    ],
+    "fitReason": "An explicit short-visit inquiry route and a software-centered HRI project direction make this worth a targeted feasibility check. Python/ROS, physiological-state inference and adaptive-controller evaluation support a CS-oriented research project, though the present lab also has a substantial bioelectronics focus and the publicly described summer project is simulation-based.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "First-authored UCLA-era ICRA 2022 work deploys MobileNetV2/TensorRT on Jetson Nano aboard the physical SAMBot and evaluates weed perception/control in North Dakota fields. The primary paper's affiliation is UCLA, so it does not establish current Vanderbilt robot access. Current SYMBIO-X interests connect sensing, ML and adaptive robots, but its Summer 2026 adaptive-HRI project explicitly uses simulation with no dependency on in-lab robot access; no completed Vanderbilt physical-robot learning trial was verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only · 当前真机资源未确认",
+      "summary": "The live SYMBIO-X opportunities page explicitly welcomes short- and long-term visiting students/researchers and gives a public email inquiry route. Its separate undergraduate/master's section also welcomes research interest. No eight-week duration, summer 2027 availability, or visitor funding commitment is stated. The university's specific 10-week Summer 2026 project listing is undergraduate-oriented and entirely simulated; it is research-scope evidence, not evidence external graduate visitors qualify for that program.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 36,
+      "physical": 20,
+      "shortVisit": 10,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "clear ML/control/HRI overlap but bioelectronics-heavy and current public project simulated.",
+      "physical": "strong prior-institution real-robot deployment with current local access unknown.",
+      "shortVisit": "explicit short-term visitor invitation, with no compatible duration/funding promise.",
+      "freshness": "university labels the concrete adaptive-HRI project Summer 2026; this freshness score does not upgrade the older hardware evidence. Provisional fit/evidence score, not acceptance probability or prestige."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.vanderbilt.edu / source 1",
+        "url": "https://www.vanderbilt.edu/vise/people/yayun-du/",
+        "summary": "Full official profile confirms Vanderbilt ECE Assistant Professor and current sensing/control/ML research areas.",
+        "verifiedAt": "2026-09-30T23:14:47Z"
+      },
+      {
+        "id": "s2",
+        "label": "duyayun.github.io / source 2",
+        "url": "https://duyayun.github.io/opportunity.html",
+        "summary": "Full live lab page explicitly invites short- and long-term visiting students/researchers, provides public email, and separately describes master's/undergraduate research interest. Degree admissions deadlines remain separate.",
+        "verifiedAt": "2026-09-30T23:14:47Z"
+      },
+      {
+        "id": "s3",
+        "label": "duyayun.github.io / source 3",
+        "url": "https://duyayun.github.io/publications.html",
+        "summary": "Full lab publication page describes learned navigation and SAMBot CNN deployment, with the robotics papers dated 2021–2023.",
+        "verifiedAt": "2026-09-30T23:14:47Z"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/pdf/2112.13986",
+        "summary": "Primary full paper affiliation and Section V identify UCLA, physical SAMBot, onboard Jetson Nano/MobileNetV2 and North Dakota field experiments. This is historical/prior-institution hardware evidence.",
+        "verifiedAt": "2026-09-30T23:14:47Z"
+      },
+      {
+        "id": "s5",
+        "label": "engineering.vanderbilt.edu / source 5",
+        "url": "https://engineering.vanderbilt.edu/research/undergraduate-summer-research/",
+        "summary": "Full page labels Summer 2026 projects. Yayun Du's 10-week adaptive-robot project specifies physiological-state models and simulated control; expressly no human subjects or in-lab robot dependency. Public email is shown.",
+        "verifiedAt": "2026-09-30T23:14:47Z"
+      },
+      {
+        "id": "s6",
+        "label": "www.vanderbilt.edu / source 6",
+        "url": "https://www.vanderbilt.edu/isss/new-students-and-scholars/j-1-interns/",
+        "summary": "Full official route permits enrolled foreign postsecondary-degree students subject to degree objectives, return to degree, full-time 32-hour week, finances, host initiation, and paid/unpaid provisions; clinical/patient-care restrictions and 40% remote limit apply.",
+        "verifiedAt": "2026-09-30T23:14:47Z"
+      }
+    ],
+    "unknowns": [
+      "Public physical-robot evidence predates the Vanderbilt lab. Do not transfer UCLA hardware or field infrastructure to Vanderbilt by assumption.",
+      "The Summer 2026 undergraduate listing is historical for summer 2027 and does not establish master's eligibility or an eight-week exception.",
+      "The lab's dated PhD application deadlines are degree admissions, not a visiting-student opening.",
+      "Vanderbilt permits a conditional foreign-degree J-1 Student Intern process, including unpaid internships, but host acceptance, degree objectives, sufficient support, insurance and institutional approval are still required. Personal/family-only funding was not conclusively verified in this pass.",
+      "J-1 Student Intern activities have restrictions on clinical positions and patient contact; a nonclinical software/simulation scope is the verified project direction. Remote participation under that US appointment is capped at 40%, which does not decide the rules for separate work performed entirely abroad.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "yayun.du@vanderbilt.edu"
+  }
+]

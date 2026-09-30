@@ -57,3 +57,35 @@ Allison Okamura 的 [CHARM 个人页](https://charm.stanford.edu/Main/AllisonOka
 核查：2026-09-30T23:09:41Z。中央 [ISO FAQ](https://iso.mit.edu/getting-started/visiting-students-faq/) 描述导师邀请、在校研究的 3 周至 12 个月访问，并要求至少 51% 的全部支持来自非个人来源；完全个人/家庭自费不符合该路径。完整材料至少提前 90 天，具体日期与系所流程另核实。[ISchO](https://ischo.mit.edu/mit-administrators/visa-processing-information/j-1-visa-international-scholars/frequently-asked) 将仍在海外在读的学位学生导向 ISO Visiting Student，不能把 scholar 类别当成自动替代。
 
 [2026–27 ISO 费用估算](https://iso.mit.edu/wp-content/uploads/2026/07/VS-Estimated-Expense-AY-2026-2027.pdf) 列单人每月 4,350 美元支持额，包含生活费估算 3,725 与月费 625；这是证明支持的估算，不是全部缴费账单。[Registrar](https://registrar.mit.edu/registration-academics/tuition-fees/visiting-student) 另列 1,000 美元处理费由导师 discretionary funds 支付。金额和系所要求在 2027 安排前复核，不能由政策推定导师名额。
+
+<a id="cmu-student-intern"></a>
+
+## CMU · 独立 Student Intern 路径
+
+核查：2026-09-30T22:26:52Z。[OIE 类别说明](https://www.cmu.edu/oie/pre-arrival-and-settling-in/scholars/instructions/j1-exchange/index.html) 允许在美国以外大学攻读学位的 Student Intern，最长 12 个月，可有薪或无薪，并可使用个人或外部支持；这与上文 RISS 的本科生限制是不同路径。[申请流程](https://www.cmu.edu/oie/pre-arrival-and-settling-in/scholars/instructions/j1-exchange/application-process.html) 从导师、院系确认研究、时长及资金开始，再提交 OIE。已核查页面没有明确最低时长，八周安排仍需确认。
+
+[Student Intern Data Form](https://www.cmu.edu/oie/administrators/docs/j-intern-data-form.pdf) 的 2025 年 4 月版索引文本列 Pittsburgh 每月 3,015 美元支持额及个人资金材料；该 PDF 本次完整读取失败，因此金额为有日期的待复核信息，不是 2027 年报价或学校收费。当前类别与流程页已直接读取。
+
+<a id="jhu-visiting-graduate-scholar"></a>
+
+## Johns Hopkins · Whiting / Homewood 研究访问
+
+核查：2026-09-30T22:26:52Z。[Visiting Graduate Scholar](https://engineering.jhu.edu/admissions/graduate-admissions/full-time-programs/how-to-apply/visiting-students-scholars/) 面向已持本科学位、仍在外校全时攻读研究生学位的研究访问者，需接收院系/导师邀请及非学位申请，研究类申请费获豁免。[学术政策](https://engineering.jhu.edu/residential-grad-postdoc-academic-affairs/policies-and-procedures/) 要求逐学期注册 EN.990.890 Graduate Research Practicum，该课程不收学费；这不能被替换为没有学分或正式任命的非正式无薪工作。
+
+八周日期、保险、其他费用、财力要求、国际身份和导师容量仍待院系与 OIS 确认。这是 WSE / Homewood 的路径，不自动适用于医学院。
+
+<a id="georgia-tech-student-intern"></a>
+
+## Georgia Tech · 外校本科 / 研究生 Student Intern
+
+核查：2026-09-30T22:26:52Z。[OIE 请求流程](https://isss.oie.gatech.edu/isss/j-scholar-or-j-student-intern-ds-2019-request-process) 明确涵盖外校本科与研究生，研究须服务原学位目标，保持原校学籍并返回完成学位；每周至少 32 小时，最长 12 个月。[FAQ](https://isss.oie.gatech.edu/exchange-visitors-faqs) 明确允许自费或院系资助，并列每月 1,800 美元最低财力证明。该金额不是全部费用或学校账单，保险、旅行及行政费另核算；2027 年应重查。
+
+导师须经院系启动正式办理。具体八周项目、适用身份、资金文件与名额仍未确认，不将其他 scholar 类别的最低时长套用于 Student Intern。
+
+<a id="virginia-tech-student-intern"></a>
+
+## Virginia Tech · 外校研究生 Student Intern
+
+核查：2026-09-30T22:24:37Z。[Student Intern](https://gss.vt.edu/vt-host/vt-host-j-1/J-1-Student-Intern.html) 包括国外大学在读研究生，活动须服务原学位目标。[类别规则](https://gss.vt.edu/vt-host/vt-host-j-1/J-1-Categories.html) 列 3 周至 1 年、每周至少 32 小时，并要求访问期间保持国外学籍；禁止直接临床治疗与 childcare 等活动。八周在时长上原则可行，仍需项目与身份批准。
+
+[资金要求](https://gss.vt.edu/vt-host/vt-host-j-1/J-1-Funding-Requirements.html) 承认个人、原机构或第三方支持；2026 年 7 月 1 日后启动的 Blacksburg/Roanoke 请求列年支持额 25,656 美元，短期折算和 2027 标准须由学校确认。这是财力门槛，不是资助奖项或完整预算。[办理流程](https://gss.vt.edu/vt-host/vt-host-j-1/J-1-Request-Procedure1.html) 要求主办部门至少提前两个月提交完整材料。机构可办理不代表具体导师已承诺接收。

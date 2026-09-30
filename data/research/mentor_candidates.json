@@ -20,6 +20,7 @@
     "batches/control-009.json",
     "batches/control-010.json",
     "batches/control-011.json",
+    "batches/control-012.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -1803,6 +1804,35 @@
       "shortVisitStatus": "inquiry-only",
       "recordFile": "batches/control-011.json",
       "detailPage": "batches/control-011.md#masayoshi-tomizuka"
+    },
+    {
+      "id": "maani-ghaffari",
+      "name": "Maani Ghaffari",
+      "aliases": [
+        "Maani Ghaffari Jadidi"
+      ],
+      "school": "University of Michigan",
+      "title": "Associate Professor",
+      "homepage": "https://curly.engin.umich.edu/",
+      "batch": "control-012",
+      "discoveredAt": "2026-09-30T22:44:01Z",
+      "verifiedAt": "2026-09-30T22:50:43Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "reinforcement learning for navigation",
+        "vision-language-action models",
+        "learned world models",
+        "planning under uncertainty",
+        "robotic perception"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-012.json",
+      "detailPage": "batches/control-012.md#maani-ghaffari"
     },
     {
       "id": "tom-silver",

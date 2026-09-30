@@ -1,0 +1,125 @@
+[
+  {
+    "id": "maani-ghaffari",
+    "name": "Maani Ghaffari",
+    "aliases": [
+      "Maani Ghaffari Jadidi"
+    ],
+    "school": "University of Michigan",
+    "homepage": "https://curly.engin.umich.edu/",
+    "title": "Associate Professor",
+    "department": "Naval Architecture and Marine Engineering; Robotics",
+    "batch": "control-012",
+    "discoveredAt": "2026-09-30T22:44:01Z",
+    "verifiedAt": "2026-09-30T22:50:43Z",
+    "researchAreas": [
+      "reinforcement learning for navigation",
+      "vision-language-action models",
+      "learned world models",
+      "planning under uncertainty",
+      "robotic perception"
+    ],
+    "fitReason": "Strong current physical-autonomy fit: learned long-horizon navigation and world-model-based contact planning complement perception and uncertainty-aware control.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "LongNav-R1 (RSS2026; manuscript revised September8,2026) deploys a multi-turn RL-trained VLA on a real mobile base built from the TidyBot++ design, without a manipulator, to find an unseen elevator. Current CURLY postdoc Yue Hu is lead author and the implementation is maintained under UMich-CURLY. Ego-VCP (ICRA2026) additionally demonstrates learned-world-model/MPC contact planning on a physical humanoid. These establish lab-linked and collaborative hardware research, without proving exclusive hardware ownership or guaranteed visitor access.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The past-members roster includes an external master's visiting student from Eindhoven and several visiting PhD students. No current external master's, internship or visiting-student invitation was verified in the checked lab homepage, People, Research and Contact pages; historical precedent earns no opportunity credit.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "RL-trained VLA navigation and learned dynamics/MPC directly support physical robot autonomy.",
+      "physical": "Current lab-linked mobile-base deployment and collaborative humanoid study; conservative collaborator cap because exclusive equipment ownership is unstated.",
+      "shortVisit": "Only past external-MS visitor precedent, no current invitation verified.",
+      "freshness": "2026 primary hardware-learning studies, including manuscript revised September8, plus current agreeing official/lab title."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "robotics.umich.edu / source 1",
+        "url": "https://robotics.umich.edu/people/faculty/maani-ghaffari/",
+        "summary": "Official Associate Professor title, departments, public email and robot-learning/planning interests.",
+        "verifiedAt": "2026-09-30T22:50:43Z",
+        "retrieval": "direct official HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "curly.engin.umich.edu / source 2",
+        "url": "https://curly.engin.umich.edu/people",
+        "summary": "Associate Professor/director; Yue Hu current postdoc; external master's visitor listed under past members.",
+        "verifiedAt": "2026-09-30T22:50:43Z",
+        "retrieval": "direct official lab HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/abs/2602.12351",
+        "summary": "LongNav-R1 authorship, RSS2026 venue, initial February12 and latest September8,2026 dates.",
+        "verifiedAt": "2026-09-30T22:50:43Z",
+        "retrieval": "direct primary paper abstract via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2602.12351v2",
+        "summary": "SectionV-D and Figure8 specify actual TidyBot++-design mobile base without manipulator and zero-shot elevator navigation.",
+        "verifiedAt": "2026-09-30T22:50:43Z",
+        "retrieval": "direct primary manuscript HTML via web.run; child verification"
+      },
+      {
+        "id": "s5",
+        "label": "github.com / source 5",
+        "url": "https://github.com/UMich-CURLY/LongNav-R1",
+        "summary": "Official UMich-CURLY implementation and sim-to-real serving instructions connect the work to the lab.",
+        "verifiedAt": "2026-09-30T22:50:43Z",
+        "retrieval": "read-only primary research repository via web.run; child verification"
+      },
+      {
+        "id": "s6",
+        "label": "ego-vcp.github.io / source 6",
+        "url": "https://ego-vcp.github.io/",
+        "summary": "ICRA2026 coauthored physical-humanoid contact planning using learned world model and sampling-based MPC.",
+        "verifiedAt": "2026-09-30T22:50:43Z",
+        "retrieval": "direct author project HTML via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "curly.engin.umich.edu / source 7",
+        "url": "https://curly.engin.umich.edu/contact",
+        "summary": "Address/contact page; no explicit visitor recruitment invitation found.",
+        "verifiedAt": "2026-09-30T22:50:43Z",
+        "retrieval": "direct lab HTML and cloud-browser navigation inspection; child verification"
+      }
+    ],
+    "unknowns": [
+      "Eight-week hosting, external master's eligibility, funding and formal appointment remain unconfirmed. Internal Michigan MS membership and past visitors do not establish an open route. The Robotics directory and current lab agree on Associate Professor; the separate NAME page retains an older Assistant Professor title. The physical navigation demonstration does not demonstrate manipulation or a broad hardware benchmark.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "maanigj@umich.edu"
+  }
+]

@@ -33,7 +33,8 @@
     "batches/hri-005.json",
     "batches/hri-006.json",
     "batches/hri-007.json",
-    "batches/hri-008.json"
+    "batches/hri-008.json",
+    "batches/hri-009.json"
   ],
   "candidates": [
     {
@@ -5233,6 +5234,36 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-008.json",
       "detailPage": "batches/hri-008.md#maria-kyrarini"
+    },
+    {
+      "id": "matthew-r-walter",
+      "name": "Matthew R. Walter",
+      "aliases": [
+        "Matt Walter",
+        "Matthew Walter"
+      ],
+      "school": "Toyota Technological Institute at Chicago (TTIC)",
+      "title": "Associate Professor",
+      "homepage": "https://ttic.edu/faculty/walter/",
+      "batch": "hri-009",
+      "discoveredAt": "2026-09-30T22:29:04Z",
+      "verifiedAt": "2026-09-30T22:31:06Z",
+      "scores": {
+        "fit": 40,
+        "physical": 25,
+        "shortVisit": 5,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Multimodal robot perception",
+        "Language-grounded robotics",
+        "Imitation learning",
+        "Shared autonomy",
+        "Contact-rich teleoperation"
+      ],
+      "shortVisitStatus": "inquiry-only · 通常12–15周，8周未确认",
+      "recordFile": "batches/hri-009.json",
+      "detailPage": "batches/hri-009.md#matthew-r-walter"
     }
   ]
 }

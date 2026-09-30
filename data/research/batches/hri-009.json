@@ -1,0 +1,123 @@
+[
+  {
+    "id": "matthew-r-walter",
+    "name": "Matthew R. Walter",
+    "aliases": [
+      "Matt Walter",
+      "Matthew Walter"
+    ],
+    "school": "Toyota Technological Institute at Chicago (TTIC)",
+    "homepage": "https://ttic.edu/faculty/walter/",
+    "title": "Associate Professor",
+    "department": "Computer Science; Robot Intelligence through Perception Laboratory",
+    "batch": "hri-009",
+    "discoveredAt": "2026-09-30T22:29:04Z",
+    "verifiedAt": "2026-09-30T22:31:06Z",
+    "researchAreas": [
+      "Multimodal robot perception",
+      "Language-grounded robotics",
+      "Imitation learning",
+      "Shared autonomy",
+      "Contact-rich teleoperation"
+    ],
+    "fitReason": "Excellent overlap with embodied AI, 3D perception, natural-language grounding and physically grounded human-AI collaboration. Recent work connects haptic demonstration quality to learned manipulation policies and camera geometry to policy generalization.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The March 31, 2026 HapCompass primary paper details a physical robot arm with tactile three-finger gripper, wrist force-torque sensor and hand-tracking teleoperation. Experiments include physical key/USB insertion and fragile probing, plus imitation-policy rollouts from collected demonstrations. A separate 2026 project description documents UR5 camera-conditioned manipulation.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only · 通常12–15周，8周未确认",
+      "summary": "RIPL explicitly encourages applications to TTIC's Visiting Student/Intern Program. The live program accepts current graduate students and international applicants; offers are initiated by listed faculty hosts. Typical summer duration is 12–15 weeks (about three months), so an approximately eight-week visit needs explicit approval. Apply roughly 5–6 months before desired start. Funding varies; the institution acknowledges occasional volunteer visits. No summer 2027 host commitment or funding amount is confirmed.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 40,
+      "physical": 25,
+      "shortVisit": 5,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "direct language, perception, imitation and human-robot collaboration.",
+      "physical": "detailed 2026 real manipulation and tactile learning.",
+      "shortVisit": "An explicit visitor route exists, but the standard summer duration is 12–15 weeks; an approximately eight-week exception is not confirmed.",
+      "freshness": "March/June 2026 papers and September 2026 lab update."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "ttic.edu / source 1",
+        "url": "https://ttic.edu/faculty/walter/",
+        "summary": "Official Associate Professor title and robotics/perception research.",
+        "verifiedAt": "2026-09-30T22:31:06Z"
+      },
+      {
+        "id": "s2",
+        "label": "home.ttic.edu / source 2",
+        "url": "https://home.ttic.edu/~mwalter/",
+        "summary": "Public email, TTIC role and RIPL directorship.",
+        "verifiedAt": "2026-09-30T22:31:06Z"
+      },
+      {
+        "id": "s3",
+        "label": "ttic.edu / source 3",
+        "url": "https://ttic.edu/ripl/",
+        "summary": "Direct lab invitation to Visiting Student Program; June 2026 activity and September 20, 2026 update.",
+        "verifiedAt": "2026-09-30T22:31:06Z"
+      },
+      {
+        "id": "s4",
+        "label": "ttic.edu / source 4",
+        "url": "https://ttic.edu/visiting-student/",
+        "summary": "Full program requirements: graduate and international applicants, host-directed applications, normal 12–15 weeks, variable funding/volunteer possibilities, insurance and fees.",
+        "verifiedAt": "2026-09-30T22:31:06Z"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2603.30042v1",
+        "summary": "Primary March 2026 HapCompass paper: physical haptic teleoperation architecture, contact-rich manipulation and imitation-learning rollouts.",
+        "verifiedAt": "2026-09-30T22:31:06Z"
+      },
+      {
+        "id": "s6",
+        "label": "ripl.github.io / source 6",
+        "url": "https://ripl.github.io/HapCompass/",
+        "summary": "Official research project with physical experiment demonstrations and released hardware/code.",
+        "verifiedAt": "2026-09-30T22:31:06Z"
+      },
+      {
+        "id": "s7",
+        "label": "lucienji.github.io / source 7",
+        "url": "https://lucienji.github.io/research/know-your-camera/",
+        "summary": "Coauthor's primary 2026 project account identifies real UR5 manipulation trials; complements simulation benchmarks.",
+        "verifiedAt": "2026-09-30T22:31:06Z"
+      }
+    ],
+    "unknowns": [
+      "Eight weeks is shorter than TTIC's stated usual 12–15-week summer visit. Do not present the standard program as duration-compatible without approval.",
+      "International English evidence is required before an offer; currently listed options include AEPA, TOEFL speaking and IELTS Academic speaking thresholds. Recheck for 2027.",
+      "Health insurance and University of Chicago student-life privileges are required, with fees. Travel and relocation are typically not covered; exact support depends on the host and funding.",
+      "The Institute's mention of volunteer visits does not establish a particular visitor’s appointment or visa eligibility. Self-funding must be approved through the formal program.",
+      "Current official faculty directory and personal page say Associate Professor; general news uses Professor as a broad address.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "mwalter@ttic.edu"
+  }
+]

@@ -292,7 +292,7 @@
     "department": "Informatics and Cognitive Science, Luddy School",
     "batch": "hri-001",
     "discoveredAt": "2026-09-30T21:22:12Z",
-    "verifiedAt": "2026-09-30T21:27:42Z",
+    "verifiedAt": "2026-09-30T22:34:57Z",
     "researchAreas": [
       "Human-robot interaction",
       "Socially assistive robots",
@@ -322,13 +322,13 @@
       "fit": 34,
       "physical": 23,
       "shortVisit": 8,
-      "freshness": 5
+      "freshness": 15
     },
     "scoreReasons": {
       "fit": "direct HRI but less algorithm-centric.",
       "physical": "named physical social/manipulation platforms and field work.",
       "shortVisit": "explicit visitor invitation without duration/eligibility.",
-      "freshness": "Current undated faculty and lab pages were verified; no explicitly dated 2025–2026 research update is cited."
+      "freshness": "Official IU publications list dated 2026 HRI work including BehaviorKit and IRIS, replacing the earlier undated-source limitation."
     },
     "sources": [
       {
@@ -351,6 +351,14 @@
         "url": "https://r-house.luddy.indiana.edu/contact/index.html",
         "summary": "Explicit invitation to students, researchers and visiting scholars; also lists selmas@indiana.edu.",
         "verifiedAt": "2026-09-30T21:27:42Z"
+      },
+      {
+        "id": "s-2026-refresh",
+        "label": "IU · dated 2026 research",
+        "url": "https://vision.luddy.iu.edu/publications/by-year.html",
+        "summary": "Official lab bibliography lists 2026 BehaviorKit and IRIS research coauthored by Šabanović; this supports research freshness, not a visitor offer.",
+        "verifiedAt": "2026-09-30T22:34:57Z",
+        "retrieval": "direct-primary-page"
       }
     ],
     "unknowns": [
@@ -459,7 +467,7 @@
     "department": "Computer Science; additional appointment in Mechanical Engineering",
     "batch": "hri-001",
     "discoveredAt": "2026-09-30T21:22:28Z",
-    "verifiedAt": "2026-09-30T21:27:42Z",
+    "verifiedAt": "2026-09-30T22:33:54Z",
     "researchAreas": [
       "Social robotics",
       "Embodied computational models",
@@ -533,7 +541,8 @@
       "Do not apply to the high-school or undergraduate pathways for a master's placement.",
       "The graduate-admissions page asks applicants not to send admissions materials directly; a visitor inquiry would require separate clarification.",
       "Host capacity, visitor appointment, funding and ethical/research-access constraints remain unknown.",
-      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Yale VAR 的硕士论文与 J-1 外部资金条件需核实；不可假设仅个人自费可行。[机构说明](../eligibility_notes.md#yale-var)"
     ],
     "publicEmail": "brian.scassellati@yale.edu"
   },

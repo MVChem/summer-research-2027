@@ -41,3 +41,11 @@ Allison Okamura 的 [CHARM 个人页](https://charm.stanford.edu/Main/AllisonOka
 核查：2026-09-30T21:34:38Z。[RISS FAQ](https://riss.ri.cmu.edu/faq/) 将项目限定为满足条件的本科生，并明确排除硕士、博士、职业学位学生以及进入硕士阶段的本硕连读学生；国际学生在美国以外大学就读也列为不符合条件。页面列出的合作项目仍需符合一般与项目特定要求。
 
 因此，某实验室过去接收 RISS 学生只能说明历史本科暑研活动，不能当成外校研究生短访入口。其他独立导师访问任命是否存在，需另外核实。
+
+<a id="yale-var"></a>
+
+## Yale · VAR 的论文与资助限制
+
+核查：2026-09-30T22:33:54Z。VAR 面向持续在外校就读、研究构成本校学位论文工作的研究生；官方 FAQ 明确不接受无论文要求的硕士项目。Yale 赞助的 J-1 学生身份要求至少 51% 的学费与生活支持来自非个人、非家庭的外部奖学金/助研等来源，不能假设仅个人自费就符合。国际申请至少提前 90 天；页面现列每月或不足一月 425 美元及其他申请/文件费用，2027 年应复核。需导师与院系批准，机构规则不证明实验室名额。
+
+来源：[Yale VAR](https://gsas.yale.edu/admissions/non-degree-application-process/visiting-assistant-research-var)、[VAR FAQ](https://gsas.yale.edu/admissions/non-degree-application-process/visiting-assistant-research-var/visiting-assistant-research-var-faqs)。未核实其他适用身份，不将其他类别当作自动替代方案。

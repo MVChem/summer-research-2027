@@ -98,7 +98,7 @@
     "department": "Computer Science",
     "batch": "hri-002",
     "discoveredAt": "2026-09-30T21:28:48Z",
-    "verifiedAt": "2026-09-30T21:35:06Z",
+    "verifiedAt": "2026-09-30T22:33:54Z",
     "researchAreas": [
       "Robot learning",
       "3D perception for manipulation",
@@ -172,7 +172,8 @@
       "An eight-week external master's appointment, supervision, funding or permitted personal funding, international eligibility and hardware access require host/institution confirmation.",
       "Use full official name Daniel Rakita; Danny is an alias, not a second candidate.",
       "A PhD recruiting page or undergraduate Yale position is not short-visit evidence.",
-      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Yale VAR 的硕士论文与 J-1 外部资金条件需核实；不可假设仅个人自费可行。[机构说明](../eligibility_notes.md#yale-var)"
     ],
     "publicEmail": "daniel.rakita@yale.edu"
   },

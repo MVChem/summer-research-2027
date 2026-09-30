@@ -20,6 +20,7 @@
     "batches/embodied-003.json",
     "batches/embodied-004.json",
     "batches/embodied-005.json",
+    "batches/embodied-006.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -2494,6 +2495,189 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-005.json",
       "detailPage": "batches/embodied-005.md#ron-alterovitz"
+    },
+    {
+      "id": "jiachen-li",
+      "name": "Jiachen Li",
+      "aliases": [],
+      "school": "Georgia Institute of Technology",
+      "title": "Assistant Professor; Coca-Cola Foundation Early Career Professor",
+      "homepage": "https://jiachenli94.github.io/",
+      "batch": "embodied-006",
+      "discoveredAt": "2026-09-30T22:02:43Z",
+      "verifiedAt": "2026-09-30T22:06:50Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Robot reinforcement learning",
+        "Mobile manipulation",
+        "Foundation models",
+        "Safe embodied navigation",
+        "Human-robot interaction"
+      ],
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/embodied-006.json",
+      "detailPage": "batches/embodied-006.md#jiachen-li"
+    },
+    {
+      "id": "yifan-zhu",
+      "name": "Yifan Zhu",
+      "aliases": [],
+      "school": "University of Illinois Chicago",
+      "title": "Assistant Professor",
+      "homepage": "https://yifanzhu95.github.io/",
+      "batch": "embodied-006",
+      "discoveredAt": "2026-09-30T22:00:12Z",
+      "verifiedAt": "2026-09-30T22:47:41Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 9,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Contact-aware robot learning",
+        "Predictive world models",
+        "Visual-tactile perception",
+        "Differentiable simulation"
+      ],
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/embodied-006.json",
+      "detailPage": "batches/embodied-006.md#yifan-zhu"
+    },
+    {
+      "id": "alex-wong",
+      "name": "Alex Wong",
+      "aliases": [],
+      "school": "Yale University",
+      "title": "Assistant Professor",
+      "homepage": "https://vision.cs.yale.edu/",
+      "batch": "embodied-006",
+      "discoveredAt": "2026-09-30T22:00:12Z",
+      "verifiedAt": "2026-09-30T22:06:50Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 5,
+        "freshness": 14
+      },
+      "researchAreas": [
+        "Tactile multimodal models",
+        "Sensor fusion",
+        "Visual force estimation",
+        "Self-supervised perception"
+      ],
+      "shortVisitStatus": "indexed-inquiry-unconfirmed · Yale VAR条件",
+      "recordFile": "batches/embodied-006.json",
+      "detailPage": "batches/embodied-006.md#alex-wong"
+    },
+    {
+      "id": "georgios-pavlakos",
+      "name": "Georgios Pavlakos",
+      "aliases": [],
+      "school": "University of Texas at Austin",
+      "title": "Assistant Professor",
+      "homepage": "https://geopavlakos.github.io/",
+      "batch": "embodied-006",
+      "discoveredAt": "2026-09-30T22:00:50Z",
+      "verifiedAt": "2026-09-30T22:06:50Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Few-shot robot imitation",
+        "Human motion understanding",
+        "Robot visual memory",
+        "Embodied multimodal reasoning"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-006.json",
+      "detailPage": "batches/embodied-006.md#georgios-pavlakos"
+    },
+    {
+      "id": "chen-feng",
+      "name": "Chen Feng",
+      "aliases": [],
+      "school": "New York University",
+      "title": "Institute Associate Professor; Founding Co-Director, Center for Robotics and Embodied Intelligence",
+      "homepage": "https://ai4ce.github.io/",
+      "batch": "embodied-006",
+      "discoveredAt": "2026-09-30T22:02:43Z",
+      "verifiedAt": "2026-09-30T22:06:50Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Robot learning",
+        "Contact-rich manipulation",
+        "Vision-force fusion",
+        "Embodied navigation"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-006.json",
+      "detailPage": "batches/embodied-006.md#chen-feng"
+    },
+    {
+      "id": "luis-sentis",
+      "name": "Luis Sentis",
+      "aliases": [],
+      "school": "University of Texas at Austin",
+      "title": "Professor; Frank and Kay Reese Endowed Professorship in Engineering",
+      "homepage": "https://sites.utexas.edu/hcrl/",
+      "batch": "embodied-006",
+      "discoveredAt": "2026-09-30T22:02:21Z",
+      "verifiedAt": "2026-09-30T22:06:50Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Cross-embodiment imitation",
+        "Humanoid loco-manipulation",
+        "Dexterous teleoperation",
+        "Whole-body control"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-006.json",
+      "detailPage": "batches/embodied-006.md#luis-sentis"
+    },
+    {
+      "id": "ziyun-claude-wang",
+      "name": "Ziyun (Claude) Wang",
+      "aliases": [],
+      "school": "Johns Hopkins University",
+      "title": "Assistant Professor",
+      "homepage": "https://spike-lab.org/",
+      "batch": "embodied-006",
+      "discoveredAt": "2026-09-30T22:00:23Z",
+      "verifiedAt": "2026-09-30T22:06:50Z",
+      "scores": {
+        "fit": 34,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Active robot perception",
+        "Neuromorphic vision",
+        "Scene reconstruction",
+        "Learning-based sensing"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-006.json",
+      "detailPage": "batches/embodied-006.md#ziyun-claude-wang"
     },
     {
       "id": "henny-admoni",

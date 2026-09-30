@@ -1,0 +1,731 @@
+[
+  {
+    "id": "jiachen-li",
+    "name": "Jiachen Li",
+    "aliases": [],
+    "school": "Georgia Institute of Technology",
+    "homepage": "https://jiachenli94.github.io/",
+    "title": "Assistant Professor; Coca-Cola Foundation Early Career Professor",
+    "department": "H. Milton Stewart School of Industrial and Systems Engineering; George W. Woodruff School of Mechanical Engineering",
+    "batch": "embodied-006",
+    "discoveredAt": "2026-09-30T22:02:43Z",
+    "verifiedAt": "2026-09-30T22:06:50Z",
+    "researchAreas": [
+      "Robot reinforcement learning",
+      "Mobile manipulation",
+      "Foundation models",
+      "Safe embodied navigation",
+      "Human-robot interaction"
+    ],
+    "fitReason": "TASL lists 2026 hierarchical residual mobile-manipulation learning and VLA work. A concrete open project, Proximity-Safety Balance (IROS 2026), learns human-following policies with adjustable constraints.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The IROS 2026 project explicitly deploys on a ROSMASTER X3. Current lab facilities list FR3, TIAGo++, RealMan dual-arm platform, Aloha, dexterous hands and quadrupeds.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "Current Georgia Tech lab Join Us explicitly solicits onsite/remote research interns and visiting scholars via an interest form, alongside separate degree applications.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 8,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong embodied RL/foundation-model scope, with open physical navigation anchor.",
+      "physical": "Named 2026 deployment and substantial current robot inventory.",
+      "shortVisit": "Explicit onsite/remote interns and visiting scholars, length unspecified.",
+      "freshness": "Current GT official record and IROS/CoRL2026 lab updates."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "people.research.gatech.edu / source 1",
+        "url": "https://people.research.gatech.edu/jiachen-li",
+        "summary": "Official current joint appointment and explicit email.",
+        "verifiedAt": "2026-09-30T22:06:50Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "jiachenli94.github.io / source 2",
+        "url": "https://jiachenli94.github.io/",
+        "summary": "Current GT role and former UCR role.",
+        "verifiedAt": "2026-09-30T22:06:50Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "tasl-lab.github.io / source 3",
+        "url": "https://tasl-lab.github.io/join/",
+        "summary": "Directly read onsite/remote intern and visiting-scholar invitation; bachelor’s-or-higher STEM background.",
+        "verifiedAt": "2026-09-30T22:06:50Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "tasl-lab.github.io / source 4",
+        "url": "https://tasl-lab.github.io/publications/",
+        "summary": "2026 mobile-manipulation and VLA research list; some links are placeholders.",
+        "verifiedAt": "2026-09-30T22:06:50Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "nav-ps-balance.github.io / source 5",
+        "url": "https://nav-ps-balance.github.io/",
+        "summary": "Primary IROS2026 RL framework and named ROSMASTER X3 deployment.",
+        "verifiedAt": "2026-09-30T22:06:50Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/abs/2608.10056",
+        "summary": "Dated primary 2026 project paper.",
+        "verifiedAt": "2026-09-30T22:06:50Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s7",
+        "label": "tasl-lab.github.io / source 7",
+        "url": "https://tasl-lab.github.io/facilities/",
+        "summary": "Current explicit robot inventory.",
+        "verifiedAt": "2026-09-30T22:06:50Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Eight-week compatibility, intern funding and university visitor rules are unspecified. Spring/Fall2027 funded dates explicitly concern PhD students, not confirmed internships. Georgia Tech is current; older UCR affiliations remain in papers. New CoRL mobile-manipulation title is lab-reported but its linked manuscript is not yet available.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "jiachen_li@gatech.edu"
+  },
+  {
+    "id": "yifan-zhu",
+    "name": "Yifan Zhu",
+    "aliases": [],
+    "school": "University of Illinois Chicago",
+    "homepage": "https://yifanzhu95.github.io/",
+    "title": "Assistant Professor",
+    "department": "Computer Science",
+    "batch": "embodied-006",
+    "discoveredAt": "2026-09-30T22:00:12Z",
+    "verifiedAt": "2026-09-30T22:47:41Z",
+    "researchAreas": [
+      "Contact-aware robot learning",
+      "Predictive world models",
+      "Visual-tactile perception",
+      "Differentiable simulation"
+    ],
+    "fitReason": "The Adaptive Robotics Lab connects learned contact representations and physical models. Forces for Free and One-Shot Real-to-Sim (2025) provide focused perception/model-learning project anchors.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The June 2025 compliant-hand force-estimation research has public Model F3 hardware/code/data releases and prior Yale-associated physical experiments. The repository depositors are listed coauthors; this does not imply Yifan personally uploaded the hardware or that it is currently available in the new UIC lab.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "A separate Prospective Interns/Visiting Scholars section explicitly offers shorter-term projects. Applicants are asked to email CV, transcripts and a self-introduction using the Prospective Intern subject tag.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 20,
+      "shortVisit": 9,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "Strong contact-rich robot learning and world-modeling fit.",
+      "physical": "The concrete June 2025 hardware study predates the UIC appointment and was conducted in Yale-related research; current UIC platform access is unconfirmed.",
+      "shortVisit": "Explicit shorter-term projects for interns/visiting scholars, but no duration or 2027 eligibility guarantee.",
+      "freshness": "The cited dated research and lab news reach 2025; the current profile is undated and no distinct 2026 source was verified."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "cs.uic.edu / source 1",
+        "url": "https://cs.uic.edu/profiles/zhu-yifan/",
+        "summary": "Current assistant professor appointment, email and contact-modeling scope.",
+        "verifiedAt": "2026-09-30T22:06:50Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "yifanzhu95.github.io / source 2",
+        "url": "https://yifanzhu95.github.io/prospective/",
+        "summary": "Directly read explicit shorter-term intern/visiting-scholar route.",
+        "verifiedAt": "2026-09-30T22:06:50Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "adaptive-robotics-lab.github.io / source 3",
+        "url": "https://adaptive-robotics-lab.github.io/",
+        "summary": "UIC lab launched August 2025; recent research and publication links.",
+        "verifiedAt": "2026-09-30T22:06:50Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "yifanzhu95.github.io / source 4",
+        "url": "https://yifanzhu95.github.io/",
+        "summary": "Named robot experience and 2025 physical research.",
+        "verifiedAt": "2026-09-30T22:06:50Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "zenodo.org / source 5",
+        "url": "https://zenodo.org/records/15468205",
+        "summary": "Primary author release of Model F3 gripper and test/data-collection hardware.",
+        "verifiedAt": "2026-09-30T22:06:50Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "No minimum/maximum duration, funding, summer-2027 slot or external master’s appointment eligibility is stated. Recent cited hardware work predates the UIC lab launch, so local equipment access needs confirmation.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "yifan16@uic.edu"
+  },
+  {
+    "id": "alex-wong",
+    "name": "Alex Wong",
+    "aliases": [],
+    "school": "Yale University",
+    "homepage": "https://vision.cs.yale.edu/",
+    "title": "Assistant Professor",
+    "department": "Computer Science",
+    "batch": "embodied-006",
+    "discoveredAt": "2026-09-30T22:00:12Z",
+    "verifiedAt": "2026-09-30T22:06:50Z",
+    "researchAreas": [
+      "Tactile multimodal models",
+      "Sensor fusion",
+      "Visual force estimation",
+      "Self-supervised perception"
+    ],
+    "fitReason": "UniTac (ECCV 2026) studies cross-sensor tactile understanding and generation. Forces for Free (Science Robotics 2025) adds a real compliant-hand sensing project.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The Forces for Free collaboration has a primary author release of Model F3 gripper and experiment hardware, plus code for force estimation. UniTac is tactile representation work and is not itself evidence of a deployed robot policy.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "indexed-inquiry-unconfirmed · Yale VAR条件",
+      "summary": "Indexed university-hosted lab homepage explicitly welcomes visiting students and interns; indexed contact page groups Prospective Students, Visitors, and Interns and asks for CV email.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 20,
+      "shortVisit": 5,
+      "freshness": 14
+    },
+    "scoreReasons": {
+      "fit": "Strong tactile representation and perception fit; less direct policy specialization.",
+      "physical": "The verified hardware anchor is a compliant-gripper collaboration; current own-lab robot policy deployment and access are unconfirmed.",
+      "shortVisit": "Explicit visitor/intern wording exists only in older indexed official text; provisional low score.",
+      "freshness": "2026 primary paper and current directory, visitor text older/unreadable live."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.yale.edu / source 1",
+        "url": "https://engineering.yale.edu/research-and-faculty/faculty-directory/alex-wong",
+        "summary": "Direct official faculty page confirms assistant professor and public email.",
+        "verifiedAt": "2026-09-30T22:06:50Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "vision.cs.yale.edu / source 2",
+        "url": "https://vision.cs.yale.edu/",
+        "summary": "Explicit visitors/interns invitation; available as older indexed text only.",
+        "verifiedAt": "2026-09-30T22:06:50Z",
+        "retrieval": "indexed-primary-excerpt"
+      },
+      {
+        "id": "s3",
+        "label": "vision.cs.yale.edu / source 3",
+        "url": "https://vision.cs.yale.edu/contact/",
+        "summary": "Visitor/intern heading and CV contact instructions; direct fetch failed.",
+        "verifiedAt": "2026-09-30T22:06:50Z",
+        "retrieval": "indexed-primary-excerpt"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/abs/2606.31451",
+        "summary": "Primary ECCV2026 tactile multimodal model paper.",
+        "verifiedAt": "2026-09-30T22:06:50Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "vision.cs.yale.edu / source 5",
+        "url": "https://vision.cs.yale.edu/2025/08/02/post.html",
+        "summary": "University lab confirms Forces for Free authorship.",
+        "verifiedAt": "2026-09-30T22:06:50Z",
+        "retrieval": "indexed-primary-excerpt"
+      },
+      {
+        "id": "s6",
+        "label": "zenodo.org / source 6",
+        "url": "https://zenodo.org/records/15468205",
+        "summary": "Primary author-released gripper/experiment hardware.",
+        "verifiedAt": "2026-09-30T22:06:50Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s7",
+        "label": "zenodo.org / source 7",
+        "url": "https://zenodo.org/records/15468194",
+        "summary": "Primary force-estimation code release.",
+        "verifiedAt": "2026-09-30T22:06:50Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Live lab homepage/contact fetches failed repeatedly. The available indexed pages were crawled about 1.1years earlier; invitation must be reconfirmed live before using. Contact wording also refers prospective students to degree admissions, leaving visitor appointment details unresolved.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Yale VAR 的硕士论文与 J-1 外部资金条件需核实；不可假设仅个人自费可行。[机构说明](../eligibility_notes.md#yale-var)"
+    ],
+    "publicEmail": "alex.wong@yale.edu"
+  },
+  {
+    "id": "georgios-pavlakos",
+    "name": "Georgios Pavlakos",
+    "aliases": [],
+    "school": "University of Texas at Austin",
+    "homepage": "https://geopavlakos.github.io/",
+    "title": "Assistant Professor",
+    "department": "Computer Science",
+    "batch": "embodied-006",
+    "discoveredAt": "2026-09-30T22:00:50Z",
+    "verifiedAt": "2026-09-30T22:06:50Z",
+    "researchAreas": [
+      "Few-shot robot imitation",
+      "Human motion understanding",
+      "Robot visual memory",
+      "Embodied multimodal reasoning"
+    ],
+    "fitReason": "COLLAGE (CoRL 2025) retrieves useful demonstrations for few-shot robot policy learning. STAR (ICRA 2026) combines visual-language reasoning with temporal memory and embodied object search.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "COLLAGE reports six real manipulation tasks with physical policy rollouts; STAR explicitly demonstrates object retrieval on a Tiago robot.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current external short-term visitor or summer master’s pathway verified in the reviewed official faculty and personal research pages.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct imitation-learning and embodied reasoning projects within wider vision agenda.",
+      "physical": "Real manipulation and mobile-robot tests are in collaborative projects; present host-lab equipment ownership is unconfirmed.",
+      "shortVisit": "No external visit invitation verified.",
+      "freshness": "2026 STAR acceptance on faculty page and 2025 CoRL hardware project."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.cs.utexas.edu / source 1",
+        "url": "https://www.cs.utexas.edu/people/faculty-researchers/georgios-pavlakos",
+        "summary": "Official assistant professor role and email.",
+        "verifiedAt": "2026-09-30T22:06:50Z",
+        "retrieval": "indexed-primary-excerpt"
+      },
+      {
+        "id": "s2",
+        "label": "geopavlakos.github.io / source 2",
+        "url": "https://geopavlakos.github.io/",
+        "summary": "Current UT appointment and 2025–2026 robotics projects.",
+        "verifiedAt": "2026-09-30T22:06:50Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "robin-lab.cs.utexas.edu / source 3",
+        "url": "https://robin-lab.cs.utexas.edu/COLLAGE/",
+        "summary": "Primary few-shot imitation project, equal advising and six real manipulation tasks.",
+        "verifiedAt": "2026-09-30T22:06:50Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "amrl.cs.utexas.edu / source 4",
+        "url": "https://amrl.cs.utexas.edu/STAR/",
+        "summary": "Primary memory/action project with named Tiago deployment.",
+        "verifiedAt": "2026-09-30T22:06:50Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Broader group agenda is 3D vision and human modeling; projects cited are collaborative, so direct mentoring and hardware access need confirmation.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "pavlakos@cs.utexas.edu"
+  },
+  {
+    "id": "chen-feng",
+    "name": "Chen Feng",
+    "aliases": [],
+    "school": "New York University",
+    "homepage": "https://ai4ce.github.io/",
+    "title": "Institute Associate Professor; Founding Co-Director, Center for Robotics and Embodied Intelligence",
+    "department": "Computer Science and Engineering; Mechanical and Aerospace Engineering; Civil, Urban, and Environmental Engineering",
+    "batch": "embodied-006",
+    "discoveredAt": "2026-09-30T22:02:43Z",
+    "verifiedAt": "2026-09-30T22:06:50Z",
+    "researchAreas": [
+      "Robot learning",
+      "Contact-rich manipulation",
+      "Vision-force fusion",
+      "Embodied navigation"
+    ],
+    "fitReason": "VFAL (RA-L2026) integrates vision-foundation-model pose estimates, force feedback and online learning for insertion into moving targets. Broader work includes web-video navigation and active perception.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "VFAL directly specifies FANUC CRX-10iA/L and FS-15iA force/torque sensing for physical moving-hole insertion, motion variation and failure recovery.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "AI4CE Openings directs interested researchers to a form rather than directly emailing the PI. No external-visitor category or visit duration could be verified because the form was unreadable.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct learned contact manipulation and foundation-model perception fit.",
+      "physical": "Named physical insertion experiments credit GM resources; current NYU-local access is unconfirmed.",
+      "shortVisit": "Generic form only; external short-visit pathway unverified.",
+      "freshness": "RA-L2026 project and current NYU profile."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.nyu.edu / source 1",
+        "url": "https://engineering.nyu.edu/faculty/chen-feng",
+        "summary": "Official current title, departments and public email.",
+        "verifiedAt": "2026-09-30T22:06:50Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "ai4ce.github.io / source 2",
+        "url": "https://ai4ce.github.io/",
+        "summary": "Current lab and 2026 research updates.",
+        "verifiedAt": "2026-09-30T22:06:50Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "ai4ce.github.io / source 3",
+        "url": "https://ai4ce.github.io/openings/",
+        "summary": "Direct form-first instruction; category-specific terms not available.",
+        "verifiedAt": "2026-09-30T22:06:50Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "ai4ce.github.io / source 4",
+        "url": "https://ai4ce.github.io/VFAL/",
+        "summary": "Primary RA-L2026 physical manipulation methods, named hardware and industry-resource attribution.",
+        "verifiedAt": "2026-09-30T22:06:50Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "General interest form alone does not establish external master’s eligibility. VFAL credits GM resources, so university-local access to the experimental setup must be checked. H* visual search and CityWalker webpage evaluations should not be substituted for hardware evidence.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "cfeng@nyu.edu"
+  },
+  {
+    "id": "luis-sentis",
+    "name": "Luis Sentis",
+    "aliases": [],
+    "school": "University of Texas at Austin",
+    "homepage": "https://sites.utexas.edu/hcrl/",
+    "title": "Professor; Frank and Kay Reese Endowed Professorship in Engineering",
+    "department": "Aerospace Engineering and Engineering Mechanics",
+    "batch": "embodied-006",
+    "discoveredAt": "2026-09-30T22:02:21Z",
+    "verifiedAt": "2026-09-30T22:06:50Z",
+    "researchAreas": [
+      "Cross-embodiment imitation",
+      "Humanoid loco-manipulation",
+      "Dexterous teleoperation",
+      "Whole-body control"
+    ],
+    "fitReason": "LEGATO (RA-L2025) transfers visuomotor policies from a handheld demonstration tool to robots; 2026 work adds dexterous manipulation interfaces and bilateral haptic teleoperation.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "LEGATO project demonstrates a learned policy on a Panda for lid closure, cup shelving and ladle reorganization. Lab reports a September2026 dexterous-hand/haptic-wearable experimental collaboration.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current external master’s summer visitor intake or eight-week pathway verified from the official faculty, lab and contact pages.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong cross-embodiment learning and humanoid manipulation fit.",
+      "physical": "LEGATO hardware experiments were conducted during an AI Institute internship; current UT-local access is unconfirmed.",
+      "shortVisit": "No external short-visit route verified.",
+      "freshness": "2026 lab activity and RA-L2025 robot-policy study."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "ae.utexas.edu / source 1",
+        "url": "https://ae.utexas.edu/person/luis-sentis/",
+        "summary": "Current official professor title, named appointment and email.",
+        "verifiedAt": "2026-09-30T22:06:50Z",
+        "retrieval": "indexed-primary-excerpt"
+      },
+      {
+        "id": "s2",
+        "label": "sites.utexas.edu / source 2",
+        "url": "https://sites.utexas.edu/hcrl/",
+        "summary": "September2026 hardware collaboration and active lab updates.",
+        "verifiedAt": "2026-09-30T22:06:50Z",
+        "retrieval": "indexed-primary-excerpt"
+      },
+      {
+        "id": "s3",
+        "label": "sites.utexas.edu / source 3",
+        "url": "https://sites.utexas.edu/hcrl/contact/",
+        "summary": "University professional contact.",
+        "verifiedAt": "2026-09-30T22:06:50Z",
+        "retrieval": "indexed-primary-excerpt"
+      },
+      {
+        "id": "s4",
+        "label": "sites.utexas.edu / source 4",
+        "url": "https://sites.utexas.edu/hcrl/publications/",
+        "summary": "2025 imitation and 2026 manipulation research.",
+        "verifiedAt": "2026-09-30T22:06:50Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "ut-hcrl.github.io / source 5",
+        "url": "https://ut-hcrl.github.io/LEGATO/",
+        "summary": "Primary Panda learned-policy deployment and AI Institute resource attribution.",
+        "verifiedAt": "2026-09-30T22:06:50Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/abs/2411.03682",
+        "summary": "RA-L2025 primary paper and cross-embodiment method.",
+        "verifiedAt": "2026-09-30T22:06:50Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "LEGATO was conducted during a student’s AI Institute internship; university hardware availability and project supervision cannot be inferred from that collaboration. Current title source header differs from an older fellowship description in its bio; use professor and header named appointment.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "lsentis@austin.utexas.edu"
+  },
+  {
+    "id": "ziyun-claude-wang",
+    "name": "Ziyun (Claude) Wang",
+    "aliases": [],
+    "school": "Johns Hopkins University",
+    "homepage": "https://spike-lab.org/",
+    "title": "Assistant Professor",
+    "department": "Electrical and Computer Engineering",
+    "batch": "embodied-006",
+    "discoveredAt": "2026-09-30T22:00:23Z",
+    "verifiedAt": "2026-09-30T22:06:50Z",
+    "researchAreas": [
+      "Active robot perception",
+      "Neuromorphic vision",
+      "Scene reconstruction",
+      "Learning-based sensing"
+    ],
+    "fitReason": "TRACE (August2026) combines learned Gaussian scene representations and information-driven trajectory optimization; SPIKE also develops event-based neural perception for embodied systems.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "TRACE full text explicitly deploys on a Unitree Go2 for room reconstruction and Franka FR3 for object reconstruction, using real RGB-D data. This goes beyond the simulation-only summary in its abstract.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "SPIKE publishes Fall2027 PhD recruiting and JHU-student research assistant opportunities; no external short-term visitor invitation verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 34,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong physical perception/representation fit; lower manipulation emphasis.",
+      "physical": "Two named real robot platforms and concrete experiments.",
+      "shortVisit": "Only PhD and current-JHU routes stated.",
+      "freshness": "August2026 paper and current lab updates."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.jhu.edu / source 1",
+        "url": "https://engineering.jhu.edu/doctor-of-engineering/faculty/ziyun-claude-wang/",
+        "summary": "Official current assistant professor and ECE affiliation.",
+        "verifiedAt": "2026-09-30T22:06:50Z",
+        "retrieval": "indexed-primary-excerpt"
+      },
+      {
+        "id": "s2",
+        "label": "ziyunclaudewang.github.io / source 2",
+        "url": "https://ziyunclaudewang.github.io/",
+        "summary": "Current affiliation, explicit professional email and August2026 research.",
+        "verifiedAt": "2026-09-30T22:06:50Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "spike-lab.org / source 3",
+        "url": "https://spike-lab.org/",
+        "summary": "Current research and recruiting categories.",
+        "verifiedAt": "2026-09-30T22:06:50Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2608.02304v3",
+        "summary": "Primary Sections4.1/4.5 and appendices identify two actual robots and real map reconstruction.",
+        "verifiedAt": "2026-09-30T22:06:50Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "The match is strongest for active perception and navigation, not learned manipulation policies. TRACE is a preprint; PhD start dates are not summer-placement evidence.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "claude.w@jhu.edu"
+  }
+]

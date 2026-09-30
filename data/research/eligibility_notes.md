@@ -89,3 +89,39 @@ Allison Okamura 的 [CHARM 个人页](https://charm.stanford.edu/Main/AllisonOka
 核查：2026-09-30T22:24:37Z。[Student Intern](https://gss.vt.edu/vt-host/vt-host-j-1/J-1-Student-Intern.html) 包括国外大学在读研究生，活动须服务原学位目标。[类别规则](https://gss.vt.edu/vt-host/vt-host-j-1/J-1-Categories.html) 列 3 周至 1 年、每周至少 32 小时，并要求访问期间保持国外学籍；禁止直接临床治疗与 childcare 等活动。八周在时长上原则可行，仍需项目与身份批准。
 
 [资金要求](https://gss.vt.edu/vt-host/vt-host-j-1/J-1-Funding-Requirements.html) 承认个人、原机构或第三方支持；2026 年 7 月 1 日后启动的 Blacksburg/Roanoke 请求列年支持额 25,656 美元，短期折算和 2027 标准须由学校确认。这是财力门槛，不是资助奖项或完整预算。[办理流程](https://gss.vt.edu/vt-host/vt-host-j-1/J-1-Request-Procedure1.html) 要求主办部门至少提前两个月提交完整材料。机构可办理不代表具体导师已承诺接收。
+
+<a id="ucla-vgr"></a>
+
+## UCLA · VGR 身份与资金规则存在版本冲突
+
+核查：2026-09-30T23:17:19Z。[Graduate Education 资格页](https://grad.ucla.edu/academics/research/visiting-graduate-researchers/definition-eligibility/) 包含 UC 系统以外的在读硕士研究访问，需 Academic Senate 导师接收；一般任期 3 周至 2 年，首次最多一年。[Dashew 的 VGR 专项页](https://internationalcenter.ucla.edu/j-1-scholars/ds-2019-procedure/inviting-a-visiting-graduate-researcher-vgr-to-ucla) 列 Short-Term Scholar / Research Scholar、至少 22 天、个人或家庭财力材料及每月 2,525 美元支持额，并要求至少提前三个月提交。
+
+但 [Graduate Education 签证页](https://grad.ucla.edu/academics/research/visiting-graduate-researchers/visa-processing-and-registration/) 仍列 J-1 non-degree student，[CEE 部门表单](https://www.cee.ucla.edu/visitor-initiating-the-visitor-process/) 仍保留至少 51% 非个人/家庭资助条件。不能把任一页面当作已消除冲突的全校最终规则；完全个人自费、具体身份和八周访问须由主办院系与 Dashew 共同确认。
+
+[2026 年 7 月 1 日起费用](https://grad.ucla.edu/academics/research/visiting-graduate-researchers/ucla-fees/) 为国际 VGR 首季度 1,044.88 美元、后续季度各 334.88 美元；[按季度计费且不按比例折算](https://grad.ucla.edu/academics/research/visiting-graduate-researchers/calendar-for-quarterly-charges/)，跨季度会影响费用，保险另核算。2027 金额须重查。少于三个月的 BruinCard 一般限制与 [一学期/暑期例外](https://www.finance.ucla.edu/business-finance-services/bruincard/affiliate-guest-bruincard) 需由院系确认，不能默认实验室及校园设施可自动使用。
+
+<a id="asu-visiting-categories"></a>
+
+## Arizona State · 不同访问类别不能混用资金规则
+
+核查：2026-09-30T22:31:19Z。[学者 sponsorship](https://issc.asu.edu/departments-employers/j1-scholars/sponsoring-extending-j-1-research-scholar-professor) 认可个人银行财力材料，通常需至少本科学位、适合研究的背景、主办院系及正式 Visiting Scholar Agreement；[Short-Term Scholar](https://issc.asu.edu/departments-employers/j1-scholars/types-j-1-scholars) 上限六个月，但具体在读硕士分类须 ISSC 核定。
+
+[Student Intern](https://issc.asu.edu/departments-employers/j-1-student-intern) 要求国外在读、研究服务当前学位、结束后返校，至少每周 32 小时、最长 12 个月；页面未明确确认首次实习可完全个人出资。[Student Non-Degree](https://issc.asu.edu/departments-employers/j1-scholars/j-1-student-non-degree) 则明确至少 51% 非个人/家庭资金，任期 3 周至 2 年。不能将一个类别的允许或限制自动移植到另一个。
+
+页面建议提前 2–6 个月启动。首次申请常见支持基准每月 2,500 美元，Student Intern 延期栏仍有 1,400 美元旧数，不能用较低数作为首次访问预算；保险、旅行及其他费用另计，2027 再核实。一般实验室询问入口与历史 SURI 项目均不等于获批访问。
+
+<a id="umass-lowell"></a>
+
+## UMass Lowell · 学者自费比例限制与 Intern 未决事项
+
+核查：2026-09-30T22:42:03Z。[ISSO Scholar 概览](https://www.uml.edu/isso/j-1-scholars/) 包含 advanced graduate students，Short-Term Scholar 无最低时长、最长六个月；[Planning to Host](https://www.uml.edu/isso/j-1-scholars/preparing-to-host/planning-to-host.aspx) 的学者规则将个人/家庭资金上限设为 25%。因此不能把该学者路径称为完全个人自费可行。概览的每月 2,215 美元标注 2025–26，不是 2027 报价。
+
+另一个 [Student Intern 路径](https://www.uml.edu/isso/j-1-scholars/j-1-intern/) 要求持续外校学位关联、至少每周 32 小时及完成后返回学位，可有薪/无薪。[材料页](https://www.uml.edu/isso/j-1-scholars/j-1-intern/required-documents.aspx) 列个人资金和每月 2,056 美元财力证明，但 [问卷](https://www.uml.edu/isso/j-1-intern-questionnaire.aspx) 将个人资金描述为补充其他来源。Intern 的全额个人资金资格因此仍未解决，也不直接套用学者 25% 上限。导师询问邀请仍有效，八周、身份、现行金额与正式审批待 ISSO 确认；没有非正式无薪进实验室的许可。
+
+<a id="umass-amherst"></a>
+
+## UMass Amherst · 学者个人资金上限 25%
+
+核查：2026-09-30T23:24:00Z。[中央 J-1 Scholar 规则](https://www.umass.edu/global-affairs/international-students-scholars/immigration/j1-scholars) 明确个人资金至多 25%，完全个人资金不符合此公布路径。Short-Term Scholar 为 1 天至 6 个月，但八周时长匹配不能代替硕士访问身份批准。[院系办理指引](https://www.umass.edu/global-affairs/international-students-scholars/departments/j1-scholars/requests) 要求原校学生提供在读证明，建议提前 3–4 个月、至少预留 90 天，并履行研究合规及访问协议。
+
+具体硕士任命名称、财力最低数和处理费的链接文件需登录，本轮未读取；不使用 Lowell 金额替代。独立 Student Intern sponsorship 未获核实。[在访规则](https://www.umass.edu/global-affairs/international-students-scholars/immigration/j1-scholars/status) 要求至少 60% 线下及正式报到，不能据此认定全远程可行。

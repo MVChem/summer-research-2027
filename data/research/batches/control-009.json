@@ -1,0 +1,214 @@
+[
+  {
+    "id": "hao-zhang",
+    "name": "Hao Zhang",
+    "aliases": [],
+    "school": "University of Massachusetts Amherst",
+    "homepage": "https://www.cics.umass.edu/about/directory/hao-zhang",
+    "title": "Professor",
+    "department": "Manning College of Information and Computer Sciences",
+    "batch": "control-009",
+    "discoveredAt": "2026-09-30T22:33:41Z",
+    "verifiedAt": "2026-09-30T22:35:56Z",
+    "researchAreas": [
+      "Robot adaptation",
+      "Learning-based control",
+      "Multi-robot collaboration",
+      "Foundation models for autonomy"
+    ],
+    "fitReason": "Very close match for learned physical-system control and robot teamwork: physics-informed dynamics learning, diffusion-based team planning and long-term adaptation.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "ICRA2026 FLAP deploys a physics-informed neural model and adaptive controller on a Unitree Go1 carrying a5-liter liquid payload across outdoor terrain. CQTD uses constrained diffusion for two real Go1 robots jointly carrying a payload indoors and outdoors. Both are attributed to his UMass HCR lab by its publication/project pages.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "HCR's homepage requests CV, transcripts and publications from interested students, but does not explicitly identify an external short-term visitor/intern route.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct neural dynamics/control and diffusion-based multi-robot learning.",
+      "physical": "Two current own-lab projects with named physical platforms and outdoor deployments.",
+      "shortVisit": "Generic student inquiry is not an external visitor pathway.",
+      "freshness": "Official current title plus ICRA2026 physical-learning evidence."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.cics.umass.edu / source 1",
+        "url": "https://www.cics.umass.edu/about/directory/hao-zhang",
+        "summary": "Official current Professor title, CICS affiliation and public email.",
+        "verifiedAt": "2026-09-30T22:35:56Z",
+        "retrieval": "direct web page"
+      },
+      {
+        "id": "s2",
+        "label": "hcr.cs.umass.edu / source 2",
+        "url": "https://hcr.cs.umass.edu/",
+        "summary": "Lab's learning/adaptation focus and generic student inquiry; no explicit external visitor category.",
+        "verifiedAt": "2026-09-30T22:35:56Z",
+        "retrieval": "direct web page"
+      },
+      {
+        "id": "s3",
+        "label": "hcr.cs.umass.edu / source 3",
+        "url": "https://hcr.cs.umass.edu/publications.html",
+        "summary": "Authorship and ICRA2026 attribution for FLAP and CQTD.",
+        "verifiedAt": "2026-09-30T22:35:56Z",
+        "retrieval": "direct web page"
+      },
+      {
+        "id": "s4",
+        "label": "hcrlab.gitlab.io / source 4",
+        "url": "https://hcrlab.gitlab.io/project/flap/",
+        "summary": "Author-named lab project: real quadruped adaptation to liquid payloads outdoors.",
+        "verifiedAt": "2026-09-30T22:35:56Z",
+        "retrieval": "direct web page"
+      },
+      {
+        "id": "s5",
+        "label": "hcrlab.gitlab.io / source 5",
+        "url": "https://hcrlab.gitlab.io/project/flap/static/pdf/FLAP_ICRA_2026.pdf",
+        "summary": "Section IV identifies physical Unitree Go1 and onboard Jetson Orin Nano; PDF still has anonymous-review header, authorship corroborated by official lab page.",
+        "verifiedAt": "2026-09-30T22:35:56Z",
+        "retrieval": "direct primary PDF text"
+      },
+      {
+        "id": "s6",
+        "label": "hcrlab.gitlab.io / source 6",
+        "url": "https://hcrlab.gitlab.io/project/cqtd/static/cqtd.pdf",
+        "summary": "Real-world experiments use two Go1 robots with onboard computers for autonomous collaborative payload transport.",
+        "verifiedAt": "2026-09-30T22:35:56Z",
+        "retrieval": "direct primary PDF text"
+      }
+    ],
+    "unknowns": [
+      "No eight-week duration, summer2027 supervision, visitor funding or external-master's appointment confirmed. Generic student recruitment should not be treated as a visitor opening. Current directory says Professor, superseding older Associate Professor articles.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "hzhang2@cs.umass.edu"
+  },
+  {
+    "id": "thomas-a-berrueta",
+    "name": "Thomas A. Berrueta",
+    "aliases": [
+      "Thomas Berrueta"
+    ],
+    "school": "Stanford University (announced appointment starts November 1, 2026)",
+    "homepage": "https://pal.stanford.edu/index.html",
+    "title": "Incoming Assistant Professor (starting November 1, 2026)",
+    "department": "Mechanical Engineering",
+    "batch": "control-009",
+    "discoveredAt": "2026-09-30T22:33:42Z",
+    "verifiedAt": "2026-09-30T22:35:56Z",
+    "researchAreas": [
+      "Real-time robot learning",
+      "Safe reinforcement learning",
+      "Active learning",
+      "High-performance autonomous systems"
+    ],
+    "fitReason": "Exceptionally direct match for online learning, adaptation and safety on physical robots. The announced Stanford lab launch precedes summer2027, but equipment and visitor capacity at the new lab are not yet established.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Caltech's official October2025 report identifies him as Caltech Racer team lead with physical autonomous IndyCar deployments. The February/March2026 LACE paper coauthored by Berrueta learns GNSS covariance dynamics using a neural model and validates on an AV-24 racecar. These are pre-Stanford/collaborative hardware results.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only · 2026-11-01拟入职",
+      "summary": "PAL's current Join page explicitly invites visiting researchers to a prospective-member form, separately from postdoctoral and current Stanford UG/master's/co-term categories. No duration, funding or summer2027 commitment. The form itself was not inspected or submitted.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 40,
+      "physical": 20,
+      "shortVisit": 8,
+      "freshness": 14
+    },
+    "scoreReasons": {
+      "fit": "Direct focus on sample-efficient real-time physical robot learning and safe adaptation.",
+      "physical": "Concrete current racecar results, capped for pre-Stanford/collaborative setting; Stanford lab not open yet.",
+      "shortVisit": "Explicit current visitor inquiry form; external-master's details and duration unconfirmed.",
+      "freshness": "2026 technical result and official future appointment, accurately dated."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "me.stanford.edu / source 1",
+        "url": "https://me.stanford.edu/people/thomas-berrueta",
+        "summary": "Official incoming Assistant Professor appointment and exact November1,2026 start; email.",
+        "verifiedAt": "2026-09-30T22:35:56Z",
+        "retrieval": "direct web page"
+      },
+      {
+        "id": "s2",
+        "label": "pal.stanford.edu / source 2",
+        "url": "https://pal.stanford.edu/index.html",
+        "summary": "Lab launch date, safe physical-learning scope and2026 research.",
+        "verifiedAt": "2026-09-30T22:35:56Z",
+        "retrieval": "direct web page"
+      },
+      {
+        "id": "s3",
+        "label": "pal.stanford.edu / source 3",
+        "url": "https://pal.stanford.edu/join.html",
+        "summary": "Explicit visiting-researcher member-form inquiry, distinguished from degree admissions and current Stanford student routes.",
+        "verifiedAt": "2026-09-30T22:35:56Z",
+        "retrieval": "direct web page"
+      },
+      {
+        "id": "s4",
+        "label": "www.caltech.edu / source 4",
+        "url": "https://www.caltech.edu/about/news/caltechs-autonomous-indycar-shows-promise-at-first-us-road-course-challenge",
+        "summary": "October2,2025 official physical-racecar report names Berrueta as team lead; evidence belongs to Caltech.",
+        "verifiedAt": "2026-09-30T22:35:56Z",
+        "retrieval": "direct web page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/abs/2602.21366",
+        "summary": "2026 LACE neural GNSS covariance-learning paper; AV-24 autonomous racecar validation.",
+        "verifiedAt": "2026-09-30T22:35:56Z",
+        "retrieval": "direct web page"
+      }
+    ],
+    "unknowns": [
+      "Not yet a serving Stanford faculty member on verification date: official department page specifies November1,2026 start. External master's fit to the visitor category, duration, costs, project readiness and capacity require confirmation. Stanford's general VSR route does not establish this lab's offer. Listed PhD/postdoc fellowships are not visitor funding promises.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "berrueta@stanford.edu"
+  }
+]

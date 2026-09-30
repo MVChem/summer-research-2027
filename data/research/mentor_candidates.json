@@ -17,6 +17,7 @@
     "batches/control-006.json",
     "batches/control-007.json",
     "batches/control-008.json",
+    "batches/control-009.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -1687,6 +1688,60 @@
       "shortVisitStatus": "inquiry-only · 自费资格待分类确认",
       "recordFile": "batches/control-008.json",
       "detailPage": "batches/control-008.md#reza-azadeh"
+    },
+    {
+      "id": "hao-zhang",
+      "name": "Hao Zhang",
+      "aliases": [],
+      "school": "University of Massachusetts Amherst",
+      "title": "Professor",
+      "homepage": "https://www.cics.umass.edu/about/directory/hao-zhang",
+      "batch": "control-009",
+      "discoveredAt": "2026-09-30T22:33:41Z",
+      "verifiedAt": "2026-09-30T22:35:56Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Robot adaptation",
+        "Learning-based control",
+        "Multi-robot collaboration",
+        "Foundation models for autonomy"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-009.json",
+      "detailPage": "batches/control-009.md#hao-zhang"
+    },
+    {
+      "id": "thomas-a-berrueta",
+      "name": "Thomas A. Berrueta",
+      "aliases": [
+        "Thomas Berrueta"
+      ],
+      "school": "Stanford University (announced appointment starts November 1, 2026)",
+      "title": "Incoming Assistant Professor (starting November 1, 2026)",
+      "homepage": "https://pal.stanford.edu/index.html",
+      "batch": "control-009",
+      "discoveredAt": "2026-09-30T22:33:42Z",
+      "verifiedAt": "2026-09-30T22:35:56Z",
+      "scores": {
+        "fit": 40,
+        "physical": 20,
+        "shortVisit": 8,
+        "freshness": 14
+      },
+      "researchAreas": [
+        "Real-time robot learning",
+        "Safe reinforcement learning",
+        "Active learning",
+        "High-performance autonomous systems"
+      ],
+      "shortVisitStatus": "inquiry-only · 2026-11-01拟入职",
+      "recordFile": "batches/control-009.json",
+      "detailPage": "batches/control-009.md#thomas-a-berrueta"
     },
     {
       "id": "tom-silver",

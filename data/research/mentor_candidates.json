@@ -15,6 +15,7 @@
     "batches/control-004.json",
     "batches/control-005.json",
     "batches/control-006.json",
+    "batches/control-007.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -1444,6 +1445,214 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-006.json",
       "detailPage": "batches/control-006.md#sarah-h-q-li"
+    },
+    {
+      "id": "michael-w-otte",
+      "name": "Michael W. Otte",
+      "aliases": [],
+      "school": "University of Maryland, College Park",
+      "title": "Associate Professor",
+      "homepage": "https://ottelab.com/",
+      "batch": "control-007",
+      "discoveredAt": "2026-09-30T22:12:58Z",
+      "verifiedAt": "2026-09-30T22:19:35Z",
+      "scores": {
+        "fit": 34,
+        "physical": 22,
+        "shortVisit": 8,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Multi-robot planning",
+        "Distributed robot intelligence",
+        "Safe motion planning",
+        "Communication-constrained autonomy"
+      ],
+      "shortVisitStatus": "inquiry-only · 必须有外部奖学金/奖项",
+      "recordFile": "batches/control-007.json",
+      "detailPage": "batches/control-007.md#michael-w-otte"
+    },
+    {
+      "id": "yancy-diaz-mercado",
+      "name": "Yancy Diaz-Mercado",
+      "aliases": [],
+      "school": "University of Maryland, College Park",
+      "title": "Associate Professor",
+      "homepage": "https://ccrl.umd.edu/",
+      "batch": "control-007",
+      "discoveredAt": "2026-09-30T22:12:58Z",
+      "verifiedAt": "2026-09-30T22:19:35Z",
+      "scores": {
+        "fit": 35,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 14
+      },
+      "researchAreas": [
+        "Collaborative autonomy",
+        "Multi-agent control",
+        "Safe robot control",
+        "Learning-enabled medical robotics"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-007.json",
+      "detailPage": "batches/control-007.md#yancy-diaz-mercado"
+    },
+    {
+      "id": "derek-a-paley",
+      "name": "Derek A. Paley",
+      "aliases": [],
+      "school": "University of Maryland, College Park",
+      "title": "Willis H. Young Jr. Professor of Aerospace Engineering Education",
+      "homepage": "https://cdcl.umd.edu/",
+      "batch": "control-007",
+      "discoveredAt": "2026-09-30T22:12:58Z",
+      "verifiedAt": "2026-09-30T22:19:35Z",
+      "scores": {
+        "fit": 35,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "AI-enabled autonomous systems",
+        "Multi-robot coordination",
+        "Robotic casualty assessment",
+        "Adaptive environmental sensing"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-007.json",
+      "detailPage": "batches/control-007.md#derek-a-paley"
+    },
+    {
+      "id": "m-ani-hsieh",
+      "name": "M. Ani Hsieh",
+      "aliases": [],
+      "school": "University of Pennsylvania",
+      "title": "Associate Professor; Deputy Director, GRASP Laboratory",
+      "homepage": "https://www.grasp.upenn.edu/people/ani-hsieh/",
+      "batch": "control-007",
+      "discoveredAt": "2026-09-30T22:13:08Z",
+      "verifiedAt": "2026-09-30T22:19:35Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Learning-based control",
+        "Multi-robot systems",
+        "Aerial robotics",
+        "Adaptive environmental sensing"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-007.json",
+      "detailPage": "batches/control-007.md#m-ani-hsieh"
+    },
+    {
+      "id": "calin-belta",
+      "name": "Calin Belta",
+      "aliases": [],
+      "school": "University of Maryland, College Park",
+      "title": "Brendan Iribe Endowed Professor",
+      "homepage": "https://calinbelta.com/",
+      "batch": "control-007",
+      "discoveredAt": "2026-09-30T22:13:08Z",
+      "verifiedAt": "2026-09-30T22:19:35Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 14
+      },
+      "researchAreas": [
+        "Safe robot learning",
+        "Formal methods",
+        "Temporal logic",
+        "Reinforcement learning"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-007.json",
+      "detailPage": "batches/control-007.md#calin-belta"
+    },
+    {
+      "id": "necmiye-ozay",
+      "name": "Necmiye Ozay",
+      "aliases": [],
+      "school": "University of Michigan",
+      "title": "Professor",
+      "homepage": "https://web.eecs.umich.edu/~necmiye/index.html",
+      "batch": "control-007",
+      "discoveredAt": "2026-09-30T22:13:08Z",
+      "verifiedAt": "2026-09-30T22:19:35Z",
+      "scores": {
+        "fit": 37,
+        "physical": 18,
+        "shortVisit": 0,
+        "freshness": 14
+      },
+      "researchAreas": [
+        "Safe learning and control",
+        "Formal verification",
+        "Inverse reinforcement learning",
+        "Autonomous systems"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-007.json",
+      "detailPage": "batches/control-007.md#necmiye-ozay"
+    },
+    {
+      "id": "stefano-carpin",
+      "name": "Stefano Carpin",
+      "aliases": [],
+      "school": "University of California, Merced",
+      "title": "Professor; Associate Dean for Research and Graduate Programs",
+      "homepage": "https://sites.ucmerced.edu/scarpin/biocv",
+      "batch": "control-007",
+      "discoveredAt": "2026-09-30T22:13:08Z",
+      "verifiedAt": "2026-09-30T22:19:35Z",
+      "scores": {
+        "fit": 36,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 14
+      },
+      "researchAreas": [
+        "LLM robot planning",
+        "Multi-robot systems",
+        "Precision agriculture",
+        "Planning under uncertainty"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-007.json",
+      "detailPage": "batches/control-007.md#stefano-carpin"
+    },
+    {
+      "id": "yan-gu",
+      "name": "Yan Gu",
+      "aliases": [],
+      "school": "Purdue University",
+      "title": "Associate Professor",
+      "homepage": "https://www.thetracelab.com/",
+      "batch": "control-007",
+      "discoveredAt": "2026-09-30T22:16:47Z",
+      "verifiedAt": "2026-09-30T22:19:35Z",
+      "scores": {
+        "fit": 40,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Reinforcement learning",
+        "Legged robotics",
+        "Whole-body control",
+        "Robust loco-manipulation"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-007.json",
+      "detailPage": "batches/control-007.md#yan-gu"
     },
     {
       "id": "tom-silver",

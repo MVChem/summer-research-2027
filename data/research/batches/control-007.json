@@ -1,0 +1,731 @@
+[
+  {
+    "id": "michael-w-otte",
+    "name": "Michael W. Otte",
+    "aliases": [],
+    "school": "University of Maryland, College Park",
+    "homepage": "https://ottelab.com/",
+    "title": "Associate Professor",
+    "department": "Aerospace Engineering; Computer Science (courtesy)",
+    "batch": "control-007",
+    "discoveredAt": "2026-09-30T22:12:58Z",
+    "verifiedAt": "2026-09-30T22:19:35Z",
+    "researchAreas": [
+      "Multi-robot planning",
+      "Distributed robot intelligence",
+      "Safe motion planning",
+      "Communication-constrained autonomy"
+    ],
+    "fitReason": "Strong multi-agent physical-systems fit through distributed neural computation, motion planning and robot coordination. The visitor policy is unusually explicit, but external competitive funding is mandatory.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Mo-T lab lists an indoor UAV/Vicon test area, more than 200 Kilobots and six TurtleBot3 Burger robots. Research includes neural networks distributed over swarms. The inventory is undated and recent 2025 planning work does not itself establish a new hardware deployment.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only · 必须有外部奖学金/奖项",
+      "summary": "Current recruiting policy explicitly addresses outside BS/MS/ME/PhD visiting students and interns. An invitation requires an external scholarship or award even if all expenses could be paid personally; candidates should first check lab space. An award does not guarantee an invitation.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 34,
+      "physical": 22,
+      "shortVisit": 8,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "Clear AI/planning and multi-agent autonomy, with less current end-to-end robot learning evidence.",
+      "physical": "Concrete own-lab robot inventory, but hardware list is undated and newest dated experiments are not established here.",
+      "shortVisit": "Explicit current external visitor pathway; scholarship condition and unspecified duration prevent high compatibility credit.",
+      "freshness": "Current faculty page and dated 2025 research activity; no verified 2026 technical result in this pass."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "ottelab.com / source 1",
+        "url": "https://ottelab.com/",
+        "summary": "Current Associate Professor effective August 2025; research overview and contact; 2025 research news.",
+        "verifiedAt": "2026-09-30T22:19:35Z",
+        "retrieval": "web open (full page or targeted passage)"
+      },
+      {
+        "id": "s2",
+        "label": "ottelab.com / source 2",
+        "url": "https://ottelab.com/html_stuff/policies.html",
+        "summary": "Explicit outside-student visitor/intern policy requiring external scholarship or award regardless of ability to self-fund.",
+        "verifiedAt": "2026-09-30T22:19:35Z",
+        "retrieval": "web open (full page or targeted passage)"
+      },
+      {
+        "id": "s3",
+        "label": "ottelab.com / source 3",
+        "url": "https://ottelab.com/html_stuff/lab.html",
+        "summary": "Facilities section lists 200+ Kilobots, six TurtleBot3s, Vicon and UAV platforms; title header is stale.",
+        "verifiedAt": "2026-09-30T22:19:35Z",
+        "retrieval": "web open (full page or targeted passage)"
+      },
+      {
+        "id": "s4",
+        "label": "ottelab.com / source 4",
+        "url": "https://ottelab.com/html_stuff/research.html",
+        "summary": "Distributed neural networks across swarms and safe/planning autonomy research.",
+        "verifiedAt": "2026-09-30T22:19:35Z",
+        "retrieval": "web open (full page or targeted passage)"
+      }
+    ],
+    "unknowns": [
+      "Self-funded visiting without a scholarship/award is explicitly insufficient. Duration, 2027 capacity and institutional visitor eligibility remain unconfirmed. Homepage records promotion effective August 2025; older lab subpage still says Assistant Professor.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "otte@umd.edu"
+  },
+  {
+    "id": "yancy-diaz-mercado",
+    "name": "Yancy Diaz-Mercado",
+    "aliases": [],
+    "school": "University of Maryland, College Park",
+    "homepage": "https://ccrl.umd.edu/",
+    "title": "Associate Professor",
+    "department": "Mechanical Engineering; Institute for Systems Research",
+    "batch": "control-007",
+    "discoveredAt": "2026-09-30T22:12:58Z",
+    "verifiedAt": "2026-09-30T22:19:35Z",
+    "researchAreas": [
+      "Collaborative autonomy",
+      "Multi-agent control",
+      "Safe robot control",
+      "Learning-enabled medical robotics"
+    ],
+    "fitReason": "Strong control and collaborative-robotics fit with a concrete recent connection between neural visual perception and robust physical robot control.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Coauthor of April 2026 magnetic millirobot research combining UNet localization, A* planning and disturbance-observer sliding-mode control. Experiments navigate a real magnetic millirobot in an in-vitro heart phantom under pulsatile flow. This is collaborative hardware evidence, not proof of sole-lab equipment ownership.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Faculty and lab pages provide research and contact information; no current external short-visit invitation was verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 35,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 14
+    },
+    "scoreReasons": {
+      "fit": "Safe control, neural perception and collaborative autonomy fit; not predominantly general-purpose learned manipulation.",
+      "physical": "Direct 2026 coauthored physical robot experiments, capped for collaborative ownership.",
+      "shortVisit": "No explicit current external short-visit route found.",
+      "freshness": "Dated April 2026 technical evidence and current official appointment."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "isr.umd.edu / source 1",
+        "url": "https://isr.umd.edu/clark/faculty/900/Yancy-Diaz-Mercado",
+        "summary": "Current Associate Professor, ME/ISR affiliation and public email; collaborative autonomy research.",
+        "verifiedAt": "2026-09-30T22:19:35Z",
+        "retrieval": "official indexed page"
+      },
+      {
+        "id": "s2",
+        "label": "ccrl.umd.edu / source 2",
+        "url": "https://ccrl.umd.edu/",
+        "summary": "Lab research in collaborative autonomy, networked control and human-swarm systems.",
+        "verifiedAt": "2026-09-30T22:19:35Z",
+        "retrieval": "web open (full page or targeted passage)"
+      },
+      {
+        "id": "s3",
+        "label": "ccrl.umd.edu / source 3",
+        "url": "https://ccrl.umd.edu/contact-us-3/",
+        "summary": "Public email; generic contact, no visitor invitation; rank header outdated.",
+        "verifiedAt": "2026-09-30T22:19:35Z",
+        "retrieval": "web open (full page or targeted passage)"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/abs/2604.01523",
+        "summary": "April 2026 author paper: UNet localization and robust autonomous millirobot experiments in cardiac-flow phantom.",
+        "verifiedAt": "2026-09-30T22:19:35Z",
+        "retrieval": "web open (full page or targeted passage)"
+      }
+    ],
+    "unknowns": [
+      "No summer 2027 availability, eight-week duration, visitor funding, or international visitor eligibility has been established. Any visit needs faculty agreement and university-approved hosting. Official ISR directory gives Associate Professor; older CCRL contact page still says Assistant Professor.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "yancy@umd.edu"
+  },
+  {
+    "id": "derek-a-paley",
+    "name": "Derek A. Paley",
+    "aliases": [],
+    "school": "University of Maryland, College Park",
+    "homepage": "https://cdcl.umd.edu/",
+    "title": "Willis H. Young Jr. Professor of Aerospace Engineering Education",
+    "department": "Aerospace Engineering; Institute for Systems Research",
+    "batch": "control-007",
+    "discoveredAt": "2026-09-30T22:12:58Z",
+    "verifiedAt": "2026-09-30T22:19:35Z",
+    "researchAreas": [
+      "AI-enabled autonomous systems",
+      "Multi-robot coordination",
+      "Robotic casualty assessment",
+      "Adaptive environmental sensing"
+    ],
+    "fitReason": "Connects multi-agent control with deployed perception and intelligent robotic teams. A plausible physical-AI direction is multimodal inference and coordination for emergency-response robots.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Leads RoboScout, whose physical fleet includes three Boston Dynamics Spot robots and custom UAVs. The official team reports robot-only and human-machine testing at DARPA Workshop 3 in March 2026. Current CDCL publications include a 2026 conversational VLM/deep-learning casualty-assessment pipeline.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "CDCL and RoboScout provide generic contact/get-involved information, but this does not establish a visiting-student pathway or short summer opening.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 35,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong embodied AI and multi-agent autonomy, with specialized emergency-response application.",
+      "physical": "Named robots and documented 2026 field tests by a team he leads.",
+      "shortVisit": "Generic involvement/contact language only.",
+      "freshness": "Current March 2026 deployment report plus dated 2026 technical work."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "cdcl.umd.edu / source 1",
+        "url": "https://cdcl.umd.edu/",
+        "summary": "Current title/email and 2026 AI, autonomous-systems and VLM research; former MRC directorship dates.",
+        "verifiedAt": "2026-09-30T22:19:35Z",
+        "retrieval": "web open (full page or targeted passage)"
+      },
+      {
+        "id": "s2",
+        "label": "ece.umd.edu / source 2",
+        "url": "https://ece.umd.edu/news/story/umdrsquos-team-roboscout-delivers-again",
+        "summary": "December 10, 2025 official report identifies Paley-led deployed Spot/UAV fleet and challenge performance.",
+        "verifiedAt": "2026-09-30T22:19:35Z",
+        "retrieval": "official indexed article"
+      },
+      {
+        "id": "s3",
+        "label": "roboscout.umd.edu / source 3",
+        "url": "https://roboscout.umd.edu/703-2/",
+        "summary": "Team reports physical robot-only and human-machine tests March 14–19, 2026.",
+        "verifiedAt": "2026-09-30T22:19:35Z",
+        "retrieval": "official indexed project report; main website fetch failed"
+      },
+      {
+        "id": "s4",
+        "label": "roboscout.umd.edu / source 4",
+        "url": "https://roboscout.umd.edu/research/",
+        "summary": "2026 multimodal inference and autonomous casualty-assessment work; generic contact form is not a visit invitation.",
+        "verifiedAt": "2026-09-30T22:19:35Z",
+        "retrieval": "official indexed project page"
+      }
+    ],
+    "unknowns": [
+      "No summer 2027 availability, eight-week duration, visitor funding, or international visitor eligibility has been established. Any visit needs faculty agreement and university-approved hosting. Project access, scope and any restrictions require institutional confirmation. He is former Maryland Robotics Center director (2019–2025), not current director. The November 2026 challenge final is future at verification.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "dpaley@umd.edu"
+  },
+  {
+    "id": "m-ani-hsieh",
+    "name": "M. Ani Hsieh",
+    "aliases": [],
+    "school": "University of Pennsylvania",
+    "homepage": "https://www.grasp.upenn.edu/people/ani-hsieh/",
+    "title": "Associate Professor; Deputy Director, GRASP Laboratory",
+    "department": "Mechanical Engineering and Applied Mechanics",
+    "batch": "control-007",
+    "discoveredAt": "2026-09-30T22:13:08Z",
+    "verifiedAt": "2026-09-30T22:19:35Z",
+    "researchAreas": [
+      "Learning-based control",
+      "Multi-robot systems",
+      "Aerial robotics",
+      "Adaptive environmental sensing"
+    ],
+    "fitReason": "Very close match for learning dynamics and controlling physical robot teams, spanning aerial formation flight, distributed sensing and language-specified air-ground missions.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "July 2026 IROS-accepted paper on flatness-preserving residual learning reports hardware tight-formation quadrotor flights with aerodynamic compensation and reduced tracking error. GRASP links the paper under her research; a lead author’s research history identifies her as advisor in ScalAR.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current GRASP and Penn lab pages establish faculty and ongoing research, but no active external short-term visitor invitation was verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct learned dynamics, robot control and physical multi-robot teamwork.",
+      "physical": "Current hardware work is tied to an advised researcher in a shared collaboration; independent current local inventory is not established.",
+      "shortVisit": "No explicit current visitor route found.",
+      "freshness": "Current official GRASP listing and July/August 2026 technical paper."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.grasp.upenn.edu / source 1",
+        "url": "https://www.grasp.upenn.edu/people/ani-hsieh/",
+        "summary": "Current Associate Professor/GRASP Deputy Director, experimental-control focus and linked 2026 publications.",
+        "verifiedAt": "2026-09-30T22:19:35Z",
+        "retrieval": "web open (full page or targeted passage)"
+      },
+      {
+        "id": "s2",
+        "label": "emc.seas.upenn.edu / source 2",
+        "url": "https://emc.seas.upenn.edu/member-labs",
+        "summary": "Current Penn member-lab page identifies Hsieh as ScalAR PI and describes distributed autonomous platforms.",
+        "verifiedAt": "2026-09-30T22:19:35Z",
+        "retrieval": "web open (full page or targeted passage)"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/abs/2607.12275",
+        "summary": "July 2026 residual-learning paper, revised August 2026, accepted IROS 2026; real quadrotor formation experiments.",
+        "verifiedAt": "2026-09-30T22:19:35Z",
+        "retrieval": "web open (full page or targeted passage)"
+      },
+      {
+        "id": "s4",
+        "label": "pei06.github.io / source 4",
+        "url": "https://pei06.github.io/CV/",
+        "summary": "Primary author identifies Hsieh as ScalAR research advisor for learning-based quadrotor formation research.",
+        "verifiedAt": "2026-09-30T22:19:35Z",
+        "retrieval": "author-maintained indexed CV"
+      }
+    ],
+    "unknowns": [
+      "No summer 2027 availability, eight-week duration, visitor funding, or international visitor eligibility has been established. Any visit needs faculty agreement and university-approved hosting. ScalAR's detailed site could not be read reliably, so absence of a verified visitor page should not be read as a prohibition.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ]
+  },
+  {
+    "id": "calin-belta",
+    "name": "Calin Belta",
+    "aliases": [],
+    "school": "University of Maryland, College Park",
+    "homepage": "https://calinbelta.com/",
+    "title": "Brendan Iribe Endowed Professor",
+    "department": "Electrical and Computer Engineering; Computer Science",
+    "batch": "control-007",
+    "discoveredAt": "2026-09-30T22:13:08Z",
+    "verifiedAt": "2026-09-30T22:19:35Z",
+    "researchAreas": [
+      "Safe robot learning",
+      "Formal methods",
+      "Temporal logic",
+      "Reinforcement learning"
+    ],
+    "fitReason": "Strong safety/formal-methods match for robot learning, including reward learning from imperfect demonstrations and verifiable planning.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Coauthor of SPLASH (2025), preference-based inverse RL for long-horizon tasks, with sim-to-real experiments on autonomous unmanned surface vehicles. This establishes collaborative physical deployment, not a current UMD-exclusive hardware inventory.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current UMD faculty and lab pages confirm activity; no current short-visit invitation was verified. Degree supervision and former student placements are not visitor openings.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 14
+    },
+    "scoreReasons": {
+      "fit": "Close safe-learning, reward-learning and formal verification alignment.",
+      "physical": "2025 collaborative autonomous-boat experiments; 2026 paper is simulated.",
+      "shortVisit": "No explicit current visitor route found.",
+      "freshness": "April 2026 learning/control paper and current official appointment."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.cs.umd.edu / source 1",
+        "url": "https://www.cs.umd.edu/people/calin",
+        "summary": "Official UMD endowed professorship, ECE/CS appointments and email.",
+        "verifiedAt": "2026-09-30T22:19:35Z",
+        "retrieval": "web open (full page or targeted passage)"
+      },
+      {
+        "id": "s2",
+        "label": "calinbelta.com / source 2",
+        "url": "https://calinbelta.com/",
+        "summary": "Current UMD affiliation, additional BU research role and 2026 updates.",
+        "verifiedAt": "2026-09-30T22:19:35Z",
+        "retrieval": "web open (full page or targeted passage)"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/abs/2507.08707",
+        "summary": "SPLASH 2025 inverse RL with physical autonomous surface-vehicle sim-to-real translation.",
+        "verifiedAt": "2026-09-30T22:19:35Z",
+        "retrieval": "web open (full page or targeted passage)"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/abs/2604.04225",
+        "summary": "April 2026 temporal behavior tree demonstration repair and RL reward shaping; simulation cases, not new hardware.",
+        "verifiedAt": "2026-09-30T22:19:35Z",
+        "retrieval": "author preprint indexed abstract"
+      }
+    ],
+    "unknowns": [
+      "No summer 2027 availability, eight-week duration, visitor funding, or international visitor eligibility has been established. Any visit needs faculty agreement and university-approved hosting. Primary current appointment is UMD, with an additional BU Research Professor role; do not use the old BU primary affiliation.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "calin@umd.edu"
+  },
+  {
+    "id": "necmiye-ozay",
+    "name": "Necmiye Ozay",
+    "aliases": [],
+    "school": "University of Michigan",
+    "homepage": "https://web.eecs.umich.edu/~necmiye/index.html",
+    "title": "Professor",
+    "department": "Electrical and Computer Engineering; Robotics",
+    "batch": "control-007",
+    "discoveredAt": "2026-09-30T22:13:08Z",
+    "verifiedAt": "2026-09-30T22:19:35Z",
+    "researchAreas": [
+      "Safe learning and control",
+      "Formal verification",
+      "Inverse reinforcement learning",
+      "Autonomous systems"
+    ],
+    "fitReason": "Excellent theory-oriented safe-learning fit. Best considered for verification, reward inference and data-driven control, with hands-on project scope needing a separate check.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "A December 2025 Michigan report confirms her team demonstrated correct-by-construction control on a physical Lincoln MKZ at Mcity. The report does not date that experiment. Current publications cover reward machines/RL and preference-based robot control; this pass did not establish a new 2026 physical deployment.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Faculty, personal and publication pages confirm current activity. Mentoring information centers on graduate advising, not an external short-visit invitation.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 18,
+      "shortVisit": 0,
+      "freshness": 14
+    },
+    "scoreReasons": {
+      "fit": "Strong safe learning, verification and inverse RL, more theoretical than embodied-policy work.",
+      "physical": "Officially confirmed own-team physical vehicle demonstration, but demonstration date and current hardware project unknown.",
+      "shortVisit": "No explicit current external visitor pathway found.",
+      "freshness": "Dated 2026 research list; physical evidence is a 2025 retrospective."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "robotics.umich.edu / source 1",
+        "url": "https://robotics.umich.edu/people/faculty/necmiye-ozay/",
+        "summary": "Official Professor of Robotics/ECE, research areas and public email.",
+        "verifiedAt": "2026-09-30T22:19:35Z",
+        "retrieval": "web open (full page or targeted passage)"
+      },
+      {
+        "id": "s2",
+        "label": "web.eecs.umich.edu / source 2",
+        "url": "https://web.eecs.umich.edu/~necmiye/index.html",
+        "summary": "Current 2026 learning/control activity and appointment.",
+        "verifiedAt": "2026-09-30T22:19:35Z",
+        "retrieval": "primary indexed faculty page"
+      },
+      {
+        "id": "s3",
+        "label": "web.eecs.umich.edu / source 3",
+        "url": "https://web.eecs.umich.edu/~necmiye/pubs.html",
+        "summary": "2026 reward-machine RL and safe preference-learning research.",
+        "verifiedAt": "2026-09-30T22:19:35Z",
+        "retrieval": "primary indexed publication list"
+      },
+      {
+        "id": "s4",
+        "label": "eecs.engin.umich.edu / source 4",
+        "url": "https://eecs.engin.umich.edu/stories/necmiye-ozay-named-ieee-fellow-for-contributions-to-cyber-physical-and-hybrid-systems",
+        "summary": "December 16, 2025 university article confirms team demonstration on physical Lincoln MKZ at Mcity; experiment date unspecified.",
+        "verifiedAt": "2026-09-30T22:19:35Z",
+        "retrieval": "official indexed article"
+      },
+      {
+        "id": "s5",
+        "label": "ece.engin.umich.edu / source 5",
+        "url": "https://ece.engin.umich.edu/people/mentor/necmiye",
+        "summary": "Mentoring plan says research primarily theoretical/computational with lab hands-on options; no external visit pathway.",
+        "verifiedAt": "2026-09-30T22:19:35Z",
+        "retrieval": "official indexed mentoring page; full fetch failed"
+      }
+    ],
+    "unknowns": [
+      "No summer 2027 availability, eight-week duration, visitor funding, or international visitor eligibility has been established. Any visit needs faculty agreement and university-approved hosting. Primarily theoretical/computational research may not supply an immediate hardware project; current hardware access and summer supervision need checking.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "necmiye@umich.edu"
+  },
+  {
+    "id": "stefano-carpin",
+    "name": "Stefano Carpin",
+    "aliases": [],
+    "school": "University of California, Merced",
+    "homepage": "https://sites.ucmerced.edu/scarpin/biocv",
+    "title": "Professor; Associate Dean for Research and Graduate Programs",
+    "department": "Computer Science and Engineering",
+    "batch": "control-007",
+    "discoveredAt": "2026-09-30T22:13:08Z",
+    "verifiedAt": "2026-09-30T22:19:35Z",
+    "researchAreas": [
+      "LLM robot planning",
+      "Multi-robot systems",
+      "Precision agriculture",
+      "Planning under uncertainty"
+    ],
+    "fitReason": "Strong practical AI-plus-robotics direction: natural-language mission planning, formal verification and uncertain-route optimization for field robots.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "2025 author paper runs GPT-4o mission plans through ROS2 on a ClearPath Husky with Jetson Orin Nano, GNSS and IMU in a real pistachio orchard. June 2026 follow-on introduces formal LTL verification; the earlier paper is the direct field-execution evidence.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Lab site describes summer undergraduate interns and former visiting students elsewhere, but no current external master's short-visit pathway was verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 36,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 14
+    },
+    "scoreReasons": {
+      "fit": "Concrete LLM planning and robust autonomous field robotics.",
+      "physical": "Named own-team physical Husky field trials documented in primary paper.",
+      "shortVisit": "Only undergraduate/historical pathways; no current external master's visitor invitation.",
+      "freshness": "June 2026 technical work and March 2026 faculty CV."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "sites.ucmerced.edu / source 1",
+        "url": "https://sites.ucmerced.edu/scarpin/biocv",
+        "summary": "Current Professor/CSE/Associate Dean role, public email and CV updated March 2026.",
+        "verifiedAt": "2026-09-30T22:19:35Z",
+        "retrieval": "web open (full page or targeted passage)"
+      },
+      {
+        "id": "s2",
+        "label": "robotics.ucmerced.edu / source 2",
+        "url": "https://robotics.ucmerced.edu/",
+        "summary": "Carpin-founded robotics lab; summer undergraduate language and robot systems.",
+        "verifiedAt": "2026-09-30T22:19:35Z",
+        "retrieval": "web open (full page or targeted passage)"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2506.10093v1",
+        "summary": "2025 LLM mission-planning paper, Section IV and Figure 5: physical Husky/Jetson/ROS2 orchard tests.",
+        "verifiedAt": "2026-09-30T22:19:35Z",
+        "retrieval": "web open (full page or targeted passage)"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/abs/2606.18519",
+        "summary": "June 2026 LLM mission planning with LTL verification; do not assume all queries field-executed.",
+        "verifiedAt": "2026-09-30T22:19:35Z",
+        "retrieval": "author preprint indexed abstract"
+      }
+    ],
+    "unknowns": [
+      "No summer 2027 availability, eight-week duration, visitor funding, or international visitor eligibility has been established. Any visit needs faculty agreement and university-approved hosting. Undergraduate internship language does not establish master's eligibility. Do not treat old visitor records or a current CV as a summer opening.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "scarpin@ucmerced.edu"
+  },
+  {
+    "id": "yan-gu",
+    "name": "Yan Gu",
+    "aliases": [],
+    "school": "Purdue University",
+    "homepage": "https://www.thetracelab.com/",
+    "title": "Associate Professor",
+    "department": "Mechanical Engineering",
+    "batch": "control-007",
+    "discoveredAt": "2026-09-30T22:16:47Z",
+    "verifiedAt": "2026-09-30T22:19:35Z",
+    "researchAreas": [
+      "Reinforcement learning",
+      "Legged robotics",
+      "Whole-body control",
+      "Robust loco-manipulation"
+    ],
+    "fitReason": "Very direct real-robot RL/control match: learning policies that coordinate locomotion, arm motion and tactile grasp regulation under uncertain forces.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "TAC-LOCO (July 2026) deploys a unified tactile RL policy zero-shot on a Unitree Go2 with Interbotix WidowX 250 arm and tactile gripper. Hardware experiments include dynamic walking/manipulation, force-release events and unseen objects. Official Purdue project documentation also names a Digit in Gu's lab.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "TRACE team page advertises PhD positions for Spring/Fall 2025 and Purdue lists a 2026 postdoctoral project; neither is a current short-term visiting-student opening. Historical visiting researcher record is not an active pathway.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 40,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct RL, contact-aware whole-body control and sim-to-real robotics.",
+      "physical": "Current explicit hardware experiment plus own-lab Digit evidence.",
+      "shortVisit": "Historical PhD/visitor and postdoc routes do not establish an eligible short visit.",
+      "freshness": "July 2026 physical RL paper and current August 2026 lab activity."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.thetracelab.com / source 1",
+        "url": "https://www.thetracelab.com/team.html",
+        "summary": "Current Associate Professor Yan Gu/Purdue lab and email; dated 2025 PhD recruitment and historical visitor record.",
+        "verifiedAt": "2026-09-30T22:19:35Z",
+        "retrieval": "web open (full page or targeted passage)"
+      },
+      {
+        "id": "s2",
+        "label": "www.thetracelab.com / source 2",
+        "url": "https://www.thetracelab.com/",
+        "summary": "Current Purdue lab activity through August 2026.",
+        "verifiedAt": "2026-09-30T22:19:35Z",
+        "retrieval": "web open (full page or targeted passage)"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2607.10132v2",
+        "summary": "July 2026 TAC-LOCO, Section 6 and hardware appendix: real Go2/WidowX tactile RL experiments.",
+        "verifiedAt": "2026-09-30T22:19:35Z",
+        "retrieval": "web open (full page or targeted passage)"
+      },
+      {
+        "id": "s4",
+        "label": "engineering.purdue.edu / source 4",
+        "url": "https://engineering.purdue.edu/Engr/Research/GilbrethFellowships/ResearchProposals/2025-26/learning-and-control-for-intelligent-interaction-between-humans-and-autonomous-systems-",
+        "summary": "Official Purdue 2026 postdoc project lists Yan Gu/ME/email and Digit available in her lab; not a student visit.",
+        "verifiedAt": "2026-09-30T22:19:35Z",
+        "retrieval": "official indexed project listing"
+      }
+    ],
+    "unknowns": [
+      "No summer 2027 availability, eight-week duration, visitor funding, or international visitor eligibility has been established. Any visit needs faculty agreement and university-approved hosting. Do not confuse this Purdue roboticist with the UCR computer-science faculty member of the same name. The 2026 Gilbreth opportunity requires postdoctoral qualifications.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "yangu@purdue.edu"
+  }
+]

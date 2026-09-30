@@ -12,7 +12,7 @@
 | 2 | [Somil Bansal](https://smlbansal.github.io/) · Stanford University | 87 | 39 / 23 / 10 / 15 | 2026-09-30T21:21:51Z | 2026-09-30T21:24:34Z |
 | 3 | [Mac Schwager](https://msl.stanford.edu/) · Stanford University | 81 | 38 / 20 / 8 / 15 | 2026-09-30T21:22:05Z | 2026-09-30T21:24:34Z |
 | 4 | [Jaime Fernández Fisac](https://saferobotics.princeton.edu/jaime) · Princeton University | 80 | 40 / 25 / 0 / 15 | 2026-09-30T21:21:51Z | 2026-09-30T21:24:34Z |
-| 5 | [Sylvia Herbert](https://sylviaherbert.com/) · University of California, San Diego | 78 | 39 / 24 / 0 / 15 | 2026-09-30T21:21:51Z | 2026-09-30T21:24:34Z |
+| 5 | [Sylvia Herbert](https://sylviaherbert.com/) · University of California, San Diego | 78 | 39 / 24 / 0 / 15 | 2026-09-30T21:21:51Z | 2026-09-30T21:29:46Z |
 | 6 | [Soon-Jo Chung](https://aerospacerobotics.caltech.edu/) · California Institute of Technology | 78 | 38 / 25 / 0 / 15 | 2026-09-30T21:21:57Z | 2026-09-30T21:24:34Z |
 | 7 | [Aaron D. Ames](https://www.bipedalrobotics.com/) · California Institute of Technology | 74 | 39 / 25 / 0 / 10 | 2026-09-30T21:21:57Z | 2026-09-30T21:24:34Z |
 | 8 | [Koushil Sreenath](https://hybrid-robotics.berkeley.edu/) · University of California, Berkeley | 74 | 39 / 25 / 0 / 10 | 2026-09-30T21:22:05Z | 2026-09-30T21:24:34Z |
@@ -105,22 +105,23 @@
 ## 5. Sylvia Herbert · University of California, San Diego
 
 - 稳定键：`sylvia-herbert`；批次：control-001
-- 任职：Assistant Professor
+- 任职：Associate Professor
 - 方向：safe reinforcement learning；Hamilton-Jacobi reachability；safety filters；robust control
 - 匹配理由：Direct match for safe learning and safety-filter research with physical robots; particularly suitable for projects combining ML implementation with control-theoretic analysis.
 - 真机证据（public-hardware-evidence）：Lab explicitly validates theory through physical robotic testing; its JIGGLE work includes active sensing of real deformable tissue with surgical robotics. Safe reset work targets hands-off online RL and returning robots to safety.
 - 短访证据（unknown）：Join Us routes prospective MS students through UCSD MAE admission before discussing collaboration. Current-UCSD MS/undergraduate forms and summer-program links do not establish external graduate visiting availability. Summer 2027 remains unconfirmed.
-- 首次发现：2026-09-30T21:21:51Z；最后核查：2026-09-30T21:24:34Z
+- 首次发现：2026-09-30T21:21:51Z；最后核查：2026-09-30T21:29:46Z
 - 评分依据：
   - fit 39/40：Safe RL/reachability/control is directly aligned.
   - physical 24/25：Explicit physical validation and concrete robotic sensing work.
   - shortVisit 0/20：No external master's short visit invitation verified.
   - freshness 15/15：Live roster and 2026 lab research updates.
-- 未确认事项：Do not equate degree admission, current-UCSD research forms or undergraduate summer programs with an international master's visit. Duration, institutional eligibility, funding and remote arrangements remain unknown.；Published research evidence does not confirm current in-group hardware access or summer 2027 supervision capacity.
+- 未确认事项：Do not equate degree admission, current-UCSD research forms or undergraduate summer programs with an international master's visit. Duration, institutional eligibility, funding and remote arrangements remain unknown.；Published research evidence does not confirm current in-group hardware access or summer 2027 supervision capacity.；Lab biography retains the older Assistant Professor title; use the official UCSD faculty directory for current appointment.
 - 来源：
-  - [sylviaherbert.com / source 1](https://sylviaherbert.com/people)：Current assistant professor in UCSD MAE and public email.（核查 2026-09-30T21:24:34Z）
+  - [sylviaherbert.com / source 1](https://sylviaherbert.com/people)：Lab biography still uses Assistant Professor; institutional directory is newer for the current title.（核查 2026-09-30T21:24:34Z）
   - [sylviaherbert.com / source 2](https://sylviaherbert.com/)：Physical testing; 2026 safe-RL/control papers; JIGGLE surgical experiments and safe-reset RL research.（核查 2026-09-30T21:24:34Z）
   - [sylviaherbert.com / source 3](https://sylviaherbert.com/join-us)：Prospective MS collaboration after admission; current-student forms and separate PhD/postdoc guidance.（核查 2026-09-30T21:24:34Z）
+  - [UCSD Jacobs School faculty profile](https://jacobsschool.ucsd.edu/faculty/profile?id=516)：Official current faculty profile lists Associate Professor in MAE, reinforcement learning and physical testing.（核查 2026-09-30T21:29:46Z）
 
 ## 6. Soon-Jo Chung · California Institute of Technology
 

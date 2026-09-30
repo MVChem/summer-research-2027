@@ -523,11 +523,11 @@
       "aliases": [],
       "school": "University of California, San Diego",
       "homepage": "https://sylviaherbert.com/",
-      "title": "Assistant Professor",
+      "title": "Associate Professor",
       "department": "Mechanical and Aerospace Engineering",
       "batch": "control-001",
       "discoveredAt": "2026-09-30T21:21:51Z",
-      "verifiedAt": "2026-09-30T21:24:34Z",
+      "verifiedAt": "2026-09-30T21:29:46Z",
       "researchAreas": [
         "safe reinforcement learning",
         "Hamilton-Jacobi reachability",
@@ -570,7 +570,7 @@
           "id": "s1",
           "label": "sylviaherbert.com / source 1",
           "url": "https://sylviaherbert.com/people",
-          "summary": "Current assistant professor in UCSD MAE and public email.",
+          "summary": "Lab biography still uses Assistant Professor; institutional directory is newer for the current title.",
           "verifiedAt": "2026-09-30T21:24:34Z"
         },
         {
@@ -586,11 +586,19 @@
           "url": "https://sylviaherbert.com/join-us",
           "summary": "Prospective MS collaboration after admission; current-student forms and separate PhD/postdoc guidance.",
           "verifiedAt": "2026-09-30T21:24:34Z"
+        },
+        {
+          "id": "s4",
+          "label": "UCSD Jacobs School faculty profile",
+          "url": "https://jacobsschool.ucsd.edu/faculty/profile?id=516",
+          "summary": "Official current faculty profile lists Associate Professor in MAE, reinforcement learning and physical testing.",
+          "verifiedAt": "2026-09-30T21:29:46Z"
         }
       ],
       "unknowns": [
         "Do not equate degree admission, current-UCSD research forms or undergraduate summer programs with an international master's visit. Duration, institutional eligibility, funding and remote arrangements remain unknown.",
-        "Published research evidence does not confirm current in-group hardware access or summer 2027 supervision capacity."
+        "Published research evidence does not confirm current in-group hardware access or summer 2027 supervision capacity.",
+        "Lab biography retains the older Assistant Professor title; use the official UCSD faculty directory for current appointment."
       ],
       "publicEmail": "sherbert@ucsd.edu"
     },

@@ -42,7 +42,8 @@
     "batches/hri-008.json",
     "batches/hri-009.json",
     "batches/hri-010.json",
-    "batches/hri-011.json"
+    "batches/hri-011.json",
+    "batches/hri-012.json"
   ],
   "candidates": [
     {
@@ -5646,6 +5647,32 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-011.json",
       "detailPage": "batches/hri-011.md#roberto-tron"
+    },
+    {
+      "id": "wei-gao",
+      "name": "Wei Gao",
+      "aliases": [],
+      "school": "University of Pittsburgh",
+      "title": "Professor",
+      "homepage": "https://sites.pitt.edu/~weigao/",
+      "batch": "hri-012",
+      "discoveredAt": "2026-09-30T22:57:49Z",
+      "verifiedAt": "2026-09-30T23:00:27Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "3D spatial reasoning in vision-language models",
+        "On-device embodied AI",
+        "Multimodal generative AI",
+        "Language-based assistive-robot personalization"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-012.json",
+      "detailPage": "batches/hri-012.md#wei-gao"
     }
   ]
 }

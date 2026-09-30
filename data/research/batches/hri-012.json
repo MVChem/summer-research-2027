@@ -1,0 +1,118 @@
+[
+  {
+    "id": "wei-gao",
+    "name": "Wei Gao",
+    "aliases": [],
+    "school": "University of Pittsburgh",
+    "homepage": "https://sites.pitt.edu/~weigao/",
+    "title": "Professor",
+    "department": "Electrical and Computer Engineering; Intelligent Systems Laboratory",
+    "batch": "hri-012",
+    "discoveredAt": "2026-09-30T22:57:49Z",
+    "verifiedAt": "2026-09-30T23:00:27Z",
+    "researchAreas": [
+      "3D spatial reasoning in vision-language models",
+      "On-device embodied AI",
+      "Multimodal generative AI",
+      "Language-based assistive-robot personalization"
+    ],
+    "fitReason": "Strong software-first match for a CS master’s researcher: multi-view geometric reasoning, efficient VLM deployment and language-grounded assistive interaction. A compact perception/model-evaluation project fits better than building new clinical hardware or launching a patient trial.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The April 2026 Pitt paper coauthored with Dan Ding describes Stretch 3 in a mock kitchen. Manipulation is Wizard-of-Oz teleoperated; navigation and communication are autonomous. Participants evaluated prerecorded robot videos and generated policies, not live robot interactions. This collaborative setup supports a physical-robot connection without proving Gao’s own robot inventory or visitor access.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "His current university-hosted homepage invites interested students to send a CV and transcript, but does not specify external visitors, internships, duration or summer 2027 availability. Pitt’s general international visitor rules may provide an administrative route after host acceptance; they do not establish this lab’s availability. The separate RST research intake is not a confirmed Gao/ECE placement route.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "strong 3D/VLM, efficient AI and language-personalization overlap.",
+      "physical": "collaborative real-robot video-based research with teleoperated manipulation; own-lab access unknown.",
+      "shortVisit": "no explicit visitor/intern route.",
+      "freshness": "April/August/September 2026 primary lab research."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.engineering.pitt.edu / source 1",
+        "url": "https://www.engineering.pitt.edu/people/faculty/wei-gao/",
+        "summary": "Full official profile confirms Professor, ECE department and public email; current interests in AI and computer vision.",
+        "verifiedAt": "2026-09-30T23:00:27Z"
+      },
+      {
+        "id": "s2",
+        "label": "sites.pitt.edu / source 2",
+        "url": "https://sites.pitt.edu/~weigao/",
+        "summary": "Full faculty-hosted homepage confirms role, ISL directorship, research direction and general student inquiry; no summer-visitor-specific promise.",
+        "verifiedAt": "2026-09-30T23:00:27Z"
+      },
+      {
+        "id": "s3",
+        "label": "pittisl.github.io / source 3",
+        "url": "https://pittisl.github.io/",
+        "summary": "Primary lab site lists September 2026 3D-topology VLM research, SpatialMind MobiCom 2026 and assistive HRI work.",
+        "verifiedAt": "2026-09-30T23:00:27Z"
+      },
+      {
+        "id": "s4",
+        "label": "pittisl.github.io / source 4",
+        "url": "https://pittisl.github.io/publication/2026-spatialmind/",
+        "summary": "August 2026 coauthored project describes on-device embodied spatial reasoning through cross-view alignment; no unsupported robot-hardware claim.",
+        "verifiedAt": "2026-09-30T23:00:27Z"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2604.01463v1",
+        "summary": "Primary April 2026 paper Sections IV-B/C: Stretch 3 mock-kitchen setup, Wizard-of-Oz manipulation and prerecorded-video participant evaluation.",
+        "verifiedAt": "2026-09-30T23:00:27Z"
+      },
+      {
+        "id": "s6",
+        "label": "www.ois.pitt.edu / source 6",
+        "url": "https://www.ois.pitt.edu/j-1-interns",
+        "summary": "Conditional institutional pathway for foreign degree students with degree-related training; host initiation, 32-hour week and activity restrictions.",
+        "verifiedAt": "2026-09-30T23:00:27Z"
+      },
+      {
+        "id": "s7",
+        "label": "www.ois.pitt.edu / source 7",
+        "url": "https://www.ois.pitt.edu/sites/default/files/docs/Sponsoring%20Foreign%20Nationals%20for%20Employment%20at%20Pitt.pdf",
+        "summary": "Full July 2026 OIS guide allows personal J-1 funding; individual category and host approval remain required.",
+        "verifiedAt": "2026-09-30T23:00:27Z"
+      }
+    ],
+    "unknowns": [
+      "Do not confuse this Pitt ECE professor with same-name researchers elsewhere; current institutional profile, personal homepage and paper affiliation agree.",
+      "The study’s simulated meal-preparation language denotes a mock task environment; it uses robot video stimuli and Wizard-of-Oz manipulation, not demonstrated autonomous LLM-to-motor execution.",
+      "Current project-page research in spatial reasoning is largely model/system evaluation; it is not automatically physical robot experimentation.",
+      "International appointment, eight-week supervision, funding, self-funded status and permitted nonclinical activity require host and OIS approval.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "weigao@pitt.edu"
+  }
+]

@@ -26,6 +26,7 @@
     "batches/embodied-006.json",
     "batches/embodied-007.json",
     "batches/embodied-008.json",
+    "batches/embodied-009.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -3345,6 +3346,58 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-008.json",
       "detailPage": "batches/embodied-008.md#sebastian-scherer"
+    },
+    {
+      "id": "kaylene-stocking",
+      "name": "Kaylene Stocking",
+      "aliases": [],
+      "school": "Toyota Technological Institute at Chicago",
+      "title": "Research Assistant Professor",
+      "homepage": "https://www.ttic.edu/faculty/stocking/",
+      "batch": "embodied-009",
+      "discoveredAt": "2026-09-30T22:35:24Z",
+      "verifiedAt": "2026-09-30T22:44:51Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 5,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Vision-language-action interpretability",
+        "Robot policy steering",
+        "Embodied representation learning",
+        "Developmental robot learning"
+      ],
+      "shortVisitStatus": "inquiry-only · 通常12–15周，8周未确认",
+      "recordFile": "batches/embodied-009.json",
+      "detailPage": "batches/embodied-009.md#kaylene-stocking"
+    },
+    {
+      "id": "jeff-schneider",
+      "name": "Jeff Schneider",
+      "aliases": [],
+      "school": "Carnegie Mellon University",
+      "title": "Research Professor",
+      "homepage": "https://www.cs.cmu.edu/~schneide/",
+      "batch": "embodied-009",
+      "discoveredAt": "2026-09-30T22:30:58Z",
+      "verifiedAt": "2026-09-30T22:38:38Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Cross-embodiment robot learning",
+        "Latent world models",
+        "Vision-language-action policies",
+        "Reinforcement learning"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-009.json",
+      "detailPage": "batches/embodied-009.md#jeff-schneider"
     },
     {
       "id": "henny-admoni",

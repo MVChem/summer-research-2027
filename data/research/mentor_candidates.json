@@ -2572,6 +2572,699 @@
         "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
       ],
       "publicEmail": "jeanoh@cmu.edu"
+    },
+    {
+      "id": "mark-w-mueller",
+      "name": "Mark W. Mueller",
+      "aliases": [],
+      "school": "University of California, Berkeley",
+      "homepage": "https://hiperlab.berkeley.edu/",
+      "title": "Associate Professor",
+      "department": "Mechanical Engineering",
+      "batch": "control-002",
+      "discoveredAt": "2026-09-30T21:28:26Z",
+      "verifiedAt": "2026-09-30T21:31:39Z",
+      "researchAreas": [
+        "learning-based control",
+        "aerial robotics",
+        "safe autonomy",
+        "reinforcement learning",
+        "hardware-control co-design"
+      ],
+      "fitReason": "Strong match for physical-AI work combining reinforcement/imitation learning, robust control and real-time drone deployment.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "The 2025 learning-based quadcopter-controller paper, linked by HiPeRLab, documents zero-shot deployment on two physical quadcopters and robustness tests involving wind, off-center payloads and motor-thrust loss. The paper explicitly identifies the HiPeRLab experimental testbed.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "shortVisit": {
+        "status": "inquiry-only",
+        "summary": "Current prospective-student page explicitly invites external students to inquire about visiting, giving interests, CV, transcript, availability duration and constraints. It explicitly states that remote opportunities are not offered.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 10,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "Direct learned control plus physical autonomy.",
+        "physical": "Detailed real hardware trials explicitly connected to current lab.",
+        "shortVisit": "Explicit external visitor route asks duration, but 2027 availability not stated.",
+        "freshness": "Live policy, current faculty confirmation and 2026 publications."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "cal-next.berkeley.edu / source 1",
+          "url": "https://cal-next.berkeley.edu/people/",
+          "summary": "Official Berkeley center lists associate professor of Mechanical Engineering and email.",
+          "verifiedAt": "2026-09-30T21:31:39Z"
+        },
+        {
+          "id": "s2",
+          "label": "hiperlab.berkeley.edu / source 2",
+          "url": "https://hiperlab.berkeley.edu/prospective-students/",
+          "summary": "External visitor inquiry instructions, duration request and explicit no-remote policy.",
+          "verifiedAt": "2026-09-30T21:31:39Z"
+        },
+        {
+          "id": "s3",
+          "label": "hiperlab.berkeley.edu / source 3",
+          "url": "https://hiperlab.berkeley.edu/wp-content/uploads/2025/06/2025_Zhang_LearningBased.pdf",
+          "summary": "Real quadcopter RL/IL deployment and identified HiPeRLab hardware testbed.",
+          "verifiedAt": "2026-09-30T21:31:39Z"
+        },
+        {
+          "id": "s4",
+          "label": "hiperlab.berkeley.edu / source 4",
+          "url": "https://hiperlab.berkeley.edu/publications/",
+          "summary": "2026 publications in drone planning, control and language-model-guided policy synthesis.",
+          "verifiedAt": "2026-09-30T21:31:39Z"
+        }
+      ],
+      "unknowns": [
+        "No eight-week summer 2027 slot or funding commitment. In-person only according to the lab's published policy. Institutional visitor eligibility and appointment need confirmation.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "mwm@berkeley.edu"
+    },
+    {
+      "id": "anirudha-majumdar",
+      "name": "Anirudha Majumdar",
+      "aliases": [],
+      "school": "Princeton University",
+      "homepage": "https://irom-lab.princeton.edu/",
+      "title": "Associate Professor",
+      "department": "Mechanical and Aerospace Engineering",
+      "batch": "control-002",
+      "discoveredAt": "2026-09-30T21:28:26Z",
+      "verifiedAt": "2026-09-30T21:31:39Z",
+      "researchAreas": [
+        "safe robot learning",
+        "robot world models",
+        "reinforcement learning",
+        "generalist robots",
+        "uncertainty quantification"
+      ],
+      "fitReason": "Excellent fit for physically grounded AI, learned world models, safety and generalization in robot manipulation.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "PlayWorld (2026), led by Princeton researchers and coauthored by Majumdar, learns from autonomous robot self-play and reports real-world policy improvements after world-model RL. The current lab research page explicitly describes its hardware-theory feedback loop and dedicated testbeds.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "No lab-specific current short-visit invitation was verified. Princeton's VSRC provides an institutional path for external graduate candidates for one to twelve months; this is not a lab vacancy. Historical 2018 international summer mentorship exists.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5"
+        ]
+      },
+      "scores": {
+        "fit": 40,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "Direct safe/generalist robot learning and world-model RL.",
+        "physical": "2026 autonomous robot play and real deployment evidence.",
+        "shortVisit": "Institutional eligibility and old mentoring do not establish a current lab opportunity.",
+        "freshness": "2026 research plus current official appointment and future program timing."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "mae.princeton.edu / source 1",
+          "url": "https://mae.princeton.edu/people/anirudha-majumdar",
+          "summary": "Current Princeton MAE associate professor; research in safe generalization.",
+          "verifiedAt": "2026-09-30T21:31:39Z"
+        },
+        {
+          "id": "s2",
+          "label": "irom-lab.princeton.edu / source 2",
+          "url": "https://irom-lab.princeton.edu/research/",
+          "summary": "2026 research on trustworthy world models with a physical hardware loop.",
+          "verifiedAt": "2026-09-30T21:31:39Z"
+        },
+        {
+          "id": "s3",
+          "label": "arxiv.org / source 3",
+          "url": "https://arxiv.org/abs/2603.09030",
+          "summary": "PlayWorld's real-world robot policy deployment after learned-world-model RL.",
+          "verifiedAt": "2026-09-30T21:31:39Z"
+        },
+        {
+          "id": "s4",
+          "label": "gradschool.princeton.edu / source 4",
+          "url": "https://gradschool.princeton.edu/admission-onboarding/nondegree-programs/research-collaborators/visiting-student-research",
+          "summary": "Institutional external-graduate VSRC eligibility, duration, timing and in-person policy.",
+          "verifiedAt": "2026-09-30T21:31:39Z"
+        },
+        {
+          "id": "s5",
+          "label": "undergraduateresearch.princeton.edu / source 5",
+          "url": "https://undergraduateresearch.princeton.edu/news/international-interns-engage-dynamic-summer-research-program-princeton",
+          "summary": "Historical 2018 international summer mentorship only.",
+          "verifiedAt": "2026-09-30T21:31:39Z"
+        }
+      ],
+      "unknowns": [
+        "VSRC visits use complete calendar months and are full-time/in-person, with no remote option; Summer2027 applications open December2026 and are due four to six months before arrival. Faculty sponsorship, eligibility and funding still require confirmation.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ]
+    },
+    {
+      "id": "homanga-bharadhwaj",
+      "name": "Homanga Bharadhwaj",
+      "aliases": [],
+      "school": "Johns Hopkins University",
+      "homepage": "https://b3.cs.jhu.edu/",
+      "title": "Assistant Professor",
+      "department": "Computer Science",
+      "batch": "control-002",
+      "discoveredAt": "2026-09-30T21:29:01Z",
+      "verifiedAt": "2026-09-30T21:31:39Z",
+      "researchAreas": [
+        "robot learning",
+        "dexterous manipulation",
+        "human-video learning",
+        "embodied prediction",
+        "model-based reinforcement learning"
+      ],
+      "fitReason": "Strong embodied-AI fit for learning robot policies from human videos and transferring predictive models into dexterous physical behavior.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "Coauthored AINA paper reports learned multi-fingered robot policies for nine everyday manipulation tasks using human smart-glasses demonstrations. This hardware work predates the new JHU lab and is evidence of the PI's research, not proof that the same platform is currently available there.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "shortVisit": {
+        "status": "inquiry-only",
+        "summary": "B3 explicitly invites non-JHU students interested in short-term research visits to submit a lab-interest form, but the site currently states that its Google Form link has not yet been added. General research inquiries may go to the PI.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 5,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "Direct human-data-to-robot learning and embodied prediction.",
+        "physical": "Verified hardware research, but current JHU equipment not established.",
+        "shortVisit": "Explicit short-term invite discounted because required form is missing.",
+        "freshness": "Current official JHU profile and lab launch/research in2026."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "www.cs.jhu.edu / source 1",
+          "url": "https://www.cs.jhu.edu/faculty/homanga-bharadhwaj/",
+          "summary": "Current JHU CS assistant professor and public email.",
+          "verifiedAt": "2026-09-30T21:31:39Z"
+        },
+        {
+          "id": "s2",
+          "label": "b3.cs.jhu.edu / source 2",
+          "url": "https://b3.cs.jhu.edu/",
+          "summary": "Lab launched August2026; explicit non-JHU short-term visitor category, but missing Google Form.",
+          "verifiedAt": "2026-09-30T21:31:39Z"
+        },
+        {
+          "id": "s3",
+          "label": "arxiv.org / source 3",
+          "url": "https://arxiv.org/abs/2511.16661",
+          "summary": "AINA paper coauthorship, robot-policy learning from human demonstrations and nine manipulation tasks.",
+          "verifiedAt": "2026-09-30T21:31:39Z"
+        },
+        {
+          "id": "s4",
+          "label": "homangab.github.io / source 4",
+          "url": "https://homangab.github.io/",
+          "summary": "Current JHU faculty role and 2026 robot-learning research.",
+          "verifiedAt": "2026-09-30T21:31:39Z"
+        }
+      ],
+      "unknowns": [
+        "No specific eight-week period, 2027 vacancy, funding or external-master's eligibility promised. Published form is a placeholder. Current JHU faculty page supersedes older CMU/Meta affiliations.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "homanga@jhu.edu"
+    },
+    {
+      "id": "morteza-lahijanian",
+      "name": "Morteza Lahijanian",
+      "aliases": [],
+      "school": "University of Colorado Boulder",
+      "homepage": "https://ariasystems.group/",
+      "title": "Associate Professor",
+      "department": "Ann and H.J. Smead Aerospace Engineering Sciences",
+      "batch": "control-002",
+      "discoveredAt": "2026-09-30T21:28:26Z",
+      "verifiedAt": "2026-09-30T21:31:39Z",
+      "researchAreas": [
+        "safe AI",
+        "learning-based control",
+        "formal methods",
+        "human-robot interaction",
+        "multi-agent planning"
+      ],
+      "fitReason": "Strong safe-autonomy fit for integrating machine learning with formal guarantees, uncertainty and robot planning around humans.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "CU Boulder's August2025 account documents Lahijanian and his student demonstrating a robotic arm manipulating wooden blocks in work on safe decision-making around humans. ARIA lists a Franka robot and research on learned shielding and neural safety certificates.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "ARIA's Join Us page invites master's/doctoral and undergraduate research interest, but does not identify visiting status, a short stay or summer2027 availability.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "scores": {
+        "fit": 37,
+        "physical": 22,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "Direct safe learning/formal-methods/robotics overlap.",
+        "physical": "University documents real robotic arm experiment; no broad current inventory confirmed.",
+        "shortVisit": "General graduate recruitment only.",
+        "freshness": "Dated2026 lab publications and verified current associate appointment."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "experts.colorado.edu / source 1",
+          "url": "https://experts.colorado.edu/vitas/164179.pdf",
+          "summary": "Official university-hosted CV lists associate professorship from August2025 and public email.",
+          "verifiedAt": "2026-09-30T21:31:39Z"
+        },
+        {
+          "id": "s2",
+          "label": "ariasystems.group / source 2",
+          "url": "https://ariasystems.group/",
+          "summary": "2026 learned-control and safety publications; lab's Franka platform notice.",
+          "verifiedAt": "2026-09-30T21:31:39Z"
+        },
+        {
+          "id": "s3",
+          "label": "www.colorado.edu / source 3",
+          "url": "https://www.colorado.edu/today/2025/08/25/robot-regret-new-research-helps-robots-make-safer-decisions-around-humans",
+          "summary": "Official report of physical robot-arm manipulation and game-theoretic safe HRI.",
+          "verifiedAt": "2026-09-30T21:31:39Z"
+        },
+        {
+          "id": "s4",
+          "label": "ariasystems.group / source 4",
+          "url": "https://ariasystems.group/join.html",
+          "summary": "General graduate/undergraduate recruitment; no explicit short-term external pathway.",
+          "verifiedAt": "2026-09-30T21:31:39Z"
+        }
+      ],
+      "unknowns": [
+        "Generic degree-student recruitment does not establish an external short visit. Duration, faculty capacity, institutional appointment, funding and remote options remain unknown.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "morteza.lahijanian@colorado.edu"
+    },
+    {
+      "id": "nikolay-a-atanasov",
+      "name": "Nikolay A. Atanasov",
+      "aliases": [],
+      "school": "University of California, San Diego",
+      "homepage": "https://natanaso.github.io/",
+      "title": "Associate Professor",
+      "department": "Electrical and Computer Engineering",
+      "batch": "control-002",
+      "discoveredAt": "2026-09-30T21:28:35Z",
+      "verifiedAt": "2026-09-30T21:31:39Z",
+      "researchAreas": [
+        "reinforcement learning",
+        "safe navigation",
+        "active perception",
+        "SLAM",
+        "distributed robot intelligence"
+      ],
+      "fitReason": "Strong fit for learning/control methods grounded in autonomous mobile robots, uncertainty-aware planning and multi-robot collaboration.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "Coauthored sensor-based distributionally robust navigation work reports real differential-drive robot experiments. ERL's current research includes mobile autonomy and decentralized metric-semantic SLAM, with 2026 research entries.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "shortVisit": {
+        "status": "precedent-only",
+        "summary": "CV/alumni pages show prior international summer research students and current internal master's researchers. No current short-term external-graduate invitation was verified.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "scores": {
+        "fit": 38,
+        "physical": 22,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "RL and perception/control for real mobile autonomy.",
+        "physical": "Concrete differential-drive hardware and active lab robotics; not a current visit project.",
+        "shortVisit": "Only historical summer evidence.",
+        "freshness": "2026 official lab research and current faculty role."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "natanaso.github.io / source 1",
+          "url": "https://natanaso.github.io/",
+          "summary": "Current UCSD ECE associate professor, email, and learning/control research.",
+          "verifiedAt": "2026-09-30T21:31:39Z"
+        },
+        {
+          "id": "s2",
+          "label": "erl.ucsd.edu / source 2",
+          "url": "https://erl.ucsd.edu/pages/research.html",
+          "summary": "Current physical autonomy/SLAM research and2026 activity.",
+          "verifiedAt": "2026-09-30T21:31:39Z"
+        },
+        {
+          "id": "s3",
+          "label": "escholarship.org / source 3",
+          "url": "https://escholarship.org/uc/item/5rv3m2rf",
+          "summary": "UC-hosted author paper explicitly reports differential-drive hardware experiments.",
+          "verifiedAt": "2026-09-30T21:31:39Z"
+        },
+        {
+          "id": "s4",
+          "label": "erl.ucsd.edu / source 4",
+          "url": "https://erl.ucsd.edu/pages/alumni.html",
+          "summary": "International summer student history and master's alumni; precedent only.",
+          "verifiedAt": "2026-09-30T21:31:39Z"
+        }
+      ],
+      "unknowns": [
+        "Past ISRP/undergraduate participation and internal master's supervision are not evidence of an eligible current external graduate visit. Duration, funding and institutional hosting remain unknown.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "natanasov@ucsd.edu"
+    },
+    {
+      "id": "giuseppe-loianno",
+      "name": "Giuseppe Loianno",
+      "aliases": [],
+      "school": "University of California, Berkeley",
+      "homepage": "https://arplaboratory.github.io/",
+      "title": "Associate Professor",
+      "department": "Electrical Engineering and Computer Sciences",
+      "batch": "control-002",
+      "discoveredAt": "2026-09-30T21:28:35Z",
+      "verifiedAt": "2026-09-30T21:31:39Z",
+      "researchAreas": [
+        "reinforcement learning for drones",
+        "perception-aware control",
+        "agile autonomy",
+        "collaborative robotics"
+      ],
+      "fitReason": "Close fit for deploying learned policies on real aerial robots under onboard-compute and real-time control constraints.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "Learning to Fly in Seconds (2024 publication;2023 preprint) demonstrates end-to-end RL control on a real Crazyflie nano quadrotor. Current ARPL continues agile robotics and lists nine ICRA2026 papers.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "No current Berkeley short-visit invitation was established. Older NYU open-position text belongs to the prior affiliation and should not be used to infer current Berkeley availability.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "Direct AI/control deployment on aerial robots.",
+        "physical": "Named real hardware RL demonstration; work predates new Berkeley lab.",
+        "shortVisit": "Current Berkeley visitor route unverified.",
+        "freshness": "Official new affiliation and2026 lab activity."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "www2.eecs.berkeley.edu / source 1",
+          "url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/loiannog.html",
+          "summary": "Official current Berkeley associate professor and public email.",
+          "verifiedAt": "2026-09-30T21:31:39Z"
+        },
+        {
+          "id": "s2",
+          "label": "aero.berkeley.edu / source 2",
+          "url": "https://aero.berkeley.edu/people/giuseppe-loianno/",
+          "summary": "Current Berkeley role and perception/learning/control focus; previous NYU affiliation.",
+          "verifiedAt": "2026-09-30T21:31:39Z"
+        },
+        {
+          "id": "s3",
+          "label": "arplaboratory.github.io / source 3",
+          "url": "https://arplaboratory.github.io/",
+          "summary": "August2025 lab move and February2026 robotics updates.",
+          "verifiedAt": "2026-09-30T21:31:39Z"
+        },
+        {
+          "id": "s4",
+          "label": "arxiv.org / source 4",
+          "url": "https://arxiv.org/abs/2311.13081",
+          "summary": "End-to-end RL sim-to-real demonstration on physical Crazyflie.",
+          "verifiedAt": "2026-09-30T21:31:39Z"
+        }
+      ],
+      "unknowns": [
+        "ARPL moved to Berkeley in August2025 per current lab. Do not use NYU contact or old NYU openings page for current applications. Eight-week eligibility, funding and hosting need confirmation.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "loiannog@berkeley.edu"
+    },
+    {
+      "id": "haimin-hu",
+      "name": "Haimin Hu",
+      "aliases": [],
+      "school": "Johns Hopkins University",
+      "homepage": "https://haiminhu.org/",
+      "title": "Assistant Professor",
+      "department": "Computer Science",
+      "batch": "control-002",
+      "discoveredAt": "2026-09-30T21:28:41Z",
+      "verifiedAt": "2026-09-30T21:31:39Z",
+      "researchAreas": [
+        "safe reinforcement learning",
+        "dynamic games",
+        "human-centered autonomy",
+        "uncertainty-aware robot planning"
+      ],
+      "fitReason": "Strong fit at the intersection of learned decision-making, control safety and physical multi-agent/human-robot interaction.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "PI homepage explicitly grounds research in real miniature autonomous vehicles, quadrupedal robots and quadrotors, with linked demonstrations. These establish prior embodied research; hardware available to visitors in the newly established JHU lab is not yet verified.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "Lab page invites PhD, master's and undergraduate students to reach out about research. No explicit short-term visiting category or summer2027 commitment was established in readable sources.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ]
+      },
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "Direct learning/safety/dynamic-games/physical autonomy intersection.",
+        "physical": "PI's real-robot demonstrations, but new-lab inventory unconfirmed.",
+        "shortVisit": "No explicit external short-visit route.",
+        "freshness": "New current2026 JHU appointment and active lab."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "lcsr.jhu.edu / source 1",
+          "url": "https://lcsr.jhu.edu/faculty/haimin-hu/",
+          "summary": "Official current JHU CS assistant professor, public email and safe autonomy research.",
+          "verifiedAt": "2026-09-30T21:31:39Z"
+        },
+        {
+          "id": "s2",
+          "label": "haiminhu.org / source 2",
+          "url": "https://haiminhu.org/",
+          "summary": "Current JHU role; explicit real autonomous vehicle/quadruped/quadrotor research; Fall2026 start announcement.",
+          "verifiedAt": "2026-09-30T21:31:39Z"
+        },
+        {
+          "id": "s3",
+          "label": "haiminhu.org / source 3",
+          "url": "https://haiminhu.org/lab/",
+          "summary": "General PhD/master's/undergraduate recruitment, not a short-visit offer.",
+          "verifiedAt": "2026-09-30T21:31:39Z"
+        }
+      ],
+      "unknowns": [
+        "Fall2026 JHU appointment is confirmed by official current faculty page. General student recruitment does not establish external visitor eligibility, eight-week availability or funding.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "haimin@cs.jhu.edu"
+    },
+    {
+      "id": "marco-pavone",
+      "name": "Marco Pavone",
+      "aliases": [],
+      "school": "Stanford University",
+      "homepage": "https://stanfordasl.github.io/",
+      "title": "Associate Professor",
+      "department": "Aeronautics and Astronautics",
+      "batch": "control-002",
+      "discoveredAt": "2026-09-30T21:22:33Z",
+      "verifiedAt": "2026-09-30T21:31:39Z",
+      "researchAreas": [
+        "physical AI safety",
+        "robot foundation models",
+        "learning-based control",
+        "autonomous vehicles",
+        "embodied agents"
+      ],
+      "fitReason": "Strong fit for foundation-model-enabled robotics, safe policy deployment, learned control and autonomous physical systems.",
+      "physicalEvidence": {
+        "status": "public-hardware-evidence",
+        "summary": "Coauthored2026 Vision-Based Safe Human-Robot Collaboration project reports deploying a safety pipeline on a Franka Emika arm with RealSense sensing. ASL's current research agenda explicitly covers field deployment in legged robots, manipulation, vehicles and space robotics.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "shortVisit": {
+        "status": "unknown",
+        "summary": "No current external-student short-visit invitation was verified. Lab contact page describes building access and visiting hours, which are logistical information, not research recruitment.",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ]
+      },
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "scoreReasons": {
+        "fit": "Physical foundation-model safety/control is directly aligned.",
+        "physical": "Recent coauthored real-arm experiment; does not establish current visitor access to hardware.",
+        "shortVisit": "No current research visitor route verified.",
+        "freshness": "Current Stanford faculty and2026 physical-AI project."
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "label": "aa.stanford.edu / source 1",
+          "url": "https://aa.stanford.edu/people/marco-pavone-0",
+          "summary": "Official current Stanford associate professor, lab directorship and public email.",
+          "verifiedAt": "2026-09-30T21:31:39Z"
+        },
+        {
+          "id": "s2",
+          "label": "stanfordasl.github.io / source 2",
+          "url": "https://stanfordasl.github.io/",
+          "summary": "Current physical AI safety, foundation-model and learned-control agenda.",
+          "verifiedAt": "2026-09-30T21:31:39Z"
+        },
+        {
+          "id": "s3",
+          "label": "jakob-thumm.com / source 3",
+          "url": "https://jakob-thumm.com/conformal_human_motion_prediction/",
+          "summary": "2026 coauthored project reports real Franka Emika arm deployment and safety monitoring.",
+          "verifiedAt": "2026-09-30T21:31:39Z"
+        },
+        {
+          "id": "s4",
+          "label": "stanfordasl.github.io / source 4",
+          "url": "https://stanfordasl.github.io/contact/",
+          "summary": "Lab visiting hours only; no research-visit offer.",
+          "verifiedAt": "2026-09-30T21:31:39Z"
+        }
+      ],
+      "unknowns": [
+        "Research breadth and visitor logistics do not imply an available summer placement. Duration, faculty availability, eligibility, funding and remote arrangement remain unconfirmed.",
+        "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      ],
+      "publicEmail": "pavone@stanford.edu"
     }
   ]
 }

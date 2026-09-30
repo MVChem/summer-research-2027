@@ -38,6 +38,7 @@
     "batches/embodied-012.json",
     "batches/embodied-013.json",
     "batches/embodied-014.json",
+    "batches/embodied-015.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -3901,6 +3902,59 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-014.json",
       "detailPage": "batches/embodied-014.md#mohammad-khalid-jawed"
+    },
+    {
+      "id": "girish-chowdhary",
+      "name": "Girish Chowdhary",
+      "aliases": [],
+      "school": "University of Illinois Urbana-Champaign",
+      "title": "Professor",
+      "homepage": "https://csl.illinois.edu/directory/faculty/girishc",
+      "batch": "embodied-015",
+      "discoveredAt": "2026-09-30T23:15:04Z",
+      "verifiedAt": "2026-09-30T23:17:13Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Learning-based robot manipulation",
+        "Robot visual perception",
+        "Hybrid soft-rigid control",
+        "Vision-language-action learning",
+        "Agricultural robot autonomy"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-015.json",
+      "detailPage": "batches/embodied-015.md#girish-chowdhary"
+    },
+    {
+      "id": "rebecca-kramer-bottiglio",
+      "name": "Rebecca Kramer-Bottiglio",
+      "aliases": [],
+      "school": "Princeton University",
+      "title": "Professor",
+      "homepage": "https://mae.princeton.edu/people/rebecca-kramer-bottiglio",
+      "batch": "embodied-015",
+      "discoveredAt": "2026-09-30T23:07:06Z",
+      "verifiedAt": "2026-09-30T23:17:13Z",
+      "scores": {
+        "fit": 34,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Graph-neural robot dynamics",
+        "Differentiable sim-to-real learning",
+        "Tensegrity robotics",
+        "Soft and adaptive robots"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-015.json",
+      "detailPage": "batches/embodied-015.md#rebecca-kramer-bottiglio"
     },
     {
       "id": "henny-admoni",

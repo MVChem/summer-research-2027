@@ -1,0 +1,236 @@
+[
+  {
+    "id": "girish-chowdhary",
+    "name": "Girish Chowdhary",
+    "aliases": [],
+    "school": "University of Illinois Urbana-Champaign",
+    "homepage": "https://csl.illinois.edu/directory/faculty/girishc",
+    "title": "Professor",
+    "department": "Agricultural and Biological Engineering; Siebel School of Computing and Data Science; Coordinated Science Laboratory",
+    "batch": "embodied-015",
+    "discoveredAt": "2026-09-30T23:15:04Z",
+    "verifiedAt": "2026-09-30T23:17:13Z",
+    "researchAreas": [
+      "Learning-based robot manipulation",
+      "Robot visual perception",
+      "Hybrid soft-rigid control",
+      "Vision-language-action learning",
+      "Agricultural robot autonomy"
+    ],
+    "fitReason": "HyReach (2026) combines MASt3R reconstruction, open-vocabulary object localization, shape-aware planning and a learned hybrid-arm controller. AFIL (2026) studies failure-informed guidance of VLA policies, providing a separate foundation-policy learning direction.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "HyReach explicitly evaluates a physical6DoF rigid arm carrying a three-actuator soft continuum segment and tip RGB camera across four obstacle/clutter/hole configurations. Its neural controller is trained on9,536 physical pose-actuation samples. AFIL’s VLA evaluations are simulation and do not supply additional hardware evidence.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "University profiles verify an active lab in learning, perception and autonomous control, but no current external-master’s short-visit invitation was verified. The linked DASLAB homepage failed retrieval, limiting recruitment-page coverage.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct learned manipulation plus current VLA learning research.",
+      "physical": "Primary study details actual hybrid-arm trials and physical control training data.",
+      "shortVisit": "No external short-visit route verified; inaccessible lab page remains a limitation.",
+      "freshness": "March/May2026 primary studies and explicit fall2026 promotion."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "csl.illinois.edu / source 1",
+        "url": "https://csl.illinois.edu/directory/faculty/girishc",
+        "summary": "Official professor heading, ABE/CS affiliation and public email; older academic-history subsection lags promotion.",
+        "verifiedAt": "2026-09-30T23:17:13Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "aces.illinois.edu / source 2",
+        "url": "https://aces.illinois.edu/news/aces-recognizes-promoted-faculty-welcomes-new-scholars",
+        "summary": "Official fall2026 promotion announcement explicitly lists Chowdhary promoted to professor, ABE and Siebel School.",
+        "verifiedAt": "2026-09-30T23:17:13Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "research.illinois.edu / source 3",
+        "url": "https://research.illinois.edu/researchunit/distributed-autonomous-systems-laboratory",
+        "summary": "Official lab summary: AI, learning, perception and control for physical robotics.",
+        "verifiedAt": "2026-09-30T23:17:13Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2603.21421v1",
+        "summary": "HyReach primary full paper: learned hybrid-arm controller, physical data and four hardware environments.",
+        "verifiedAt": "2026-09-30T23:17:13Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2605.08434v1",
+        "summary": "AFIL primary full paper, failure-informed VLA learning; Section4 explicitly simulation-only evaluation.",
+        "verifiedAt": "2026-09-30T23:17:13Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "The2026 college promotion announcement confirms full professor; some older biographical text still says associate. The physical task is reaching/touching, not demonstrated harvesting or arbitrary object manipulation. Learned control is combined with a classical shape-aware planner rather than an end-to-end VLA. Project-specific visitor and hardware access remain unknown.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "girishc@illinois.edu"
+  },
+  {
+    "id": "rebecca-kramer-bottiglio",
+    "name": "Rebecca Kramer-Bottiglio",
+    "aliases": [],
+    "school": "Princeton University",
+    "homepage": "https://mae.princeton.edu/people/rebecca-kramer-bottiglio",
+    "title": "Professor",
+    "department": "Mechanical and Aerospace Engineering",
+    "batch": "embodied-015",
+    "discoveredAt": "2026-09-30T23:07:06Z",
+    "verifiedAt": "2026-09-30T23:17:13Z",
+    "researchAreas": [
+      "Graph-neural robot dynamics",
+      "Differentiable sim-to-real learning",
+      "Tensegrity robotics",
+      "Soft and adaptive robots"
+    ],
+    "fitReason": "CableRobotGraphSim (2026) learns tensegrity dynamics from physical trajectories and simulation with graph neural networks. This offers a focused CS-oriented dynamics/model-learning fit within a broader soft-robotics and materials lab.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The2026 learning study uses nine trajectories from a real three-bar tensegrity robot; its learned MPPI maze/navigation experiments are on a simulated six-bar system. An older IROS2023 study provides explicit learned-simulator locomotion transfer to physical three-bar hardware. The2026 Tribar publication separately establishes recent physical autonomous locomotion, not necessarily learned control.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The lab’s current undergraduate/MS notice says it is moving to Princeton and asks readers to check back about AY2026–27 opportunities. This is not a current invitation to external short-term master’s visitors. Princeton’s institutional VSRC route alone earns no opportunity points.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "scores": {
+      "fit": 34,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Concrete GNN dynamics/sim-to-real fit, narrower than generalist robot-policy labs.",
+      "physical": "Recent real dynamics data and autonomous robot evidence; learned hardware-control transfer anchor is older and new-campus equipment unknown.",
+      "shortVisit": "No external short-visit invitation; check-back notice and central policy do not establish acceptance.",
+      "freshness": "June2026 learning update, August2026 physical publication and July2026 appointment."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "mae.princeton.edu / source 1",
+        "url": "https://mae.princeton.edu/news/2026/rebecca-kramer-bottiglio-appointed-professor-mechanical-and-aerospace-engineering",
+        "summary": "Official appointment announcement, startJuly1,2026 fromYale.",
+        "verifiedAt": "2026-09-30T23:17:13Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "mae.princeton.edu / source 2",
+        "url": "https://mae.princeton.edu/people/rebecca-kramer-bottiglio",
+        "summary": "Direct official current professor profile.",
+        "verifiedAt": "2026-09-30T23:17:13Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "mae.princeton.edu / source 3",
+        "url": "https://mae.princeton.edu/research/control-robotics-and-dynamical-systems",
+        "summary": "Official indexed exact current Princeton email; direct body masks email.",
+        "verifiedAt": "2026-09-30T23:17:13Z",
+        "retrieval": "indexed-primary-excerpt"
+      },
+      {
+        "id": "s4",
+        "label": "www.eng.yale.edu / source 4",
+        "url": "https://www.eng.yale.edu/faboratory/",
+        "summary": "Lab announces Princeton move, undergraduate/MS check-back notice, recent publication list.",
+        "verifiedAt": "2026-09-30T23:17:13Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2602.21331v2",
+        "summary": "June2026 primary CableRobotGraphSim paper: real three-bar dynamics data versus simulated six-bar learned-control experiment.",
+        "verifiedAt": "2026-09-30T23:17:13Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/abs/2209.06261",
+        "summary": "Primary older Real2Sim2Real abstract: learned differentiable simulator and physical three-bar policy transfer; IROS2023 per lab list.",
+        "verifiedAt": "2026-09-30T23:17:13Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s7",
+        "label": "arxiv.org / source 7",
+        "url": "https://arxiv.org/abs/2501.15078",
+        "summary": "Primary Tribar abstract establishes physical autonomy and impact resilience.",
+        "verifiedAt": "2026-09-30T23:17:13Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s8",
+        "label": "www.nature.com / source 8",
+        "url": "https://www.nature.com/articles/s42256-026-01280-2",
+        "summary": "August2026 journal publication confirmation; full direct article retrieval failed.",
+        "verifiedAt": "2026-09-30T23:17:13Z",
+        "retrieval": "indexed-primary-excerpt"
+      }
+    ],
+    "unknowns": [
+      "Princeton appointment became effective July1,2026; Yale-hosted lab branding and old contact details are stale for current affiliation. Inspected physical work was Yale/Rutgers collaboration, so current Princeton equipment and visitor supervision require confirmation. Current professional email is supported by an official indexed page, while its direct rendering masks it. Broader materials projects may be less aligned than a specifically scoped GNN/sim-to-real project.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "rebecca.kramer@princeton.edu",
+    "publicEmailCaveat": "Exact current email verified in official search-indexed excerpt; direct profile masks it."
+  }
+]

@@ -8,6 +8,10 @@
 
 ![导师名单预览](preview-desktop.png)
 
+## 持续新增检索
+
+[新增候选排序](data/research/ranked_candidates.md) · [记录、评分与回滚说明](data/research/README.md)。新发现逐条记录 UTC 时间，按可复核依据排序；原有 200 位与应用保持不变，不补造历史发现日期。
+
 ## 功能
 
 - 200 位候选与“本次新增 100 位”快捷入口；原始姓名和编号保持兼容。
@@ -93,3 +97,4 @@ backend/.venv/bin/python scripts/verify_data.py
 欢迎以 issue 或 PR 提供官方教师页、本人公开研究主页、具体真机项目和任职修正。招募信息要区分 PhD、本校学生、长期访问与外校短期暑研。新增 AP 年份需要公开来源；身份字段需要本人明确公开的来源，不能靠推断填入。
 
 代码和原创整理文字采用 [MIT License](LICENSE)。链接的网站、论文、照片与机构标识保留各自权利，见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
+

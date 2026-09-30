@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "baseline": {
+    "commit": "834e348e17e47333777353e419dcc058f9f46846",
+    "path": "data/contacts.json",
+    "count": 200,
+    "gitBlobSha": "560e3bf638ef69e261c4d75eb80e2a5074f26a09",
+    "canonicalJsonSha256": "00f4db18474283368c06033c8146cfda37a91e6b8de0152ed21000ddf4854136"
+  },
+  "rubricVersion": "fit40-physical25-shortVisit20-freshness15-v1",
+  "candidates": []
+}

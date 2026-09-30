@@ -18,6 +18,7 @@
     "batches/control-007.json",
     "batches/control-008.json",
     "batches/control-009.json",
+    "batches/control-010.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -1744,6 +1745,32 @@
       "shortVisitStatus": "inquiry-only · 2026-11-01拟入职",
       "recordFile": "batches/control-009.json",
       "detailPage": "batches/control-009.md#thomas-a-berrueta"
+    },
+    {
+      "id": "todd-d-murphey",
+      "name": "Todd D. Murphey",
+      "aliases": [],
+      "school": "Northwestern University",
+      "title": "Professor; Director of the Master of Science in Robotics Program",
+      "homepage": "https://murpheylab.github.io/",
+      "batch": "control-010",
+      "discoveredAt": "2026-09-30T22:37:34Z",
+      "verifiedAt": "2026-09-30T22:39:08Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Hardware reinforcement learning",
+        "Data-driven control",
+        "Active learning",
+        "Physical embodied intelligence"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-010.json",
+      "detailPage": "batches/control-010.md#todd-d-murphey"
     },
     {
       "id": "tom-silver",

@@ -1,0 +1,129 @@
+[
+  {
+    "id": "na-du",
+    "name": "Na Du",
+    "aliases": [],
+    "school": "University of Pittsburgh",
+    "homepage": "https://nadu-pitt.github.io/",
+    "title": "Assistant Professor",
+    "department": "Department of Informatics and Networked Systems, School of Computing and Information",
+    "batch": "hri-013",
+    "discoveredAt": "2026-09-30T23:02:43Z",
+    "verifiedAt": "2026-09-30T23:08:39Z",
+    "researchAreas": [
+      "Multimodal human-robot communication",
+      "Gaze-aware target grounding and intent understanding",
+      "Explainable AI and human-agent teaming",
+      "Assistive robot interfaces",
+      "Spatial-temporal visual reasoning"
+    ],
+    "fitReason": "Strong software-oriented HRI fit: multimodal intent recognition, gaze/language grounding, user-aware explanations and learned visual scene reasoning. A bounded data/model-evaluation or nonclinical interface project is a more plausible eight-week scope than initiating a new patient study.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "A primary author report for the coauthored HRI 2025 study documents a prototype combining a robotic arm, camera and Unity-based simulated interface, used to explain the system during interviews with 13 powered-wheelchair users. This is collaborative physical-prototype evidence, not proof of autonomous language-to-action execution, a wholly physical interface, or Na Du's exclusive robot inventory. A separate coauthored ICORR 2025 abstract describes users manually controlling a robot arm in a kitchen task with light/sound feedback; full methods and exact arm model were not accessible in this pass.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "Her live prospective-student page explicitly says she may host visiting undergraduate or graduate students and scholars depending on research interests and funding. It provides a dedicated visitor inquiry subject and requests CV, transcript, research background and optional writing/publication samples. No duration, summer 2027 slot or lab funding promise is stated. Existing Pitt international-visitor policy notes provide a conditional administrative route after host acceptance, not a lab offer.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 10,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "direct multimodal HRI/grounding plus current learned perception, though not primarily robot-policy learning.",
+      "physical": "attributable collaborative arm prototypes/manual control; exact hardware and independent lab access remain unverified.",
+      "shortVisit": "explicit graduate-inclusive visitor inquiry, conditional on fit/funding and with unspecified duration.",
+      "freshness": "September 2026 primary paper and dated university seminar. This is provisional fit/evidence scoring, not acceptance probability or prestige."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.sci.pitt.edu / source 1",
+        "url": "https://www.sci.pitt.edu/people/na-du",
+        "summary": "Full official directory page confirms current Assistant Professor, department and public email.",
+        "verifiedAt": "2026-09-30T23:08:39Z"
+      },
+      {
+        "id": "s2",
+        "label": "nadu-pitt.github.io / source 2",
+        "url": "https://nadu-pitt.github.io/prospective_students",
+        "summary": "Full page separates Pitt-enrolled undergraduate/master's opportunities from explicit visiting undergraduate/graduate student and scholar inquiries; no duration or summer-2027 promise.",
+        "verifiedAt": "2026-09-30T23:08:39Z"
+      },
+      {
+        "id": "s3",
+        "label": "nadu-pitt.github.io / source 3",
+        "url": "https://nadu-pitt.github.io/",
+        "summary": "Full current faculty homepage reports 2026 HRI, CHI, ICRA and assistive-robot research activity.",
+        "verifiedAt": "2026-09-30T23:08:39Z"
+      },
+      {
+        "id": "s4",
+        "label": "lesong-jia.github.io / source 4",
+        "url": "https://lesong-jia.github.io/en/news/news-6/",
+        "summary": "Full primary author report dated March 6, 2025 attributes Na Du and describes robotic arm, camera and Unity simulated-interface prototype used in 13 user interviews; publisher full methods were not retrieved.",
+        "verifiedAt": "2026-09-30T23:08:39Z"
+      },
+      {
+        "id": "s5",
+        "label": "pubmed.ncbi.nlm.nih.gov / source 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40644074/",
+        "summary": "Search-indexed primary-paper abstract and bibliographic record for May 2025 ICORR paper coauthored by Na Du: manual robotic-arm kitchen task and feedback comparison. Direct open returned no body; no full-method claim.",
+        "verifiedAt": "2026-09-30T23:08:39Z"
+      },
+      {
+        "id": "s6",
+        "label": "research.gatech.edu / source 6",
+        "url": "https://research.gatech.edu/beyond-words-building-shared-understanding-through-bidirectional-human-robot-communication",
+        "summary": "Full official September 22, 2026 seminar states gaze-aware multimodal instruction-understanding model and bidirectional robot communication research.",
+        "verifiedAt": "2026-09-30T23:08:39Z"
+      },
+      {
+        "id": "s7",
+        "label": "arxiv.org / source 7",
+        "url": "https://arxiv.org/html/2609.07125v1",
+        "summary": "Full primary September 2026 paper, Sections III-IV: spatial-temporal object-state prediction and transformer-based key-object ranking; evaluated on 1,500 videos from BDD100K, Argoverse 2 and Rank2Tell, not a new physical-vehicle trial.",
+        "verifiedAt": "2026-09-30T23:08:39Z"
+      },
+      {
+        "id": "s8",
+        "label": "doi.org / source 8",
+        "url": "https://doi.org/10.1145/3757279.3788662",
+        "summary": "Publisher abstract for HRI 2026 task-goal alignment paper explicitly describes a survey of 113 participants, not a hardware experiment.",
+        "verifiedAt": "2026-09-30T23:08:39Z"
+      }
+    ],
+    "unknowns": [
+      "The distinct undergraduate/master's research-assistantship paragraph is limited to Pitt students and requires a prior semester of project work; it must not be substituted for the separate visiting-student invitation.",
+      "International appointment, degree-related training, funding documentation, permitted activities and exact visit length require host and Pitt OIS approval. Self-funded willingness alone does not establish an approved appointment.",
+      "Pitt's J-1 Student Intern route has activity restrictions including clinical patient care/contact and elder-care settings; a proposed assistive-robot project must be classified by OIS rather than presumed eligible.",
+      "The September 2026 computer-vision paper evaluates existing driving-video datasets. It is AI-method evidence, not physical-car deployment evidence.",
+      "The 2026 domestic-robot goal-alignment study is a survey, and the multimodal instruction work should not be counted as hardware autonomy without its methods.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "na.du@pitt.edu"
+  }
+]

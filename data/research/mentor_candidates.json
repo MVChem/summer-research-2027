@@ -45,7 +45,8 @@
     "batches/hri-009.json",
     "batches/hri-010.json",
     "batches/hri-011.json",
-    "batches/hri-012.json"
+    "batches/hri-012.json",
+    "batches/hri-013.json"
   ],
   "candidates": [
     {
@@ -5758,6 +5759,33 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-012.json",
       "detailPage": "batches/hri-012.md#wei-gao"
+    },
+    {
+      "id": "na-du",
+      "name": "Na Du",
+      "aliases": [],
+      "school": "University of Pittsburgh",
+      "title": "Assistant Professor",
+      "homepage": "https://nadu-pitt.github.io/",
+      "batch": "hri-013",
+      "discoveredAt": "2026-09-30T23:02:43Z",
+      "verifiedAt": "2026-09-30T23:08:39Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 10,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Multimodal human-robot communication",
+        "Gaze-aware target grounding and intent understanding",
+        "Explainable AI and human-agent teaming",
+        "Assistive robot interfaces",
+        "Spatial-temporal visual reasoning"
+      ],
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/hri-013.json",
+      "detailPage": "batches/hri-013.md#na-du"
     }
   ]
 }

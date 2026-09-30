@@ -32,6 +32,7 @@
     "batches/embodied-009.json",
     "batches/embodied-010.json",
     "batches/embodied-011.json",
+    "batches/embodied-012.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -3622,6 +3623,60 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-011.json",
       "detailPage": "batches/embodied-011.md#pratap-tokekar"
+    },
+    {
+      "id": "stella-x-yu",
+      "name": "Stella X. Yu",
+      "aliases": [],
+      "school": "University of Michigan, Ann Arbor",
+      "title": "Professor",
+      "homepage": "https://web.eecs.umich.edu/~stellayu/",
+      "batch": "embodied-012",
+      "discoveredAt": "2026-09-30T22:51:18Z",
+      "verifiedAt": "2026-09-30T23:00:32Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Embodied motor representations",
+        "Humanoid skill learning",
+        "Robot reinforcement learning",
+        "Visuomotor imitation",
+        "Unsupervised representation learning"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-012.json",
+      "detailPage": "batches/embodied-012.md#stella-x-yu"
+    },
+    {
+      "id": "zhiyu-huang",
+      "name": "Zhiyu Huang",
+      "aliases": [],
+      "school": "North Carolina State University",
+      "title": "Assistant Professor",
+      "homepage": "https://mczhi.github.io/",
+      "batch": "embodied-012",
+      "discoveredAt": "2026-09-30T22:48:35Z",
+      "verifiedAt": "2026-09-30T23:00:32Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Vision-language-action models",
+        "Latency-aware robot navigation",
+        "Robot reinforcement learning",
+        "Imitation learning",
+        "Physical AI and foundation models"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-012.json",
+      "detailPage": "batches/embodied-012.md#zhiyu-huang"
     },
     {
       "id": "henny-admoni",

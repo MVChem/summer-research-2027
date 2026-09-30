@@ -1,0 +1,746 @@
+[
+  {
+    "id": "mingyu-ding",
+    "name": "Mingyu Ding",
+    "aliases": [],
+    "school": "University of North Carolina at Chapel Hill",
+    "homepage": "https://dingmyu.github.io/",
+    "title": "Assistant Professor",
+    "department": "Computer Science",
+    "batch": "embodied-002",
+    "discoveredAt": "2026-09-30T21:32:25Z",
+    "verifiedAt": "2026-09-30T21:46:12Z",
+    "researchAreas": [
+      "Dexterous manipulation",
+      "Vision-language-action models",
+      "Humanoid loco-manipulation",
+      "Sim-to-real",
+      "Robot world models"
+    ],
+    "fitReason": "IDEAL is a full-stack robot-learning lab. OHRA (RSS 2026) studies cross-hand policy representations, and Current as Touch learns compliant contact feedback from proprioception.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "OHRA provides actual grasp trials on multiple LEAP hand configurations; Current as Touch demonstrates cup stacking, wiping, card retrieval and dynamic holding with dexterous hands.",
+      "sourceIds": [
+        "s2",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "External short-visit recruitment is unverified. The UNC lab join page could not be retrieved during review; no current opening or eligibility is inferred.",
+      "sourceIds": []
+    },
+    "scores": {
+      "fit": 40,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Exact dexterous learning/VLA/physical intelligence match.",
+      "physical": "Named hand hardware and multiple physical manipulation tasks.",
+      "shortVisit": "No reproducible current visitor invitation was verified: the UNC lab join page could not be retrieved and no matching current indexed result was found.",
+      "freshness": "2026 university-hosted lab and current primary projects."
+    },
+    "sources": [
+      {
+        "id": "s2",
+        "label": "dingmyu.github.io / source 2",
+        "url": "https://dingmyu.github.io/",
+        "summary": "Current assistant professor, research areas and public contact.",
+        "verifiedAt": "2026-09-30T21:36:36Z"
+      },
+      {
+        "id": "s4",
+        "label": "zhenyuwei2003.github.io / source 4",
+        "url": "https://zhenyuwei2003.github.io/OHRA/",
+        "summary": "RSS 2026 cross-hand policy learning with physical LEAP-hand experiments.",
+        "verifiedAt": "2026-09-30T21:36:36Z"
+      },
+      {
+        "id": "s5",
+        "label": "cat.chenyangma.com / source 5",
+        "url": "https://cat.chenyangma.com/",
+        "summary": "Real contact-rich dexterous manipulation and learned feedback.",
+        "verifiedAt": "2026-09-30T21:36:36Z"
+      }
+    ],
+    "unknowns": [
+      "No duration, summer-2027 vacancy, funding or international visitor eligibility is specified. Linear algebra, probability and Python are expected; ROS/PyTorch/simulator/hardware experience is helpful.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "UNC lab root/join pages were inaccessible during review (https://ideal.cs.unc.edu/join.html); earlier provisional visitor wording could not be reproduced and is not counted as evidence."
+    ],
+    "publicEmail": "md@cs.unc.edu"
+  },
+  {
+    "id": "yu-she",
+    "name": "Yu She",
+    "aliases": [],
+    "school": "Purdue University",
+    "homepage": "https://www.purduemars.com/",
+    "title": "Assistant Professor",
+    "department": "Edwardson School of Industrial Engineering; courtesy Mechanical Engineering",
+    "batch": "embodied-002",
+    "discoveredAt": "2026-09-30T21:29:56Z",
+    "verifiedAt": "2026-09-30T21:55:32Z",
+    "researchAreas": [
+      "Robot learning",
+      "Tactile sensing",
+      "Contact-rich manipulation",
+      "Multimodal policies",
+      "Loco-manipulation"
+    ],
+    "fitReason": "MARS integrates learned policies with tactile feedback. CONTACT (2026) studies disassembly and TAC-LOCO unifies tactile-aware whole-body control.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "CONTACT reports five real-world disassembly tasks; TAC-LOCO deploys a learned policy on a Unitree Go2 with a WidowX 250 arm and tactile gripper.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "The live MARS prospective-students page has a Visiting Students and Scholars section requesting a CV and three reference contacts by email. Space limits availability; flexibility in the visiting period is helpful. No duration or summer 2027 offer is promised.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 7,
+      "freshness": 14
+    },
+    "scoreReasons": {
+      "fit": "Strong manipulation and tactile policy learning, somewhat hardware-intensive.",
+      "physical": "Named quadruped-arm system plus disassembly experiments.",
+      "shortVisit": "The live official lab page explicitly invites visiting students and scholars, subject to space; period flexibility is helpful, but no eight-week or 2027 commitment is stated.",
+      "freshness": "2026 primary experiments and current university directory."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "isf.research.purdue.edu / source 1",
+        "url": "https://isf.research.purdue.edu/directory/yu-she/",
+        "summary": "Official title and public email.",
+        "verifiedAt": "2026-09-30T21:36:36Z"
+      },
+      {
+        "id": "s2",
+        "label": "engineering.purdue.edu / source 2",
+        "url": "https://engineering.purdue.edu/ME/People/faculty.html/ptProfile",
+        "summary": "Courtesy Mechanical Engineering appointment.",
+        "verifiedAt": "2026-09-30T21:36:36Z"
+      },
+      {
+        "id": "s3",
+        "label": "www.purduemars.com / source 3",
+        "url": "https://www.purduemars.com/prospective-students",
+        "summary": "Live official Visiting Students and Scholars section verifies CV/reference email route, lab-space constraint and preference for scheduling flexibility.",
+        "verifiedAt": "2026-09-30T21:55:32Z",
+        "retrieval": "direct-browser-primary"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/abs/2603.08560",
+        "summary": "CONTACT primary paper, real-world rigid/deformable disassembly.",
+        "verifiedAt": "2026-09-30T21:36:36Z"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/abs/2607.10132",
+        "summary": "TAC-LOCO primary paper specifies real robot, arm and learned whole-body control.",
+        "verifiedAt": "2026-09-30T21:36:36Z"
+      }
+    ],
+    "unknowns": [
+      "Separate Purdue UG/master’s route requires two semesters and does not establish outside eligibility. Visitor route itself states no length, funding or 2027 opening.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Earlier web-tool fetches timed out; the official visitor page was subsequently read directly in a browser on 2026-09-30. Its separate two-semester Purdue-student instruction is not a visitor-duration requirement."
+    ],
+    "publicEmail": "yushe@purdue.edu"
+  },
+  {
+    "id": "joyce-chai",
+    "name": "Joyce Chai",
+    "aliases": [],
+    "school": "University of Michigan",
+    "homepage": "https://sled.eecs.umich.edu/author/joyce-y.-chai/",
+    "title": "Professor",
+    "department": "Electrical Engineering and Computer Science; Computer Science and Engineering",
+    "batch": "embodied-002",
+    "discoveredAt": "2026-09-30T21:29:56Z",
+    "verifiedAt": "2026-09-30T21:36:36Z",
+    "researchAreas": [
+      "Language grounding",
+      "Vision-language-action memory",
+      "Embodied dialogue",
+      "Interactive task learning"
+    ],
+    "fitReason": "SLED’s RoboMME (ICML 2026) benchmarks memory in generalist manipulation policies, aligning language/embodied reasoning with robot evaluation.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "RoboMME includes four real robot task families: counting fruit transfers, tracking occluded objects, selecting previously handled blocks and replicating patterns; SLED also documents its TIAGO robot.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Lab news documents a Spring/Summer 2024 visiting researcher, but no present external short-visit opening or eight-week route was verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong VLA memory, language and physical manipulation evaluation fit.",
+      "physical": "Four explicit real manipulation task families.",
+      "shortVisit": "Current opening unknown; only dated visitor precedent.",
+      "freshness": "August 2026 lab news and ICML 2026 project."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "arc.engin.umich.edu / source 1",
+        "url": "https://arc.engin.umich.edu/faculty/joyce-chai/",
+        "summary": "Official professor title, department and email.",
+        "verifiedAt": "2026-09-30T21:36:36Z"
+      },
+      {
+        "id": "s2",
+        "label": "sled.eecs.umich.edu / source 2",
+        "url": "https://sled.eecs.umich.edu/",
+        "summary": "August 2026 updates, TIAGO hardware, and 2024 visitor precedent.",
+        "verifiedAt": "2026-09-30T21:36:36Z"
+      },
+      {
+        "id": "s3",
+        "label": "sled.eecs.umich.edu / source 3",
+        "url": "https://sled.eecs.umich.edu/publication/dai-2026-robomme/",
+        "summary": "ICML 2026 publication and research framing.",
+        "verifiedAt": "2026-09-30T21:36:36Z"
+      },
+      {
+        "id": "s4",
+        "label": "robomme.github.io / source 4",
+        "url": "https://robomme.github.io/",
+        "summary": "Primary project documents real robot task suites and equal advising role.",
+        "verifiedAt": "2026-09-30T21:36:36Z"
+      }
+    ],
+    "unknowns": [
+      "A historical visit is precedent only and receives no current-opportunity points. Degree enrollment, appointment route and project scope need direct confirmation.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "chaijy@umich.edu"
+  },
+  {
+    "id": "yong-jae-lee",
+    "name": "Yong Jae Lee",
+    "aliases": [],
+    "school": "University of Wisconsin–Madison",
+    "homepage": "https://pages.cs.wisc.edu/~yongjaelee/",
+    "title": "Susan Beth Horwitz Professor",
+    "department": "Computer Sciences",
+    "batch": "embodied-002",
+    "discoveredAt": "2026-09-30T21:30:23Z",
+    "verifiedAt": "2026-09-30T21:36:36Z",
+    "researchAreas": [
+      "Robot vision-language-action models",
+      "World-model representations",
+      "Multimodal learning",
+      "Robot perception"
+    ],
+    "fitReason": "THAW-VLA (September 2026 preprint) transfers world-model representations into compact action policies, a direct foundation-model-for-robots project anchor.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "THAW-VLA demonstrates an AgileX Nero arm for fruit/egg pick-and-place and TRIP-Bag bimanual fruit handover, rather than only simulated benchmarks.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Homepage lists historical visitors and current PhD admissions instructions; no external summer-master’s visitor pathway verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Exact current world-model/VLA representation project; broader lab is vision-focused.",
+      "physical": "Named single-arm and bimanual real platforms.",
+      "shortVisit": "Unknown short-visit opening; historical visitors do not count.",
+      "freshness": "September 2026 primary project plus current faculty directory."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.cs.wisc.edu / source 1",
+        "url": "https://www.cs.wisc.edu/people/faculty-2/",
+        "summary": "Current named professorship and official email.",
+        "verifiedAt": "2026-09-30T21:36:36Z"
+      },
+      {
+        "id": "s2",
+        "label": "pages.cs.wisc.edu / source 2",
+        "url": "https://pages.cs.wisc.edu/~yongjaelee/",
+        "summary": "Current UW affiliation, lab, research interests and recruiting scope.",
+        "verifiedAt": "2026-09-30T21:36:36Z"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/abs/2609.24682",
+        "summary": "Primary September 2026 preprint and authorship.",
+        "verifiedAt": "2026-09-30T21:36:36Z"
+      },
+      {
+        "id": "s4",
+        "label": "thaw-vla.trung-dt.com / source 4",
+        "url": "https://thaw-vla.trung-dt.com/",
+        "summary": "Named physical platforms, tasks and experiment details.",
+        "verifiedAt": "2026-09-30T21:36:36Z"
+      }
+    ],
+    "unknowns": [
+      "Concurrent Adobe research position does not establish university supervision capacity or access to industry resources. September 2026 work is a preprint, not a confirmed peer-reviewed result.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "yongjaelee@cs.wisc.edu"
+  },
+  {
+    "id": "abdeslam-boularias",
+    "name": "Abdeslam Boularias",
+    "aliases": [],
+    "school": "Rutgers University",
+    "homepage": "https://rl.cs.rutgers.edu/abdeslam.html",
+    "title": "Associate Professor",
+    "department": "Computer Science",
+    "batch": "embodied-002",
+    "discoveredAt": "2026-09-30T21:29:26Z",
+    "verifiedAt": "2026-09-30T21:36:36Z",
+    "researchAreas": [
+      "Robot reinforcement learning",
+      "Manipulation",
+      "World models",
+      "Vision-language-action policies",
+      "Sim-to-real"
+    ],
+    "fitReason": "Recent projects connect long-horizon VLA residual learning (IROS 2026) and failure-aware assembly policies (IROS 2025), well aligned with a CS robot-learning project.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Failure Forecasting Boosts Robustness of Sim2Real Rhythmic Insertion Policies documents real wrench/nut assembly experiments; lab lists Kuka and RoboMantis hardware.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current external short-visit/master’s invitation was verified in the reviewed university and lab sources.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 24,
+      "shortVisit": 0,
+      "freshness": 14
+    },
+    "scoreReasons": {
+      "fit": "Direct VLA/RL manipulation and long-horizon policy fit.",
+      "physical": "Real assembly experiments in 2025 and named lab hardware.",
+      "shortVisit": "No verified current external visitor pathway.",
+      "freshness": "2026 research and current directory; physical project from 2025."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.cs.rutgers.edu / source 1",
+        "url": "https://www.cs.rutgers.edu/people/professors/details/abdeslam-boularias",
+        "summary": "Current official associate professor affiliation.",
+        "verifiedAt": "2026-09-30T21:36:36Z"
+      },
+      {
+        "id": "s2",
+        "label": "rl.cs.rutgers.edu / source 2",
+        "url": "https://rl.cs.rutgers.edu/abdeslam.html",
+        "summary": "Public professional email and research focus.",
+        "verifiedAt": "2026-09-30T21:36:36Z"
+      },
+      {
+        "id": "s3",
+        "label": "rl.cs.rutgers.edu / source 3",
+        "url": "https://rl.cs.rutgers.edu/",
+        "summary": "Lab research and named robot inventory.",
+        "verifiedAt": "2026-09-30T21:36:36Z"
+      },
+      {
+        "id": "s4",
+        "label": "rl.cs.rutgers.edu / source 4",
+        "url": "https://rl.cs.rutgers.edu/publications.html",
+        "summary": "2025–2026 VLA, world-model and manipulation research.",
+        "verifiedAt": "2026-09-30T21:36:36Z"
+      },
+      {
+        "id": "s5",
+        "label": "rl.cs.rutgers.edu / source 5",
+        "url": "https://rl.cs.rutgers.edu/publications/YuhanIROS2025.pdf",
+        "summary": "Primary paper reports real physical insertion experiments.",
+        "verifiedAt": "2026-09-30T21:36:36Z"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/abs/2607.16506",
+        "summary": "Primary 2026 Foresight paper specifies Isaac Gym task evaluation.",
+        "verifiedAt": "2026-09-30T21:36:36Z"
+      }
+    ],
+    "unknowns": [
+      "Foresight Residual RL’s 2026 results are simulation-based; physical evidence instead comes from the separate 2025 insertion study. Do not infer visitor availability from lab activity.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "abdeslam.boularias@rutgers.edu"
+  },
+  {
+    "id": "gaurav-s-sukhatme",
+    "name": "Gaurav S. Sukhatme",
+    "aliases": [],
+    "school": "University of Southern California",
+    "homepage": "https://uscresl.org/",
+    "title": "Professor; Donald M. Alstadt Chair in Advanced Computing; Interim Dean",
+    "department": "Thomas Lord Department of Computer Science; Ming Hsieh Department of Electrical and Computer Engineering",
+    "batch": "embodied-002",
+    "discoveredAt": "2026-09-30T21:29:41Z",
+    "verifiedAt": "2026-09-30T21:36:36Z",
+    "researchAreas": [
+      "Robot learning",
+      "Bimanual manipulation",
+      "Generative robot data",
+      "Networked robots"
+    ],
+    "fitReason": "RESL is active in experimental learning and manipulation. CRAFT (IROS 2026) uses video diffusion for bimanual robot data generation; DexMulti is a complementary dexterous project.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "DexMulti documents physical dexterous-hand experiments; RESL emphasizes experimental robotics and current learning/manipulation research.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "RESL lists former visiting scholars and USC lists 2026 undergraduate REU mentorship, but no suitable current external master’s eight-week route was verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong learned manipulation/data-generation projects, alongside broader networked-robot agenda.",
+      "physical": "Recent physical-hand manipulation project and experimental lab.",
+      "shortVisit": "Only past visitor/undergraduate summer precedent, not a verified matching pathway.",
+      "freshness": "2026 official faculty and project evidence."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "viterbi.usc.edu / source 1",
+        "url": "https://viterbi.usc.edu/directory/faculty/Sukhatme/Gaurav",
+        "summary": "Current faculty/administrative appointments, research summary and email.",
+        "verifiedAt": "2026-09-30T21:36:36Z"
+      },
+      {
+        "id": "s2",
+        "label": "uscresl.org / source 2",
+        "url": "https://uscresl.org/",
+        "summary": "Experimental lab focus and manipulation research.",
+        "verifiedAt": "2026-09-30T21:36:36Z"
+      },
+      {
+        "id": "s3",
+        "label": "slurm-lab-usc.github.io / source 3",
+        "url": "https://slurm-lab-usc.github.io/publications/",
+        "summary": "2026 CRAFT and DexMulti coauthorship.",
+        "verifiedAt": "2026-09-30T21:36:36Z"
+      },
+      {
+        "id": "s4",
+        "label": "dexmulti.github.io / source 4",
+        "url": "https://dexmulti.github.io/",
+        "summary": "Physical dexterous-hand manipulation project.",
+        "verifiedAt": "2026-09-30T21:36:36Z"
+      },
+      {
+        "id": "s5",
+        "label": "uscresl.org / source 5",
+        "url": "https://uscresl.org/people/",
+        "summary": "Historical visiting scholar list; no current slot established.",
+        "verifiedAt": "2026-09-30T21:36:36Z"
+      },
+      {
+        "id": "s6",
+        "label": "www.cs.usc.edu / source 6",
+        "url": "https://www.cs.usc.edu/reu/",
+        "summary": "Undergraduate 2026 summer mentorship evidence, not master’s eligibility.",
+        "verifiedAt": "2026-09-30T21:36:36Z"
+      }
+    ],
+    "unknowns": [
+      "Historical visitors and undergraduate REU participation do not establish graduate-visitor eligibility. Current interim-dean/director responsibilities warrant checking supervision capacity.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "gaurav@usc.edu"
+  },
+  {
+    "id": "joohyung-kim",
+    "name": "Joohyung Kim",
+    "aliases": [],
+    "school": "University of Illinois Urbana-Champaign",
+    "homepage": "https://publish.illinois.edu/kimlab2020/",
+    "title": "Associate Professor",
+    "department": "Electrical and Computer Engineering; Mechanical Science and Engineering",
+    "batch": "embodied-002",
+    "discoveredAt": "2026-09-30T21:33:44Z",
+    "verifiedAt": "2026-09-30T21:36:36Z",
+    "researchAreas": [
+      "Embodied AI",
+      "Robot learning systems",
+      "Humanoid control",
+      "Teleoperation",
+      "Cross-embodiment data"
+    ],
+    "fitReason": "PAPRLE (2026) develops reconfigurable demonstration hardware for physical AI; THAW-VLA adds a compact learned-policy project using physical arms.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "PAPRLE/CHILD university coverage describes humanoid teleoperation and modular physical limbs. THAW-VLA reports single-arm and bimanual platform trials.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "KIMLAB’s How to Join page addresses graduate admissions and campus undergraduate research courses; no external short-visit pathway verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 35,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong embodied-learning systems and data collection; more hardware-oriented.",
+      "physical": "Multiple concrete limbs/humanoid/arm learning systems.",
+      "shortVisit": "No external short-term route verified.",
+      "freshness": "March and September 2026 primary evidence."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "csl.illinois.edu / source 1",
+        "url": "https://csl.illinois.edu/directory/faculty/joohyung",
+        "summary": "Current associate professor title, email and embodied-AI research.",
+        "verifiedAt": "2026-09-30T21:36:36Z"
+      },
+      {
+        "id": "s2",
+        "label": "experts.illinois.edu / source 2",
+        "url": "https://experts.illinois.edu/en/persons/joohyung-kim/",
+        "summary": "ECE and Mechanical Science and Engineering affiliations.",
+        "verifiedAt": "2026-09-30T21:36:36Z"
+      },
+      {
+        "id": "s3",
+        "label": "csl.illinois.edu / source 3",
+        "url": "https://csl.illinois.edu/news-and-media/paprle-reconfigurable-hardware-collects-data-for-ai-driven-robotics",
+        "summary": "March 2026 university report on actual demonstration systems.",
+        "verifiedAt": "2026-09-30T21:36:36Z"
+      },
+      {
+        "id": "s4",
+        "label": "thaw-vla.trung-dt.com / source 4",
+        "url": "https://thaw-vla.trung-dt.com/",
+        "summary": "2026 coauthored physical arm policy project.",
+        "verifiedAt": "2026-09-30T21:36:36Z"
+      },
+      {
+        "id": "s5",
+        "label": "publish.illinois.edu / source 5",
+        "url": "https://publish.illinois.edu/kimlab2020/how-to-join/",
+        "summary": "Recruiting scope, no external summer pathway.",
+        "verifiedAt": "2026-09-30T21:36:36Z"
+      }
+    ],
+    "unknowns": [
+      "Degree admissions and independent-study course routes are not evidence of eligibility for an eight-week external master’s visit.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "joohyung@illinois.edu"
+  },
+  {
+    "id": "yezhou-yang",
+    "name": "Yezhou Yang",
+    "aliases": [],
+    "school": "Arizona State University",
+    "homepage": "https://faculty.engineering.asu.edu/yezhouyang/research",
+    "title": "Associate Professor",
+    "department": "School of Computing and Augmented Intelligence",
+    "batch": "embodied-002",
+    "discoveredAt": "2026-09-30T21:29:47Z",
+    "verifiedAt": "2026-09-30T21:36:36Z",
+    "researchAreas": [
+      "Robot perception",
+      "Imitation learning",
+      "Vision-language grounding",
+      "Cognitive robotics"
+    ],
+    "fitReason": "eNavi (March 2026 preprint) links event/RGB perception to imitation-trained navigation, a concrete robot-perception-and-learning direction.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "eNavi collects synchronized event, RGB and action data from a TurtleBot 2. Its abstract establishes physical data collection; closed-loop deployment of the learned policy was not separately verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current external short-term visitor or summer master’s pathway verified from reviewed official faculty/lab sources.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 32,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 13
+    },
+    "scoreReasons": {
+      "fit": "Good perception/imitation fit; less direct manipulation/foundation-policy emphasis.",
+      "physical": "Real robot dataset verified, learned-policy physical execution not independently confirmed.",
+      "shortVisit": "Unknown external summer pathway.",
+      "freshness": "2026 preprint and current directory; broad research webpage is older."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "search.asu.edu / source 1",
+        "url": "https://search.asu.edu/profile/3020558",
+        "summary": "Official current associate professor affiliation.",
+        "verifiedAt": "2026-09-30T21:36:36Z"
+      },
+      {
+        "id": "s2",
+        "label": "azti.arizona.edu / source 2",
+        "url": "https://azti.arizona.edu/person/yz-yezhou-yang",
+        "summary": "Official institutional profile and explicit public email.",
+        "verifiedAt": "2026-09-30T21:36:36Z"
+      },
+      {
+        "id": "s3",
+        "label": "faculty.engineering.asu.edu / source 3",
+        "url": "https://faculty.engineering.asu.edu/yezhouyang/research",
+        "summary": "Robot visual learning and language-grounding research interests.",
+        "verifiedAt": "2026-09-30T21:36:36Z"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/abs/2603.14397",
+        "summary": "Primary 2026 paper with TurtleBot 2 data collection and behavior-cloning method.",
+        "verifiedAt": "2026-09-30T21:36:36Z"
+      }
+    ],
+    "unknowns": [
+      "Research fit is stronger for perception and navigation than manipulation. The current eNavi work is a preprint. No visit inference from general research collaboration.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "yz.yang@asu.edu"
+  }
+]

@@ -14,7 +14,9 @@
 
 ## 字段
 
-`mentor_candidates.json` 顶层记录基线、格式版本、评分规则版本和 `candidates` 数组。每条新候选包含：
+格式 v2：`mentor_candidates.json` 是轻量索引，保留基线、评分规则、全部候选的稳定键/学校/时间/分数/方向，以及 `recordFile` 和 `detailPage`。完整资料位于 `batches/<批次>.json`；对应 Markdown 提供逐人来源与说明。排序页只展示概览，点击姓名即可进入详细记录。原有索引与排序 URL 保留。
+
+每条完整候选包含：
 
 | 字段 | 含义 |
 |---|---|
@@ -52,8 +54,15 @@
 ```sh
 python scripts/research_ledger.py --write
 python scripts/research_ledger.py --check
+python scripts/test_research_ledger.py
 ```
+
+`--write` 从批次 JSON 生成轻量索引、排序表和各批详细 Markdown。新增候选先加入新批次 JSON；修正已有记录只修改受影响的批次，保留稳定键和首次时间，并用独立 commit 记录。分片文件经过 Git 版本管理，不复制替代历史。
 
 校验原 200 位的语义内容与基线一致、姓名/别名/主页去重、排除名单、UTC 时间、分数范围和证据链接引用，并检查排序文件与 JSON 一致。不会修改原数据或应用。自动校验不能替代网页事实核验；每批仍需人工复核当前任职、真机与访问条件。
 
 提交时记录对应来源与核查时间，重新读取最新 main 后建立单父提交；分支只允许 fast-forward 更新。修正已发布候选时保留其 `id` 和首次 `discoveredAt`，更新证据与 `verifiedAt` 并单独提交。
+
+## v1 → v2 迁移
+
+迁移前检查点：[6c6e9877edf10b0b11dafc6294e761176a1fa902](https://github.com/MVChem/summer-research-2027/commit/6c6e9877edf10b0b11dafc6294e761176a1fa902)。110 条完整记录按稳定键逐字段比较一致，没有删除来源、改写首次发现时间或修改原 200 位。需要撤销格式迁移时，可对对应迁移 commit 使用 git revert；已有历史仍可直接查看。

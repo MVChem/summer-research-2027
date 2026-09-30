@@ -37,7 +37,7 @@ def timestamp(value):
 
 
 def validate(data):
-    assert data["schemaVersion"] == 1
+    assert data["schemaVersion"] in {1, 2}
     assert data["rubricVersion"] == "fit40-physical25-shortVisit20-freshness15-v1"
     baseline = json.loads((ROOT / data["baseline"]["path"]).read_text())
     canonical = json.dumps(baseline, sort_keys=True, ensure_ascii=False, separators=(",", ":")).encode()
@@ -84,6 +84,10 @@ def cell(value):
     return str(value).replace("|", "\\|").replace("\n", " ")
 
 
+def ranked_rows(data):
+    return sorted(data["candidates"], key=lambda r: (-sum(r["scores"].values()), -r["scores"]["fit"], -r["scores"]["physical"], r["discoveredAt"], r["name"]))
+
+
 def render(data):
     rows = sorted(data["candidates"], key=lambda r: (-sum(r["scores"].values()), -r["scores"]["fit"], -r["scores"]["physical"], r["discoveredAt"], r["name"]))
     lines = ["# 新发现导师候选 · 排序", "", "[字段与评分说明](README.md) · [结构化记录](mentor_candidates.json)", "", f"新增 **{len(rows)} 位**；原有 200 位保持不变。时间均为 UTC。", "", "总分 = 研究匹配 40 + 真机证据 25 + 短访证据 20 + 信息新鲜度 15。分数是筛选优先级，不是录取概率；没有联系导师或发送邮件。", "", "| 排序 | 导师 / 学校 | 总分 | 匹配 / 真机 / 短访 / 新鲜 | 首次发现 UTC | 最后核查 UTC |", "|---:|---|---:|---|---|---|"]
@@ -103,6 +107,59 @@ def render(data):
     return "\n".join(lines) + "\n"
 
 
+def compact_index(data, record_files):
+    keys = ("id", "name", "aliases", "school", "title", "homepage", "batch", "discoveredAt", "verifiedAt", "scores", "researchAreas")
+    rows = []
+    for row in data["candidates"]:
+        summary = {key: row[key] for key in keys}
+        summary["shortVisitStatus"] = row["shortVisit"]["status"]
+        summary["recordFile"] = f"batches/{row['batch']}.json"
+        summary["detailPage"] = f"batches/{row['batch']}.md#{row['id']}"
+        rows.append(summary)
+    return {"schemaVersion": 2, "baseline": data["baseline"], "rubricVersion": data["rubricVersion"], "recordFiles": record_files, "candidates": rows}
+
+
+def render_compact(data):
+    lines = ["# 新发现导师候选 · 排序", "", "[字段与评分说明](README.md) · [结构化索引](mentor_candidates.json) · [机构访问规则](eligibility_notes.md)", "", f"新增 **{len(data['candidates'])} 位**；原有 200 位保持不变。所有时间为 UTC。点击导师姓名查看完整证据、来源、评分理由和未确认事项。", "", "总分 = 匹配 40 + 真机 25 + 短访 20 + 新鲜度 15。括号内为四项分数。研究优先级不是录取概率；没有联系导师或发送邮件。学校路径、一般询问入口与导师实际接收是不同事项。", "", "| 排序 | 导师 / 学校（完整资料） | 总分（四项） | 访问证据状态 | 首次发现 UTC | 最后核查 UTC |", "|---:|---|---|---|---|---|"]
+    for index, row in enumerate(ranked_rows(data), 1):
+        scores = "/".join(str(row["scores"][key]) for key in CAPS)
+        detail = f"batches/{row['batch']}.md#{row['id']}"
+        lines.append(f"| {index} | [{cell(row['name'])}]({detail}) · {cell(row['school'])} | {sum(row['scores'].values())} ({scores}) | {cell(row['shortVisit']['status'])} | {row['discoveredAt']} | {row['verifiedAt']} |")
+    return "\n".join(lines) + "\n"
+
+
+def render_batch(batch, rows):
+    lines = [f"# 检索批次 {batch}", "", "[返回完整排序](../ranked_candidates.md) · [本批完整 JSON](" + batch + ".json) · [评分与字段](../README.md)", "", f"本批 **{len(rows)} 位**。首次发现时间保持不变；资料修正通过独立提交保留历史。分数是研究筛选优先级，不是接收概率。", ""]
+    for row in sorted(rows, key=lambda r: (r["discoveredAt"], r["id"])):
+        lines += [f'<a id="{row["id"]}"></a>', "", f"## {row['name']} · {row['school']}", "", f"- 稳定键：`{row['id']}`；[导师主页]({row['homepage']})", f"- 任职：{row['title']}", f"- 方向：{'；'.join(row['researchAreas'])}", f"- 匹配理由：{row['fitReason']}", f"- 真机证据（{row['physicalEvidence']['status']}）：{row['physicalEvidence']['summary']}", f"- 短访证据（{row['shortVisit']['status']}）：{row['shortVisit']['summary']}", f"- 首次发现：{row['discoveredAt']}；最后核查：{row['verifiedAt']}", f"- 当前总分：{sum(row['scores'].values())}/100；评分依据："]
+        for key in CAPS:
+            lines.append(f"  - {key} {row['scores'][key]}/{CAPS[key]}：{row['scoreReasons'][key]}")
+        lines.append("- 未确认事项：" + "；".join(row["unknowns"]))
+        lines.append("- 来源：")
+        for source in row["sources"]:
+            retrieval = f"；读取方式 {source['retrieval']}" if source.get("retrieval") else ""
+            lines.append(f"  - [{source['label']}]({source['url']})：{source['summary']}（核查 {source['verifiedAt']}{retrieval}）")
+        lines += [""]
+    return "\n".join(lines) + "\n"
+
+
+def load_shards(index):
+    files = sorted((ROOT / "data/research/batches").glob("*.json"))
+    assert files, "No detailed batch records"
+    data = {key: value for key, value in index.items() if key != "candidates"}
+    data["candidates"] = []
+    paths = []
+    batches = {}
+    for file in files:
+        rows = json.loads(file.read_text())
+        assert isinstance(rows, list) and rows, f"Empty or invalid batch: {file}"
+        assert all(row["batch"] == file.stem for row in rows), f"Batch name mismatch: {file}"
+        data["candidates"].extend(rows)
+        batches[file.stem] = rows
+        paths.append("batches/" + file.name)
+    return data, paths, batches
+
+
 def main():
     parser = argparse.ArgumentParser()
     group = parser.add_mutually_exclusive_group(required=True)
@@ -110,12 +167,21 @@ def main():
     group.add_argument("--check", action="store_true")
     args = parser.parse_args()
     data = json.loads(LEDGER.read_text())
-    validate(data)
-    expected = render(data)
-    if args.write:
-        RANKED.write_text(expected)
+    if data["schemaVersion"] == 1:
+        validate(data)
+        outputs = {RANKED: render(data)}
     else:
-        assert RANKED.read_text() == expected, "Ranked view stale; run --write"
+        full, record_files, batches = load_shards(data)
+        validate(full)
+        expected_index = compact_index(full, record_files)
+        outputs = {LEDGER: json.dumps(expected_index, ensure_ascii=False, indent=2) + "\n", RANKED: render_compact(full)}
+        outputs.update({ROOT / f"data/research/batches/{batch}.md": render_batch(batch, rows) for batch, rows in batches.items()})
+        data = full
+    for path, expected in outputs.items():
+        if args.write:
+            path.write_text(expected)
+        else:
+            assert path.read_text() == expected, f"Generated file stale: {path}; run --write"
     print(f"Research ledger valid: {len(data['candidates'])} new candidates; original 200 preserved")
 
 

@@ -1,9 +1,9 @@
 name: Check additive research ledger
 on:
   push:
-    paths: ['data/research/**', 'data/contacts.json', 'scripts/research_ledger.py', '.github/workflows/research-ledger.yml']
+    paths: ['data/research/**', 'data/contacts.json', 'scripts/research_ledger.py', 'scripts/test_research_ledger.py', '.github/workflows/research-ledger.yml']
   pull_request:
-    paths: ['data/research/**', 'data/contacts.json', 'scripts/research_ledger.py', '.github/workflows/research-ledger.yml']
+    paths: ['data/research/**', 'data/contacts.json', 'scripts/research_ledger.py', 'scripts/test_research_ledger.py', '.github/workflows/research-ledger.yml']
 jobs:
   check:
     runs-on: ubuntu-latest
@@ -13,3 +13,4 @@ jobs:
         with:
           python-version: '3.12'
       - run: python scripts/research_ledger.py --check
+      - run: python scripts/test_research_ledger.py

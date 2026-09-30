@@ -1,0 +1,863 @@
+[
+  {
+    "id": "somil-bansal",
+    "name": "Somil Bansal",
+    "aliases": [],
+    "school": "Stanford University",
+    "homepage": "https://smlbansal.github.io/",
+    "title": "Assistant Professor",
+    "department": "Aeronautics and Astronautics",
+    "batch": "control-001",
+    "discoveredAt": "2026-09-30T21:21:51Z",
+    "verifiedAt": "2026-09-30T21:24:34Z",
+    "researchAreas": [
+      "safe robot learning",
+      "reachability analysis",
+      "learning-enabled autonomy",
+      "runtime safety filters"
+    ],
+    "fitReason": "Strong alignment for research on safety of learned robotics policies, foundation-model-enabled autonomy, or reachability-guided control.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Current SIA Lab page presents safety filters for quadrupedal navigation, safe imitation learning for hybrid robots, and a 2026 safety-in-high-speed-driving project. Hardware-facing autonomy is explicit, though a particular short-visit project is not identified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "Current Join Us page explicitly includes visiting students and interns; asks for CV/transcripts, project interests, ML/control/robotics background, desired duration, and funding needs. March and June 2026 news document visiting students. Summer 2027 remains unconfirmed.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 23,
+      "shortVisit": 10,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct safe learning/robotics/control intersection.",
+      "physical": "Current lab identifies quadruped safety deployments and real autonomy applications.",
+      "shortVisit": "Explicit visitor/intern route and duration request, but no compatible period confirmed.",
+      "freshness": "Current affiliation, live join page and dated 2026 lab news."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "profiles.stanford.edu / source 1",
+        "url": "https://profiles.stanford.edu/somil-bansal",
+        "summary": "Current Stanford assistant professor; former USC faculty; safety-critical learning-enabled robotic systems.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      },
+      {
+        "id": "s2",
+        "label": "smlbansal.github.io / source 2",
+        "url": "https://smlbansal.github.io/",
+        "summary": "Current department and public Stanford email.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      },
+      {
+        "id": "s3",
+        "label": "smlbansal.github.io / source 3",
+        "url": "https://smlbansal.github.io/sia-lab/index.html",
+        "summary": "Quadrupedal safety filters; 2026 visitors, robotics publications and driving project.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      },
+      {
+        "id": "s4",
+        "label": "smlbansal.github.io / source 4",
+        "url": "https://smlbansal.github.io/sia-lab/joinus.html",
+        "summary": "Explicit visiting-student/intern inquiry instructions including desired duration and funding.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      }
+    ],
+    "unknowns": [
+      "Eight-week summer 2027 availability, international visiting-master's eligibility, institutional appointment, funding and remote option are unconfirmed. Stanford is current; indexed USC affiliation/email is stale. The PhD opening is a separate admissions route.",
+      "Published research evidence does not confirm current in-group hardware access or summer 2027 supervision capacity."
+    ],
+    "publicEmail": "somil@stanford.edu"
+  },
+  {
+    "id": "negar-mehr",
+    "name": "Negar Mehr",
+    "aliases": [],
+    "school": "University of California, Berkeley",
+    "homepage": "https://negarmehr.com/",
+    "title": "Assistant Professor",
+    "department": "Mechanical Engineering",
+    "batch": "control-001",
+    "discoveredAt": "2026-09-30T21:21:57Z",
+    "verifiedAt": "2026-09-30T21:24:34Z",
+    "researchAreas": [
+      "safe reinforcement learning",
+      "multi-agent robotics",
+      "diffusion policies",
+      "control and game theory"
+    ],
+    "fitReason": "Excellent bridge between AI algorithms and physical autonomy: constrained RL, diffusion-based control, multi-robot collaboration and VLA continual learning.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "RSS 2025 DDAT project, coauthored by Mehr, explicitly reports deploying dynamically admissible diffusion policies on real Unitree GO1 and GO2 quadrupeds.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "ICON's opportunities page explicitly invites visiting scholars and research interns to email the PI with CV, cover letter and references, or a research proposal for visiting positions. Summer 2027 remains unconfirmed.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 8,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Safe RL and diffusion policies closely match CS plus physical robotics.",
+      "physical": "Named real-robot deployments on two Unitree quadrupeds.",
+      "shortVisit": "Explicit research-intern/visitor route, duration and eligibility unspecified.",
+      "freshness": "Current official PI page, opportunities page and dated 2026 research news."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "negarmehr.com / source 1",
+        "url": "https://negarmehr.com/",
+        "summary": "Current Berkeley Mechanical Engineering assistant professor and public email.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      },
+      {
+        "id": "s2",
+        "label": "iconlab.negarmehr.com / source 2",
+        "url": "https://iconlab.negarmehr.com/DDAT/",
+        "summary": "Diffusion-control project and real GO1/GO2 hardware deployment.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      },
+      {
+        "id": "s3",
+        "label": "iconlab.negarmehr.com / source 3",
+        "url": "https://iconlab.negarmehr.com/opportunities/",
+        "summary": "Explicit visiting scholar/research intern inquiry route; separate formal graduate admissions guidance.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      },
+      {
+        "id": "s4",
+        "label": "iconlab.negarmehr.com / source 4",
+        "url": "https://iconlab.negarmehr.com/news/",
+        "summary": "2026 work in constrained learned control and multi-agent learning; current lab activity.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      }
+    ],
+    "unknowns": [
+      "No 2027 summer dates, eight-week duration, visiting-master's eligibility or funding promise. Undergraduate application instructions are limited to current Berkeley undergraduates; formal graduate admissions are separate.",
+      "Published research evidence does not confirm current in-group hardware access or summer 2027 supervision capacity."
+    ],
+    "publicEmail": "negar@berkeley.edu"
+  },
+  {
+    "id": "mac-schwager",
+    "name": "Mac Schwager",
+    "aliases": [],
+    "school": "Stanford University",
+    "homepage": "https://msl.stanford.edu/",
+    "title": "Associate Professor",
+    "department": "Aeronautics and Astronautics",
+    "batch": "control-001",
+    "discoveredAt": "2026-09-30T21:22:05Z",
+    "verifiedAt": "2026-09-30T21:24:34Z",
+    "researchAreas": [
+      "multi-robot systems",
+      "robot learning",
+      "safe navigation",
+      "neural scene representations",
+      "cooperative manipulation"
+    ],
+    "fitReason": "Strong fit for learning and planning in physical multi-robot systems; projects span drone navigation, robot scene representations and cooperative manipulation.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Splat-Nav reports 126 hardware flights using Gaussian-splat maps for safe planning and onboard-RGB localization. Current Stanford publications include 2026 vision-language drone navigation and diffusion planning.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "MSL's current home page explicitly tells non-Stanford students interested in visiting-researcher positions to email Schwager. This is separate from PhD admissions, for which applicants are asked not to contact the lab before admission. Summer 2027 remains unconfirmed.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 8,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Robot learning and multi-robot autonomy directly relevant.",
+      "physical": "Splat-Nav documents substantial hardware flights in 2024; newer research activity does not make those hardware trials current.",
+      "shortVisit": "Explicit visiting-researcher inquiry route without duration or period.",
+      "freshness": "Official profile has 2026 work and current lab contact guidance."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "profiles.stanford.edu / source 1",
+        "url": "https://profiles.stanford.edu/mac-schwager",
+        "summary": "Current associate professor appointments and 2025–2026 robotics publications.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      },
+      {
+        "id": "s2",
+        "label": "msl.stanford.edu / source 2",
+        "url": "https://msl.stanford.edu/",
+        "summary": "Collaborative autonomy for physical robots; public email and explicit non-Stanford visiting-researcher inquiries.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/abs/2403.02751",
+        "summary": "Splat-Nav author paper describes 126 hardware flights, onboard RGB localization and real-time safe navigation.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      }
+    ],
+    "unknowns": [
+      "Generic visiting-researcher invitation does not establish an eight-week 2027 placement, funding, remote work or eligibility of an externally enrolled master's student.",
+      "Published research evidence does not confirm current in-group hardware access or summer 2027 supervision capacity."
+    ],
+    "publicEmail": "schwager@stanford.edu"
+  },
+  {
+    "id": "jaime-fernandez-fisac",
+    "name": "Jaime Fernández Fisac",
+    "aliases": [],
+    "school": "Princeton University",
+    "homepage": "https://saferobotics.princeton.edu/jaime",
+    "title": "Assistant Professor",
+    "department": "Electrical and Computer Engineering",
+    "batch": "control-001",
+    "discoveredAt": "2026-09-30T21:21:51Z",
+    "verifiedAt": "2026-09-30T21:24:34Z",
+    "researchAreas": [
+      "safe robot learning",
+      "reinforcement learning",
+      "dynamic games",
+      "human-centered autonomy"
+    ],
+    "fitReason": "Very close match for safe learned control and multi-agent physical autonomy, especially combining neural policies with rigorous safety guarantees.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Safe Robotics Lab lists Unitree Go2 with AgileX Piper arm, Digit biped, Spirit quadruped and custom mini-truck. Its research explicitly transfers safety-centric RL into physical-robot control.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "precedent-only",
+      "summary": "Current people page lists an external visiting student and a fall-2024 visiting-student alumnus. This proves visitor precedent only; no current short-visit application route or summer 2027 vacancy was verified. Summer 2027 remains unconfirmed.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 40,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct intersection of AI, safe learning and interactive robots.",
+      "physical": "Multiple named real-robot platforms and sim-to-real safety research.",
+      "shortVisit": "Visitor precedent does not establish a current short-visit pathway.",
+      "freshness": "Current lab roster and dated 2026 research updates."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "saferobotics.princeton.edu / source 1",
+        "url": "https://saferobotics.princeton.edu/jaime",
+        "summary": "Current assistant professor, ECE, Princeton; safe learning/control/game-theory agenda.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      },
+      {
+        "id": "s2",
+        "label": "saferobotics.princeton.edu / source 2",
+        "url": "https://saferobotics.princeton.edu/people",
+        "summary": "Named physical lab platforms and visiting-student precedent.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      },
+      {
+        "id": "s3",
+        "label": "saferobotics.princeton.edu / source 3",
+        "url": "https://saferobotics.princeton.edu/",
+        "summary": "Safety-centric RL to physical control; 2026 research activity.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      },
+      {
+        "id": "s4",
+        "label": "www.cs.princeton.edu / source 4",
+        "url": "https://www.cs.princeton.edu/people/profile/jfisac",
+        "summary": "Official public faculty email and CS associated faculty appointment.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      }
+    ],
+    "unknowns": [
+      "Precedent does not imply acceptance, funding or eight-week compatibility. Host capacity and eligibility for an externally enrolled graduate visitor need confirmation.",
+      "Published research evidence does not confirm current in-group hardware access or summer 2027 supervision capacity."
+    ],
+    "publicEmail": "jfisac@cs.princeton.edu"
+  },
+  {
+    "id": "koushil-sreenath",
+    "name": "Koushil Sreenath",
+    "aliases": [],
+    "school": "University of California, Berkeley",
+    "homepage": "https://hybrid-robotics.berkeley.edu/",
+    "title": "Associate Professor",
+    "department": "Mechanical Engineering",
+    "batch": "control-001",
+    "discoveredAt": "2026-09-30T21:22:05Z",
+    "verifiedAt": "2026-09-30T21:24:34Z",
+    "researchAreas": [
+      "reinforcement learning for locomotion",
+      "hybrid robotics",
+      "safe nonlinear control",
+      "aerial robotics"
+    ],
+    "fitReason": "Strong real-robot RL and control fit, including humanoid/legged locomotion and learning-based generation of dynamically feasible behavior.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Lab presents real-world humanoid locomotion with RL, Cassie biped tasks and multiple-quadruped load transport. Coauthored DDAT reports real GO1 and GO2 deployments.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Join Us provides a visiting-undergraduate application, but the visiting-graduate section is explicitly 'Coming soon'; no usable graduate visitor route was verified. Summer 2027 remains unconfirmed.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "RL plus model-based control for physical locomotion.",
+      "physical": "Multiple named real-robot learning deployments.",
+      "shortVisit": "Available undergraduate form is not established as applicable to master's visitor.",
+      "freshness": "Verified current faculty/lab pages plus dated 2025 DDAT evidence; explicit 2026 research evidence is not yet cited."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "me.berkeley.edu / source 1",
+        "url": "https://me.berkeley.edu/people/koushil-sreenath/",
+        "summary": "Official associate-professor header, department and public email; bio contains an older title sentence.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      },
+      {
+        "id": "s2",
+        "label": "hybrid-robotics.berkeley.edu / source 2",
+        "url": "https://hybrid-robotics.berkeley.edu/",
+        "summary": "Real-world RL humanoid locomotion, dynamic bipedal and cooperative quadruped demonstrations.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      },
+      {
+        "id": "s3",
+        "label": "hybrid-robotics.berkeley.edu / source 3",
+        "url": "https://hybrid-robotics.berkeley.edu/join-us/",
+        "summary": "Visiting undergraduate form exists; visiting graduate instructions remain unpublished.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      },
+      {
+        "id": "s4",
+        "label": "iconlab.negarmehr.com / source 4",
+        "url": "https://iconlab.negarmehr.com/DDAT/",
+        "summary": "Coauthored diffusion-control project deployed on real GO1/GO2 quadrupeds.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      }
+    ],
+    "unknowns": [
+      "The visiting-undergraduate application does not establish a graduate-visitor route. Department page header and current lab/CV say associate professor, while an older bio sentence still says assistant.",
+      "Published research evidence does not confirm current in-group hardware access or summer 2027 supervision capacity."
+    ],
+    "publicEmail": "koushils@berkeley.edu"
+  },
+  {
+    "id": "david-fridovich-keil",
+    "name": "David Fridovich-Keil",
+    "aliases": [],
+    "school": "University of Texas at Austin",
+    "homepage": "https://dfridovi.github.io/",
+    "title": "Assistant Professor",
+    "department": "Aerospace Engineering and Engineering Mechanics",
+    "batch": "control-001",
+    "discoveredAt": "2026-09-30T21:21:51Z",
+    "verifiedAt": "2026-09-30T21:24:34Z",
+    "researchAreas": [
+      "learning for control",
+      "dynamic games",
+      "multi-agent decision-making",
+      "safe autonomy"
+    ],
+    "fitReason": "Strong option for mathematically grounded research in learned dynamics, safe control and interactive robot decision-making.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Coauthor of SHIELD (2025), which learns residual dynamics from hardware rollouts and demonstrates safe Unitree G1 humanoid navigation. His own research page also documents physical quadrotor safe-planning experiments.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "undergraduate-only",
+      "summary": "Personal page explicitly offers an undergraduate summer-intern inquiry procedure via a lab student/postdoc mentor; prospective graduate inquiries refer broadly to graduate research. No external master's short-visit pathway was established. Summer 2027 remains unconfirmed.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Excellent learning/control/multi-agent overlap, with stronger mathematical emphasis.",
+      "physical": "Real G1 experiments are verified in coauthored research; this is not proof of current independent equipment access in his own lab.",
+      "shortVisit": "Explicit summer route targets undergraduates, not verified for master's visitors.",
+      "freshness": "Official faculty profile plus September 29, 2026 lab update."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "ae.utexas.edu / source 1",
+        "url": "https://ae.utexas.edu/person/david-fridovich-keil/",
+        "summary": "Official current assistant professor, department, email and research in ML/control/games.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      },
+      {
+        "id": "s2",
+        "label": "dfridovi.github.io / source 2",
+        "url": "https://dfridovi.github.io/",
+        "summary": "Summer-intern procedure explicitly for undergraduates; graduate inquiry instructions are separate.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/abs/2505.11494",
+        "summary": "SHIELD paper coauthorship and learned-dynamics safety layer deployed on Unitree G1 hardware.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      },
+      {
+        "id": "s4",
+        "label": "clearoboticslab.github.io / source 4",
+        "url": "https://clearoboticslab.github.io/",
+        "summary": "Lab news updated September 29, 2026, including model-based RL and neural control work.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      }
+    ],
+    "unknowns": [
+      "Do not assume the undergraduate summer pathway covers graduate visitors. Eight-week availability, eligibility, funding and appointment process remain unknown.",
+      "Published research evidence does not confirm current in-group hardware access or summer 2027 supervision capacity."
+    ],
+    "publicEmail": "dfk@utexas.edu"
+  },
+  {
+    "id": "sylvia-herbert",
+    "name": "Sylvia Herbert",
+    "aliases": [],
+    "school": "University of California, San Diego",
+    "homepage": "https://sylviaherbert.com/",
+    "title": "Associate Professor",
+    "department": "Mechanical and Aerospace Engineering",
+    "batch": "control-001",
+    "discoveredAt": "2026-09-30T21:21:51Z",
+    "verifiedAt": "2026-09-30T21:29:46Z",
+    "researchAreas": [
+      "safe reinforcement learning",
+      "Hamilton-Jacobi reachability",
+      "safety filters",
+      "robust control"
+    ],
+    "fitReason": "Direct match for safe learning and safety-filter research with physical robots; particularly suitable for projects combining ML implementation with control-theoretic analysis.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Lab explicitly validates theory through physical robotic testing; its JIGGLE work includes active sensing of real deformable tissue with surgical robotics. Safe reset work targets hands-off online RL and returning robots to safety.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Join Us routes prospective MS students through UCSD MAE admission before discussing collaboration. Current-UCSD MS/undergraduate forms and summer-program links do not establish external graduate visiting availability. Summer 2027 remains unconfirmed.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 24,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Safe RL/reachability/control is directly aligned.",
+      "physical": "Explicit physical validation and concrete robotic sensing work.",
+      "shortVisit": "No external master's short visit invitation verified.",
+      "freshness": "Live roster and 2026 lab research updates."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "sylviaherbert.com / source 1",
+        "url": "https://sylviaherbert.com/people",
+        "summary": "Lab biography still uses Assistant Professor; institutional directory is newer for the current title.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      },
+      {
+        "id": "s2",
+        "label": "sylviaherbert.com / source 2",
+        "url": "https://sylviaherbert.com/",
+        "summary": "Physical testing; 2026 safe-RL/control papers; JIGGLE surgical experiments and safe-reset RL research.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      },
+      {
+        "id": "s3",
+        "label": "sylviaherbert.com / source 3",
+        "url": "https://sylviaherbert.com/join-us",
+        "summary": "Prospective MS collaboration after admission; current-student forms and separate PhD/postdoc guidance.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      },
+      {
+        "id": "s4",
+        "label": "UCSD Jacobs School faculty profile",
+        "url": "https://jacobsschool.ucsd.edu/faculty/profile?id=516",
+        "summary": "Official current faculty profile lists Associate Professor in MAE, reinforcement learning and physical testing.",
+        "verifiedAt": "2026-09-30T21:29:46Z"
+      }
+    ],
+    "unknowns": [
+      "Do not equate degree admission, current-UCSD research forms or undergraduate summer programs with an international master's visit. Duration, institutional eligibility, funding and remote arrangements remain unknown.",
+      "Published research evidence does not confirm current in-group hardware access or summer 2027 supervision capacity.",
+      "Lab biography retains the older Assistant Professor title; use the official UCSD faculty directory for current appointment."
+    ],
+    "publicEmail": "sherbert@ucsd.edu"
+  },
+  {
+    "id": "aaron-d-ames",
+    "name": "Aaron D. Ames",
+    "aliases": [],
+    "school": "California Institute of Technology",
+    "homepage": "https://www.bipedalrobotics.com/",
+    "title": "Bren Professor; Director, Center for Autonomous Systems and Technologies",
+    "department": "Mechanical and Civil Engineering; Control and Dynamical Systems; Aerospace",
+    "batch": "control-001",
+    "discoveredAt": "2026-09-30T21:21:57Z",
+    "verifiedAt": "2026-09-30T21:24:34Z",
+    "researchAreas": [
+      "safe reinforcement learning",
+      "control barrier functions",
+      "humanoid robots",
+      "hybrid systems"
+    ],
+    "fitReason": "Very strong safe learning/control fit for policy learning, learned models or safety filters tested on dynamic robots.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "CBF-RL (2025) trains safety-aware RL and validates real Unitree G1 humanoid obstacle avoidance/stair climbing. CLF-RL also reports extensive real-world G1 experiments; AMBER's official research page identifies physical bipedal and prosthetic platforms.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current external graduate short-visit recruitment or summer 2027 opportunity was verified from the reviewed faculty/lab sources. Summer 2027 remains unconfirmed.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "Direct safe RL plus control on humanoids.",
+      "physical": "Multiple recent explicitly reported real-world humanoid experiments.",
+      "shortVisit": "No short-visit route verified.",
+      "freshness": "Current official directory verifies affiliation; the cited dated robotics papers are from 2025, so freshness is capped at 10."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "directory.caltech.edu / source 1",
+        "url": "https://directory.caltech.edu/personnel/adames",
+        "summary": "Current named professorship and CAST leadership.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      },
+      {
+        "id": "s2",
+        "label": "www.bipedalrobotics.com / source 2",
+        "url": "https://www.bipedalrobotics.com/research.html",
+        "summary": "Physical bipedal platforms and safety-critical control research.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/abs/2510.14959",
+        "summary": "CBF-RL paper includes real Unitree G1 safe navigation and stairs.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/abs/2508.09354",
+        "summary": "CLF-guided RL with extensive real G1 experiments.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      }
+    ],
+    "unknowns": [
+      "Research fit is not opportunity evidence. Eight-week visitor appointment, international master's eligibility, funding and any self-funded arrangement require institutional confirmation.",
+      "Published research evidence does not confirm current in-group hardware access or summer 2027 supervision capacity."
+    ]
+  },
+  {
+    "id": "soon-jo-chung",
+    "name": "Soon-Jo Chung",
+    "aliases": [],
+    "school": "California Institute of Technology",
+    "homepage": "https://aerospacerobotics.caltech.edu/",
+    "title": "Bren Professor of Control and Dynamical Systems",
+    "department": "Control and Dynamical Systems",
+    "batch": "control-001",
+    "discoveredAt": "2026-09-30T21:21:57Z",
+    "verifiedAt": "2026-09-30T21:24:34Z",
+    "researchAreas": [
+      "learning-based control",
+      "aerial robotics",
+      "multi-robot swarms",
+      "nonlinear stability",
+      "autonomous racing"
+    ],
+    "fitReason": "Strong physical-AI option for learning-based autonomy with rigorous stability/safety, particularly drones, robot swarms and autonomous racing.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Official lab video collection includes Neural-Fly agile flight in strong winds, Neural-Swarm close-proximity quadrotor flight, autonomous racing demonstrations and 2026 racing/perception results.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current external graduate short-visit recruitment or summer 2027 opening was established. Historical undergraduate summer mentorship is not a current eligible pathway. Summer 2027 remains unconfirmed.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Learning-enabled autonomy and rigorous control, especially aerial systems.",
+      "physical": "Multiple explicit real-system drone, swarm and racing demonstrations.",
+      "shortVisit": "No eligible current short-visit pathway verified.",
+      "freshness": "Current faculty directory and 2026 lab demonstration collection."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "directory.caltech.edu / source 1",
+        "url": "https://directory.caltech.edu/personnel/sjchung",
+        "summary": "Current Caltech Bren Professor of Control and Dynamical Systems; separate JPL Senior Research Scientist role.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      },
+      {
+        "id": "s2",
+        "label": "aerospacerobotics.caltech.edu / source 2",
+        "url": "https://aerospacerobotics.caltech.edu/videos",
+        "summary": "Lab's concrete learned-control drone, swarm and racing demonstrations, including 2026 research.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      },
+      {
+        "id": "s3",
+        "label": "sites.google.com / source 3",
+        "url": "https://sites.google.com/view/contractiontheory/",
+        "summary": "PI-maintained learning-based-control tutorial and public Caltech email.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      },
+      {
+        "id": "s4",
+        "label": "www.cms.caltech.edu / source 4",
+        "url": "https://www.cms.caltech.edu/research/robotics-and-autonomous-control",
+        "summary": "Official Caltech overview connects Chung to swarm robots and robustness of learning-enabled autonomy.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      }
+    ],
+    "unknowns": [
+      "Caltech campus hosting should be distinguished from Chung's separate JPL role. No eligibility, duration, funding, remote option or self-funded route is assumed.",
+      "Published research evidence does not confirm current in-group hardware access or summer 2027 supervision capacity."
+    ],
+    "publicEmail": "sjchung@caltech.edu"
+  },
+  {
+    "id": "karen-leung",
+    "name": "Karen Leung",
+    "aliases": [],
+    "school": "University of Washington",
+    "homepage": "https://depts.washington.edu/ctrl/",
+    "title": "Assistant Professor",
+    "department": "Aeronautics and Astronautics",
+    "batch": "control-001",
+    "discoveredAt": "2026-09-30T21:21:57Z",
+    "verifiedAt": "2026-09-30T21:24:34Z",
+    "researchAreas": [
+      "trustworthy robotics",
+      "safety-critical autonomy",
+      "human-aware planning",
+      "generative modeling",
+      "control"
+    ],
+    "fitReason": "Strong fit for learning/optimization methods for safe robot behavior around people, including generative planning and predictive human-robot interaction.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Her coauthored reachability-based vehicle-interaction work reports full-scale steer-by-wire traffic-weaving experiments. UW's 2025 project describes instrumented human-robot interaction research using eye tracking and adaptive control.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current lab contact page offers general inquiries and meetings for current UW students; no explicit external-master's visiting or summer recruitment was verified. Summer 2027 remains unconfirmed.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 18,
+      "shortVisit": 0,
+      "freshness": 14
+    },
+    "scoreReasons": {
+      "fit": "Trustworthy autonomy combining learning/control/human interaction.",
+      "physical": "Concrete full-scale vehicle validation is from an older coauthored paper; current UW work is a research project, not proof of new hardware experiments.",
+      "shortVisit": "No explicit external graduate short-visit route.",
+      "freshness": "Current faculty page and 2026 lab news; older foundational hardware paper."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.aa.washington.edu / source 1",
+        "url": "https://www.aa.washington.edu/facultyfinder/karen-leung",
+        "summary": "Current UW assistant professor, CTRL director, public email and research interests.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      },
+      {
+        "id": "s2",
+        "label": "arxiv.org / source 2",
+        "url": "https://arxiv.org/abs/2012.03390",
+        "summary": "Author paper reports full-scale vehicle hardware experiments with reachability safety controller.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      },
+      {
+        "id": "s3",
+        "label": "www.aa.washington.edu / source 3",
+        "url": "https://www.aa.washington.edu/news/article/2025-03-24/building-customized-trust-autonomous-systems-karen-leung-receives-nsf-grant",
+        "summary": "Current UW instrumented HRI project linking perception, human behavior and adaptive control.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      },
+      {
+        "id": "s4",
+        "label": "depts.washington.edu / source 4",
+        "url": "https://depts.washington.edu/ctrl/contact/",
+        "summary": "General lab inquiries and current-UW meeting route; no short-visit invitation.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      },
+      {
+        "id": "s5",
+        "label": "depts.washington.edu / source 5",
+        "url": "https://depts.washington.edu/ctrl/",
+        "summary": "Current lab with June 2026 research news.",
+        "verifiedAt": "2026-09-30T21:24:34Z"
+      }
+    ],
+    "unknowns": [
+      "Current students and mentoring history do not establish an external eight-week research visit. Institution approval, funding and international master's eligibility remain unverified.",
+      "Published research evidence does not confirm current in-group hardware access or summer 2027 supervision capacity."
+    ],
+    "publicEmail": "kymleung@uw.edu"
+  }
+]

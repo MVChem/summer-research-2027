@@ -1,0 +1,101 @@
+name	school	direction	url
+Yilun Du	Harvard	World models / embodied AI	https://yilundu.github.io/
+Alane Suhr	UC Berkeley	Language agents / multimodal grounding	https://alanesuhr.com/
+Emily Alsentzer	Stanford	Clinical NLP / medical AI	https://med.stanford.edu/profiles/emily-alsentzer
+Monica Agrawal	Duke	Clinical NLP / LLM	https://www.monicaagrawal.com/
+Omar Khattab	MIT	LLM systems / retrieval / agents	https://omarkhattab.com/
+Saadia Gabriel	UCLA	NLP / trustworthy generative AI	https://saadiagabriel.com/
+Daniel Fried	CMU	Language agents / multimodal NLP	https://dpfried.github.io/
+Maarten Sap	CMU	NLP / social reasoning / agents	https://maartensap.com/
+Max Simchowitz	CMU	Reinforcement learning / robot learning	https://msimchowitz.github.io/
+Yuchen Cui	UCLA	Robot learning / HRI	https://yuchencui.cc/
+Xianyi Cheng	Duke	Robot manipulation / dexterity	https://scholars.duke.edu/person/xianyi.cheng
+Ruohan Gao	UMD	Multimodal vision / embodied AI	https://ruohangao.github.io/
+Tianmin Shu	JHU	World models / multi-agent / planning	https://www.tshu.io/
+Zhuang Liu	Princeton	Vision / foundation models	https://liuzhuang13.github.io/
+Saining Xie	NYU	Vision / multimodal foundation models	https://www.sainingxie.com/
+Sherrie Wang	MIT	AI for Earth / remote sensing	https://engineering.mit.edu/people/sherrie-wang
+Sara Beery	MIT	Computer vision / ecological AI	https://beerys.github.io/
+Mina Konakovic Lukovic	MIT	3D geometry / physical simulation / robotics	https://www.eecs.mit.edu/people/mina-konakovic-lukovic/
+Vincent Sitzmann	MIT	3D reconstruction / neural representations	https://www.vincentsitzmann.com/
+Aviral Kumar	CMU	RL / LLM post-training	https://aviralkumar2907.github.io/
+Andrea Bajcsy	CMU	Human-robot interaction / robot learning	https://www.ri.cmu.edu/ri-faculty/andrea-bajcsy/
+Sarah Dean	Cornell	ML / control / robotics	https://www.cs.cornell.edu/people/sarah-dean
+Sanjiban Choudhury	Cornell	Robot learning / planning	https://sanjibanc.github.io/
+Tapomayukh Bhattacharjee	Cornell	Assistive robotics / embodied AI	https://www.cs.cornell.edu/people/tapomayukh-bhattacharjee
+Tengfei Ma	Stony Brook	Biomedical AI / LLM / graph learning	https://sites.google.com/site/matf0123/
+Minchen Li	CMU	Physical simulation / 3D / robotics	https://www.cs.cmu.edu/~minchenl/
+Chen Wang	University at Buffalo	Robot learning / 3D perception	https://sairlab.org/chenw/
+Xuesu Xiao	George Mason	Robot learning / autonomous navigation	https://people.cs.gmu.edu/~xiao/
+Zhao Han	University of South Florida	Human-robot interaction / AI	https://zhaohanphd.com/
+Amy Zhang	UT Austin	RL / representation learning / robotics	https://amyzhang.github.io/
+Yuyin Zhou	UC Santa Cruz	Medical vision / world models / agents	https://yuyinzhou.github.io/
+Yunzhu Li	Columbia	Structured world models / robot learning	https://yunzhuli.github.io/
+Boyuan Chen	Duke	Robot learning / visual dynamics	https://robotics.duke.edu/faculty/boyuan-chen
+Muhao Chen	UC Davis	LLM / agents / reliability	https://muhaochen.github.io/index.html
+Lichao Sun	Lehigh	LLM / medical AI / trustworthy AI	https://lichao-sun.github.io/index.html
+Yu Su	Ohio State	Language agents / planning / memory	https://ysu1989.github.io/
+Lei Cao	University of Arizona	Agent workflows / LLM data systems	https://www2.cs.arizona.edu/~caolei/
+Yue Dong	UC Riverside	NLP / LLM / RL	https://yuedong.netlify.app/
+Rui Zhang	Penn State	NLP / LLM / multimodal learning	https://ryanzhumich.github.io/
+Wenpeng Yin	Penn State	NLP / LLM agents	https://www.wenpengyin.org/
+Zhiting Hu	UC San Diego	LLM / generative AI / agents	https://datascience.ucsd.edu/people/zhiting-hu/
+He He	NYU	NLP / language models	https://hhexiy.github.io/
+Robin Jia	USC	NLP / robust language models	https://robinjia.github.io/
+Xiang Ren	USC	LLM / knowledge / agents	https://shanzhenren.github.io/
+Olga Russakovsky	Princeton	Vision / detection / responsible AI	https://www.cs.princeton.edu/~olgarus/
+Felix Heide	Princeton	3D reconstruction / computational imaging	https://www.cs.princeton.edu/~fheide/
+Srinath Sridhar	Brown	3D vision / reconstruction / interaction	https://srinathsridhar.com/
+Daniel Ritchie	Brown	3D generative models / graphics	https://dritchie.github.io/
+James Tompkin	Brown	Vision / 3D / computational imaging	https://jamestompkin.com/
+Shenlong Wang	UIUC	3D vision / reconstruction / robot perception	https://shenlong.web.illinois.edu/
+Yongfeng Zhang	Rutgers	LLM agents / recommendation	https://yongfeng.me/
+Michael Hughes	Tufts	Clinical ML / probabilistic models	https://www.michaelchughes.com/
+Yifan Peng	Weill Cornell	Biomedical NLP / medical LLM	https://vivo.weill.cornell.edu/display/cwid-yip4002
+Marzyeh Ghassemi	MIT	Healthcare ML / foundation models	https://www.marzyehghassemi.com/
+Connor Coley	MIT	AI for chemistry / scientific agents	https://coley.mit.edu/
+Tess Smidt	MIT	Equivariant ML / AI for Science	https://www.eecs.mit.edu/people/tess-smidt/
+Pranav Rajpurkar	Harvard	Medical AI / multimodal models	https://rajpurkarlab.hms.harvard.edu/
+Faisal Mahmood	Harvard	Computational pathology / foundation models	https://faisal.ai/
+Roxana Daneshjou	Stanford	Clinical AI / LLM evaluation	https://med.stanford.edu/profiles/roxana-daneshjou
+James Zou	Stanford	Medical AI / agents / AI for Science	https://profiles.stanford.edu/james-zou
+Sheng Wang	University of Washington	Biomedical foundation models / AI for Science	https://www.cs.washington.edu/people/faculty/sheng-wang/
+Zongwei Zhou	JHU	Medical vision / foundation models	https://www.zongweiz.com/
+Shuran Song	Stanford	Robot learning / 3D perception	https://shurans.github.io/
+Jiajun Wu	Stanford	World models / 3D / embodied AI	https://profiles.stanford.edu/jiajun-wu
+Jeannette Bohg	Stanford	Robot learning / manipulation	https://profiles.stanford.edu/jeannette-bohg
+Gordon Wetzstein	Stanford	3D reconstruction / neural rendering	https://stanford.edu/~gordonwz/
+Angjoo Kanazawa	UC Berkeley	3D vision / embodied AI	https://www2.eecs.berkeley.edu/Faculty/Homepages/kanazawa.html
+David Held	CMU	Robot learning / manipulation / perception	https://davheld.github.io/
+Katerina Fragkiadaki	CMU	World models / embodied AI / video	https://www.cs.cmu.edu/~katef/
+Shubham Tulsiani	CMU	3D vision / reconstruction / generative models	https://shubhtuls.github.io/
+Oliver Kroemer	CMU	Robot learning / manipulation	https://www.ri.cmu.edu/ri-faculty/oliver-kroemer/
+Zackory Erickson	CMU	Assistive robotics / robot learning	https://zackory.com/
+Ioannis Gkioulekas	CMU	3D reconstruction / inverse graphics	https://www.cs.cmu.edu/~igkioule/
+Dylan Hadfield-Menell	MIT	AI agents / human-AI / alignment	https://people.csail.mit.edu/dhm/
+Chuang Gan	UMass Amherst	World models / VLA / generative simulation	https://embodied-agi.cs.umass.edu/
+Dylan Losey	Virginia Tech	Robot learning / human-AI collaboration	https://dylanlosey.com/
+Lawson Wong	Northeastern	RL / robot learning / embodied AI	https://www.ccs.neu.edu/home/lsw/
+Toby Jia-Jun Li	Notre Dame	LLM agents / HCI / applied AI	https://toby.li/
+Siddharth Karamcheti	Georgia Tech	VLA / multimodal robotics / HRI	https://www.siddkaramcheti.com/
+Unnat Jain	UC Irvine	Robot learning / embodied AI / vision	https://unnat.github.io/index.html
+Randall Balestriero	Brown	Self-supervised learning / deep learning	https://cs.brown.edu/people/faculty/rbalestr/
+Eunice Jun	UCLA	Human-AI / scientific computing / HCI	https://samueli.ucla.edu/people/eunice-jun/
+Jason Choi	UCLA	Learning / safe control / autonomous systems	https://samueli.ucla.edu/people/jason-jangho-choi/
+Stefan Lee	Oregon State	Vision-language / embodied agents	https://web.engr.oregonstate.edu/~leestef/
+David Rosen	Northeastern	3D perception / SLAM / robot control	https://cos.northeastern.edu/people/david-rosen/
+Joshua Peterson	Boston University	Machine learning / human behavior / vision	https://www.bu.edu/cds-faculty/profile/joshua-peterson/
+Aditi Raghunathan	CMU	Reliable ML / foundation models	https://www.cs.cmu.edu/~aditirag/
+Judy Hoffman	UC Irvine	Vision / detection / adaptation	https://jhoffman.github.io/
+Rose Yu	UC San Diego	AI for Science / dynamics / foundation models	https://roseyu.com/
+Yue Zhao	USC	AI agents / foundation models / applied ML	https://viterbi.usc.edu/directory/faculty/Zhao/Yue
+Hao Peng	UIUC	LLM / NLP / AI for Science	https://siebelschool.illinois.edu/about/people/all-faculty/haopeng
+Ziyu Yao	George Mason	LLM agents / NLP / human-AI	https://ziyuyao.org/
+Rebecca Willett	University of Chicago	Machine learning / AI for Science	https://willett.psd.uchicago.edu/
+Yangruibo (Robin) Ding	UCLA	LLM / code agents / software AI	https://yrbding.github.io/
+Michael Albergo	Harvard	Generative ML / physical sciences / numerical modeling	https://kempnerinstitute.harvard.edu/people/our-people/michael-albergo/
+Kianté Brantley	Harvard	RL / LLM reasoning / learning from feedback	https://seas.harvard.edu/person/kiante-brantley
+Melanie Weber	Harvard	Geometric ML / scientific modeling / optimization	https://www.melanie-weber.com/
+Georgia Gkioxari	Caltech	3D vision / vision-language / generative AI	https://www.ee.caltech.edu/people/georgia-gkioxari
+Roberto Martin-Martin	UT Austin	Robot perception / embodied AI / interaction	https://www.cs.utexas.edu/people/faculty-researchers/roberto-martin-martin
+Haw-Shiuan Chang	University of Arizona	LLM / NLP / machine learning	https://infosci.arizona.edu/person/haw-shiuan-chang

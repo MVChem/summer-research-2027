@@ -1,0 +1,47 @@
+/* Practical CSS approximations of the user-selected dashboard reference.
+   These are not extracted Figma tokens. Copy or map them into the project. */
+:root {
+  --ui-font-sans: Inter, ui-sans-serif, system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", "Noto Sans CJK SC", "Microsoft YaHei", sans-serif;
+  --ui-canvas: #ffffff;
+  --ui-surface: #ffffff;
+  --ui-sidebar: #f9f9f9;
+  --ui-muted-surface: #f3f3f3;
+  --ui-hover: #f5f5f5;
+  --ui-selected: #eeeeee;
+  --ui-text: #171717;
+  --ui-text-strong: #0d0d0d;
+  --ui-text-muted: #6b6b6b;
+  --ui-border: #e1e1e1;
+  --ui-divider: #eeeeee;
+  --ui-primary: #171717;
+  --ui-primary-text: #ffffff;
+  --ui-focus: #525252;
+  --ui-success: #15803d;
+  --ui-warning: #a16207;
+  --ui-danger: #b91c1c;
+  --ui-radius-card: 0.875rem;
+  --ui-radius-control: 0.4375rem;
+  --ui-radius-badge: 0.375rem;
+  --ui-shadow-card: 0 1px 2px rgb(0 0 0 / 0.04);
+  --ui-space-1: 0.25rem;
+  --ui-space-2: 0.5rem;
+  --ui-space-3: 0.75rem;
+  --ui-space-4: 1rem;
+  --ui-space-5: 1.5rem;
+  --ui-space-6: 2rem;
+  --ui-space-7: 3rem;
+  --ui-sidebar-width: 16rem;
+  --ui-header-height: 3.5rem;
+  --ui-content-padding: 1.5rem;
+  --ui-control-height: 2.25rem;
+  --ui-font-size-body: 0.875rem;
+  --ui-font-size-caption: 0.75rem;
+  --ui-font-size-heading: 1.375rem;
+  --ui-font-size-metric: 1.75rem;
+  --ui-line-height: 1.5;
+  --ui-chart-line: #404040;
+  --ui-chart-line-secondary: #737373;
+  --ui-chart-grid: #eeeeee;
+  --ui-chart-fill: rgb(64 64 64 / 0.12);
+}

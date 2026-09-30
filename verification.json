@@ -1,0 +1,26 @@
+{
+  "checkedAt": "2026-10-01",
+  "checks": [
+    "single-file HTML opens with 25 rows",
+    "confirmed recent AP count",
+    "16 public collaboration routes",
+    "current school correction",
+    "faculty detail",
+    "favorite survives reload",
+    "contact status survives reload",
+    "all 100 rows accessible",
+    "export includes every filtered page",
+    "search empty state",
+    "mobile has no page overflow",
+    "mobile navigation works",
+    "FastAPI served React page",
+    "browser receives current FastAPI data",
+    "API rejects invalid filters",
+    "no browser script errors"
+  ],
+  "mobile": {
+    "viewport": 390,
+    "document": 390
+  },
+  "browserErrors": []
+}

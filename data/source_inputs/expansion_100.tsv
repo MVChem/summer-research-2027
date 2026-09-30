@@ -1,0 +1,101 @@
+name	school	homepage	direction	fit	evidence
+Sergey Levine	UC Berkeley	https://www2.eecs.berkeley.edu/Faculty/Homepages/svlevine.html	Robot foundation models / offline RL / visuomotor learning	ai-real	官网介绍端到端视觉控制与深度强化学习；Berkeley 报道有真机自主学习行走。
+Chelsea Finn	Stanford	https://www.robotics.stanford.edu/~cbfinn/	Robot foundation models / meta-learning / imitation learning	ai-real	IRIS 研究通过机器人交互学习；RoboNet 论文包含多种真实机器人数据。
+Pieter Abbeel	UC Berkeley	https://rll.berkeley.edu/index.html	Deep reinforcement learning / imitation learning / robot manipulation	ai-real	Robot Learning Lab 结合深度 RL 与机器人；学校报道展示真机抓取、倒水和工具操作。
+Dorsa Sadigh	Stanford	https://hai.stanford.edu/people/dorsa-sadigh	Interactive robot learning / human feedback / imitation learning	ai-real	ILIAD 研究交互学习与协作；Learning from Imperfect Demonstrations 论文包含真实机器人实验。
+Anca Dragan	UC Berkeley	https://www2.eecs.berkeley.edu/Faculty/Homepages/anca.html	Human-AI alignment / robot learning / human feedback	ai-real	学校介绍 RL、贝叶斯推断与协作机械臂、无人机、自动驾驶；兼任产业职务，访问安排需询问。
+Ken Goldberg	UC Berkeley	https://ieor.berkeley.edu/people/ken-goldberg/	Deep learning / grasping / surgical robot manipulation	ai-real	AUTOLAB 明确结合深度学习、几何模型与抓取、操作、机器人辅助手术。
+Trevor Darrell	UC Berkeley	https://www2.eecs.berkeley.edu/Faculty/Homepages/darrell.html	Visual representation learning / multimodal AI / robotics	ai-pending	AI 与视觉方法适合迁移；机器人学习有合作记录，当前组内真机与访问支持需确认。
+Deepak Pathak	CMU	https://www.ri.cmu.edu/ri-faculty/deepak-pathak/	Self-supervised learning / video-to-robot / world models	ai-real	WHIRL 和 VRB 从人类视频学习，展示真实环境中的机器人操作；兼任 Skild AI CEO。
+Abhinav Gupta	CMU	https://www.cs.cmu.edu/~abhinavg/	Visual learning / human video imitation / robot representations	ai-real	WHIRL 与机器人从视频学习项目有真实机器人实验，结合视觉表示与策略学习。
+Benjamin Eysenbach	Princeton	https://www.cs.princeton.edu/people/profile/eysenbach	Reinforcement learning / exploration / goal-conditioned learning	ai-pending	重点是简洁、可扩展 RL 方法；不能仅由 RL 或机器人应用描述确认当前组内真机条件。
+Jiayuan Mao	UPenn	https://jiayuanm.com/	Neuro-symbolic AI / physical reasoning / embodied planning	ai-pending	Penn GRASP / Lab One，结合概念学习、语言与物理规划；本组当前真机资源另问。
+Pulkit Agrawal	MIT	https://people.csail.mit.edu/pulkitag/	Sensorimotor learning / dexterous manipulation / reinforcement learning	ai-real	Improbable AI 结合 RL、视觉与控制，公开灵巧手重定向与机器人运动项目。
+Russ Tedrake	MIT	https://www.csail.mit.edu/person/russ-tedrake	Learning-based manipulation / control / robot planning	ai-real	MIT 操作课程和 UMI 项目涉及学习策略与真机操作；控制与规划占比也较高。
+Leslie Kaelbling	MIT	https://www.csail.mit.edu/person/leslie-kaelbling	AI planning / learning / task and motion planning	ai-real	机器人 AI 规划研究和 MIT 实体操作项目，重点是规划、表示与学习的结合。
+Tomas Lozano-Perez	MIT	https://www.csail.mit.edu/person/tomas-lozano-perez	Task and motion planning / robot manipulation / AI reasoning	robotics	重点偏操作规划、几何和机器人系统；可投，具体 AI 课题匹配需单独讨论。
+Yuke Zhu	UT Austin	https://www.cs.utexas.edu/~yukez/	Robot foundation models / VLA / manipulation / imitation learning	ai-real	RPL 与 NVIDIA GEAR，机器人感知、策略学习和真实机器人操作是核心方向。
+Peter Stone	UT Austin	https://www.cs.utexas.edu/~pstone/	Reinforcement learning / multi-agent AI / autonomous robots	ai-real	Texas Robotics 与机器人足球，结合多智能体与强化学习；公司与学校指导安排需确认。
+Joydeep Biswas	UT Austin	https://robotics.utexas.edu/index.php/news/201	Robot learning / long-term autonomy / mobile navigation	ai-real	学校 2026 报道展示真实机器人在公园路径上的自主导航及地形适应。
+Scott Niekum	UMass Amherst	https://www.cics.umass.edu/about/directory/scott-niekum	Imitation learning / safe RL / personal robots	ai-real	SCALAR 研究机器人从示范学习、强化学习与安全，目标包括家庭与工作场所真实部署。
+Lerrel Pinto	NYU	https://www.lerrelpinto.com/	Robot learning / affordable robots / representation learning	ai-real	GRAIL 结合表示学习、行为建模和强化学习，开发低成本开源真实机器人。
+Erdem Biyik	USC	https://minghsiehece.usc.edu/directory/faculty/profile/?fname=Erdem&lname=Biyik	Human feedback / reward learning / robot learning	ai-real	Lira Lab 研究自然人类反馈、机器人学习与人机协作；实习对象及外校资格需确认。
+Sehoon Ha	Georgia Tech	https://sites.cc.gatech.edu/fac/sha9/	Reinforcement learning / legged robots / sim-to-real	ai-real	公开足式机器人策略学习和模型迁移项目，AI 方法主要是 RL 与学习控制。
+Danfei Xu	Georgia Tech	https://faculty.cc.gatech.edu/~danfei/	Robot learning / human video transfer / reasoning / foundation models	ai-real	RL2 结合机器学习与机器人；学校报道有机器人从人类经验与部署反馈学习的研究。
+Sonia Chernova	Georgia Tech	https://www.cc.gatech.edu/people/sonia-chernova	Robot learning / semantic reasoning / human-robot interaction	ai-real	RAIL 研究在现实日常环境中学习、推理和交互的 AI 机器人。
+Byron Boots	University of Washington	https://homes.cs.washington.edu/~bboots/	Robot learning / model-based RL / manipulation / off-road autonomy	ai-real	个人学校主页包含 7-DOF Sawyer 真机学习实验与模仿学习；产业角色需确认指导安排。
+Dieter Fox	University of Washington	https://www.cs.washington.edu/people/faculty/dieter-fox/	Robot foundation models / perception / manipulation	ai-real	UW 官方介绍真实感知、机器人操作及 Ai2 机器人基础模型工作。
+Abhishek Gupta	University of Washington	https://homes.cs.washington.edu/~abhgupta/	Embodied intelligence / robot RL / autonomous skill learning	ai-real	WEIRD Lab 研究低人工干预的机器人技能学习；学校报道机器人学习与真实数据采集。
+Maya Cakmak	University of Washington	https://homes.cs.washington.edu/~mcakmak/research.html	Learning from demonstration / human-robot interaction / manipulation	ai-real	UW 报道有仓储机械臂原型及向人求助、可教机器人研究。
+Siddhartha Srinivasa	University of Washington	https://www.cs.washington.edu/people/faculty/siddhartha-sidd-srinivasa/	Robot manipulation / learning / human-robot collaboration	ai-real	Personal Robotics Lab 结合感知、操作、学习与人机交互，面向复杂物理任务。
+Xiaolong Wang	UC San Diego	https://xiaolonw.github.io/	Visual representation learning / robot foundation models / RL	ai-real	视觉、互联网视频学习与真实机器人控制结合；关注机器人泛化而非只看会议名称。
+Hao Su	UC San Diego	https://jacobsschool.ucsd.edu/people/profile/hao-su	3D learning / physical simulation / robot learning / sim-to-real	ai-pending	官方覆盖 AI、视觉、图形与机器人；具体项目是否以真机评测及当前设备需进一步确认。
+Henrik Christensen	UC San Diego	https://css.ucsd.edu/people/profiles/hchristensen.html	Robot perception / autonomous systems / robotics integration	robotics	重点包含机器人感知、自动系统和系统集成；与基础模型课题的匹配需具体看项目。
+Dinesh Jayaraman	UPenn	https://curf.upenn.edu/profile/dinesh-jayaraman	Vision-based robot learning / perception / representation learning	ai-real	Penn 官方明确视觉与机器学习应用于机器人；公开研究包含视觉机器人学习与真实数据。
+Kostas Daniilidis	UPenn	https://www.grasp.upenn.edu/people/kostas-daniilidis/	Computer vision / robot perception / visual navigation	ai-pending	视觉和机器人感知适合 3D 与具身方向；当前本组真机项目、短期访问需确认。
+Nikolai Matni	UPenn	https://nikolaimatni.github.io/	Learning for dynamics / robust control / safe robotics	robotics	主要是学习动力系统、鲁棒控制与理论；适合 RL/安全课题，区别于 VLA 或视频 world model。
+Eric Eaton	UPenn	https://healthtech.upenn.edu/bios/eric-eaton-phd	Lifelong learning / transfer learning / AI and healthcare	ai-pending	GRASP lifelong ML 组，并有健康信息学任职；当前真机支持不能仅凭 GRASP 成员身份确认。
+Vijay Kumar	UPenn	https://www.grasp.upenn.edu/people/vijay-kumar/	Aerial robots / swarm autonomy / perception and control	robotics	真机无人机与自主系统很强，研究重心也包括控制和群体系统；需挑 AI 相关课题。
+George Pappas	UPenn	https://www.grasp.upenn.edu/people/george-pappas/	Safe learning / control / cyber-physical systems / robotics	robotics	学习、安全控制与网络化系统交叉，偏理论和系统方向；具体 AI+真机课题需询问。
+Carl Vondrick	Columbia	https://www.engineering.columbia.edu/faculty-staff/directory/carl-vondrick	Video learning / visual prediction / robot learning	ai-real	视觉预测、表示学习与机器人交叉；与真实机器人操作学习合作项目相关。
+Hod Lipson	Columbia	https://www.me.columbia.edu/faculty/hod-lipson	Physical AI / robot self-modeling / embodied intelligence	ai-real	Creative Machines Lab 将 AI 与真实机器人、自建模和数字制造结合。
+Stefanie Tellex	Brown	https://cs.brown.edu/people/stellex/	Language grounding / robot learning / human-robot collaboration	ai-real	自然语言理解与实体机器人协作、指令执行和操作学习结合。
+George Konidaris	Brown	https://cs.brown.edu/people/gdk/index.html	Hierarchical RL / skill learning / symbolic robot planning	ai-real	机器人技能、抽象表示与规划，公开真实机器人研究及机器人规划产业转化。
+Chad Jenkins	University of Michigan	https://robotics.umich.edu/people/faculty/chad-jenkins/	Robot learning / foundation models / interactive perception	ai-real	Michigan 官方将其列入 Robot Learning & Foundational Models，研究交互感知与真实机器人。
+Dmitry Berenson	University of Michigan	https://robotics.umich.edu/people/faculty/dmitry-berenson/	Robot learning / motion planning / manipulation	ai-real	官方研究方向包括机器人学习、运动规划与操作；结合实体机械臂任务。
+Saurabh Gupta	UIUC	https://www.saurabhg.web.illinois.edu/	Embodied AI / video learning / mobile manipulation / generalization	ai-real	机器人学习、全身控制、移动操作与视频理解；关注从人类视频向机器人迁移。
+Kris Hauser	UIUC	https://grainger.illinois.edu/about/directory/faculty/kkhauser	Robot planning / manipulation / learning control	robotics	重点含规划、动力学、实时机器人系统；保留可尝试，需对齐 AI 方法课题。
+Katherine Driggs-Campbell	UIUC	https://ece.illinois.edu/about/directory/faculty/krdc	Human-robot interaction / machine learning / autonomous systems	ai-real	智能交互与自主系统，公开多模态机器人操作合作项目；具体接收条件需询问。
+Guanya Shi	CMU	https://www.gshi.me/	Reinforcement learning / humanoids / agile robots / learning control	ai-real	研究通用敏捷机器人、类人机器人、学习与控制，公开实体平台项目。
+Jeffrey Ichnowski	CMU	https://www.ri.cmu.edu/ri-faculty/jeffrey-ichnowski/	Deep learning / grasping / manipulation / robot planning	ai-real	机器人深度学习、抓取与操作；将学习方法用于真实机器人规划和执行。
+Bernadette Bucher	University of Michigan	https://robotics.umich.edu/people/faculty/bernadette-bucher/	Embodied AI / language grounding / mobile manipulation	ai-real	Mapping and Motion Lab 研究视觉语言、移动操作和不确定性；真实机器人指令执行是切入点。
+Wei-Chiu Ma	Cornell	https://www.cs.cornell.edu/people/wei-chiu-ma	World models / 3D reconstruction / physical scene simulation	ai-pending	官方研究理解、重建与重新模拟动态世界，适合 world model/3D；本组真机能力待确认。
+Cheng Zhang	Cornell	https://czhang.org/	Human-centered AI / wearable sensing / physical interaction	ai-pending	重点是 AI 与真实可穿戴传感设备；有真实硬件，但不是据此认定有机器人平台。
+Nima Fazeli	University of Michigan	https://www.me.engin.umich.edu/people/faculty/nima-fazeli/	Robot learning / contact dynamics / dexterous manipulation	ai-real	物理交互、接触与机器人学习，公开灵巧操作和可变形物体研究。
+Ding Zhao	CMU	https://www.meche.engineering.cmu.edu/directory/bios/zhao-ding.html	Safe AI / robot learning / autonomous driving	ai-real	安全 AI、机器人与自动驾驶交叉；适合学习和评测方向，具体实体课题需对齐。
+Zico Kolter	CMU	https://www.cs.cmu.edu/~zkolter/	Reliable ML / AI safety / optimization / learning systems	ai-pending	偏通用 ML、优化与模型安全；即使有机器人合作，也需确认当前本组真机课题。
+Zachary Manchester	MIT	https://aeroastro.mit.edu/people/zac-manchester/	Robot dynamics / optimization / learning-based control	robotics	重点偏动力学、优化与控制，真机强但与多模态基础模型研究重心有差异。
+Andreea Bobu	MIT	https://www.csail.mit.edu/person/andreea-bobu	Human-centric robot learning / inverse RL / LLM feedback	ai-real	官方明确辅助机械臂与 LLM 实验，结合深度学习、逆 RL 与人类建模。
+Rachel Holladay	UPenn	https://www.grasp.upenn.edu/people/rachel-holladay/	Robot manipulation / planning / contact-rich physical reasoning	robotics	面向接触丰富操作与规划；适合物理推理，具体 AI 方法和当前真机资源需核查。
+Fei-Fei Li	Stanford	https://profiles.stanford.edu/fei-fei-li	Spatial intelligence / robot learning / vision / healthcare AI	ai-real	官方列出深度学习、机器人学习、空间智能和医疗环境智能；研究横跨 AI 与物理交互。
+Leonidas Guibas	Stanford	https://profiles.stanford.edu/leonidas-guibas	3D learning / geometry / vision / robotics	ai-pending	几何、3D 表示与视觉方法可迁移到具身方向；本组当前真机条件待确认。
+Manling Li	Northwestern	https://limanling.github.io/	Multimodal agents / embodied reasoning / spatial intelligence	ai-pending	MLL Lab 研究多模态推理与具身 Agent；不能把具身 benchmark 直接当成真机证据。
+Shiqi Zhang	Binghamton	https://www.binghamton.edu/computer-science/people/profile.html?id=zhangs	AI robot planning / reinforcement learning / human-robot interaction	ai-pending	学校明确 AI 与机器人交叉；公开操作项目可继续查证，当前真机与短期接收条件另问。
+Jia-Bin Huang	UMD	https://www.cs.umd.edu/people/jbhuang	Visual learning / video generation / embodied perception	ai-pending	视觉、生成与具身项目合作；优先对接视频表示、3D 与 world model，不预设本组真机资源。
+Furong Huang	UMD	https://furong-huang.com/people/	Trustworthy AI / foundation models / robot learning	ai-pending	Furong Lab 明确含机器人、world models 与基础模型；有硬件展示，具体真机实验条件待确认。
+Dinesh Manocha	UMD	https://www.cs.umd.edu/people/dmanocha	LLM robot navigation / physical simulation / AI robotics	ai-real	学校报道其 LLM 自主移动机器人导航研究；AI、感知与机器人系统交叉。
+Yiannis Aloimonos	UMD	https://aim.umd.edu/people/yiannis-aloimonos	Embodied vision / action understanding / robot learning	ai-real	视觉与动作理解、真实机器人操作相关，ForceBand 项目结合学习与物理操作。
+Luca Carlone	MIT	https://aeroastro.mit.edu/people/luca-carlone/	Spatial AI / 3D perception / scene graphs / robot autonomy	ai-real	SPARK 研究将 AI 感知、空间表示与机器人自主系统结合，公开实体自主机器人项目。
+Chuchu Fan	MIT	https://aeroastro.mit.edu/people/chuchu-fan/	Safe learning / reliable autonomy / formal methods	robotics	学习和可靠自主系统交叉，数学验证与安全控制占比高，课题匹配与 VLA 有差异。
+Daniela Rus	MIT	https://www.eecs.mit.edu/people/daniela-rus/	Physical AI / learning-based robotics / autonomous systems	ai-real	AI、机器学习与真实机器人、自动驾驶及操作系统结合；组规模与方向跨度大。
+Nick Roy	MIT	https://www.csail.mit.edu/person/nicholas-roy	Robot perception / probabilistic learning / autonomous navigation	ai-real	Robust Robotics 面向真实无人系统的感知、决策和自主导航。
+Julie Shah	MIT	https://www.csail.mit.edu/person/julie-shah	Human-robot collaboration / AI planning / learning from people	ai-real	Interactive Robotics 研究实体协作机器人伙伴，并有 Baxter 等人机协作实验报道。
+Navid Azizan	MIT	https://azizan.mit.edu/	Machine learning / adaptive control / robot learning	ai-pending	ML 与机器人控制结合；公开高效学习控制研究，当前本组真机资源仍需询问。
+Cathy Wu	MIT	https://www.mit.edu/~cathywu/	Reinforcement learning / autonomous vehicles / transport systems	ai-pending	RL 与交通自主系统；仿真、交通数据和实体机器人平台要分开核实。
+Brian Williams	MIT	https://www.csail.mit.edu/person/brian-williams	Model-based AI / risk-bounded planning / collaborative robotics	robotics	偏模型化自主、风险约束和多机器人规划；保留广泛尝试，需挑与你相近的 AI 课题。
+Dhruv Batra	Georgia Tech	https://peopletech.gatech.edu/people/dhruv-batra	Embodied AI / vision-language navigation / agents	ai-pending	AI、视觉与语言交叉；具身导航 benchmark 和虚拟环境不等于当前组内真机条件。
+Christopher Amato	Northeastern	https://www.khoury.northeastern.edu/people/chris-amato/	Multi-agent reinforcement learning / decision making / robotics	ai-pending	官方列出 AI、ML 与机器人；多智能体与决策方向强，当前本组真机能力待确认。
+Harish Ravichandar	Georgia Tech	https://www.cc.gatech.edu/people/harish-ravichandar	Robot learning / demonstration learning / collaborative manipulation	ai-real	机器人从示范学习与协作操作，将学习方法用于真实机器人技能。
+Frank Dellaert	Georgia Tech	https://dellaert.github.io/	Probabilistic inference / robot perception / spatial intelligence	robotics	重点偏机器人概率推断与感知系统；返回 Georgia Tech 后兼任企业 AI 职务。
+Patricio Vela	Georgia Tech	https://medicalrobotics.gatech.edu/patricio-antonio-vela	Computer vision / robot perception / geometric control	robotics	真实机器人感知与几何控制方向；需挑视觉学习、具身感知切入点。
+Seth Hutchinson	Northeastern	https://coe.northeastern.edu/people/hutchinson-seth/	Robot learning / manipulation / human-robot systems	robotics	个人主页注明 Georgia Tech 任职为 2018–2024；现校为 Northeastern，不能沿用旧学校地址判断任职。
+Robert Platt	Northeastern	https://www.khoury.northeastern.edu/people/robert-platt/	Robot policy learning / grasping / reinforcement learning	ai-real	官方涵盖策略学习、抓取与 on-robot reinforcement learning，是真机与 AI 方法结合。
+Taskin Padir	Northeastern	https://coe.northeastern.edu/people/padir-taskin/	Intelligent robotics / field robots / human-robot systems	robotics	RIVeR 实体机器人与系统部署强；与大模型/视频学习课题的相似度需具体核查。
+Heni Ben Amor	Arizona State	https://search.asu.edu/profile/2736878	Robot learning / machine learning / physical HRI	ai-real	官方 AI、ML 与机器人交叉；学校报道真实机器人自学投篮。
+Berk Calli	WPI	https://wp.wpi.edu/merlab/people/	Robot manipulation / learning / environmental robotics	ai-real	MER Lab 有抓取集成学习、软机器人控制与实体操作方向。
+Jing Xiao	WPI	https://www.wpi.edu/people/faculty/jxiao2	Robot manipulation / contact reasoning / adaptive planning	robotics	重点是机器人接触、实时自适应和规划；AI 方法重心与基础模型需逐课题对齐。
+Carlo Pinciroli	WPI	https://www.wpi.edu/people/faculty/cpinciroli	Swarm robotics / distributed intelligence / multi-robot systems	robotics	群体机器人和分布式智能系统，保留可尝试，与 VLA/LLM 研究重心有差异。
+Ayanna Howard	Ohio State	https://cse.osu.edu/people/howard.1727	AI robotics / assistive robots / human-robot interaction	ai-real	本人学校访谈讨论 AI 算法、适应性界面和人机协作，涉及真实辅助机器人。
+Jana Kosecka	George Mason	https://people.cs.gmu.edu/~kosecka/	Computer vision / embodied perception / robot navigation	ai-pending	视觉与机器人感知方向，适合 3D/导航方法；当前本组真机和访问条件需确认。
+Hadas Kress-Gazit	Cornell	https://www.duffield.cornell.edu/people/hadas-kress-gazit/	Verifiable robot control / natural language / formal planning	robotics	核心是可验证高层控制、逻辑与语言到机器人规划，方法路线与深度具身学习有差异。
+Mark Campbell	Cornell	https://www.duffield.cornell.edu/people/mark-campbell/	Autonomous robots / probabilistic reasoning / estimation	robotics	真实自主机器人、估计与概率推理；保留可投，具体机器学习项目需对齐。
+Nils Napp	Cornell	https://www.duffield.cornell.edu/people/nils-napp/	Adaptive robotics / autonomous construction / embodied intelligence	robotics	自适应机器人与实体建造，偏系统和物理交互；学习课题需具体筛选。
+Michael Yip	UC San Diego	https://yip.eng.ucsd.edu/	Robot learning / surgical robotics / autonomous surgery	ai-real	ARCLab 研究机器人学习与半自主手术，适合医疗 AI 与真机操作的交叉切入。
+Karen Liu	Stanford	https://profiles.stanford.edu/c-karen-liu	Reinforcement learning / physics simulation / robot motion	ai-pending	Stanford 官方覆盖 RL、机器人和物理仿真；不能由模拟角色与动画认定当前本组真机支持。
+Ahmed Qureshi	Purdue	https://www.cs.purdue.edu/people/faculty/qureshi7.html	Robot learning / neural planning / physical reasoning	ai-pending	官网列出神经运动规划与物理信息表示，具体当前真机评测及设备待确认。
+Matei Ciocarlie	Columbia	https://www.me.columbia.edu/faculty/matei-ciocarlie	Dexterous manipulation / robot learning / tactile perception	ai-real	官方明确机器人硬件与软件、传感、规划和学习，用于真实复杂操作。
+Tony Dear	Columbia	https://www.engineering.columbia.edu/faculty-staff/directory/tony-dear	Robot learning / dynamics / control / planning	robotics	学习与机器人动力学、控制和规划交叉；具体大模型或 world model 课题需进一步对齐。
+Alyosha Efros	UC Berkeley	https://www2.eecs.berkeley.edu/Faculty/Homepages/efros.html	Visual learning / generative models / image and video understanding	ai-pending	视觉与生成学习适合 world model 和视频表示；本组当前真机能力待确认。
+Jitendra Malik	UC Berkeley	https://www2.eecs.berkeley.edu/Faculty/Homepages/malik.html	Visual intelligence / embodied learning / robot adaptation	ai-real	学校与本人页面包含 embodied AI、robot learning 和真实机器人快速适应项目。
+Sicun Gao	UC San Diego	https://scungao.github.io/	Reinforcement learning / reliable AI / robot control	ai-pending	可靠 AI、学习控制与机器人研究，当前真机课题与硬件支持需确认。
+Mohit Bansal	UNC Chapel Hill	https://www.cs.unc.edu/~mbansal/	Multimodal learning / grounded language / embodied agents	ai-pending	多模态语言与具身 Agent 方法相关，仿真 benchmark 不作为真机证据。

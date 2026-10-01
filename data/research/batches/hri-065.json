@@ -1,0 +1,132 @@
+[
+  {
+    "id": "shanshan-yao",
+    "name": "Shanshan Yao",
+    "aliases": [],
+    "school": "Stony Brook University",
+    "homepage": "https://www.stonybrook.edu/mechanical-engineering/people/shanshan_yao_profile.html",
+    "title": "Associate Professor",
+    "department": "Mechanical Engineering; Yao Research Lab",
+    "batch": "hri-065",
+    "discoveredAt": "2026-10-01T05:37:53Z",
+    "verifiedAt": "2026-10-01T05:46:12Z",
+    "researchAreas": [
+      "Human-robot collaboration",
+      "Deep learning for myoelectric interfaces",
+      "Silent-speech recognition",
+      "Multimodal human-machine interaction",
+      "Soft sensors and haptics"
+    ],
+    "fitReason": "A visitor-first interdisciplinary option for a software-centered project in biosignal decoding or multimodal robot interaction. Much of the group focuses on materials and sensing, so an AI implementation/evaluation project should be agreed explicitly rather than assumed from its broader robotics description.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The complete author-hosted paper, published online October 1, 2024 and in a February 2025 journal issue, uses two temporal convolutional networks for speaker and keyword recognition from facial EMG. Decoded commands are passed through MQTT/ROS to a real manipulator for three computer-component assembly/disassembly scenarios, including two human operators. Parts occupy predefined locations; Vicon marker tracking and a hand-flip trigger coordinate handovers. This is learned intent decoding coupled to physical execution, not an end-to-end learned motion policy. The paper reports five-speaker, eighteen-keyword classification validation separately from the proof-of-concept robot demonstrations. Yao is corresponding author and the first author identifies her as his PhD supervisor. Exact robot model and campus ownership were not established, so the score is capped at 20. The May 2025 drone article reports a command-classification dataset and neural network; its accessible evidence does not verify real flight.",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only · live external-degree invitation",
+      "summary": "The university-hosted lab Openings page explicitly welcomes visiting students earning degrees at SBU or their home institutions, and requests a CV, research interests and supporting materials by email. This is a direct external-student inquiry route. The page is undated; its complete external-student invitation was verified live in the cloud browser after text extraction initially failed. It does not state a summer 2027 vacancy, eight-week minimum/maximum, stipend, personal-funding condition, or remote option.",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "scores": {
+      "fit": 34,
+      "physical": 20,
+      "shortVisit": 10,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "34/40: substantive temporal-convolutional intent decoding integrated with HRI, with substantial materials/sensor emphasis.",
+      "physical": "20/25: full physical handover methods and direct supervised-student linkage, but the experiment is older and campus/model ownership remains unverified.",
+      "shortVisit": "10/20: explicit external-degree visiting-student invitation; no confirmed summer 2027 eight-week placement or funding.",
+      "freshness": "10/15: a 2025 issue and newer 2025 neural-interface methods, with 2026 faculty status; no newly verified 2026 robot execution."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.stonybrook.edu / source 1",
+        "url": "https://www.stonybrook.edu/mechanical-engineering/people/shanshan_yao_profile.html",
+        "summary": "Current official Associate Professor title, 2026 promotion, department, public email and lab research scope.",
+        "verifiedAt": "2026-10-01T05:43:45Z"
+      },
+      {
+        "id": "s2",
+        "label": "you.stonybrook.edu / source 2",
+        "url": "https://you.stonybrook.edu/smmlab/sample-page/",
+        "summary": "Live university-hosted Openings page explicitly welcomes visiting students earning degrees at SBU or their home institutions and requests CV/research-interest email. This separate visitor paragraph was verified after an initial text-fetch failure; dates, duration and funding remain unspecified.",
+        "verifiedAt": "2026-10-01T05:46:12Z",
+        "retrieval": "direct live cloud-browser page"
+      },
+      {
+        "id": "s3",
+        "label": "penghao-dong.github.io / source 3",
+        "url": "https://penghao-dong.github.io/files/paper_hrc.pdf",
+        "summary": "Full author-hosted paper, especially Sections 2.2–2.4 and 3.4, verifies TCN command decoding, ROS/MQTT execution, predefined locations and Vicon-triggered physical handovers.",
+        "verifiedAt": "2026-10-01T05:43:45Z"
+      },
+      {
+        "id": "s4",
+        "label": "penghao-dong.github.io / source 4",
+        "url": "https://penghao-dong.github.io/",
+        "summary": "First author explicitly identifies Yao as his PhD supervisor; dates the HRC paper to October 2024.",
+        "verifiedAt": "2026-10-01T05:43:45Z"
+      },
+      {
+        "id": "s5",
+        "label": "advanced.onlinelibrary.wiley.com / source 5",
+        "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/admt.202400990",
+        "summary": "Publisher metadata distinguishes first online publication October 1, 2024 from the February 19, 2025 issue.",
+        "verifiedAt": "2026-10-01T05:43:45Z"
+      },
+      {
+        "id": "s6",
+        "label": "onlinelibrary.wiley.com / source 6",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1111/mice.13520",
+        "summary": "May 28, 2025 drone-command study describes the sCPD dataset and cross-subject classification; available primary text does not establish physical flight.",
+        "verifiedAt": "2026-10-01T05:43:45Z"
+      },
+      {
+        "id": "s7",
+        "label": "you.stonybrook.edu / source 7",
+        "url": "https://you.stonybrook.edu/smmlab/publications/",
+        "summary": "Search-indexed lab publication list confirms both studies and broader sensing/materials emphasis.",
+        "verifiedAt": "2026-10-01T05:43:45Z",
+        "retrieval": "official indexed publication list"
+      },
+      {
+        "id": "s8",
+        "label": "www.stonybrook.edu / source 8",
+        "url": "https://www.stonybrook.edu/visa/departments/hiring-and-hosting/how-to-host-a-j-1-scholar/j-1-student-interns.html",
+        "summary": "Existing institutional review: overseas-degree Student Intern route, non-matriculated admission, term enrollment and calendar constraints.",
+        "verifiedAt": "2026-10-01T03:25:17Z",
+        "retrieval": "Previously verified institutional source reused, not a fresh fetch"
+      },
+      {
+        "id": "s9",
+        "label": "www.stonybrook.edu / source 9",
+        "url": "https://www.stonybrook.edu/visa/departments/forms-and-templates/student-intern-invitation-letter.html",
+        "summary": "Existing institutional review: July 2, 2026 invitation template includes graduate/undergraduate interns and personal/external self-funding.",
+        "verifiedAt": "2026-10-01T03:25:17Z",
+        "retrieval": "Previously verified institutional source reused, not a fresh fetch"
+      }
+    ],
+    "unknowns": [
+      "The current official faculty profile explicitly dates promotion to Associate Professor to 2026. Older lab and news biographies still say Assistant Professor.",
+      "Reuse the existing Stony Brook feasibility review. Overseas-degree Student Intern processing requires host approval, non-matriculated admission and one research/internship credit per academic term, with academic-calendar alignment. Exact eight-week summer dates and course charges require confirmation.",
+      "The July 2, 2026 university invitation template expressly permits personal or external self-funding for approved graduate/undergraduate Student Interns. This institutional option does not establish lab acceptance or a funding offer.",
+      "Current published submission deadlines are March 15 for Summer I or I–II and April 15 for Summer II; verify the 2027 calendar and all current insurance, tuition, fees and support requirements. Historical summer cost tables must not be presented as 2027 quotes.",
+      "The robot proof of concept predates the 2025 journal issue. Later sensor-classification papers, a 2026 tactile-sensing collaboration and equipment grants do not establish a newer autonomous robot deployment.",
+      "Biosignal collection and work involving human participants may require separate ethics approval and approved access. No patient efficacy or clinical visitor access is inferred.",
+      "The first exact preserved source/referral observation is 2026-10-01T05:37:53Z. Any earlier preliminary lead time was not retained and is not reconstructed.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Stony Brook institutional visitor rules](../eligibility_notes.md#stony-brook)"
+    ],
+    "publicEmail": "shanshan.yao@stonybrook.edu",
+    "discoveryTimestampNote": "First precisely preserved source-observation time; earlier preliminary lead time is unavailable and was not reconstructed."
+  }
+]

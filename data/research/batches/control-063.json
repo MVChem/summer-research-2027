@@ -1,0 +1,311 @@
+[
+  {
+    "id": "murat-arcak",
+    "name": "Murat Arcak",
+    "aliases": [],
+    "school": "University of California, Berkeley",
+    "homepage": "https://people.eecs.berkeley.edu/~arcak/",
+    "title": "Professor; Robert M. Saunders Endowed Chair",
+    "department": "Electrical Engineering and Computer Sciences; Mechanical Engineering",
+    "batch": "control-063",
+    "discoveredAt": "2026-10-01T04:56:23Z",
+    "verifiedAt": "2026-10-01T05:00:30Z",
+    "researchAreas": [
+      "Safe learning-based control",
+      "Manipulation-policy safeguards",
+      "Formal verification",
+      "Reinforcement learning",
+      "Multi-agent control"
+    ],
+    "fitReason": "Safe physical-AI methods with current directed-group robot execution, although the broader group also emphasizes mathematical control and verification.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "June 2026 Any-Body Guard executes a vision diffusion policy on UFactory xArm7, safeguarded by X-Safe action masking. The five-rollout learned-policy test uses a virtual obstacle; physical-obstacle demos are separately teleoperated. Bimanual VLA tests are simulation. Current group lists first author Alex Beaudin and co-first author Hanna Krasowski, establishing directed-group linkage rather than mere coauthorship.",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current faculty/group sources establish active Berkeley supervision, but no explicit external-master’s short-visit invitation was verified. Institutional visiting-research mechanisms do not establish this lab’s capacity.",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Learning-policy assurance and physical robotics are substantive, alongside broader control theory.",
+      "physical": "Current advised PhD/postdoc project executes an actual robot; limited evaluation scope explicitly retained.",
+      "shortVisit": "No qualifying external short-visit invitation verified.",
+      "freshness": "June 2026 primary paper and current faculty/group verification."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www2.eecs.berkeley.edu / source 1",
+        "url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/arcak.html",
+        "summary": "Official endowed professor and public email.",
+        "verifiedAt": "2026-10-01T05:00:30Z",
+        "retrieval": "Direct official or author-primary HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "people.eecs.berkeley.edu / source 2",
+        "url": "https://people.eecs.berkeley.edu/~arcak/",
+        "summary": "Current joint EECS/ME faculty and learning/control scope.",
+        "verifiedAt": "2026-10-01T05:00:30Z",
+        "retrieval": "Direct official or author-primary HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "people.eecs.berkeley.edu / source 3",
+        "url": "https://people.eecs.berkeley.edu/~arcak/people.html",
+        "summary": "Alex Beaudin PhD and Hanna Krasowski postdoc roster.",
+        "verifiedAt": "2026-10-01T05:00:30Z",
+        "retrieval": "Direct official or author-primary HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "hanna.krasowski.io / source 4",
+        "url": "https://hanna.krasowski.io/",
+        "summary": "Current postdoc confirms Arcak group and Seshia mentorship.",
+        "verifiedAt": "2026-10-01T05:00:30Z",
+        "retrieval": "Direct official or author-primary HTML via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2606.22278v1",
+        "summary": "Primary full paper: Sections5–6 and appendices separate physical diffusion execution, virtual obstruction, teleoperation and simulated VLA.",
+        "verifiedAt": "2026-10-01T05:00:30Z",
+        "retrieval": "Direct official or author-primary HTML via web.run"
+      }
+    ],
+    "unknowns": [
+      "Safeguard guarantees are probabilistic and depend on quasi-static scene/kinematic assumptions; dynamic-human collision safety is not established. Hardware activity does not promise visitor access. Eight-week dates, specific supervision, appointment, fees, funding and 2027 availability remain unknown. Reuse existing Berkeley supplement.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#berkeley-vsr)"
+    ],
+    "publicEmail": "arcak@berkeley.edu"
+  },
+  {
+    "id": "sanjit-a-seshia",
+    "name": "Sanjit A. Seshia",
+    "aliases": [
+      "Sanjit Seshia"
+    ],
+    "school": "University of California, Berkeley",
+    "homepage": "https://people.eecs.berkeley.edu/~sseshia/",
+    "title": "Cadence Founders Chair Professor",
+    "department": "Electrical Engineering and Computer Sciences",
+    "batch": "control-063",
+    "discoveredAt": "2026-10-01T04:50:50Z",
+    "verifiedAt": "2026-10-01T05:00:30Z",
+    "researchAreas": [
+      "Verified artificial intelligence",
+      "Robot-policy safety",
+      "Neuro-symbolic systems",
+      "Formal methods",
+      "Learning-enabled cyber-physical systems"
+    ],
+    "fitReason": "A formal-methods-centered physical-AI option through verified learned-policy execution, complemented by AI programming and simulation research.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "June 2026 Any-Body Guard provides actual xArm7 diffusion-policy execution. Its learned-policy obstacle is virtual; separate physical-obstacle runs use teleoperation, and bimanual VLA tests are simulation. Co-first author Hanna Krasowski is explicitly Seshia’s current co-mentored postdoc on both faculty and researcher pages. This establishes current directed-group involvement; exclusive hardware ownership is not asserted. RHO’s robot-code benchmarks are simulation and earn no extra physical credit.",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Prospective graduate guidance addresses Berkeley-admitted/enrolled students or formal admission. It usually declines external undergraduate summer interns; that statement does not directly exclude master’s visitors, but no external-master’s short-visit invitation was found. Historical visiting PhD students are precedent only.",
+      "sourceIds": [
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantive AI assurance, with a broad formal-methods emphasis rather than exclusively robot learning.",
+      "physical": "Actual current co-mentored researcher’s robot study, with physical/simulated boundaries preserved.",
+      "shortVisit": "No applicable external-master’s short-visitor invitation.",
+      "freshness": "June 2026 primary robot/AI work and current official faculty verification."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www2.eecs.berkeley.edu / source 1",
+        "url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/seshia.html",
+        "summary": "Official current endowed professor and public email.",
+        "verifiedAt": "2026-10-01T05:00:30Z",
+        "retrieval": "Direct official or author-primary HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "people.eecs.berkeley.edu / source 2",
+        "url": "https://people.eecs.berkeley.edu/~sseshia/",
+        "summary": "Current co-mentored postdoc Hanna Krasowski; broader verified-AI scope.",
+        "verifiedAt": "2026-10-01T05:00:30Z",
+        "retrieval": "Direct official or author-primary HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "hanna.krasowski.io / source 3",
+        "url": "https://hanna.krasowski.io/",
+        "summary": "Researcher independently confirms current Seshia mentorship.",
+        "verifiedAt": "2026-10-01T05:00:30Z",
+        "retrieval": "Direct official or author-primary HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2606.22278v1",
+        "summary": "Primary robot-safeguarding paper, limited real xArm7 experiment; simulation/teleoperation remain separate.",
+        "verifiedAt": "2026-10-01T05:00:30Z",
+        "retrieval": "Direct official or author-primary HTML via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "rho-robotics.github.io / source 5",
+        "url": "https://rho-robotics.github.io/",
+        "summary": "Author project explicitly describes simulation code-policy results.",
+        "verifiedAt": "2026-10-01T05:00:30Z",
+        "retrieval": "Direct official or author-primary HTML via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "people.eecs.berkeley.edu / source 6",
+        "url": "https://people.eecs.berkeley.edu/~sseshia/prospective-students.html",
+        "summary": "Graduate degree-admission guidance and usual outside-undergraduate internship restriction; no external-master visitor invitation.",
+        "verifiedAt": "2026-10-01T05:00:30Z",
+        "retrieval": "Direct official or author-primary HTML via web.run"
+      }
+    ],
+    "unknowns": [
+      "Any-Body Guard supplies current physical evidence; the separate RHO results remain simulation-only. No generic college/member invitation is attributed to Seshia. Eight-week project, host approval, funding, appointment and summer 2027 capacity remain unknown; reuse Berkeley eligibility supplement.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#berkeley-vsr)"
+    ],
+    "publicEmail": "sseshia@eecs.berkeley.edu"
+  },
+  {
+    "id": "philip-dames",
+    "name": "Philip Dames",
+    "aliases": [],
+    "school": "Temple University",
+    "homepage": "https://sites.temple.edu/trail/",
+    "title": "Associate Professor; Temple Robotics and Artificial Intelligence Lab Director",
+    "department": "Mechanical Engineering",
+    "batch": "control-063",
+    "discoveredAt": "2026-10-01T04:56:23Z",
+    "verifiedAt": "2026-10-01T05:00:30Z",
+    "researchAreas": [
+      "Deep reinforcement-learning navigation",
+      "Probabilistic scene prediction",
+      "Learned occupancy maps",
+      "LLM-guided multi-robot systems",
+      "Uncertainty-aware robot control"
+    ],
+    "fitReason": "Strong safe robot-learning and multi-robot match, with actual learned navigation in busy university hallways and an explicit institutional graduate-intern category.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "SCOPE’s June 2025 primary revision executes DRL-VO navigation with learned SO-SCOPE occupancy prediction and YOLOv3 on a physical TurtleBot2 with Jetson Xavier, Hokuyo LiDAR and ZED camera, avoiding moving pedestrians in Temple hallways. The physical learned stack traveled 86.41 m; its crowd-density success tables are Gazebo, and SCAND Jackal/Spot data are separate offline evaluation. Lab lists coauthor Zhanteng Xie as its 2024 PhD alumnus. DELIVER additionally executes LLaMA3-parsed relay waypoints on three TurtleBot3s in a 1.7 m-square obstacle-free testbed; package/LED coordination should not be upgraded to dexterous object handover.",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current lab and publications are active through 2026, but no lab-level invitation for external-master’s short visits was verified. Temple’s explicit graduate Student Intern mechanism is an institutional pathway, not a Dames lab offer.",
+      "sourceIds": [
+        "s3",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Deep prediction/control and language-guided robot coordination with physical deployment.",
+      "physical": "Specific learned TurtleBot2 navigation at current host; directed-lab publication and former-advisee linkage.",
+      "shortVisit": "University eligibility alone does not prove a lab short-visit opportunity.",
+      "freshness": "Current lab 2026 publications and 2025 full primary hardware study."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.temple.edu / source 1",
+        "url": "https://engineering.temple.edu/directory/philip-dames-tug85627",
+        "summary": "Current official associate professor and TRAIL director.",
+        "verifiedAt": "2026-10-01T05:00:30Z",
+        "retrieval": "Direct official or author-primary HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "sites.temple.edu / source 2",
+        "url": "https://sites.temple.edu/trail/people/",
+        "summary": "Xie is lab PhD 2024 alumnus; DELIVER current student authors listed.",
+        "verifiedAt": "2026-10-01T05:00:30Z",
+        "retrieval": "Direct official or author-primary HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "sites.temple.edu / source 3",
+        "url": "https://sites.temple.edu/trail/publications/",
+        "summary": "Current2026 publications and lab ownership of SCOPE/DELIVER research.",
+        "verifiedAt": "2026-10-01T05:00:30Z",
+        "retrieval": "Direct official or author-primary HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2407.00144v2",
+        "summary": "Primary full paper VI-B/D, actual Temple TurtleBot2 deployment, learned stack and dataset/simulation distinctions.",
+        "verifiedAt": "2026-10-01T05:00:30Z",
+        "retrieval": "Direct official or author-primary HTML via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2508.19114v1",
+        "summary": "Primary DELIVER full paper V-C; small physical navigation/relay test, public PI email and Temple affiliations.",
+        "verifiedAt": "2026-10-01T05:00:30Z",
+        "retrieval": "Direct official or author-primary HTML via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "grad.temple.edu / source 6",
+        "url": "https://grad.temple.edu/postdoctoral-affairs/postdoctoral-visiting-scholar-categories",
+        "summary": "Institutional graduate Student Intern criteria and personal-funding permission; no lab offer.",
+        "verifiedAt": "2026-10-01T05:00:30Z",
+        "retrieval": "Direct official or author-primary HTML via web.run"
+      }
+    ],
+    "unknowns": [
+      "Temple Graduate School expressly includes outside-US graduate Student Interns holding a bachelor’s/master’s, with personal funding among allowed sources; ISSS requires original-degree graduation linkage and three-week to twelve-month duration. Eight weeks fits the interval. Current annual support of $24,000 requires approved short-visit calculation and 2027 recheck; complete application at least two months before start. Host approval, project, funds, fees and dates remain unconfirmed. See new Temple supplement.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#temple)"
+    ],
+    "publicEmail": "pdames@temple.edu"
+  }
+]

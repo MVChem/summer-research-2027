@@ -875,3 +875,11 @@ Sources: [Guides and Forms](https://www.lamar.edu/international-education/intern
 [2026 年 9 月 23 日版院系 DS-2019 表](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/4/5424/files/2026/09/J-1ScholarInitialDS-2019DocumentRequest.pdf) 将至少 51% 非个人资金条件列于其本科生 Non-Degree Student 类别；[Scholar 资金页面](https://ic.uci.edu/scholar-home-page/scholars/new-j-1-scholars/j-1-scholar-financial-documentation/) 接受个人／家庭资金材料，不能把任一规则直接推广为所有硕士访问的批准或禁令。当前单人支持基准为每月 2,500 美元，表内已考虑保险等基本开支，这是财力证明基准而非学校账单；两个月示例为 5,000 美元，精确日期、实际生活成本及 2027 金额另核实。
 
 [院系邀请流程](https://ic.uci.edu/departments/department-j-1-scholar/department-j-1-scholar-inviting-a-j-1-scholar/) 建议提前 60–90 天，完整申请后通常 15 个工作日处理文件，另需出口管制及适用的研究安全审查。[当前链接的 recharge 表](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/4/5424/files/2024/01/RechargeFormforJ-1andH-1B-2b6303f25d092414.pdf) 列 50 美元 J-1 院系处理费，但表格修订于 2022 年，2027 实际金额和承担方待确认。J-1 须主要线下，不能视为全远程访问方案。机构路径不代表导师名额，也不覆盖实验室自己的最低访问时长。
+
+<a id="temple"></a>
+
+## Temple · 明确的外校研究生 Student Intern 路径
+
+核查：2026-10-01T04:59:11Z。[Graduate School 类别页](https://grad.temple.edu/postdoctoral-affairs/postdoctoral-visiting-scholar-categories)明确包含美国境外学校持续在读、已有学士或硕士的 J-1 Graduate Student Intern，不包括双学位／联合学位项目；列每年至少24,000美元，并明确接受个人资金等来源。八周的财力折算、具体任命的全个人出资批准与2027金额须重核，不能套用相邻 Scholar in Residence 的个人资金禁令。
+
+[ISSS 分类](https://global.temple.edu/isss/faculty-staff-researchers/j-1-research-scholars-professor/prospective-j-1-exchange-visitors)要求研究服务原校毕业要求，Student Intern 为三周至十二个月；八周符合公开时长。需导师和院系先接收，再由 ISSS 核定身份。[申请页](https://global.temple.edu/isss/faculty-staff-researchers/j-1-research-scholars-professor/prospective-j-1-exchange-visitors/j-1-scholar-application-requirements)要求完整申请至少提前两个月，包含原校证明、任命、英语、保险和财力；五至七天只是文件处理阶段。处理费及全部成本未确证，学校机制不是实验室名额。

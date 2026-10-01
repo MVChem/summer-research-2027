@@ -71,6 +71,7 @@
     "batches/control-060.json",
     "batches/control-061.json",
     "batches/control-062.json",
+    "batches/control-063.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -3753,6 +3754,89 @@
       "shortVisitStatus": "degree-only",
       "recordFile": "batches/control-062.json",
       "detailPage": "batches/control-062.md#miroslav-pajic"
+    },
+    {
+      "id": "murat-arcak",
+      "name": "Murat Arcak",
+      "aliases": [],
+      "school": "University of California, Berkeley",
+      "title": "Professor; Robert M. Saunders Endowed Chair",
+      "homepage": "https://people.eecs.berkeley.edu/~arcak/",
+      "batch": "control-063",
+      "discoveredAt": "2026-10-01T04:56:23Z",
+      "verifiedAt": "2026-10-01T05:00:30Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Safe learning-based control",
+        "Manipulation-policy safeguards",
+        "Formal verification",
+        "Reinforcement learning",
+        "Multi-agent control"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-063.json",
+      "detailPage": "batches/control-063.md#murat-arcak"
+    },
+    {
+      "id": "sanjit-a-seshia",
+      "name": "Sanjit A. Seshia",
+      "aliases": [
+        "Sanjit Seshia"
+      ],
+      "school": "University of California, Berkeley",
+      "title": "Cadence Founders Chair Professor",
+      "homepage": "https://people.eecs.berkeley.edu/~sseshia/",
+      "batch": "control-063",
+      "discoveredAt": "2026-10-01T04:50:50Z",
+      "verifiedAt": "2026-10-01T05:00:30Z",
+      "scores": {
+        "fit": 37,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Verified artificial intelligence",
+        "Robot-policy safety",
+        "Neuro-symbolic systems",
+        "Formal methods",
+        "Learning-enabled cyber-physical systems"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-063.json",
+      "detailPage": "batches/control-063.md#sanjit-a-seshia"
+    },
+    {
+      "id": "philip-dames",
+      "name": "Philip Dames",
+      "aliases": [],
+      "school": "Temple University",
+      "title": "Associate Professor; Temple Robotics and Artificial Intelligence Lab Director",
+      "homepage": "https://sites.temple.edu/trail/",
+      "batch": "control-063",
+      "discoveredAt": "2026-10-01T04:56:23Z",
+      "verifiedAt": "2026-10-01T05:00:30Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Deep reinforcement-learning navigation",
+        "Probabilistic scene prediction",
+        "Learned occupancy maps",
+        "LLM-guided multi-robot systems",
+        "Uncertainty-aware robot control"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-063.json",
+      "detailPage": "batches/control-063.md#philip-dames"
     },
     {
       "id": "tom-silver",

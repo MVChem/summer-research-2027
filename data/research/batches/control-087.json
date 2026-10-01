@@ -1,0 +1,222 @@
+[
+  {
+    "id": "richard-m-voyles",
+    "name": "Richard M. Voyles",
+    "aliases": [
+      "Richard Voyles",
+      "Richard Meredith Voyles",
+      "Rich Voyles"
+    ],
+    "school": "University of Texas at Arlington",
+    "homepage": "https://web.ics.purdue.edu/~rvoyles/",
+    "title": "Professor; Automation and Robotics Chair; UTARI Executive Director",
+    "department": "Computer Science and Engineering; UTA Research Institute",
+    "batch": "control-087",
+    "discoveredAt": "2026-10-01T05:47:24Z",
+    "verifiedAt": "2026-10-01T09:52:18Z",
+    "researchAreas": [
+      "Robot coaching and reinforcement learning",
+      "Learning from demonstration",
+      "Medical robotics",
+      "Robot design and autonomy"
+    ],
+    "fitReason": "Substantive learned manipulation/coaching with prior real hardware and a continuing robot-AI program.",
+    "physicalEvidence": {
+      "status": "Prior-host learned robot verified; current-site access unverified",
+      "summary": "The completeSeptember 2024 coaching paper runs SAC on a real Sawyer with an ultrasound probe and wrist force sensor, scanning two bladder phantoms. ResNet50-based image quality supplies the learning reward; sparse kinesthetic corrections update the policy through a separate coaching buffer. The script pauses motion for expert intervention, then resumes. Learned policies are evaluated in 10trials each. The paper explicitly says this work was primarily conducted at Purdue; it is not patient validation or current UTA platform access. Physical20. A 2026 VLA survey proves current research activity, not new physical execution.",
+      "sourceIds": [
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current applicable external-master short-visitor invitation was verified. Current research leadership and generic university research opportunities do not establish an available 2027 visit.",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Actual robot RL and correction-based learning, beyond generic AI or sensing.",
+      "physical": "Fully verified Purdue learned Sawyer execution, capped20 after move.",
+      "shortVisit": "No explicit applicable short-visitor invitation.",
+      "freshness": "ExplicitApril 2026 robot-learning survey and university 2026 research-leadership profile, separated from older hardware."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.uta.edu / source 1",
+        "url": "https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/faculty-directory",
+        "summary": "Current UTA professor and public email.",
+        "verifiedAt": "2026-10-01T09:52:18Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "web.ics.purdue.edu / source 2",
+        "url": "https://web.ics.purdue.edu/~rvoyles/",
+        "summary": "PI-updated page explicitly records move to UTA and UTARI leadership despite Purdue URL.",
+        "verifiedAt": "2026-10-01T09:52:18Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "web.ics.purdue.edu / source 3",
+        "url": "https://web.ics.purdue.edu/~rvoyles/bio.html",
+        "summary": "Current UTA chair/director and independently attributable learning-from-observation/coaching program.",
+        "verifiedAt": "2026-10-01T09:52:18Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2409.02337v1",
+        "summary": "FullCC-BY primary methods verify real Sawyer SAC/coaching on phantoms and explicit Purdue provenance.",
+        "verifiedAt": "2026-10-01T09:52:18Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "www.elspub.com / source 5",
+        "url": "https://www.elspub.com/doi/10.55092/rl20260010",
+        "summary": "April 27, 2026 robot-learning survey includes Voyles with current UTA affiliation; review is not hardware execution.",
+        "verifiedAt": "2026-10-01T09:52:18Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "www.uta.edu / source 6",
+        "url": "https://www.uta.edu/news/publications/inquiry-magazine/2026",
+        "summary": "University 2026 issue independently confirms 2025 appointment to UTARI.",
+        "verifiedAt": "2026-10-01T09:52:18Z",
+        "retrieval": "Direct official/primary source via web.run"
+      }
+    ],
+    "unknowns": [
+      "Reuse UTA Student Intern note: ongoing outside-US degree, degree-related purpose, at least32h/week and up to12months; exact master appointment and funding still need approval. Scholar personal-funding permission and the undated $1,467/month figure do not automatically apply to Intern or 2027. Formal invitation follows research-security/export screening. Project site, access, insurance, fees and summer capacity remain unknown. Prior Purdue ultrasound work does not promise UTA equipment or patient access. The still-Purdue-hosted personal page explicitly updates his current UTA role.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#ut-arlington)"
+    ],
+    "candidateTier": "Robotics-AI with prior-host learned hardware; current-site execution unverified",
+    "publicEmail": "richard.voyles@uta.edu"
+  },
+  {
+    "id": "esen-yel",
+    "name": "Esen Yel",
+    "aliases": [],
+    "school": "Rensselaer Polytechnic Institute",
+    "homepage": "https://risl-rpi.github.io/",
+    "title": "Assistant Professor; Reliable Intelligent Systems Lab Director",
+    "department": "Electrical, Computer, and Systems Engineering; RISL",
+    "batch": "control-087",
+    "discoveredAt": "2026-10-01T04:55:27Z",
+    "verifiedAt": "2026-10-01T09:52:18Z",
+    "researchAreas": [
+      "Safe adaptive robot learning",
+      "Meta-learning for UAV planning",
+      "Runtime monitoring",
+      "Planning under uncertainty"
+    ],
+    "fitReason": "Direct co-first-author adaptive-learning UAV safety methods and current uncertainty-aware autonomy research.",
+    "physicalEvidence": {
+      "status": "Prior-host learned robot verified; current-site access unverified",
+      "summary": "The complete 2022 RA-L paper validates meta-learned state/uncertainty prediction on an actual AscTec Hummingbird with ROS and Vicon. Pitch-command biases emulate faults; the motors are not physically damaged. Predicted collision risk triggers sampled-waypoint replanning over a baseline PID flight controller. Disabled-replanning tests fly above the obstacle to avoid damaging the UAV, rather than intentionally crashing it. These are prior UVA/Stanford-era experiments, not new RPI hardware. Physical18 reflects older controlled-lab evidence; current 2026 belief-space planning publications do not establish a fresh physical deployment.",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "degree-only · 已列MS/本科入口限本校",
+      "summary": "The live joining page separates RPI undergraduates, PhD admissions and already admitted/enrolled RPI master students. No external-master short-visit invitation was verified.",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 18,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantive meta-learned prediction linked to actual reactive robot planning.",
+      "physical": "Older controlled-lab flight and prior host, conservatively18; simulated faults and PID baseline explicit.",
+      "shortVisit": "Local master route does not establish external short visiting.",
+      "freshness": "DatedJanuary/March 2026 methods publications; current-year verification alone is not used."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "faculty.rpi.edu / source 1",
+        "url": "https://faculty.rpi.edu/esen-yel",
+        "summary": "Current assistant professor, RISL director and RPI email.",
+        "verifiedAt": "2026-10-01T09:52:18Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "ecse.rpi.edu / source 2",
+        "url": "https://ecse.rpi.edu/news/ecse-welcomes-new-faculty-member-dr-esen-yel",
+        "summary": "OfficialJanuary 2024 appointment after Stanford postdoc.",
+        "verifiedAt": "2026-10-01T09:52:18Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "risl-rpi.github.io / source 3",
+        "url": "https://risl-rpi.github.io/howtojoin/",
+        "summary": "Current local undergraduate/master and PhD directions; no separate external short visitor.",
+        "verifiedAt": "2026-10-01T09:52:18Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "shijiegao.github.io / source 4",
+        "url": "https://shijiegao.github.io/assets/files/publications/Meta-Learning-based-Proactive-Online_Planning_for_UAVs_under_Degraded_Conditions.pdf",
+        "summary": "Complete8-page author-hosted 2022 primary methods, actual Hummingbird/Vicon and emulated-fault limitations.",
+        "verifiedAt": "2026-10-01T09:52:18Z",
+        "retrieval": "Public author-hosted PDF downloaded and complete experiment section inspected"
+      },
+      {
+        "id": "s5",
+        "label": "risl-rpi.github.io / source 5",
+        "url": "https://risl-rpi.github.io/publications/",
+        "summary": "Current 2026 Backward MCTS/JAIR and task-update POMDP publications; older UAV work separately identified.",
+        "verifiedAt": "2026-10-01T09:52:18Z",
+        "retrieval": "Direct lab HTML via web.run and shell HTML text"
+      },
+      {
+        "id": "s6",
+        "label": "github.com / source 6",
+        "url": "https://github.com/sisl/BackwardMCTS",
+        "summary": "Author-lab repository identifies January 2026 JAIR paper, including Yel.",
+        "verifiedAt": "2026-10-01T09:52:18Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "arxiv.org / source 7",
+        "url": "https://arxiv.org/abs/2603.12340",
+        "summary": "ExplicitMarch 2026 POMDP methods preprint, simulated announcement-control task; not new robot hardware.",
+        "verifiedAt": "2026-10-01T09:52:18Z",
+        "retrieval": "Direct official/primary source via web.run"
+      }
+    ],
+    "unknowns": [
+      "Reuse RPI policy: its Student Intern route is explicitly undergraduate-only. A different Scholar/Short-Term Scholar appointment may be possible, but outside-master eligibility is unresolved and must be determined by ISSS/department. Current scholar page lists $1,700/month and accepts personal bank evidence;2027 costs and category-specific personal-funding approval require confirmation. Export review can take four weeks or more, before the rest of the visit/visa process. Do not transfer UVA equipment access to RPI or treat current local-master recruitment as an outside invitation.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: First precisely preserved source-observation time; earlier preliminary lead time is unavailable and was not reconstructed.",
+      "[Institutional visitor rules](../eligibility_notes.md#rpi)"
+    ],
+    "candidateTier": "Robotics-AI with prior-host learned hardware; current-site execution unverified",
+    "discoveryTimestampNote": "First precisely preserved source-observation time; earlier preliminary lead time is unavailable and was not reconstructed.",
+    "publicEmail": "yele@rpi.edu"
+  }
+]

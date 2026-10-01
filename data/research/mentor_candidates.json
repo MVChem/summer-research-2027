@@ -95,6 +95,7 @@
     "batches/control-084.json",
     "batches/control-085.json",
     "batches/control-086.json",
+    "batches/control-087.json",
     "batches/control-090.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
@@ -5105,6 +5106,69 @@
       "shortVisitStatus": "inquiry-only · 明确短访入口；不提供无薪志愿岗位",
       "recordFile": "batches/control-086.json",
       "detailPage": "batches/control-086.md#h-eric-tseng"
+    },
+    {
+      "id": "richard-m-voyles",
+      "name": "Richard M. Voyles",
+      "aliases": [
+        "Richard Voyles",
+        "Richard Meredith Voyles",
+        "Rich Voyles"
+      ],
+      "school": "University of Texas at Arlington",
+      "title": "Professor; Automation and Robotics Chair; UTARI Executive Director",
+      "homepage": "https://web.ics.purdue.edu/~rvoyles/",
+      "batch": "control-087",
+      "discoveredAt": "2026-10-01T05:47:24Z",
+      "verifiedAt": "2026-10-01T09:52:18Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Robot coaching and reinforcement learning",
+        "Learning from demonstration",
+        "Medical robotics",
+        "Robot design and autonomy"
+      ],
+      "candidateTier": "Robotics-AI with prior-host learned hardware; current-site execution unverified",
+      "physicalEvidenceStatus": "Prior-host learned robot verified; current-site access unverified",
+      "physicalEvidenceLabel": "受限真机证据：Prior-host learned robot verified; current-site access unverified",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-087.json",
+      "detailPage": "batches/control-087.md#richard-m-voyles"
+    },
+    {
+      "id": "esen-yel",
+      "name": "Esen Yel",
+      "aliases": [],
+      "school": "Rensselaer Polytechnic Institute",
+      "title": "Assistant Professor; Reliable Intelligent Systems Lab Director",
+      "homepage": "https://risl-rpi.github.io/",
+      "batch": "control-087",
+      "discoveredAt": "2026-10-01T04:55:27Z",
+      "verifiedAt": "2026-10-01T09:52:18Z",
+      "scores": {
+        "fit": 38,
+        "physical": 18,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Safe adaptive robot learning",
+        "Meta-learning for UAV planning",
+        "Runtime monitoring",
+        "Planning under uncertainty"
+      ],
+      "discoveryTimestampNote": "First precisely preserved source-observation time; earlier preliminary lead time is unavailable and was not reconstructed.",
+      "candidateTier": "Robotics-AI with prior-host learned hardware; current-site execution unverified",
+      "physicalEvidenceStatus": "Prior-host learned robot verified; current-site access unverified",
+      "physicalEvidenceLabel": "受限真机证据：Prior-host learned robot verified; current-site access unverified",
+      "shortVisitStatus": "degree-only · 已列MS/本科入口限本校",
+      "recordFile": "batches/control-087.json",
+      "detailPage": "batches/control-087.md#esen-yel"
     },
     {
       "id": "jun-chen",

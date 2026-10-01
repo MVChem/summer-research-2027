@@ -1,0 +1,103 @@
+[
+  {
+    "id": "alexandra-ion",
+    "name": "Alexandra Ion",
+    "aliases": [],
+    "school": "Carnegie Mellon University",
+    "homepage": "https://hcii.cmu.edu/people/alexandra-ion",
+    "title": "Assistant Professor; Interim Associate Director of HCI Undergraduate Programs",
+    "department": "Human-Computer Interaction Institute; courtesy Robotics Institute and Mechanical Engineering",
+    "batch": "hri-050",
+    "discoveredAt": "2026-10-01T03:30:40Z",
+    "verifiedAt": "2026-10-01T04:28:48Z",
+    "researchAreas": [
+      "Human-centered physical AI",
+      "Vision-language-driven proactive assistance",
+      "Robotic everyday objects",
+      "Computational fabrication",
+      "Human-robot interaction"
+    ],
+    "fitReason": "A strong physically grounded human-AI interaction option for a CS researcher interested in multimodal perception, intent reasoning and assistive action generation. The lab combines software with building physical interfaces; a purely software-only project is not guaranteed.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Object Agents (UIST 2025) links GPT-4o/mini scene and intent reasoning with fine-tuned YOLOv11-OBB perception and actual two-wheeled, Bluetooth-controlled everyday objects. A ceiling camera and external computer provide sensing, hybrid A* planning and PD control; onboard Arduino devices execute motor commands. The prototype’s perception/reasoning loop runs continuously, with reported 5–10-second end-to-end latency. Physical application demonstrations are separate from the user study, which rates recommendations generated from recorded videos. The first author, Violet Han, is a currently listed Ion advisee. The 2026 architectural-interaction study is Wizard-of-Oz and is not evidence of new autonomous AI control.",
+      "sourceIds": [
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "The live lab Work with us page explicitly accepts internship applications by email with CV, work samples, transcript, preferred start and duration, and two recommendation contacts. This internship section is separate from the CMU-only undergraduate/master’s independent-study section. No eight-week minimum, external degree-stage rule, 2027 availability, stipend or personal-funding arrangement is specified.",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 25,
+      "shortVisit": 8,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "37/40: close multimodal reasoning, physical assistance and HRI match; interface-building emphasis differs from general manipulation learning.",
+      "physical": "25/25: own-current-advisee full primary prototype continuously links AI outputs to actual robotic-object actuation.",
+      "shortVisit": "8/20: explicit current internship inquiry with proposed duration, but no confirmed external-master’s eight-week/2027 placement.",
+      "freshness": "A distinct dated 2026 architectural-interaction study establishes current research activity; its Wizard-of-Oz design does not change the separately dated 2025 autonomous-prototype evidence."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "hcii.cmu.edu / source 1",
+        "url": "https://hcii.cmu.edu/people/alexandra-ion",
+        "summary": "Full current official directory verifies Assistant Professor, HCII role, public email and Violet Han as an advisee.",
+        "verifiedAt": "2026-10-01T04:28:48Z"
+      },
+      {
+        "id": "s2",
+        "label": "alexandraion.com / source 2",
+        "url": "https://alexandraion.com/",
+        "summary": "Full current faculty page verifies courtesy robotics/ME appointments and current physical-AI research scope.",
+        "verifiedAt": "2026-10-01T03:32:43Z"
+      },
+      {
+        "id": "s3",
+        "label": "interactive-structures.org / source 3",
+        "url": "https://interactive-structures.org/join.html",
+        "summary": "Full live page last updated September 21, 2026 contains an explicit internship application route and asks for proposed dates/duration; CMU-only project listings are separately labeled.",
+        "verifiedAt": "2026-10-01T04:28:48Z"
+      },
+      {
+        "id": "s4",
+        "label": "interactive-structures.org / source 4",
+        "url": "https://interactive-structures.org/assets/publications/2025-09-object-agents/paper.pdf",
+        "summary": "Primary methods, evaluation and limitations read: real continuously operating robotic-object prototype, learned perception/reasoning, external conventional control and recorded-video evaluation scope.",
+        "verifiedAt": "2026-10-01T04:28:48Z",
+        "retrieval": "direct-primary-paper; normalized canonical path"
+      },
+      {
+        "id": "s5",
+        "label": "interactive-structures.org / source 5",
+        "url": "https://interactive-structures.org/team.html",
+        "summary": "Current team page confirms first-author Violet Han is a PhD student in the lab; former visitors are precedent, not an opportunity guarantee.",
+        "verifiedAt": "2026-10-01T03:32:43Z"
+      },
+      {
+        "id": "s6",
+        "label": "interactive-structures.org / source 6",
+        "url": "https://interactive-structures.org/publications/2026-04-fluent-interaction-cyber-physical-architecture/",
+        "summary": "Current 2026 project explicitly identifies its architectural interaction study as Wizard-of-Oz; do not score it as a new autonomous learned deployment.",
+        "verifiedAt": "2026-10-01T04:28:48Z"
+      }
+    ],
+    "unknowns": [
+      "The public internship inquiry does not guarantee eligibility or capacity for an overseas master’s student or an eight-week visit.",
+      "Use the separately verified CMU central and HCII appointment policies. Formal faculty, departmental and immigration approval remain required; personal financial resources alone do not authorize laboratory work.",
+      "Do not attempt to use the CMU-community-only project listing as an external application portal. The public internship email route is distinct.",
+      "The physical prototypes are limited to tabletop motion; recorded-video preference ratings do not establish long-term in-home safety, reliability or user acceptance.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[CMU institutional visitor rules](../eligibility_notes.md#cmu-student-intern)"
+    ],
+    "publicEmail": "alexandraion@cmu.edu"
+  }
+]

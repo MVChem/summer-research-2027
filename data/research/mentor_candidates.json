@@ -168,7 +168,8 @@
     "batches/hri-046.json",
     "batches/hri-047.json",
     "batches/hri-048.json",
-    "batches/hri-049.json"
+    "batches/hri-049.json",
+    "batches/hri-050.json"
   ],
   "candidates": [
     {
@@ -9933,6 +9934,33 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-049.json",
       "detailPage": "batches/hri-049.md#jeremy-d-brown"
+    },
+    {
+      "id": "alexandra-ion",
+      "name": "Alexandra Ion",
+      "aliases": [],
+      "school": "Carnegie Mellon University",
+      "title": "Assistant Professor; Interim Associate Director of HCI Undergraduate Programs",
+      "homepage": "https://hcii.cmu.edu/people/alexandra-ion",
+      "batch": "hri-050",
+      "discoveredAt": "2026-10-01T03:30:40Z",
+      "verifiedAt": "2026-10-01T04:28:48Z",
+      "scores": {
+        "fit": 37,
+        "physical": 25,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-centered physical AI",
+        "Vision-language-driven proactive assistance",
+        "Robotic everyday objects",
+        "Computational fabrication",
+        "Human-robot interaction"
+      ],
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/hri-050.json",
+      "detailPage": "batches/hri-050.md#alexandra-ion"
     }
   ]
 }

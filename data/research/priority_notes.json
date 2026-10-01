@@ -4501,6 +4501,412 @@
           "evidence": "Live official profile verifies Assistant Professor, School of Computing, and institutional appointment from 1 December 2025 to present. Public professional email is yue.jiang@utah.edu."
         }
       ]
+    },
+    "vivek-thangavelu": {
+      "appointmentStart": {
+        "year": 2025,
+        "precision": "year",
+        "season": "Fall",
+        "status": "current",
+        "sourceIds": [
+          "h1"
+        ],
+        "evidence": "Official university biography explicitly identifies Fall 2025 Assistant Professor start after CMU postdoctoral fellowship.",
+        "appointmentType": "unresolved"
+      },
+      "display": "Fall 2025（官方）",
+      "caveat": "新PhD关闭/本校MS无资助与单独Visiting Scholars & Students邀请分开；访客期限/经费未知",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://search.asu.edu/profile/5505640",
+          "evidence": "Official current profile explicitly dates Fall 2025 arrival after postdoctoral work. Preserve original source observation from control-075.",
+          "observedAt": "2026-10-01T06:37:33Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://ecoroboticslab.com/join/",
+          "evidence": "Live page updated September 17, 2026: local-ASU master projects have no funding; new PhD intake is closed; distinct Visiting Scholars & Students section still invites inquiries. Preserve original source observation.",
+          "observedAt": "2026-10-01T06:37:33Z"
+        }
+      ]
+    },
+    "shan-zuo": {
+      "appointmentStart": {
+        "year": 2021,
+        "precision": "year",
+        "season": "Fall",
+        "status": "current",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "UConn official 2021 hire announcement establishes Fall 2021; official current biography establishes this was an institution move.",
+        "appointmentType": "institution-move"
+      },
+      "display": "Fall 2021（官方；此前中国高校教授）",
+      "caveat": "明确转校、并非首次faculty；当前UConn AP准确保留，网页2026页眉不是招聘年份",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://today.uconn.edu/2021/09/uconn-engineering-welcomes-13-new-faculty/",
+          "evidence": "Official September 13, 2021 article explicitly dates the thirteen-faculty cohort to Fall 2021 and lists Shan Susan Zuo, ECE Assistant Professor.",
+          "observedAt": "2026-10-01T15:13:18Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://engineering.uconn.edu/faculty/ece/shan-susan-zuo/",
+          "evidence": "Current university profile confirms Assistant Professor and prior Full Professor role in Nanjing. Preserve original source observation.",
+          "observedAt": "2026-10-01T06:37:33Z"
+        }
+      ]
+    },
+    "shreyas-kousik": {
+      "appointmentStart": {
+        "year": 2023,
+        "month": 1,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "Official February 24, 2023 faculty spotlight states January arrival; university robotics biography states prior Stanford postdoc.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2023-01（官方）",
+      "caveat": "较早AP；后续当前MS-stage关闭与访客对应规则仍适用，不因到岗元数据恢复机会",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://www.me.gatech.edu/news/faculty-spotlight-assistant-professor-shreyas-kousik",
+          "evidence": "Full official February 24, 2023 spotlight explicitly dates arrival to January.",
+          "observedAt": "2026-10-01T15:19:48Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://robotics.gatech.edu/node/50",
+          "evidence": "Official current AP biography establishes prior Stanford postdoctoral role.",
+          "observedAt": "2026-10-01T15:19:48Z"
+        }
+      ]
+    },
+    "glen-chou": {
+      "appointmentStart": {
+        "year": 2024,
+        "month": 11,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "h1"
+        ],
+        "evidence": "Official current AE profile explicitly dates November 2024 arrival after two years as MIT CSAIL postdoc.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2024-11（官方）",
+      "caveat": "此前MIT博士后；具体外校访问机会与当前设备仍以原记录为准",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://www.ae.gatech.edu/directory/person/glen-chou",
+          "evidence": "Full current official profile states November 2024 arrival and previous MIT postdoc.",
+          "observedAt": "2026-10-01T15:19:48Z"
+        }
+      ]
+    },
+    "maegan-tucker": {
+      "appointmentStart": {
+        "year": 2024,
+        "month": 1,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "h1"
+        ],
+        "evidence": "Official university research profile explicitly dates the joint ECE/ME Assistant Professor appointment to January 2024, after Caltech PhD/postdoc and Disney Research.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2024-01（官方）",
+      "caveat": "此前Caltech/Disney研究经历；外校访问/项目条件不由日期推断",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://people.research.gatech.edu/maegan-tucker",
+          "evidence": "Full official research profile gives exact month and previous nonfaculty roles.",
+          "observedAt": "2026-10-01T15:19:48Z"
+        }
+      ]
+    },
+    "yashwanth-kumar-nakka": {
+      "appointmentStart": {
+        "year": 2024,
+        "month": 8,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "Official 2025 AE annual report explicitly dates Assistant Professor arrival to August 2024; current AE profile establishes JPL Robotics Technologist 2021–2024 before the appointment.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2024-08（官方年报）",
+      "caveat": "当前系目录和实验室一致为AP，保留春季2025杂志Associate称谓冲突；此前JPL研究职",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://ae.gatech.edu/sites/default/files/file/2026/01/2025%20AE-Annual%20Report%20FINAL%20for%20web.pdf",
+          "evidence": "Complete relevant paragraph in official PDF says August 2024 Assistant Professor start Full public PDF independently downloaded and relevant page text checked at 2026-10-01T15:20:44Z. Earlier primary extraction was at15:19:48Z; the completed independent full-PDF check was at15:20:44Z.",
+          "observedAt": "2026-10-01T15:20:44Z",
+          "earlierObservationAt": "2026-10-01T15:19:48Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://www.ae.gatech.edu/directory/person/yashwanth-kumar-nakka",
+          "evidence": "Full current AE profile confirms Assistant Professor and previous JPL technologist role.",
+          "observedAt": "2026-10-01T15:19:48Z"
+        }
+      ]
+    },
+    "lu-gan": {
+      "appointmentStart": {
+        "year": 2024,
+        "month": 1,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "h1"
+        ],
+        "evidence": "Current official AE profile explicitly says Assistant Professor start January 2024, preceded by Caltech postdoctoral appointment.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2024-01（官方）",
+      "caveat": "此前Caltech博士后；访问与研究分数不因日期核实改变",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://www.ae.gatech.edu/directory/person/lu-gan",
+          "evidence": "Full current official university biography gives January 2024 start and prior Caltech postdoc.",
+          "observedAt": "2026-10-01T15:19:48Z"
+        }
+      ]
+    },
+    "sarah-h-q-li": {
+      "appointmentStart": {
+        "year": 2025,
+        "month": 1,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "h1",
+          "h2",
+          "h3"
+        ],
+        "evidence": "Official AE annual report and university robotics profile explicitly date January 2025 start after ETH Zurich postdoctoral work; current AE directory confirms the now-current appointment.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2025-01（官方年报/目录）",
+      "caveat": "此前ETH博士后；原方法/访问/真机范围保持，机场数据不等于机器人部署",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://ae.gatech.edu/sites/default/files/file/2026/01/2025%20AE-Annual%20Report%20FINAL%20for%20web.pdf",
+          "evidence": "Complete relevant paragraph in official PDF says January 2025 Assistant Professor start. Full public PDF independently downloaded and relevant page text checked at 2026-10-01T15:20:44Z. Earlier primary extraction was at15:19:48Z; the completed independent full-PDF check was at15:20:44Z.",
+          "observedAt": "2026-10-01T15:20:44Z",
+          "earlierObservationAt": "2026-10-01T15:19:48Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://robotics.gatech.edu/node/112",
+          "evidence": "Official robotics profile announced January 2025 start from ETH postdoc; its future-tense wording is historical.",
+          "observedAt": "2026-10-01T15:19:48Z"
+        },
+        {
+          "id": "h3",
+          "url": "https://www.ae.gatech.edu/directory/person/sarah-hq-li",
+          "evidence": "Current official AE directory confirms present Assistant Professor role. Earlier control-006 primary observation preserved.",
+          "observedAt": "2026-09-30T22:04:58Z"
+        }
+      ]
+    },
+    "ryan-k-cosner": {
+      "appointmentStart": {
+        "year": 2026,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "Official August11,2025 endowed-appointment announcement explicitly says beginning January2026; current university profile confirms AP and CaltechPhD2025.",
+        "month": 1,
+        "appointmentType": "unresolved"
+      },
+      "display": "2026-01（官方）",
+      "caveat": "2025招聘公告明确延期至2026-01；本校Tufts两类机会与各自暑期规则分开，外校访问未知",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://engineering.tufts.edu/news-events/news/cosner-named-glenn-r-stevens-e49-assistant-professor",
+          "evidence": "Exact beginning January2026 wording; prior Caltech degrees and industry internships.",
+          "observedAt": "2026-10-01T15:47:25Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://engineering.tufts.edu/me/people/faculty/ryan-cosner",
+          "evidence": "Current endowed AP and PhD2025 confirm appointment is now active.",
+          "observedAt": "2026-10-01T15:47:05Z"
+        }
+      ]
+    },
+    "bowen-weng": {
+      "appointmentStart": {
+        "year": 2024,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "h1"
+        ],
+        "evidence": "Official February22,2024 faculty spotlight explicitly says he started January2024, after industry research and OhioStatePhD2023.",
+        "month": 1,
+        "appointmentType": "unresolved"
+      },
+      "display": "2024-01（官方）",
+      "caveat": "此前行业研究岗位；原访问条件与技术证据保持",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://www.cs.iastate.edu/news/2024/new-faculty-spotlight-bowen-weng",
+          "evidence": "Full official spotlight gives exact month and preceding TRC/NHTSA researcher roles.",
+          "observedAt": "2026-10-01T15:47:25Z"
+        }
+      ]
+    },
+    "mengxue-hou": {
+      "appointmentStart": {
+        "year": 2023,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "Official September22,2023 announcement names her among faculty who joined that fall, after Purdue Lillian Gilbreth postdoc.",
+        "season": "Fall",
+        "appointmentType": "unresolved"
+      },
+      "display": "Fall 2023（官方）",
+      "caveat": "较早AP；此前Purdue博士后，具体月份未核，不把报道日期当到岗日",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://ame.nd.edu/news/welcome-five-new-faculty-join-notre-dame-engineering-in-fall-2023/",
+          "evidence": "Official Fall2023 new-hire story names prior Purdue postdoc.",
+          "observedAt": "2026-10-01T15:47:25Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://engineering.nd.edu/faculty/mengxue-hou/",
+          "evidence": "Current AP and university-linked2023 hiring article.",
+          "observedAt": "2026-10-01T15:47:05Z"
+        }
+      ]
+    },
+    "micah-corah": {
+      "appointmentStart": {
+        "year": 2024,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "Official August23,2023 new-faculty list specifically marks January2024 start, rather than its Fall2023 publication date; academic biography documents preceding CMU/JPL postdocs.",
+        "month": 1,
+        "appointmentType": "unresolved"
+      },
+      "display": "2024-01（官方）",
+      "caveat": "2023招聘公告明确2024-01开始；外校硕士先例不是当前邀请",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://www.minesnewsroom.com/news/mines-welcomes-41-new-faculty-members-2023-24-academic-year",
+          "evidence": "Full official newsroom page explicitly marks Micah Corah January2024 start.",
+          "observedAt": "2026-10-01T15:47:51Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://www.jku.at/en/institute-of-computer-graphics/press-events/icg-lab-talk-series/2024/",
+          "evidence": "Official university March20,2024 speaker biography identifies current Mines AP and preceding CMU/JPL postdocs.",
+          "observedAt": "2026-10-01T15:47:38Z"
+        }
+      ]
+    },
+    "michael-everett": {
+      "appointmentStart": {
+        "year": 2023,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "h1",
+          "h2",
+          "h3"
+        ],
+        "evidence": "Official engineering cohort and individual faculty spotlight explicitly date January2023 joint ECE/Khoury AP start; prior roles were MIT postdoc and Google visiting faculty researcher.",
+        "month": 1,
+        "appointmentType": "unresolved"
+      },
+      "display": "2023-01（官方）",
+      "caveat": "较早AP；Google visiting faculty researcher是行业研究称谓，不自动当作此前大学faculty任职",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://coe.northeastern.edu/2022-new-faculty/",
+          "evidence": "Official2022–23 cohort marks Joining January2023 for Everett.",
+          "observedAt": "2026-10-01T15:48:00Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://coe.northeastern.edu/news/new-faculty-spotlight-michael-everett/",
+          "evidence": "Full official individual spotlight confirms January2023 appointment.",
+          "observedAt": "2026-10-01T15:47:38Z"
+        },
+        {
+          "id": "h3",
+          "url": "https://www.khoury.northeastern.edu/meet-the-new-khoury-college-faculty-for-2022-23/",
+          "evidence": "Official biography documents MIT postdoc then Google researcher, not a prior tenure-track faculty appointment.",
+          "observedAt": "2026-10-01T15:47:25Z"
+        }
+      ]
+    },
+    "inbae-jeong": {
+      "appointmentStart": {
+        "year": 2020,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "Official NewFaculty2020 booklet lists Inbae Jeong as incoming MechanicalEngineeringAP; former GeorgiaTech lab lists him under postdoctoral alumni.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2020（官方新教师册）",
+      "caveat": "较早AP；院务服务截至2025不是到岗年份，具体月份未知",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://www.ndsu.edu/sites/default/files/fileadmin/facultyaffairs/New_Faculty/New_Faculty_Directories/New_Faculty_2020.pdf",
+          "evidence": "Complete official six-page booklet:2020 cover and page4 faculty entry (PDFindex3), no exact month/day.",
+          "observedAt": "2026-10-01T15:48:00Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://www.rical.ce.gatech.edu/",
+          "evidence": "Official former group roster places Inbae under Postdocs with NDSU faculty destination.",
+          "observedAt": "2026-10-01T15:48:00Z"
+        }
+      ]
     }
   },
   "constraints": [

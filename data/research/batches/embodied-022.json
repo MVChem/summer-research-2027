@@ -9,7 +9,7 @@
     "department": "Computer Science and Engineering",
     "batch": "embodied-022",
     "discoveredAt": "2026-09-30T23:50:26Z",
-    "verifiedAt": "2026-09-30T23:58:03Z",
+    "verifiedAt": "2026-10-01T14:27:56Z",
     "researchAreas": [
       "Vision-language navigation",
       "Robust embodied AI",
@@ -29,12 +29,10 @@
     },
     "shortVisit": {
       "status": "inquiry-only",
-      "summary": "The current TACO group page explicitly invites internship and visiting-student inquiries alongside RA/TA applicants. Its recruiting address is tzzhire@gmail.com. The linked form could not be retrieved; no duration, external-master’s eligibility or summer 2027 commitment was established.",
+      "summary": "The current TACO homepage continues to invite internship and visiting-student inquiries by the designated recruiting email tzzhire@gmail.com. Its currently linked application form explicitly no longer accepts responses. Email inquiry remains an advertised route; the form closure is not evidence of a blanket no-visitors policy. External-master eligibility, duration, funding and summer 2027 capacity remain unknown.",
       "sourceIds": [
-        "s1",
-        "s2",
-        "s3",
-        "s4"
+        "s5",
+        "s6"
       ]
     },
     "scores": {
@@ -81,6 +79,22 @@
         "summary": "Primary project identifies Tu as a Texas A&M coauthor and presents IROS 2026 work.",
         "verifiedAt": "2026-09-30T23:58:03Z",
         "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "Later current recruitment source r1",
+        "url": "https://taco-group.github.io/",
+        "summary": "Explicit current email-or-form invitation; designated recruiting email remains available.",
+        "verifiedAt": "2026-10-01T14:27:07Z",
+        "retrieval": "complete-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "Later current recruitment source r2",
+        "url": "https://docs.google.com/forms/u/0/d/e/1FAIpQLSf63eX33LTNmb_vzDFQJW2CINC3ZjLjSOJP2RISfv_TDTKcpA/closedform",
+        "summary": "Form title names Zhengzhong Tu CSE@TAMU; public Chinese notice states the form no longer accepts responses. Reached from known current-linked https://tinyurl.com/zhvvm85y; no bypass or submission attempted.",
+        "verifiedAt": "2026-10-01T14:27:56Z",
+        "retrieval": "complete-live-cloud-browser-page"
       }
     ],
     "unknowns": [
@@ -88,7 +102,7 @@
       "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
       "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
       "Designated public recruiting address: tzzhire@gmail.com. No message has been sent.",
-      "Designated public recruiting address: tzzhire@gmail.com. No message has been sent."
+      "The linked form is closed as of 2026-10-01T14:27:56Z. It is not an actionable submission route; the lab’s separately advertised email inquiry remains. No alternate form or submission workaround is assumed."
     ],
     "publicEmail": "tzz@tamu.edu",
     "publicRecruitingEmail": "tzzhire@gmail.com"

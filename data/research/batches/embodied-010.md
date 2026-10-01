@@ -36,12 +36,12 @@
 - 方向：Foundation models for robotics；Video-to-robot manipulation；Learned dynamics；Human demonstration learning；Brain-robot interfaces
 - 匹配理由：Dream2Flow (ICRA 2026) translates generated human-object interaction videos into robot control using 3D object flow. IMPASTO (2026) learns painting dynamics from robot self-play and plans force-sensitive brushstrokes.
 - 真机证据（public-hardware-evidence）：Dream2Flow executes planned motions on a physical Franka for household tasks such as opening a drawer and sweeping pasta. IMPASTO uses a Franka Panda with a six-axis force/torque sensor and real brush/paint, with learned pixel dynamics and closed-loop planning.
-- 短访证据（inquiry-only）：The faculty’s published Northwestern recruitment announcement explicitly invites research interns through a form, separately from PhD applications. It does not state duration, funding, external-master’s restrictions or summer 2027 availability.
-- 首次发现：2026-09-30T22:42:58Z；最后核查：2026-09-30T22:47:12Z
-- 当前总分：82/100；评分依据：
+- 短访证据（inquiry-only）：The complete current-linked Northwestern questionnaire asks arbitrary current school and program, explicitly giving BS/MS examples, separately from desired roles including intern in person or remote, visiting scholar and research collaboration. It does not state minimum duration, funding, summer 2027 capacity or current equipment access. The personal page still contains stale incoming/Stanford wording; the university confirms the current Northwestern role.
+- 首次发现：2026-09-30T22:42:58Z；最后核查：2026-10-01T14:26:51Z
+- 当前总分：85/100；评分依据：
   - fit 40/40：Exceptionally direct foundation-model, world-model and physical manipulation agenda.
   - physical 20/25：Verified Franka experiments were conducted during the preceding Stanford affiliation; current Northwestern hardware availability is unconfirmed.
-  - shortVisit 7/20：Explicit research-intern inquiry route, duration and applicant eligibility unspecified.
+  - shortVisit 10/20：Complete linked questionnaire explicitly supports current-master intern/visitor inquiries and onsite/remote intent; duration, institutional eligibility, funding and actual acceptance remain unresolved.
   - freshness 15/15：Current Fall 2026 Northwestern directory and 2026 physical learning projects.
 - 未确认事项：The personal page retains incoming/Fall 2026 and Stanford wording; current Northwestern status and professional email are verified by the university robotics directory. The cited hardware projects arose at Stanford, so Northwestern platform availability must be confirmed. Dream2Flow’s physical experiments use trajectory optimization; its multi-embodiment RL experiments are separate and must not be described as physical humanoid deployment.；Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.
 - 来源：
@@ -50,6 +50,8 @@
   - [dream2flow.github.io / source 3](https://dream2flow.github.io/)：Primary ICRA 2026 project with generated-video-to-robot manipulation.（核查 2026-09-30T22:47:12Z；读取方式 direct-primary-page）
   - [arxiv.org / source 4](https://arxiv.org/html/2512.24766v1)：Primary Dream2Flow physical Franka execution and separate simulation RL experiments.（核查 2026-09-30T22:47:12Z；读取方式 direct-primary-page）
   - [arxiv.org / source 5](https://arxiv.org/html/2603.29315v1)：Primary 2026 IMPASTO physical Panda, force sensor and learned dynamics/planning.（核查 2026-09-30T22:47:12Z；读取方式 direct-primary-page）
+  - [Later current recruitment source r1](https://ruohanzhang.com/)：Expanded recruitment announcement explicitly links postdoc/research intern form; live browser expansion14:26:35Z.（核查 2026-10-01T14:24:46Z；读取方式 complete-primary-page）
+  - [Later current recruitment source r2](https://docs.google.com/forms/d/e/1FAIpQLSdk1iluIfb-5_QOvCnBldzLELUWbhd0YAkiy_QoV4Z7PjGGrA/viewform?usp=send_form)：All public questions through Submit read: arbitrary current school/program withBS/MS examples, separate intern in person/remote, visiting scholar and research collaboration; start-date and CV/transcript fields. No funding or minimum-duration statement.（核查 2026-10-01T14:26:51Z；读取方式 complete-live-cloud-browser-form）
 
 <a id="yen-ling-kuo"></a>
 

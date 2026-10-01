@@ -208,3 +208,9 @@
 - **超过4个月可能考虑RAship；不是最低访问时长、资助承诺或短访关闭**
 - 核查：2026-10-01T14:05:25Z · [来源1](https://chenzhutian.org/prospectives)
 
+### Zhengzhong Tu（新增候选）
+
+- 适用范围：Current application form only; separate email inquiry remains advertised
+- **当前表单停止收件；招募邮箱仍明确欢迎intern/visitor询问，不改写成不接收访客或2027关闭**
+- 核查：2026-10-01T14:27:56Z · [来源1](https://taco-group.github.io/) · [来源2](https://docs.google.com/forms/u/0/d/e/1FAIpQLSf63eX33LTNmb_vzDFQJW2CINC3ZjLjSOJP2RISfv_TDTKcpA/closedform)
+

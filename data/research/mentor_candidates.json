@@ -7729,11 +7729,11 @@
       "homepage": "https://ruohanzhang.com/",
       "batch": "embodied-010",
       "discoveredAt": "2026-09-30T22:42:58Z",
-      "verifiedAt": "2026-09-30T22:47:12Z",
+      "verifiedAt": "2026-10-01T14:26:51Z",
       "scores": {
         "fit": 40,
         "physical": 20,
-        "shortVisit": 7,
+        "shortVisit": 10,
         "freshness": 15
       },
       "researchAreas": [
@@ -8398,7 +8398,7 @@
       "homepage": "https://taco-group.github.io/",
       "batch": "embodied-022",
       "discoveredAt": "2026-09-30T23:50:26Z",
-      "verifiedAt": "2026-09-30T23:58:03Z",
+      "verifiedAt": "2026-10-01T14:27:56Z",
       "scores": {
         "fit": 37,
         "physical": 20,

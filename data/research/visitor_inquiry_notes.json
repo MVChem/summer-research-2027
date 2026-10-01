@@ -256,11 +256,11 @@
       "category": "generic-intern-eligibility-unconfirmed"
     },
     "ruohan-zhang": {
-      "note": "一般intern询问；外校硕士适用性与短访条件未明确",
+      "note": "2026 Northwestern AP；完整表单分列学校/BS-MS及现场或远程intern/visitor；旧incoming文字仍在，时长/资金/2027容量未知，真机来自前Stanford",
       "sourceIds": [
-        "s2"
-      ],
-      "category": "generic-intern-eligibility-unconfirmed"
+        "s6",
+        "s7"
+      ]
     },
     "yuzhang-shang": {
       "note": "公开问询入口；详细资格与期限未定",
@@ -433,9 +433,10 @@
       ]
     },
     "zhengzhong-tu": {
-      "note": "公开问询入口；详细资格与期限未定",
+      "note": "2024 AP；当前链接表单已停止收件，仍可按live页面向tzzhire@gmail.com询问；不是访客关闭；硕士资格/时长/资金未知，合作真机",
       "sourceIds": [
-        "s2"
+        "s5",
+        "s6"
       ]
     },
     "john-m-dolan": {

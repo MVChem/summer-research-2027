@@ -9,7 +9,7 @@
     "department": "Computer Science; Center for Robotics and Biosystems",
     "batch": "embodied-010",
     "discoveredAt": "2026-09-30T22:42:58Z",
-    "verifiedAt": "2026-09-30T22:47:12Z",
+    "verifiedAt": "2026-10-01T14:26:51Z",
     "researchAreas": [
       "Foundation models for robotics",
       "Video-to-robot manipulation",
@@ -31,25 +31,22 @@
     },
     "shortVisit": {
       "status": "inquiry-only",
-      "summary": "The faculty’s published Northwestern recruitment announcement explicitly invites research interns through a form, separately from PhD applications. It does not state duration, funding, external-master’s restrictions or summer 2027 availability.",
+      "summary": "The complete current-linked Northwestern questionnaire asks arbitrary current school and program, explicitly giving BS/MS examples, separately from desired roles including intern in person or remote, visiting scholar and research collaboration. It does not state minimum duration, funding, summer 2027 capacity or current equipment access. The personal page still contains stale incoming/Stanford wording; the university confirms the current Northwestern role.",
       "sourceIds": [
-        "s1",
-        "s2",
-        "s3",
-        "s4",
-        "s5"
+        "s6",
+        "s7"
       ]
     },
     "scores": {
       "fit": 40,
       "physical": 20,
-      "shortVisit": 7,
+      "shortVisit": 10,
       "freshness": 15
     },
     "scoreReasons": {
       "fit": "Exceptionally direct foundation-model, world-model and physical manipulation agenda.",
       "physical": "Verified Franka experiments were conducted during the preceding Stanford affiliation; current Northwestern hardware availability is unconfirmed.",
-      "shortVisit": "Explicit research-intern inquiry route, duration and applicant eligibility unspecified.",
+      "shortVisit": "Complete linked questionnaire explicitly supports current-master intern/visitor inquiries and onsite/remote intent; duration, institutional eligibility, funding and actual acceptance remain unresolved.",
       "freshness": "Current Fall 2026 Northwestern directory and 2026 physical learning projects."
     },
     "sources": [
@@ -92,6 +89,22 @@
         "summary": "Primary 2026 IMPASTO physical Panda, force sensor and learned dynamics/planning.",
         "verifiedAt": "2026-09-30T22:47:12Z",
         "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "Later current recruitment source r1",
+        "url": "https://ruohanzhang.com/",
+        "summary": "Expanded recruitment announcement explicitly links postdoc/research intern form; live browser expansion14:26:35Z.",
+        "verifiedAt": "2026-10-01T14:24:46Z",
+        "retrieval": "complete-primary-page"
+      },
+      {
+        "id": "s7",
+        "label": "Later current recruitment source r2",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdk1iluIfb-5_QOvCnBldzLELUWbhd0YAkiy_QoV4Z7PjGGrA/viewform?usp=send_form",
+        "summary": "All public questions through Submit read: arbitrary current school/program withBS/MS examples, separate intern in person/remote, visiting scholar and research collaboration; start-date and CV/transcript fields. No funding or minimum-duration statement.",
+        "verifiedAt": "2026-10-01T14:26:51Z",
+        "retrieval": "complete-live-cloud-browser-form"
       }
     ],
     "unknowns": [

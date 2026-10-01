@@ -2561,6 +2561,383 @@
           "evidence": "Current AP/WAVE role, August 2026 start news and distinct prospective-intern/visitor form. Browser corroboration14:16:08Z."
         }
       ]
+    },
+    "lifeng-zhou": {
+      "appointmentStart": {
+        "year": 2022,
+        "precision": "year",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "Official September15,2022 hiring story individually specifies Fall2022 start. Year2022 with Fall qualifier; neither article date nor a student start is used as exact appointment date."
+      },
+      "display": "2022秋（官方）；较早AP次级",
+      "caveat": "独立visitor邮箱询问仍在；2022到岗不作新聘2024，时长/资金/2027容量未知",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://drexel.edu/engineering/news-events/news/archive/2022/September/strategic-cluster-hiring-brings-in-new-faculty-experts/",
+          "observedAt": "2026-10-01T14:25:22Z",
+          "kind": "official-university-or-lab",
+          "retrieval": "complete-primary-page",
+          "evidence": "Explicit Lifeng Zhou ECE Assistant Professor starting Fall2022."
+        },
+        {
+          "id": "h2",
+          "url": "https://zhourobotics.github.io/",
+          "observedAt": "2026-10-01T14:24:46Z",
+          "kind": "official-university-or-lab",
+          "retrieval": "complete-primary-page",
+          "evidence": "Current Drexel lab and2026 directed robot-learning activity."
+        },
+        {
+          "id": "r1",
+          "url": "https://zhourobotics.github.io/Join/",
+          "observedAt": "2026-10-01T14:25:42Z",
+          "kind": "official-university-or-lab",
+          "retrieval": "complete-primary-page",
+          "evidence": "Separate visiting-student/scholar email inquiry with CV/research fit and optional representative work; no duration/funding guarantee."
+        }
+      ]
+    },
+    "shan-lin": {
+      "appointmentStart": {
+        "year": 2025,
+        "precision": "year",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "Official ASU new-faculty account specifies Spring2025; current ASU directory confirms now serving. Year2025 only, no unverified January date."
+      },
+      "display": "2025春（官方；未定具体月日）",
+      "caveat": "访客段落允许询问并列个人自费例子；本校MS/UG已录取条件与postdoc关闭另属类别；机构审批仍必要",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://news.engineering.asu.edu/welcome/shan-lin/",
+          "observedAt": "2026-10-01T14:25:22Z",
+          "kind": "official-university-or-lab",
+          "retrieval": "complete-primary-page",
+          "evidence": "Official announcement says joining Spring2025 as ECEE Assistant Professor."
+        },
+        {
+          "id": "h2",
+          "url": "https://search.asu.edu/profile/5211818",
+          "observedAt": "2026-10-01T14:25:42Z",
+          "kind": "official-university-or-lab",
+          "retrieval": "complete-primary-page",
+          "evidence": "Current ECEE Assistant Professor, Tempe, surgical robotics."
+        },
+        {
+          "id": "r1",
+          "url": "https://marginlab.github.io/opportunities",
+          "observedAt": "2026-10-01T14:25:22Z",
+          "kind": "official-university-or-lab",
+          "retrieval": "complete-primary-page",
+          "evidence": "Distinct visiting student/scholar route asks funding source and intended duration; examples expressly include personal self-funding. Separate local MS/UG section requires already admitted ASU; postdoc recruitment inactive except external-funding possibilities."
+        }
+      ]
+    },
+    "ruohan-zhang": {
+      "appointmentStart": {
+        "year": 2026,
+        "precision": "year",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "Personal announcement says Fall2026 arrival; official September3,2026 seminar identifies him as current Northwestern CS Assistant Professor, corroborating service in2026. Do not infer September3 or September1 as appointment date. Personal page still says incoming/Stanford."
+      },
+      "display": "2026（官方现任；本人公告Fall）",
+      "caveat": "2026 Northwestern AP；完整表单分列学校/BS-MS及现场或远程intern/visitor；旧incoming文字仍在，时长/资金/2027容量未知，真机来自前Stanford",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://www.mccormick.northwestern.edu/events/event-info.php?action=print&eid=645094",
+          "observedAt": "2026-10-01T14:25:22Z",
+          "kind": "official-university-or-lab",
+          "retrieval": "complete-primary-page",
+          "evidence": "Official September3,2026 seminar explicitly identifies Northwestern CS Assistant Professor and new lab."
+        },
+        {
+          "id": "h2",
+          "url": "https://robotics.northwestern.edu/people/profiles/faculty/zhang-ruohan.html",
+          "observedAt": "2026-10-01T14:25:42Z",
+          "kind": "official-university-or-lab",
+          "retrieval": "complete-primary-page",
+          "evidence": "Current official CS AP directory and university email; this supersedes stale incoming/Stanford wording for current host."
+        },
+        {
+          "id": "h3",
+          "url": "https://ruohanzhang.com/",
+          "observedAt": "2026-10-01T14:24:46Z",
+          "kind": "official-university-or-lab",
+          "retrieval": "complete-primary-page",
+          "evidence": "Personal announcement explicitly Fall2026, still future-tense. Current linked form is separately read14:26:51Z in route-addendum005."
+        }
+      ]
+    },
+    "zhengzhong-tu": {
+      "appointmentStart": {
+        "year": 2024,
+        "precision": "year",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "Official2024 cohort includes Tu among Fall2024 arrivals (January2025 exception explicitly identifies another faculty member). Personal page says2024–present and planned summer2024. Use year2024, preserving season discrepancy rather than inventing month."
+      },
+      "display": "2024（官方；Summer/Fall口径保留）",
+      "caveat": "2024 AP；当前链接表单已停止收件，仍可按live页面向tzzhire@gmail.com询问；不是访客关闭；硕士资格/时长/资金未知，合作真机",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://news.engineering.tamu.edu/news/2024/09/09/say-howdy-to-new-computer-science-and-engineering-faculty/",
+          "observedAt": "2026-10-01T14:25:22Z",
+          "kind": "official-university-or-lab",
+          "retrieval": "complete-primary-page",
+          "evidence": "Official2024 new-CS faculty cohort includes Tu; only Yu Zhang is separately January2025."
+        },
+        {
+          "id": "h2",
+          "url": "https://engineering.tamu.edu/cse/profiles/tu-zhengzhong.html",
+          "observedAt": "2026-10-01T14:25:42Z",
+          "kind": "official-university-or-lab",
+          "retrieval": "complete-primary-page",
+          "evidence": "Current official CSE AP and tzz@tamu.edu."
+        },
+        {
+          "id": "h3",
+          "url": "https://vztu.github.io/",
+          "observedAt": "2026-10-01T14:24:46Z",
+          "kind": "official-university-or-lab",
+          "retrieval": "complete-primary-page",
+          "evidence": "Personal timeline2024–present; retained Chinese future-tense summer2024 start."
+        },
+        {
+          "id": "r1",
+          "url": "https://taco-group.github.io/",
+          "observedAt": "2026-10-01T14:27:07Z",
+          "kind": "official-university-or-lab",
+          "retrieval": "complete-primary-page",
+          "evidence": "Current internship/visitor invitation expressly permits email to tzzhire@gmail.com or form; form closure is independently observed14:27:56Z."
+        }
+      ]
+    },
+    "somil-bansal": {
+      "appointmentStart": {
+        "year": 2024,
+        "month": 10,
+        "day": 1,
+        "precision": "day",
+        "status": "current",
+        "sourceIds": [
+          "h1"
+        ],
+        "evidence": "Stanford presidential appointment report explicitly appoints Bansal for October 1, 2024 through September 30, 2028. Current Stanford profile confirms preceding USC AP role.",
+        "appointmentType": "institution-move"
+      },
+      "display": "2024-10-01转入Stanford；此前USC AP2021秋",
+      "caveat": "转校非首次faculty，保持已有访客询问和全部研究分数；日期不是2027容量承诺",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://news.stanford.edu/stories/2024/11/report-of-the-president-academic-council-professoriate-appointments",
+          "evidence": "Full official appointment report, APPOINTMENTS FOR A TERM OF YEARS: exact Stanford start and appointment period.",
+          "observedAt": "2026-10-01T14:31:02Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://profiles.stanford.edu/somil-bansal",
+          "evidence": "Current official Stanford AP and prior USC AP; unchanged candidate affiliation source.",
+          "observedAt": "2026-09-30T21:24:34Z"
+        },
+        {
+          "id": "h3",
+          "url": "https://viterbi.usc.edu/calendar/?date=03%2F04%2F2021&event_type=2",
+          "evidence": "Official March 2021 seminar bio says he will join USC as AP in Fall 2021 after Waymo research scientist. Primary indexed text.",
+          "observedAt": "2026-10-01T14:31:02Z"
+        }
+      ],
+      "priorAppointmentEvidence": {
+        "institution": "University of Southern California",
+        "year": 2021,
+        "season": "Fall",
+        "sourceIds": [
+          "h3"
+        ],
+        "evidence": "USC official seminar biography announces Fall 2021 AP appointment after Waymo."
+      }
+    },
+    "negar-mehr": {
+      "appointmentStart": {
+        "year": 2024,
+        "month": 1,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "h1"
+        ],
+        "evidence": "Official Berkeley ITS profile explicitly says Mehr joined Mechanical Engineering in January 2024 and previously held an Illinois Aerospace Engineering AP appointment.",
+        "appointmentType": "institution-move"
+      },
+      "display": "2024-01转入Berkeley；此前Illinois AP2020-08",
+      "caveat": "保留原校任职历史；当前机构新近到岗不等于首次AP；访客资格仍另核",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://its.berkeley.edu/people/negar-mehr",
+          "evidence": "Full official Berkeley profile gives January 2024 arrival and preceding Illinois AP appointment.",
+          "observedAt": "2026-10-01T14:31:02Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://csl.illinois.edu/news-and-media/new-csl-faculty-mehr-brings-autonomy-research-illinois",
+          "evidence": "Official November 17, 2020 article explicitly says Mehr joined the Illinois AE faculty that August.",
+          "observedAt": "2026-10-01T14:31:02Z"
+        }
+      ],
+      "priorAppointmentEvidence": {
+        "institution": "University of Illinois Urbana-Champaign",
+        "year": 2020,
+        "month": 8,
+        "precision": "month",
+        "sourceIds": [
+          "h2"
+        ],
+        "evidence": "November 2020 official article dates Illinois AP start to August 2020."
+      }
+    },
+    "ransalu-senanayake": {
+      "appointmentStart": {
+        "year": 2023,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "h1"
+        ],
+        "evidence": "ASU official 2023–2024 new-faculty profile and August 31, 2023 SCAI listing identify Senanayake as new AP; current official biography identifies Stanford postdoc immediately before ASU.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2023（官方新教师群体；未定月日）",
+      "caveat": "列较早AP；外校unfunded访客询问仍在，2027项目/时长/学校资金类别待确认",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://news.engineering.asu.edu/welcome/ransalu-senanayake/",
+          "evidence": "Full official new-faculty biography, explicitly grouped under 2023–2024.",
+          "observedAt": "2026-10-01T14:31:02Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://scai.engineering.asu.edu/faculty/ransalu-senanayake/",
+          "evidence": "Official SCAI faculty listing published August 31, 2023; current AP then established.",
+          "observedAt": "2026-10-01T14:31:02Z"
+        },
+        {
+          "id": "h3",
+          "url": "https://search.asu.edu/profile/4843390",
+          "evidence": "Current official AP; preceding Stanford Machine Learning Group postdoc. Existing source observation retained.",
+          "observedAt": "2026-10-01T04:48:33Z"
+        }
+      ]
+    },
+    "jiefeng-sun": {
+      "appointmentStart": {
+        "year": 2024,
+        "month": 1,
+        "day": 1,
+        "precision": "day",
+        "status": "current",
+        "sourceIds": [
+          "h1"
+        ],
+        "evidence": "University-hosted lab news, June 1, 2023 entry, explicitly announces Sun Robotics Lab at ASU starting January 1, 2024; January 13, 2024 entry welcomes first students. The current official faculty biography confirms prior Yale postdoc.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2024-01-01（大学托管lab公告，当前任职佐证）",
+      "caveat": "2023–24群体不等于2023到岗；原Yale CV不能用作当前身份，访客条件保留",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://sunrobotics.lab.asu.edu/news/",
+          "evidence": "Full official ASU-hosted lab archive: June 1, 2023 planned 1/1/2024 start, followed by January 13, 2024 lab student arrivals.",
+          "observedAt": "2026-10-01T14:31:02Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://search.asu.edu/profile/4837211",
+          "evidence": "Current official AP after Yale postdoctoral research; existing source verification retained.",
+          "observedAt": "2026-09-30T23:20:06Z"
+        },
+        {
+          "id": "h3",
+          "url": "https://news.engineering.asu.edu/welcome/jiefeng-sun/",
+          "evidence": "Official 2023–2024 new-faculty cohort biography.",
+          "observedAt": "2026-10-01T14:31:02Z"
+        },
+        {
+          "id": "h4",
+          "url": "https://jiefengsun.github.io/",
+          "evidence": "Author March 29, 2023 announcement explicitly gives 1/1/2024 appointment start, corroborating official lab archive.",
+          "observedAt": "2026-10-01T14:31:02Z"
+        }
+      ]
+    },
+    "hua-wei": {
+      "appointmentStart": {
+        "year": 2023,
+        "month": 8,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "h1"
+        ],
+        "evidence": "Current ASU-hosted September 2026 CV explicitly dates ASU AP to August 2023. Official ASU new-faculty biography states he came after two years as an NJIT AP.",
+        "appointmentType": "institution-move"
+      },
+      "display": "2023-08转入ASU；此前NJIT AP2021-09至2023-07",
+      "caveat": "这是转校；自筹访客询问仍须学校类别批准，旧微型车辆初步执行与当前容量分别看",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://labs.engineering.asu.edu/hw/sites/g/files/litvpz6146/files/2026-09/CV_website.pdf",
+          "evidence": "Full official lab-hosted CV, page 1: Assistant Professor, ASU, Aug. 2023–Present. Reused saved PDF and layout extraction. Completed rendered-page verification was 11:41:25Z; the earlier 11:38:46.216679+00:00 was only request start. Completed visual page read11:41:25Z retained;11:38:46.216679Z was the earlier request-start, not completed observation.",
+          "observedAt": "2026-10-01T11:41:25Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://news.engineering.asu.edu/welcome/hua-wei/",
+          "evidence": "Full official ASU new-faculty biography states preceding two years as NJIT assistant professor.",
+          "observedAt": "2026-10-01T14:31:02Z"
+        },
+        {
+          "id": "h3",
+          "url": "https://www.public.asu.edu/~hwei27/CV_HuaWei.pdf",
+          "evidence": "Older university-hosted CV explicitly dates NJIT AP September 2021–July 2023; primary indexed text.",
+          "observedAt": "2026-10-01T14:31:02Z"
+        }
+      ],
+      "priorAppointmentEvidence": {
+        "institution": "New Jersey Institute of Technology",
+        "year": 2021,
+        "month": 9,
+        "precision": "month",
+        "sourceIds": [
+          "h3"
+        ],
+        "evidence": "Earlier ASU-hosted CV dates NJIT Assistant Professor September 2021–July 2023."
+      }
     }
   },
   "constraints": [
@@ -3167,6 +3544,25 @@
         {
           "url": "https://chenzhutian.org/prospectives",
           "evidence": "Live worldwide research/visiting inquiry; potential RAship for stays over four months, not a minimum stay."
+        }
+      ]
+    },
+    {
+      "key": "zhengzhong-tu-closed-form-live-email",
+      "candidateId": "zhengzhong-tu",
+      "name": "Zhengzhong Tu",
+      "kind": "capacity-or-role",
+      "scope": "Current application form only; separate email inquiry remains advertised",
+      "summary": "当前表单停止收件；招募邮箱仍明确欢迎intern/visitor询问，不改写成不接收访客或2027关闭",
+      "observedAt": "2026-10-01T14:27:56Z",
+      "sources": [
+        {
+          "url": "https://taco-group.github.io/",
+          "evidence": "Explicit current email-or-form invitation; designated recruiting email remains available."
+        },
+        {
+          "url": "https://docs.google.com/forms/u/0/d/e/1FAIpQLSf63eX33LTNmb_vzDFQJW2CINC3ZjLjSOJP2RISfv_TDTKcpA/closedform",
+          "evidence": "Form title names Zhengzhong Tu CSE@TAMU; public Chinese notice states the form no longer accepts responses. Reached from known current-linked https://tinyurl.com/zhvvm85y; no bypass or submission attempted."
         }
       ]
     }

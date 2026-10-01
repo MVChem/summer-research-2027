@@ -66,7 +66,8 @@
     "batches/hri-016.json",
     "batches/hri-017.json",
     "batches/hri-018.json",
-    "batches/hri-019.json"
+    "batches/hri-019.json",
+    "batches/hri-020.json"
   ],
   "candidates": [
     {
@@ -6547,6 +6548,35 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-019.json",
       "detailPage": "batches/hri-019.md#sooyeon-jeong"
+    },
+    {
+      "id": "david-j-crandall",
+      "name": "David J. Crandall",
+      "aliases": [
+        "David Crandall"
+      ],
+      "school": "Indiana University Bloomington",
+      "title": "Luddy Professor of Computer Science; Department Chair; Director of the Luddy AI Center",
+      "homepage": "https://homes.luddy.indiana.edu/djcran/",
+      "batch": "hri-020",
+      "discoveredAt": "2026-09-30T23:50:26Z",
+      "verifiedAt": "2026-09-30T23:56:17Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Computer vision and 3D reconstruction",
+        "Multimodal machine learning",
+        "Human behavior perception",
+        "LLM-enabled social robots",
+        "Human-robot interaction"
+      ],
+      "shortVisitStatus": "precedent-only",
+      "recordFile": "batches/hri-020.json",
+      "detailPage": "batches/hri-020.md#david-j-crandall"
     }
   ]
 }

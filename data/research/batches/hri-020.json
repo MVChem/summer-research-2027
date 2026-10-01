@@ -1,0 +1,121 @@
+[
+  {
+    "id": "david-j-crandall",
+    "name": "David J. Crandall",
+    "aliases": [
+      "David Crandall"
+    ],
+    "school": "Indiana University Bloomington",
+    "homepage": "https://homes.luddy.indiana.edu/djcran/",
+    "title": "Luddy Professor of Computer Science; Department Chair; Director of the Luddy AI Center",
+    "department": "Computer Science; IU Computer Vision Lab; Luddy Artificial Intelligence Center",
+    "batch": "hri-020",
+    "discoveredAt": "2026-09-30T23:50:26Z",
+    "verifiedAt": "2026-09-30T23:56:17Z",
+    "researchAreas": [
+      "Computer vision and 3D reconstruction",
+      "Multimodal machine learning",
+      "Human behavior perception",
+      "LLM-enabled social robots",
+      "Human-robot interaction"
+    ],
+    "fitReason": "Strong CS-method overlap through visual perception, real-time multimodal behavior analysis and LLM dialogue on an embodied social robot. A nonclinical perception, dialogue-system or software evaluation project is plausible, conditional on a defined eight-week project and host approval.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The full 2024 primary study implements autonomous scripted-plus-LLM conversation on a LuxAI QTrobot with moving head and arms, evaluated with 19 older adults in an IU lab and two care facilities. Crandall is an IU coauthor. The official 2026 HRI program lists the IRIS demo with Crandall, and a demo coauthor explicitly identifies the QT platform and AI-generated follow-ups. The 2026 BehaviorKit paper adds robot-facing multimodal perception software; its example clip evaluation is not itself a new physical robot trial. Exact inspected hardware-study methods date to 2024, so physical evidence is conservatively capped at 20.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "precedent-only",
+      "summary": "The full official lab alumni roster records an external MS student from Sungkyunkwan University who visited as a research intern in summer 2024, plus a WUSTL visiting MS student in summer 2019. These establish historical master's visitor precedents, not a current invitation or summer 2027 vacancy. No explicit live short-visit intake was found on the inspected faculty and lab pages.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "strong perception/multimodal/LLM methods plus physical HRI.",
+      "physical": "direct QTrobot study, conservatively capped because fully inspected experimental methods are from 2024 and collaborative.",
+      "shortVisit": "historical MS visitors only.",
+      "freshness": "dated 2026 BehaviorKit paper and HRI demo. Provisional evidence-fit score, not acceptance probability or prestige."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "homes.luddy.indiana.edu / source 1",
+        "url": "https://homes.luddy.indiana.edu/djcran/",
+        "summary": "Full current official faculty homepage verifies Luddy Professor, CS chair, AI Center director, public email and current 2026 activity.",
+        "verifiedAt": "2026-09-30T23:56:17Z"
+      },
+      {
+        "id": "s2",
+        "label": "vision.luddy.iu.edu / source 2",
+        "url": "https://vision.luddy.iu.edu/people/facultystaff.html",
+        "summary": "Full official lab page verifies professorship and computer vision/applied machine learning research.",
+        "verifiedAt": "2026-09-30T23:56:17Z"
+      },
+      {
+        "id": "s3",
+        "label": "iucvl.github.io / source 3",
+        "url": "https://iucvl.github.io/papers/ikigaireflection2024roman.pdf",
+        "summary": "Full 2024 primary paper: Sections III-IV specify QTrobot head/arm actuation, autonomous scripted/LLM conversation and 19-adult evaluation; IU affiliation and coauthorship verified.",
+        "verifiedAt": "2026-09-30T23:56:17Z"
+      },
+      {
+        "id": "s4",
+        "label": "humanrobotinteraction.org / source 4",
+        "url": "https://humanrobotinteraction.org/2026/schedule/",
+        "summary": "Full official HRI 2026 Demos program lists Meet IRIS with David Crandall; separate IRIS video also lists him.",
+        "verifiedAt": "2026-09-30T23:56:17Z"
+      },
+      {
+        "id": "s5",
+        "label": "williamvalentine.info / source 5",
+        "url": "https://williamvalentine.info/",
+        "summary": "Full primary coauthor page describes HRI 2026 IRIS on LuxAI QT with structured prompts and AI follow-ups; identifies BehaviorKit 2026.",
+        "verifiedAt": "2026-09-30T23:56:17Z"
+      },
+      {
+        "id": "s6",
+        "label": "williamvalentine.info / source 6",
+        "url": "https://williamvalentine.info/data/papers/behaviorkit.pdf",
+        "summary": "Full five-page 2026 primary paper confirms Crandall coauthorship, multimodal behavior-analysis models and WebSocket/ROS integration; example media evaluation does not establish a new hardware trial.",
+        "verifiedAt": "2026-09-30T23:56:17Z"
+      },
+      {
+        "id": "s7",
+        "label": "vision.luddy.iu.edu / source 7",
+        "url": "https://vision.luddy.iu.edu/people/alumni.html",
+        "summary": "Full official alumni page records external MS summer 2024 research intern and visiting WUSTL MS student in summer 2019; precedent only, no opening.",
+        "verifiedAt": "2026-09-30T23:56:17Z"
+      }
+    ],
+    "unknowns": [
+      "Eight-week duration, international appointment, supervision and funding require confirmation. Historical external master’s visitors do not establish current eligibility or capacity.",
+      "IRIS is collaborative work with Selma Sabanovic's lab; access to shared robots and the proposed project must be agreed, not inferred from coauthorship.",
+      "The examined 2024 study involved IRB-approved older-adult/care-facility research. No clinical efficacy, clinical authorization or permission for a short-term visitor to work with patients is inferred.",
+      "The HRI 2026 demo is confirmed by the official program and a coauthor description; its publisher full text was not accessible. BehaviorKit is a software contribution, not a newly verified deployed robot policy.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "djcran@iu.edu"
+  }
+]

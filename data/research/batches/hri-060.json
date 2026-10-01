@@ -13,7 +13,7 @@
     "department": "Electrical and Computer Engineering; Neurology; Biomedical Engineering by courtesy",
     "batch": "hri-060",
     "discoveredAt": "2026-10-01T05:01:59Z",
-    "verifiedAt": "2026-10-01T05:06:40Z",
+    "verifiedAt": "2026-10-01T06:02:05Z",
     "researchAreas": [
       "Statistical machine learning",
       "Noninvasive brain-computer interfaces",
@@ -94,6 +94,13 @@
         "url": "https://sites.utexas.edu/jdrmillan/2024/09/26/satyam-kumar-successfully-defended-his-phd-thesis-congratulations/",
         "summary": "Official September 2024 thesis-defense report links paper coauthor Satyam Kumar to the CNBI research group and exoskeleton/BCI program; this establishes historical supervision, not a current-student claim.",
         "verifiedAt": "2026-10-01T05:06:40Z"
+      },
+      {
+        "id": "s7",
+        "label": "CNBI directed-alumni completion dates",
+        "url": "https://sites.utexas.edu/jdrmillan/headers-page/",
+        "summary": "Official lab news dates Satyam Kumar’s thesis completion to September 2024 and Deland Liu’s to October 2025. These establish supervised alumni, not current-student availability.",
+        "verifiedAt": "2026-10-01T06:02:05Z"
       }
     ],
     "unknowns": [
@@ -103,7 +110,8 @@
       "Departmental onboarding and patient/data/clinical access are separate. The selected experiment involved healthy participants and does not establish clinical readiness.",
       "A listed visiting professor is not evidence of a current student opening.",
       "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
-      "[Institutional visitor rules](../eligibility_notes.md#ut-austin)"
+      "[Institutional visitor rules](../eligibility_notes.md#ut-austin)",
+      "Satyam Kumar and Deland Liu are directed alumni, with official 2024 and 2025 defense records; do not infer their current availability as graduate mentors."
     ],
     "publicEmail": "jose.millan@austin.utexas.edu"
   },
@@ -121,7 +129,7 @@
     "department": "Electrical and Computer Engineering; IUCRC BRAIN Center",
     "batch": "hri-060",
     "discoveredAt": "2026-10-01T05:01:59Z",
-    "verifiedAt": "2026-10-01T05:03:10Z",
+    "verifiedAt": "2026-10-01T06:02:05Z",
     "researchAreas": [
       "Deep-learning neural decoding",
       "Brain-machine interfaces",
@@ -134,7 +142,8 @@
       "status": "public-hardware-evidence",
       "summary": "The full August 2026 pilot deploys a neural feature-extraction block plus PolyTVL/LSTM gait decoder on an actual 10-actuator Rex lower-limb exoskeleton. A Python control system triggers steps from EEG predictions; one healthy participant completed five open-loop and five mixed open/closed-loop sessions. Rex-assisted initiation succeeded in 55.3% of trials, with 18.2% false positives. Mean inference including preprocessing was 70.5 ms, while valid end-to-end initiation latency was about 1.04 seconds. This is physical learned control, but remains a single-subject feasibility study, not demonstrated clinical effectiveness or broadly reliable autonomous walking.",
       "sourceIds": [
-        "s2"
+        "s2",
+        "s6"
       ]
     },
     "shortVisit": {
@@ -192,6 +201,13 @@
         "url": "https://www.egr.uh.edu/nsap/about",
         "summary": "Full official NSAP page specifies ten weeks, May–July 2026, bachelor’s degree and US citizenship/permanent residency; not a current 2027 visitor offer.",
         "verifiedAt": "2026-10-01T05:03:10Z"
+      },
+      {
+        "id": "s6",
+        "label": "BRAIN Center author mentoring linkage",
+        "url": "https://www.nsfbrain.org/organization/students",
+        "summary": "Current center roster explicitly identifies Rex-paper first author Shantanu Sarkar with mentor Jose Contreras-Vidal at the University of Houston, supporting directed-group attribution.",
+        "verifiedAt": "2026-10-01T06:02:05Z"
       }
     ],
     "unknowns": [

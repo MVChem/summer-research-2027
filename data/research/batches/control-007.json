@@ -189,7 +189,7 @@
     "department": "Aerospace Engineering; Institute for Systems Research",
     "batch": "control-007",
     "discoveredAt": "2026-09-30T22:12:58Z",
-    "verifiedAt": "2026-09-30T22:19:35Z",
+    "verifiedAt": "2026-10-01T05:51:00Z",
     "researchAreas": [
       "AI-enabled autonomous systems",
       "Multi-robot coordination",
@@ -199,12 +199,13 @@
     "fitReason": "Connects multi-agent control with deployed perception and intelligent robotic teams. A plausible physical-AI direction is multimodal inference and coordination for emergency-response robots.",
     "physicalEvidence": {
       "status": "public-hardware-evidence",
-      "summary": "Leads RoboScout, whose physical fleet includes three Boston Dynamics Spot robots and custom UAVs. The official team reports robot-only and human-machine testing at DARPA Workshop 3 in March 2026. Current CDCL publications include a 2026 conversational VLM/deep-learning casualty-assessment pipeline.",
+      "summary": "Leads RoboScout, whose physical fleet includes three Boston Dynamics Spot robots and custom UAVs. The official team reports robot-only and human-machine testing at DARPA Workshop 3 in March 2026. Current CDCL publications include a 2026 conversational VLM/deep-learning casualty-assessment pipeline. A fully inspected SciTech 2026 experiment separately flies a ModalAI M500 in an indoor netted arena: onboard YOLOv5s confidence controls inspection dwell/advance logic, while localization, path planning and flight control are classical. Standardized bucket targets and evaluation-only Vicon do not establish casualty assessment on patients.",
       "sourceIds": [
         "s1",
         "s2",
         "s3",
-        "s4"
+        "s4",
+        "s5"
       ]
     },
     "shortVisit": {
@@ -234,8 +235,8 @@
         "id": "s1",
         "label": "cdcl.umd.edu / source 1",
         "url": "https://cdcl.umd.edu/",
-        "summary": "Current title/email and 2026 AI, autonomous-systems and VLM research; former MRC directorship dates.",
-        "verifiedAt": "2026-09-30T22:19:35Z",
+        "summary": "Current title/email and 2026 AI, autonomous-systems and VLM research; former MRC directorship dates. Current roster separately lists Ahmed Ashry and Zachary Bortoff as PhD students.",
+        "verifiedAt": "2026-10-01T05:51:00Z",
         "retrieval": "web open (full page or targeted passage)"
       },
       {
@@ -261,11 +262,28 @@
         "summary": "2026 multimodal inference and autonomous casualty-assessment work; generic contact form is not a visit invitation.",
         "verifiedAt": "2026-09-30T22:19:35Z",
         "retrieval": "official indexed project page"
+      },
+      {
+        "id": "s5",
+        "label": "SciTech 2026 full primary methods",
+        "url": "https://cdcl.umd.edu/papers/scitech26.pdf",
+        "summary": "Full 18-page author paper verifies physical ModalAI M500 inspection with onboard quantized YOLOv5s confidence directing dwell/advance behavior. AprilTag localization, template poses, lawnmower planning and PX4 control are classical; bucket targets are not injured people.",
+        "verifiedAt": "2026-10-01T05:51:00Z",
+        "retrieval": "full primary PDF text"
+      },
+      {
+        "id": "s6",
+        "label": "ICRA 2026 one-page author document",
+        "url": "https://cdcl.umd.edu/papers/icra26.pdf",
+        "summary": "Only the first page was available in this copy. It summarizes real Spot/drone triage and classifier/fusion work, but full technical methods were not retrieved.",
+        "verifiedAt": "2026-10-01T05:51:00Z",
+        "retrieval": "one-page primary document only"
       }
     ],
     "unknowns": [
       "No summer 2027 availability, eight-week duration, visitor funding, or international visitor eligibility has been established. Any visit needs faculty agreement and university-approved hosting. Project access, scope and any restrictions require institutional confirmation. He is former Maryland Robotics Center director (2019–2025), not current director. The November 2026 challenge final is future at verification.",
-      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "The currently accessible ICRA 2026 author PDF has only its first page; its complete classifier and experimental methods were not inspected. No new visitor opportunity or score change is inferred."
     ],
     "publicEmail": "dpaley@umd.edu"
   },

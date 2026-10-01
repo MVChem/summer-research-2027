@@ -196,8 +196,8 @@
 | 186 | [John T. Wen](batches/control-060.md#john-t-wen) · Rensselaer Polytechnic Institute | 77 (37/25/0/15) | precedent-only | 2026-10-01T04:34:09Z | 2026-10-01T04:36:46Z |
 | 187 | [José L. Pons](batches/hri-057.md#jose-l-pons) · Northwestern University; Shirley Ryan AbilityLab | 77 (37/25/0/15) | unknown | 2026-10-01T04:40:28Z | 2026-10-01T05:07:02Z |
 | 188 | [Sanjit A. Seshia](batches/control-063.md#sanjit-a-seshia) · University of California, Berkeley | 77 (37/25/0/15) | unknown | 2026-10-01T04:50:50Z | 2026-10-01T05:00:30Z |
-| 189 | [Jose Luis Contreras-Vidal](batches/hri-060.md#jose-luis-contreras-vidal) · University of Houston | 77 (37/25/0/15) | unknown · separate 2026 NSAP restrictions | 2026-10-01T05:01:59Z | 2026-10-01T05:03:10Z |
-| 190 | [José del R. Millán](batches/hri-060.md#jose-del-r-millan) · The University of Texas at Austin | 77 (37/25/0/15) | unknown | 2026-10-01T05:01:59Z | 2026-10-01T05:06:40Z |
+| 189 | [Jose Luis Contreras-Vidal](batches/hri-060.md#jose-luis-contreras-vidal) · University of Houston | 77 (37/25/0/15) | unknown · separate 2026 NSAP restrictions | 2026-10-01T05:01:59Z | 2026-10-01T06:02:05Z |
+| 190 | [José del R. Millán](batches/hri-060.md#jose-del-r-millan) · The University of Texas at Austin | 77 (37/25/0/15) | unknown | 2026-10-01T05:01:59Z | 2026-10-01T06:02:05Z |
 | 191 | [Jun Nishida](batches/hri-052.md#jun-nishida) · University of Maryland, College Park | 77 (34/23/5/15) | inquiry-only · student appointment category unresolved | 2026-10-01T03:36:49Z | 2026-10-01T04:34:22Z |
 | 192 | [Yi Guo](batches/control-015.md#yi-guo) · Stevens Institute of Technology | 76 (37/25/0/14) | unknown | 2026-09-30T23:19:58Z | 2026-09-30T23:27:35Z |
 | 193 | [Bilge Mutlu](batches/hri-001.md#bilge-mutlu) · University of Wisconsin–Madison | 76 (37/24/0/15) | unknown | 2026-09-30T21:22:12Z | 2026-09-30T21:27:42Z |
@@ -240,7 +240,7 @@
 | 230 | [Holly Yanco](batches/hri-003.md#holly-yanco) · University of Massachusetts Amherst | 75 (35/25/0/15) | unknown | 2026-09-30T21:36:25Z | 2026-09-30T21:42:22Z |
 | 231 | [Vasileios Tzoumas](batches/control-004.md#vasileios-tzoumas) · University of Michigan | 75 (35/25/0/15) | unknown | 2026-09-30T21:42:18Z | 2026-09-30T21:47:35Z |
 | 232 | [Jie Ying Wu](batches/embodied-007.md#jie-ying-wu) · Vanderbilt University | 75 (35/25/0/15) | unknown | 2026-09-30T22:07:56Z | 2026-09-30T22:18:19Z |
-| 233 | [Derek A. Paley](batches/control-007.md#derek-a-paley) · University of Maryland, College Park | 75 (35/25/0/15) | unknown | 2026-09-30T22:12:58Z | 2026-09-30T22:19:35Z |
+| 233 | [Derek A. Paley](batches/control-007.md#derek-a-paley) · University of Maryland, College Park | 75 (35/25/0/15) | unknown | 2026-09-30T22:12:58Z | 2026-10-01T05:51:00Z |
 | 234 | [Jiangen He](batches/hri-024.md#jiangen-he) · University of Tennessee, Knoxville | 75 (35/25/0/15) | unknown | 2026-10-01T00:07:54Z | 2026-10-01T00:13:39Z |
 | 235 | [Carmel Majidi](batches/embodied-041.md#carmel-majidi) · Carnegie Mellon University | 75 (35/25/0/15) | unknown | 2026-10-01T01:56:41Z | 2026-10-01T01:59:06Z |
 | 236 | [David J. Cappelleri](batches/embodied-049.md#david-j-cappelleri) · Purdue University | 75 (35/25/0/15) | unknown | 2026-10-01T02:52:41Z | 2026-10-01T02:59:54Z |

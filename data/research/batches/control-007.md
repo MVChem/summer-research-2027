@@ -12,20 +12,22 @@
 - 任职：Willis H. Young Jr. Professor of Aerospace Engineering Education
 - 方向：AI-enabled autonomous systems；Multi-robot coordination；Robotic casualty assessment；Adaptive environmental sensing
 - 匹配理由：Connects multi-agent control with deployed perception and intelligent robotic teams. A plausible physical-AI direction is multimodal inference and coordination for emergency-response robots.
-- 真机证据（public-hardware-evidence）：Leads RoboScout, whose physical fleet includes three Boston Dynamics Spot robots and custom UAVs. The official team reports robot-only and human-machine testing at DARPA Workshop 3 in March 2026. Current CDCL publications include a 2026 conversational VLM/deep-learning casualty-assessment pipeline.
+- 真机证据（public-hardware-evidence）：Leads RoboScout, whose physical fleet includes three Boston Dynamics Spot robots and custom UAVs. The official team reports robot-only and human-machine testing at DARPA Workshop 3 in March 2026. Current CDCL publications include a 2026 conversational VLM/deep-learning casualty-assessment pipeline. A fully inspected SciTech 2026 experiment separately flies a ModalAI M500 in an indoor netted arena: onboard YOLOv5s confidence controls inspection dwell/advance logic, while localization, path planning and flight control are classical. Standardized bucket targets and evaluation-only Vicon do not establish casualty assessment on patients.
 - 短访证据（unknown）：CDCL and RoboScout provide generic contact/get-involved information, but this does not establish a visiting-student pathway or short summer opening.
-- 首次发现：2026-09-30T22:12:58Z；最后核查：2026-09-30T22:19:35Z
+- 首次发现：2026-09-30T22:12:58Z；最后核查：2026-10-01T05:51:00Z
 - 当前总分：75/100；评分依据：
   - fit 35/40：Strong embodied AI and multi-agent autonomy, with specialized emergency-response application.
   - physical 25/25：Named robots and documented 2026 field tests by a team he leads.
   - shortVisit 0/20：Generic involvement/contact language only.
   - freshness 15/15：Current March 2026 deployment report plus dated 2026 technical work.
-- 未确认事项：No summer 2027 availability, eight-week duration, visitor funding, or international visitor eligibility has been established. Any visit needs faculty agreement and university-approved hosting. Project access, scope and any restrictions require institutional confirmation. He is former Maryland Robotics Center director (2019–2025), not current director. The November 2026 challenge final is future at verification.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.
+- 未确认事项：No summer 2027 availability, eight-week duration, visitor funding, or international visitor eligibility has been established. Any visit needs faculty agreement and university-approved hosting. Project access, scope and any restrictions require institutional confirmation. He is former Maryland Robotics Center director (2019–2025), not current director. The November 2026 challenge final is future at verification.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.；The currently accessible ICRA 2026 author PDF has only its first page; its complete classifier and experimental methods were not inspected. No new visitor opportunity or score change is inferred.
 - 来源：
-  - [cdcl.umd.edu / source 1](https://cdcl.umd.edu/)：Current title/email and 2026 AI, autonomous-systems and VLM research; former MRC directorship dates.（核查 2026-09-30T22:19:35Z；读取方式 web open (full page or targeted passage)）
+  - [cdcl.umd.edu / source 1](https://cdcl.umd.edu/)：Current title/email and 2026 AI, autonomous-systems and VLM research; former MRC directorship dates. Current roster separately lists Ahmed Ashry and Zachary Bortoff as PhD students.（核查 2026-10-01T05:51:00Z；读取方式 web open (full page or targeted passage)）
   - [ece.umd.edu / source 2](https://ece.umd.edu/news/story/umdrsquos-team-roboscout-delivers-again)：December 10, 2025 official report identifies Paley-led deployed Spot/UAV fleet and challenge performance.（核查 2026-09-30T22:19:35Z；读取方式 official indexed article）
   - [roboscout.umd.edu / source 3](https://roboscout.umd.edu/703-2/)：Team reports physical robot-only and human-machine tests March 14–19, 2026.（核查 2026-09-30T22:19:35Z；读取方式 official indexed project report; main website fetch failed）
   - [roboscout.umd.edu / source 4](https://roboscout.umd.edu/research/)：2026 multimodal inference and autonomous casualty-assessment work; generic contact form is not a visit invitation.（核查 2026-09-30T22:19:35Z；读取方式 official indexed project page）
+  - [SciTech 2026 full primary methods](https://cdcl.umd.edu/papers/scitech26.pdf)：Full 18-page author paper verifies physical ModalAI M500 inspection with onboard quantized YOLOv5s confidence directing dwell/advance behavior. AprilTag localization, template poses, lawnmower planning and PX4 control are classical; bucket targets are not injured people.（核查 2026-10-01T05:51:00Z；读取方式 full primary PDF text）
+  - [ICRA 2026 one-page author document](https://cdcl.umd.edu/papers/icra26.pdf)：Only the first page was available in this copy. It summarizes real Spot/drone triage and classifier/fusion work, but full technical methods were not retrieved.（核查 2026-10-01T05:51:00Z；读取方式 one-page primary document only）
 
 <a id="michael-w-otte"></a>
 

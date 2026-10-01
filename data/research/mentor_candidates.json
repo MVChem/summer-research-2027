@@ -157,6 +157,7 @@
     "batches/embodied-069.json",
     "batches/embodied-070.json",
     "batches/embodied-071.json",
+    "batches/embodied-072.json",
     "batches/embodied-075.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
@@ -8612,6 +8613,64 @@
       "shortVisitStatus": "unknown · generic intern inquiry；外校短访条件未明确",
       "recordFile": "batches/embodied-071.json",
       "detailPage": "batches/embodied-071.md#jingwei-sun"
+    },
+    {
+      "id": "yin-yang",
+      "name": "Yin Yang",
+      "aliases": [],
+      "school": "University of Utah",
+      "title": "Associate Professor",
+      "homepage": "https://yangzzzy.github.io/",
+      "batch": "embodied-072",
+      "discoveredAt": "2026-10-01T06:09:31Z",
+      "verifiedAt": "2026-10-01T06:51:00Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "3D representation learning for manipulation",
+        "Sim-to-real robot learning",
+        "Tactile VLA policies",
+        "Video action models",
+        "Physics-based robot simulation"
+      ],
+      "discoveryTimestampNote": "Earliest precisely retained primary-paper encounter; dedicated current-affiliation verification followed. No earlier unrecorded time was reconstructed.",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-072.json",
+      "detailPage": "batches/embodied-072.md#yin-yang"
+    },
+    {
+      "id": "ming-hsuan-yang",
+      "name": "Ming-Hsuan Yang",
+      "aliases": [
+        "Ming Hsuan Yang"
+      ],
+      "school": "University of California, Merced",
+      "title": "Professor; EECS Graduate Group Chair",
+      "homepage": "https://faculty.ucmerced.edu/mhyang/",
+      "batch": "embodied-072",
+      "discoveredAt": "2026-10-01T06:41:17Z",
+      "verifiedAt": "2026-10-01T06:50:52Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Visuotactile diffusion policies",
+        "Dexterous manipulation",
+        "Egocentric spatial intelligence",
+        "Multimodal foundation-model evaluation",
+        "Visual learning"
+      ],
+      "discoveryTimestampNote": "First precisely retained primary visitor-adviser evidence in a student-authored public research history; current university profile verified subsequently.",
+      "shortVisitStatus": "precedent-only",
+      "recordFile": "batches/embodied-072.json",
+      "detailPage": "batches/embodied-072.md#ming-hsuan-yang"
     },
     {
       "id": "pratyusha-sharma",

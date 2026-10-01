@@ -987,3 +987,13 @@ Sources: [Guides and Forms](https://www.lamar.edu/international-education/intern
 沿用此前 2026-10-01T00:58:56Z 的[Guest Student 政策核查](https://www.whoi.edu/what-we-do/educate/gueststudent/)：境外或外校全日制研究生及本科生可申请全年 2 周至 2 年的科研访问，先取得科学/技术导师接收，再按[申请流程](https://www.whoi.edu/what-we-do/educate/gueststudent/gueststudent-admissions/)完成主校导师同意、院系、Academic Programs 和 HR 审批。约 8 周符合公布学术时长，但不是导师接收承诺。
 
 [2025 Guest Student Agreement](https://www.whoi.edu/wp-content/uploads/2025/04/GS-agreement_fillable.pdf)包含 graduate 选项、教育计划及无报酬安排；这不等于全部个人资金已获移民类别批准。具体签证类别、资金来源/最低额、费用和完整提前量须由 Foreign National Advisor 确认。访客自行安排食宿与保险，暑期住房有限；船舶、潜水、野外任务及境外全远程均不保证。
+
+<a id="uc-merced"></a>
+
+## UC Merced · 外校研究生 Visitor 明确，签证类别另批
+
+核查：2026-10-01T06:48:08Z。[当前 Academic Personnel](https://academicpersonnel.ucmerced.edu/resources/academic-titles/visiting_scholars) 明确提供 Visitor (Graduate Student)，适用于 UC 系统以外的在读学位学生；最长十二个月、通常六个月以内，未列最低访期。须邀请、学籍/隶属、CV 和自我支持证明；页面明确不再要求旧611/620表、学历证书和原校批准 memo，不能沿用旧表清单替代现行规则。[APM430](https://www.ucop.edu/academic-personnel-programs/_files/apm/apm-430.pdf) 规定该身份不构成雇用/UC学籍，不发工资，可有合规报销或补充生活支持。
+
+[March2026 申请表](https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/documents/j-1_biographical_information_form_march_2026.pdf) 包含 graduate student 原身份示例与个人资金选项；[现行资金页](https://iss.ucmerced.edu/J-1Funding) 及同月校方清单均为单人每月 **2,000美元**，是财力证明而非收费，旧1,600/1,800数字不作现行预算。[签证类别](https://iss.ucmerced.edu/ucm-departments/j-1scholars/categories) 列 Short-Term Scholar 最长六个月等，由OIA确定；未列 Student Intern，不能借用其他UC分校规则。[本科 Non-Degree 的51%非个人资金要求](https://iss.ucmerced.edu/ucm-departments/non-degree) 不自动套用所有研究生Scholar，但类别未批准前也不能承诺全自费。
+
+[初始申请应提前三个月](https://iss.ucmerced.edu/ucm-departments/j-1scholars/timelines)，[初始J1办理费680美元由部门recharge支付、加急370美元](https://iss.ucmerced.edu/ucm-departments/j-1scholars/fees)，最终由谁承担须问主办方。[2026校方清单](https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/documents/ucm_school_request_for_j-1_services_march_2026.pdf) 要求任命、英语及研究安全审核，Scholar至少60%线下、Non-Degree不能远程。[保险须合规并按适用规则投保或获waiver](https://iss.ucmerced.edu/professors-researchers/j-1/health-insurance)；现行材料仍有等待期细节差异，需OIA确认。八周项目、导师容量、签证分类、保险及2027费用均未获个人批准。

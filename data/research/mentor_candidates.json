@@ -60,6 +60,8 @@
     "batches/control-049.json",
     "batches/control-050.json",
     "batches/control-051.json",
+    "batches/control-052.json",
+    "batches/control-053.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -3210,6 +3212,87 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-051.json",
       "detailPage": "batches/control-051.md#bowen-weng"
+    },
+    {
+      "id": "ayonga-hereid",
+      "name": "Ayonga Hereid",
+      "aliases": [],
+      "school": "The Ohio State University",
+      "title": "Associate Professor; Principal Investigator, Cyberbotics Lab",
+      "homepage": "https://people.engineering.osu.edu/people/hereid.1",
+      "batch": "control-052",
+      "discoveredAt": "2026-10-01T02:57:48Z",
+      "verifiedAt": "2026-10-01T03:00:25Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Hierarchical reinforcement learning",
+        "Bipedal locomotion",
+        "Safety-critical robot control",
+        "Learned terrain representations",
+        "Humanoid navigation"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-052.json",
+      "detailPage": "batches/control-052.md#ayonga-hereid"
+    },
+    {
+      "id": "hamidreza-modares",
+      "name": "Hamidreza Modares",
+      "aliases": [],
+      "school": "Michigan State University",
+      "title": "Associate Professor",
+      "homepage": "https://engineering.msu.edu/directory/faculty/modaresh",
+      "batch": "control-053",
+      "discoveredAt": "2026-10-01T03:01:28Z",
+      "verifiedAt": "2026-10-01T03:02:48Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Safe learning-enabled control",
+        "Perception-aware model predictive control",
+        "Data-driven control",
+        "Reinforcement learning",
+        "Cyber-physical systems"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-053.json",
+      "detailPage": "batches/control-053.md#hamidreza-modares"
+    },
+    {
+      "id": "bahare-kiumarsi",
+      "name": "Bahare Kiumarsi",
+      "aliases": [],
+      "school": "Michigan State University",
+      "title": "Associate Professor",
+      "homepage": "https://engineering.msu.edu/directory/faculty/kiumarsi",
+      "batch": "control-053",
+      "discoveredAt": "2026-10-01T03:01:38Z",
+      "verifiedAt": "2026-10-01T03:02:48Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Safe learning-enabled control",
+        "Perception-aware model predictive control",
+        "Data-driven control",
+        "Reinforcement learning",
+        "Cyber-physical systems"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-053.json",
+      "detailPage": "batches/control-053.md#bahare-kiumarsi"
     },
     {
       "id": "tom-silver",

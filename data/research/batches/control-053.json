@@ -1,0 +1,164 @@
+[
+  {
+    "id": "hamidreza-modares",
+    "name": "Hamidreza Modares",
+    "aliases": [],
+    "school": "Michigan State University",
+    "homepage": "https://engineering.msu.edu/directory/faculty/modaresh",
+    "title": "Associate Professor",
+    "department": "Mechanical Engineering",
+    "batch": "control-053",
+    "discoveredAt": "2026-10-01T03:01:28Z",
+    "verifiedAt": "2026-10-01T03:02:48Z",
+    "researchAreas": [
+      "Safe learning-enabled control",
+      "Perception-aware model predictive control",
+      "Data-driven control",
+      "Reinforcement learning",
+      "Cyber-physical systems"
+    ],
+    "fitReason": "Good algorithmic match for safe learned perception in physical feedback loops and data-driven control. Hardware evidence combines a CNN state estimator with robust MPC rather than end-to-end learned motor control.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "September 2025 primary study deploys RobotPerceptionNet plus zonotopic estimation and robust MPC on a real Husarion ROSbot XL with Jetson Orin Nano, overhead Astra Pro Plus camera and ROS2/Wi-Fi control. The constrained 2×2 m experiment learns position from preprocessed robot-marker images; orientation is supplied separately. It is not an outdoor autonomous-car demonstration. MSU author collaboration is verified; exclusive ownership/access by either individual lab is not established.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current production university directory identifies Associate Professor and public institutional email. Reviewed sources do not advertise a current external master’s short visit.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct safe learning/control and physically deployed neural perception, with an optimization-heavy research mix.",
+      "physical": "Verified2025 MSU ROSbot control collaboration; separate individual-lab ownership/access not confirmed.",
+      "shortVisit": "No current external master’s short-visit route verified.",
+      "freshness": "April 2026 primary safe-control research plus current institutional appointment; physical study correctly dated2025."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.msu.edu / source 1",
+        "url": "https://engineering.msu.edu/directory/faculty/modaresh",
+        "summary": "Current production faculty directory: Associate Professor, department, email and research areas; older biography retains Assistant wording.",
+        "verifiedAt": "2026-10-01T03:02:48Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "arxiv.org / source 2",
+        "url": "https://arxiv.org/html/2509.05201v1",
+        "summary": "September 5, 2025 primary full text: MSU affiliation; real ROSbot XL with CNN position estimator in closed-loop robust MPC; constrained marker-image experimental setting.",
+        "verifiedAt": "2026-10-01T03:02:48Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/abs/2604.01156",
+        "summary": "April 1, 2026 coauthored nonlinear safe-control learning preprint. Abstract reports simulation, not new physical deployment.",
+        "verifiedAt": "2026-10-01T03:02:48Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      }
+    ],
+    "unknowns": [
+      "Current directory heading and department roster supersede old Assistant Professor biography text and the development-site copy. Research correspondence, funded research and degree supervision do not establish visiting capacity. Reuse existing Michigan State institutional policy; approval, dates, project access and funding need confirmation. April 2026 safe-control work is simulated and is used only as current methodological activity.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "modaresh@msu.edu"
+  },
+  {
+    "id": "bahare-kiumarsi",
+    "name": "Bahare Kiumarsi",
+    "aliases": [],
+    "school": "Michigan State University",
+    "homepage": "https://engineering.msu.edu/directory/faculty/kiumarsi",
+    "title": "Associate Professor",
+    "department": "Electrical and Computer Engineering",
+    "batch": "control-053",
+    "discoveredAt": "2026-10-01T03:01:38Z",
+    "verifiedAt": "2026-10-01T03:02:48Z",
+    "researchAreas": [
+      "Safe learning-enabled control",
+      "Perception-aware model predictive control",
+      "Data-driven control",
+      "Reinforcement learning",
+      "Cyber-physical systems"
+    ],
+    "fitReason": "Good algorithmic match for safe learned perception in physical feedback loops and data-driven control. Hardware evidence combines a CNN state estimator with robust MPC rather than end-to-end learned motor control.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "September 2025 primary study deploys RobotPerceptionNet plus zonotopic estimation and robust MPC on a real Husarion ROSbot XL with Jetson Orin Nano, overhead Astra Pro Plus camera and ROS2/Wi-Fi control. The constrained 2×2 m experiment learns position from preprocessed robot-marker images; orientation is supplied separately. It is not an outdoor autonomous-car demonstration. MSU author collaboration is verified; exclusive ownership/access by either individual lab is not established.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current production university directory identifies Associate Professor and public institutional email. Reviewed sources do not advertise a current external master’s short visit.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct safe learning/control and physically deployed neural perception, with an optimization-heavy research mix.",
+      "physical": "Verified2025 MSU ROSbot control collaboration; separate individual-lab ownership/access not confirmed.",
+      "shortVisit": "No current external master’s short-visit route verified.",
+      "freshness": "April 2026 primary safe-control research plus current institutional appointment; physical study correctly dated2025."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.msu.edu / source 1",
+        "url": "https://engineering.msu.edu/directory/faculty/kiumarsi",
+        "summary": "Current production faculty directory: Associate Professor, department, email and research areas; older biography retains Assistant wording.",
+        "verifiedAt": "2026-10-01T03:02:48Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "arxiv.org / source 2",
+        "url": "https://arxiv.org/html/2509.05201v1",
+        "summary": "September 5, 2025 primary full text: MSU affiliation; real ROSbot XL with CNN position estimator in closed-loop robust MPC; constrained marker-image experimental setting.",
+        "verifiedAt": "2026-10-01T03:02:48Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/abs/2604.01156",
+        "summary": "April 1, 2026 coauthored nonlinear safe-control learning preprint. Abstract reports simulation, not new physical deployment.",
+        "verifiedAt": "2026-10-01T03:02:48Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      }
+    ],
+    "unknowns": [
+      "Current directory heading and department roster supersede old Assistant Professor biography text and the development-site copy. Research correspondence, funded research and degree supervision do not establish visiting capacity. Reuse existing Michigan State institutional policy; approval, dates, project access and funding need confirmation. April 2026 safe-control work is simulated and is used only as current methodological activity.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "kiumarsi@msu.edu"
+  }
+]

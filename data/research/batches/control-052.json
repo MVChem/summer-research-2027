@@ -1,0 +1,123 @@
+[
+  {
+    "id": "ayonga-hereid",
+    "name": "Ayonga Hereid",
+    "aliases": [],
+    "school": "The Ohio State University",
+    "homepage": "https://people.engineering.osu.edu/people/hereid.1",
+    "title": "Associate Professor; Principal Investigator, Cyberbotics Lab",
+    "department": "Mechanical and Aerospace Engineering",
+    "batch": "control-052",
+    "discoveredAt": "2026-10-01T02:57:48Z",
+    "verifiedAt": "2026-10-01T03:00:25Z",
+    "researchAreas": [
+      "Hierarchical reinforcement learning",
+      "Bipedal locomotion",
+      "Safety-critical robot control",
+      "Learned terrain representations",
+      "Humanoid navigation"
+    ],
+    "fitReason": "Strong learning-and-control fit: hierarchical RL, reduced-order representations and model-based execution for legged robots. Concrete learned physical control is established, although the strongest verified deployment here predates the newest simulated perception methods.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The 2023 study revised January 2024 and accepted at ICRA2024 physically tests Digit using a pneumatic impactor. Its task-space-learning controller combines an RL high-level planner with TSID low-level tracking; it is compared with classical and manufacturer controllers. Ohio State Cyberbotics and biomechanics facilities are credited. The December 2025 terrain-aware CNN-VAE/RL paper adds real depth-sensor comparisons, but locomotion evaluation remains simulated. June 2025 SAC subgoal navigation also explicitly leaves hardware deployment to future work. January 2026 university reporting supports continuing local humanoid research, without proving those newer learned pipelines ran physically.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Official current directory lists Associate Professor and public email. The lab identifies Hereid as PI and names graduate advisees, but no current external master’s short-visitor invitation was verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct hierarchical RL and learned representation methods for legged physical control.",
+      "physical": "Real local Digit learned-policy testing is clear, but dated 2023–24; newer perceptive RL motion is not physically verified.",
+      "shortVisit": "No current external short-visitor pathway found.",
+      "freshness": "Current directory and April 2026 official robotic-autonomy award activity; latest concrete learned hardware remains older."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "people.engineering.osu.edu / source 1",
+        "url": "https://people.engineering.osu.edu/people/hereid.1",
+        "summary": "Current Associate Professor, department, public email and research-group link.",
+        "verifiedAt": "2026-10-01T03:00:25Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "cyberboticslab.com / source 2",
+        "url": "https://cyberboticslab.com/people/",
+        "summary": "Lab PI and graduate advisees; older Assistant Professor wording retained.",
+        "verifiedAt": "2026-10-01T03:00:25Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2308.14636v2",
+        "summary": "January 2024 revised full text, originally2023: actual Digit impact tests; RL high-level/TSID low-level task-space learning; Ohio State lab acknowledgments.",
+        "verifiedAt": "2026-10-01T03:00:25Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2512.12993v1",
+        "summary": "December 2025 full text: terrain latent learning and real sensor comparison, with simulated locomotion and high-fidelity simulator results.",
+        "verifiedAt": "2026-10-01T03:00:25Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2506.02206v1",
+        "summary": "June 2025 full text: SAC/data-bootstrapped subgoal navigation; conclusion explicitly assigns hardware validation to future work.",
+        "verifiedAt": "2026-10-01T03:00:25Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "engineering.osu.edu / source 6",
+        "url": "https://engineering.osu.edu/news/2026/01/research-explores-how-safely-integrate-robots-human-spaces",
+        "summary": "January 2026 official report identifies Hereid and doctoral student Chengyang Peng conducting local humanoid research; broad description not used to override paper limitations.",
+        "verifiedAt": "2026-10-01T03:00:25Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "engineering.osu.edu / source 7",
+        "url": "https://engineering.osu.edu/news/2026/04/faculty-and-staff-accolades",
+        "summary": "April 2026 official report identifies Hereid as co-PI of new robotic-autonomy research funding; activity evidence only, not a visitor award.",
+        "verifiedAt": "2026-10-01T03:00:25Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      }
+    ],
+    "unknowns": [
+      "Current directory rank supersedes older lab and news Assistant Professor labels. Physical evidence is dated 2023–24, not relabeled 2026 by recent institutional coverage. External eligibility, eight-week capacity, funds, appointment and supervision remain unknown. Ohio State is distinct from Ohio University.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "hereid.1@osu.edu"
+  }
+]

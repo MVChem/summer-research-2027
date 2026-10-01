@@ -1,0 +1,120 @@
+[
+  {
+    "id": "milos-zefran",
+    "name": "Miloš Žefran",
+    "aliases": [
+      "Milos Zefran",
+      "Miloš Zefran",
+      "Milos Žefran"
+    ],
+    "school": "University of Illinois Chicago",
+    "homepage": "https://robotics.ece.uic.edu/",
+    "title": "Professor; Associate Department Head; Robotics Laboratory",
+    "department": "Electrical and Computer Engineering",
+    "batch": "control-069",
+    "discoveredAt": "2026-10-01T05:47:24Z",
+    "verifiedAt": "2026-10-01T05:51:23Z",
+    "researchAreas": [
+      "Learning-enabled surgical autonomy",
+      "Vision-based bimanual manipulation",
+      "Human-robot collaboration",
+      "Multimodal reinforcement learning",
+      "Assistive robotics"
+    ],
+    "fitReason": "Substantive learned perception feeds physical bimanual surgical control, with a broader program in multimodal collaborative robot policies.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "March 2025 primary paper, later IROS 2025, executes learned segmentation and instrument-keypoint detection on a first-generation da Vinci/dVRK with stereo endoscope and ROS2. YOLO11/MaskDINO/Detectron2 feed online boundary estimation, automatic grasp/stretch and instrument motion over ex-vivo porcine liver specimens. The paper defines dissection as energy delivery along tissue rather than proof of completed organ separation; autonomous repeated pulling and full separation remain future work. Geometric/PCA planning and control are explicit, not an end-to-end learned action policy. Current lab roster and lead author Ki-Hwan Oh’s 2026 dissertation project independently establish Žefran’s advising and current UIC group attribution. Separate CRCD data collection and new ViT pose-estimation evaluation are not counted as additional autonomous deployments.",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "degree-only · SMUL limited to Ljubljana students",
+      "summary": "Lab Opportunities page welcomes enrolled UIC undergraduate/graduate students and prospective PhD applicants, without an external short-visitor category. A genuine mentor invitation appears in Ljubljana’s SMUL network, but the parent program explicitly serves University of Ljubljana students; it is not a general external-master opening.",
+      "sourceIds": [
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct machine-learned perception coupled to actual bimanual manipulation plus multimodal collaborative robot research.",
+      "physical": "Real da Vinci execution with current directed-group/advisor linkage and explicit ex-vivo and partial-task limits.",
+      "shortVisit": "UIC degree intake and a Ljubljana-specific network do not establish an applicable general visitor invitation.",
+      "freshness": "IROS 2025 technical work, author’s 2026 dissertation project and current Fall 2026 faculty page."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "ece.uic.edu / source 1",
+        "url": "https://ece.uic.edu/profiles/milos-zefran-phd/",
+        "summary": "Current professor/associate-head title, verified email, Fall 2026 office hours and research areas.",
+        "verifiedAt": "2026-10-01T05:51:23Z",
+        "retrieval": "Direct official or primary HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "robotics.ece.uic.edu / source 2",
+        "url": "https://robotics.ece.uic.edu/people/",
+        "summary": "Current directed lab lists coauthors Leonardo Borgioli, Ki Hwan Oh, Siyu Li and Afagh Mehri; degree-completion timing deferred to author’s 2026 page.",
+        "verifiedAt": "2026-10-01T05:51:23Z",
+        "retrieval": "Direct official or primary HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2503.00666v1",
+        "summary": "Full primary hardware/methods/results: actual ex-vivo dVRK motion, learned models, geometric components and partial-dissection definition.",
+        "verifiedAt": "2026-10-01T05:51:23Z",
+        "retrieval": "Direct official or primary HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "koh43.github.io / source 4",
+        "url": "https://koh43.github.io/robotic-cholecystectomy/",
+        "summary": "2026 dissertation project expressly identifies Žefran as advisor and UIC Robotics/Surgical Innovation labs; links IROS 2025 publication.",
+        "verifiedAt": "2026-10-01T05:51:23Z",
+        "retrieval": "Direct official or primary HTML via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "robotics.ece.uic.edu / source 5",
+        "url": "https://robotics.ece.uic.edu/resources/opportunities/",
+        "summary": "Enrolled UIC student research and prospective PhD intake; no open external visitor category.",
+        "verifiedAt": "2026-10-01T05:51:23Z",
+        "retrieval": "Direct official or primary HTML via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "www.uni-lj.si / source 6",
+        "url": "https://www.uni-lj.si/en/university/international-cooperation/smul/smul-mentors/dr-milos-zefran",
+        "summary": "Primary university mentor listing welcomes interested students/researchers within SMUL context.",
+        "verifiedAt": "2026-10-01T05:51:23Z",
+        "retrieval": "Direct official or primary HTML via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "www.uni-lj.si / source 7",
+        "url": "https://www.uni-lj.si/en/university/international-cooperation/smul/opportunities-for-ul-students",
+        "summary": "Parent SMUL page explicitly frames student hosting for University of Ljubljana students; no broad eligibility inferred.",
+        "verifiedAt": "2026-10-01T05:51:23Z",
+        "retrieval": "Direct official or primary HTML via web.run"
+      }
+    ],
+    "unknowns": [
+      "Reuse existing UIC sponsorship/funding guidance. Its degree-linked Student Intern path and personal-funding policy still require host/category approval, insurance and documentation; 2027 costs, eight-week acceptance and laboratory access remain unconfirmed. The surgery work is ex-vivo robotics research, not patient-care authorization; any specimen/safety training or clinical-site access would require separate approval. Current official faculty page includes Fall 2026 office hours. Older 2021 interim associate-dean announcement is not his current administrative title.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[UIC institutional visitor rules](../eligibility_notes.md#uic)"
+    ],
+    "publicEmail": "mzefran@uic.edu"
+  }
+]

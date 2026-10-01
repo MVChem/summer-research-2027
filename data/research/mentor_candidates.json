@@ -177,7 +177,8 @@
     "batches/hri-050.json",
     "batches/hri-051.json",
     "batches/hri-052.json",
-    "batches/hri-053.json"
+    "batches/hri-053.json",
+    "batches/hri-054.json"
   ],
   "candidates": [
     {
@@ -10224,6 +10225,34 @@
       "shortVisitStatus": "precedent-only",
       "recordFile": "batches/hri-053.json",
       "detailPage": "batches/hri-053.md#jong-hoon-kim"
+    },
+    {
+      "id": "reza-abiri",
+      "name": "Reza Abiri",
+      "aliases": [],
+      "school": "University of Rhode Island",
+      "title": "Assistant Professor",
+      "homepage": "https://web.uri.edu/bme/meet/reza-abiri/",
+      "batch": "hri-054",
+      "discoveredAt": "2026-10-01T04:31:46Z",
+      "verifiedAt": "2026-10-01T04:33:06Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Shared autonomy",
+        "Human-robot interaction",
+        "Deep reinforcement learning",
+        "Intent inference",
+        "Assistive robot manipulation",
+        "Neural interfaces"
+      ],
+      "shortVisitStatus": "degree-only",
+      "recordFile": "batches/hri-054.json",
+      "detailPage": "batches/hri-054.md#reza-abiri"
     }
   ]
 }

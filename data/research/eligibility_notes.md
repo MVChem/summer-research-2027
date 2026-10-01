@@ -820,3 +820,14 @@ Tacoma 补充核查：2026-10-01T01:02:36Z。[SET visiting appointments](https:/
 另有 exchange / visiting-student 修课路径，研究生可逐案参加，但须承担适用学费和费用；它不能替代约八周、纯研究访问的正式批准。当前未核实独立 Student Intern 或等效研究生科研访问类别。任命、研究职责、学位关联、时长、资金来源、保险与费用均应由院系和 ISSS 协同确认。实验室的既往或当前硕士访客名单只作先例，不提升短访机会分数。
 
 Sources: [Hosting a Visiting Scholar](https://www.kent.edu/globaleducation/hosting-visiting-scholar); [Scholar Request Guide, 2024-09-06](https://www-s3-live.kent.edu/s3fs-root/s3fs-public/file/Scholar%20Request%20Guide%2020240906_1.pdf?VersionId=1I6UI5Tn11Esk6xx6zyFOK7T8ORWDLjZ); [Exchange and Visiting Student Programs](https://www.kent.edu/globaleducation/exchange-and-visiting-student-programs)
+
+<a id="rhode-island"></a>
+## Rhode Island · 海外研究生 Intern 路径明确，类别文字与金额须复核
+
+2026-10-01 核查。URI 的官方 International J-1 Student Interns 页面明确涵盖海外高校在读学生，并提到参与 pre-doctoral research 的研究生。页面列出三周至十二个月、每周至少 32 小时、与学位关联的结构化实习，并要求院系提交 DS-2019、DS-7002、学术资格、英语证明及 export-compliance 材料。
+
+该页明确允许用个人银行证明财力，列出每月 $1,200 支持额和 $200 文件办理费；这些网页数值不能作为 2027 已确认费用。页面还混用在读学生与毕业十二个月以内人员的 eligibility 表述，故应让 OISS 确认具体项目类别、在读/学位要求、当期财力和保险要求，而非把两类条件自动合并。
+
+上述中央路径不等于任何实验室招收短期访客。八周项目内容、导师与院系接受、资金来源和 2027 名额仍应分别核实。若项目涉及人体实验，还需考虑研究审批和培训周期。
+
+Source: [URI International J-1 Student Interns](https://web.uri.edu/global/coming-to-uri/visa/international-j1-student-interns/)

@@ -231,6 +231,7 @@
     "batches/hri-070.json",
     "batches/hri-071.json",
     "batches/hri-072.json",
+    "batches/hri-073.json",
     "batches/hri-074.json",
     "batches/hri-076.json"
   ],
@@ -12619,6 +12620,64 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-072.json",
       "detailPage": "batches/hri-072.md#yizhi-liu"
+    },
+    {
+      "id": "dan-o-popa",
+      "name": "Dan O. Popa",
+      "aliases": [
+        "Dan Popa"
+      ],
+      "school": "University of Louisville",
+      "title": "Professor; Vogt Endowed Chair in Advanced Manufacturing; Director of LARRI",
+      "homepage": "https://www.nextgensystemslab.com/",
+      "batch": "hri-073",
+      "discoveredAt": "2026-10-01T06:46:37Z",
+      "verifiedAt": "2026-10-01T06:54:38Z",
+      "scores": {
+        "fit": 37,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Physical human-robot interaction",
+        "Neuroadaptive robot control",
+        "Tactile sensing and calibration",
+        "Assistive robotics",
+        "Robot learning and adaptive interfaces"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-073.json",
+      "detailPage": "batches/hri-073.md#dan-o-popa"
+    },
+    {
+      "id": "yash-chitalia",
+      "name": "Yash Chitalia",
+      "aliases": [
+        "Yash Chetan Chitalia"
+      ],
+      "school": "University of Louisville",
+      "title": "Assistant Professor",
+      "homepage": "https://www.heart-lab.io/",
+      "batch": "hri-073",
+      "discoveredAt": "2026-10-01T06:47:40Z",
+      "verifiedAt": "2026-10-01T06:54:38Z",
+      "scores": {
+        "fit": 36,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Vision-guided robotic instrument handling",
+        "Surgical robotics",
+        "Learned perception for manipulation",
+        "Human-robot healthcare workflows",
+        "Continuum robot modeling and control"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-073.json",
+      "detailPage": "batches/hri-073.md#yash-chitalia"
     },
     {
       "id": "yogesh-girdhar",

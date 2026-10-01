@@ -1,0 +1,254 @@
+[
+  {
+    "id": "dan-o-popa",
+    "name": "Dan O. Popa",
+    "aliases": [
+      "Dan Popa"
+    ],
+    "school": "University of Louisville",
+    "homepage": "https://www.nextgensystemslab.com/",
+    "title": "Professor; Vogt Endowed Chair in Advanced Manufacturing; Director of LARRI",
+    "department": "Electrical and Computer Engineering; Louisville Automation and Robotics Research Institute (LARRI)",
+    "batch": "hri-073",
+    "discoveredAt": "2026-10-01T06:46:37Z",
+    "verifiedAt": "2026-10-01T06:54:38Z",
+    "researchAreas": [
+      "Physical human-robot interaction",
+      "Neuroadaptive robot control",
+      "Tactile sensing and calibration",
+      "Assistive robotics",
+      "Robot learning and adaptive interfaces"
+    ],
+    "fitReason": "Strong applied AI/HRI fit for learned robot dynamics, online tactile calibration and safe human-guided manipulation. The current university-led work is substantially computational as well as physical, making software, model evaluation or tactile-control projects plausible research topics if the mentor agrees.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The full July 19, 2026 Electronics paper implements an inner joint-space neural-network dynamics compensator and an outer ARMA(4,4) tactile mapping learned by recursive least squares on a real six-DoF Neuromeka Indy7. Four end-effector piezoresistive sensors drive planar motion; 28 participants generated 112 calibration sequences, then guided a figure-eight trajectory. The tactile update runs at 100 Hz, and learned outer-loop coefficients are retained for runtime rather than continuously adapted through every trial. NAC feedback gains remain fixed across participant trials; the formulation separately describes online neural dynamics weights. The paper assigns Popa conceptualization, methodology, resources, supervision and funding, and current official LARRI personnel include its first-author doctoral researcher and coauthor Jordan Dowdy. This is actual current local learned physical execution, limited to guided planar moderate-speed tasks; it does not establish absolute force estimation, 3D manipulation or autonomous task learning.",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The current official profile, NGS laboratory site/contact page and LARRI research/student pages establish an active university group, but no applicable outside-master short-visit or summer 2027 invitation was verified. Local graduate membership, summer independent-study teaching and the university intern mechanism are not treated as offers.",
+      "sourceIds": [
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantive neural/adaptive tactile HRI methods rather than hardware-only design.",
+      "physical": "Current PI-directed learned Indy7 execution with a documented participant study.",
+      "shortVisit": "No applicable external visitor offer verified.",
+      "freshness": "Full July 2026 publication and live university/lab sources."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "profiles.louisville.edu / source 1",
+        "url": "https://profiles.louisville.edu/dan.popa",
+        "summary": "Official current Professor, Vogt Endowed Chair, LARRI/NGS leadership, institutional email and link to NGS lab; primary university appointment, not a standalone institute.",
+        "verifiedAt": "2026-10-01T06:54:38Z"
+      },
+      {
+        "id": "s2",
+        "label": "engineering.louisville.edu / source 2",
+        "url": "https://engineering.louisville.edu/research/centersinstitutes/larri/larri-personnel/",
+        "summary": "Official director and professor profile, current group research and listings for Ashutosh Prakash and Jordan Dowdy.",
+        "verifiedAt": "2026-10-01T06:54:38Z"
+      },
+      {
+        "id": "s3",
+        "label": "www.mdpi.com / source 3",
+        "url": "https://www.mdpi.com/2079-9292/15/14/3173/pdf",
+        "summary": "Full primary July 2026 study establishes actual Indy7, neural dynamics compensation, tactile ARMA-RLS calibration, 28 participants, 112 models, 100-Hz tactile updates, retained runtime coefficients and Popa’s direct supervisory contribution.",
+        "verifiedAt": "2026-10-01T06:54:38Z"
+      },
+      {
+        "id": "s4",
+        "label": "www.nextgensystemslab.com / source 4",
+        "url": "https://www.nextgensystemslab.com/",
+        "summary": "Current NGS lab identifies Popa as its head and describes robotics/control research; no external short-visit invitation established.",
+        "verifiedAt": "2026-10-01T06:54:38Z"
+      },
+      {
+        "id": "s5",
+        "label": "www.nextgensystemslab.com / source 5",
+        "url": "https://www.nextgensystemslab.com/contact",
+        "summary": "General lab contact form and email only, not a specific internship or visitor offer.",
+        "verifiedAt": "2026-10-01T06:54:38Z"
+      },
+      {
+        "id": "s6",
+        "label": "ir.library.louisville.edu / source 6",
+        "url": "https://ir.library.louisville.edu/etd/4456/",
+        "summary": "Official 2024 master’s thesis identifies Popa as committee chair for Jordan Dowdy’s adaptive robot skin/control work, corroborating the local research lineage.",
+        "verifiedAt": "2026-10-01T06:54:38Z"
+      },
+      {
+        "id": "s7",
+        "label": "louisville.edu / source 7",
+        "url": "https://louisville.edu/international/student-scholar-services/j-visa/j-interns",
+        "summary": "Current official student-intern process, foreign degree-related training, full-time hours and host approval; links the current application packet.",
+        "verifiedAt": "2026-10-01T06:51:21Z",
+        "retrieval": "Reused same-session institutional-policy audit; does not establish an individual offer"
+      },
+      {
+        "id": "s8",
+        "label": "louisville.widen.net / source 8",
+        "url": "https://louisville.widen.net/s/7kvlpmcgbs/j1-intern-application-packet",
+        "summary": "Current-linked packet explicitly includes graduate degree level, three-week minimum, personal funds and $1,200/month proof. Internally inconsistent fees are left unresolved.",
+        "verifiedAt": "2026-10-01T06:51:21Z",
+        "retrieval": "Reused same-session institutional-policy audit; does not establish an individual offer"
+      }
+    ],
+    "unknowns": [
+      "External-master summer 2027 availability, eight-week project scope, stipend, remote participation and visitor equipment access remain unconfirmed.",
+      "The current Louisville Student Intern page and linked packet conditionally cover outside-US full-time degree students, explicitly including graduate degree level in the home-institution letter. The specific category and training plan require department and ISSS approval; mixed recent-graduate wording is not used to broaden eligibility.",
+      "The current-linked packet lists visits of three weeks to 12 months, at least 32 hours per week, degree-related training, English verification, DS-7002, home-institution support, insurance, orientation and final evaluation. This is administrative feasibility, not a mentor opening.",
+      "The packet expressly allows documented personal funds, home-institution support or university pay and lists $1,200 per month as financial proof. That is not a complete 2027 budget or a funding promise. Service-fee fields conflict ($250/$150, $200 and $100); exact fees, insurance, payment responsibility and processing lead time need confirmation.",
+      "Patient-contact/clinical work and other activities are restricted under the published intern guidance. A proposed bench, software or nonclinical robotics project must be approved. No remote-from-abroad route is implied.",
+      "The 2026 human study reports practice-related path-tracking improvement, but a same-user ablation against fixed calibration or competing controllers remains future work. Participant data are restricted by the study’s ethics and consent provisions.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#louisville)"
+    ],
+    "publicEmail": "dan.popa@louisville.edu"
+  },
+  {
+    "id": "yash-chitalia",
+    "name": "Yash Chitalia",
+    "aliases": [
+      "Yash Chetan Chitalia"
+    ],
+    "school": "University of Louisville",
+    "homepage": "https://www.heart-lab.io/",
+    "title": "Assistant Professor",
+    "department": "Mechanical Engineering; Healthcare Robotics and Telesurgery Laboratory",
+    "batch": "hri-073",
+    "discoveredAt": "2026-10-01T06:47:40Z",
+    "verifiedAt": "2026-10-01T06:54:38Z",
+    "researchAreas": [
+      "Vision-guided robotic instrument handling",
+      "Surgical robotics",
+      "Learned perception for manipulation",
+      "Human-robot healthcare workflows",
+      "Continuum robot modeling and control"
+    ],
+    "fitReason": "Concrete CS fit in learned visual recognition, segmentation, pose estimation and robot-system integration for healthcare logistics. Focus the inquiry on the AI perception-to-manipulation pipeline; the lab’s separate continuum-robot mechanical/model-based projects are not all machine-learning projects.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The lab’s 2026 Autonomous Instrument Tray Assembly project and full paper integrate YOLO12 detection, a part-aware ResNet-18 classification architecture, SAM masks and PCA orientation estimates with a real six-DoF Stäubli TX2-60L and a dual electromagnetic gripper. A technician inspects and presents instruments; the robot sorts and packs them with linear point-to-point motion and a deterministic rule-based packing algorithm. The dataset has 31 instrument classes and 6,975 images; the pictured assembled tray contains 20 different instruments. Transport-style vibration and tilt evaluations each compare three tray configurations over five trials. These are physical packing/contact tests, not clinical sterilization efficacy or a surgeon/technician usability trial, which remains future work. The current lab research page directly owns the project and lists first author Raghav Sankaranarayanan as a postdoctoral alumnus. The perception models are learned; packing and low-level trajectories are not learned policies.",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s5",
+        "s9"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The current HeaRT site establishes active PhD, master’s-alumni and undergraduate research plus surgical collaborators. No primary current page checked provides an external-master short-visit invitation. The retired personal site offers an old PhD opening only; an outside undergraduate in the roster is not evidence of master’s summer access.",
+      "sourceIds": [
+        "s2",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 36,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct learned perception feeding real manipulation, with substantial classical packing/control explicitly separated.",
+      "physical": "Current lab-owned physical instrument assembly and transport-style evaluation in the full primary paper.",
+      "shortVisit": "No external-master short-visit invitation verified.",
+      "freshness": "Current 2026 paper, accepted conference listing and live lab sources."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.louisville.edu / source 1",
+        "url": "https://engineering.louisville.edu/research/centersinstitutes/larri/larri-personnel/",
+        "summary": "Official current Assistant Professor of Mechanical Engineering, HeaRT director and public professional email.",
+        "verifiedAt": "2026-10-01T06:54:38Z"
+      },
+      {
+        "id": "s2",
+        "label": "www.heart-lab.io / source 2",
+        "url": "https://www.heart-lab.io/people/",
+        "summary": "Current PI and group roster, including first author Raghav Sankaranarayanan as postdoctoral alumnus; supports lab lineage, not an external-master invitation.",
+        "verifiedAt": "2026-10-01T06:54:38Z"
+      },
+      {
+        "id": "s3",
+        "label": "www.heart-lab.io / source 3",
+        "url": "https://www.heart-lab.io/research/",
+        "summary": "Current lab explicitly lists Autonomous Instrument Tray Assembly as its project.",
+        "verifiedAt": "2026-10-01T06:54:38Z"
+      },
+      {
+        "id": "s4",
+        "label": "www.heart-lab.io / source 4",
+        "url": "https://www.heart-lab.io/publications/",
+        "summary": "Lab lists tray-assembly work as accepted at ISMR 2026 and separately identifies mechanical/model-based continuum research.",
+        "verifiedAt": "2026-10-01T06:54:38Z"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/pdf/2602.01679",
+        "summary": "Full February 2026 primary manuscript verifies learned perception, actual Stäubli pick-and-place, human inspection, rule-based packing and physical collision/tilt evaluation; future clinical-user evaluation is distinguished.",
+        "verifiedAt": "2026-10-01T06:54:38Z"
+      },
+      {
+        "id": "s6",
+        "label": "yashchitalia.github.io / source 6",
+        "url": "https://yashchitalia.github.io/",
+        "summary": "Explicitly deprecated personal site links the current lab; its old PhD opening is not a summer visit offer.",
+        "verifiedAt": "2026-10-01T06:54:38Z"
+      },
+      {
+        "id": "s7",
+        "label": "louisville.edu / source 7",
+        "url": "https://louisville.edu/international/student-scholar-services/j-visa/j-interns",
+        "summary": "Current official student-intern process, foreign degree-related training, full-time hours and host approval; links the current application packet.",
+        "verifiedAt": "2026-10-01T06:51:21Z",
+        "retrieval": "Reused same-session institutional-policy audit; does not establish an individual offer"
+      },
+      {
+        "id": "s8",
+        "label": "louisville.widen.net / source 8",
+        "url": "https://louisville.widen.net/s/7kvlpmcgbs/j1-intern-application-packet",
+        "summary": "Current-linked packet explicitly includes graduate degree level, three-week minimum, personal funds and $1,200/month proof. Internally inconsistent fees are left unresolved.",
+        "verifiedAt": "2026-10-01T06:51:21Z",
+        "retrieval": "Reused same-session institutional-policy audit; does not establish an individual offer"
+      },
+      {
+        "id": "s9",
+        "label": "www.heart-lab.io / source 9",
+        "url": "https://www.heart-lab.io/research/InstrumentTray",
+        "summary": "Current project page explicitly gives HeaRT Laboratory affiliations for Chitalia and lead author, with physical assembly demonstration and primary paper.",
+        "verifiedAt": "2026-10-01T06:54:38Z"
+      }
+    ],
+    "unknowns": [
+      "External-master summer 2027 availability, eight-week project scope, stipend, remote participation and visitor equipment access remain unconfirmed.",
+      "The current Louisville Student Intern page and linked packet conditionally cover outside-US full-time degree students, explicitly including graduate degree level in the home-institution letter. The specific category and training plan require department and ISSS approval; mixed recent-graduate wording is not used to broaden eligibility.",
+      "The current-linked packet lists visits of three weeks to 12 months, at least 32 hours per week, degree-related training, English verification, DS-7002, home-institution support, insurance, orientation and final evaluation. This is administrative feasibility, not a mentor opening.",
+      "The packet expressly allows documented personal funds, home-institution support or university pay and lists $1,200 per month as financial proof. That is not a complete 2027 budget or a funding promise. Service-fee fields conflict ($250/$150, $200 and $100); exact fees, insurance, payment responsibility and processing lead time need confirmation.",
+      "Patient-contact/clinical work and other activities are restricted under the published intern guidance. A proposed bench, software or nonclinical robotics project must be approved. No remote-from-abroad route is implied.",
+      "Experiments assume a calibrated top-down view, known tray/holder positions and magnetic instruments. Non-magnetic tools, richer layouts and a professional-user study are future work. Current study access does not imply access to patients or hospital sterile processing operations.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#louisville)"
+    ],
+    "publicEmail": "yash.chitalia@louisville.edu"
+  }
+]

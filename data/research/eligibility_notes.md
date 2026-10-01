@@ -1004,3 +1004,12 @@ Sources: [Guides and Forms](https://www.lamar.edu/international-education/intern
 核查：2026-10-01T06:42:19Z。[当前官方 J-1 指引](https://experience.syracuse.edu/intercultural-collective/center-for-international-services/scholars) 将 Student Intern 用于美国境外高校持续攻读学位的学生，最长 12 个月；需要院系邀请、学位相关培训计划、DS-7002、英语证明、保险及评估，每周至少 32 小时。未核实最短访问时长或导师空位，实际资格须由学校确认。
 
 可有薪或无薪；无薪访客须提交银行证明或资助函。当前页面列出的财力最低额为每月 1,200 美元，每位随行家属另加 500 美元，不等于 2027 完整生活预算或学校承诺资助。页面要求至少预留 8 周完成签证及抵达流程；这属于办理提前量，不是访问最短时长。内部费用、2027 标准及项目的实际安排仍需确认。航空、患者接触等活动有限制，具体机器人研究任务应由主办方审查。
+
+<a id="louisville"></a>
+## University of Louisville · 可使用个人资金的境外研究生 Intern 路径
+
+核查：2026-10-01T06:51:21Z。[当前官方 J-Intern 页面](https://louisville.edu/international/student-scholar-services/j-visa/j-interns)及其直接链接的[申请包](https://louisville.widen.net/s/7kvlpmcgbs/j1-intern-application-packet)要求境外高校全日制在读及学位相关培训；申请包明确列出 graduate/undergraduate/other 学位层级。院系和 ISSS 仍须审批具体类别、邀请和 DS-7002。页面另含已毕业者条款，不据此扩大在读学生资格结论。
+
+申请包规定访问 3 周至 12 个月，每周至少 32 小时；因此约 8 周的提议在公布时长范围内，但不证明导师愿意接收。个人资金、主校支持或 UofL 薪酬均可作为财力来源，当前最低证明为每月 1,200 美元；不等于完整 2027 预算或学校资助承诺。需要英语证明、主校支持函、保险、报到及期末评估。患者接触、航空等活动受限制，具体机器人任务需主办方审查，不能推定境外全远程适用。
+
+申请包费用字段彼此矛盾：正文新申请/延期写 250/150 美元，收费栏写 200 美元，另一延期段写 100 美元。因此费用、2027 标准、保险报价、付款责任和办理提前量均列为待确认。

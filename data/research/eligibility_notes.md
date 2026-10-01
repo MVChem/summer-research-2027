@@ -353,3 +353,37 @@ Allison Okamura 的 [CHARM 个人页](https://charm.stanford.edu/Main/AllisonOka
 核查：2026-10-01T00:59:38Z。[Student Intern](https://global.utexas.edu/isss/department-resources/hiring/j1-exchange-visitor-interns) 覆盖国外学位在读，要求学位关联、良好学籍及返校完成学位，最长十二个月，须培训计划、原导师说明和校内批准。700 美元处理费可由主办方或 intern 支付；本轮未确证该类别个人资金比例、月门槛、最短时长或每周小时数。
 
 [Scholar 页面](https://global.utexas.edu/isss/department-resources/hiring/j1-exchange-visitor) 接受个人及机构等资金；2026 年 9 月 1 日起发起的请求适用每月 1,834 美元，旧 1,708 美元只用于此前发起的请求，不能按抵达日期套用。此 scholar 规则不自动转移到 Intern。[研究访客任命](https://research.utexas.edu/resources/research-integrity-and-compliance/serving-as-pi/visiting-researchers-and-fellows) 的具体职称指南需校内登录，硕士任命仍未解决；旧 HOP 机构出资措辞与当前资金页需协调。CS 建议国际访问提前 3–4 个月，现行 HR 流程已于 2026 年 6 月改用 Workday，详细分类及 2027 实际费用仍待确认。
+
+<a id="washington-visit"></a>
+
+## University of Washington · VISIT 与 Scholar 规则不同
+
+核查：2026-09-30T23:59:13Z。[VISIT](https://www.ielp.uw.edu/programs/research-programs/visit/overview) 明确面向外校本科与研究生，3 周至一年、每周至少 32 小时；当前列 1,500 美元项目费、每季度 55 美元注册费、每月 169 美元指定保险、每月 3,032 美元生活支持估算及可变院系费用。部分月/季度的计费须核对，季度不按停留比例折算，2027 费率须重查。
+
+[申请要求](https://www.ielp.uw.edu/programs/research-programs/visit/how-to-apply) 包括继续海外学籍、返校完成学位、导师和原机构支持，接受银行材料和/或 sponsor 函；本轮未确证完全个人资金最终批准。[完整材料至少提前十二周](https://www.ielp.uw.edu/programs/research-programs/visit-program-application-timeline)，页面分别给出 3–5 与 3–9 个月流程估算，均非批准保证。普通 Scholar 的至少 50% 机构资金要求不能直接套用 VISIT，官方分类页将国外学位学生导向其单独流程。
+
+Tacoma 补充核查：2026-10-01T01:02:36Z。[SET visiting appointments](https://www.tacoma.washington.edu/set/faculty_research/visiting_appointments) 的官方索引明确将 student visitors 导向 VISIT，支持校园适用性的询问；该页完整读取失败并出现证书主机名错误，未绕过安全提示，不能称为完整实时核验。Tacoma 实际院系办理与资金条件仍需确认。
+
+<a id="wisconsin-madison"></a>
+
+## Wisconsin–Madison · 学术任命与保险半年计费
+
+核查：2026-10-01T00:19:41Z。[中央 IFSS Scholar](https://ifss.wisc.edu/j-1-scholars/) 包括已完成本科者，[Short-Term Scholar](https://ifss.wisc.edu/host-department-toolkit/) 为一周至六个月，但在读外校硕士的 CS/Engineering 具体任命需主办方确认。Student Intern 专页因验证页面未能读取，不采用第三方镜像或将医学院特定研究生任命转移到其他学院。
+
+[2026 年 7 月财力 PDF](https://terradotta.wisc.edu/_customtags/ct_FileRetrieve.cfm?File_ID=89920) 已在官方链接后的浏览器中直接查看，列单人每月生活 2,249 美元加 SHIP 182 美元，共 2,431 美元，允许个人银行证据。SHIP 实际按半年或全年收取，不能把月财力分项当作短访实际保险账单。中央建议提前三个月、Engineering 建议四个月；主办导师须在 Madison 且全程可指导。页面表示分类指导仍在审查，2027 身份、费用与保险须再确认。
+
+<a id="colorado-boulder"></a>
+
+## Colorado Boulder · 硕士 Intern 与主办方承担的处理费
+
+核查：2026-10-01T00:38:52Z。[Student Intern 页面](https://www.colorado.edu/isss/cu-departments/hiringhosting-international-students-scholars/international-scholars-f-1opt-j-h-e-2) 明确包括国外硕士/博士，21 天至十二个月、每周至少 32 小时，需原学位关联并返校完成学位。建议新请求提前 3–6 个月；100 美元处理费必须由部门承担，不能转给访问者。
+
+[2026 年 3 月财力表](https://www.colorado.edu/isss/media/2990) 列每月 3,506 美元，接受近期个人流动资金等证据，不能使用仍在索引中的 2021 年 1,845 美元旧数。[2026 年 6 月清单](https://www.colorado.edu/isss/media/333) 要求每周至少三天在校园/主办工作点、原校学术证明及校内任命、导师和研究审查批准；[阶段流程](https://www.colorado.edu/isss/media/302) 的文件处理时间不替代总体提前期。资金证明不是缴费账单，实际保险、日期和 2027 导师容量待确认。
+
+<a id="penn"></a>
+
+## Pennsylvania · 外校硕士 Student Intern 与独立 Scholar 费用
+
+核查：2026-10-01T00:22:26Z。[Penn Student Intern](https://global.upenn.edu/isss/j1studentintern/) 明确包括国外本科、硕士、博士在读，需学位关联、返校完成学位，以及 Penn 全时导师和原校管理员签署的 placement agreement；每周至少 32 小时、最长十二个月，活动限 Philadelphia 校园，未公布最低时长。可有薪/无薪并使用个人/家庭或第三方支持，当前每月 2,839 美元为财力证明，另列 865 美元处理费和不足三十天提交的 700 美元附加费，最终付款方须确认。患者接触（包括动物）等工作受限制。
+
+[主办材料](https://global.upenn.edu/isss/wp-content/uploads/sites/2/2025/07/J-1-Student-Intern-App-Checklist.pdf) 和 [外国访客审查](https://research.upenn.edu/resource/hosting-foreign-visitors-for-international-partners/) 是正式要求，旧 PDF 费用不覆盖当前网页金额。另一个 [Scholar 规则](https://global.upenn.edu/isss/scholar_dept/j1scholar/) 的 330 美元部门支付费用属于不同类别，不能因为更便宜就假定适用于外校硕士。保险、个人任命、精确日期和 2027 接收仍须确认。

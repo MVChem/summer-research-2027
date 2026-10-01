@@ -94,7 +94,8 @@
     "batches/hri-023.json",
     "batches/hri-024.json",
     "batches/hri-025.json",
-    "batches/hri-026.json"
+    "batches/hri-026.json",
+    "batches/hri-027.json"
   ],
   "candidates": [
     {
@@ -7529,6 +7530,32 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-026.json",
       "detailPage": "batches/hri-026.md#juan-rojas"
+    },
+    {
+      "id": "yaxin-hu",
+      "name": "Yaxin Hu",
+      "aliases": [],
+      "school": "William & Mary",
+      "title": "Assistant Professor",
+      "homepage": "https://edayaxin.github.io/",
+      "batch": "hri-027",
+      "discoveredAt": "2026-10-01T01:05:52Z",
+      "verifiedAt": "2026-10-01T01:10:34Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-robot interaction",
+        "Embodied AI and accessibility",
+        "Language-grounded robot interfaces",
+        "Assistive mobile robotics"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-027.json",
+      "detailPage": "batches/hri-027.md#yaxin-hu"
     }
   ]
 }

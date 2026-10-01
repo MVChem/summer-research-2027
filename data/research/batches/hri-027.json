@@ -1,0 +1,90 @@
+[
+  {
+    "id": "yaxin-hu",
+    "name": "Yaxin Hu",
+    "aliases": [],
+    "school": "William & Mary",
+    "homepage": "https://edayaxin.github.io/",
+    "title": "Assistant Professor",
+    "department": "Computer Science",
+    "batch": "hri-027",
+    "discoveredAt": "2026-10-01T01:05:52Z",
+    "verifiedAt": "2026-10-01T01:10:34Z",
+    "researchAreas": [
+      "Human-robot interaction",
+      "Embodied AI and accessibility",
+      "Language-grounded robot interfaces",
+      "Assistive mobile robotics"
+    ],
+    "fitReason": "Strong HRI/embodied-language overlap: studies contextual dialogue, visual descriptions, accessible navigation and real-world human evaluation on mobile robots. A focused language-grounding or perception/interface project is a plausible research topic, subject to a host-approved scope.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "CHI 2026 first-author CaBot museum field study used GPT-4o on live camera images plus semantic exhibit context and MMDetection for nearby people. Navigation was experimenter-teleoperated with LiDAR/people-detection collision avoidance, not autonomous guide following. UIST 2025 NarraGuide deployed an LLM-based narrative mobile robot in a geology museum with 20 remote users. Both papers list Hu at UW–Madison; the CHI study was in a Japanese museum. Current William & Mary hardware access was not established.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current homepage recruits undergraduate, master’s and PhD students for Fall 2026 and Spring/Fall 2027. This is ordinary group/degree recruitment; no explicit external short-term visitor invitation or summer 2027 offer was verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "38/40: unusually close language-grounded physical HRI and accessibility match.",
+      "physical": "20/25: concrete physical deployments but at prior institutions; present W&M inventory unverified.",
+      "shortVisit": "0/20: general student recruitment does not establish an external summer visitor route.",
+      "freshness": "15/15: substantive 2026 physical HRI paper, independently of the new faculty appointment date."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "cdsp.wm.edu / source 1",
+        "url": "https://cdsp.wm.edu/computerscience/people/hu-yaxin.php",
+        "summary": "Current official Computer Science directory verifies Assistant Professor role and HRI/accessibility research.",
+        "verifiedAt": "2026-10-01T01:10:34Z"
+      },
+      {
+        "id": "s2",
+        "label": "edayaxin.github.io / source 2",
+        "url": "https://edayaxin.github.io/",
+        "summary": "Faculty homepage verifies current email, embodied-AI interests and the limited Fall 2026/Spring-Fall 2027 student recruitment wording.",
+        "verifiedAt": "2026-10-01T01:10:34Z"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/pdf/2602.04458",
+        "summary": "Full CHI 2026 paper, especially §§4–5, verifies physical CaBot, GPT-4o camera/semantic-map descriptions, MMDetection, eight blind participants and explicitly teleoperated navigation with collision avoidance; author affiliation UW–Madison.",
+        "verifiedAt": "2026-10-01T01:10:34Z"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2508.01235v1",
+        "summary": "Full UIST 2025 NarraGuide paper verifies physical museum deployment, GPT-4 intent handling, robot-navigation interface and 20-user study; prior UW–Madison affiliation.",
+        "verifiedAt": "2026-10-01T01:10:34Z"
+      }
+    ],
+    "unknowns": [
+      "Prior-institution hardware is not evidence of an established William & Mary lab inventory.",
+      "An external master’s visit, eight-week project, faculty capacity, funding, appointment and immigration sponsorship require separate approval.",
+      "Degree recruitment and the faculty member’s own past research visits are not visiting-student openings.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "yhu25@wm.edu"
+  }
+]

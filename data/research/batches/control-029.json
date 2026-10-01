@@ -1,0 +1,93 @@
+[
+  {
+    "id": "jundong-liu",
+    "name": "Jundong Liu",
+    "aliases": [],
+    "school": "Ohio University",
+    "homepage": "https://www.ohio.edu/directory/jundong-liu",
+    "title": "Professor; Director, Learning & Intelligent Systems Lab",
+    "department": "School of Electrical Engineering and Computer Science",
+    "batch": "control-029",
+    "discoveredAt": "2026-10-01T01:05:06Z",
+    "verifiedAt": "2026-10-01T01:06:03Z",
+    "researchAreas": [
+      "Deep reinforcement learning",
+      "Physics-informed robot navigation",
+      "Sim-to-real transfer",
+      "Computer vision",
+      "Machine learning"
+    ],
+    "fitReason": "Concrete connection between reinforcement learning and physical mobile-robot control, with explainable reward design and sim-to-real evaluation. The broader group also studies medical imaging and computer vision, so a robotics-specific project and supervision capacity need confirmation.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The January 30, 2026 Coulomb-force-guided DRL study trains TD3 navigation policies in Gazebo and executes them on the lab's TurtleBot3 Burger. A remote PC sends real-time actions through ROS 2 to the robot's Raspberry Pi 4/OpenCR; LiDAR supports obstacle processing. Physical tests include static, enlarged and moving obstacles. Five rollouts per model per scene are reported, a limited empirical evaluation rather than a general safety guarantee. The paper identifies all authors with Ohio's LiSL; Ohio's Fall2025 commencement record identifies first author Sirui Song's robotics dissertation and Liu as director.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current external visitor, summer intern or eight-week invitation was verified. The current university profile establishes faculty status and research activity, not a placement offer. Its linked lab website failed direct retrieval.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 14
+    },
+    "scoreReasons": {
+      "fit": "Direct DRL, sim-to-real and autonomous navigation fit, though current overall lab spans broader imaging/ML topics.",
+      "physical": "Named physical TB3 executes learned policies; same-lab author affiliations and advisor evidence connect hardware work to the faculty group.",
+      "shortVisit": "No explicit current external-master's short-visit invitation verified.",
+      "freshness": "January2026 primary technical paper and current university directory; no newer dated lab recruitment page verified."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.ohio.edu / source 1",
+        "url": "https://www.ohio.edu/directory/jundong-liu",
+        "summary": "Current Professor in EECS, LiSL director, public email and 2026 robotic-motion-planning publication.",
+        "verifiedAt": "2026-10-01T01:06:03Z",
+        "retrieval": "Direct official university HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "pmc.ncbi.nlm.nih.gov / source 2",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12900773/",
+        "summary": "Author full text of January2026 paper: Sections4.2 and5.2 specify real TB3, remote inference, ROS2 and physical static/dynamic obstacle trials; modest five-rollout evaluations.",
+        "verifiedAt": "2026-10-01T01:06:03Z",
+        "retrieval": "Direct primary full-text journal article hosted by PMC via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "public-pages-files-2025.frontiersin.org / source 3",
+        "url": "https://public-pages-files-2025.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2025.1697155/pdf",
+        "summary": "Publisher publication date January30,2026 and correction February19,2026; Ohio LiSL author affiliations.",
+        "verifiedAt": "2026-10-01T01:06:03Z",
+        "retrieval": "Official publisher indexed PDF text via web search"
+      },
+      {
+        "id": "s4",
+        "label": "www.ohio.edu / source 4",
+        "url": "https://www.ohio.edu/student-affairs/sites/ohio.edu.student-affairs/files/2025-12/2025-OHIO-Commencement-Program_508.pdf",
+        "summary": "Fall2025 doctoral commencement lists Sirui Song's DRL robot path-planning dissertation directed by Jundong Liu.",
+        "verifiedAt": "2026-10-01T01:06:03Z",
+        "retrieval": "Official university indexed PDF text via web search; direct open exceeded tool content-size limit"
+      }
+    ],
+    "unknowns": [
+      "External-master's eligibility, eight-week project scope, funding, host availability and institutional appointment process remain unknown. Sirui Song's Fall2025 graduation is historical advisor evidence, not proof of a current student mentor or a new opening. Do not confuse Ohio University with Ohio State University, or this faculty member with similarly named Jundong Li.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "liuj1@ohio.edu"
+  }
+]

@@ -37,6 +37,7 @@
     "batches/control-026.json",
     "batches/control-027.json",
     "batches/control-028.json",
+    "batches/control-029.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -2352,6 +2353,33 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-028.json",
       "detailPage": "batches/control-028.md#konstantinos-karydis"
+    },
+    {
+      "id": "jundong-liu",
+      "name": "Jundong Liu",
+      "aliases": [],
+      "school": "Ohio University",
+      "title": "Professor; Director, Learning & Intelligent Systems Lab",
+      "homepage": "https://www.ohio.edu/directory/jundong-liu",
+      "batch": "control-029",
+      "discoveredAt": "2026-10-01T01:05:06Z",
+      "verifiedAt": "2026-10-01T01:06:03Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 14
+      },
+      "researchAreas": [
+        "Deep reinforcement learning",
+        "Physics-informed robot navigation",
+        "Sim-to-real transfer",
+        "Computer vision",
+        "Machine learning"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-029.json",
+      "detailPage": "batches/control-029.md#jundong-liu"
     },
     {
       "id": "tom-silver",

@@ -5359,6 +5359,592 @@
           "evidence": "PI-reported Fall 2026 faculty start; dedicated page recruits Spring/Fall 2027 PhD students and describes cross-layer AI/robotics systems. RA funding is not a separate intern funding promise."
         }
       ]
+    },
+    "abhishek-cauligi": {
+      "appointmentStart": {
+        "year": 2025,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "University profile explicitly says Summer2025; PI CV specifies July2025 after JPL Robotics Technologist2022–25.",
+        "month": 7,
+        "appointmentType": "unresolved"
+      },
+      "display": "2025-07（本人CV；官方Summer2025）",
+      "caveat": "官方季节与本人月份分开；此前JPL研究岗位，具体访客资格仍看原记录",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://engineering.jhu.edu/faculty/abhishek-cauligi/",
+          "evidence": "Official current role and Summer2025 start.",
+          "observedAt": "2026-10-01T15:53:02Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://acauligi.github.io/assets/AbhishekCauligi_CV.pdf",
+          "evidence": "Complete author CV professional-experience section specifies July2025 and prior JPL employment.",
+          "observedAt": "2026-10-01T15:55:18Z"
+        }
+      ]
+    },
+    "haimin-hu": {
+      "appointmentStart": {
+        "year": 2026,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "h1",
+          "h2",
+          "h3"
+        ],
+        "evidence": "Official July30,2026 cohort verifies arrival this academic year after Penn postdoc; first-person homepage explicitly identifies Fall2026.",
+        "season": "Fall",
+        "appointmentType": "unresolved"
+      },
+      "display": "Fall2026（本人；官方2026群体）",
+      "caveat": "官网确认现任、年度群体支持2026；不将报道发布日期当到岗日",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://www.cs.jhu.edu/news/johns-hopkins-computer-science-welcomes-six-new-tenure-track-faculty/",
+          "evidence": "Full official2026 new-tenure-track cohort lists Hu and preceding Penn postdoc.",
+          "observedAt": "2026-10-01T15:55:18Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://haiminhu.org/",
+          "evidence": "First-person April2025 announcement says Fall2026; current header confirms arrived.",
+          "observedAt": "2026-10-01T15:52:17Z"
+        },
+        {
+          "id": "h3",
+          "url": "https://haiminhu.org/wp-content/uploads/2026/03/haimin_hu_cv-1.pdf",
+          "evidence": "Full CV gives JHU2026 and Penn2025–26; no month.",
+          "observedAt": "2026-10-01T15:53:02Z"
+        }
+      ]
+    },
+    "kunal-garg": {
+      "appointmentStart": {
+        "year": 2025,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "University-hosted CV states2025– AssistantProfessor after MIT2022–24 and UCSC2021–22 postdocs.2024–25 cohort names the academic cycle, not necessarily a2024 start.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2025（大学托管CV索引；官方现任）",
+      "caveat": "2024–25是招聘学年，CV给2025；AY2027–28 PhD关闭仍仅学位范围，非访客全面关闭",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://search.asu.edu/profile/5172311/cv",
+          "evidence": "Complete primary CV text indexed by search explicitly lists academic positions2025–ASU,2022–24MIT,2021–22UCSC; direct web redirected to profile and shell returned bare403.",
+          "observedAt": "2026-10-01T15:52:00Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://search.asu.edu/profile/5172311",
+          "evidence": "Current official role and preceding MIT postdoctoral status independently verified.",
+          "observedAt": "2026-10-01T15:52:17Z"
+        }
+      ]
+    },
+    "vince-kurtz": {
+      "appointmentStart": {
+        "year": 2026,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "PI homepage explicitly dates January2026. Official DePaul research portal confirms active AP and links that homepage; prior roles were Toyota research scientist and Caltech researcher/postdoc.",
+        "month": 1,
+        "appointmentType": "unresolved"
+      },
+      "display": "2026-01（本人；官方现任）",
+      "caveat": "准确月份仅本人公告；已招MS/UG为DePaul本校范围，不宣称全部外校访客关闭",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://vincekurtz.github.io/",
+          "evidence": "Current primary homepage and dated February22,2025 announcement specify January2026; prior research employment.",
+          "observedAt": "2026-10-01T15:52:17Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://scholars.depaul.edu/en/persons/vince-kurtz/",
+          "evidence": "Direct official portal confirms current AP and canonical personal site, but does not independently state start month.",
+          "observedAt": "2026-10-01T15:55:18Z"
+        }
+      ]
+    },
+    "daniel-bruder": {
+      "appointmentStart": {
+        "year": 2023,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "h1",
+          "h2",
+          "h3"
+        ],
+        "evidence": "Author CV lists2023–MichiganAP after Harvard postdoc2020–23. University annual report2022–23 independently lists him among new faculty;2023–24 page repeats that list and cannot establish a later hire.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2023（本人CV与官方年度报告）",
+      "caveat": "当前不征集具体项目申请，仅未来意向；不扩为所有访客/暑期禁令",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://danielbruder.com/assets/pdfs/DanielBruderCV.pdf",
+          "evidence": "Full author CV specifies MichiganAP2023– and Harvard postdoc2020–23.",
+          "observedAt": "2026-10-01T15:55:18Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://me.engin.umich.edu/annualreport2023/community/",
+          "evidence": "Official2022–23 annual report lists Bruder among newMEfaculty.",
+          "observedAt": "2026-10-01T15:54:12Z"
+        },
+        {
+          "id": "h3",
+          "url": "https://www.freelaboratory.org/",
+          "evidence": "Current lab confirms PI and states no specific-project applications presently solicited, with future-interest form only.",
+          "observedAt": "2026-10-01T15:53:18Z"
+        }
+      ]
+    },
+    "ersin-das": {
+      "appointmentStart": {
+        "year": 2026,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "h1",
+          "h2",
+          "h3",
+          "h4"
+        ],
+        "evidence": "PI homepage says joined January1,2026. Official department directory confirms current AP; university March2025 seminar independently documents prior Caltech postdoc, and April2026 university award report confirms current direct advising.",
+        "month": 1,
+        "appointmentType": "unresolved"
+      },
+      "display": "2026-01（本人；官方现任）",
+      "caveat": "本人说1月1日，此处保守月精度；官方确认当前职位/此前Caltech博士后，没有独立任命月日",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://ersindas.github.io/",
+          "evidence": "Primary dated news explicitly states joined January1,2026; use conservative month precision.",
+          "observedAt": "2026-10-01T15:52:47Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://www.iit.edu/directory/people/ersin-das",
+          "evidence": "Current official AP and university-linked research website; no independent start date stated.",
+          "observedAt": "2026-10-01T15:53:18Z"
+        },
+        {
+          "id": "h3",
+          "url": "https://www.iit.edu/events/mmae-seminar-series-ersin-das",
+          "evidence": "Official March12,2025 seminar identifies Caltech postdoctoral role.",
+          "observedAt": "2026-10-01T15:52:29Z"
+        },
+        {
+          "id": "h4",
+          "url": "https://www.iit.edu/news/2026-mmae-poster-competition-and-departmental-awards",
+          "evidence": "Official April28,2026 report names him as AP advising a Mars-quadcopter student project.",
+          "observedAt": "2026-10-01T15:52:29Z"
+        }
+      ]
+    },
+    "wenhao-luo": {
+      "appointmentStart": {
+        "year": 2025,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "Official UIC March 2025 welcome says Spring 2025 and prior UNC Charlotte AP. University-hosted PI news specifies January 2025 move and August 2021 first faculty start.",
+        "month": 1,
+        "appointmentType": "institution-move"
+      },
+      "display": "2025-01 UIC（本人；官方Spring2025）",
+      "caveat": "此前UNC Charlotte AP2021-08，明确转校，非首次新faculty",
+      "sources": [
+        {
+          "url": "https://cs.uic.edu/news-stories/cs-welcomes-robotics-researcher-wenhao-luo/",
+          "evidence": "Official institutional move and Spring 2025 timing.",
+          "observedAt": "2026-10-01T16:07:49Z",
+          "id": "h1"
+        },
+        {
+          "url": "https://www.cs.uic.edu/~wenhao/",
+          "evidence": "January 2025 arrival news and August 2021 UNC Charlotte appointment.",
+          "observedAt": "2026-10-01T16:08:25Z",
+          "id": "h2"
+        }
+      ]
+    },
+    "rohan-chandra": {
+      "appointmentStart": {
+        "year": 2024,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "h1",
+          "h2",
+          "h3"
+        ],
+        "evidence": "Official May 2026 award story says joined in June 2024. September 2024 Board personnel record separately lists an appointment period beginning August 25, 2024. Current university bio places UT Austin postdoc in 2022–2024. Use year-level start because the two official dates describe potentially different milestones.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2024（官方：6月到岗，8月25日起任期）",
+      "caveat": "两个官方日期为到岗与任期起点，保留不同里程碑，不强行选定单一月日",
+      "sources": [
+        {
+          "url": "https://engineering.virginia.edu/department/computer-science/blogs/uva-professor-rohan-chandra-received-2026-washington-academy-sciences-early-career-award",
+          "evidence": "University story explicitly dates June 2024 arrival.",
+          "observedAt": "2026-10-01T16:07:49Z",
+          "id": "h1"
+        },
+        {
+          "url": "https://bov.virginia.edu/sites/bov/files/2024-09/2024.09.11%20MINUTES%20September%20Faculty%20Personnel%20Actions.pdf",
+          "evidence": "Complete official personnel PDF, page 2: appointment period begins August 25, 2024.",
+          "observedAt": "2026-10-01T16:08:07Z",
+          "id": "h2"
+        },
+        {
+          "url": "https://engineering.virginia.edu/faculty/rohan-chandra",
+          "evidence": "Current AP and prior 2022–2024 Texas Robotics postdoc.",
+          "observedAt": "2026-10-01T16:08:54Z",
+          "id": "h3"
+        }
+      ]
+    },
+    "xiaomin-lin": {
+      "appointmentStart": {
+        "year": 2025,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "h1",
+          "h2",
+          "h3"
+        ],
+        "evidence": "Official engineering new-faculty page explicitly dates Fall 2025. Current official faculty biography identifies prior Johns Hopkins postdoctoral work, corroborated by the complete PI CV.",
+        "season": "Fall",
+        "appointmentType": "unresolved"
+      },
+      "display": "Fall2025（官方）",
+      "caveat": "此前JHU博士后；当前项目和外校访客条件不由到岗日期推断",
+      "sources": [
+        {
+          "url": "https://www.usf.edu/engineering/faculty-affairs/newfaculty.aspx",
+          "evidence": "Fall 2025 heading and individual Xiaomin Lin text explicitly establish the start season.",
+          "observedAt": "2026-10-01T16:08:25Z",
+          "id": "h1"
+        },
+        {
+          "url": "https://www.usf.edu/engineering/ece/faculty-staff/lin-xiaomin.aspx",
+          "evidence": "Current Assistant Professor; former JHU Institute for Assured Autonomy postdoc.",
+          "observedAt": "2026-10-01T16:08:54Z",
+          "id": "h2"
+        },
+        {
+          "url": "https://xiaominlin.github.io/cv/Academic_CV.pdf",
+          "evidence": "Complete CV dates JHU postdoctoral fellowship January–August 2025.",
+          "observedAt": "2026-10-01T16:08:25Z",
+          "id": "h3"
+        }
+      ]
+    },
+    "qin-lin": {
+      "appointmentStart": {
+        "year": 2024,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "h1",
+          "h2",
+          "h3"
+        ],
+        "evidence": "Official Spring 2026 college profile explicitly dates Houston faculty arrival to 2024. Complete official Cleveland State 2022–2023 magazine, page 6, explicitly dates the prior Assistant Professor start to January 2022 after CMU postdoctoral work.",
+        "appointmentType": "institution-move"
+      },
+      "display": "2024 Houston转校（官方）",
+      "caveat": "此前Cleveland State AP2022-01；当前任职开始与首次faculty经历分开",
+      "sources": [
+        {
+          "url": "https://www.egr.uh.edu/parameters/2026-spring/qin-lin",
+          "evidence": "Current faculty since 2024; prior Cleveland State teaching and research.",
+          "observedAt": "2026-10-01T16:08:00Z",
+          "id": "h1"
+        },
+        {
+          "url": "https://innovation.csuohio.edu/research/news/email/newsletter/volume9-issue3.html",
+          "evidence": "March 2022 official newsletter confirms Cleveland State AP and former CMU postdoc.",
+          "observedAt": "2026-10-01T16:08:54Z",
+          "id": "h2"
+        },
+        {
+          "id": "h3",
+          "url": "https://engineering.csuohio.edu/sites/default/files/220216%20Washkewicz%20Magazine%202022-23_FA%20digital-pages.pdf",
+          "evidence": "Full downloaded official PDF, page 6, explicitly dates January 2022 first faculty appointment. Direct web parser failed; ordinary official PDF retrieval and text extraction succeeded.",
+          "observedAt": "2026-10-01T16:09:55Z"
+        }
+      ]
+    },
+    "xi-yu": {
+      "appointmentStart": {
+        "year": 2024,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "Complete university-hosted CV, updated April 2025, gives ASU Assistant Professor August 2024–present and WVU Assistant Professor January 2021–August 2024; official new-faculty profile confirms the institutional move.",
+        "month": 8,
+        "appointmentType": "institution-move"
+      },
+      "display": "2024-08 ASU转校（大学托管CV）",
+      "caveat": "此前WVU AP2021-01至2024-08；不将转校当作首次new AP",
+      "sources": [
+        {
+          "url": "https://search.asu.edu/profile/5170321/cv",
+          "evidence": "Complete five-page university-hosted CV, first page professional experience.",
+          "observedAt": "2026-10-01T16:08:07Z",
+          "id": "h1"
+        },
+        {
+          "url": "https://fullcircle.asu.edu/welcome/xi-yu/",
+          "evidence": "Official 2024–2025 cohort profile states prior WVU Assistant Professor.",
+          "observedAt": "2026-10-01T16:08:00Z",
+          "id": "h2"
+        }
+      ]
+    },
+    "esen-yel": {
+      "appointmentStart": {
+        "year": 2024,
+        "precision": "day",
+        "status": "current",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "Official December 27, 2023 welcome explicitly says Assistant Professor starting January 1, 2024, following Stanford postdoctoral research. The 2023 recruitment newsletter does not imply a 2023 start.",
+        "month": 1,
+        "day": 1,
+        "appointmentType": "unresolved"
+      },
+      "display": "2024-01-01（官方）",
+      "caveat": "2023欢迎文章明确2024-01-01开始，当前目录确认现任；不把报道年当到岗年",
+      "sources": [
+        {
+          "url": "https://ecse.rpi.edu/news/ecse-welcomes-new-faculty-member-dr-esen-yel",
+          "evidence": "Exact official appointment date January 1, 2024 and prior Stanford postdoc.",
+          "observedAt": "2026-10-01T16:08:07Z",
+          "id": "h1"
+        },
+        {
+          "url": "https://faculty.rpi.edu/esen-yel",
+          "evidence": "Current AP and Stanford postdoctoral training 2021–2023.",
+          "observedAt": "2026-10-01T16:08:00Z",
+          "id": "h2"
+        }
+      ]
+    },
+    "sandeep-p-chinchali": {
+      "appointmentStart": {
+        "year": 2021,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "h1",
+          "h2",
+          "h3"
+        ],
+        "evidence": "The official September 2020 announcement specifies Fall 2021, and the university-filed January 2024 CV specifies September 2021. Its preceding academic appointment is Stanford postdoctoral scholar, October 2020–June 2021.",
+        "month": 9,
+        "appointmentType": "unresolved"
+      },
+      "display": "2021-09（大学存档CV；官方Fall2021）",
+      "caveat": "较早AP；2020发布的招聘公告不意味着2020到岗，访问证据与分数保持",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://ece.utexas.edu/news/new-faculty-join-texas-ece",
+          "evidence": "Fall 2021 appointment is distinct from this announcement’s September 2020 publication date.",
+          "observedAt": "2026-10-01T16:30:51Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://utdirect.utexas.edu/apps/student/coursedocs/courses/nlogon/download/13551320/",
+          "evidence": "University-filed CV, page 1: September 2021 AP start, preceding Stanford postdoctoral appointment.",
+          "observedAt": "2026-10-01T16:35:18Z"
+        },
+        {
+          "id": "h3",
+          "url": "https://ece.utexas.edu/people/faculty/sandeep-chinchali",
+          "evidence": "Current official assistant professor and prior Stanford doctoral/industry background.",
+          "observedAt": "2026-10-01T16:34:27Z"
+        }
+      ]
+    },
+    "vasileios-tzoumas": {
+      "appointmentStart": {
+        "year": 2021,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "h1",
+          "h2",
+          "h3"
+        ],
+        "evidence": "The contemporary February 23, 2021 department article twice states January 2021 AP start. His current biography places MIT postdoctoral and research-scientist work before Michigan. A later UROP feature instead says Fall 2021; retain the discrepancy while using the contemporary, already-in-post source.",
+        "month": 1,
+        "appointmentType": "unresolved"
+      },
+      "display": "2021-01（当年官方文章）；后文称Fall2021",
+      "caveat": "当年2月系报道两次明确1月已到岗，优先用它；保留后续UROP秋季说法，不虚构二次任职",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://aero.engin.umich.edu/2021/02/23/new-u-m-aerospace-engineering-professor-vasileios-tzoumas-received-best-paper-award-in-robot-vision/",
+          "evidence": "Contemporary dated article explicitly states January 2021 appointment twice.",
+          "observedAt": "2026-10-01T16:30:51Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://vasileiostzoumas.com/",
+          "evidence": "Current biography: MIT postdoctoral and research-scientist roles before Michigan.",
+          "observedAt": "2026-10-01T16:31:03Z"
+        },
+        {
+          "id": "h3",
+          "url": "https://research.umich.edu/news-and-issues/michigan-research/morphable-aerial-drones/",
+          "evidence": "Later UROP story has conflicting Fall 2021 wording; not silently discarded.",
+          "observedAt": "2026-10-01T16:34:27Z"
+        }
+      ]
+    },
+    "josiah-p-hanna": {
+      "appointmentStart": {
+        "year": 2021,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "Official October 2021 welcome establishes the new faculty year; university-hosted CV page 1 specifies August 2021, following Edinburgh postdoctoral work January 2020–July 2021.",
+        "month": 8,
+        "appointmentType": "unresolved"
+      },
+      "display": "2021-08（大学托管CV；官方2021）",
+      "caveat": "较早AP；此前Edinburgh博士后，未按当前访问邀请改为近期入职",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://www.cs.wisc.edu/2021/10/19/new-faculty-assistant-professor-josiah-hanna/",
+          "evidence": "Official October 2021 welcome.",
+          "observedAt": "2026-10-01T16:34:27Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://pages.cs.wisc.edu/~jphanna/documents/CV.pdf",
+          "evidence": "Page 1 gives August 2021 AP appointment and immediately preceding Edinburgh postdoctoral work.",
+          "observedAt": "2026-10-01T16:34:15Z"
+        }
+      ]
+    },
+    "zachary-sunberg": {
+      "appointmentStart": {
+        "year": 2020,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "h1"
+        ],
+        "evidence": "Current university faculty profile explicitly lists Smead Aerospace AP from January 2020 and UC Berkeley postdoctoral research scholar in 2018–2019.",
+        "month": 1,
+        "appointmentType": "unresolved"
+      },
+      "display": "2020-01（官方经历表）",
+      "caveat": "较早AP；当前研究或接收条件独立确认，任职年不代表接受概率",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://www.colorado.edu/aerospace/zachary-sunberg",
+          "evidence": "Professional Experience lists January 2020 AP start and preceding Berkeley postdoctoral role.",
+          "observedAt": "2026-10-01T16:31:03Z"
+        }
+      ]
+    },
+    "ivan-ruchkin": {
+      "appointmentStart": {
+        "year": 2022,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "Official Nelms July 2022 welcome specifies Fall 2022. University-hosted July 2025 CV page 1 specifies August 2022 AP start, and pages 1–2 identify preceding Penn PRECISE postdoctoral work December 2018–August 2022.",
+        "month": 8,
+        "appointmentType": "unresolved"
+      },
+      "display": "2022-08（大学托管CV；官方索引Fall2022）",
+      "caveat": "官方招聘文章直读失败，月份来自完整大学CV；此前Penn博士后",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://iot.institute.ufl.edu/2022/07/new-faculty-member-spotlight-dr-ivan-ruchkin/",
+          "evidence": "Official indexed article states Fall 2022. Direct fetch returned 502; fine month is independently confirmed in the fully read university CV.",
+          "observedAt": "2026-10-01T16:30:51Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://ivan.ece.ufl.edu/wp-content/uploads/sites/89/2025/07/cv-ruchkin.pdf",
+          "evidence": "Fully read university-hosted CV pages 1–2 gives 08/2022 AP start and prior Penn postdoctoral dates.",
+          "observedAt": "2026-10-01T16:34:27Z"
+        }
+      ]
+    },
+    "joseph-moore": {
+      "appointmentStart": {
+        "year": 2024,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "h1"
+        ],
+        "evidence": "Official September 25, 2024 interview states Fall 2024 AP arrival. It identifies the preceding role as JHU Applied Physics Laboratory senior staff researcher and describes the post-PhD progression through APL postdoctoral work. This is first faculty status, rather than treating the earlier staff employment as an AP appointment.",
+        "season": "fall",
+        "appointmentType": "unresolved"
+      },
+      "display": "Fall2024（官方）",
+      "caveat": "此前JHU APL为研究职/博士后，不能把APL员工经历当作更早AP；具体月日未给",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://me.jhu.edu/news/qa-with-new-faculty-member-joseph-moore/",
+          "evidence": "Official interview explicitly dates Fall 2024 faculty arrival and describes prior APL staff/postdoctoral roles.",
+          "observedAt": "2026-10-01T16:30:51Z"
+        }
+      ]
     }
   },
   "constraints": [

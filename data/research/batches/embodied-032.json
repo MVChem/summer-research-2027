@@ -1,0 +1,140 @@
+[
+  {
+    "id": "qianqian-quinn-wang",
+    "name": "Qianqian (Quinn) Wang",
+    "aliases": [
+      "Qianqian Wang",
+      "Quinn Wang"
+    ],
+    "school": "Harvard University",
+    "homepage": "https://qianqianwang68.github.io/",
+    "title": "Assistant Professor of Computer Science; Kempner Institute Investigator",
+    "department": "Computer Science, John A. Paulson School of Engineering and Applied Sciences; Kempner Institute",
+    "batch": "embodied-032",
+    "discoveredAt": "2026-10-01T01:10:51Z",
+    "verifiedAt": "2026-10-01T01:17:39Z",
+    "researchAreas": [
+      "3D and 4D perception",
+      "Self-improving visual representations",
+      "Visual imitation",
+      "Articulated object manipulation"
+    ],
+    "fitReason": "Current vision-and-robotics research connects geometric representation learning to object-centric manipulation. SelfEvo (April 2026, co-advised) adapts pretrained reconstruction models using unlabeled video, including offline DROID wrist-camera evaluation; it is not a new robot-control experiment.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Robot See Robot Do (CoRL 2024) uses an actual ABB YuMi with soft grippers and a ZED 2 camera. Pretrained visual features support reconstruction and motion planning from an object scan and one demonstration video. Nine objects with ten orientations each produced 54 successful complete executions out of 90. This is prior Berkeley collaboration, with current Harvard robot access unverified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "shortVisit": {
+      "status": "conditional-inquiry · SEAS通常至少3个月，8周未确认",
+      "summary": "The live personal homepage separately advertises research interns alongside PhD and postdoctoral recruitment. No intern duration, external-master’s conditions, funding or summer 2027 dates are specified. This is a general inquiry route, not an eight-week offer.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 5,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong geometric foundation-model and visual-imitation fit; less direct current action-policy evidence.",
+      "physical": "Detailed real bimanual study, capped for prior institution and unverified current Harvard hardware.",
+      "shortVisit": "Live general internship invitation, with material three-month appointment mismatch; no compatible eight-week route verified.",
+      "freshness": "Explicit April 2026 co-advised perception research and current Harvard role establish recent activity; older robot execution is separately reflected in physical20."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "seas.harvard.edu / source 1",
+        "url": "https://seas.harvard.edu/person/qianqian-wang",
+        "summary": "Official current Assistant Professor of Computer Science, public email, and primary homepage link.",
+        "verifiedAt": "2026-10-01T01:17:39Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "kempnerinstitute.harvard.edu / source 2",
+        "url": "https://kempnerinstitute.harvard.edu/people/our-people/qianqian-wang/",
+        "summary": "Official investigator profile announces Fall 2026 Harvard appointment.",
+        "verifiedAt": "2026-10-01T01:17:39Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "qianqianwang68.github.io / source 3",
+        "url": "https://qianqianwang68.github.io/",
+        "summary": "Direct current Harvard self-description and explicit research-intern invitation distinct from December 2026 PhD applications.",
+        "verifiedAt": "2026-10-01T01:17:39Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2409.18121v1",
+        "summary": "CoRL 2024 primary paper, Section 5 and Table 1: actual YuMi manipulation protocol and complete versus conditional-stage success.",
+        "verifiedAt": "2026-10-01T01:17:39Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "robot-see-robot-do.github.io / source 5",
+        "url": "https://robot-see-robot-do.github.io/",
+        "summary": "Author project shows real execution, explains reconstruction/motion planning, and lists viewpoint and segmentation limitations.",
+        "verifiedAt": "2026-10-01T01:17:39Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2604.08532v1",
+        "summary": "April 2026 SelfEvo primary paper: self-distillation of 4D perception; DROID wrist-camera experiments are offline video-depth evaluation.",
+        "verifiedAt": "2026-10-01T01:17:39Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s7",
+        "label": "self-evo.github.io / source 7",
+        "url": "https://self-evo.github.io/",
+        "summary": "Author project identifies Wang as Harvard-affiliated equal adviser.",
+        "verifiedAt": "2026-10-01T01:17:39Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s8",
+        "label": "seas.harvard.edu / source 8",
+        "url": "https://seas.harvard.edu/office-faculty-affairs/research-appointments/research-appointment-categories/fellow",
+        "summary": "Direct official minimum three-month Fellow appointment, bachelor’s qualification and outside graduate-student eligibility.",
+        "verifiedAt": "2026-10-01T01:17:39Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Important duration mismatch: the current SEAS Fellow category expressly includes outside graduate students with a bachelor’s degree but requires a minimum three-month appointment. An eight-week exception or alternative appointment has not been verified. Treat this as a conditional lead requiring duration flexibility or an approved alternative, not established eight-week feasibility.",
+      "The inspected physical manipulation study is from 2024. The fresh 2026 paper tests perception on existing videos; it does not establish current Harvard hardware or autonomous manipulation.",
+      "RSRD uses reconstruction and motion planning, not a learned end-to-end action policy. Its stages have different denominators; 60 percent is the complete-task success rate.",
+      "The existing Harvard institutional supplement documents appointment-dependent funding and sponsorship. Self-funded status in one appointment handbook does not establish the actual graduate-visitor category.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "discoveryNote": "First primary Harvard profile surfaced at 01:10:51Z; current affiliation and intern invitation directly reopened subsequently.",
+    "publicEmail": "qwang@seas.harvard.edu"
+  }
+]

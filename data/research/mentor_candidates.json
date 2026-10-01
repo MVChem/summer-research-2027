@@ -70,6 +70,7 @@
     "batches/embodied-029.json",
     "batches/embodied-030.json",
     "batches/embodied-031.json",
+    "batches/embodied-032.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -5142,6 +5143,35 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-031.json",
       "detailPage": "batches/embodied-031.md#peng-gao"
+    },
+    {
+      "id": "qianqian-quinn-wang",
+      "name": "Qianqian (Quinn) Wang",
+      "aliases": [
+        "Qianqian Wang",
+        "Quinn Wang"
+      ],
+      "school": "Harvard University",
+      "title": "Assistant Professor of Computer Science; Kempner Institute Investigator",
+      "homepage": "https://qianqianwang68.github.io/",
+      "batch": "embodied-032",
+      "discoveredAt": "2026-10-01T01:10:51Z",
+      "verifiedAt": "2026-10-01T01:17:39Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 5,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "3D and 4D perception",
+        "Self-improving visual representations",
+        "Visual imitation",
+        "Articulated object manipulation"
+      ],
+      "shortVisitStatus": "conditional-inquiry · SEAS通常至少3个月，8周未确认",
+      "recordFile": "batches/embodied-032.json",
+      "detailPage": "batches/embodied-032.md#qianqian-quinn-wang"
     },
     {
       "id": "henny-admoni",

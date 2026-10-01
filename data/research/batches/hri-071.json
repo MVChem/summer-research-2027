@@ -1,0 +1,115 @@
+[
+  {
+    "id": "preeya-khanna",
+    "name": "Preeya Khanna",
+    "aliases": [],
+    "school": "University of California, Berkeley",
+    "homepage": "https://neuralengatberkeley.github.io/",
+    "title": "Assistant Professor",
+    "department": "Neuroscience; Electrical Engineering and Computer Sciences",
+    "batch": "hri-071",
+    "discoveredAt": "2026-10-01T03:26:24Z",
+    "verifiedAt": "2026-10-01T06:33:21Z",
+    "researchAreas": [
+      "Neural decoding for assistive devices",
+      "Brain-machine interfaces",
+      "Sensorimotor learning and control",
+      "Computational neuroscience",
+      "Rehabilitation neuroengineering"
+    ],
+    "fitReason": "Visitor-first, lower-physical-confidence backup for CS work on neural decoding, signal processing or model-based assistive control. The current joining page explicitly values AI/reinforcement-learning and software experience. This is a specialized neural-engineering route rather than a general-purpose robot-learning lab, and a suitable short computational project must be agreed with the PI.",
+    "physicalEvidence": {
+      "status": "historical-or-indirect",
+      "summary": "The lab’s full 2025 NER paper describes trained velocity-Kalman decoding of neural spikes and linear-regression EMG decoding driving a real seven-degree-of-freedom Tecnalia exoskeleton. However, it explicitly reports a single participant’s 2017–2021 ISMORE trial in Spain. This is genuine older collaborative physical execution, not evidence of a current Berkeley exoskeleton, a fresh 2025 robot trial or visitor hardware access. Current local research emphasizes sensorimotor network modeling, closed-loop brain-machine tasks and movement sensing. Contemporary local robot deployment remains unverified, so this record belongs in the lower-physical-confidence research-backup tier.",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only · historical physical-evidence backup",
+      "summary": "The live Sensorimotor Neural Engineering Lab joining page explicitly recruits master’s students and visiting students, asks applicants to contact Khanna with their CV and research interests, and highlights AI/reinforcement learning, software engineering and signal-processing experience. It does not specify eight weeks, summer 2027, stipend, self-funding terms or remote participation. Its separate Spring 2026 Berkeley-undergraduate job and Fall 2027 degree-admission subject line are not an external summer visit offer.",
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    "scores": {
+      "fit": 30,
+      "physical": 10,
+      "shortVisit": 10,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "Specialized learned neural decoding and assistive-control fit for CS; less direct than general embodied policy learning.",
+      "physical": "Genuine older collaborative exoskeleton execution, but current local hardware and access remain unverified; explicitly a lower-physical-confidence backup.",
+      "shortVisit": "Current lab explicitly invites visiting and master’s inquiries, without date, duration or funding commitments.",
+      "freshness": "Current live invitation and 2025 full publication; underlying physical experiment is older, so no fresh-hardware premium."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "neuralengatberkeley.github.io / source 1",
+        "url": "https://neuralengatberkeley.github.io/join",
+        "summary": "Live general recruitment explicitly includes master’s and visiting students, plus relevant AI/RL and software experience. Separate local undergraduate and degree-admission routes are not conflated.",
+        "verifiedAt": "2026-10-01T06:33:21Z"
+      },
+      {
+        "id": "s2",
+        "label": "neuroscience.berkeley.edu / source 2",
+        "url": "https://neuroscience.berkeley.edu/people/preeya-khanna",
+        "summary": "Official Assistant Professor of Neuroscience, Neuroscience/EECS departments and public email.",
+        "verifiedAt": "2026-10-01T06:33:21Z"
+      },
+      {
+        "id": "s3",
+        "label": "www2.eecs.berkeley.edu / source 3",
+        "url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/pkhanna.html",
+        "summary": "Official EECS faculty page corroborates current Assistant Professor and computational neural-control research.",
+        "verifiedAt": "2026-10-01T06:33:21Z"
+      },
+      {
+        "id": "s4",
+        "label": "neuralengatberkeley.github.io / source 4",
+        "url": "https://neuralengatberkeley.github.io/pdfs/ner2025.pdf",
+        "summary": "Full primary paper verifies trained Kalman/EMG decoding, seven-DoF real exoskeleton and explicit 2017–2021 Spain trial chronology.",
+        "verifiedAt": "2026-10-01T06:33:21Z"
+      },
+      {
+        "id": "s5",
+        "label": "neuralengatberkeley.github.io / source 5",
+        "url": "https://neuralengatberkeley.github.io/research",
+        "summary": "Current lab research emphasizes network modeling, sensorimotor behavior and neurotechnology; current physical-robot deployment not established.",
+        "verifiedAt": "2026-10-01T06:33:21Z"
+      },
+      {
+        "id": "s6",
+        "label": "vspa.berkeley.edu / source 6",
+        "url": "https://vspa.berkeley.edu/initiate/overview/visiting-student-researchers",
+        "summary": "Existing conditional institutional VSR route for outside-UC graduate students; not a mentor offer.",
+        "verifiedAt": "2026-10-01T06:33:21Z",
+        "retrieval": "Previously verified institutional guidance reused; not a new visit approval"
+      },
+      {
+        "id": "s7",
+        "label": "vspa.berkeley.edu / source 7",
+        "url": "https://vspa.berkeley.edu/about/university-services-fee",
+        "summary": "Existing institutional fee review; nonprorated first-year VSR university-service charge and restricted discount scope.",
+        "verifiedAt": "2026-10-01T06:33:21Z",
+        "retrieval": "Previously verified institutional guidance reused; not a new visit approval"
+      }
+    ],
+    "unknowns": [
+      "Lower-physical-confidence backup: actual exoskeleton experiments occurred in Spain during 2017–2021, despite a 2025 publication. No current Berkeley robot ownership or availability is claimed.",
+      "The visit invitation is general and undated. Eight-week scope, summer 2027 availability, mentorship capacity, funding, remote participation and research task remain unknown.",
+      "Existing Berkeley VSR guidance conditionally covers graduate students enrolled outside the UC system, with a bachelor’s degree and 30-day-to-one-year in-person appointments. An appropriate PI-sponsored appointment is still required.",
+      "Existing Berkeley fee review lists a nonprorated $1,000 first-year university-services fee, separate from department, visa and insurance charges. A specific approved summer-program discount cannot be assumed. Current 2027 fees and responsibility for payment require confirmation.",
+      "No clinical efficacy inference or patient-data/participant access is made from the one-person trial. A visitor project may need to remain computational unless separate training, ethics and access approvals are in place.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Older collaborative physical evidence remains a limited research lead. The current visiting-student invitation does not establish new Berkeley robot deployment.",
+      "Timestamp scope: First precisely retained historical source-screening timestamp; an earlier encounter time was not preserved and is not reconstructed.",
+      "[Berkeley institutional visitor rules](../eligibility_notes.md#berkeley-vsr)"
+    ],
+    "discoveryTimestampNote": "First precisely retained historical source-screening timestamp; an earlier encounter time was not preserved and is not reconstructed.",
+    "publicEmail": "pkhanna@berkeley.edu",
+    "candidateTier": "Robotics-AI visitor backup; current local hardware unverified"
+  }
+]

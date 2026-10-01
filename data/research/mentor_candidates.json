@@ -219,7 +219,8 @@
     "batches/hri-067.json",
     "batches/hri-068.json",
     "batches/hri-069.json",
-    "batches/hri-070.json"
+    "batches/hri-070.json",
+    "batches/hri-071.json"
   ],
   "candidates": [
     {
@@ -12034,6 +12035,37 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-070.json",
       "detailPage": "batches/hri-070.md#kyungki-kim"
+    },
+    {
+      "id": "preeya-khanna",
+      "name": "Preeya Khanna",
+      "aliases": [],
+      "school": "University of California, Berkeley",
+      "title": "Assistant Professor",
+      "homepage": "https://neuralengatberkeley.github.io/",
+      "batch": "hri-071",
+      "discoveredAt": "2026-10-01T03:26:24Z",
+      "verifiedAt": "2026-10-01T06:33:21Z",
+      "scores": {
+        "fit": 30,
+        "physical": 10,
+        "shortVisit": 10,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Neural decoding for assistive devices",
+        "Brain-machine interfaces",
+        "Sensorimotor learning and control",
+        "Computational neuroscience",
+        "Rehabilitation neuroengineering"
+      ],
+      "discoveryTimestampNote": "First precisely retained historical source-screening timestamp; an earlier encounter time was not preserved and is not reconstructed.",
+      "candidateTier": "Robotics-AI visitor backup; current local hardware unverified",
+      "physicalEvidenceStatus": "historical-or-indirect",
+      "physicalEvidenceLabel": "弱/历史真机线索",
+      "shortVisitStatus": "inquiry-only · historical physical-evidence backup",
+      "recordFile": "batches/hri-071.json",
+      "detailPage": "batches/hri-071.md#preeya-khanna"
     }
   ]
 }

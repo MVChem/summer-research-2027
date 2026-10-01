@@ -2,13 +2,13 @@
 
 [全部候选：最新偏好排序](ranked_candidates.md) · [明确限制与暑期关闭](contact_constraints.md) · [访问问询入口](visitor_inquiries.md) · [评分说明](README.md)
 
-当前新增记录中有 **204 位**以公开准确职级列出的 AP；这里只核实了一部分入职日期，日期未知不等于资历较老。
+当前新增记录中有 **206 位**以公开准确职级列出的 AP；这里只核实了一部分入职日期，日期未知不等于资历较老。
 
 约八周是初步参考，未说明时长不会被排除。先看近期已到岗 AP，再看暑期前有明确任职日期的 AP；其他 AP 仍保留。明确至少三个月及较长访问偏好降序，硬性最短时长与偏好分开；明确不接收暑期/访客优先标记。
 
 工作排序暂以 **2024年起**作为约近两三年的范围，并单列2027暑期前已公告入职者；这是可调整的整理约定，不是年龄判断、用户硬性年限或接收概率。各层内部先按研究匹配，再按真机证据及原总分。原四项分数和发现时间均未改写。
 
-## 近期已到岗 AP（2024起）（4）
+## 近期已到岗 AP（2024起）（5）
 
 | 导师 / 学校 | 准确任职与入职证据 | 原分数：匹配/真机/访问/新鲜 | 访问与时点提醒 |
 |---|---|---|---|
@@ -16,6 +16,7 @@
 | [Mingyo Seo](batches/control-107.md#mingyo-seo) · University of Central Florida | Assistant Professor (joined fall 2026)；**2026秋（官方新教师公告；具体日未定）** [核查来源1](https://www.ece.ucf.edu/two-faculty-join-ece-department-for-fall-2026/) | 72（39/20/0/13） | **当前校园设备、2027容量、访客条件仍待确认；未声明首次faculty任职；受限真机证据：Verified prior-UT-Austin learned Panda/GR1 execution; physical20 cap; current UCF hardware unknown**；unknown · 无明确邀请或拒绝；时长未知 |
 | [Neel P. Bhatt](batches/control-013.md#neel-p-bhatt) · University of Texas at Dallas | Assistant Professor；**Fall 2026; first-person homepage says August 2026** [核查来源1](https://syse.utdallas.edu/ourteam/staff/neel-p-bhatt/) [核查来源2](https://neel1302.github.io/) | 83（38/20/10/15） | **2026秋已到岗；有2027访客/实习邮件入口，时长、资金、主办类别和UTD设备仍待确认**；inquiry-only |
 | [Tom Silver](batches/embodied-001.md#tom-silver) · Princeton University | Assistant Professor；**Fall 2025** [核查来源1](https://ece.princeton.edu/news/tom-silver-joins-princeton-faculty-expertise-robot-planning-and-learning) [核查来源2](https://prpl-group.com/) | 94（37/25/17/15） | **外校研究生可经VSRC询问；仅现场，按完整日历月安排；需提前4–6个月准备**；inquiry-only |
+| [Yujia Zheng](batches/embodied-090.md#yujia-zheng) · University of Illinois Urbana-Champaign | Assistant Professor；**2026–27 cohort; first-person Fall2026 start** [核查来源1](https://stat.illinois.edu/news/2026-08-11/department-statistics-welcomes-three-new-assistant-professors) [核查来源2](https://stat.illinois.edu/directory/profile/yujiaz) [核查来源3](https://yjzheng.com/) [核查来源4](https://www.linkedin.com/posts/yjzheng_yujia-zheng-activity-7464366840400617472-WzvT) | 59（36/0/8/15） | **2026–27新AP；当前公开访客/实习询问；世界模型仅仿真，外校硕士类别、时长及经费未定；仅仿真；真机待核实**；inquiry-only |
 
 ## 暑期前明确拟到岗 AP（3）
 
@@ -34,7 +35,7 @@
 | [Chenfeng Xu](batches/embodied-003.md#chenfeng-xu) · The University of Texas at Austin | Assistant Professor (faculty directory also uses incoming in biography)；**任职起始时间尚未单独核实**  | 73（39/20/0/14） | **时长、2027容量、经费与主办批准另核**；unknown |
 | [Karthik Mahadevan](batches/hri-003.md#karthik-mahadevan) · Massachusetts Institute of Technology (current postdoc); University of Texas at Austin (incoming Spring 2027) | Incoming Assistant Professor; current MIT postdoctoral researcher；**任职起始时间尚未单独核实**  | 73（38/20/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |
 
-## 其他 AP；入职年待核或较早（191）
+## 其他 AP；入职年待核或较早（192）
 
 | 导师 / 学校 | 准确任职与入职证据 | 原分数：匹配/真机/访问/新鲜 | 访问与时点提醒 |
 |---|---|---|---|
@@ -222,6 +223,7 @@
 | [Heather Knight](batches/hri-001.md#heather-knight) · Oregon State University | Assistant Professor (as listed by the lab and university sources)；**任职起始时间尚未单独核实**  | 64（34/20/0/10） | **时长、2027容量、经费与主办批准另核**；unknown |
 | [Luis Antonio Garcia](batches/control-091.md#luis-antonio-garcia) · University of Utah | Assistant Professor；**任职起始时间尚未单独核实**  | 70（34/18/8/10） | **受限真机证据：Earlier UCLA collaborative physical RL verified; current Utah learned hardware unknown**；inquiry-only · 短期scholar询问；硕士类别与八周需确认 |
 | [Jundi Liu](batches/hri-080.md#jundi-liu) · Iowa State University | Assistant Professor; HCI Faculty Affiliate; VRAC Research Faculty；**任职起始时间尚未单独核实**  | 59（34/0/10/15） | **仅仿真；真机待核实**；inquiry-only · 独立外部访问研究生入口；2027与经费未定 |
+| [Andrew Spielberg](batches/embodied-090.md#andrew-spielberg) · Carnegie Mellon University | Assistant Professor；**准确AP起始年有冲突；不列作已核实近期新聘** [核查来源1](https://www.ece.cmu.edu/directory/bios/andrew-spielberg.html) [核查来源2](https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Summer-Intern---College-of-Engineering---Electrical-and-Computer-Engineering_2024173) [核查来源3](https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofelectricalandcomputerengineering/) | 55（34/0/8/13） | **现有周期性实习询问；12–14周仅为2026历史岗位，非通用最低期限；新AP起始年有冲突，真机学习执行未核；真机待核实**；inquiry-only |
 | [Sarah H. Q. Li](batches/control-006.md#sarah-h-q-li) · Georgia Institute of Technology | Assistant Professor；**任职起始时间尚未单独核实**  | 49（34/0/0/15） | **真机待核实**；unknown |
 | [Sam Kriegman](batches/embodied-005.md#sam-kriegman) · Northwestern University | Assistant Professor；**任职起始时间尚未单独核实**  | 73（33/25/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |
 | [Laura Stegner](batches/hri-002.md#laura-stegner) · George Washington University | Assistant Professor；**任职起始时间尚未单独核实**  | 63（33/20/0/10） | **时长、2027容量、经费与主办批准另核**；unknown |
@@ -270,3 +272,10 @@
 - Xiaofan Yu：[来源](https://news.ucmerced.edu/news/2025/new-uc-merced-professor-delves-deep-artificial-intelligence-real-life) · December 2, 2025 university news independently confirms tenure-track Assistant Professor who started that summer.（核查 2026-10-01T12:07:29Z）
 - Xiaofan Yu：[来源](https://yuccalab.ucmerced.edu/) · Official lab news specifies July 2025 arrival, June 2026 IROS acceptance and active agricultural robot/embedded-AI projects.（核查 2026-10-01T12:07:29Z）
 - Mingyo Seo：[来源](https://www.ece.ucf.edu/two-faculty-join-ece-department-for-fall-2026/) · August 24, 2026 university announcement explicitly identifies Seo as new Assistant Professor joining for fall2026.（核查 2026-10-01T12:11:43Z）
+- Yujia Zheng：[来源](https://stat.illinois.edu/news/2026-08-11/department-statistics-welcomes-three-new-assistant-professors) · Official2026–27 new AP cohort, primary Statistics role with CS affiliation, teaching begins spring2027.（核查 2026-10-01T12:08:37Z）
+- Yujia Zheng：[来源](https://stat.illinois.edu/directory/profile/yujiaz) · Current Statistics Assistant Professor; additional Siebel School affiliation; professional email.（核查 2026-10-01T12:08:37Z）
+- Yujia Zheng：[来源](https://yjzheng.com/) · Current first-person Statistics AP/CS-affiliate description.（核查 2026-10-01T12:12:36Z）
+- Yujia Zheng：[来源](https://www.linkedin.com/posts/yjzheng_yujia-zheng-activity-7464366840400617472-WzvT) · Full public first-person post explicitly says Fall2026 appointment and welcomes visitors/interns. Relative4mo label is not converted to an invented exact publication timestamp.（核查 2026-10-01T12:12:36Z）
+- Andrew Spielberg：[来源](https://www.ece.cmu.edu/directory/bios/andrew-spielberg.html) · Full current official Assistant Professor and robotics/simulation/ML agenda.（核查 2026-10-01T12:07:44Z）
+- Andrew Spielberg：[来源](https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Summer-Intern---College-of-Engineering---Electrical-and-Computer-Engineering_2024173) · Official employer indexed full text: Fall2025 lab establishment, paid Summer2026 non-CMU student role, hourly fixed term; live direct text empty.（核查 2026-10-01T12:07:44Z）
+- Andrew Spielberg：[来源](https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofelectricalandcomputerengineering/) · Full official faculty roster prints Carnegie Mellon2021–; unresolved discrepancy with recent lab establishment, so no exact new-AP year asserted.（核查 2026-10-01T12:07:44Z）

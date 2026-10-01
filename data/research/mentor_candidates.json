@@ -190,6 +190,7 @@
     "batches/embodied-083.json",
     "batches/embodied-084.json",
     "batches/embodied-085.json",
+    "batches/embodied-090.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -10017,6 +10018,67 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-085.json",
       "detailPage": "batches/embodied-085.md#james-alan-preiss"
+    },
+    {
+      "id": "yujia-zheng",
+      "name": "Yujia Zheng",
+      "aliases": [
+        "郑雨嘉"
+      ],
+      "school": "University of Illinois Urbana-Champaign",
+      "title": "Assistant Professor",
+      "homepage": "https://yjzheng.com/",
+      "batch": "embodied-090",
+      "discoveredAt": "2026-10-01T12:01:44Z",
+      "verifiedAt": "2026-10-01T12:05:43Z",
+      "scores": {
+        "fit": 36,
+        "physical": 0,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Task-sufficient world models",
+        "Causal representation learning for robot policies",
+        "Model-based reinforcement learning",
+        "Structured latent-state and skill generalization"
+      ],
+      "discoveryTimestampNote": "First precisely retained primary-name/source observation; an earlier secondary lead lacked an exact retained timestamp and was not reconstructed.",
+      "candidateTier": "AI相关 · 真机待核实；方法研究备选",
+      "physicalEvidenceStatus": "simulation-only",
+      "physicalEvidenceLabel": "仅仿真；真机待核实",
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/embodied-090.json",
+      "detailPage": "batches/embodied-090.md#yujia-zheng"
+    },
+    {
+      "id": "andrew-spielberg",
+      "name": "Andrew Spielberg",
+      "aliases": [],
+      "school": "Carnegie Mellon University",
+      "title": "Assistant Professor",
+      "homepage": "https://loci.ece.cmu.edu/",
+      "batch": "embodied-090",
+      "discoveredAt": "2026-10-01T03:12:56Z",
+      "verifiedAt": "2026-10-01T12:07:44Z",
+      "scores": {
+        "fit": 34,
+        "physical": 0,
+        "shortVisit": 8,
+        "freshness": 13
+      },
+      "researchAreas": [
+        "Learned residual physics for soft robots",
+        "Differentiable simulation and robot co-design",
+        "Sim-to-real modeling",
+        "Generative design and fabrication"
+      ],
+      "candidateTier": "AI相关 · 真机待核实；方法研究备选",
+      "physicalEvidenceStatus": "real-world-data-only; no robot deployment",
+      "physicalEvidenceLabel": "真机待核实",
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/embodied-090.json",
+      "detailPage": "batches/embodied-090.md#andrew-spielberg"
     },
     {
       "id": "henny-admoni",

@@ -312,6 +312,77 @@
           "evidence": "August 24, 2026 university announcement explicitly identifies Seo as new Assistant Professor joining for fall2026."
         }
       ]
+    },
+    "yujia-zheng": {
+      "appointmentStart": {
+        "year": 2026,
+        "endYear": 2027,
+        "precision": "academic-year",
+        "academicYear": "2026–27",
+        "display": "2026–27 cohort; first-person Fall2026 start",
+        "status": "current",
+        "sourceIds": [
+          "h1",
+          "h2",
+          "h3",
+          "h4"
+        ],
+        "evidence": "Official announcement says beginning2026–27 academic year; teaching starts spring2027. Current directory/homepage use AP. First-person public post explicitly announces Fall2026. No exact month/day.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2026–27 cohort; first-person Fall2026 start",
+      "caveat": "2026–27新AP；当前公开访客/实习询问；世界模型仅仿真，外校硕士类别、时长及经费未定",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://stat.illinois.edu/news/2026-08-11/department-statistics-welcomes-three-new-assistant-professors",
+          "observedAt": "2026-10-01T12:08:37Z",
+          "evidence": "Official2026–27 new AP cohort, primary Statistics role with CS affiliation, teaching begins spring2027."
+        },
+        {
+          "id": "h2",
+          "url": "https://stat.illinois.edu/directory/profile/yujiaz",
+          "observedAt": "2026-10-01T12:08:37Z",
+          "evidence": "Current Statistics Assistant Professor; additional Siebel School affiliation; professional email."
+        },
+        {
+          "id": "h3",
+          "url": "https://yjzheng.com/",
+          "observedAt": "2026-10-01T12:12:36Z",
+          "evidence": "Current first-person Statistics AP/CS-affiliate description."
+        },
+        {
+          "id": "h4",
+          "url": "https://www.linkedin.com/posts/yjzheng_yujia-zheng-activity-7464366840400617472-WzvT",
+          "observedAt": "2026-10-01T12:12:36Z",
+          "evidence": "Full public first-person post explicitly says Fall2026 appointment and welcomes visitors/interns. Relative4mo label is not converted to an invented exact publication timestamp."
+        }
+      ]
+    },
+    "andrew-spielberg": {
+      "appointmentStart": {},
+      "display": "准确AP起始年有冲突；不列作已核实近期新聘",
+      "caveat": "现有周期性实习询问；12–14周仅为2026历史岗位，非通用最低期限；新AP起始年有冲突，真机学习执行未核",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.ece.cmu.edu/directory/bios/andrew-spielberg.html",
+          "observedAt": "2026-10-01T12:07:44Z",
+          "evidence": "Full current official Assistant Professor and robotics/simulation/ML agenda."
+        },
+        {
+          "id": "s5",
+          "url": "https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Summer-Intern---College-of-Engineering---Electrical-and-Computer-Engineering_2024173",
+          "observedAt": "2026-10-01T12:07:44Z",
+          "evidence": "Official employer indexed full text: Fall2025 lab establishment, paid Summer2026 non-CMU student role, hourly fixed term; live direct text empty."
+        },
+        {
+          "id": "s6",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofelectricalandcomputerengineering/",
+          "observedAt": "2026-10-01T12:07:44Z",
+          "evidence": "Full official faculty roster prints Carnegie Mellon2021–; unresolved discrepancy with recent lab establishment, so no exact new-AP year asserted."
+        }
+      ]
     }
   },
   "constraints": [

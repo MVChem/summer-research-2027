@@ -1,0 +1,237 @@
+[
+  {
+    "id": "yujia-zheng",
+    "name": "Yujia Zheng",
+    "aliases": [
+      "郑雨嘉"
+    ],
+    "school": "University of Illinois Urbana-Champaign",
+    "homepage": "https://yjzheng.com/",
+    "title": "Assistant Professor",
+    "department": "Department of Statistics; affiliate, Siebel School of Computing and Data Science",
+    "batch": "embodied-090",
+    "discoveredAt": "2026-10-01T12:01:44Z",
+    "verifiedAt": "2026-10-01T12:05:43Z",
+    "researchAreas": [
+      "Task-sufficient world models",
+      "Causal representation learning for robot policies",
+      "Model-based reinforcement learning",
+      "Structured latent-state and skill generalization"
+    ],
+    "fitReason": "New-AP, lower-physical-confidence robot-learning backup. ICML2026 MIST-WM learns compact control-relevant representations with Dreamer-V3, active probing skills and an adaptive curriculum, tested on manipulation and locomotion. Current university role and visiting/intern inquiry are separately verified.",
+    "physicalEvidence": {
+      "status": "simulation-only",
+      "summary": "Physical0. Full MIST-WM AppendixA explicitly limits experiments to simulation. Section5 and AppendixD use DMControl, Meta-World, Franka-Kitchen and Robosuite; realistic Panda/Sawyer models are simulated platforms. No current UIUC hardware or real execution claimed.",
+      "sourceIds": [
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "A publicly readable first-person2026 professional announcement explicitly welcomes visiting students/interns alongside2026/27 PhD recruitment. Current official directory and August 11, 2026 university story verify that the advertised UIUC appointment is now current. The live personal homepage does not repeat the invitation or announce a closure. Generic visitor8 only: exact outside-master appointment, duration, funding and2027 capacity remain unknown.",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 36,
+      "physical": 0,
+      "shortVisit": 8,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct structured-world-model and simulated robot-policy methods, strong new-lab fit.",
+      "physical": "Full methods explicitly simulation-only; no hardware credit.",
+      "shortVisit": "Verified generic visitor/intern inquiry, outside-master logistics and timing unknown.",
+      "freshness": "Full ICML2026 methods, current faculty directory and dated2026 new-hire story."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "stat.illinois.edu / source 1",
+        "url": "https://stat.illinois.edu/directory/profile/yujiaz",
+        "summary": "Full current official Assistant Professor, Statistics primary affiliation, CS affiliate, public email and2026 CMU PhD.",
+        "verifiedAt": "2026-10-01T12:05:43Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "stat.illinois.edu / source 2",
+        "url": "https://stat.illinois.edu/news/2026-08-11/department-statistics-welcomes-three-new-assistant-professors",
+        "summary": "Full dated official2026–27 new faculty announcement and spring2027 teaching start.",
+        "verifiedAt": "2026-10-01T12:05:43Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "yjzheng.com / source 3",
+        "url": "https://yjzheng.com/",
+        "summary": "Full current first-person role, causal/world-model agenda and MIST-WM equal-contribution author designation.",
+        "verifiedAt": "2026-10-01T12:05:43Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "www.linkedin.com / source 4",
+        "url": "https://www.linkedin.com/posts/yjzheng_yujia-zheng-activity-7464366840400617472-WzvT",
+        "summary": "Full publicly readable first-person2026 appointment/recruitment announcement includes visiting students/interns; no short-duration or funding commitment.",
+        "verifiedAt": "2026-10-01T12:05:43Z",
+        "retrieval": "direct-first-person-professional-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2607.04409v1",
+        "summary": "Full primary method Sections3/5 and AppendicesA/D: structured Dreamer latents, probing, PPO/SAC, simulated manipulation and explicit physical-platform future work.",
+        "verifiedAt": "2026-10-01T12:05:43Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "proceedings.mlr.press / source 6",
+        "url": "https://proceedings.mlr.press/v306/feng26aa.html",
+        "summary": "Official ICML2026 proceedings verifies publication and author list.",
+        "verifiedAt": "2026-10-01T12:05:43Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Official August 11, 2026 university announcement places appointment in2026–27, with spring2027 teaching; this is a verified new faculty hire before target summer, not inferred from age or publication dates.",
+      "The primary appointment is Statistics, with CS affiliation; do not label an independent primary Grainger CS appointment.",
+      "Full July 2026 MIST-WM is research from prior CMU affiliation. A current Illinois title does not relocate its experiments; all inspected robot benchmarks are simulated.",
+      "Practical proposal could concern representation ablations, active-probing data efficiency or compositional manipulation generalization. No physical robot access or real-world deployment is promised.",
+      "Public visitor invitation is a2026 first-person professional post, not an undated lab form or a confirmed2027 position; no minimum duration was stated. Roughly eight weeks remains a question, not an exclusion criterion.",
+      "Reuse published illinois-urbana-champaign policy: Student Intern is explicitly undergraduate-only. An outside, still-enrolled master’s needs Statistics/host-unit and ISSS confirmation of the actual academic appointment and scholar category; prior Grainger or iSchool examples are not automatically transferable.",
+      "General scholar guidance accepts unpaid/personal support and currently lists$2100/month, with2–3-month lead;2027 costs, insurance, funding classification and institutional approval remain unconfirmed. Remote collaboration is not specifically offered in the verified invitation.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: First precisely retained primary-name/source observation; an earlier secondary lead lacked an exact retained timestamp and was not reconstructed.",
+      "[Institutional visitor rules](../eligibility_notes.md#illinois-urbana-champaign)"
+    ],
+    "discoveryTimestampNote": "First precisely retained primary-name/source observation; an earlier secondary lead lacked an exact retained timestamp and was not reconstructed.",
+    "publicEmail": "yujiaz@illinois.edu",
+    "candidateTier": "AI相关 · 真机待核实；方法研究备选",
+    "appointmentStart": {
+      "year": 2026,
+      "precision": "year",
+      "status": "current",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ],
+      "evidence": "Official August11,2026 announcement identifies2026–27 new Assistant Professor appointment; current directory confirms role. Spring2027 is teaching start, not a replacement appointment date.",
+      "appointmentType": "unresolved"
+    }
+  },
+  {
+    "id": "andrew-spielberg",
+    "name": "Andrew Spielberg",
+    "aliases": [],
+    "school": "Carnegie Mellon University",
+    "homepage": "https://loci.ece.cmu.edu/",
+    "title": "Assistant Professor",
+    "department": "Electrical and Computer Engineering; Laboratory Of Computational Invention (LOCI)",
+    "batch": "embodied-090",
+    "discoveredAt": "2026-10-01T03:12:56Z",
+    "verifiedAt": "2026-10-01T12:07:44Z",
+    "researchAreas": [
+      "Learned residual physics for soft robots",
+      "Differentiable simulation and robot co-design",
+      "Sim-to-real modeling",
+      "Generative design and fabrication"
+    ],
+    "fitReason": "Assistant Professor with learned residual physics, differentiable simulation and soft-robot co-design expertise, plus a live periodic-internship inquiry route. Physical data support model validation, not demonstrated learned closed-loop robot execution.",
+    "physicalEvidence": {
+      "status": "real-world-data-only; no robot deployment",
+      "summary": "Physical0 conservatively for learned execution. Full2024 residual-physics SectionsIV/V trains an MLP residual model using motion-capture trajectories from an actual SoPrA pneumatic soft arm and elastomer beam. The arm follows random pressure sequences; learned residual forces improve simulated trajectory prediction. No evidence that learned outputs drive the real arm is established. These are prior ETH/Harvard experiments, not current CMU apparatus.",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "Current LOCI page explicitly says periodic internships are available and invites inquiries, separately from local CMU MS/UG collaboration. A full first-person summer2026 post describes in-person Pittsburgh internships lasting approximately12–14 weeks and welcomes advanced-degree applicants. Official employer-indexed job text additionally identifies paid, non-CMU student internships. This is a useful prior route, not a still-open2027 job; eight-week flexibility must be discussed.",
+      "sourceIds": [
+        "s2",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 34,
+      "physical": 0,
+      "shortVisit": 8,
+      "freshness": 13
+    },
+    "scoreReasons": {
+      "fit": "Direct learned physics/robot co-design expertise, but current reviewed full technical experiment is2024.",
+      "physical": "Real physical measurements support learned model validation, not verified learned physical execution; current campus apparatus unknown.",
+      "shortVisit": "Live periodic-intern inquiry and explicit advanced-degree prior summer route,2027 and duration uncertain.",
+      "freshness": "2026 lab/recruitment activity, older full-methods experiment; no fresh hardware claim."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.ece.cmu.edu / source 1",
+        "url": "https://www.ece.cmu.edu/directory/bios/andrew-spielberg.html",
+        "summary": "Full current official Assistant Professor and robotics/simulation/ML agenda.",
+        "verifiedAt": "2026-10-01T12:07:44Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "loci.ece.cmu.edu / source 2",
+        "url": "https://loci.ece.cmu.edu/",
+        "summary": "Full current periodic-intern inquiry, active research team, January 2026 lab-site news and scoped postdoc/staff closure.",
+        "verifiedAt": "2026-10-01T12:07:44Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2402.01086v2",
+        "summary": "Full2024 primary methods: actual motion data and random pneumatic commands; learned simulation residuals, no learned real-arm policy execution.",
+        "verifiedAt": "2026-10-01T12:07:44Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "www.linkedin.com / source 4",
+        "url": "https://www.linkedin.com/posts/andrew-spielberg-82073926a_summer-intern-college-of-engineering-activity-7430676195081625601-eVFr",
+        "summary": "Full first-person summer2026 twelve–fourteen-week onsite internship post, advanced-degree applicants welcome; historical.",
+        "verifiedAt": "2026-10-01T12:07:44Z",
+        "retrieval": "direct-first-person-professional-page"
+      },
+      {
+        "id": "s5",
+        "label": "cmu.wd5.myworkdayjobs.com / source 5",
+        "url": "https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Summer-Intern---College-of-Engineering---Electrical-and-Computer-Engineering_2024173",
+        "summary": "Official employer indexed full text: Fall2025 lab establishment, paid Summer2026 non-CMU student role, hourly fixed term; live direct text empty.",
+        "verifiedAt": "2026-10-01T12:07:44Z",
+        "retrieval": "indexed-primary-full-text"
+      },
+      {
+        "id": "s6",
+        "label": "coursecatalog.web.cmu.edu / source 6",
+        "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofelectricalandcomputerengineering/",
+        "summary": "Full official faculty roster prints Carnegie Mellon2021–; unresolved discrepancy with recent lab establishment, so no exact new-AP year asserted.",
+        "verifiedAt": "2026-10-01T12:07:44Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Current official ECE directory verifies Assistant Professor; active LOCI team has PhD advisees and a2025 visiting-PhD alumnus. The older personal homepage foregrounds startup/Harvard history and does not override the university role.",
+      "Appointment-year discrepancy is preserved: CMU course catalog prints2021, while its indexed2026 employer posting says the lab was established Fall2025. Lab establishment is not necessarily appointment start. Do not promote as a verified newly hired2025 AP until resolved.",
+      "Full2024 residual-physics study reports prior Harvard affiliation for Spielberg and ETH affiliations for experimental collaborators; physical data validation does not establish present CMU learned robot operation.",
+      "The live no-full-time-openings statement is under Postdoctoral Candidates and Research Staff, not a blanket closure of internships. Do not silently convert it into a no-student statement.",
+      "The twelve-to-fourteen-week duration is from summer2026, not a universal minimum or a2027 opening. With eight weeks now a rough target, it lowers duration compatibility rather than excludes this relevant AP.",
+      "Official employer job2024173 was read as indexed-primary full text; direct live text rendering is empty. Treat its paid external-intern role and Fall2025 lab date as historical employer evidence, not a verified live application.",
+      "Reuse cmu-student-intern institutional note: outside-degree student route is separate from undergraduate-only RISS/CSD programs; host, department and OIE approval required. Current general funding minimum$3253/month is not a2027 confirmed stipend or total budget. Twelve–fourteen weeks is within the broad formal route but lab duration/funding remain individualized.",
+      "Remote work and summer2027 capacity are unknown. Focused learned-physics validation or simulation project is more defensible than promising a new robot-control deployment.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#cmu-student-intern)"
+    ],
+    "publicEmail": "andrewes@andrew.cmu.edu",
+    "candidateTier": "AI相关 · 真机待核实；方法研究备选"
+  }
+]

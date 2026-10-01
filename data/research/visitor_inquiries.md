@@ -2,11 +2,11 @@
 
 [全部候选与总分排序](ranked_candidates.md) · [原始索引](mentor_candidates.json) · [机构规则](eligibility_notes.md) · [原200位后续补充](baseline_addenda.md)
 
-从现有记录筛出 **98 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。
+从现有记录筛出 **100 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。
 
 本页按研究匹配分优先，其次真机、短访、新鲜度及发现时间；不把一般询问、学校制度或个人自费能力当成已获资格。所有人的主办类别、八周安排、2027容量、经费和设备访问都需确认。具体奖学金要求、无资助、时间不匹配、任职时点及证据限制优先看下列加粗提示，再读完整资料。
 
-## 访问/短期研究问询线索（现场安排仍须确认） · 88 条
+## 访问/短期研究问询线索（现场安排仍须确认） · 90 条
 
 | 导师 / 机构 | 匹配 / 真机 / 短访 | 已知限制与证据状态 | 直接来源 / 机构规则 | 记录核查 UTC |
 |---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Pratyusha Sharma](batches/embodied-075.md#pratyusha-sharma) · New York University | 36/15/10 | **表单明确外校MS/visitor、现场或远程；设备为历史合作证据；受限真机证据：older-prior-host-hardware** | [s4](https://pratyushasharma.github.io/lab/) [s5](https://docs.google.com/forms/d/e/1FAIpQLSd3xjtNnEyDeSmSvIYiJzonTUJlNoW8fj2rTRAc38OkDyFE9Q/viewform) [规则](eligibility_notes.md#nyu) | 2026-10-01T07:19:10Z |
 | [Shan Zuo](batches/control-075.md#shan-zuo) · University of Connecticut | 36/0/8 | **inquiry-only · 外部访问意向；八周与2027名额未定；AI相关 · 真机待核实** | [s2](https://distributed-decision-learning.engr.uconn.edu/) [规则](eligibility_notes.md#connecticut) | 2026-10-01T06:37:33Z |
 | [Jun Chen](batches/control-090.md#jun-chen) · San Diego State University | 36/0/8 | **独立访客询问；学习控制仅仿真；PhD广告标注2024，2027/八周未定；仅仿真；真机待核实** | [s2](https://junchen.sdsu.edu/) [s3](https://junchen.sdsu.edu/opening.html) [规则](eligibility_notes.md#san-diego-state) | 2026-10-01T10:11:53Z |
+| [Yujia Zheng](batches/embodied-090.md#yujia-zheng) · University of Illinois Urbana-Champaign | 36/0/8 | **2026–27新AP；当前公开访客/实习询问；世界模型仅仿真，外校硕士类别、时长及经费未定；仅仿真；真机待核实** | [s1](https://stat.illinois.edu/directory/profile/yujiaz) [s2](https://stat.illinois.edu/news/2026-08-11/department-statistics-welcomes-three-new-assistant-professors) [s4](https://www.linkedin.com/posts/yjzheng_yujia-zheng-activity-7464366840400617472-WzvT) [s5](https://arxiv.org/html/2607.04409v1) [规则](eligibility_notes.md#illinois-urbana-champaign) | 2026-10-01T12:05:43Z |
 | [Minghan Li](batches/embodied-080.md#minghan-li) · Colorado School of Mines | 35/0/10 | **外校/海外硕士访客可询问；表单为唯一申请入口；无经费或2027承诺；仅视频方法；真机待核实** | [s4](https://mai-lab-2026.com/openings.html) [s5](https://docs.google.com/forms/d/e/1FAIpQLSd_qm4qF5swx6ax1kq3WKyUt6QPy_zCw1K7tBMV9qttsOcwLA/viewform) [规则](eligibility_notes.md#colorado-mines) | 2026-10-01T10:09:11Z |
 | [Andrea D’Ambrosio](batches/control-085.md#andrea-dambrosio) · University of South Florida | 35/0/8 | **访客独立询问入口；USF主要资金须非个人、个人仅补充；学习控制仅仿真；仅仿真；真机待核实** | [s3](https://ciro-lab.com/join/) [规则](eligibility_notes.md#south-florida) | 2026-10-01T09:43:52Z |
 | [Renato Zanetti](batches/control-088.md#renato-zanetti) · University of Texas at Austin | 35/0/8 | **独立visiting/exchange thesis询问；时长/经费未定；学习制导仅仿真；仅仿真；真机待核实** | [s3](https://sites.utexas.edu/near/about/) [规则](eligibility_notes.md#ut-austin) | 2026-10-01T09:56:14Z |
@@ -93,6 +94,7 @@
 | [Feng Han](batches/embodied-048.md#feng-han) · New York Institute of Technology | 34/20/8 | **inquiry-only · 海外研究访问类别未确认** | [s3](https://sites.google.com/view/fenghan-homepage/join-us) | 2026-10-01T02:50:30Z |
 | [Luis Antonio Garcia](batches/control-091.md#luis-antonio-garcia) · University of Utah | 34/18/8 | **短期访问学者入口；硕士任命/八周另批；真机为2020年前期合作；受限真机证据：Earlier UCLA collaborative physical RL verified; current Utah learned hardware unknown** | [s3](https://iotrustlab.com/) [s4](https://iotrustlab.com/opportunities/) [规则](eligibility_notes.md#utah) | 2026-10-01T10:17:12Z |
 | [Jundi Liu](batches/hri-080.md#jundi-liu) · Iowa State University | 34/0/10 | **独立访问研究生入口，取决于匹配和资金；仅仿真方法，2027/八周未定；仅仿真；真机待核实** | [s3](https://jundiliu.me/openings/) [规则](eligibility_notes.md#iowa-state) | 2026-10-01T10:03:27Z |
+| [Andrew Spielberg](batches/embodied-090.md#andrew-spielberg) · Carnegie Mellon University | 34/0/8 | **现有周期性实习询问；12–14周仅为2026历史岗位，非通用最低期限；新AP起始年有冲突，真机学习执行未核；真机待核实** | [s2](https://loci.ece.cmu.edu/) [s3](https://arxiv.org/html/2402.01086v2) [s4](https://www.linkedin.com/posts/andrew-spielberg-82073926a_summer-intern-college-of-engineering-activity-7430676195081625601-eVFr) [s5](https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Summer-Intern---College-of-Engineering---Electrical-and-Computer-Engineering_2024173) [s6](https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofelectricalandcomputerengineering/) [规则](eligibility_notes.md#cmu-student-intern) | 2026-10-01T12:07:44Z |
 | [Allison Okamura](batches/hri-001.md#allison-okamura) · Stanford University | 32/20/5 | **须自备支持、方向匹配及有空位；学校资金分类另批** | [s2](https://charm.stanford.edu/Main/AllisonOkamura) [s3](https://charm.stanford.edu/Main/PastLabMeetings) | 2026-09-30T21:37:40Z |
 | [Pooyan Fazli](batches/hri-005.md#pooyan-fazli) · Arizona State University | 32/18/8 | **公开问询入口；详细资格与期限未定** | [s2](https://pooyanfazli.com/) | 2026-09-30T21:58:49Z |
 | [Nadir Weibel](batches/hri-087.md#nadir-weibel) · University of California San Diego | 32/0/10 | **空间AI/人机AI备选，机器人执行未核；外校短访均志愿/自筹，需正式VGS审批；真机待核实** | [s3](https://hxi.ucsd.edu/faq/join-us/) [s8](https://www.grad.ucsd.edu/financial/non-uc-visiting-grads/index.html) [规则](eligibility_notes.md#uc-san-diego) | 2026-10-01T11:04:36Z |

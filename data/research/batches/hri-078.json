@@ -1,0 +1,135 @@
+[
+  {
+    "id": "derek-g-kamper",
+    "name": "Derek G. Kamper",
+    "aliases": [
+      "Derek Kamper"
+    ],
+    "school": "North Carolina State University; University of North Carolina at Chapel Hill",
+    "homepage": "https://handrehablab.wordpress.ncsu.edu/",
+    "title": "Professor; Hand Rehabilitation Lab Principal Investigator; CLEAR Core Associate Director",
+    "department": "Lampe Joint Department of Biomedical Engineering; Hand Rehabilitation Lab; CLEAR Core",
+    "batch": "hri-078",
+    "discoveredAt": "2026-10-01T07:24:51Z",
+    "verifiedAt": "2026-10-01T09:43:34Z",
+    "researchAreas": [
+      "Neural control of robotic hands",
+      "Myoelectric decoding",
+      "Hand exoskeletons",
+      "Assistive human-robot interfaces",
+      "Neurorehabilitation robotics"
+    ],
+    "fitReason": "Relevant assistive-AI methods in learned motor-intent decoding and continuous control of robotic fingers, alongside an active current hand-robot laboratory. The official NC State faculty page and joint-department lab independently establish the professor and PI roles; the primary directory location is Raleigh.",
+    "physicalEvidence": {
+      "status": "historical-or-indirect",
+      "summary": "Coauthor of the fully inspected 2025 IEEE THMS study in which a trained subject-calibrated CNN estimates neural drive from high-density EMG and controls actual i-Limb finger forces. The controller uses 8 Hz force references and 32 Hz classical PD/motor updates. Ten intact participants provide isometric decoding tests; physical hand execution is separately documented. The manuscript was received in July 2024, has UNC IRB approval and Penn State/UNC/NC State collaborators, so current apparatus ownership and execution dates are not inferred. Separately, a 2026 BAC-Glove article and current lab demonstrations establish an active physical exoskeleton program, but its EMG interface uses a calibrated principal-component control plane and human practice rather than a demonstrated new deep robot policy. Neither study proves clinical efficacy or general dexterous object handling by the CNN.",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current lab pages show graduate and undergraduate researchers and 2026 robot demonstrations. No lab-specific outside-master visiting invitation, eight-week summer 2027 opening or remote arrangement was verified. Local master’s students and undergraduate symposium participation are not external-visitor evidence.",
+      "sourceIds": [
+        "s2",
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 36,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantive CNN motor-intent decoding and assistive robot interfaces fit CS/AI methods.",
+      "physical": "Actual learned i-Limb execution is verified, with conservative cap for pre-July-2024/collaborative evidence and unclear current apparatus ownership. Newer glove activity is separate.",
+      "shortVisit": "No applicable lab-specific external-master or short-visit invitation verified.",
+      "freshness": "Current role/lab 2026 activity and publication pipeline verified; execution chronology remains explicit."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engr.ncsu.edu / source 1",
+        "url": "https://engr.ncsu.edu/people/dgkamper/",
+        "summary": "Current official Professor listing, Engineering Building III 4212A, public dgkamper@ncsu.edu.",
+        "verifiedAt": "2026-10-01T09:43:34Z"
+      },
+      {
+        "id": "s2",
+        "label": "handrehablab.wordpress.ncsu.edu / source 2",
+        "url": "https://handrehablab.wordpress.ncsu.edu/people/",
+        "summary": "Current official lab roster: Kamper is PI and Professor in the NC State/UNC joint department and CLEAR Core Associate Director. Current graduate and master’s roster does not establish outside visitors.",
+        "verifiedAt": "2026-10-01T09:43:34Z"
+      },
+      {
+        "id": "s3",
+        "label": "handrehablab.wordpress.ncsu.edu / source 3",
+        "url": "https://handrehablab.wordpress.ncsu.edu/",
+        "summary": "2026 lab news documents BAC-Glove demonstrations, current supervised trainees and neural-interface research activity.",
+        "verifiedAt": "2026-10-01T09:43:34Z"
+      },
+      {
+        "id": "s4",
+        "label": "bpb-us-e1.wpmucdn.com / source 4",
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/6/152850/files/2025/09/Meng25_RobotNeuralCtr.pdf",
+        "summary": "Full primary 2025 CNN/i-Limb paper previously inspected for hri-077 at 07:25:54 UTC and reused. Kamper is a named coauthor; UNC IRB, July 2024 receipt, actual force-control setup, intact participants and clinical/task limitations are explicit.",
+        "verifiedAt": "2026-10-01T07:25:54Z",
+        "retrieval": "Reused full primary manuscript inspection from the same research session"
+      },
+      {
+        "id": "s5",
+        "label": "pubmed.ncbi.nlm.nih.gov / source 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42475187/",
+        "summary": "Primary 2026 BAC-Glove abstract: 5 neurotypical biomechanical-test participants and another 10 neurotypical participants with four EMG-control sessions. Article DOI 10.1109/TNSRE.2026.3710674; no stroke-efficacy result.",
+        "verifiedAt": "2026-10-01T09:43:34Z"
+      },
+      {
+        "id": "s6",
+        "label": "www.researchgate.net / source 6",
+        "url": "https://www.researchgate.net/publication/410632357_Evaluation_of_a_Portable_EMG-Controlled_Hand_Exoskeleton_with_Independent_Digit_Actuation",
+        "summary": "Public full manuscript text describes five-minute calibration and principal-component EMG control plane. This is not counted as a new deep learned-control pipeline.",
+        "verifiedAt": "2026-10-01T09:43:34Z"
+      },
+      {
+        "id": "s7",
+        "label": "repository.lib.ncsu.edu / source 7",
+        "url": "https://repository.lib.ncsu.edu/items/9ccac533-36da-4d99-9637-70a95e42964d",
+        "summary": "Official 2021 dissertation lists Mohammad Ghassemi with Derek Kamper as chair, supporting direct lineage for the newer BAC-Glove paper; not an external visitor invitation.",
+        "verifiedAt": "2026-10-01T09:43:34Z"
+      },
+      {
+        "id": "s8",
+        "label": "internationalservices.ncsu.edu / source 8",
+        "url": "https://internationalservices.ncsu.edu/j-1-student-intern-program/j-1-student-intern-eligibility/",
+        "summary": "Institutional source reused from 2026-09-30T23:04:34Z review: outside-degree-related Student Intern, 2–12 months, at least 32 hours/week and home recommendation. Fixed eight weeks is not automatically two months.",
+        "verifiedAt": "2026-09-30T23:04:34Z",
+        "retrieval": "Reused earlier NC State institutional-policy review; host campus must be confirmed"
+      },
+      {
+        "id": "s9",
+        "label": "internationalservices.ncsu.edu / source 9",
+        "url": "https://internationalservices.ncsu.edu/faculty-and-staff/hosting-exchange-visitors/j-1-categories/",
+        "summary": "Reused institutional category guidance supports possible short scholar consideration, subject to degree/activity and host approval; not an offer.",
+        "verifiedAt": "2026-09-30T23:04:34Z",
+        "retrieval": "Reused earlier NC State institutional-policy review; host campus must be confirmed"
+      }
+    ],
+    "unknowns": [
+      "Joint NC State/UNC affiliation does not identify a visitor’s appointing institution. Confirm the actual host campus and use that institution’s rules; NC State policy below must not be transferred automatically to an UNC appointment.",
+      "NC State Student Intern duration is two to twelve months. A fixed eight weeks is 56 days and must not be called eligible without OIS confirmation or dates that satisfy the two-month minimum.",
+      "A completed-bachelor’s short research visitor may potentially use a Scholar category, but the department/OIS determines the category from actual activities. No category approval is implied.",
+      "Existing NC State review permits documented personal liquid funding, while host/research approval, insurance, fees and any bench charges remain separate. Reconfirm applicable 2027 amounts and processes.",
+      "Clinical/patient-care activities are restricted. Human-subject, safety and research approvals must cover any proposed assistive-device project; a visitor is not promised patient or equipment access.",
+      "The CNN hardware study is collaborative and predates its 2025 publication. The current BAC-Glove program is supporting lab activity, not evidence that the older CNN was newly deployed on this glove.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#nc-state)"
+    ],
+    "publicEmail": "dgkamper@ncsu.edu"
+  }
+]

@@ -247,7 +247,8 @@
     "batches/hri-074.json",
     "batches/hri-075.json",
     "batches/hri-076.json",
-    "batches/hri-077.json"
+    "batches/hri-077.json",
+    "batches/hri-078.json"
   ],
   "candidates": [
     {
@@ -13479,6 +13480,37 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-077.json",
       "detailPage": "batches/hri-077.md#long-meng"
+    },
+    {
+      "id": "derek-g-kamper",
+      "name": "Derek G. Kamper",
+      "aliases": [
+        "Derek Kamper"
+      ],
+      "school": "North Carolina State University; University of North Carolina at Chapel Hill",
+      "title": "Professor; Hand Rehabilitation Lab Principal Investigator; CLEAR Core Associate Director",
+      "homepage": "https://handrehablab.wordpress.ncsu.edu/",
+      "batch": "hri-078",
+      "discoveredAt": "2026-10-01T07:24:51Z",
+      "verifiedAt": "2026-10-01T09:43:34Z",
+      "scores": {
+        "fit": 36,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Neural control of robotic hands",
+        "Myoelectric decoding",
+        "Hand exoskeletons",
+        "Assistive human-robot interfaces",
+        "Neurorehabilitation robotics"
+      ],
+      "physicalEvidenceStatus": "historical-or-indirect",
+      "physicalEvidenceLabel": "受限真机证据：historical-or-indirect",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-078.json",
+      "detailPage": "batches/hri-078.md#derek-g-kamper"
     }
   ]
 }

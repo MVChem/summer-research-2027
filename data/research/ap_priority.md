@@ -8,7 +8,7 @@
 
 工作排序暂以 **2024年起**作为约近两三年的范围，并单列2027暑期前已公告入职者；这是可调整的整理约定，不是年龄判断、用户硬性年限或接收概率。各层内部先按研究匹配，再按真机证据及原总分。原四项分数和发现时间均未改写。
 
-## 近期已到岗 AP（2024起）（34）
+## 近期已到岗 AP（2024起）（33）
 
 | 导师 / 学校 | 准确任职与入职证据 | 原分数：匹配/真机/访问/新鲜 | 访问与时点提醒 |
 |---|---|---|---|
@@ -42,7 +42,6 @@
 | [Kitae Kim](batches/embodied-091.md#kitae-kim) · North Carolina State University | Assistant Professor；**2026** [核查来源1](https://engr.ncsu.edu/faculty-development/faculty-communities/new-faculty-cohort-2026/) [核查来源2](https://kimkt0408.github.io/) | 76（35/20/8/13） | **官方2026新AP；独立访客询问入口；一年要求仅对本校MS/UG，外校时长未定；硬件为Purdue旧合作且完整技术论文未读取**；inquiry-only |
 | [Wenhao Yang](batches/hri-055.md#wenhao-yang) · Lamar University | Assistant Professor；**2024-07（大学托管本人CV）** [核查来源1](https://www.lamar.edu/engineering/_files/documents/industrial/wenhao-yang-cv-2024-09-13.pdf) | 70（35/20/0/15） | **大学托管本人CV称2024-07；其他页面Fall措辞不强行精确化；未核实外校短访，VLA设备为合作平台**；unknown |
 | [Wei Wang](batches/control-114.md#wei-wang) · University of Wisconsin–Madison | Assistant Professor (January2024)；**2024-01（官方）；未独立断言首次faculty** [核查来源1](https://engineering.wisc.edu/directory/profile/wei-wang/) [核查来源2](https://engineering.wisc.edu/news/focus-on-new-faculty-wei-wang-charts-course-for-aquatic-robots/) | 68（35/20/0/13） | **神经船控来自MIT2023；当前Wisconsin鱼/船工作不能自动算新学习控制；一年偏好仅限本校本科，外校硕士未知；受限真机证据：Verified prior MIT real-world DDPG vessel execution; current Wisconsin robot lab independently verified; physical20**；unknown |
-| [Kyle T. Yoshida](batches/hri-100.md#kyle-t-yoshida) · University of California, Los Angeles | Assistant Professor of Mechanical and Aerospace Engineering；**2025-07-01** [核查来源1](https://www.samueli.ucla.edu/new-faculty-2023-2026/) [核查来源2](https://samueli.ucla.edu/people/kyle-yoshida/) | 59（34/0/10/15） | **2025-07-01到岗；全球硕士可询问，Summer2027优先截止2027-05-01；未核时长/表单，硕士远程及资助未知；只有软体驱动器建模、无学习控制执行；真机待核实**；inquiry-only |
 | [Zishen Wan](batches/embodied-091.md#zishen-wan) · Columbia University | Assistant Professor；**2026** [核查来源1](https://www.cs.columbia.edu/2026/zishen-wan-brings-ai-native-computing-research-to-columbia/) [核查来源2](https://www.engineering.columbia.edu/about/news/welcoming-our-new-faculty) [核查来源3](https://zishenwan.github.io/) | 57（34/0/8/15） | **2026到岗月份来源有冲突，仅保留年份；访客/远程询问明确，VLA计算方法仅仿真，Columbia资金需至少51%机构支持；仅仿真；真机待核实**；inquiry-only |
 | [Sotirios D. Nousias](batches/embodied-097.md#sotirios-d-nousias) · Purdue University | Kevin C and Suzanne L Kahn New Frontiers Assistant Professor of Computer Science；**2025** [核查来源1](https://www.cs.purdue.edu/people/faculty/snousias.html) [核查来源2](https://www.cs.purdue.edu/news/articles/2025/17-new-faculty-members-join-purdue-cs.html) | 56（33/0/8/15） | **官方Fall2025 AP；独立intern/visitor询问，硕士资格/时长/资金未定；低照度3D重建是感知备选，无机器人执行；真机待核实**；inquiry-only |
 | [Ferdous Alam](batches/embodied-092.md#ferdous-alam) · Georgia Institute of Technology | Assistant Professor；**2026-01** [核查来源1](https://robotics.gatech.edu/node/119) [核查来源2](https://www.me.gatech.edu/news/faculty-spotlight-assistant-professor-ferdous-alam) | 73（32/20/8/13） | **2026-01到岗；当前无已说明的访客资助，自带fellowship受欢迎，其他安排可讨论；页面显示空白但公开内容已核；旧制造试验非当前GT机器人**；inquiry-only |
@@ -257,11 +256,12 @@
 | [Pooyan Fazli](batches/hri-005.md#pooyan-fazli) · Arizona State University | Assistant Professor；**任职起始时间尚未单独核实**  | 73（32/18/8/15） | **时长、2027容量、经费与主办批准另核**；inquiry-only |
 | [Preeya Khanna](batches/hri-071.md#preeya-khanna) · University of California, Berkeley | Assistant Professor；**任职起始时间尚未单独核实**  | 60（30/10/10/10） | **弱/历史真机线索**；inquiry-only · historical physical-evidence backup |
 
-## 较长访问偏好；降低首联优先级（1）
+## 较长访问偏好；降低首联优先级（2）
 
 | 导师 / 学校 | 准确任职与入职证据 | 原分数：匹配/真机/访问/新鲜 | 访问与时点提醒 |
 |---|---|---|---|
 | [Dhruv Shah](batches/embodied-001.md#dhruv-shah) · Princeton University | Assistant Professor；**2026; exact month/day unconfirmed** [核查来源1](https://dhruvshah.me/docs/cv.pdf) [核查来源2](https://ece.princeton.edu/node/10221) [核查来源3](https://prism.robotics.princeton.edu/contact) [核查来源4](https://docs.google.com/forms/d/e/1FAIpQLScgkMi3nEuGibkb4uexKnXtDZT2Vmg_yoPGxEQYAZTPUshrsQ/viewform) | 85（40/20/10/15） | **通常偏好至少6个月；降为后续联系，不是硬性最低期限或暑期关闭。只读了公开首屏，后续条件未知**；inquiry-only |
+| [Kyle T. Yoshida](batches/hri-100.md#kyle-t-yoshida) · University of California, Los Angeles | Assistant Professor of Mechanical and Aerospace Engineering；**2025-07-01** [核查来源1](https://www.samueli.ucla.edu/new-faculty-2023-2026/) [核查来源2](https://samueli.ucla.edu/people/kyle-yoshida/) | 59（34/0/10/15） | **强烈偏好超过1个quarter；这是较长访问偏好，不是硬性最低期限，也不自动等于某个精确月数。Summer2027优先截止仍是2027-05-01，较短安排与接收待确认；真机待核实**；inquiry-only · 强烈偏好超过1个quarter；降低短期优先级 |
 
 ## 明确至少三个月；降低首联优先级（1）
 

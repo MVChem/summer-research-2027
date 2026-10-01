@@ -15376,7 +15376,7 @@
       "homepage": "https://www.mohalalab.org/",
       "batch": "hri-100",
       "discoveredAt": "2026-10-01T12:41:51Z",
-      "verifiedAt": "2026-10-01T12:53:16Z",
+      "verifiedAt": "2026-10-01T13:23:59Z",
       "scores": {
         "fit": 34,
         "physical": 0,
@@ -15393,7 +15393,7 @@
       "candidateTier": "AI相关 · 真机待核实；方法研究备选",
       "physicalEvidenceStatus": "unverified",
       "physicalEvidenceLabel": "真机待核实",
-      "shortVisitStatus": "inquiry-only",
+      "shortVisitStatus": "inquiry-only · 强烈偏好超过1个quarter；降低短期优先级",
       "recordFile": "batches/hri-100.json",
       "detailPage": "batches/hri-100.md#kyle-t-yoshida"
     },

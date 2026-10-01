@@ -913,7 +913,7 @@
         "appointmentType": "unresolved"
       },
       "display": "2025-07-01",
-      "caveat": "2025-07-01到岗；全球硕士可询问，Summer2027优先截止2027-05-01；未核时长/表单，硕士远程及资助未知；只有软体驱动器建模、无学习控制执行",
+      "caveat": "官方2025-07-01到岗；全球硕士询问，2027-05-01优先截止；表单强烈偏好超过1个quarter（非硬最低期限，不换算精确月数）；硕士资助/远程未知，软驱动器仅建模",
       "sources": [
         {
           "id": "s1",
@@ -1762,6 +1762,22 @@
         {
           "url": "https://eecsis.mit.edu/research_interests.pcgi?pdf=true",
           "evidence": "Current approved thesis-supervisor list marks on leave Fall 2026. No 2027 duration or blanket visitor closure is stated."
+        }
+      ]
+    },
+    {
+      "key": "kyle-yoshida-quarter-preference",
+      "candidateId": "kyle-t-yoshida",
+      "name": "Kyle T. Yoshida",
+      "kind": "duration-preference",
+      "longDurationPreference": true,
+      "scope": "AY26–27 research-interest form Timeframe question",
+      "summary": "强烈偏好超过1个quarter；这是较长访问偏好，不是硬性最低期限，也不自动等于某个精确月数。Summer2027优先截止仍是2027-05-01，较短安排与接收待确认",
+      "observedAt": "2026-10-01T13:23:59Z",
+      "sources": [
+        {
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSeCeV21VKoS_qMpmSczt8RAub7gcQS8soGOwdFTVXQJx116Rg/viewform?usp=send_form",
+          "evidence": "Complete form Timeframe question strongly prefers more than one quarter; no hard minimum or blanket summer closure stated."
         }
       ]
     }

@@ -12,7 +12,7 @@
     "department": "Mechanical and Aerospace Engineering; MOHALA Lab",
     "batch": "hri-100",
     "discoveredAt": "2026-10-01T12:41:51Z",
-    "verifiedAt": "2026-10-01T12:53:16Z",
+    "verifiedAt": "2026-10-01T13:23:59Z",
     "researchAreas": [
       "Soft-robot actuator learning",
       "Data-driven forward and inverse modeling",
@@ -29,10 +29,11 @@
       ]
     },
     "shortVisit": {
-      "status": "inquiry-only",
-      "summary": "The live lab opportunities page separately welcomes undergraduate and master’s research applicants at UCLA and around the globe, and lists May 1, 2027 as its Summer 2027 priority deadline. Placement depends on space, funding, capacity and project need. No research duration is specified. The additional Fall 2027 degree-admission instructions are a separate route.",
+      "status": "inquiry-only · 强烈偏好超过1个quarter；降低短期优先级",
+      "summary": "The current opportunities page and AY26–27 form welcome worldwide master’s research inquiries and give May 1, 2027 as Summer 2027 priority review. The form strongly prefers stays of more than one quarter. This is a preference, not a hard minimum; no exact month count or shorter-visit acceptance is inferred. Placement depends on space, funding, capacity and project needs.",
       "sourceIds": [
-        "s3"
+        "s3",
+        "s9"
       ]
     },
     "scores": {
@@ -44,7 +45,7 @@
     "scoreReasons": {
       "fit": "Substantive learned physical-actuator models and haptic robotics, narrower than deployed embodied policy research.",
       "physical": "Physical specimens and measured data exist, but learned-model actuation/control is explicitly future work.",
-      "shortVisit": "Explicit worldwide master’s inquiry and Summer 2027 priority review deadline, with duration, form-specific eligibility and actual acceptance unknown. Retain inquiry-level10 consistently with other dated2027 routes; the deadline remains prominently visible.",
+      "shortVisit": "Explicit worldwide master’s inquiry and Summer 2027 priority deadline; the form strongly prefers more than one quarter. Keep inquiry-evidence10, with lower practical priority for a shorter visit. This is not a hard minimum or a confirmed appointment.",
       "freshness": "Full 2026 methods, current recruitment through Summer 2027 and official exact 2025 appointment."
     },
     "sources": [
@@ -106,11 +107,19 @@
         "summary": "Reused July 2026 fee schedule, not a guaranteed 2027 budget.",
         "verifiedAt": "2026-09-30T23:17:19Z",
         "retrieval": "Reused earlier institutional review; not freshly retrieved"
+      },
+      {
+        "id": "s9",
+        "label": "MOHALA AY26–27 public research-interest form",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSeCeV21VKoS_qMpmSczt8RAub7gcQS8soGOwdFTVXQJx116Rg/viewform?usp=send_form",
+        "summary": "Complete public form read in the cloud browser. Timeframe strongly prefers students to stay for more than one quarter, without stating a hard minimum. Summer2027 May1 priority date is repeated. A master’s example and optional funding question are visible; no master’s funding promise. Some controls appeared disabled, but no closure text was shown and submission readiness was not tested. No fields were entered or submitted.",
+        "verifiedAt": "2026-10-01T13:23:59Z",
+        "retrieval": "Complete public form, read-only; controls not exercised"
       }
     ],
     "unknowns": [
       "The explicit remote-project sentence applies to non-UCLA high-school and undergraduate applicants. Remote participation for master’s researchers remains unknown. The undergraduate no-pay sentence does not settle master’s funding.",
-      "The public interest-page invitation was verified, but the linked form could not be inspected. Form-specific requirements are unknown; nothing was entered or submitted. Summer priority review is not acceptance, funded employment or guaranteed eight-week availability.",
+      "The complete public form is now inspected. It strongly prefers more than one quarter; shorter arrangements and the exact meaning for proposed dates need confirmation. Some controls appeared disabled without closure text, so submission readiness is untested. No inputs or submission. Priority review is not acceptance, funding or a guaranteed visit length.",
       "UCLA VGR institutional review is reused from 2026-09-30T23:17:19Z. External enrolled graduate researchers, including master’s collaborations, may qualify with sponsor and administrative approvals; official category/funding pages conflict, so personal-only financing requires office confirmation.",
       "The 2026 listed international first-quarter VGR fee was $1,044.88 and charges are not prorated. Health coverage, later-quarter costs, 2027 rates and any short-appointment access exception must be checked with the host. A central route does not guarantee this lab can host.",
       "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",

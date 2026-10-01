@@ -73,9 +73,19 @@ class ResearchLedgerTests(unittest.TestCase):
         self.assertIn(row["name"], remote_section)
         self.assertNotIn(row["name"], rendered.split("## 仅远程入口", 1)[0])
 
-    def test_inquiry_view_orders_fit_first(self):
+    def test_inquiry_view_orders_priority_tier_then_fit(self):
         rows = ledger.inquiry_rows(self.full)
-        self.assertEqual([r["scores"]["fit"] for r in rows], sorted((r["scores"]["fit"] for r in rows), reverse=True))
+        notes = ledger.priority_notes()
+        keys = [(ledger.priority_tier(r, notes), -r['scores']['fit']) for r in rows]
+        self.assertEqual(keys, sorted(keys))
+
+    def test_quarter_preference_is_lower_priority_without_invented_months(self):
+        row = next(r for r in self.full['candidates'] if r['id'] == 'kyle-t-yoshida')
+        notes = ledger.priority_notes()
+        constraint = next(x for x in notes['constraints'] if x.get('candidateId') == row['id'])
+        self.assertNotIn('months', constraint)
+        self.assertEqual(ledger.priority_tier(row, notes), 5)
+        self.assertEqual(row['scores']['shortVisit'], 10)
 
     def test_zero_score_generic_inquiry_is_separate_without_rescoring(self):
         data = copy.deepcopy(self.full)

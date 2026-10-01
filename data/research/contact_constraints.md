@@ -133,6 +133,12 @@
 - **通常偏好至少4个月，名额很少且当前没有资助的访客岗位；偶尔接收暑期实习，可按FAQ在1月询问，不是全面暑期关闭**
 - 核查：2026-10-01T11:37:16Z · [来源1](https://multicomp.cs.cmu.edu/faq/visitors/)
 
+### Kyle T. Yoshida（新增候选）
+
+- 适用范围：AY26–27 research-interest form Timeframe question
+- **强烈偏好超过1个quarter；这是较长访问偏好，不是硬性最低期限，也不自动等于某个精确月数。Summer2027优先截止仍是2027-05-01，较短安排与接收待确认**
+- 核查：2026-10-01T13:23:59Z · [来源1](https://docs.google.com/forms/d/e/1FAIpQLSeCeV21VKoS_qMpmSczt8RAub7gcQS8soGOwdFTVXQJx116Rg/viewform?usp=send_form)
+
 ## 明确仅面向本校的研究入口
 
 ### Abhishek Gupta（原名单 #127）

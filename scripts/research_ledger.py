@@ -205,7 +205,7 @@ def priority_tier(row, notes):
         return 7
     if any(x["kind"] == "minimum-duration" and x.get("months", 0) >= 3 for x in constraints):
         return 6
-    if any(x["kind"] == "duration-preference" and x.get("months", 0) >= 3 for x in constraints):
+    if any(x["kind"] == "duration-preference" and (x.get("months", 0) >= 3 or x.get("longDurationPreference") is True) for x in constraints):
         return 5
     if re.search(r"\b(?:assistant teaching|teaching assistant|teaching) professor\b", row["title"].split(";")[0], re.I):
         return 4.5
@@ -264,6 +264,8 @@ def validate_priority_notes(notes, data):
         assert entry["key"] not in seen; seen.add(entry["key"])
         assert entry["kind"] in {"minimum-duration", "duration-preference", "no-summer-interns", "no-visitors", "local-students-only", "capacity-or-role"}
         assert entry["scope"] and entry["summary"] and entry["sources"]
+        if "longDurationPreference" in entry:
+            assert entry["kind"] == "duration-preference" and isinstance(entry["longDurationPreference"], bool)
         assert sum(key in entry for key in ("candidateId", "baselineId", "catalogueIdentity")) == 1
         if "catalogueIdentity" in entry:
             target = entry["catalogueIdentity"]
@@ -426,7 +428,8 @@ def inquiry_rows(data, notes=None):
     """Select evidence-bearing inquiries; never promote precedent-only rows."""
     generic_ids = {identity for identity, note in (notes or {}).get("notes", {}).items() if note.get("category") == "generic-intern-eligibility-unconfirmed"}
     rows = [r for r in data["candidates"] if r["scores"]["shortVisit"] > 0 or r["shortVisit"]["status"].startswith("remote-only-inquiry") or r.get("remoteInquiryEvidence") or r["id"] in generic_ids]
-    return sorted(rows, key=lambda r: (-r["scores"]["fit"], -r["scores"]["physical"], -r["scores"]["shortVisit"], -r["scores"]["freshness"], r["discoveredAt"], r["name"]))
+    priorities = priority_notes()
+    return sorted(rows, key=lambda r: (priority_tier(r, priorities), -r["scores"]["fit"], -r["scores"]["physical"], -r["scores"]["shortVisit"], -r["scores"]["freshness"], r["discoveredAt"], r["name"]))
 
 
 def validate_inquiry_notes(notes, data):
@@ -452,7 +455,7 @@ def render_inquiries(data, notes):
         else:
             category = "onsite"
         groups[category].append(row)
-    lines = ["# 明确访问问询入口 · 实用筛选", "", "[全部候选与总分排序](ranked_candidates.md) · [原始索引](mentor_candidates.json) · [机构规则](eligibility_notes.md) · [原200位后续补充](baseline_addenda.md)", "", f"从现有记录筛出 **{len(rows)} 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。", "", "本页按研究匹配分优先，其次真机、短访、新鲜度及发现时间；不把一般询问、学校制度或个人自费能力当成已获资格。所有人的主办类别、八周安排、2027容量、经费和设备访问都需确认。具体奖学金要求、无资助、时间不匹配、任职时点及证据限制优先看下列加粗提示，再读完整资料。", ""]
+    lines = ["# 明确访问问询入口 · 实用筛选", "", "[新AP优先视图](ap_priority.md) · [全部候选偏好排序](ranked_candidates.md) · [原名单AP后续核查](baseline_ap.md) · [原始索引](mentor_candidates.json) · [机构规则](eligibility_notes.md) · [原200位后续补充](baseline_addenda.md)", "", f"从现有记录筛出 **{len(rows)} 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。", "", "本页各类入口内按已核实任职与限制分层：新AP优先，明确长时段偏好/最低期限靠后；同层按研究匹配、真机、短访、新鲜度及发现时间。约八周不是硬筛选；不把一般询问、学校制度或个人自费能力当成已获资格。所有人的主办类别、具体时长、2027容量、经费和设备访问都需确认。具体奖学金要求、无资助、时间不匹配、任职时点及证据限制优先看下列加粗提示，再读完整资料。", ""]
     titles = {"onsite": "访问/短期研究问询线索（现场安排仍须确认）", "generic": "一般 intern 入口（外校硕士适用性未明确）", "remote": "仅远程入口（现场短访分为0）"}
     for category in ("onsite", "generic", "remote"):
         lines += [f"## {titles[category]} · {len(groups[category])} 条", "", "| 导师 / 机构 | 匹配 / 真机 / 短访 | 已知限制与证据状态 | 直接来源 / 机构规则 | 记录核查 UTC |", "|---|---|---|---|---|"]

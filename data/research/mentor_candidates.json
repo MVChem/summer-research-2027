@@ -99,6 +99,8 @@
     "batches/embodied-043.json",
     "batches/embodied-044.json",
     "batches/embodied-045.json",
+    "batches/embodied-046.json",
+    "batches/embodied-047.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -6087,6 +6089,61 @@
       "shortVisitStatus": "inquiry-only",
       "recordFile": "batches/embodied-045.json",
       "detailPage": "batches/embodied-045.md#john-m-dolan"
+    },
+    {
+      "id": "michael-t-tolley",
+      "name": "Michael T. Tolley",
+      "aliases": [
+        "Michael Tolley"
+      ],
+      "school": "University of California San Diego",
+      "title": "Professor",
+      "homepage": "https://bioinspired.eng.ucsd.edu/",
+      "batch": "embodied-046",
+      "discoveredAt": "2026-10-01T02:31:10Z",
+      "verifiedAt": "2026-10-01T02:39:15Z",
+      "scores": {
+        "fit": 36,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Tactile imitation learning",
+        "Contact-rich manipulation",
+        "Soft robotics",
+        "Bioinspired robot design"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-046.json",
+      "detailPage": "batches/embodied-046.md#michael-t-tolley"
+    },
+    {
+      "id": "heng-yang",
+      "name": "Heng Yang",
+      "aliases": [],
+      "school": "Harvard University",
+      "title": "Assistant Professor of Electrical Engineering",
+      "homepage": "https://hankyang.seas.harvard.edu/",
+      "batch": "embodied-047",
+      "discoveredAt": "2026-10-01T02:37:46Z",
+      "verifiedAt": "2026-10-01T02:44:37Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Diffusion policies",
+        "Sim-to-real manipulation",
+        "Generative predictive control",
+        "Robust robot learning",
+        "Optimization with guarantees"
+      ],
+      "shortVisitStatus": "unknown · SEAS通常至少三个月",
+      "recordFile": "batches/embodied-047.json",
+      "detailPage": "batches/embodied-047.md#heng-yang"
     },
     {
       "id": "henny-admoni",

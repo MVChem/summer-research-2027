@@ -1,0 +1,138 @@
+[
+  {
+    "id": "heng-yang",
+    "name": "Heng Yang",
+    "aliases": [],
+    "school": "Harvard University",
+    "homepage": "https://hankyang.seas.harvard.edu/",
+    "title": "Assistant Professor of Electrical Engineering",
+    "department": "Harvard John A. Paulson School of Engineering and Applied Sciences; Electrical and Computer Engineering",
+    "batch": "embodied-047",
+    "discoveredAt": "2026-10-01T02:37:46Z",
+    "verifiedAt": "2026-10-01T02:44:37Z",
+    "researchAreas": [
+      "Diffusion policies",
+      "Sim-to-real manipulation",
+      "Generative predictive control",
+      "Robust robot learning",
+      "Optimization with guarantees"
+    ],
+    "fitReason": "A close methodological match for CS-based embodied AI: the Computational Robotics Group combines generative policy learning, cross-domain adaptation and formal optimization with actual manipulator experiments.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "BEACON (May 9, 2026) co-trains diffusion visuomotor policies using simulated and limited real demonstrations, then evaluates on a physical Franka Panda for block stacking and mug cleanup. Real demonstrations number 40 per task. The lab hosts the project and identifies coauthor Han Qi as a current PhD student; Qi’s own page independently confirms Yang as adviser. Physical threading is not claimed: the real-results table reports only stacking and mug cleanup.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown · SEAS通常至少三个月",
+      "summary": "The live Joining page welcomes motivated master’s and undergraduate students, but does not explicitly identify an external visiting-student route, duration or summer 2027 opportunity. The People page lists several former external master’s researchers; this is historical precedent only. Short-visit evidence remains zero pending an explicit external route.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct generative-policy learning and sim-to-real physical manipulation; very strong CS research overlap.",
+      "physical": "Named current PhD collaborator, official group project and detailed actual Panda learning experiment.",
+      "shortVisit": "General master’s invitation and past external researchers do not verify an external short-visit pathway; three-month SEAS mismatch also remains.",
+      "freshness": "Dated May 2026 physical-learning paper and September 2026 group update."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "seas.harvard.edu / source 1",
+        "url": "https://seas.harvard.edu/person/heng-yang",
+        "summary": "Direct current exact Assistant Professor of Electrical Engineering title, ECE teaching area and public email.",
+        "verifiedAt": "2026-10-01T02:44:37Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "hankyang.seas.harvard.edu / source 2",
+        "url": "https://hankyang.seas.harvard.edu/",
+        "summary": "Current Harvard group director and separately disclosed part-time NVIDIA role.",
+        "verifiedAt": "2026-10-01T02:44:37Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "computationalrobotics.seas.harvard.edu / source 3",
+        "url": "https://computationalrobotics.seas.harvard.edu/",
+        "summary": "Rendered full primary lab page: September 26, 2026 BEACON news and current research.",
+        "verifiedAt": "2026-10-01T02:44:37Z",
+        "retrieval": "direct-cloud-browser-primary"
+      },
+      {
+        "id": "s4",
+        "label": "computationalrobotics.seas.harvard.edu / source 4",
+        "url": "https://computationalrobotics.seas.harvard.edu/joining",
+        "summary": "Rendered full primary Joining page: general masters/undergraduates research interest, not explicit external visitor instructions.",
+        "verifiedAt": "2026-10-01T02:44:37Z",
+        "retrieval": "direct-cloud-browser-primary"
+      },
+      {
+        "id": "s5",
+        "label": "computationalrobotics.seas.harvard.edu / source 5",
+        "url": "https://computationalrobotics.seas.harvard.edu/people",
+        "summary": "Rendered current Han Qi PhD membership and former external-master’s researchers; historical visitors are not openings.",
+        "verifiedAt": "2026-10-01T02:44:37Z",
+        "retrieval": "direct-cloud-browser-primary"
+      },
+      {
+        "id": "s6",
+        "label": "han20192019.github.io / source 6",
+        "url": "https://han20192019.github.io/",
+        "summary": "Current Harvard PhD research with Heng Yang; publication attribution.",
+        "verifiedAt": "2026-10-01T02:44:37Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s7",
+        "label": "computationalrobotics.seas.harvard.edu / source 7",
+        "url": "https://computationalrobotics.seas.harvard.edu/BEACON/",
+        "summary": "Official lab-hosted project, method description and primary-paper linkage.",
+        "verifiedAt": "2026-10-01T02:44:37Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s8",
+        "label": "arxiv.org / source 8",
+        "url": "https://arxiv.org/html/2605.08571v1",
+        "summary": "Full May 2026 primary paper: actual Panda sim-to-real tests, table2 physical scope and quasi-static limitation.",
+        "verifiedAt": "2026-10-01T02:44:37Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Existing Harvard policy audit identifies the SEAS Fellow category as including external graduates with a bachelor’s degree, but ordinarily requiring at least three months. Eight weeks is shorter; an exception or alternative appointment has not been verified.",
+      "The FAS Fellow handbook allows self-funded unpaid fellows, but this does not waive the SEAS duration requirement or HIO/department approval. The existing audit’s monetary threshold is dated and must be rechecked for 2027.",
+      "The physical study is restricted to quasi-static tasks; reported stacking success uses both relaxed and sustained criteria. Its real-world average should not be confused with simulator success or interpreted as broad dynamic manipulation.",
+      "Yang also publicly lists a part-time NVIDIA research appointment. This record is the current Harvard faculty role, not an industry internship.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Institutional duration and approval details: [Harvard SEAS](../eligibility_notes.md#harvard-seas)."
+    ],
+    "publicEmail": "hankyang@seas.harvard.edu"
+  }
+]

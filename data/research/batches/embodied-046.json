@@ -1,0 +1,128 @@
+[
+  {
+    "id": "michael-t-tolley",
+    "name": "Michael T. Tolley",
+    "aliases": [
+      "Michael Tolley"
+    ],
+    "school": "University of California San Diego",
+    "homepage": "https://bioinspired.eng.ucsd.edu/",
+    "title": "Professor",
+    "department": "Mechanical and Aerospace Engineering",
+    "batch": "embodied-046",
+    "discoveredAt": "2026-10-01T02:31:10Z",
+    "verifiedAt": "2026-10-01T02:39:15Z",
+    "researchAreas": [
+      "Tactile imitation learning",
+      "Contact-rich manipulation",
+      "Soft robotics",
+      "Bioinspired robot design"
+    ],
+    "fitReason": "Recent tactile policy work creates a genuine robot-learning overlap with a lab otherwise centered on soft hardware and design. A bounded sensor-policy comparison could suit a CS researcher, subject to an independently approved visit.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "TacO (May 21, 2026) trains and executes ACT visuomotor policies on physical Franka Panda arms at two institutions, comparing six tactile sensors across mass-uncertain pick-and-place, plug insertion and reorientation. Tolley is a coauthor and current coadvised postdoc Myungsun Park participates. The paper does not assign each apparatus to a particular PI, so physical access is treated as collaborative rather than guaranteed in Tolley’s own laboratory.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The live Opportunities page describes degree admission, research for current UCSD master’s students and undergraduate work longer than one quarter. It contains no verified external-master’s short-visit instruction. Past visiting graduate students on the People page are precedent only; no opportunity points.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 36,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct tactile imitation-learning overlap, within a predominantly soft-design laboratory.",
+      "physical": "Current real-robot coauthored experiments and supervised-postdoc participation; precise PI apparatus ownership unresolved.",
+      "shortVisit": "External-master’s visit unknown; local MS instructions and past visitors do not establish a current route.",
+      "freshness": "Explicit May 2026 learned physical manipulation and current 2026 group activity."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "profiles.ucsd.edu / source 1",
+        "url": "https://profiles.ucsd.edu/michael.tolley",
+        "summary": "Current official Professor of Mechanical and Aerospace Engineering.",
+        "verifiedAt": "2026-10-01T02:39:15Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "bioinspired.eng.ucsd.edu / source 2",
+        "url": "https://bioinspired.eng.ucsd.edu/people",
+        "summary": "Full public HTML read with curl after web-tool timeout: current Professor, professional email, current Myungsun Park coadvising and dated visitor/alumni distinctions.",
+        "verifiedAt": "2026-10-01T02:39:15Z",
+        "retrieval": "direct-public-html-curl"
+      },
+      {
+        "id": "s3",
+        "label": "sites.google.com / source 3",
+        "url": "https://sites.google.com/ucsd.edu/bioinspired/people",
+        "summary": "Full university lab mirror confirms Professor/email/coadvising, but its member roster is older than live university-domain HTML.",
+        "verifiedAt": "2026-10-01T02:39:15Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "matsci.ucsd.edu / source 4",
+        "url": "https://matsci.ucsd.edu/faculty/michael-tolley",
+        "summary": "Official programme source confirms affiliation and alternate email mttolley@ucsd.edu; its Associate rank conflicts with current lab and university profiles.",
+        "verifiedAt": "2026-10-01T02:39:15Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "myungsunpark-o.github.io / source 5",
+        "url": "https://myungsunpark-o.github.io/",
+        "summary": "September 2, 2026-updated researcher page independently confirms current postdoc working with Tolley and Pawlak.",
+        "verifiedAt": "2026-10-01T02:39:15Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2605.21976v1",
+        "summary": "Full dated primary TacO manuscript, actual ACT-controlled Franka experiments and sensor-dependent limitations.",
+        "verifiedAt": "2026-10-01T02:39:15Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s7",
+        "label": "bioinspired.eng.ucsd.edu / source 7",
+        "url": "https://bioinspired.eng.ucsd.edu/opportunities",
+        "summary": "Full current page: UCSD degree/current-MS routes, undergraduate duration preference, no explicit external-master’s visitor route.",
+        "verifiedAt": "2026-10-01T02:39:15Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "The current UCSD Profiles and lab People pages say Professor; the Materials Science programme page still says Associate Professor. Current rank follows the two consistent primary sources.",
+      "ACT is an imitation-learning transformer, not a diffusion policy. Tactile input is not universally helpful: improvements vary with task and sensor.",
+      "The coadvised-postdoc connection supports attributable current participation, but the exact individual laboratory hardware allocation is unresolved. Former postdoc Yi Sha is listed as an alumnus in the live university-domain page, despite an older Google Sites mirror retaining him among current members.",
+      "Existing UCSD institutional review explicitly supports non-UC visiting graduate students, including master’s, with no minimum appointment duration and possible personal funding. Host, department, graduate division and immigration approval remain necessary; this is not lab acceptance.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "tolley@ucsd.edu"
+  }
+]

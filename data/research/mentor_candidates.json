@@ -156,7 +156,8 @@
     "batches/hri-042.json",
     "batches/hri-043.json",
     "batches/hri-044.json",
-    "batches/hri-045.json"
+    "batches/hri-045.json",
+    "batches/hri-046.json"
   ],
   "candidates": [
     {
@@ -9507,6 +9508,36 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-045.json",
       "detailPage": "batches/hri-045.md#ramana-kumar-vinjamuri"
+    },
+    {
+      "id": "conor-j-walsh",
+      "name": "Conor J. Walsh",
+      "aliases": [
+        "Conor Walsh",
+        "Conor James Walsh"
+      ],
+      "school": "Harvard University",
+      "title": "Paul A. Maeder Professor of Engineering and Applied Sciences",
+      "homepage": "https://biodesign.seas.harvard.edu/",
+      "batch": "hri-046",
+      "discoveredAt": "2026-10-01T03:08:58Z",
+      "verifiedAt": "2026-10-01T03:10:42Z",
+      "scores": {
+        "fit": 37,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Machine-learning wearable-robot control",
+        "Physical human-robot interaction",
+        "Personalized motion-intention detection",
+        "Soft assistive robots",
+        "Human-in-the-loop optimization"
+      ],
+      "shortVisitStatus": "unknown · SEAS通常至少三个月",
+      "recordFile": "batches/hri-046.json",
+      "detailPage": "batches/hri-046.md#conor-j-walsh"
     }
   ]
 }

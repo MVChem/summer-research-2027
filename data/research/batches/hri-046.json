@@ -1,0 +1,113 @@
+[
+  {
+    "id": "conor-j-walsh",
+    "name": "Conor J. Walsh",
+    "aliases": [
+      "Conor Walsh",
+      "Conor James Walsh"
+    ],
+    "school": "Harvard University",
+    "homepage": "https://biodesign.seas.harvard.edu/",
+    "title": "Paul A. Maeder Professor of Engineering and Applied Sciences",
+    "department": "School of Engineering and Applied Sciences; Materials Science and Mechanical Engineering",
+    "batch": "hri-046",
+    "discoveredAt": "2026-10-01T03:08:58Z",
+    "verifiedAt": "2026-10-01T03:10:42Z",
+    "researchAreas": [
+      "Machine-learning wearable-robot control",
+      "Physical human-robot interaction",
+      "Personalized motion-intention detection",
+      "Soft assistive robots",
+      "Human-in-the-loop optimization"
+    ],
+    "fitReason": "A direct assistive-robot ML option with personalized sensor fusion and embedded learned control, rather than rehabilitation hardware alone. A CS-focused project could target intention models, robust multimodal inference or human-in-the-loop adaptation; clinical or fabrication expertise may still be important.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The August 2, 2025 Nature Communications study deploys a personalized two-layer neural classifier for UP/HOLD/DOWN shoulder intention using IMUs and compression sensors, combined with a physics-based hysteresis model to control an actual pneumatic shoulder robot. TensorFlow Lite inference and control run onboard a BeagleBone at 100 Hz. Nine participants completed in-lab assessment and two demonstrated untethered home use. The paper identifies limitations in fatigue, weighted-object interactions, independent donning and inference of subtle movements; this is not a general robot policy or proven long-term rehabilitation result. Current lab membership lists first author James Arnold and coauthor David Pont, supporting own-group attribution.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown · SEAS通常至少三个月",
+      "summary": "The live opportunities page lists graduate admissions, postdoctoral/staff posts and a post-BS/MS Research Fellow role requiring at least 12 months and two years of clinical research experience. Its generic interest in candidates at all levels does not establish an eight-week external-master’s visitor invitation. A Visiting Graduate Students heading on the people page contains no current intake terms.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "37/40: personalized ML, multimodal physical interaction and actual assistive control; specialized wearable/clinical context.",
+      "physical": "25/25: full own-group learned-control experiment on actual wearable hardware, with current author attribution.",
+      "shortVisit": "0/20: no compatible short visitor invitation; specific advertised fellow role requires at least one year.",
+      "freshness": "10/15: strongest fully verified learned-hardware experiment is from August 2025; a current website or 2026 general lab news does not turn it into a 2026 experiment."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "seas.harvard.edu / source 1",
+        "url": "https://seas.harvard.edu/person/conor-walsh",
+        "summary": "Full current official profile verifies named professor title and SEAS affiliation.",
+        "verifiedAt": "2026-10-01T03:10:42Z"
+      },
+      {
+        "id": "s2",
+        "label": "biodesign.seas.harvard.edu / source 2",
+        "url": "https://biodesign.seas.harvard.edu/conor-walsh",
+        "summary": "Full lab biography confirms lab leadership and public email.",
+        "verifiedAt": "2026-10-01T03:10:42Z"
+      },
+      {
+        "id": "s3",
+        "label": "biodesign.seas.harvard.edu / source 3",
+        "url": "https://biodesign.seas.harvard.edu/lab-members",
+        "summary": "Full current members page confirms relevant current group authors; visiting-graduate heading is not an intake route.",
+        "verifiedAt": "2026-10-01T03:10:42Z"
+      },
+      {
+        "id": "s4",
+        "label": "biodesign.seas.harvard.edu / source 4",
+        "url": "https://biodesign.seas.harvard.edu/sites/g/files/omnuum11441/files/2025-08/s41467-025-62538-8.pdf",
+        "summary": "Full primary PDF verifies neural model, embedded deployment, actual shoulder robot, in-lab/home protocols and limitations.",
+        "verifiedAt": "2026-10-01T03:10:42Z"
+      },
+      {
+        "id": "s5",
+        "label": "biodesign.seas.harvard.edu / source 5",
+        "url": "https://biodesign.seas.harvard.edu/publication/personalized-ml-based-wearable-robot-control-improves-impaired-arm-function",
+        "summary": "Full current lab publication page links its 2025 primary study and author-hosted manuscript.",
+        "verifiedAt": "2026-10-01T03:10:42Z"
+      },
+      {
+        "id": "s6",
+        "label": "biodesign.seas.harvard.edu / source 6",
+        "url": "https://biodesign.seas.harvard.edu/opportunities",
+        "summary": "Full live page specifies graduate-degree recruiting and ≥12-month post-BS/MS role; no external eight-week visitor invitation.",
+        "verifiedAt": "2026-10-01T03:10:42Z"
+      }
+    ],
+    "unknowns": [
+      "The separately documented Harvard SEAS Fellow category includes outside graduate students with a bachelor’s but normally requires at least three months. An eight-week exception or another approved appointment remains unverified.",
+      "Harvard central Student Intern eligibility does not override SEAS appointment conditions. FAS self-funded fellow provisions require confirmation for the intended school/category and cannot substitute unpaid work for duties requiring compensation.",
+      "The published post-BS/MS role is a clinical/biomechanics position with at least 12 months and experience requirements; it is not evidence of a short CS summer internship.",
+      "Host capacity, project fit, research/clinical access, summer 2027 dates, full funding and fees require separate approval.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "walsh@seas.harvard.edu"
+  }
+]

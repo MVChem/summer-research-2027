@@ -213,7 +213,8 @@
     "batches/hri-064.json",
     "batches/hri-065.json",
     "batches/hri-066.json",
-    "batches/hri-067.json"
+    "batches/hri-067.json",
+    "batches/hri-068.json"
   ],
   "candidates": [
     {
@@ -11768,6 +11769,62 @@
       "shortVisitStatus": "unknown · SURF undergraduate-only",
       "recordFile": "batches/hri-067.json",
       "detailPage": "batches/hri-067.md#bahareh-abbasi"
+    },
+    {
+      "id": "zhengbo-zou",
+      "name": "Zhengbo Zou",
+      "aliases": [],
+      "school": "Columbia University",
+      "title": "Assistant Professor",
+      "homepage": "https://www.engineering.columbia.edu/faculty-staff/directory/zhengbo-zou",
+      "batch": "hri-068",
+      "discoveredAt": "2026-10-01T06:08:30Z",
+      "verifiedAt": "2026-10-01T06:13:43Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Vision-language models for physical manipulation",
+        "Human-robot shared autonomy",
+        "Construction robotics",
+        "Robot learning",
+        "Uncertainty-aware interaction"
+      ],
+      "shortVisitStatus": "degree-only",
+      "recordFile": "batches/hri-068.json",
+      "detailPage": "batches/hri-068.md#zhengbo-zou"
+    },
+    {
+      "id": "doyun-lee",
+      "name": "Doyun Lee",
+      "aliases": [
+        "Lee Doyun"
+      ],
+      "school": "Georgia Southern University",
+      "title": "Assistant Professor",
+      "homepage": "https://scholars.georgiasouthern.edu/en/persons/doyun-lee/",
+      "batch": "hri-068",
+      "discoveredAt": "2026-10-01T06:07:53Z",
+      "verifiedAt": "2026-10-01T06:13:43Z",
+      "scores": {
+        "fit": 36,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Applied deep-learning perception",
+        "Autonomous infrastructure inspection",
+        "Mobile robotics",
+        "Construction robotics",
+        "Computer vision"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-068.json",
+      "detailPage": "batches/hri-068.md#doyun-lee"
     }
   ]
 }

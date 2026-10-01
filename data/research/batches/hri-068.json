@@ -1,0 +1,225 @@
+[
+  {
+    "id": "zhengbo-zou",
+    "name": "Zhengbo Zou",
+    "aliases": [],
+    "school": "Columbia University",
+    "homepage": "https://www.engineering.columbia.edu/faculty-staff/directory/zhengbo-zou",
+    "title": "Assistant Professor",
+    "department": "Civil Engineering and Engineering Mechanics",
+    "batch": "hri-068",
+    "discoveredAt": "2026-10-01T06:08:30Z",
+    "verifiedAt": "2026-10-01T06:13:43Z",
+    "researchAreas": [
+      "Vision-language models for physical manipulation",
+      "Human-robot shared autonomy",
+      "Construction robotics",
+      "Robot learning",
+      "Uncertainty-aware interaction"
+    ],
+    "fitReason": "Strong applied foundation-model and HRI fit: language-grounded manipulation, uncertainty-based human intervention and real robot evaluation. A focused perception, confidence-estimation or evaluation project is a plausible research fit, but no eight-week summer 2027 position is advertised.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The 2026 Act or Ask study executes SAM segmentation, GPT-4o keypoint selection and confidence-guided human deferral on a real Franka Research 3. It tests scaled tabletop wall-truss timber placement, roof-truss placement and panel installation. The main text reports 60% wall-truss and 78.5% roof-truss success; panel success improves from 60% to 90% with human intervention. The abstract reverses the first two task labels, so this record follows the task-specific conclusions. Motions execute open-loop after target-pose computation, with stable lighting and no intentional occlusion; this is not a general construction-site deployment. Both authors are affiliated with Columbia, Lei Huang is on the current lab PhD roster, and the paper credits Columbia Carleton Laboratory fabrication support. The separate GPT-4o-mini arch-keypoint ablation is not counted as a completed arch-assembly robot trial.",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "degree-only",
+      "summary": "The live ICON joining section addresses current Columbia students and prospective PhD applicants. Current visiting-PhD roster entries and older UBC visitors show collaborations, not a general outside-master offer. No explicit external-master research invitation, summer 2027 slot, remote route or stipend was verified.",
+      "sourceIds": [
+        "s2",
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct VLM manipulation and uncertainty-aware HRI with substantive AI methods.",
+      "physical": "Current Columbia lab student, Columbia-affiliated hardware study and local fabrication support establish attributable real manipulation.",
+      "shortVisit": "Local student/PhD recruitment and past visitors do not establish an outside-master invitation.",
+      "freshness": "2026 full paper and current lab/faculty evidence."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.engineering.columbia.edu / source 1",
+        "url": "https://www.engineering.columbia.edu/faculty-staff/directory/zhengbo-zou",
+        "summary": "Official current Assistant Professor appointment, department, research focus and appointment chronology.",
+        "verifiedAt": "2026-10-01T06:13:43Z"
+      },
+      {
+        "id": "s2",
+        "label": "zzzzzbbzzzzz.github.io / source 2",
+        "url": "https://zzzzzbbzzzzz.github.io/zhengbozou.github.io/",
+        "summary": "First-person Columbia affiliation and public professional email.",
+        "verifiedAt": "2026-10-01T06:13:43Z"
+      },
+      {
+        "id": "s3",
+        "label": "intelconstructlab.github.io / source 3",
+        "url": "https://intelconstructlab.github.io/",
+        "summary": "Current ICON lab, joining restrictions, Lei Huang’s Columbia PhD affiliation and linked Act or Ask publication.",
+        "verifiedAt": "2026-10-01T06:13:43Z"
+      },
+      {
+        "id": "s4",
+        "label": "www.sciencedirect.com / source 4",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1474034626001461",
+        "summary": "2026 publisher record confirms physical Franka construction tasks, human deferral, author contributions and Columbia fabrication acknowledgment.",
+        "verifiedAt": "2026-10-01T06:13:43Z"
+      },
+      {
+        "id": "s5",
+        "label": "www.researchgate.net / source 5",
+        "url": "https://www.researchgate.net/publication/400997838_Act_or_ask_Interactive_construction_robots_via_vision-language_models_with_confidence-guided_decision_deferral",
+        "summary": "Complete manuscript uploaded by first author: Sections 3–5 verify SAM/GPT-4o, tabletop experiments, open-loop execution limits and task-specific results.",
+        "verifiedAt": "2026-10-01T06:13:43Z"
+      },
+      {
+        "id": "s6",
+        "label": "provost.columbia.edu / source 6",
+        "url": "https://provost.columbia.edu/content/visiting-student-interns",
+        "summary": "Existing institutional feasibility source: continuing outside-degree students, academic approvals and minimum support split; no lab offer.",
+        "verifiedAt": "2026-10-01T06:13:43Z"
+      },
+      {
+        "id": "s7",
+        "label": "isso.columbia.edu / source 7",
+        "url": "https://isso.columbia.edu/content/sponsoring-and-extending-j-1-student-intern",
+        "summary": "Existing graduate-category and processing guidance, not automatic approval.",
+        "verifiedAt": "2026-10-01T06:13:43Z"
+      }
+    ],
+    "unknowns": [
+      "Official Columbia pages confirm the current appointment beginning in 2024; remaining UBC faculty pages are stale for the primary appointment.",
+      "Columbia’s existing January 2026 VSI policy requires continued home-degree enrollment, return to complete the degree and academic approvals. Its minimum support is $3,000 per month, with at least 51% from qualifying nonpersonal sources and at most 49% personal funds; this cannot be described as a fully self-funded VSI route.",
+      "ISSO classification guidance for bachelor-equivalent graduates does not remove the academic VSI funding rules. Exact category, fees, insurance, dates and department approval remain to be confirmed; existing guidance recommends about three months of lead time.",
+      "No 2027 capacity or eight-week fit is established. Current master’s enrollment at Columbia and visiting PhD names do not imply external master’s eligibility.",
+      "The complete author-uploaded April 6, 2026 manuscript was inspected on ResearchGate, alongside the publisher record and current lab page. Publisher issue is May 2026; do not invent a new experimental date from website crawl dates.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#columbia)"
+    ],
+    "publicEmail": "zhengbo.zou@columbia.edu"
+  },
+  {
+    "id": "doyun-lee",
+    "name": "Doyun Lee",
+    "aliases": [
+      "Lee Doyun"
+    ],
+    "school": "Georgia Southern University",
+    "homepage": "https://scholars.georgiasouthern.edu/en/persons/doyun-lee/",
+    "title": "Assistant Professor",
+    "department": "Civil Engineering and Construction",
+    "batch": "hri-068",
+    "discoveredAt": "2026-10-01T06:07:53Z",
+    "verifiedAt": "2026-10-01T06:13:43Z",
+    "researchAreas": [
+      "Applied deep-learning perception",
+      "Autonomous infrastructure inspection",
+      "Mobile robotics",
+      "Construction robotics",
+      "Computer vision"
+    ],
+    "fitReason": "Good applied embodied-perception fit for a CS master’s project involving segmentation robustness, real-time inference or mobile inspection evaluation. Local graduate-student supervision and a running inspection platform are established; short-visit availability is not.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The complete January 13, 2026 Sensors paper deploys U-Net followed by Pix2Pix residual refinement on a Clearpath Husky A200 with RealSense D455 and LiDAR. Learned crack perception runs on an offboard GPU while classical ROS 2/Nav2 navigation moves the real platform. Section 5.2 reports laboratory slabs and a 30 m Georgia Southern campus corridor, with five consecutive autonomous runs and detection of 0.3–1.2 mm cracks. Inspection regions are selected by an operator in RViz; the network does not learn the navigation policy. Reported processing is about 16 fps. Printed crack images are a separate validation condition, not physical defects. Section 3 describes the arm as future profiling hardware, despite later arm-camera wording; no autonomous repair or learned arm execution is claimed. Both student authors are in Lee’s local group, and the lab confirms the corresponding master’s thesis completion in March 2026.",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No explicit external-master or short-term visitor invitation was found on the directly read CARL home, team or contact pages. The group lists outside volunteer researchers and an exchange undergraduate, but their duration, location and appointment route are unstated and cannot establish a general remote or summer offer. Recruitment located elsewhere concerns full MS/PhD degrees.",
+      "sourceIds": [
+        "s3",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 36,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantive neural perception integrated with autonomous infrastructure inspection; narrower than general robot learning.",
+      "physical": "Named current local platform, campus trials and directly supervised local student work; conventional navigation is stated explicitly.",
+      "shortVisit": "No external-master invitation; volunteers, exchange names and institutional procedures do not establish an opening.",
+      "freshness": "Full January 2026 paper plus current project and thesis evidence."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "scholars.georgiasouthern.edu / source 1",
+        "url": "https://scholars.georgiasouthern.edu/en/persons/doyun-lee/",
+        "summary": "Official current Assistant Professor, department, 2024 arrival, public email and 2026 research records.",
+        "verifiedAt": "2026-10-01T06:13:43Z"
+      },
+      {
+        "id": "s2",
+        "label": "www.mdpi.com / source 2",
+        "url": "https://www.mdpi.com/1424-8220/26/2/530/pdf",
+        "summary": "Complete primary 2026 paper, directly downloaded and read: substantive U-Net/Pix2Pix inference on real Husky, Sections 3 and 5 distinguish hardware, offboard computation, indoor trials and future arm/repair work.",
+        "verifiedAt": "2026-10-01T06:13:43Z"
+      },
+      {
+        "id": "s3",
+        "label": "sites.google.com / source 3",
+        "url": "https://sites.google.com/georgiasouthern.edu/carl/team",
+        "summary": "Directly read current lab director, local student roster, outside volunteers and exchange student; no general invitation.",
+        "verifiedAt": "2026-10-01T06:13:43Z"
+      },
+      {
+        "id": "s4",
+        "label": "sites.google.com / source 4",
+        "url": "https://sites.google.com/georgiasouthern.edu/carl/news",
+        "summary": "Local project supervision and March 2026 master’s thesis completion; September 2026 presentation shows continued activity, not a new deployment claim.",
+        "verifiedAt": "2026-10-01T06:13:43Z"
+      },
+      {
+        "id": "s5",
+        "label": "sites.google.com / source 5",
+        "url": "https://sites.google.com/georgiasouthern.edu/carl/contact",
+        "summary": "Directly read professional email and current lab/office contact information; no visit offer.",
+        "verifiedAt": "2026-10-01T06:13:43Z"
+      },
+      {
+        "id": "s6",
+        "label": "globalportal.georgiasouthern.edu / source 6",
+        "url": "https://globalportal.georgiasouthern.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11238",
+        "summary": "Read live in the cloud browser: hosting department application, financial evidence, English proficiency, insurance and four-stage approval. External-master eligibility is not specified.",
+        "verifiedAt": "2026-10-01T06:13:43Z"
+      },
+      {
+        "id": "s7",
+        "label": "globalportal.georgiasouthern.edu / source 7",
+        "url": "https://globalportal.georgiasouthern.edu/_customtags/ct_FileRetrieve.cfm?File_ID=060277724F71017607030C72721F70070B091B087208046B740602010173720A0F06707672770306",
+        "summary": "Official linked invitation template describes guest research, unpaid/visitor-expense terms and host-specific access provisions; not an actual invitation.",
+        "verifiedAt": "2026-10-01T06:13:43Z"
+      }
+    ],
+    "unknowns": [
+      "The university’s official visiting-scholar route is host-department initiated, with OGE, department, dean and provost approval. It lists Professor, Research Scholar, Short-term Scholar and limited Student categories without confirming this external-master case.",
+      "The live public hosting requirements list $1,450 per month plus $700 per dependent as current financial-documentation minimums. These are not verified 2027 rates or a complete eight-week budget. Travel, living expenses and required insurance must also be covered.",
+      "The official invitation template allows an unpaid guest-researcher arrangement with visitor-paid expenses, but does not itself approve personal funds for a particular applicant. Its alternative access provisions need host customization, so workspace, computing and lab access are not guaranteed.",
+      "External-master academic appointment, precise immigration category if needed, minimum stay, application lead time, administrative fees, funding source acceptance, remote participation and summer 2027 capacity remain unknown.",
+      "This is current learned perception during actual mobile inspection, not an end-to-end learned navigation controller or autonomous crack repair. Outdoor bridge deployment remains unverified.",
+      "Georgia Southern is distinct from Georgia State University; Georgia State’s different funding levels and student-intern rules are not reused.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#georgia-southern)"
+    ],
+    "publicEmail": "doyunlee@georgiasouthern.edu"
+  }
+]

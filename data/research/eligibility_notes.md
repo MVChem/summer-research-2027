@@ -944,3 +944,11 @@ Sources: [Guides and Forms](https://www.lamar.edu/international-education/intern
 [研究办公室 FAQ](https://research.uc.edu/international-collaboration/international-engagement---nsf-faqs) 明确要求非学位研究生访问参加 UC-approved program；尚未核实可用于外校硕士短期科研的具体获批项目。[主办流程](https://www.uc.edu/about/international/hire.html) 要求所有国际访客进入 iBearcatsGlobal，详细院系流程在内部 Bearcats Landing。八周研究、确切身份、主办批准、经费材料和处理时长仍需 UC International／院系确认。[学者流程](https://research.uc.edu/navigation/for-researchers/visiting-scholars) 还涉及研究安全、正式协议与校园权限；其按时长列签证的简表不能单独决定研究访问应使用何种签证。
 
 [2027 Visiting Scholar Grant](https://www.international.uc.edu/partners/collaboration/visiting-scholars.html) 面向指定伙伴机构的全职教师／职员，不能作为外校硕士暑研资助或截止日期。以上机构规则不增加导师机会分，也不代表实验室有名额。
+
+<a id="georgia-southern"></a>
+
+## Georgia Southern · 主办审批路径已核实，外校硕士分类仍待确认
+
+核查：2026-10-01T06:13:43Z。[官方访问学者页面](https://globalportal.georgiasouthern.edu/index.cfm?FuseAction=Abroad.ViewLink&Link_ID=369F38B2-AB00-B81C-F0D7569B7BB7AF8A&Parent_ID=6528E5E3-B9F0-0090-C9EB0D889F9391E6) 列 Professor、Research Scholar、Short-term Scholar 和有限的 Student 类别，但没有直接确认外校在读硕士进行八周研究适用哪一类。[主办申请说明](https://globalportal.georgiasouthern.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11238) 已在实时浏览器核实：由校内部门发起，依次经过 OGE、院系、Dean、Provost 批准，之后才签发 DS-2019；须提交正式邀请、CV、英语能力和财力材料。
+
+页面当前列单人每月至少 1,450 美元、每位随行家属另加 700 美元，并要求覆盖旅行、生活和保险。这不是 2027 年费用保证，也不是完整的八周预算。[官方邀请模板](https://globalportal.georgiasouthern.edu/_customtags/ct_FileRetrieve.cfm?File_ID=060277724F71017607030C72721F70070B091B087208046B740602010173720A0F06707672770306) 包含无薪 Guest Researcher 与访问者自付费用条款，但不构成对具体资金来源或申请人的批准；模板中的办公及网络等服务有待主办方选定，不能承诺实验室访问权。外校硕士任命资格、最短时长、办理周期、行政费用、远程安排及导师 2027 年容量均未知。勿与 Georgia State 的政策混用。

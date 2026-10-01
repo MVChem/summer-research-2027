@@ -1,0 +1,235 @@
+[
+  {
+    "id": "bo-cheng",
+    "name": "Bo Cheng",
+    "aliases": [],
+    "school": "Pennsylvania State University",
+    "homepage": "https://sites.psu.edu/infl/",
+    "title": "Professor",
+    "department": "Mechanical Engineering, University Park",
+    "batch": "control-138",
+    "discoveredAt": "2026-10-01T17:52:37Z",
+    "verifiedAt": "2026-10-01T17:59:13Z",
+    "researchAreas": [
+      "Reinforcement learning for aerial perching",
+      "Sim-to-real flight control",
+      "Bio-inspired locomotion",
+      "Robot motor learning"
+    ],
+    "fitReason": "Substantive learned flight-control programme with physically validated SAC policies; a secondary established-faculty option rather than a recent assistant professor.",
+    "physicalEvidence": {
+      "status": "historical-or-indirect",
+      "summary": "December 2024 primary methods deploy SAC-trained three-layer networks onboard Source One and Impulse Micro quadrotors. The policy selects maneuver trigger and angular acceleration; subsequent rotation/attachment follows staged control. Vicon at100Hz supplies state and emulated optical-flow variables; fully onboard visual sensing is future work. Physical tests cover five steel-surface orientations using magnetic footpads, with wall-landing discrepancies disclosed. Some scale and damping comparisons remain simulated. This is own-group Penn State execution, but the experiments were already in the 2024 version, not newly performed for the 2026 news feature.",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "shortVisit": {
+      "status": "precedent-only",
+      "summary": "The live lab homepage marks all its listed openings filled; those detailed postings are one hummingbird-flight PhD and two robotic-swimming PhDs. It does not state a summer-only or universal visitor ban. The old team page lists visiting-student alumni, which is precedent only. No current external-master visitor invitation was verified.",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 13
+    },
+    "scoreReasons": {
+      "fit": "Direct deep-RL flight control and robot locomotion methods.",
+      "physical": "Own-group real execution verified but conservatively capped for2024 experiment vintage and motion-capture-dependent setting.",
+      "shortVisit": "No current visitor invitation; old degree openings filled and visitor alumni are precedent only.",
+      "freshness": "2026 primary-society research feature and current official activity, while learned execution remains2024."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.me.psu.edu / source 1",
+        "url": "https://www.me.psu.edu/department/directory-detail-g.aspx?q=BUC10",
+        "summary": "Current primary-department directory says Professor, public email,2025 perching papers and2026 research list. This supersedes older associate-professor lab/feature labels.",
+        "verifiedAt": "2026-10-01T17:57:55Z",
+        "retrieval": "Full primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "arxiv.org / source 2",
+        "url": "https://arxiv.org/html/2412.19765v1",
+        "summary": "Full December 2024 study, SectionsII-B/E andIII distinguish onboard SAC, externally measured state, staged rotation, real validation and simulated parameter sweeps.",
+        "verifiedAt": "2026-10-01T17:57:22Z",
+        "retrieval": "Full primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "sites.psu.edu / source 3",
+        "url": "https://sites.psu.edu/infl/",
+        "summary": "Live homepage says its listed openings are filled; news remains2020-era, so this is scoped historical intake evidence.",
+        "verifiedAt": "2026-10-01T17:58:43Z",
+        "retrieval": "Full live cloud-browser page"
+      },
+      {
+        "id": "s4",
+        "label": "sites.psu.edu / source 4",
+        "url": "https://sites.psu.edu/infl/lab-openings/",
+        "summary": "Detailed linked postings are one hummingbird and two robotic-swimming PhDs, with no separate visitor call.",
+        "verifiedAt": "2026-10-01T17:59:13Z",
+        "retrieval": "Full live cloud-browser page"
+      },
+      {
+        "id": "s5",
+        "label": "www.me.psu.edu / source 5",
+        "url": "https://www.me.psu.edu/cheng/Documents/CV%20Bo%20Cheng%202019.pdf",
+        "summary": "University-hosted CV dates2014 Penn State AP start after2013–14 Purdue postdoc. Historical role/date evidence only.",
+        "verifiedAt": "2026-10-01T17:57:31Z",
+        "retrieval": "Primary university-hosted PDF indexed text"
+      },
+      {
+        "id": "s6",
+        "label": "www.ieee-ras.org / source 6",
+        "url": "https://www.ieee-ras.org/landing-upside-down-is-easy-for-flies-how-about-drones/",
+        "summary": "April 16, 2026 RAS feature corroborates active directed research, names doctoral researcher Habas, and discusses older papers. Feature date is not experiment date.",
+        "verifiedAt": "2026-10-01T17:56:58Z",
+        "retrieval": "Full primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "sites.psu.edu / source 7",
+        "url": "https://sites.psu.edu/infl/team/",
+        "summary": "Indexed old lab roster includes previous visiting students; no current invitation inferred.",
+        "verifiedAt": "2026-10-01T17:57:44Z",
+        "retrieval": "Primary indexed roster; direct retrieval timed out"
+      }
+    ],
+    "unknowns": [
+      "Penn State academic-visitor conditions: outside affiliation and bachelor-equivalent minimum, host/administrative approval and research-access screening. Departmental immigration category, funding, insurance, total fees and2027 capacity still require confirmation. Existing guidance permits personal/family financial evidence at a published $2,625/month minimum but warns it is below actual living costs and some visa guidance is under review. Old lab roster/title are stale; current ME directory identifies Professor. Do not assume old visitor alumni imply a current offer.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor review](../eligibility_notes.md#penn-state); source-specific observation dates remain unchanged."
+    ],
+    "publicEmail": "buc10@psu.edu",
+    "priorFacultyAppointment": {
+      "year": 2014,
+      "title": "Assistant Professor",
+      "institution": "Pennsylvania State University",
+      "sourceIds": [
+        "s5"
+      ],
+      "note": "Historical university appointment start; current title is Professor, no promotion date inferred."
+    }
+  },
+  {
+    "id": "tan-chen",
+    "name": "Tan Chen",
+    "aliases": [],
+    "school": "Binghamton University, State University of New York",
+    "homepage": "https://chentan.github.io/",
+    "title": "Assistant Professor; ROLAC Lab Director",
+    "department": "Electrical and Computer Engineering",
+    "batch": "control-138",
+    "discoveredAt": "2026-10-01T12:13:31Z",
+    "verifiedAt": "2026-10-01T17:59:40Z",
+    "researchAreas": [
+      "Robot reinforcement learning",
+      "Learned perception for manipulation",
+      "Legged and humanoid control",
+      "Learning-enabled system security"
+    ],
+    "fitReason": "Current robot-control and learning programme, with newly recovered prior collaborative learned-perception execution providing independently inspected historical hardware evidence.",
+    "physicalEvidence": {
+      "status": "historical-or-indirect",
+      "summary": "The full 2024 CoRL workshop coauthored study uses synthetic-trained Mask R-CNN/PVNet estimates to drive real UR5e picking of small parts. Physical credit concerns the older UIUC-FIT collaboration, not current Binghamton hardware. His2025 RL/MPC locomotion benchmarks and2026 LLM quadruped security study are simulated and receive no additional physical credit.",
+      "sourceIds": [
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current ROLAC page welcomes undergraduate/master’s research discussions and advertises a funded2027 PhD. It does not explicitly identify outside visiting-master or short-intern eligibility. General project inquiries do not receive visitor points.",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 36,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantive robot learning, learned perception and learning-enabled controller analysis within current robotics group.",
+      "physical": "Prior collaborative physical manipulation now independently verified; no current Binghamton execution asserted.",
+      "shortVisit": "Generic MS discussion does not establish outside short-visitor eligibility.",
+      "freshness": "Explicit2026 robotics-method activity and current official faculty arrival, separate from older physical study."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.binghamton.edu / source 1",
+        "url": "https://www.binghamton.edu/news/story/6423/watson-college-looks-ahead-to-2026-27-with-new-students-faculty-and-initiatives",
+        "summary": "Official August 21, 2026 cohort lists Tan Chen as new ECE Assistant Professor.",
+        "verifiedAt": "2026-10-01T17:59:25Z",
+        "retrieval": "Full primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "chentan.github.io / source 2",
+        "url": "https://chentan.github.io/",
+        "summary": "Current Binghamton role/email, August 2026 lab transition, prior Michigan Tech2022–26 AP, current advisees and2026 research activity.",
+        "verifiedAt": "2026-10-01T17:59:25Z",
+        "retrieval": "Full primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "www.binghamton.edu / source 3",
+        "url": "https://www.binghamton.edu/electrical-computer-engineering/people/profile.html?id=tchen99",
+        "summary": "Independent current official faculty profile.",
+        "verifiedAt": "2026-10-01T17:59:40Z",
+        "retrieval": "Full primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "chentan.github.io / source 4",
+        "url": "https://chentan.github.io/about-openings.html",
+        "summary": "Generic MS/UG project inquiry; funded PhD recruitment, no external visiting category.",
+        "verifiedAt": "2026-10-01T17:59:25Z",
+        "retrieval": "Full primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "roboassembly.github.io / source 5",
+        "url": "https://roboassembly.github.io/assets/submissions/pdf/10_Pose_Estimation_of_Sub_Cent.pdf",
+        "summary": "Full2024 primary paper verifies Chen coauthorship and actual learned visual picking, with UIUC-FIT provenance.",
+        "verifiedAt": "2026-10-01T17:54:23Z",
+        "retrieval": "Full primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2609.26184v1",
+        "summary": "Previously verified full Silent Sabotage methods are Gazebo simulation; no learned physical execution claimed.",
+        "verifiedAt": "2026-10-01T12:15:15Z",
+        "retrieval": "Preserved prior full-primary verification from saved hold"
+      }
+    ],
+    "unknowns": [
+      "The lab moved from Michigan Tech to Binghamton in2026; equipment transfer and external visitor supervision are unconfirmed. Binghamton conditions: graduate visitors with bachelor-equivalent qualifications are directed to the scholar route, with faculty sponsorship, institutional approval, support and insurance. Existing review lists personal funds as possible, $1,700/month support, $95/semester administration plus possible affiliation charges, and2026–27 insurance rates;2027 totals need reconfirmation. This institutional pathway is not a lab invitation.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor review](../eligibility_notes.md#binghamton); source-specific observation dates remain unchanged."
+    ],
+    "publicEmail": "tchen99@binghamton.edu",
+    "appointmentStart": {
+      "year": 2026,
+      "precision": "year",
+      "status": "current",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ],
+      "evidence": "Official cohort establishes Fall2026 current-institution arrival. First-person lab news dates its transition August2026; this is retained separately from an exact employment-effective month. Prior Michigan Tech AP2022–26 makes this an institution move.",
+      "appointmentType": "institution-move"
+    },
+    "discoveryTimestampNote": "Earliest precisely retained primary homepage observation; the later complete technical verification did not create a new discovery time."
+  }
+]

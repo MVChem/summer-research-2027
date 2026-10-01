@@ -1,0 +1,144 @@
+[
+  {
+    "id": "omkar-sudhir-patil",
+    "name": "Omkar Sudhir Patil",
+    "aliases": [
+      "Omkar Patil",
+      "O. S. Patil"
+    ],
+    "school": "Louisiana State University, Baton Rouge",
+    "homepage": "https://www.arclablsu.org/arc-lab",
+    "title": "Assistant Professor",
+    "department": "Electrical and Computer Engineering",
+    "batch": "control-136",
+    "discoveredAt": "2026-10-01T17:21:57Z",
+    "verifiedAt": "2026-10-01T17:26:36Z",
+    "researchAreas": [
+      "Lyapunov-based deep neural adaptive control",
+      "Safety-critical robotics",
+      "Online residual neural networks",
+      "Learning-enabled autonomous systems"
+    ],
+    "fitReason": "New2026 Assistant Professor with substantive neural adaptive control and independently verified prior-UF quadrotor execution. Current LSU group has direct graduate co-advising; visitor availability and the institutional external-master category remain unresolved.",
+    "physicalEvidence": {
+      "status": "historical-or-indirect",
+      "summary": "Full2025 paper executes an online adapting ResNet outer-loop controller at50Hz in ROS2 on a real Freefly Astro at UF AutonomyPark. It sends acceleration commands through MAVROS to a400Hz classicalPX4innerloop, following a15m×5m figure-eight at2.5m height for360seconds. This is actual learned physical control, not a web animation or a diffusion-policy study. Stability bounds hold under the paper’s assumptions; no general flight-safety guarantee inferred. Current LSU hardware availability is unknown; prior-UF collaboration is capped20.",
+      "sourceIds": [
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current ARC joining text advertises fundedPhD positions forSpring/Fall2027, with CV/transcript and research-interest paragraph. Current LSU master’s co-advising is independently named but is not an outside-master visitor invitation. Onsite summer2027 capacity, duration, funding and remote options remain unknown.",
+      "sourceIds": [
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 13
+    },
+    "scoreReasons": {
+      "fit": "Substantive online deepResNet adaptation linked to real autonomous flight and a current safe-learning robotics agenda.",
+      "physical": "Full2025physicalUFexperiment verified, but current newLSUapparatus not established.",
+      "shortVisit": "No explicit external-master visitor/intern offer; local co-advising and PhD openings do not count.",
+      "freshness": "2025physicalpaper plus2026newrole/current 2027recruitment; no extra2026physicalexperiment assumed."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.lsu.edu / source 1",
+        "url": "https://www.lsu.edu/eng/ece/people/faculty/patil.php",
+        "summary": "Official current LSUAP and opatil1@lsu.edu; Fall2026 faculty/course list also confirms active role.",
+        "verifiedAt": "2026-10-01T17:22:09Z",
+        "retrieval": "Primary university indexed profile"
+      },
+      {
+        "id": "s2",
+        "label": "www.omkarsudhirpatil.com / source 2",
+        "url": "https://www.omkarsudhirpatil.com/CV%20Files/academic_cv.pdf",
+        "summary": "PI CV dates August 2026 LSUAP after UF research scientist/postdoc, explicitly Omkar Sudhir Patil.",
+        "verifiedAt": "2026-10-01T17:22:51Z",
+        "retrieval": "Full primary PI-hosted PDF"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2503.14372v2",
+        "summary": "Full2025 ResNet target tracking sectionVI: online learned50Hz ROS2 outerloop commands real FreeflyAstro at UF AutonomyPark; classical400HzPX4innerloop.",
+        "verifiedAt": "2026-10-01T17:23:31Z",
+        "retrieval": "Direct primary HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "ncr.mae.ufl.edu / source 4",
+        "url": "https://ncr.mae.ufl.edu/papers/csl25_2.pdf",
+        "summary": "Published2025 university-hosted primary paper confirms full name, UF provenance and separate neural adaptive physical validation.",
+        "verifiedAt": "2026-10-01T17:23:15Z",
+        "retrieval": "Full primary PDF"
+      },
+      {
+        "id": "s5",
+        "label": "www.arclablsu.org / source 5",
+        "url": "https://www.arclablsu.org/arc-lab",
+        "summary": "Current LSU ARC lab, master’s student co-advising and funded Spring/Fall2027PhD inquiries. No external-master visitor invitation.",
+        "verifiedAt": "2026-10-01T17:23:31Z",
+        "retrieval": "Indexed primary full lab/recruitment text"
+      },
+      {
+        "id": "s6",
+        "label": "www.omkarsudhirpatil.com / source 6",
+        "url": "https://www.omkarsudhirpatil.com/",
+        "summary": "Current LSU director role, safe nonlinear/deep adaptive robotics agenda; interactive web demos do not independently prove physical execution.",
+        "verifiedAt": "2026-10-01T17:22:31Z",
+        "retrieval": "Direct primary HTML via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "itservice.lsu.edu / source 7",
+        "url": "https://itservice.lsu.edu/TDClient/62/intlservices/KB/Article/1367/Visiting-Scholars-at-LSU",
+        "summary": "Live LSU visitor overview explicitly scopes StudentIntern to outside undergraduates; scholar is separate.",
+        "verifiedAt": "2026-10-01T17:24:53Z",
+        "retrieval": "Live cloud browser"
+      },
+      {
+        "id": "s8",
+        "label": "itservice.lsu.edu / source 8",
+        "url": "https://itservice.lsu.edu/TDClient/62/intlservices/KB/Article/1362/Overview-J-1-Visiting-Scholars",
+        "summary": "Personal funds and host invitation/department/IFSO approvals; external-master scholar qualification unresolved.",
+        "verifiedAt": "2026-10-01T17:25:31Z",
+        "retrieval": "Live cloud browser"
+      },
+      {
+        "id": "s9",
+        "label": "itservice.lsu.edu / source 9",
+        "url": "https://itservice.lsu.edu/TDClient/62/intlservices/KB/PrintArticle?ID=1361",
+        "summary": "Current-linked intern page repeats undergraduate scope; aviation/clinical exclusions and preparation requirements, not automatic master’s route.",
+        "verifiedAt": "2026-10-01T17:24:10Z",
+        "retrieval": "Direct primary HTML via web.run"
+      }
+    ],
+    "unknowns": [
+      "LSU’s current StudentIntern guidance explicitly describes overseas undergraduate students. An outside-master visitor must obtain a separately suitable appointment/category; scholar eligibility is not automatic. Scholar guidance permits personal funds with host invitation, department and IFSO approval and lists$1300/month, to reconfirm for2027. ShortTermScholar six-month limit is not an admission guarantee. Aviation/clinical exclusions on the intern route require project-level review. Full preparation, fees, insurance and device access need confirmation.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor review](../eligibility_notes.md#louisiana-state-baton-rouge); source-specific observation dates remain unchanged.",
+      "Do not conflate with Omkar Patil affiliated with Nakul Gopalan’s diffusion-policy work. This is Omkar Sudhir Patil, UF/Warren Dixon to LSU, opatil1@lsu.edu."
+    ],
+    "publicEmail": "opatil1@lsu.edu",
+    "appointmentStart": {
+      "year": 2026,
+      "month": 8,
+      "precision": "month",
+      "status": "current",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ],
+      "evidence": "Official LSU current appointment corroborates role; PI-hosted CV gives August2026 after UF research scientist/postdoc. Month is PI-reported, not independently dated in LSU directory.",
+      "appointmentType": "unresolved"
+    }
+  }
+]

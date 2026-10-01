@@ -4907,6 +4907,196 @@
           "observedAt": "2026-10-01T15:48:00Z"
         }
       ]
+    },
+    "omkar-sudhir-patil": {
+      "appointmentStart": {
+        "year": 2026,
+        "month": 8,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "evidence": "Official LSU current appointment corroborates role; PI-hosted CV gives August2026 after UF research scientist/postdoc. Month is PI-reported, not independently dated in LSU directory.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2026-08（本人CV；官方确认现任）",
+      "caveat": "新LSU任职；真机为前UF神经外环/经典PX4内环，当前设备未知；外校硕士类别未核",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.lsu.edu/eng/ece/people/faculty/patil.php",
+          "observedAt": "2026-10-01T17:22:09Z",
+          "evidence": "Official current LSUAP and opatil1@lsu.edu; Fall2026 faculty/course list also confirms active role."
+        },
+        {
+          "id": "s2",
+          "url": "https://www.omkarsudhirpatil.com/CV%20Files/academic_cv.pdf",
+          "observedAt": "2026-10-01T17:22:51Z",
+          "evidence": "PI CV dates August 2026 LSUAP after UF research scientist/postdoc, explicitly Omkar Sudhir Patil."
+        }
+      ]
+    },
+    "minh-quang-ta": {
+      "appointmentStart": {
+        "year": 2024,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "evidence": "Official current profile confirms2024 arrival. The older university-hosted CV planned August2024; preserve that planned month without asserting it as an independently confirmed effective month. Prior lecturer/postdoctoral role remains disclosed.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2024（官方）；旧CV预告8月",
+      "caveat": "此前UIUC lecturer/postdoc，首次faculty不推断；UIUC-FIT旧UR5e学习感知，2026项目为未来工作；UWF并非IHMC实习路线",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://uwf.edu/hmcse/departments/electrical-and-computer-engineering/faculty/dr-minh-quang-ta.html",
+          "observedAt": "2026-10-01T17:53:59Z",
+          "evidence": "Current official ECE Assistant Professor; UWF arrival in2024 after UIUC lecturer/postdoc; graduate mentoring and public professional email."
+        },
+        {
+          "id": "s2",
+          "url": "https://uwf.edu/media/university-of-west-florida/colleges/cse/documents/cv/Minh-Q.-Ta---CV.pdf",
+          "observedAt": "2026-10-01T17:54:23Z",
+          "evidence": "University-hosted pre-arrival CV states planned August 2024 UWF AP start, name aliases, UIUC project technical/research leadership in pose estimation and picking. Current affiliation comes from s1, not this older CV."
+        }
+      ]
+    },
+    "tan-chen": {
+      "appointmentStart": {
+        "year": 2026,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "evidence": "Official cohort establishes Fall2026 current-institution arrival. First-person lab news dates its transition August2026; this is retained separately from an exact employment-effective month. Prior Michigan Tech AP2022–26 makes this an institution move.",
+        "appointmentType": "institution-move"
+      },
+      "display": "Fall 2026（官方）；实验室8月转移为本人说明",
+      "caveat": "此前Michigan Tech AP2022–26，明确转校；旧协作真机与当前Binghamton设备分开，访客未知",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.binghamton.edu/news/story/6423/watson-college-looks-ahead-to-2026-27-with-new-students-faculty-and-initiatives",
+          "observedAt": "2026-10-01T17:59:25Z",
+          "evidence": "Official August 21, 2026 cohort lists Tan Chen as new ECE Assistant Professor."
+        },
+        {
+          "id": "s2",
+          "url": "https://chentan.github.io/",
+          "observedAt": "2026-10-01T17:59:25Z",
+          "evidence": "Current Binghamton role/email, August 2026 lab transition, prior Michigan Tech2022–26 AP, current advisees and2026 research activity."
+        }
+      ]
+    },
+    "kenneth-marino": {
+      "appointmentStart": {
+        "year": 2025,
+        "precision": "year",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ],
+        "evidence": "Official current AP role; author CV says2025– and first-person homepage specifies Fall2025. Prior Columbia adjunct2023 is disclosed, so not labeled first-ever faculty appointment. No exact month inferred."
+      },
+      "display": "Fall 2025（本人；官方现任）",
+      "caveat": "此前Columbia adjunct2023；Sawyer执行来自2020，当前组偏world-model/web方法；本校/学位途径非访客",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.cs.utah.edu/marino-kenneth/",
+          "observedAt": "2026-10-01T15:53:51Z",
+          "evidence": "Current official Assistant Professor and public professional email."
+        },
+        {
+          "id": "s2",
+          "url": "https://www.kennethmarino.com/data/Kenneth_Marino_CV.pdf",
+          "observedAt": "2026-10-01T15:53:51Z",
+          "evidence": "Complete author CV: Utah AP2025–, previous Google2021–25 and Columbia adjunct2023."
+        },
+        {
+          "id": "s3",
+          "url": "https://kennethmarino.com/",
+          "observedAt": "2026-10-01T15:54:27Z",
+          "evidence": "Complete homepage: explicit Fall2025 Utah start, lifelong multimodal/embodied agenda, local Utah MS/UG research and prospective-degree admissions only."
+        }
+      ]
+    },
+    "baxi-chong": {
+      "appointmentStart": {
+        "year": 2025,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "s2"
+        ],
+        "evidence": "Official April 24, 2026 Penn State engineering feature explicitly says he joined in Fall 2025. No exact appointment month/day inferred.",
+        "appointmentType": "unresolved"
+      },
+      "display": "Fall 2025（官方）",
+      "caveat": "先前Georgia Tech PPO真机20，当前2026接触规划为经典方法；外校访问未知",
+      "sources": [
+        {
+          "id": "s2",
+          "url": "https://news.engr.psu.edu/2026/chong-baxi-biorobotics.aspx",
+          "observedAt": "2026-10-01T17:53:29Z",
+          "evidence": "Official April 24, 2026 feature explicitly says he joined in Fall 2025, verifies current research in unconventional robot morphology and mesoscale locomotion. Broader future objectives are not deployment evidence."
+        }
+      ]
+    },
+    "reuth-mirsky": {
+      "appointmentStart": {
+        "year": 2024,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "s2"
+        ],
+        "evidence": "Official September 2024 new-faculty cohort identifies the 2024–25 Tufts appointment. This is a current-institution move after a prior Bar-Ilan faculty appointment, not first faculty service; exact effective month/day unverified.",
+        "appointmentType": "institution-move"
+      },
+      "display": "2024（官方索引；此前Bar-Ilan faculty）",
+      "caveat": "明确转校；Jackal真机为协作20，Tufts设备/单独指导不明；一般prospective询问非访客",
+      "sources": [
+        {
+          "id": "s2",
+          "url": "https://engineering.tufts.edu/news-events/news/tufts-welcomes-new-faculty-2024",
+          "observedAt": "2026-10-01T18:14:32Z",
+          "evidence": "Complete indexed official September 3, 2024 cohort identifies a new full-time CS Assistant Professor for 2024–25. Direct article retrieval failed; date evidence remains indexed official text. No month/day inferred."
+        }
+      ]
+    },
+    "aran-nayebi": {
+      "appointmentStart": {
+        "year": 2024,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "s2"
+        ],
+        "evidence": "Official SCS 2024 new-faculty roster identifies Assistant Professor. Primary home is MLD, while RI is courtesy; exact effective month/day unverified.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2024（官方）；MLD主聘/RI courtesy",
+      "caveat": "PPO/DAgger XHand1有限转移，1–2圈后掉落；直接MSR论文指导可核；当前不招remote，本校MS/PhD途径不等于外校现场接收",
+      "sources": [
+        {
+          "id": "s2",
+          "url": "https://scsbusinessoffice.cs.cmu.edu/new-faculty/2024.html",
+          "observedAt": "2026-10-01T18:20:51Z",
+          "evidence": "Full official 2024 new-faculty cohort names Assistant Professor. Year only; no exact start month inferred."
+        }
+      ]
     }
   },
   "constraints": [
@@ -5893,6 +6083,40 @@
         {
           "url": "https://amyzhang.github.io/",
           "evidence": "Current first-person UT Austin AP and exact Fall27 no-students sentence."
+        }
+      ]
+    },
+    {
+      "key": "bo-cheng-old-listed-phd-posts-filled",
+      "candidateId": "bo-cheng",
+      "name": "Bo Cheng",
+      "kind": "capacity-or-role",
+      "scope": "The three historical PhD projects listed on the current home/openings pages",
+      "summary": "主页说已列岗位填满，但具体是旧PhD项目；不得扩为所有访客或暑期禁令。历史访客名单不代表当前邀请",
+      "observedAt": "2026-10-01T17:59:13Z",
+      "sources": [
+        {
+          "url": "https://sites.psu.edu/infl/",
+          "evidence": "Live homepage says its listed openings are filled; news remains2020-era, so this is scoped historical intake evidence."
+        },
+        {
+          "url": "https://sites.psu.edu/infl/lab-openings/",
+          "evidence": "Detailed linked postings are one hummingbird and two robotic-swimming PhDs, with no separate visitor call."
+        }
+      ]
+    },
+    {
+      "key": "aran-nayebi-current-no-remote",
+      "candidateId": "aran-nayebi",
+      "name": "Aran Nayebi",
+      "kind": "capacity-or-role",
+      "scope": "Remote opportunities at the current observation; onsite outside-master status remains unknown",
+      "summary": "当前不招聘remote机会；本校CMU MS/PhD咨询与未来PhD入学另列，不据此称所有现场访客关闭",
+      "observedAt": "2026-10-01T18:21:03Z",
+      "sources": [
+        {
+          "url": "https://anayebi.github.io/contact/",
+          "evidence": "Full current first-person page explicitly says no remote opportunities are being hired at this time. Separate current CMU PhD/MS inquiry and prospective PhD-admission instructions do not establish an outside-master visit."
         }
       ]
     }

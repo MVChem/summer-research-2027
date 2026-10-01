@@ -334,3 +334,15 @@
 - **本人明确Fall2027不接收学生；不推断原因，不扩为Summer2027/永久访客禁令，也不假定短期访客例外**
 - 核查：2026-10-01T17:58:33Z · [来源1](https://amyzhang.github.io/)
 
+### Bo Cheng（新增候选）
+
+- 适用范围：The three historical PhD projects listed on the current home/openings pages
+- **主页说已列岗位填满，但具体是旧PhD项目；不得扩为所有访客或暑期禁令。历史访客名单不代表当前邀请**
+- 核查：2026-10-01T17:59:13Z · [来源1](https://sites.psu.edu/infl/) · [来源2](https://sites.psu.edu/infl/lab-openings/)
+
+### Aran Nayebi（新增候选）
+
+- 适用范围：Remote opportunities at the current observation; onsite outside-master status remains unknown
+- **当前不招聘remote机会；本校CMU MS/PhD咨询与未来PhD入学另列，不据此称所有现场访客关闭**
+- 核查：2026-10-01T18:21:03Z · [来源1](https://anayebi.github.io/contact/)
+

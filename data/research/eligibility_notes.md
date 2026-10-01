@@ -1255,3 +1255,12 @@ Additional check 2026-10-01T16:23:24Z; reuse central WSU caveats. The [official 
 
 但这些表格标注2015年，[申请指南](https://www.hawaii.edu/issmanoa/wp-content/uploads/ISSForms/JS_Intern_Directions.pdf)标注2016年。指南的3周至12个月、至少提前90天联系ISS，以及旧财力/费用金额须在2027前重新确认，不能作为当前预算或签证保证。八周大致落在指南范围内；导师接收、具体研究安排、资助及审批仍未知，远程不由此路径自动覆盖。学校接受个人财力材料，也不覆盖具体实验室的联系门槛。
 
+
+<a id="louisiana-state-baton-rouge"></a>
+
+## LSU Baton Rouge · Student Intern 本科范围，外校硕士须另核类别
+
+核查：2026-10-01T17:25:31Z。[当前访客总览](https://itservice.lsu.edu/TDClient/62/intlservices/KB/Article/1367/Visiting-Scholars-at-LSU) 和 [Student Intern 说明](https://itservice.lsu.edu/TDClient/62/intlservices/KB/PrintArticle?ID=1361) 明确将 LSU 该类别用于境外在读本科生；不能直接据一般联邦类别推定外校硕士符合 LSU 流程。这不是全校不接收研究生访客的声明。
+
+[Scholar 流程](https://itservice.lsu.edu/TDClient/62/intlservices/KB/Article/1362/Overview-J-1-Visiting-Scholars) 允许个人资金，要求导师邀请、院系材料与 IFSO 审批及相应资历；Short-Term Scholar 上限六个月，但外校硕士能否使用尚未明确。页面列示每月至少1300美元，仅为核查时公开财力底线，不是2027总预算。Scholar 的五个工作日与 Intern 的三周是材料办理时间，不含全部准备/签证；Intern 另建议提前三个月。Intern 的航空及临床/患者接触限制也须按具体项目确认。最终类别、学位资格、经费和设备接入都需独立获批。
+

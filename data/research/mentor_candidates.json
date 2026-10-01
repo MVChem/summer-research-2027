@@ -125,6 +125,9 @@
     "batches/control-129.json",
     "batches/control-132.json",
     "batches/control-133.json",
+    "batches/control-136.json",
+    "batches/control-137.json",
+    "batches/control-138.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -223,6 +226,7 @@
     "batches/embodied-101.json",
     "batches/embodied-102.json",
     "batches/embodied-103.json",
+    "batches/embodied-107.json",
     "batches/embodied-109.json",
     "batches/embodied-110.json",
     "batches/hri-001.json",
@@ -339,7 +343,10 @@
     "batches/hri-121.json",
     "batches/hri-124.json",
     "batches/hri-125.json",
-    "batches/hri-126.json"
+    "batches/hri-126.json",
+    "batches/hri-129.json",
+    "batches/hri-130.json",
+    "batches/hri-131.json"
   ],
   "candidates": [
     {
@@ -6455,6 +6462,126 @@
       "detailPage": "batches/control-133.md#shuzhen-luo"
     },
     {
+      "id": "omkar-sudhir-patil",
+      "name": "Omkar Sudhir Patil",
+      "aliases": [
+        "Omkar Patil",
+        "O. S. Patil"
+      ],
+      "school": "Louisiana State University, Baton Rouge",
+      "title": "Assistant Professor",
+      "homepage": "https://www.arclablsu.org/arc-lab",
+      "batch": "control-136",
+      "discoveredAt": "2026-10-01T17:21:57Z",
+      "verifiedAt": "2026-10-01T17:26:36Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 13
+      },
+      "researchAreas": [
+        "Lyapunov-based deep neural adaptive control",
+        "Safety-critical robotics",
+        "Online residual neural networks",
+        "Learning-enabled autonomous systems"
+      ],
+      "physicalEvidenceStatus": "historical-or-indirect",
+      "physicalEvidenceLabel": "受限真机证据：historical-or-indirect",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-136.json",
+      "detailPage": "batches/control-136.md#omkar-sudhir-patil"
+    },
+    {
+      "id": "minh-quang-ta",
+      "name": "Minh Quang Ta",
+      "aliases": [
+        "Quang Minh Ta",
+        "Minh Q. Ta"
+      ],
+      "school": "University of West Florida",
+      "title": "Assistant Professor",
+      "homepage": "https://uwf.edu/hmcse/departments/electrical-and-computer-engineering/faculty/dr-minh-quang-ta.html",
+      "batch": "control-137",
+      "discoveredAt": "2026-10-01T17:52:37Z",
+      "verifiedAt": "2026-10-01T17:54:59Z",
+      "scores": {
+        "fit": 35,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 13
+      },
+      "researchAreas": [
+        "Learning-based robotic perception",
+        "Sim-to-real manipulation",
+        "Robotic micromanipulation",
+        "Image-based pose estimation",
+        "Robotic assembly"
+      ],
+      "physicalEvidenceStatus": "historical-or-indirect",
+      "physicalEvidenceLabel": "受限真机证据：historical-or-indirect",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-137.json",
+      "detailPage": "batches/control-137.md#minh-quang-ta"
+    },
+    {
+      "id": "bo-cheng",
+      "name": "Bo Cheng",
+      "aliases": [],
+      "school": "Pennsylvania State University",
+      "title": "Professor",
+      "homepage": "https://sites.psu.edu/infl/",
+      "batch": "control-138",
+      "discoveredAt": "2026-10-01T17:52:37Z",
+      "verifiedAt": "2026-10-01T17:59:13Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 13
+      },
+      "researchAreas": [
+        "Reinforcement learning for aerial perching",
+        "Sim-to-real flight control",
+        "Bio-inspired locomotion",
+        "Robot motor learning"
+      ],
+      "physicalEvidenceStatus": "historical-or-indirect",
+      "physicalEvidenceLabel": "受限真机证据：historical-or-indirect",
+      "shortVisitStatus": "precedent-only",
+      "recordFile": "batches/control-138.json",
+      "detailPage": "batches/control-138.md#bo-cheng"
+    },
+    {
+      "id": "tan-chen",
+      "name": "Tan Chen",
+      "aliases": [],
+      "school": "Binghamton University, State University of New York",
+      "title": "Assistant Professor; ROLAC Lab Director",
+      "homepage": "https://chentan.github.io/",
+      "batch": "control-138",
+      "discoveredAt": "2026-10-01T12:13:31Z",
+      "verifiedAt": "2026-10-01T17:59:40Z",
+      "scores": {
+        "fit": 36,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Robot reinforcement learning",
+        "Learned perception for manipulation",
+        "Legged and humanoid control",
+        "Learning-enabled system security"
+      ],
+      "discoveryTimestampNote": "Earliest precisely retained primary homepage observation; the later complete technical verification did not create a new discovery time.",
+      "physicalEvidenceStatus": "historical-or-indirect",
+      "physicalEvidenceLabel": "受限真机证据：historical-or-indirect",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-138.json",
+      "detailPage": "batches/control-138.md#tan-chen"
+    },
+    {
       "id": "tom-silver",
       "name": "Tom Silver",
       "aliases": [],
@@ -11443,6 +11570,36 @@
       "shortVisitStatus": "minimum-6-months · 明确无短期岗位，较长访问仅条件性询问",
       "recordFile": "batches/embodied-103.json",
       "detailPage": "batches/embodied-103.md#cheng-zhang-tamu"
+    },
+    {
+      "id": "kenneth-marino",
+      "name": "Kenneth Marino",
+      "aliases": [],
+      "school": "University of Utah",
+      "title": "Assistant Professor",
+      "homepage": "https://kennethmarino.com/",
+      "batch": "embodied-107",
+      "discoveredAt": "2026-09-30T21:52:53Z",
+      "verifiedAt": "2026-10-01T15:57:02Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 13
+      },
+      "researchAreas": [
+        "Lifelong embodied agents",
+        "Vision-language action reasoning",
+        "Object-centric world models",
+        "Semantic task-oriented grasping",
+        "Reinforcement learning and memory"
+      ],
+      "discoveryTimestampNote": "Earliest retained dated screening record; an independently known earlier first-ever discovery was unavailable and was not reconstructed.",
+      "physicalEvidenceStatus": "historical-or-indirect",
+      "physicalEvidenceLabel": "受限真机证据：historical-or-indirect",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-107.json",
+      "detailPage": "batches/embodied-107.md#kenneth-marino"
     },
     {
       "id": "huaijin-george-chen",
@@ -17082,6 +17239,95 @@
       "shortVisitStatus": "inquiry-only · external Masters; summer and six-month examples, no stated minimum",
       "recordFile": "batches/hri-126.json",
       "detailPage": "batches/hri-126.md#yiyue-luo"
+    },
+    {
+      "id": "baxi-chong",
+      "name": "Baxi Chong",
+      "aliases": [
+        "Baxi Zhong",
+        "Baxi Chong (Zhong)"
+      ],
+      "school": "The Pennsylvania State University",
+      "title": "Assistant Professor",
+      "homepage": "https://sites.gatech.edu/baxichong/",
+      "batch": "hri-129",
+      "discoveredAt": "2026-10-01T17:52:37Z",
+      "verifiedAt": "2026-10-01T17:54:16Z",
+      "scores": {
+        "fit": 36,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Learning-based legged locomotion",
+        "Bio-inspired embodied control",
+        "Contact sensing and gait adaptation",
+        "Geometric mechanics and mechanical intelligence"
+      ],
+      "physicalEvidenceStatus": "historical-or-indirect",
+      "physicalEvidenceLabel": "受限真机证据：historical-or-indirect",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-129.json",
+      "detailPage": "batches/hri-129.md#baxi-chong"
+    },
+    {
+      "id": "reuth-mirsky",
+      "name": "Reuth Mirsky",
+      "aliases": [],
+      "school": "Tufts University",
+      "title": "Assistant Professor",
+      "homepage": "https://engineering.tufts.edu/cs/people/faculty/reuth-mirsky",
+      "batch": "hri-130",
+      "discoveredAt": "2026-10-01T18:12:31Z",
+      "verifiedAt": "2026-10-01T18:14:32Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-aware robot navigation",
+        "Goal and intention recognition",
+        "Shared control",
+        "Multi-agent reinforcement learning",
+        "Intelligent disobedience"
+      ],
+      "physicalEvidenceStatus": "historical-or-indirect",
+      "physicalEvidenceLabel": "受限真机证据：historical-or-indirect",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-130.json",
+      "detailPage": "batches/hri-130.md#reuth-mirsky"
+    },
+    {
+      "id": "aran-nayebi",
+      "name": "Aran Nayebi",
+      "aliases": [],
+      "school": "Carnegie Mellon University",
+      "title": "Assistant Professor of Machine Learning; Neuroscience core faculty; RI Courtesy Faculty",
+      "homepage": "https://anayebi.github.io/",
+      "batch": "hri-131",
+      "discoveredAt": "2026-10-01T18:17:51Z",
+      "verifiedAt": "2026-10-01T18:22:55Z",
+      "scores": {
+        "fit": 38,
+        "physical": 22,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Tactile robot learning",
+        "Dexterous manipulation",
+        "Sim-to-real policy transfer",
+        "Embodied world models",
+        "NeuroAI"
+      ],
+      "physicalEvidenceStatus": "limited-current-hand-demo: 1–2 palm rotations before drops",
+      "physicalEvidenceLabel": "受限真机证据：limited-current-hand-demo: 1–2 palm rotations before drops",
+      "shortVisitStatus": "unknown onsite · remote hiring unavailable at current observation",
+      "recordFile": "batches/hri-131.json",
+      "detailPage": "batches/hri-131.md#aran-nayebi"
     }
   ]
 }

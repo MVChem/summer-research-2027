@@ -1,0 +1,151 @@
+[
+  {
+    "id": "aran-nayebi",
+    "name": "Aran Nayebi",
+    "aliases": [],
+    "school": "Carnegie Mellon University",
+    "homepage": "https://anayebi.github.io/",
+    "title": "Assistant Professor of Machine Learning; Neuroscience core faculty; RI Courtesy Faculty",
+    "department": "Machine Learning Department; Neuroscience Institute; courtesy Robotics Institute",
+    "batch": "hri-131",
+    "discoveredAt": "2026-10-01T18:17:51Z",
+    "verifiedAt": "2026-10-01T18:22:55Z",
+    "researchAreas": [
+      "Tactile robot learning",
+      "Dexterous manipulation",
+      "Sim-to-real policy transfer",
+      "Embodied world models",
+      "NeuroAI"
+    ],
+    "fitReason": "New 2024 AP with directly supervised master-level tactile robot learning and a current PPO/DAgger-to-hardware anchor. Strong CS methods fit, although the group also studies broader neuroscience and AI alignment.",
+    "physicalEvidence": {
+      "status": "limited-current-hand-demo: 1–2 palm rotations before drops",
+      "summary": "The June 2026 Tactile Genesis paper trains a privileged PPO teacher and a tactile DAgger student, then transfers palm rotation to a real XHand1. The test controls thumb and middle finger, with the remaining fingers fixed. Appendix C reports only 1–2 consecutive rotations before dropping the object. First author Chung is independently verified as Nayebi’s MSR advisee; this is a limited current physical proof of concept, not validation of all three simulated tasks or all sensing modalities.",
+      "sourceIds": [
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown onsite · remote hiring unavailable at current observation",
+      "summary": "Remote opportunities are explicitly not being hired at this time, per the live contact page observed October 1, 2026. Current CMU PhD/MS students may inquire; prospective students are directed to PhD admission. No separate outside-master onsite visitor or Summer 2027 offer is verified. A former outside master in the roster is precedent only.",
+      "sourceIds": [
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 22,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct tactile representation, PPO/DAgger and dexterous embodied-learning methods.",
+      "physical": "A directly advised MSR thesis leads actual2026 learned hand execution; the narrow demonstration and unspecified hardware ownership support22 rather than maximum credit. The student’s June2026 graduation is retained, without claiming ongoing enrollment.",
+      "shortVisit": "Local-degree and PhD routes only; remote explicitly unavailable, onsite external visitor unknown.",
+      "freshness": "Full June 2026 technical work and verified 2026 direct MSR thesis linkage."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.cmu.edu / source 1",
+        "url": "https://www.cmu.edu/ni/people/faculty/aran-nayebi",
+        "summary": "Full official current Assistant Professor in Machine Learning and Neuroscience Institute; institutional email.",
+        "verifiedAt": "2026-10-01T18:22:55Z"
+      },
+      {
+        "id": "s2",
+        "label": "scsbusinessoffice.cs.cmu.edu / source 2",
+        "url": "https://scsbusinessoffice.cs.cmu.edu/new-faculty/2024.html",
+        "summary": "Full official 2024 new-faculty cohort names Assistant Professor. Year only; no exact start month inferred.",
+        "verifiedAt": "2026-10-01T18:20:51Z"
+      },
+      {
+        "id": "s3",
+        "label": "www.ri.cmu.edu / source 3",
+        "url": "https://www.ri.cmu.edu/ri-people/aran-nayebi/",
+        "summary": "Full official RI directory correctly labels the robotics affiliation Courtesy Faculty, with home department MLD and past MSR advisees; not an RI primary appointment.",
+        "verifiedAt": "2026-10-01T18:22:10Z"
+      },
+      {
+        "id": "s4",
+        "label": "www.ri.cmu.edu / source 4",
+        "url": "https://www.ri.cmu.edu/ri-people/trinity-chung/",
+        "summary": "Full official MSR profile explicitly identifies Nayebi as adviser of Tactile Genesis first author Trinity Chung. Current lab news reports her June 2026 defense and graduation.",
+        "verifiedAt": "2026-10-01T18:22:10Z"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2606.22332v1",
+        "summary": "Full June 2026 preprint: PPO teacher, DAgger tactile student, and Appendix C physical XHand1 palm rotation, achieving only 1–2 consecutive rotations before dropping. Other task/sensor comparisons are simulated; no broad real-world success percentage or physical temperature task established.",
+        "verifiedAt": "2026-10-01T18:22:10Z"
+      },
+      {
+        "id": "s6",
+        "label": "anayebi.github.io / source 6",
+        "url": "https://anayebi.github.io/group/",
+        "summary": "Full lab page verifies current lead-student/thesis linkage and 2026 tactile project. An external Pittsburgh master alumnus is historical precedent, not a current visitor invitation.",
+        "verifiedAt": "2026-10-01T18:20:34Z"
+      },
+      {
+        "id": "s7",
+        "label": "anayebi.github.io / source 7",
+        "url": "https://anayebi.github.io/contact/",
+        "summary": "Full current first-person page explicitly says no remote opportunities are being hired at this time. Separate current CMU PhD/MS inquiry and prospective PhD-admission instructions do not establish an outside-master visit.",
+        "verifiedAt": "2026-10-01T18:21:03Z"
+      },
+      {
+        "id": "s8",
+        "label": "anayebi.github.io / source 8",
+        "url": "https://anayebi.github.io/",
+        "summary": "Full first-person page distinguishes primary MLD AP, Neuroscience core faculty and RI courtesy role; prior MIT postdoc and PhD advising authority.",
+        "verifiedAt": "2026-10-01T18:21:56Z"
+      },
+      {
+        "id": "s9",
+        "label": "www.cmu.edu / source 9",
+        "url": "https://www.cmu.edu/oie/administrators/docs/j-intern-data-form.pdf",
+        "summary": "Reused full June 2026 form explicitly includes Masters and personal/family support documentation, with Pittsburgh $3,253/month threshold. Institutional mechanism is not a faculty offer.",
+        "verifiedAt": "2026-10-01T05:26:00Z"
+      },
+      {
+        "id": "s10",
+        "label": "www.cmu.edu / source 10",
+        "url": "https://www.cmu.edu/collaborating-visitor/",
+        "summary": "Reused host/department screening for outside students and unpaid research visitors, distinct from OIE immigration approval.",
+        "verifiedAt": "2026-10-01T00:16:30Z"
+      },
+      {
+        "id": "s11",
+        "label": "www.cmu.edu / source 11",
+        "url": "https://www.cmu.edu/collaborating-visitor/faq.html",
+        "summary": "Reused visitor screening lead of 30 days or 60 when immigration documents are needed. OIE timing, project restrictions and appointment category remain separate.",
+        "verifiedAt": "2026-10-01T00:16:30Z"
+      }
+    ],
+    "unknowns": [
+      "Remote hiring is expressly unavailable at the current observation; do not advertise a remote alternative without a future source change.",
+      "Outside-master onsite intake, Summer 2027 capacity, duration, project supervision and funding remain unknown. Past external-master mentoring does not establish current access.",
+      "The physical anchor is a narrow palm-rotation demonstration with drops after 1–2 rotations. Other dexterous tasks, dense whole-hand coverage and temperature discrimination are simulation results.",
+      "Direct MSR advising is verified, but exact apparatus ownership/site and future hardware access are not specified. CMU/Genesis AI collaboration is disclosed.",
+      "Primary faculty home is Machine Learning; Robotics Institute is courtesy. The official 2024 cohort supports year-level appointment timing only.",
+      "CMU Collaborating Visitor screening and OIE immigration classification are separate. Reused Student Intern form accepts master-level status and personal support conditionally; neither promises a host offer.",
+      "Published Pittsburgh support proof of $3,253/month is not a full budget; 2027 rates, insurance, fees and eligibility need university confirmation.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor review](../eligibility_notes.md#cmu-student-intern); source-specific observation dates remain unchanged."
+    ],
+    "publicEmail": "anayebi@andrew.cmu.edu",
+    "appointmentStart": {
+      "year": 2024,
+      "precision": "year",
+      "status": "current",
+      "sourceIds": [
+        "s2"
+      ],
+      "evidence": "Official SCS 2024 new-faculty roster identifies Assistant Professor. Primary home is MLD, while RI is courtesy; exact effective month/day unverified.",
+      "appointmentType": "unresolved"
+    }
+  }
+]

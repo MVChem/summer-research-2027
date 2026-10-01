@@ -1,0 +1,132 @@
+[
+  {
+    "id": "kenneth-marino",
+    "name": "Kenneth Marino",
+    "aliases": [],
+    "school": "University of Utah",
+    "homepage": "https://kennethmarino.com/",
+    "title": "Assistant Professor",
+    "department": "Kahlert School of Computing; SPARK Lab",
+    "batch": "embodied-107",
+    "discoveredAt": "2026-09-30T21:52:53Z",
+    "verifiedAt": "2026-10-01T15:57:02Z",
+    "researchAreas": [
+      "Lifelong embodied agents",
+      "Vision-language action reasoning",
+      "Object-centric world models",
+      "Semantic task-oriented grasping",
+      "Reinforcement learning and memory"
+    ],
+    "fitReason": "Recent Assistant Professor with historical hardware evidence: relevant semantic robot learning and recent world-model/VLM embodied-agent methods. Best considered for a methods/software collaboration rather than assuming access to a new Utah robot lab.",
+    "physicalEvidence": {
+      "status": "historical-or-indirect",
+      "summary": "Physical20, strictly prior/shared2020 hardware. Full GCNGrasp paper§5.3 evaluates learned geometric/semantic grasp scores, then physically executes the highest-ranked grasp using a7DOF Sawyer, Robotiq gripper and wrist RGB-D camera on previously unseen objects. Marino was CMU-affiliated. The demonstration is task-oriented grasp selection, not completion of full tool-use tasks; no current Utah apparatus established. Current MEAD/ICAL evidence is simulated embodied environments, web tasks and recorded egocentric video.",
+      "sourceIds": [
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Visitor0. Current homepage and SPARK join page explicitly advertise research for current Utah master’s/undergraduates and degree applications for prospective graduate students. No external-master visitor invitation, summer2027 capacity, duration or funding verified. This is the scope of advertised routes, not a general no-visitors declaration.",
+      "sourceIds": [
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 13
+    },
+    "scoreReasons": {
+      "fit": "Strong semantic embodied/robot-method fit with recent object-centric world-model and VLM reasoning; current lab leans software/web.",
+      "physical": "Full prior collaborative real Sawyer grasp execution, capped20; no current Utah hardware inference.",
+      "shortVisit": "No external-master visiting route verified; local/degree intake is not a visit.",
+      "freshness": "2025 complete embodied methods and2026 own-lab activity, but physical study is2020; not fresh hardware15."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.cs.utah.edu / source 1",
+        "url": "https://www.cs.utah.edu/marino-kenneth/",
+        "summary": "Current official Assistant Professor and public professional email.",
+        "verifiedAt": "2026-10-01T15:53:51Z",
+        "retrieval": "complete-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "www.kennethmarino.com / source 2",
+        "url": "https://www.kennethmarino.com/data/Kenneth_Marino_CV.pdf",
+        "summary": "Complete author CV: Utah AP2025–, previous Google2021–25 and Columbia adjunct2023.",
+        "verifiedAt": "2026-10-01T15:53:51Z",
+        "retrieval": "complete-primary-CV"
+      },
+      {
+        "id": "s3",
+        "label": "kennethmarino.com / source 3",
+        "url": "https://kennethmarino.com/",
+        "summary": "Complete homepage: explicit Fall2025 Utah start, lifelong multimodal/embodied agenda, local Utah MS/UG research and prospective-degree admissions only.",
+        "verifiedAt": "2026-10-01T15:54:27Z",
+        "retrieval": "complete-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "sparklabutah.github.io / source 4",
+        "url": "https://sparklabutah.github.io/",
+        "summary": "Current own lab,2026 members/web-agent work; embodied-agent mission, currently local-degree recruiting.",
+        "verifiedAt": "2026-10-01T15:55:09Z",
+        "retrieval": "complete-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "proceedings.mlr.press / source 5",
+        "url": "https://proceedings.mlr.press/v155/murali21a/murali21a.pdf",
+        "summary": "Full CoRL2020/PMLR2021 paper,§5.3: GCNGrasp scores unknown-object grasps and Sawyer executes the selected grasp. Marino CMU affiliation; prior/shared platform.",
+        "verifiedAt": "2026-10-01T15:55:09Z",
+        "retrieval": "complete-primary-paper"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2408.11816v3",
+        "summary": "Full April 2025 version of ICLR2025 MEAD: learned discriminative world model, object abstraction and planning;2D crafting/MiniHack only.",
+        "verifiedAt": "2026-10-01T15:55:56Z",
+        "retrieval": "complete-primary-paper"
+      },
+      {
+        "id": "s7",
+        "label": "arxiv.org / source 7",
+        "url": "https://arxiv.org/html/2406.14596v3",
+        "summary": "Full ICAL primary methods: VLM distillation/reflection and human-feedback memories; TEACh simulation, VisualWebArena and Ego4D data, not physical robot execution.",
+        "verifiedAt": "2026-10-01T15:57:02Z",
+        "retrieval": "complete-primary-paper"
+      }
+    ],
+    "unknowns": [
+      "Current2026 lab output is strongly weighted toward web-agent research. A concrete robot/world-model project should be confirmed rather than assuming an active physical manipulation program.",
+      "The physically executed GCNGrasp experiment dates to CoRL2020, published in PMLR2021, before Utah appointment. No new2026 robot execution or visitor access claimed.",
+      "Fall2025 start is first-person, current AP title is official. Prior2023 Columbia adjunct role means first-faculty status is not asserted.",
+      "Current nondegree inquiry form is Utah-local. Prospective-degree admission language does not establish outside-master visiting eligibility or an explicit visitor prohibition.",
+      "Utah’s completed institutional review: Visiting Graduate Student appointment and possible Student Intern status need academic/GraduateSchool/ISSS approvals. Personal funds are permitted in the institutional pathway, but do not establish this PI’s acceptance.",
+      "Roughly8weeks, remote collaboration, funding, precise project and summer2027 availability are all unknown. No outreach or application occurred.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor review](../eligibility_notes.md#utah); source-specific observation dates remain unchanged.",
+      "Timestamp scope: Earliest retained dated screening record; an independently known earlier first-ever discovery was unavailable and was not reconstructed."
+    ],
+    "discoveryTimestampNote": "Earliest retained dated screening record; an independently known earlier first-ever discovery was unavailable and was not reconstructed.",
+    "publicEmail": "kenneth.marino@utah.edu",
+    "appointmentStart": {
+      "year": 2025,
+      "precision": "year",
+      "status": "current",
+      "appointmentType": "unresolved",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ],
+      "evidence": "Official current AP role; author CV says2025– and first-person homepage specifies Fall2025. Prior Columbia adjunct2023 is disclosed, so not labeled first-ever faculty appointment. No exact month inferred."
+    }
+  }
+]

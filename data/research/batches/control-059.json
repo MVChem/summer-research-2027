@@ -1,0 +1,100 @@
+[
+  {
+    "id": "rushikesh-l-kamalapurkar",
+    "name": "Rushikesh L. Kamalapurkar",
+    "aliases": [
+      "Rushikesh Kamalapurkar"
+    ],
+    "school": "University of Florida",
+    "homepage": "https://scc-lab.github.io/",
+    "title": "Associate Professor; Director, Systems, Cognition, and Control Laboratory",
+    "department": "Mechanical and Aerospace Engineering",
+    "batch": "control-059",
+    "discoveredAt": "2026-10-01T04:28:50Z",
+    "verifiedAt": "2026-10-01T04:37:50Z",
+    "researchAreas": [
+      "Safe active robot learning",
+      "Gaussian-process field mapping",
+      "Reinforcement learning control",
+      "Data-driven nonlinear control",
+      "Assured autonomy"
+    ],
+    "fitReason": "Substantive Bayesian online learning directs real mobile-robot exploration; broader work includes reinforcement learning and data-driven control.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "April 2026 GP-HT preprint Section VII-C explicitly reports four physical experiments at UF using a Husarion 2R-Pro with Adafruit TSL2591 lux sensor. Measured intensity updates a Gaussian-process posterior; Hough-derived hazard regions modify sampling locations and RRT* routes that the robot executes. It is light-field sensing in the NCR Lab, not radioactive-site deployment or learned low-level motor control. Two- and three-dimensional synthetic field studies are simulation. Early visits to still-unlearned unsafe regions remain possible; no absolute safety claim. Coauthor Trivikram Satharasi is independently identified by SCC as a current UF master’s researcher in the lab; Qureshi/Ogri also appear on its current roster.",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "degree-only",
+      "summary": "Live SCC homepage advertises several PhD positions and asks applicants to explain their graduate-study goals. It lists MS advisees, but no current external-master’s visitor or summer internship invitation was verified.",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "scores": {
+      "fit": 36,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct probabilistic learning for adaptive robotic exploration, with formal uncertainty-aware control; weaker foundation-model emphasis.",
+      "physical": "Four actual UF robot trials; coauthor Satharasi is independently confirmed as current UF SCC master’s researcher, and the other lead student authors are on SCC’s roster. NCR is the named experiment site, not claimed exclusive ownership.",
+      "shortVisit": "PhD hiring and local MS supervision do not establish external short-visitor intake.",
+      "freshness": "April 2026 primary hardware manuscript and September 2026 official academic activity."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.eng.ufl.edu / source 1",
+        "url": "https://www.eng.ufl.edu/research/ai-experts/name/rushikesh-kamalapurkar/",
+        "summary": "Official Associate Professor of Mechanical and Aerospace Engineering and public email.",
+        "verifiedAt": "2026-10-01T04:30:32Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "scc-lab.github.io / source 2",
+        "url": "https://scc-lab.github.io/",
+        "summary": "Current SCC director, graduate advisees and UF contact. Hiring language is PhD admission, not external short visitors.",
+        "verifiedAt": "2026-10-01T04:30:32Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2604.20799v1",
+        "summary": "April 2026 full primary preprint, Section VII-C: UF NCR Lab Husarion 2R-Pro, lux sensor, online GP update and actual RRT* path execution. Simulations are separately identified; early unsafe sampling and geometric simplification remain limitations.",
+        "verifiedAt": "2026-10-01T04:30:32Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "www.eng.ufl.edu / source 4",
+        "url": "https://www.eng.ufl.edu/news-events/events-calendar/2026-09-10/?event_archetype=event&id=1&orderby=event_start_date%2Cevent_start_time%2Cevent_name&pagination=1",
+        "summary": "Official September 2026 assured data-driven autonomy seminar confirms current Associate Professor activity; not an internship offer.",
+        "verifiedAt": "2026-10-01T04:30:32Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "scc-lab.github.io / source 5",
+        "url": "https://scc-lab.github.io/people/trivikram_satharasi.html",
+        "summary": "Current individual bio explicitly says UF MAE M.S. student conducting research with SCC. He is an author of the hardware paper; this supports directed current group linkage beyond PI coauthorship.",
+        "verifiedAt": "2026-10-01T04:37:50Z",
+        "retrieval": "Direct author-lab HTML via web.run"
+      }
+    ],
+    "unknowns": [
+      "Current UF official directory and 2026 teaching/seminar evidence supersede older Oklahoma State profiles. Reuse already verified UF Student Intern/Research Integrity supplement; host approval, project screening, duration and funding remain unresolved. SCC affiliation and NCR experiment site should not be confused with the former advisor’s current institutional appointment.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[University of Florida institutional visitor rules](../eligibility_notes.md#florida)"
+    ],
+    "publicEmail": "rkamalapurkar@ufl.edu"
+  }
+]

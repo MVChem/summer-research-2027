@@ -67,6 +67,7 @@
     "batches/control-056.json",
     "batches/control-057.json",
     "batches/control-058.json",
+    "batches/control-059.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -3541,6 +3542,35 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-058.json",
       "detailPage": "batches/control-058.md#yue-sophie-wang"
+    },
+    {
+      "id": "rushikesh-l-kamalapurkar",
+      "name": "Rushikesh L. Kamalapurkar",
+      "aliases": [
+        "Rushikesh Kamalapurkar"
+      ],
+      "school": "University of Florida",
+      "title": "Associate Professor; Director, Systems, Cognition, and Control Laboratory",
+      "homepage": "https://scc-lab.github.io/",
+      "batch": "control-059",
+      "discoveredAt": "2026-10-01T04:28:50Z",
+      "verifiedAt": "2026-10-01T04:37:50Z",
+      "scores": {
+        "fit": 36,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Safe active robot learning",
+        "Gaussian-process field mapping",
+        "Reinforcement learning control",
+        "Data-driven nonlinear control",
+        "Assured autonomy"
+      ],
+      "shortVisitStatus": "degree-only",
+      "recordFile": "batches/control-059.json",
+      "detailPage": "batches/control-059.md#rushikesh-l-kamalapurkar"
     },
     {
       "id": "tom-silver",

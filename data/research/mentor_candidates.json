@@ -89,7 +89,8 @@
     "batches/hri-022.json",
     "batches/hri-023.json",
     "batches/hri-024.json",
-    "batches/hri-025.json"
+    "batches/hri-025.json",
+    "batches/hri-026.json"
   ],
   "candidates": [
     {
@@ -7364,6 +7365,35 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-025.json",
       "detailPage": "batches/hri-025.md#nikolaos-papanikolopoulos"
+    },
+    {
+      "id": "juan-rojas",
+      "name": "Juan Rojas",
+      "aliases": [
+        "Juan Rojas Suarez del Real",
+        "Juan Rojas Suárez del Real"
+      ],
+      "school": "Lipscomb University",
+      "title": "Associate Professor",
+      "homepage": "https://lipscomb.edu/directory/rojas-suarez-del-real-juan",
+      "batch": "hri-026",
+      "discoveredAt": "2026-10-01T01:00:00Z",
+      "verifiedAt": "2026-10-01T01:02:08Z",
+      "scores": {
+        "fit": 37,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "sample-efficient on-robot reinforcement learning",
+        "visual manipulation",
+        "symmetry-based data augmentation",
+        "robot execution monitoring and recovery"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-026.json",
+      "detailPage": "batches/hri-026.md#juan-rojas"
     }
   ]
 }

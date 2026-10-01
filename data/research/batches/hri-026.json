@@ -1,0 +1,114 @@
+[
+  {
+    "id": "juan-rojas",
+    "name": "Juan Rojas",
+    "aliases": [
+      "Juan Rojas Suarez del Real",
+      "Juan Rojas Suárez del Real"
+    ],
+    "school": "Lipscomb University",
+    "homepage": "https://lipscomb.edu/directory/rojas-suarez-del-real-juan",
+    "title": "Associate Professor",
+    "department": "Electrical and Computer Engineering; Raymond B. Jones College of Engineering",
+    "batch": "hri-026",
+    "discoveredAt": "2026-10-01T01:00:00Z",
+    "verifiedAt": "2026-10-01T01:02:08Z",
+    "researchAreas": [
+      "sample-efficient on-robot reinforcement learning",
+      "visual manipulation",
+      "symmetry-based data augmentation",
+      "robot execution monitoring and recovery"
+    ],
+    "fitReason": "Strong methods overlap for CS/AI research through visual representations, replay-buffer augmentation and sample-efficient learning directly on physical arms. A bounded reproducibility or generalization project could be a sensible discussion topic, but that is a project-fit inference, not an available placement.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "SymmGrid (July 2026) trains and evaluates on real Franka manipulation tasks: peg insertion, cable routing and object relocation. It uses ResNet-10 image features plus proprioception, demonstration-seeded RLPD, and parallel translation-based replay augmentation, with special homography handling for external cameras. Current Lipscomb news corroborates local Franka ownership. Broader fractal variants from the precursor are not all hardware-tested.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current official news documents a summer 2026 undergraduate research team. No explicit current external master’s short-visit invitation, eight-week arrangement, funding offer or remote route was verified. Prior institutions and historical collaboration are not opportunity evidence.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "37/40: strong learned visual manipulation, sample efficiency and recovery methods; less direct social-HRI emphasis.",
+      "physical": "25/25: fresh primary on-robot trials plus official current-campus robot ownership.",
+      "shortVisit": "0/20: local undergraduate summer activity is not external master’s visitor evidence.",
+      "freshness": "15/15: July 2026 research and dated official lab report."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "lipscomb.edu / source 1",
+        "url": "https://lipscomb.edu/directory/rojas-suarez-del-real-juan",
+        "summary": "Current official profile: Juan Rojas Suarez del Real, Associate Professor, Electrical and Computer Engineering, juan.rojas@lipscomb.edu. Older bio sections reflect earlier Asian appointments; current header governs.",
+        "verifiedAt": "2026-10-01T01:02:08Z"
+      },
+      {
+        "id": "s2",
+        "label": "lipscomb.edu / source 2",
+        "url": "https://lipscomb.edu/news/students-publish-lippy-robotics-latest-work-ai-learning-robots",
+        "summary": "July 10, 2026 institutional account verifies current Lipscomb Franka research robot acquired in 2024 and summer student work on on-robot DRL. Undergraduate program, not external graduate visitor evidence.",
+        "verifiedAt": "2026-10-01T01:02:08Z"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2607.26985v1",
+        "summary": "July 29, 2026 SymmGrid primary preprint: Lipscomb authors, real Franka peg insertion/cable routing/object relocation, ResNet-10 visual backbone plus proprioception, RLPD and parallel translation-based replay augmentation; 20 or 30 bootstrap demonstrations.",
+        "verifiedAt": "2026-10-01T01:02:08Z"
+      },
+      {
+        "id": "s4",
+        "label": "symmgrid-robot.github.io / source 4",
+        "url": "https://symmgrid-robot.github.io/",
+        "summary": "Author project with real-robot videos and three manipulation tasks; title explicitly distinguishes real-robot reinforcement policy learning.",
+        "verifiedAt": "2026-10-01T01:02:08Z"
+      },
+      {
+        "id": "s5",
+        "label": "www.frontiersin.org / source 5",
+        "url": "https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2026.1791812/full",
+        "summary": "2026 primary precursor includes real FR3 peg insertion with constant branching, while wider fractal-branching evaluation on hardware is left for future work. Do not generalize experiments to all proposed fractal variants.",
+        "verifiedAt": "2026-10-01T01:02:08Z"
+      },
+      {
+        "id": "s6",
+        "label": "www.juanrojas.net / source 6",
+        "url": "https://www.juanrojas.net/publications/",
+        "summary": "Current author publication list includes SymmGrid 2026 and physical robot-learning research; not a verified external visitor invitation.",
+        "verifiedAt": "2026-10-01T01:02:08Z"
+      }
+    ],
+    "unknowns": [
+      "Current lab is described as an undergraduate research lab; do not infer that its local summer program accepts external graduate visitors.",
+      "Faculty and institution must confirm external master’s research appointment, duration, immigration sponsorship, permitted funding sources, fees and insurance. Self-funding is not established.",
+      "Use current Lipscomb role; older CV/bio Asian affiliations and older Assistant Professor titles are not treated as current primary host appointments.",
+      "SymmGrid is a July 2026 preprint; claims concern the reported manipulation tasks and baselines, not general robot competence.",
+      "Summer 2027 availability and remote feasibility are unknown.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "scoreInterpretation": "Provisional research/evidence fit only, not acceptance probability, prestige or a confirmed summer opening.",
+    "publicEmail": "juan.rojas@lipscomb.edu"
+  }
+]

@@ -9,7 +9,7 @@
     "department": "Robotics Institute; Field Robotics Center",
     "batch": "control-032",
     "discoveredAt": "2026-10-01T01:26:03Z",
-    "verifiedAt": "2026-10-01T01:28:10Z",
+    "verifiedAt": "2026-10-01T02:26:18Z",
     "researchAreas": [
       "Robot reinforcement learning",
       "Learning and geometric control",
@@ -84,8 +84,8 @@
         "label": "www.ri.cmu.edu / source 4",
         "url": "https://www.ri.cmu.edu/robotics-groups/resilient-intelligent-systems-lab/",
         "summary": "Official university lab description names Tabib Director.",
-        "verifiedAt": "2026-10-01T01:28:10Z",
-        "retrieval": "Official indexed university text via web search"
+        "verifiedAt": "2026-10-01T02:26:18Z",
+        "retrieval": "direct-primary-page"
       },
       {
         "id": "s5",
@@ -106,7 +106,8 @@
     ],
     "unknowns": [
       "Systems Scientist is the exact official title, not a professorial rank. External visitor-host approval, eight-week project capacity, funding and appointment category remain unknown. Reuse existing CMU policy supplements; degree admissions and RISS participation do not establish this external-master's route. AcroRL uses controlled motion-capture experiments, not an unrestricted field-flight safety claim.",
-      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Later direct university lab-page check at 2026-10-01T02:26:18Z reproduced the RISLab Director attribution; no score or first-discovery change."
     ],
     "publicEmail": "wtabib@andrew.cmu.edu",
     "appointmentCategory": "Official Robotics Institute faculty category; exact Systems Scientist title retained"

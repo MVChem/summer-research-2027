@@ -63,7 +63,7 @@
 | 53 | [Josiah P. Hanna](batches/control-023.md#josiah-p-hanna) · University of Wisconsin–Madison | 80 (40/25/0/15) | unknown | 2026-10-01T00:13:43Z | 2026-10-01T00:14:45Z |
 | 54 | [Michael Everett](batches/control-025.md#michael-everett) · Northeastern University | 80 (40/25/0/15) | unknown | 2026-10-01T00:27:26Z | 2026-10-01T00:29:17Z |
 | 55 | [Karthik Desingh](batches/embodied-033.md#karthik-desingh) · University of Minnesota, Twin Cities | 80 (40/25/0/15) | unknown | 2026-10-01T01:18:38Z | 2026-10-01T01:21:16Z |
-| 56 | [Wennie Tabib](batches/control-032.md#wennie-tabib) · Carnegie Mellon University | 80 (40/25/0/15) | unknown | 2026-10-01T01:26:03Z | 2026-10-01T01:28:10Z |
+| 56 | [Wennie Tabib](batches/control-032.md#wennie-tabib) · Carnegie Mellon University | 80 (40/25/0/15) | unknown | 2026-10-01T01:26:03Z | 2026-10-01T02:26:18Z |
 | 57 | [Shaoshuai Mou](batches/control-033.md#shaoshuai-mou) · Purdue University | 80 (40/25/0/15) | unknown | 2026-10-01T01:30:28Z | 2026-10-01T01:35:28Z |
 | 58 | [Quan Nguyen](batches/control-041.md#quan-nguyen) · University of Southern California | 80 (40/25/0/15) | unknown | 2026-10-01T02:13:24Z | 2026-10-01T02:15:26Z |
 | 59 | [Sijia Liu](batches/embodied-038.md#sijia-liu) · Michigan State University | 80 (38/20/7/15) | inquiry-only | 2026-10-01T01:33:02Z | 2026-10-01T01:34:58Z |

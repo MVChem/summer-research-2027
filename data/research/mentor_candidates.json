@@ -185,6 +185,7 @@
     "batches/embodied-080.json",
     "batches/embodied-081.json",
     "batches/embodied-082.json",
+    "batches/embodied-083.json",
     "batches/embodied-084.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
@@ -9864,6 +9865,35 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-082.json",
       "detailPage": "batches/embodied-082.md#jeffrey-ian-lipton"
+    },
+    {
+      "id": "cagri-kilic",
+      "name": "Cagri Kilic",
+      "aliases": [
+        "Çağrı Kılıç"
+      ],
+      "school": "Embry-Riddle Aeronautical University, Daytona Beach",
+      "title": "Assistant Professor; SRGE Lab Director",
+      "homepage": "https://www.cagrikilic.com/",
+      "batch": "embodied-083",
+      "discoveredAt": "2026-10-01T10:36:04Z",
+      "verifiedAt": "2026-10-01T10:43:32Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Robot reinforcement learning",
+        "Legged manipulation and terrain interaction",
+        "State estimation and GNSS-denied navigation",
+        "Planetary robotics"
+      ],
+      "discoveryTimestampNote": "First precisely retained dedicated official-primary encounter; an earlier unverified name-only lead had no retained primary-source timestamp.",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-083.json",
+      "detailPage": "batches/embodied-083.md#cagri-kilic"
     },
     {
       "id": "wojciech-matusik",

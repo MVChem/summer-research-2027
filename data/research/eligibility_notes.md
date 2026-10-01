@@ -1104,3 +1104,10 @@ Part II第5页允许全额个人资金，但要求境外大学/研究机构关�
 核查2026-10-01T10:25:47Z。[IHMC自选研究实习](https://www.ihmc.us/self-directed-study-internship/)允许访研及硕士论文项目，地点Pensacola，无薪且明确3–9个月；未确认八周例外。[2025暑期软件实习](https://www.ihmc.us/summer-2025-software-engineering-internship/)曾允许研究生、全职有薪、至少9周，要求美国工作许可，已截止。2026链接现需机构登录，2027条件未知。
 
 [UWF公开说明](https://uwf.edu/student-affairs/departments/global-engagement/faculty-services/)要求部门提前至少90天申请J-1 scholar；细则Confluence需权限。[国际研究审查](https://uwf.edu/academic-affairs/departments/research-administration-engagement/research-integrity-compliance/international-collaborations-and-travel/)另适用。IHMC与UWF是不同主办主体，不能由联合任职推定签证赞助；外校硕士类别、个人资金、财力额、保险及费用均须确认。
+
+<a id="embry-riddle-daytona-beach"></a>
+## Embry-Riddle Daytona Beach · 先获导师接收，外校硕士具体类别待确认
+
+核查：2026-10-01T10:42:30Z。[现行研究访问入口](https://erau.edu/student-experience/international-programs/international-education/incoming-exchange-and-visiting-scholars)明确区分学期交换与研究实习：先取得项目导师同意，再联系 Daytona ISSS（dbiss@erau.edu）并抄送导师，获取 DS-2019 申请入口；多数实习无薪。它是办理路径，并非某位导师的名额或资助承诺。
+
+旧 J-Scholar 网页目前跳转到总览页，搜索缓存中的详细类别条件未作为现行规则采用。[当前 ISSS 页面](https://erau.edu/student-experience/international-programs/international-education/international-student-and-scholar-services)也未解决外校硕士八周访问的具体类别、个人资金能否使用、最低财力、费用和办理时长。须导师与 ISSS 个案确认；不得套用 F-1 学位生金额/时间，也不得跨用 Prescott、Worldwide 或 Asia 校区规则。2027 接收、保险和项目权限仍未知。

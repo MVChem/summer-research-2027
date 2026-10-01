@@ -1,0 +1,113 @@
+[
+  {
+    "id": "cagri-kilic",
+    "name": "Cagri Kilic",
+    "aliases": [
+      "Çağrı Kılıç"
+    ],
+    "school": "Embry-Riddle Aeronautical University, Daytona Beach",
+    "homepage": "https://www.cagrikilic.com/",
+    "title": "Assistant Professor; SRGE Lab Director",
+    "department": "Aerospace Engineering; Space Robotics and Generative Estimation Lab",
+    "batch": "embodied-083",
+    "discoveredAt": "2026-10-01T10:36:04Z",
+    "verifiedAt": "2026-10-01T10:43:32Z",
+    "researchAreas": [
+      "Robot reinforcement learning",
+      "Legged manipulation and terrain interaction",
+      "State estimation and GNSS-denied navigation",
+      "Planetary robotics"
+    ],
+    "fitReason": "Strong embodied robot-learning match: neural policy learning and sim-to-real transfer are integrated with state estimation and geometry-aware terrain interaction. Suitable CS project themes include policy robustness, efficient adaptation or contact-aware representations, subject to host agreement and an eight-week scope.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The full June 2026 pedipulation paper verifies PPO-trained navigation and leg-manipulation policies on an actual Unitree Go2 outdoors. Fourteen concrete-slope/faux-rock trials include twelve successful contacts under the paper’s force-threshold definition. Navigation uses the robot’s built-in locomotion controller; their separately trained locomotion policy is simulation-only. Manipulation emits twelve joint targets. This is current ERAU-affiliated execution, corroborated by the official local SRGE hardware laboratory.",
+      "sourceIds": [
+        "s2",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No explicit external-master or short-summer lab invitation verified. Current pages give general student/collaboration contact; the university has a professor-acceptance-to-ISSS visitor procedure, but it is not Kilic’s open placement. Visitor0.",
+      "sourceIds": [
+        "s4",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct neural robot policies and sim-to-real manipulation/navigation.",
+      "physical": "Full contemporary local-affiliated deployment, with vendor and human-confirmation limits explicit.",
+      "shortVisit": "No lab-specific outside-master short-visit invitation.",
+      "freshness": "June 2026 full robot-learning paper and current official lab."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "erau.edu / source 1",
+        "url": "https://erau.edu/faculty/Cagri.Kilic",
+        "summary": "Full current official faculty title and SRGE directorship.",
+        "verifiedAt": "2026-10-01T10:43:32Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "erau.edu / source 2",
+        "url": "https://erau.edu/research-and-innovation/labs/space-robotics-and-generative-estimation-lab",
+        "summary": "Full local laboratory,2025 establishment, platforms, Daytona department and contact.",
+        "verifiedAt": "2026-10-01T10:43:32Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "www.cagrikilic.com / source 3",
+        "url": "https://www.cagrikilic.com/",
+        "summary": "Full current host and professional email.",
+        "verifiedAt": "2026-10-01T10:43:32Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "srge-erau.github.io / source 4",
+        "url": "https://srge-erau.github.io/",
+        "summary": "Full RL/deep-perception agenda and generic student/collaboration contact, without a short-visitor offer.",
+        "verifiedAt": "2026-10-01T10:43:32Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2606.07506v1",
+        "summary": "Full June 2026 methods III-A and IV-B distinguish actual PPO execution, vendor locomotion, external inference and human safety confirmations.",
+        "verifiedAt": "2026-10-01T10:43:32Z",
+        "retrieval": "direct-primary-full-paper"
+      },
+      {
+        "id": "s6",
+        "label": "erau.edu / source 6",
+        "url": "https://erau.edu/student-experience/international-programs/international-education/incoming-exchange-and-visiting-scholars",
+        "summary": "Full live institutional invitation-first process; most internships unpaid, detailed master eligibility unresolved.",
+        "verifiedAt": "2026-10-01T10:42:30Z",
+        "retrieval": "Direct current institutional page, independently reviewed before candidate completion"
+      }
+    ],
+    "unknowns": [
+      "Official university faculty and lab pages verify current Daytona Beach Aerospace appointment and public email. The lab was established in 2025; do not mistake a new lab for a guaranteed new-faculty summer opening.",
+      "Hardware inference runs on an external Ethernet-connected computer. Human buttons confirm mode changes, arming, pushing and safety stops, although steering and task trajectories are not manually supplied. Avoid claiming onboard or completely human-free execution.",
+      "The object-perception stage uses geometric LiDAR clustering/normals and a four-waypoint spline; it is not an end-to-end VLA. Only one target object is tested. The larger225/150-trial comparisons are simulation, not additional physical trials; terrestrial tests do not demonstrate space operation.",
+      "Reuse embry-riddle-daytona-beach note: a professor must first accept the project, then Daytona ISSS supplies the DS-2019 process; most internships are unpaid. The current public route does not establish external-master category, an eight-week duration, personal-funding acceptance, support minimum, fees or timeline.",
+      "Legacy detailed J-Scholar URLs now redirect to a generic university page. Cached category/duration snippets must not be presented as current verified policy.2027 mentor capacity, supervision, robot access, remote feasibility, insurance and project restrictions remain unresolved.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: First precisely retained dedicated official-primary encounter; an earlier unverified name-only lead had no retained primary-source timestamp.",
+      "[Institutional visitor rules](../eligibility_notes.md#embry-riddle-daytona-beach)"
+    ],
+    "discoveryTimestampNote": "First precisely retained dedicated official-primary encounter; an earlier unverified name-only lead had no retained primary-source timestamp.",
+    "publicEmail": "cagri.kilic@erau.edu"
+  }
+]

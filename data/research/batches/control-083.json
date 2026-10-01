@@ -1,0 +1,122 @@
+[
+  {
+    "id": "pratik-mukherjee",
+    "name": "Pratik Mukherjee",
+    "aliases": [],
+    "school": "Florida Atlantic University",
+    "homepage": "https://mukhe027.github.io/scubalab/",
+    "title": "Assistant Professor; SCUBA Lab lead",
+    "department": "Ocean and Mechanical Engineering; SCUBA Lab, SeaTech campus",
+    "batch": "control-083",
+    "discoveredAt": "2026-10-01T07:13:57Z",
+    "verifiedAt": "2026-10-01T07:16:03Z",
+    "researchAreas": [
+      "Neural adaptive robot control",
+      "Multi-robot topology control",
+      "Learning-enabled autonomous vehicles",
+      "Collaborative aerial and marine robots"
+    ],
+    "fitReason": "First-author learned-control work on a real robotic vehicle, with an active current robotics laboratory.",
+    "physicalEvidence": {
+      "status": "Prior-host learned robot verified; current FAU learned execution not fully verified",
+      "summary": "The full 2024 Neural L1 manuscript, listed by the PI as ICRA 2025, learns uncertainty compensation for lateral control and tests a real F1TENTH with Jetson Xavier NX, ROS2 and PhaseSpace localization. Experiments track a 2.5m-radius circle at 0.5/1.0m/s with injected noise/steering disturbance and a ramp/planks. The paper explicitly locates these trials at Minnesota Robotics Institute; they are prior-host hardware, not current FAU equipment. Current FAU 2026 undergraduate proceedings separately document a supervised Husky/ZED autonomous waypoint project with OptiTrack validation, but do not establish a trained policy, so it receives no extra learned-execution credit. Physical20.",
+      "sourceIds": [
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "degree-only · 所列MS/本科入口限FAU本校",
+      "summary": "The live vacancies page limits its stated master/undergraduate interest-form route to FAU students and advertises PhD research. No separate current external-master short-visitor invitation was verified. Broad global-welcome wording does not override the category-specific local restrictions.",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantive first-author neural adaptive control and current multi-robot learning program.",
+      "physical": "Fully verified prior-host F1TENTH, capped20; current Husky work is not credited as learned control.",
+      "shortVisit": "Stated local-degree recruitment does not establish external-master visit.",
+      "freshness": "ICRA 2025 paper attribution plus explicitly dated official 2026 supervised robotics project."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.fau.edu / source 1",
+        "url": "https://www.fau.edu/engineering/directory/faculty/pmukherjee/",
+        "summary": "Current assistant professor, SeaTech/Dania Beach address and public email.",
+        "verifiedAt": "2026-10-01T07:16:03Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "mukhe027.github.io / source 2",
+        "url": "https://mukhe027.github.io/scubalab/",
+        "summary": "Current SCUBA multi-robot/control program and site.",
+        "verifiedAt": "2026-10-01T07:16:03Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "mukhe027.github.io / source 3",
+        "url": "https://mukhe027.github.io/scubalab/blog/",
+        "summary": "Explicit local FAU master/undergraduate and PhD recruitment; no distinct external-visitor route.",
+        "verifiedAt": "2026-10-01T07:16:03Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "mukhe027.github.io / source 4",
+        "url": "https://mukhe027.github.io/scubalab/research/",
+        "summary": "PI attributes Neural L1 to ICRA 2025; distinguishes current program from older papers.",
+        "verifiedAt": "2026-10-01T07:16:03Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2405.16358v1",
+        "summary": "Full first-author primary paper verifies DNN adaptive control and real F1TENTH; explicitly Minnesota location.",
+        "verifiedAt": "2026-10-01T07:16:03Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "mukhe027.github.io / source 6",
+        "url": "https://mukhe027.github.io/Neural-Adaptive-Control/",
+        "summary": "Author project page and supplementary demonstrations.",
+        "verifiedAt": "2026-10-01T07:16:03Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "www.fau.edu / source 7",
+        "url": "https://www.fau.edu/ouri/undergrad-symposium/2026-complete-program.pdf",
+        "summary": "2026 official student project names Mukherjee faculty mentor and actual Husky/ZED waypoint navigation; learned controller not specified.",
+        "verifiedAt": "2026-10-01T07:16:03Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s8",
+        "label": "www.fau.edu / source 8",
+        "url": "https://www.fau.edu/engineering/news/2505-multi-robot-coordination-grant/",
+        "summary": "2025 university grant report independently confirms PI-led current multi-robot testbed development; future scope is not completed execution.",
+        "verifiedAt": "2026-10-01T07:16:03Z",
+        "retrieval": "Direct official/primary source via web.run"
+      }
+    ],
+    "unknowns": [
+      "Reuse FAU external-master Student Intern note: home-degree purpose and written permission, personal funds possible at the current-linked $2,000/month, at least32h/week and on-site supervision, 60–90-day paperwork lead, host/chair/dean and compliance approvals. No minimum stay verified, and 2027 costs/capacity need confirmation. The lab is at SeaTech in Dania Beach, not the Boca Raton campus; exact site and project supervision need arranging. Do not transfer Minnesota platform access to FAU. Distinct from the UCSF radiology professor of the same name.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#florida-atlantic)"
+    ],
+    "publicEmail": "pmukherjee@fau.edu"
+  }
+]

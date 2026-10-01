@@ -90,6 +90,7 @@
     "batches/control-079.json",
     "batches/control-080.json",
     "batches/control-081.json",
+    "batches/control-083.json",
     "batches/control-086.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
@@ -4822,6 +4823,34 @@
       "shortVisitStatus": "inquiry-only · 2027待入职；夏季接收时间未定",
       "recordFile": "batches/control-081.json",
       "detailPage": "batches/control-081.md#carmen-amo-alonso"
+    },
+    {
+      "id": "pratik-mukherjee",
+      "name": "Pratik Mukherjee",
+      "aliases": [],
+      "school": "Florida Atlantic University",
+      "title": "Assistant Professor; SCUBA Lab lead",
+      "homepage": "https://mukhe027.github.io/scubalab/",
+      "batch": "control-083",
+      "discoveredAt": "2026-10-01T07:13:57Z",
+      "verifiedAt": "2026-10-01T07:16:03Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Neural adaptive robot control",
+        "Multi-robot topology control",
+        "Learning-enabled autonomous vehicles",
+        "Collaborative aerial and marine robots"
+      ],
+      "physicalEvidenceStatus": "Prior-host learned robot verified; current FAU learned execution not fully verified",
+      "physicalEvidenceLabel": "受限真机证据：Prior-host learned robot verified; current FAU learned execution not fully verified",
+      "shortVisitStatus": "degree-only · 所列MS/本科入口限FAU本校",
+      "recordFile": "batches/control-083.json",
+      "detailPage": "batches/control-083.md#pratik-mukherjee"
     },
     {
       "id": "h-eric-tseng",

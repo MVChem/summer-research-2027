@@ -31,6 +31,7 @@
     "batches/control-020.json",
     "batches/control-021.json",
     "batches/control-022.json",
+    "batches/control-023.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -2145,6 +2146,35 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-022.json",
       "detailPage": "batches/control-022.md#david-saldana"
+    },
+    {
+      "id": "josiah-p-hanna",
+      "name": "Josiah P. Hanna",
+      "aliases": [
+        "Josiah Hanna"
+      ],
+      "school": "University of Wisconsin–Madison",
+      "title": "Assistant Professor; Prediction and Action Lab Director",
+      "homepage": "https://pages.cs.wisc.edu/~jphanna/",
+      "batch": "control-023",
+      "discoveredAt": "2026-10-01T00:13:43Z",
+      "verifiedAt": "2026-10-01T00:14:45Z",
+      "scores": {
+        "fit": 40,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "reinforcement learning",
+        "sim-to-real transfer",
+        "dynamics-informed policy architectures",
+        "model-based learning under partial observability",
+        "robot soccer"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-023.json",
+      "detailPage": "batches/control-023.md#josiah-p-hanna"
     },
     {
       "id": "tom-silver",

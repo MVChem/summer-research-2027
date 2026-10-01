@@ -1,0 +1,125 @@
+[
+  {
+    "id": "josiah-p-hanna",
+    "name": "Josiah P. Hanna",
+    "aliases": [
+      "Josiah Hanna"
+    ],
+    "school": "University of Wisconsin–Madison",
+    "homepage": "https://pages.cs.wisc.edu/~jphanna/",
+    "title": "Assistant Professor; Prediction and Action Lab Director",
+    "department": "Computer Sciences",
+    "batch": "control-023",
+    "discoveredAt": "2026-10-01T00:13:43Z",
+    "verifiedAt": "2026-10-01T00:14:45Z",
+    "researchAreas": [
+      "reinforcement learning",
+      "sim-to-real transfer",
+      "dynamics-informed policy architectures",
+      "model-based learning under partial observability",
+      "robot soccer"
+    ],
+    "fitReason": "Strong algorithmic robot-learning fit: physical dynamics embedded in neural policy structure, data-efficient model learning and uncertain-state inference, validated on legged robots.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "March 2026 ABD-Net Sec. V-B deploys learned policies on real Unitree G1 and Go2, with onboard Jetson Orin NX inference at 50 Hz and PD control at 200 Hz; G1 walking/dancing and Go2 locomotion across several terrains. EMBRL, listed as ICRA 2026, Sec. VII-C uses a real NAOv6 to navigate around an obstacle using camera-observed field landmarks. Current PAL PhD students Sangwoo Shin and William Cong lead these respective papers. This establishes current-group involvement, without asserting exclusive ownership or laboratory location of every platform.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Homepage recruitment text addresses CS PhD admission and research by already-enrolled UW–Madison undergraduates. Current MS advisees are listed, but no external short-visit invitation or summer 2027 opening was found. The no-individual-email-replies statement appears in the prospective PhD paragraph, not as a universal visitor ban.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 40,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct RL method development and sim-to-real robot learning.",
+      "physical": "Two named current-group first authors, with full 2026 technical sources specifying real hardware and executed learned behavior.",
+      "shortVisit": "No current external visitor invitation; PhD and local undergraduate recruitment do not establish the requested route.",
+      "freshness": "March 2026 dated ABD-Net full text, 2026 EMBRL publication record and current faculty/lab pages."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.cs.wisc.edu / source 1",
+        "url": "https://www.cs.wisc.edu/staff/hanna-josiah/",
+        "summary": "Current Assistant Professor in Computer Sciences; public professional email.",
+        "verifiedAt": "2026-10-01T00:14:45Z",
+        "retrieval": "direct official HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "pages.cs.wisc.edu / source 2",
+        "url": "https://pages.cs.wisc.edu/~jphanna/",
+        "summary": "PAL leadership, RL focus, PhD/local-undergraduate recruitment and Fall 2026 teaching.",
+        "verifiedAt": "2026-10-01T00:14:45Z",
+        "retrieval": "direct official faculty HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "pages.cs.wisc.edu / source 3",
+        "url": "https://pages.cs.wisc.edu/~jphanna/group.html",
+        "summary": "Shin and Cong are current PhD students; local MS roster is not visitor recruitment.",
+        "verifiedAt": "2026-10-01T00:14:45Z",
+        "retrieval": "direct official faculty HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "pages.cs.wisc.edu / source 4",
+        "url": "https://pages.cs.wisc.edu/~jphanna/publications.html",
+        "summary": "EMBRL listed as ICRA May 2026; ABD-Net listed as forthcoming IROS. No conference date inferred from the month printed on the site.",
+        "verifiedAt": "2026-10-01T00:14:45Z",
+        "retrieval": "direct official faculty HTML via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/abs/2603.19078",
+        "summary": "ABD-Net posted March 19, revised March 20, 2026.",
+        "verifiedAt": "2026-10-01T00:14:45Z",
+        "retrieval": "direct author preprint abstract via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2603.19078v2",
+        "summary": "Section V-B specifies G1/Go2 physical deployment and onboard inference; authors include Wisconsin group and Shanghai collaborator.",
+        "verifiedAt": "2026-10-01T00:14:45Z",
+        "retrieval": "direct author preprint full HTML via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "pages.cs.wisc.edu / source 7",
+        "url": "https://pages.cs.wisc.edu/~jphanna/papers/Cong_Simultaneous_2026.pdf",
+        "summary": "Section VII-C physical NAOv6 navigation; both authors Wisconsin CS.",
+        "verifiedAt": "2026-10-01T00:14:45Z",
+        "retrieval": "direct official-hosted author PDF text via web.run"
+      }
+    ],
+    "unknowns": [
+      "External master’s visitor eligibility, eight-week supervision, funding and appointment classification need separate confirmation. Local MS supervision and PhD admission are not evidence of visiting-master’s acceptance.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "jphanna@cs.wisc.edu"
+  }
+]

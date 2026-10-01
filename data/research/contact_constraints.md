@@ -95,6 +95,12 @@
 - **仅列出六个月或更久的长期访问，短期联系优先级较低；没有核实较短例外**
 - 核查：2026-10-01T11:54:06Z · [来源1](https://ut-austin-rpl.github.io/opportunities/)
 
+### Xiaofan Yu（新增候选）
+
+- 适用范围：Outside undergraduate/MS visiting students
+- **明确最低3–6个月，且提前3–6个月申请；自费/外部支持可询问，但主办类别与批准另核；不是暑期关闭**
+- 核查：2026-10-01T12:07:29Z · [来源1](https://yuccalab.ucmerced.edu/join.html)
+
 ## 时长偏好或常态，不是硬性禁令
 
 ### Minchen Li（原名单 #28）

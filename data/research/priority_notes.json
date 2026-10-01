@@ -260,6 +260,36 @@
           "id": "h2"
         }
       ]
+    },
+    "xiaofan-yu": {
+      "appointmentStart": {
+        "year": 2025,
+        "month": 7,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "s2",
+          "s3"
+        ],
+        "evidence": "December2025 university news states that Yu started at UC Merced that summer as a tenure-track assistant professor; the official lab news dates her EE arrival to July2025.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2025-07",
+      "caveat": "外校硕士访客入口明确；最低3–6个月并提前3–6个月申请；方法/仿真备选，真机未核",
+      "sources": [
+        {
+          "id": "s2",
+          "url": "https://news.ucmerced.edu/news/2025/new-uc-merced-professor-delves-deep-artificial-intelligence-real-life",
+          "observedAt": "2026-10-01T12:07:29Z",
+          "evidence": "December 2, 2025 university news independently confirms tenure-track Assistant Professor who started that summer."
+        },
+        {
+          "id": "s3",
+          "url": "https://yuccalab.ucmerced.edu/",
+          "observedAt": "2026-10-01T12:07:29Z",
+          "evidence": "Official lab news specifies July 2025 arrival, June 2026 IROS acceptance and active agricultural robot/embedded-AI projects."
+        }
+      ]
     }
   },
   "constraints": [
@@ -711,6 +741,22 @@
         {
           "url": "https://hangkaiyu.github.io/join.html",
           "evidence": "The published local Rice-student route requires six months and one core robotics course. No external visitor applicability or external minimum is stated."
+        }
+      ]
+    },
+    {
+      "key": "xiaofan-yu-minimum-duration",
+      "candidateId": "xiaofan-yu",
+      "name": "Xiaofan Yu",
+      "kind": "minimum-duration",
+      "months": 3,
+      "scope": "Outside undergraduate/MS visiting students",
+      "summary": "明确最低3–6个月，且提前3–6个月申请；自费/外部支持可询问，但主办类别与批准另核；不是暑期关闭",
+      "observedAt": "2026-10-01T12:07:29Z",
+      "sources": [
+        {
+          "url": "https://yuccalab.ucmerced.edu/join.html",
+          "evidence": "The current Visiting Students section explicitly accepts students enrolled in outside undergraduate/MS programs from US or international institutions, with a research proposal and self/external funding, and lists UCM J1 support. It requires a minimum 3–6-month commitment and an application 3–6 months before arrival. This is a standing invitation, not a confirmed summer2027 place. The closed 2025–26 PhD recruitment cycle is a separate category and must not be described as no visitors or no summer interns."
         }
       ]
     }

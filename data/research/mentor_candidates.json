@@ -103,6 +103,7 @@
     "batches/control-092.json",
     "batches/control-093.json",
     "batches/control-095.json",
+    "batches/control-106.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -5464,6 +5465,37 @@
       "shortVisitStatus": "inquiry-only · generic intern；GMU不赞助intern身份，硕士类别未定",
       "recordFile": "batches/control-095.json",
       "detailPage": "batches/control-095.md#xuan-wang"
+    },
+    {
+      "id": "xiaofan-yu",
+      "name": "Xiaofan Yu",
+      "aliases": [
+        "于晓凡"
+      ],
+      "school": "University of California, Merced",
+      "title": "Assistant Professor (tenure-track; joined July 2025)",
+      "homepage": "https://yuccalab.ucmerced.edu/members/xiaofan/index.html",
+      "batch": "control-106",
+      "discoveredAt": "2026-10-01T11:47:43Z",
+      "verifiedAt": "2026-10-01T12:07:29Z",
+      "scores": {
+        "fit": 32,
+        "physical": 0,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Efficient learned multi-UAV tracking and planning",
+        "Federated learning for agricultural robotics",
+        "Adaptive LiDAR scene perception",
+        "Embedded multimodal AI"
+      ],
+      "candidateTier": "AI相关 · 真机待核实；方法研究备选",
+      "physicalEvidenceStatus": "simulation-only",
+      "physicalEvidenceLabel": "仅仿真；真机待核实",
+      "shortVisitStatus": "inquiry-only · 最低3–6个月；降低短期优先级",
+      "recordFile": "batches/control-106.json",
+      "detailPage": "batches/control-106.md#xiaofan-yu"
     },
     {
       "id": "tom-silver",

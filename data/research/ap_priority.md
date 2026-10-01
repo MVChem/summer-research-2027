@@ -2,7 +2,7 @@
 
 [全部候选：最新偏好排序](ranked_candidates.md) · [明确限制与暑期关闭](contact_constraints.md) · [访问问询入口](visitor_inquiries.md) · [评分说明](README.md)
 
-当前新增记录中有 **202 位**以公开准确职级列出的 AP；这里只核实了一部分入职日期，日期未知不等于资历较老。
+当前新增记录中有 **203 位**以公开准确职级列出的 AP；这里只核实了一部分入职日期，日期未知不等于资历较老。
 
 约八周是初步参考，未说明时长不会被排除。先看近期已到岗 AP，再看暑期前有明确任职日期的 AP；其他 AP 仍保留。明确至少三个月及较长访问偏好降序，硬性最短时长与偏好分开；明确不接收暑期/访客优先标记。
 
@@ -235,6 +235,12 @@
 |---|---|---|---|
 | [Dhruv Shah](batches/embodied-001.md#dhruv-shah) · Princeton University | Assistant Professor；**2026; exact month/day unconfirmed** [核查来源1](https://dhruvshah.me/docs/cv.pdf) [核查来源2](https://ece.princeton.edu/node/10221) [核查来源3](https://prism.robotics.princeton.edu/contact) [核查来源4](https://docs.google.com/forms/d/e/1FAIpQLScgkMi3nEuGibkb4uexKnXtDZT2Vmg_yoPGxEQYAZTPUshrsQ/viewform) | 85（40/20/10/15） | **通常偏好至少6个月；降为后续联系，不是硬性最低期限或暑期关闭。只读了公开首屏，后续条件未知**；inquiry-only |
 
+## 明确至少三个月；降低首联优先级（1）
+
+| 导师 / 学校 | 准确任职与入职证据 | 原分数：匹配/真机/访问/新鲜 | 访问与时点提醒 |
+|---|---|---|---|
+| [Xiaofan Yu](batches/control-106.md#xiaofan-yu) · University of California, Merced | Assistant Professor (tenure-track; joined July 2025)；**2025-07** [核查来源1](https://news.ucmerced.edu/news/2025/new-uc-merced-professor-delves-deep-artificial-intelligence-real-life) [核查来源2](https://yuccalab.ucmerced.edu/) | 55（32/0/8/15） | **明确最低3–6个月，且提前3–6个月申请；自费/外部支持可询问，但主办类别与批准另核；不是暑期关闭；仅仿真；真机待核实**；inquiry-only · 最低3–6个月；降低短期优先级 |
+
 ## 日期核查口径
 
 职级与研究来源见逐人详情；新的入职时间核查单独记录于 priority_notes.json，不把本次排序修改伪装成全套来源重查。日精度仅用于来源明确给出日的情况；新闻发布日期不自动等于入职日。
@@ -260,3 +266,5 @@
 - David M. Chan：[来源](https://iridescent.io/students/) · Full recruitment page covers degree applicants and already-UCI students, no external visitor section.（核查 2026-10-01T12:09:31Z）
 - Yaqi Xie：[来源](https://ece.illinois.edu/about/directory/adjuncts/yaqixie) · Complete official HTML shows ADJ ASST PROF and Illinois email; no start date.（核查 2026-10-01T12:09:31Z）
 - Yaqi Xie：[来源](https://yaqi-xie.me/) · Explicit incoming UIUC ECE AP/CS-affiliate announcement plus current CMU postdoctoral role; interns welcomed; no appointment start.（核查 2026-10-01T12:08:55Z）
+- Xiaofan Yu：[来源](https://news.ucmerced.edu/news/2025/new-uc-merced-professor-delves-deep-artificial-intelligence-real-life) · December 2, 2025 university news independently confirms tenure-track Assistant Professor who started that summer.（核查 2026-10-01T12:07:29Z）
+- Xiaofan Yu：[来源](https://yuccalab.ucmerced.edu/) · Official lab news specifies July 2025 arrival, June 2026 IROS acceptance and active agricultural robot/embedded-AI projects.（核查 2026-10-01T12:07:29Z）

@@ -2,11 +2,11 @@
 
 [全部候选与总分排序](ranked_candidates.md) · [原始索引](mentor_candidates.json) · [机构规则](eligibility_notes.md) · [原200位后续补充](baseline_addenda.md)
 
-从现有记录筛出 **97 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。
+从现有记录筛出 **98 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。
 
 本页按研究匹配分优先，其次真机、短访、新鲜度及发现时间；不把一般询问、学校制度或个人自费能力当成已获资格。所有人的主办类别、八周安排、2027容量、经费和设备访问都需确认。具体奖学金要求、无资助、时间不匹配、任职时点及证据限制优先看下列加粗提示，再读完整资料。
 
-## 访问/短期研究问询线索（现场安排仍须确认） · 87 条
+## 访问/短期研究问询线索（现场安排仍须确认） · 88 条
 
 | 导师 / 机构 | 匹配 / 真机 / 短访 | 已知限制与证据状态 | 直接来源 / 机构规则 | 记录核查 UTC |
 |---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Allison Okamura](batches/hri-001.md#allison-okamura) · Stanford University | 32/20/5 | **须自备支持、方向匹配及有空位；学校资金分类另批** | [s2](https://charm.stanford.edu/Main/AllisonOkamura) [s3](https://charm.stanford.edu/Main/PastLabMeetings) | 2026-09-30T21:37:40Z |
 | [Pooyan Fazli](batches/hri-005.md#pooyan-fazli) · Arizona State University | 32/18/8 | **公开问询入口；详细资格与期限未定** | [s2](https://pooyanfazli.com/) | 2026-09-30T21:58:49Z |
 | [Nadir Weibel](batches/hri-087.md#nadir-weibel) · University of California San Diego | 32/0/10 | **空间AI/人机AI备选，机器人执行未核；外校短访均志愿/自筹，需正式VGS审批；真机待核实** | [s3](https://hxi.ucsd.edu/faq/join-us/) [s8](https://www.grad.ucsd.edu/financial/non-uc-visiting-grads/index.html) [规则](eligibility_notes.md#uc-san-diego) | 2026-10-01T11:04:36Z |
+| [Xiaofan Yu](batches/control-106.md#xiaofan-yu) · University of California, Merced | 32/0/8 | **外校硕士访客入口明确；最低3–6个月并提前3–6个月申请；方法/仿真备选，真机未核；仅仿真；真机待核实** | [s4](https://yuccalab.ucmerced.edu/join.html) [s5](https://arxiv.org/html/2509.21523v1) [s6](https://arxiv.org/html/2604.12331v1) [规则](eligibility_notes.md#uc-merced) | 2026-10-01T12:07:29Z |
 | [Preeya Khanna](batches/hri-071.md#preeya-khanna) · University of California, Berkeley | 30/10/10 | **明确硕士/访客询问；真机仅2017–2021历史线索；弱/历史真机线索** | [s1](https://neuralengatberkeley.github.io/join) [规则](eligibility_notes.md#berkeley-vsr) | 2026-10-01T06:33:21Z |
 
 ## 一般 intern 入口（外校硕士适用性未明确） · 9 条

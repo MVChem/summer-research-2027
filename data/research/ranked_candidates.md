@@ -2,7 +2,7 @@
 
 [新进 AP 优先看](ap_priority.md) · [明确限制与暑期关闭](contact_constraints.md) · [字段与评分说明](README.md) · [结构化索引](mentor_candidates.json) · [机构访问规则](eligibility_notes.md)
 
-新增 **518 位**；原有 200 位保持不变。所有时间为 UTC。点击导师姓名查看完整证据、来源、评分理由和未确认事项。
+新增 **519 位**；原有 200 位保持不变。所有时间为 UTC。点击导师姓名查看完整证据、来源、评分理由和未确认事项。
 
 排序已按2026-10-01的新偏好调整：先看经核实近期入职的 AP；其他 AP、教授和明确长期条件分别排序。2024起是可调整的近两三年工作范围；约八周不再是硬筛选。各层先按研究匹配，再看真机及原总分。原总分 = 匹配40 + 真机25 + 短访20 + 新鲜度15，保留作证据对照，不是接收概率；未改原评分或发现时间。
 
@@ -526,5 +526,6 @@
 | 516 | [Ron Alterovitz](batches/embodied-005.md#ron-alterovitz) · University of North Carolina at Chapel Hill · **其他教师与研究导师** | 70 (31/24/0/15) | unknown | 2026-09-30T21:54:14Z | 2026-09-30T21:59:27Z |
 | 517 | [Dhruv Shah](batches/embodied-001.md#dhruv-shah) · Princeton University · **较长访问偏好；降低首联优先级** | 85 (40/20/10/15) | inquiry-only | 2026-09-30T21:21:32Z | 2026-10-01T12:10:06Z |
 | 518 | [Louis-Philippe Morency](batches/hri-091.md#louis-philippe-morency) · Carnegie Mellon University · **较长访问偏好；降低首联优先级** · **受限真机证据：historical-or-indirect** | 72 (37/20/0/15) | unknown · 偏好≥4月，偶尔summer例外；当前无访问资助 | 2026-10-01T11:19:19Z † | 2026-10-01T11:37:16Z |
+| 519 | [Xiaofan Yu](batches/control-106.md#xiaofan-yu) · University of California, Merced · **明确至少三个月；降低首联优先级** · **仅仿真；真机待核实** | 55 (32/0/8/15) | inquiry-only · 最低3–6个月；降低短期优先级 | 2026-10-01T11:47:43Z | 2026-10-01T12:07:29Z |
 
 † 时间口径例外：此条使用首次可精确保留的来源观察/核查记录时间，不能断言为最早遇到该线索的时刻。未重建更早时间；原值保持不变，具体限制见详情和索引的 discoveryTimestampNote。

@@ -125,6 +125,7 @@
     "batches/embodied-055.json",
     "batches/embodied-056.json",
     "batches/embodied-057.json",
+    "batches/embodied-058.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -7005,6 +7006,34 @@
       "shortVisitStatus": "inquiry-only",
       "recordFile": "batches/embodied-057.json",
       "detailPage": "batches/embodied-057.md#andrew-ilyas"
+    },
+    {
+      "id": "stephen-tu",
+      "name": "Stephen Tu",
+      "aliases": [
+        "Stephen Lyle Tu"
+      ],
+      "school": "University of Southern California",
+      "title": "Assistant Professor",
+      "homepage": "https://stephentu.github.io/",
+      "batch": "embodied-058",
+      "discoveredAt": "2026-10-01T04:32:20Z",
+      "verifiedAt": "2026-10-01T04:35:36Z",
+      "scores": {
+        "fit": 40,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Latent-action robot learning",
+        "General-purpose robotic reward models",
+        "Imitation learning and distribution shift",
+        "Learning and control for dynamical systems"
+      ],
+      "shortVisitStatus": "unknown · program-specific region and year limits",
+      "recordFile": "batches/embodied-058.json",
+      "detailPage": "batches/embodied-058.md#stephen-tu"
     },
     {
       "id": "henny-admoni",

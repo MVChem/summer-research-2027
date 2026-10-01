@@ -1,0 +1,129 @@
+[
+  {
+    "id": "stephen-tu",
+    "name": "Stephen Tu",
+    "aliases": [
+      "Stephen Lyle Tu"
+    ],
+    "school": "University of Southern California",
+    "homepage": "https://stephentu.github.io/",
+    "title": "Assistant Professor",
+    "department": "Electrical and Computer Engineering; Computer Science (courtesy)",
+    "batch": "embodied-058",
+    "discoveredAt": "2026-10-01T04:32:20Z",
+    "verifiedAt": "2026-10-01T04:35:36Z",
+    "researchAreas": [
+      "Latent-action robot learning",
+      "General-purpose robotic reward models",
+      "Imitation learning and distribution shift",
+      "Learning and control for dynamical systems"
+    ],
+    "fitReason": "Strong intersection of statistical learning, robotic policy representations and foundation-model rewards. His recent co-advised USC work offers a concrete methods-to-hardware connection for a CS-oriented research visit, particularly action-label efficiency and reliable policy improvement.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "CLAM’s full July 30, 2026 revision and all-USC author project verify actual WidowX manipulation across four tasks at 5 Hz, using continuous latent actions grounded by limited action-labeled play data. Table III uses ten trials per task with half-credit for partial completion, rather than pure binary success. Tu is explicitly an equal adviser. Separately, the May 2026 Robometer revision deploys learned rewards for policy improvement on real Franka Panda, SO-101 and bimanual platforms; its online loop still needs human physical resets. This is learned execution, distinct from recorded-trajectory reward evaluation and simulation.",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown · program-specific region and year limits",
+      "summary": "No compatible general external-master’s short-visit invitation was verified. A current USC AIF4S graduate-intern page names Tu, but expressly limits that specific opportunity to students enrolled at universities in Europe or North America; its January 30 deadline has no visible year. A separate Globalization page lists his robot-locomotion interpretation project specifically under Summer 2026. These scoped/dated listings do not establish a summer 2027 external-master’s placement.",
+      "sourceIds": [
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "scores": {
+      "fit": 40,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct latent-action, reward-model, imitation-learning and learned-control contributions.",
+      "physical": "Recent actual learned execution in a directly attributed, all-USC co-advised project; independent visitor hardware access remains unknown.",
+      "shortVisit": "Available listings are region-limited or dated Summer 2026; no matching external-master’s eight-week route verified.",
+      "freshness": "Full 2026 research revisions plus Fall 2026 teaching/current faculty record."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "viterbi.usc.edu / source 1",
+        "url": "https://viterbi.usc.edu/directory/faculty/Tu/Stephen",
+        "summary": "Full official current faculty profile: Stephen Lyle Tu, Assistant Professor, Spring 2024 start and public professional email.",
+        "verifiedAt": "2026-10-01T04:35:36Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "stephentu.github.io / source 2",
+        "url": "https://stephentu.github.io/",
+        "summary": "Full current faculty-authored page: ECE/CS role, Fall 2026 teaching, CLAM/Robometer advising and research agenda.",
+        "verifiedAt": "2026-10-01T04:35:36Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2505.04999v2",
+        "summary": "Full July 30, 2026 primary CLAM revision: actual WidowX execution, Table III partial-credit protocol, observation-only robot demonstrations and cross-embodiment limitations.",
+        "verifiedAt": "2026-10-01T04:35:36Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "clamrobot.github.io / source 4",
+        "url": "https://clamrobot.github.io/",
+        "summary": "Full author project page identifies all-USC team and equal advising by Tu/Biyik, with separate physical task demonstrations.",
+        "verifiedAt": "2026-10-01T04:35:36Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2603.02115v2",
+        "summary": "Full May 13, 2026 Robometer primary revision; policy-learning sections and Appendix E verify learned-reward physical rollouts and human resets.",
+        "verifiedAt": "2026-10-01T04:35:36Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "sites.usc.edu / source 6",
+        "url": "https://sites.usc.edu/aif4s/openings/",
+        "summary": "Full current page read in the cloud browser after text extraction failed: graduate internship is limited to universities in Europe/North America, names Tu, January 30 without a year, no eight-week or 2027 promise.",
+        "verifiedAt": "2026-10-01T04:35:36Z",
+        "retrieval": "direct-browser-primary"
+      },
+      {
+        "id": "s7",
+        "label": "viterbischool.usc.edu / source 7",
+        "url": "https://viterbischool.usc.edu/globalization/summer-research-projects/",
+        "summary": "Full official project catalogue expressly headed Summer 2026; Tu’s RL-locomotion interpretability project is within that dated scope.",
+        "verifiedAt": "2026-10-01T04:35:36Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s8",
+        "label": "viterbischool.usc.edu / source 8",
+        "url": "https://viterbischool.usc.edu/globalization/sure-international-students/",
+        "summary": "Full official Globalization overview links its summer-project catalogue and partner-program pathways; does not certify generic external-master’s 2027 access.",
+        "verifiedAt": "2026-10-01T04:35:36Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Official USC directory verifies current Assistant Professor and Spring 2024 appointment; preserve Stephen Lyle Tu as a deduplication alias. His prior Google role is historical.",
+      "CLAM uses robot demonstrations with action labels withheld, not demonstrated direct transfer from arbitrary human internet videos; human-to-robot and cross-embodiment transfer remain future work. Real task scores include partial credit. Physical evidence is a current USC co-advised collaboration, not a promise of independent equipment or visitor access.",
+      "The AIF4S geography condition applies to that named internship only; it is neither a nationality inference nor a blanket USC visitor prohibition. Its form was read without entering or submitting anything and supplied no additional year/duration clarification. The Globalization project catalogue is Summer 2026, and partner/undergraduate summer routes do not independently establish external graduate eligibility.",
+      "Reuse the saved USC institutional audit: OIS chooses scholar versus non-degree-student category according to activities. Scholar financial-document acceptance must not be confused with the separate student-category outside-funding condition. Host appointment, timing, current financial minimum, fully personal funding and applicable immigration approvals still require confirmation.",
+      "Summer 2027 acceptance, roughly eight-week duration, remote arrangement, funding, active project and supervision capacity remain unconfirmed. Co-adviser Biyik’s independently published ten-week internship expectation is not automatically a universal rule for Tu.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[USC institutional visitor rules](../eligibility_notes.md#usc)"
+    ],
+    "publicEmail": "stephen.tu@usc.edu"
+  }
+]

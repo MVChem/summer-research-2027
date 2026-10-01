@@ -245,3 +245,29 @@ Allison Okamura 的 [CHARM 个人页](https://charm.stanford.edu/Main/AllisonOka
 核查：2026-09-30T23:04:34Z。[Student Intern 资格](https://internationalservices.ncsu.edu/j-1-student-intern-program/j-1-student-intern-eligibility/) 要求国外在读、原校导师推荐、学位关联、结束后返校、每周至少 32 小时，任期为 2–12 个月。固定八周只有 56 天，不能不经 OIS 确认就称为满足两个月最低要求。[Short-Term Scholar](https://internationalservices.ncsu.edu/faculty-and-staff/hosting-exchange-visitors/j-1-categories/) 可为持相关本科学位者的 1 天至六个月访问，仍须学校根据实际活动批准，不是自动替代。
 
 [财力与资格规则](https://internationalservices.ncsu.edu/faculty-and-staff/hosting-exchange-visitors/eligibility-and-requirements/) 认可个人流动资金，当前单人每月 2,000 美元，bench fee 需额外证明。Student Intern 行政费 400 美元，可由学生或院系支付；金额并非完整旅行预算。[申请流程](https://internationalservices.ncsu.edu/j-1-student-intern-program/j-1-student-intern-application/) 要求至少提前 60 天，建议 90 天，需校内/研究审批和培训计划。无薪 Scholar 则建议提前 3–4 个月。具体日期、学位继续条件、2027 费用与实验室接收均需确认。
+
+<a id="colorado-mines"></a>
+
+## Colorado School of Mines · 外校研究生无薪访问任命
+
+核查：2026-09-30T22:45:09Z。[HR Contingent Visiting Scholar 程序](https://helpcenter.mines.edu/TDClient/2657/maps/KB/Article/146738/Contingent-Connected-Appointments-How-To-Start-a-Job-Requisition-for-a-Contingent-Connected-Worker-t) 明确包括来自其他教育机构的研究生，主办方启动无薪任命，国际访问需院系、ISSS、研究合规及工作前背景审查。[J-1 办理规则](https://global.mines.edu/international-scholar-services/application-procedures-for-j-1-exchange-visitors-and-their-host-departments/) 建议提前 4–6 个月，现列单人每月 3,000 美元最低支持额，允许合规文件证明的个人/家庭资金。八周任命、保险、费用与 2027 要求仍需 ISSS 和导师确认。
+
+## Boston University · 在读硕士的 Scholar 资格措辞
+
+核查：2026-09-30T22:52:12Z。[ISSO 类别页](https://www.bu.edu/isso/bu-admin/immigration-options/) 对 Research Scholar / Short-Term Scholar 使用已完成或正在完成美国硕士等同学位的措辞，仍须合格的 BU 研究任命。Short-Term Scholar 无最低时长、最多六个月，约提前三个月提交。页面的 Student Intern 面向国外本科生，不能用来证明硕士资格。
+
+[2026 年 9 月 1 日起资金要求](https://www.bu.edu/isso/scholars/scholar-processing-request-checklist/minimum-funding-requirements-for-j-1-scholars-employees/) 为每月 3,262 美元，个人及其他非 BU 资金可凭文件计入，实际费用可能更高。[主办文件](https://www.bu.edu/isso/bu-admin/immigration-processing-request-required-documentation/) 需导师、系主任、院长和正式任命材料；ISSO 判断学位等同及分类，不能把措辞视为个人批准或 2027 名额。
+
+## Vanderbilt · 有条件的国外学位学生 Intern
+
+核查：2026-09-30T23:14:47Z。[Student Intern](https://www.vanderbilt.edu/isss/new-students-and-scholars/j-1-interns/) 要求国外持续在读、学位关联、良好学籍及结束后返校，可有薪/无薪，至少每周 32 小时，须有财力、英语、保险及培训计划。患者接触、临床、child/elder care 等活动受限制。没有核实最低访问时长或导师空位。
+
+[主办办理页](https://www.vanderbilt.edu/isss/guidance-for-vanderbilt-administrators/) 建议提前 2–3 个月，完整材料后的 7–10 个工作日不等于全流程时间。[当前申请页](https://www.vanderbilt.edu/isss/new-students-and-scholars/scholars/j-1-exchange-visitor-vu/) 要求 PI 发起研究审查及院系提交；个人/家庭全额资助与当前金额未被确证，不采用旧索引数作为 2027 预算。Summer 2026 的十周本科项目不证明硕士适用性。
+
+<a id="usc"></a>
+
+## USC · Scholar 与 Non-Degree Student 规则区分
+
+核查：2026-09-30T23:22:24Z。[OIS 分类规则](https://ois.usc.edu/departments/selecting-j1-category/) 按访问实际活动选类别：Short-Term Scholar 要求至少本科及相关专长，研究可为 1 天至六个月，仍须学校任命与 OIS 判断。[财力页](https://ois.usc.edu/getting-started/j1-exchange-visitor-funding-requirements/) 接受个人/家长银行文件，现列 scholar 每月 2,000 美元，2027 须复核；Non-Degree Student 的超过 51% 非个人资金规则属于另一类别，不自动套用。
+
+[主办流程](https://ois.usc.edu/departments/ds2019-requests-j1-scholars/) 的详细时间线从院系提前 3–4 个月准备、完整请求至少提前两个月开始；页面个别 after/before 措辞不一致，须确认。250 美元 ISD 费经部门支付，不推定为访客收费或总预算。[中央 SURE 页面](https://viterbischool.usc.edu/sure/) 说明 Summer 2026 暂停且未公布恢复时间，资格为满足身份条件的美国院校本科生，不能当作外校硕士暑研入口。此项目暂停不代表所有 USC 访问暂停；Biyik 的至少十周期待仍是独立实验室条件，见基线补充核查。

@@ -563,22 +563,37 @@ def validate_baseline_ap_notes(notes, data):
         for caveat in r.get('timingCaveats', []):
             assert set(caveat['sourceIds']) <= ids
             assert timestamp(caveat['observedAt']) <= timestamp(r['observedAt'])
+        if r.get('appointmentObservedAt'):
+            assert timestamp(r['appointmentObservedAt']) <= timestamp(r['observedAt'])
+        if r.get('methodsEvidence'):
+            methods = r['methodsEvidence']
+            assert methods['summary'] and methods['sources']
+            assert timestamp(methods['verifiedAt']) <= timestamp(r['observedAt'])
+            for source in methods['sources']:
+                url_key(source['url']); assert source['evidence']
+                assert timestamp(source['verifiedAt']) <= timestamp(methods['verifiedAt'])
 
 
 def render_baseline_ap(notes):
     lines = ['# 原有名单中的 AP：后续核查', '', '[新增 AP 优先视图](ap_priority.md) · [全部新增候选](ranked_candidates.md) · [原200位数据](../contacts.json) · [原名单其他后续观察](baseline_addenda.md) · [明确限制](contact_constraints.md)', '',
              f"本页只整理原有200位中的 **{len(notes['candidates'])} 位**；不计入新增人数，不重评原分数、不修改原记录，也不补造发现时间。日期均为来源核查或任职起始时间。", '',
              '2024起暂列近期组，2023及更早的AP作为次级组保留；这不是排除条件或年龄判断。以下日期指已核实的当前机构任职，未自动推断首次faculty职位或接收概率。', '']
-    for recent, label in [(True, '近期到岗组（2024起）'), (False, '2023及更早 AP · 继续保留')]:
-        rows = [r for r in notes['candidates'] if (r['appointmentStart']['year'] >= 2024) == recent]
+    restrictions = priority_notes().get('constraints', [])
+    longer_ids = {x['baselineId'] for x in restrictions if 'baselineId' in x and ((x['kind'] == 'minimum-duration' and x.get('months', 0) >= 3) or (x['kind'] == 'duration-preference' and (x.get('months', 0) >= 3 or x.get('longDurationPreference'))))}
+    for group, label in [('recent', '近期到岗组（2024起）'), ('older', '2023及更早 AP · 继续保留'), ('longer', '较长访问要求或偏好 · 降低短期首联优先级')]:
+        rows = [r for r in notes['candidates'] if ('longer' if r['baselineId'] in longer_ids else ('recent' if r['appointmentStart']['year'] >= 2024 else 'older')) == group]
         if not rows: continue
         lines += ['## ' + label, '']
         for r in sorted(rows, key=lambda x: (-x['appointmentStart']['year'], x['fullName'])):
             lines += [f"<a id=\"baseline-{r['baselineId']}\"></a>", '', f"### 原ID {r['baselineId']} · {r['fullName']} · {r['institution']}", '',
-                      f"- 准确任职：{r['currentTitle']}", f"- 任职开始：**{r['display']}**", f"- **{r['practicalNote']}**", f"- 本次任职/时点观察：{r['observedAt']}；已有询问入口核查：{r['routeEvidence']['verifiedAt']}（两次核查不混同）", '- 任职来源：']
+                      f"- 准确任职：{r['currentTitle']}", f"- 任职开始：**{r['display']}**", f"- **{r['practicalNote']}**", f"- 任职/时点观察：{r.get('appointmentObservedAt', r['observedAt'])}；询问入口核查：{r['routeEvidence']['verifiedAt']}（分别保留）", '- 任职来源：']
             lines += [f"  - [来源{s['id']}]({s['url']})：{s['evidence']}（核查{s['verifiedAt']}）" for s in r['sources']]
             lines += ['- 询问入口来源：']
             lines += [f"  - [来源{i+1}]({source['url']})：{source['evidence']}" for i,source in enumerate(r['routeEvidence']['sources'])]
+            if r.get('methodsEvidence'):
+                methods = r['methodsEvidence']
+                lines += [f"- 后续方法核查（{methods['verifiedAt']}）：{methods['summary']}"]
+                lines += [f"  - [方法来源{s['id']}]({s['url']})：{s['evidence']}（核查{s['verifiedAt']}）" for s in methods['sources']]
             lines.append('')
     lines += ['所有问询仍需确认项目匹配、实际容量、具体长度、经费、现场/远程安排及大学批准；表单存在、学位选项或过往访客都不是2027接收承诺。', '']
     return '\n'.join(lines)

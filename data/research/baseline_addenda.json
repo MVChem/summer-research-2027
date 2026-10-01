@@ -485,6 +485,284 @@
           "observedAt": "2026-10-01T16:03:02Z"
         }
       ]
+    },
+    {
+      "baselineId": 1,
+      "name": "Siddharth Karamcheti",
+      "observedAt": "2026-10-01T17:41:39Z",
+      "eventType": "later-public-source-verification-not-discovery",
+      "finding": "ReSteer在真实DROID厨房平台执行pi0.5语言重定向，限单一场景；硬件未使用仿真的自细化行为克隆阶段。等同指导署名不等于独立博士生指导；总汇数值与表格平均有差异，因此不引用整体成功率。 实验与访问接收分开；此为原名单后续方法核查，不增加候选或数值分。",
+      "sources": [
+        {
+          "id": "m1",
+          "url": "https://arxiv.org/html/2603.17300v1",
+          "retrievedAt": "2026-10-01T17:41:34Z",
+          "verifiedAt": "2026-10-01T17:41:39Z",
+          "retrieval": "complete-primary-paper",
+          "evidence": "§VI-A/B, Table II and limitations establish the physical execution and restricted implementation described above; author header marks equal advising.",
+          "observedAt": "2026-10-01T17:41:39Z"
+        },
+        {
+          "id": "m2",
+          "url": "https://resteer-vla.github.io/",
+          "verifiedAt": "2026-10-01T17:41:07Z",
+          "retrieval": "complete-primary-project-page",
+          "evidence": "Georgia Tech project; equal-advising markers, hardware demonstrations and single-scene limitation.",
+          "observedAt": "2026-10-01T17:41:07Z"
+        },
+        {
+          "id": "m3",
+          "url": "https://chenzheny.github.io/",
+          "verifiedAt": "2026-10-01T17:41:34Z",
+          "retrieval": "complete-primary-page",
+          "evidence": "Current Georgia Tech Robotics PhD student working with Celine Lin and Danfei Xu.",
+          "observedAt": "2026-10-01T17:41:34Z"
+        }
+      ]
+    },
+    {
+      "baselineId": 10,
+      "name": "Unnat Jain",
+      "observedAt": "2026-10-01T17:41:27Z",
+      "eventType": "later-public-source-verification-not-discovery",
+      "finding": "TEMPO在两台YAM Ultra上执行时序VLA，当前作者与UCI指导关系可核；倾倒按珠子质量计量，主表部分任务截去了释放/回撤阶段，完整任务另报，不能当作统一端到端成功率。 实验与访问接收分开；此为原名单后续方法核查，不增加候选或数值分。",
+      "sources": [
+        {
+          "id": "m1",
+          "url": "https://arxiv.org/html/2609.16864v1",
+          "retrievedAt": "2026-10-01T17:41:22Z",
+          "verifiedAt": "2026-10-01T17:41:27Z",
+          "retrieval": "complete-primary-paper",
+          "evidence": "§§4–5 and Appendix B specify learned policy inputs, real hardware, rollout protocol and task-scoring distinctions.",
+          "observedAt": "2026-10-01T17:41:27Z"
+        },
+        {
+          "id": "m2",
+          "url": "https://defisch.github.io/",
+          "verifiedAt": "2026-10-01T17:41:27Z",
+          "retrieval": "complete-primary-page",
+          "evidence": "Current UCI PhD/adviser linkage, September 2025 start and TEMPO authorship.",
+          "observedAt": "2026-10-01T17:41:27Z"
+        },
+        {
+          "id": "m3",
+          "url": "https://unnat.github.io/index.html",
+          "verifiedAt": "2026-10-01T17:41:16Z",
+          "retrieval": "complete-primary-page",
+          "evidence": "Current faculty homepage lists the 2026 TEMPO project; official role and scoped recruitment are already sourced in baseline AP overlay 002.",
+          "observedAt": "2026-10-01T17:41:16Z"
+        }
+      ]
+    },
+    {
+      "baselineId": 12,
+      "name": "Yuchen Cui",
+      "observedAt": "2026-10-01T17:42:08Z",
+      "eventType": "later-public-source-verification-not-discovery",
+      "finding": "Visible Touch在UCLA xArm7执行触觉RGB叠加条件的pi0.5，当前作者在组；仅单臂平行夹爪，按子任务计分，充电器插入最好也仅2/30；遥操作采集与学习执行分开。 实验与访问接收分开；此为原名单后续方法核查，不增加候选或数值分。",
+      "sources": [
+        {
+          "id": "m1",
+          "url": "https://arxiv.org/html/2609.14156v1",
+          "retrievedAt": "2026-10-01T17:42:02Z",
+          "verifiedAt": "2026-10-01T17:42:08Z",
+          "retrieval": "complete-primary-paper",
+          "evidence": "§4.2, acknowledgments and Appendices E/F establish current-site learned hardware execution, control chain, demonstration/evaluation separation and restricted success metrics.",
+          "observedAt": "2026-10-01T17:42:08Z"
+        },
+        {
+          "id": "m2",
+          "url": "https://uril.cs.ucla.edu/people.html",
+          "verifiedAt": "2026-10-01T17:42:02Z",
+          "retrieval": "complete-primary-lab-page",
+          "evidence": "Current PI and author/student membership listed in the advising linkage.",
+          "observedAt": "2026-10-01T17:42:02Z"
+        },
+        {
+          "id": "m3",
+          "url": "https://uril.cs.ucla.edu/publications.html",
+          "verifiedAt": "2026-10-01T17:41:55Z",
+          "retrieval": "complete-primary-lab-page",
+          "evidence": "Current lab publication list independently includes Visible Touch and its authors; listed CoRL November 2026 is an accepted future venue, not a completed event.",
+          "observedAt": "2026-10-01T17:41:55Z"
+        }
+      ]
+    },
+    {
+      "baselineId": 9,
+      "name": "Ruohan Gao",
+      "observedAt": "2026-10-01T17:57:21Z",
+      "eventType": "later-public-source-verification-not-discovery",
+      "finding": "OmniTacTune在真实xArm7/GelSight上做残差RL；四任务属于flow策略，ACT/DP/pi0.5比较限插销。训练含人工成功标签和安全复位；当前UMD指导可核，器材地点仍是合作证据。 实验与访问接收分开；此为原名单后续方法核查，不增加候选或数值分。",
+      "sources": [
+        {
+          "id": "m1",
+          "url": "https://arxiv.org/html/2607.03723v1",
+          "retrievedAt": "2026-10-01T17:51:11Z",
+          "verifiedAt": "2026-10-01T17:51:20Z",
+          "retrieval": "complete-primary-paper",
+          "evidence": "Sections3.3–4.2 and AppendixA identify the residual learner, real apparatus, limited task/architecture comparisons, operator success reward and safety resets.",
+          "observedAt": "2026-10-01T17:51:20Z"
+        },
+        {
+          "id": "m2",
+          "url": "https://colinyu1.github.io/omnitactune-site/",
+          "retrievedAt": "2026-10-01T17:54:42Z",
+          "verifiedAt": "2026-10-01T17:57:21Z",
+          "retrieval": "complete-primary-project-page",
+          "evidence": "Explicit UMD/GeorgiaTech author superscripts resolve affiliation ambiguity in HTML conversion; demonstrations and paper link.",
+          "observedAt": "2026-10-01T17:57:21Z"
+        },
+        {
+          "id": "m3",
+          "url": "https://colinyu1.github.io/",
+          "retrievedAt": "2026-10-01T17:54:42Z",
+          "verifiedAt": "2026-10-01T17:57:21Z",
+          "retrieval": "complete-primary-page",
+          "evidence": "Current UMD PhD with Ruohan Gao; September2026 paper news and prior GeorgiaTech master history are distinct.",
+          "observedAt": "2026-10-01T17:57:21Z"
+        },
+        {
+          "id": "m4",
+          "url": "https://ruohangao.github.io/",
+          "verifiedAt": "2026-10-01T17:50:47Z",
+          "retrieval": "complete-primary-faculty-page",
+          "evidence": "Current PhD roster independently lists Kelin Yu and current publication list includes OmniTacTune.",
+          "observedAt": "2026-10-01T17:50:47Z"
+        }
+      ]
+    },
+    {
+      "baselineId": 9,
+      "name": "Ruohan Gao",
+      "observedAt": "2026-10-01T17:52:48Z",
+      "eventType": "later-public-source-verification-not-discovery",
+      "finding": "A distinct live section explicitly accepts visiting-student/intern inquiries from other institutions, including summer inquiries. However, it generally considers only students able to commit at least six months of research. The complete linked form accepts arbitrary institution/program, availability and weekly hours. This is a genuine outside-master inquiry route with a substantial duration mismatch for a roughly eight-week visit, not an unqualified short-summer opportunity. The page itself mentions summer internships and short-term visits but follows them with the six-month condition. Preserve both rather than silently erase the limiting sentence. The form asks for availability and possible financial support; neither field establishes funding, a visa promise, remote permission or summer2027 capacity. Current-program field is free text; Master’s program also appears under post-graduation plans, which must not be misrepresented as a current-degree selector.",
+      "sources": [
+        {
+          "id": "r1",
+          "url": "https://ruohangao.github.io/prospective_students/",
+          "verifiedAt": "2026-10-01T17:50:58Z",
+          "retrieval": "complete-primary-page",
+          "evidence": "Complete separate external visitor/intern section and six-month condition; cloud-browser corroboration17:51:55Z.",
+          "observedAt": "2026-10-01T17:50:58Z"
+        },
+        {
+          "id": "r2",
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSdLaJ3yBWQGZ0h1vWVXDDhl-NE42vPTxgtrIHxLjHiLrqv7sQ/viewform",
+          "verifiedAt": "2026-10-01T17:52:48Z",
+          "retrieval": "complete-live-cloud-browser-form",
+          "evidence": "Full single-page blank form reached by clicking the actual external-section link at17:52:11Z. Institution/program, availability, hours, research and financial-support discussion; no input or uploads.",
+          "observedAt": "2026-10-01T17:52:48Z"
+        },
+        {
+          "id": "r3",
+          "url": "https://www.cs.umd.edu/people/rhgao",
+          "verifiedAt": "2026-10-01T17:51:20Z",
+          "retrieval": "complete-primary-page",
+          "evidence": "Current official Assistant Professor and linked lab identity.",
+          "observedAt": "2026-10-01T17:51:20Z"
+        }
+      ]
+    },
+    {
+      "baselineId": 15,
+      "name": "Kianté Brantley",
+      "observedAt": "2026-10-01T17:51:20Z",
+      "eventType": "later-public-source-verification-not-discovery",
+      "finding": "The form directly linked from the current faculty homepage is broader than the homepage’s PhD/postdoc prose. Its opportunity selector explicitly includes Master, Spring/Summer/Fall Internship and Visiting Student at Harvard. It requests current institution and degree/expected graduation as free text, and relevant courses at Harvard or elsewhere. This supports external-master visitor/intern inquiries, without proving acceptance or a 2027 place. Master is an opportunity option, not a current-degree eligibility rule; external-master applicability follows from the independent visitor/intern choices and unrestricted institution/degree fields. No specific2027 capacity, minimum duration, funding, remote mode or visa commitment is stated. Undergraduate named programs in the same selector are separate routes and not master’s eligibility proof.",
+      "sources": [
+        {
+          "id": "r1",
+          "url": "https://xkianteb.github.io/",
+          "verifiedAt": "2026-10-01T17:50:58Z",
+          "retrieval": "complete-primary-page",
+          "evidence": "Current faculty homepage links the same form from PhD and postdoc recruitment; current Harvard role and research agenda.",
+          "observedAt": "2026-10-01T17:50:58Z"
+        },
+        {
+          "id": "r2",
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSdX811yBXNkicBBaEk_ynRoxYMumwUNZYHNUrcPofxei8IwKg/viewform?ouid=104478079955166015408&usp=sharing",
+          "verifiedAt": "2026-10-01T17:51:20Z",
+          "retrieval": "complete-primary-form",
+          "evidence": "Full one-page primary form extracted through web tool, including all opportunity options and free-text current institution/degree. No browser fallback or input needed.",
+          "observedAt": "2026-10-01T17:51:20Z"
+        },
+        {
+          "id": "r3",
+          "url": "https://seas.harvard.edu/person/kiante-brantley",
+          "verifiedAt": "2026-10-01T17:50:47Z",
+          "retrieval": "complete-primary-page",
+          "evidence": "Current official Assistant Professor of Computer Science and public professional contact.",
+          "observedAt": "2026-10-01T17:50:47Z"
+        }
+      ]
+    },
+    {
+      "baselineId": 11,
+      "name": "Xianyi Cheng",
+      "observedAt": "2026-10-01T17:52:48Z",
+      "eventType": "later-public-source-verification-not-discovery",
+      "finding": "The complete live DexLab research-interest form expressly allows a No answer to current Duke affiliation and gives an outside-university master’s example for current affiliation. Graduate Research Assistant is a named opportunity alongside PhD, undergraduate RA and postdoc. This verifies a general outside-graduate research inquiry, but no distinct visiting-student or summer-intern category, dates or external research appointment is stated. Do not turn a Graduate Research Assistant interest option into an assured short-term outside-master appointment, funding offer or summer internship. The homepage requests the form plus a brief email; this is a public contact workflow, not outreach already performed.",
+      "sources": [
+        {
+          "id": "r1",
+          "url": "https://xianyicheng.github.io/",
+          "verifiedAt": "2026-10-01T17:50:58Z",
+          "retrieval": "complete-primary-page",
+          "evidence": "Official-linked author homepage: current Duke faculty and lab leadership; joining workflow links form and requests brief email.",
+          "observedAt": "2026-10-01T17:50:58Z"
+        },
+        {
+          "id": "r2",
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSfmU-x5SVO0ZXGAPf-RvCQjqtXe_Ot0PlkvrjJuQ5f9OIJVrw/viewform",
+          "verifiedAt": "2026-10-01T17:52:48Z",
+          "retrieval": "complete-live-cloud-browser-form",
+          "evidence": "Full blank form opened through the homepage’s actual short link at17:52:11Z. Duke-affiliation yes/no, current-affiliation master example and Graduate Research Assistant option; no named visitor/intern option. No fields changed.",
+          "observedAt": "2026-10-01T17:52:48Z"
+        },
+        {
+          "id": "r3",
+          "url": "https://scholars.duke.edu/person/xianyi.cheng",
+          "verifiedAt": "2026-10-01T17:50:47Z",
+          "retrieval": "complete-primary-page",
+          "evidence": "Official current MEMS Assistant Professor since2024; links the same personal and lab pages.",
+          "observedAt": "2026-10-01T17:50:47Z"
+        }
+      ]
+    },
+    {
+      "baselineId": 32,
+      "name": "Amy Zhang",
+      "observedAt": "2026-10-01T17:59:01Z",
+      "eventType": "later-public-source-verification-not-discovery",
+      "finding": "Current personal homepage explicitly says no students for Fall2027. This is a dated-season intake restriction, with student category unspecified in the sentence. It is not an explicit no-summer2027 or permanent no-visitors statement. The separately checked MIDI page gives a research agenda but no external visitor exception. Keep this visible as a capacity caution rather than recommending around it. The statement does not identify a reason; none is inferred. Short-summer applicability and any distinct visitor exception remain unverified. Do not convert Fall2027 into a blanket2027 visitor ban or assume an exception. Current official faculty listing remains; this is not evidence of leave or departure.",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://amyzhang.github.io/",
+          "verifiedAt": "2026-10-01T17:58:33Z",
+          "retrieval": "complete-primary-page",
+          "evidence": "Current first-person UT Austin AP and exact Fall27 no-students sentence.",
+          "observedAt": "2026-10-01T17:58:33Z"
+        },
+        {
+          "id": "s2",
+          "url": "https://ece.utexas.edu/people/faculty/amy-zhang",
+          "verifiedAt": "2026-10-01T17:59:01Z",
+          "retrieval": "complete-primary-page",
+          "evidence": "Current official Assistant Professor; Spring2023 start, Texas Robotics affiliation and prior research/postdoctoral roles.",
+          "observedAt": "2026-10-01T17:59:01Z"
+        },
+        {
+          "id": "s3",
+          "url": "https://midi-lab.github.io/",
+          "verifiedAt": "2026-10-01T17:58:40Z",
+          "retrieval": "complete-primary-page",
+          "evidence": "Current lab and robot-learning/RL agenda; no separate external visitor invitation in returned content.",
+          "observedAt": "2026-10-01T17:58:40Z"
+        }
+      ]
     }
   ]
 }

@@ -154,6 +154,12 @@
 - **通常至少1学期或4个月；短访例外未核，降低首联优先级；表单remote与常规现场会议需个别协调**
 - 核查：2026-10-01T15:45:46Z · [来源1](https://jason718.github.io/rair-lab/)
 
+### Ruohan Gao（原名单 #9）
+
+- 适用范围：Outside visiting students/interns; qualified by generally
+- **虽提summer/短访，但通常只考虑至少6个月研究；短期例外未核，明显降低优先级。表单财力/时间问题不是接收承诺**
+- 核查：2026-10-01T17:50:58Z · [来源1](https://ruohangao.github.io/prospective_students/)
+
 ## 时长偏好或常态，不是硬性禁令
 
 ### Minchen Li（原名单 #28）
@@ -321,4 +327,10 @@
 - 适用范围：Only advertised current-Tufts RF/RI roles; summer restriction is RF-specific
 - **两类均须Tufts在读；志愿Research Affiliate无暑期，付费/学分Research Intern明确可暑期。不是全部暑期intern禁招，也未建立外校硕士入口**
 - 核查：2026-10-01T17:42:42Z · [来源1](https://bpb-us-e1.wpmucdn.com/sites.tufts.edu/dist/e/8346/files/2026/04/SPARC_Lab_RF___RI_Opportunities_updated_4_13.pdf)
+
+### Amy Zhang（原名单 #32）
+
+- 适用范围：Fall2027 student intake; exact student category unspecified
+- **本人明确Fall2027不接收学生；不推断原因，不扩为Summer2027/永久访客禁令，也不假定短期访客例外**
+- 核查：2026-10-01T17:58:33Z · [来源1](https://amyzhang.github.io/)
 

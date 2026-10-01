@@ -253,6 +253,571 @@
       ],
       "display": "2023（CMU官方）；9月（本人）",
       "practicalNote": "独立访客邮件入口；超过6个月的规定只针对国际访问本科生，不能套给硕士。研究生时长、项目、资金和OIE批准待核"
+    },
+    {
+      "baselineId": 1,
+      "fullName": "Siddharth Karamcheti",
+      "institution": "Georgia Institute of Technology",
+      "currentTitle": "Assistant Professor, School of Interactive Computing",
+      "observedAt": "2026-10-01T17:41:39Z",
+      "appointmentStart": {
+        "year": 2026,
+        "month": 8,
+        "precision": "month",
+        "status": "current",
+        "appointmentType": "first-faculty-as-listed-in-CV",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ],
+        "evidence": "The current first-person homepage reports the actual Georgia Tech start in August 2026; the official directory confirms the present appointment. The complete author CV lists Georgia Tech as the first faculty appointment, after Stanford doctoral work and industry research. August is first-person provenance, while the official directory independently verifies the current role."
+      },
+      "routeEvidence": {
+        "verifiedAt": "2026-10-01T17:34:59Z",
+        "finding": "The homepage research-interest form is explicitly for current Georgia Tech students. The CV’s earlier summer visitors were prior Stanford-era undergraduate programs, not a current Georgia Tech outside-master offer.",
+        "caveats": "Outside-master visiting eligibility, 2027 capacity, duration, funding and remote arrangements remain unknown. Concurrent work as Autonomy Research Lead at Walden Robotics is disclosed by the homepage/CV; no university leave or unavailable summer is inferred.",
+        "sourceIds": [
+          "s1",
+          "s3"
+        ],
+        "sources": [
+          {
+            "id": "s1",
+            "url": "https://www.siddkaramcheti.com/",
+            "verifiedAt": "2026-10-01T17:34:03Z",
+            "retrieval": "direct-primary-page",
+            "evidence": "Current appointment; August 2026 actual-start news; current-Georgia-Tech-students form scope; concurrent Walden Robotics role."
+          },
+          {
+            "id": "s3",
+            "url": "https://www.siddkaramcheti.com/assets/cv/CV.pdf",
+            "verifiedAt": "2026-10-01T17:34:59Z",
+            "retrieval": "direct-primary-full-PDF",
+            "evidence": "Complete eight-page author CV: Georgia Tech faculty from 2026, prior education/industry, current advising and earlier Stanford-era summer mentorship."
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.siddkaramcheti.com/",
+          "verifiedAt": "2026-10-01T17:34:03Z",
+          "retrieval": "direct-primary-page",
+          "evidence": "Current appointment; August 2026 actual-start news; current-Georgia-Tech-students form scope; concurrent Walden Robotics role."
+        },
+        {
+          "id": "s2",
+          "url": "https://ic.gatech.edu/people/siddharth-karamcheti",
+          "verifiedAt": "2026-10-01T17:34:59Z",
+          "retrieval": "direct-primary-page",
+          "evidence": "Current official Assistant Professor of Interactive Computing; Stanford PhD 2025."
+        },
+        {
+          "id": "s3",
+          "url": "https://www.siddkaramcheti.com/assets/cv/CV.pdf",
+          "verifiedAt": "2026-10-01T17:34:59Z",
+          "retrieval": "direct-primary-full-PDF",
+          "evidence": "Complete eight-page author CV: Georgia Tech faculty from 2026, prior education/industry, current advising and earlier Stanford-era summer mentorship."
+        }
+      ],
+      "appointmentObservedAt": "2026-10-01T17:34:59Z",
+      "display": "2026-08（本人实际到岗；官方现任）",
+      "practicalNote": "现有表单限GT在读；ReSteer为到岗前合作DROID真机，当前独立设备/外校主办未知",
+      "methodsEvidence": {
+        "summary": "ReSteer在真实DROID厨房平台执行pi0.5语言重定向，限单一场景；硬件未使用仿真的自细化行为克隆阶段。等同指导署名不等于独立博士生指导；总汇数值与表格平均有差异，因此不引用整体成功率。",
+        "verifiedAt": "2026-10-01T17:41:39Z",
+        "sources": [
+          {
+            "id": "m1",
+            "url": "https://arxiv.org/html/2603.17300v1",
+            "retrievedAt": "2026-10-01T17:41:34Z",
+            "verifiedAt": "2026-10-01T17:41:39Z",
+            "retrieval": "complete-primary-paper",
+            "evidence": "§VI-A/B, Table II and limitations establish the physical execution and restricted implementation described above; author header marks equal advising."
+          },
+          {
+            "id": "m2",
+            "url": "https://resteer-vla.github.io/",
+            "verifiedAt": "2026-10-01T17:41:07Z",
+            "retrieval": "complete-primary-project-page",
+            "evidence": "Georgia Tech project; equal-advising markers, hardware demonstrations and single-scene limitation."
+          },
+          {
+            "id": "m3",
+            "url": "https://chenzheny.github.io/",
+            "verifiedAt": "2026-10-01T17:41:34Z",
+            "retrieval": "complete-primary-page",
+            "evidence": "Current Georgia Tech Robotics PhD student working with Celine Lin and Danfei Xu."
+          }
+        ]
+      }
+    },
+    {
+      "baselineId": 10,
+      "fullName": "Unnat Jain",
+      "institution": "University of California, Irvine",
+      "currentTitle": "Assistant Professor of Computer Science",
+      "observedAt": "2026-10-01T17:41:27Z",
+      "appointmentStart": {
+        "year": 2025,
+        "precision": "year",
+        "status": "current",
+        "appointmentType": "first-faculty-as-listed-in-CV",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ],
+        "evidence": "The current author CV dates the UCI Assistant Professor role to 2025–present and lists preceding Skild AI/Meta research and CMU visiting postdoctoral roles rather than a previous faculty appointment. Official UCI verifies the present title. Homepage October 2025 first-quarter news is not an exact employment-start month; a June 2024 acceptance was followed by a one-year deferral."
+      },
+      "routeEvidence": {
+        "verifiedAt": "2026-10-01T17:35:11Z",
+        "finding": "Current official recruitment is for PhD degree applicants and current UCI students, including a UCI-transcript request. No distinct outside-master visitor invitation was verified.",
+        "caveats": "Local research and PhD intake do not establish an external summer appointment. Duration, funding, remote mode and summer 2027 hosting remain unknown. The old homepage December 15, 2025 degree deadline is not a new 2027 visitor call.",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "sources": [
+          {
+            "id": "s1",
+            "url": "https://unnat.github.io/index.html",
+            "verifiedAt": "2026-10-01T17:34:27Z",
+            "retrieval": "direct-primary-page",
+            "evidence": "Current UCI title, 2025 start timeline and first-quarter news; earlier accepted-position/deferral history."
+          },
+          {
+            "id": "s2",
+            "url": "https://ics.uci.edu/people/unnat-jain/",
+            "verifiedAt": "2026-10-01T17:35:11Z",
+            "retrieval": "direct-primary-page",
+            "evidence": "Official current Assistant Professor and scoped recruitment for degree applicants/current UCI students."
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://unnat.github.io/index.html",
+          "verifiedAt": "2026-10-01T17:34:27Z",
+          "retrieval": "direct-primary-page",
+          "evidence": "Current UCI title, 2025 start timeline and first-quarter news; earlier accepted-position/deferral history."
+        },
+        {
+          "id": "s2",
+          "url": "https://ics.uci.edu/people/unnat-jain/",
+          "verifiedAt": "2026-10-01T17:35:11Z",
+          "retrieval": "direct-primary-page",
+          "evidence": "Official current Assistant Professor and scoped recruitment for degree applicants/current UCI students."
+        },
+        {
+          "id": "s3",
+          "url": "https://unnat.github.io/resume.pdf",
+          "verifiedAt": "2026-10-01T17:35:11Z",
+          "retrieval": "direct-primary-full-PDF",
+          "evidence": "Complete five-page author CV: UCI Assistant Professor 2025–present, preceding industry and postdoctoral roles."
+        }
+      ],
+      "appointmentObservedAt": "2026-10-01T17:35:11Z",
+      "display": "2025（本人CV；官方现任）",
+      "practicalNote": "当前UCI/PhD招聘，外校访客未知；TEMPO有当前指导的双YAM真机",
+      "methodsEvidence": {
+        "summary": "TEMPO在两台YAM Ultra上执行时序VLA，当前作者与UCI指导关系可核；倾倒按珠子质量计量，主表部分任务截去了释放/回撤阶段，完整任务另报，不能当作统一端到端成功率。",
+        "verifiedAt": "2026-10-01T17:41:27Z",
+        "sources": [
+          {
+            "id": "m1",
+            "url": "https://arxiv.org/html/2609.16864v1",
+            "retrievedAt": "2026-10-01T17:41:22Z",
+            "verifiedAt": "2026-10-01T17:41:27Z",
+            "retrieval": "complete-primary-paper",
+            "evidence": "§§4–5 and Appendix B specify learned policy inputs, real hardware, rollout protocol and task-scoring distinctions."
+          },
+          {
+            "id": "m2",
+            "url": "https://defisch.github.io/",
+            "verifiedAt": "2026-10-01T17:41:27Z",
+            "retrieval": "complete-primary-page",
+            "evidence": "Current UCI PhD/adviser linkage, September 2025 start and TEMPO authorship."
+          },
+          {
+            "id": "m3",
+            "url": "https://unnat.github.io/index.html",
+            "verifiedAt": "2026-10-01T17:41:16Z",
+            "retrieval": "complete-primary-page",
+            "evidence": "Current faculty homepage lists the 2026 TEMPO project; official role and scoped recruitment are already sourced in baseline AP overlay 002."
+          }
+        ]
+      }
+    },
+    {
+      "baselineId": 12,
+      "fullName": "Yuchen Cui",
+      "institution": "University of California, Los Angeles",
+      "currentTitle": "Assistant Professor of Computer Science",
+      "observedAt": "2026-10-01T17:42:08Z",
+      "appointmentStart": {
+        "year": 2024,
+        "month": 7,
+        "day": 1,
+        "precision": "day",
+        "status": "current",
+        "appointmentType": "first-faculty-as-listed-in-CV",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "evidence": "The official UCLA engineering new-faculty directory explicitly dates the appointment to July 1, 2024. The complete author CV agrees at month precision and lists preceding Stanford postdoctoral service through June 2024, establishing this as the first listed faculty appointment."
+      },
+      "routeEvidence": {
+        "verifiedAt": "2026-10-01T17:34:03Z",
+        "finding": "The prospective-students page states that master’s students must first be admitted to UCLA. Its separate summer research-intern section is expressly for undergraduates; the local undergraduate form is another distinct route.",
+        "caveats": "The undergraduate summer invitation is not an external-master offer. No universal visitor ban is stated. An outside-master research appointment, 2027 dates, funding, duration and remote mode remain unknown.",
+        "sourceIds": [
+          "s3"
+        ],
+        "sources": [
+          {
+            "id": "s3",
+            "url": "https://yuchencui.cc/prospective_students.html",
+            "verifiedAt": "2026-10-01T17:34:03Z",
+            "retrieval": "direct-primary-page",
+            "evidence": "Distinct degree, already-admitted UCLA master’s, local-undergraduate and Summer Undergraduate Research Intern sections; March 1 deadline belongs to the undergraduate internship section."
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.samueli.ucla.edu/new-faculty-2023-2026/",
+          "verifiedAt": "2026-10-01T17:35:27Z",
+          "retrieval": "direct-primary-page",
+          "evidence": "Official entry: Computer Science Assistant Professor; joined July 1, 2024; preceding Stanford postdoc."
+        },
+        {
+          "id": "s2",
+          "url": "https://yuchencui.cc/CV.pdf",
+          "verifiedAt": "2026-10-01T17:35:35Z",
+          "retrieval": "direct-primary-full-PDF",
+          "evidence": "Complete six-page author CV: UCLA July 2024–present, Stanford postdoc January 2022–June 2024, earlier doctoral training."
+        },
+        {
+          "id": "s3",
+          "url": "https://yuchencui.cc/prospective_students.html",
+          "verifiedAt": "2026-10-01T17:34:03Z",
+          "retrieval": "direct-primary-page",
+          "evidence": "Distinct degree, already-admitted UCLA master’s, local-undergraduate and Summer Undergraduate Research Intern sections; March 1 deadline belongs to the undergraduate internship section."
+        }
+      ],
+      "appointmentObservedAt": "2026-10-01T17:35:35Z",
+      "display": "2024-07-01（官方）",
+      "practicalNote": "MS须先获UCLA录取；独立暑研仅本科，外校硕士访客未知；Visible Touch是真机研究",
+      "methodsEvidence": {
+        "summary": "Visible Touch在UCLA xArm7执行触觉RGB叠加条件的pi0.5，当前作者在组；仅单臂平行夹爪，按子任务计分，充电器插入最好也仅2/30；遥操作采集与学习执行分开。",
+        "verifiedAt": "2026-10-01T17:42:08Z",
+        "sources": [
+          {
+            "id": "m1",
+            "url": "https://arxiv.org/html/2609.14156v1",
+            "retrievedAt": "2026-10-01T17:42:02Z",
+            "verifiedAt": "2026-10-01T17:42:08Z",
+            "retrieval": "complete-primary-paper",
+            "evidence": "§4.2, acknowledgments and Appendices E/F establish current-site learned hardware execution, control chain, demonstration/evaluation separation and restricted success metrics."
+          },
+          {
+            "id": "m2",
+            "url": "https://uril.cs.ucla.edu/people.html",
+            "verifiedAt": "2026-10-01T17:42:02Z",
+            "retrieval": "complete-primary-lab-page",
+            "evidence": "Current PI and author/student membership listed in the advising linkage."
+          },
+          {
+            "id": "m3",
+            "url": "https://uril.cs.ucla.edu/publications.html",
+            "verifiedAt": "2026-10-01T17:41:55Z",
+            "retrieval": "complete-primary-lab-page",
+            "evidence": "Current lab publication list independently includes Visible Touch and its authors; listed CoRL November 2026 is an accepted future venue, not a completed event."
+          }
+        ]
+      }
+    },
+    {
+      "baselineId": 9,
+      "fullName": "Ruohan Gao",
+      "institution": "University of Maryland, College Park",
+      "currentTitle": "Assistant Professor of Computer Science",
+      "observedAt": "2026-10-01T17:57:21Z",
+      "routeEvidence": {
+        "addendumId": "embodied-baseline-caveat-024",
+        "verifiedAt": "2026-10-01T17:52:48Z",
+        "finding": "A distinct live section explicitly accepts visiting-student/intern inquiries from other institutions, including summer inquiries. However, it generally considers only students able to commit at least six months of research. The complete linked form accepts arbitrary institution/program, availability and weekly hours. This is a genuine outside-master inquiry route with a substantial duration mismatch for a roughly eight-week visit, not an unqualified short-summer opportunity.",
+        "caveats": [
+          "The page itself mentions summer internships and short-term visits but follows them with the six-month condition. Preserve both rather than silently erase the limiting sentence.",
+          "The form asks for availability and possible financial support; neither field establishes funding, a visa promise, remote permission or summer2027 capacity.",
+          "Current-program field is free text; Master’s program also appears under post-graduation plans, which must not be misrepresented as a current-degree selector.",
+          "No original row, score or discovery date changes. Existing UMD institutional feasibility is reused."
+        ],
+        "sources": [
+          {
+            "id": "r1",
+            "url": "https://ruohangao.github.io/prospective_students/",
+            "verifiedAt": "2026-10-01T17:50:58Z",
+            "retrieval": "complete-primary-page",
+            "evidence": "Complete separate external visitor/intern section and six-month condition; cloud-browser corroboration17:51:55Z."
+          },
+          {
+            "id": "r2",
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSdLaJ3yBWQGZ0h1vWVXDDhl-NE42vPTxgtrIHxLjHiLrqv7sQ/viewform",
+            "verifiedAt": "2026-10-01T17:52:48Z",
+            "retrieval": "complete-live-cloud-browser-form",
+            "evidence": "Full single-page blank form reached by clicking the actual external-section link at17:52:11Z. Institution/program, availability, hours, research and financial-support discussion; no input or uploads."
+          },
+          {
+            "id": "r3",
+            "url": "https://www.cs.umd.edu/people/rhgao",
+            "verifiedAt": "2026-10-01T17:51:20Z",
+            "retrieval": "complete-primary-page",
+            "evidence": "Current official Assistant Professor and linked lab identity."
+          }
+        ]
+      },
+      "appointmentStart": {
+        "year": 2025,
+        "month": 1,
+        "precision": "month",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "h1",
+          "h2",
+          "h3"
+        ],
+        "evidence": "Official2024 hiring announcement gives January2025, and the current complete author CV confirms the actual January2025 start. Earlier UMD Adjunct Assistant Professor service ran February–December2024. This is a same-institution adjunct-to-primary transition, not an institution move or unqualified first-ever faculty service."
+      },
+      "priorFacultyAppointment": {
+        "title": "Adjunct Assistant Professor",
+        "institution": "University of Maryland, College Park",
+        "startYear": 2024,
+        "startMonth": 2,
+        "endYear": 2024,
+        "endMonth": 12,
+        "sourceIds": [
+          "h2"
+        ]
+      },
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://www.cs.umd.edu/node/25648",
+          "verifiedAt": "2026-10-01T17:54:06Z",
+          "retrieval": "complete-primary-page",
+          "evidence": "Official hiring cohort explicitly announces January2025 Assistant Professor start."
+        },
+        {
+          "id": "h2",
+          "url": "https://ruohangao.github.io/assets/Ruohan_Gao_CV.pdf",
+          "verifiedAt": "2026-10-01T17:54:06Z",
+          "retrieval": "complete-primary-PDF",
+          "evidence": "Complete nine-page author CV confirms actual January2025 AP and February–December2024 adjunct appointment; prior Meta/Stanford roles."
+        },
+        {
+          "id": "h3",
+          "url": "https://www.cs.umd.edu/people/rhgao",
+          "verifiedAt": "2026-10-01T17:51:20Z",
+          "retrieval": "complete-primary-page",
+          "evidence": "Current official Assistant Professor and matching homepage/contact."
+        }
+      ],
+      "appointmentObservedAt": "2026-10-01T17:54:06Z",
+      "display": "2025-01（官方/CV；此前UMD adjunct）",
+      "practicalNote": "明确外校访客，但一般至少6个月，短期优先级明显降低；不是绝对无例外禁令",
+      "methodsEvidence": {
+        "summary": "OmniTacTune在真实xArm7/GelSight上做残差RL；四任务属于flow策略，ACT/DP/pi0.5比较限插销。训练含人工成功标签和安全复位；当前UMD指导可核，器材地点仍是合作证据。",
+        "verifiedAt": "2026-10-01T17:57:21Z",
+        "sources": [
+          {
+            "id": "m1",
+            "url": "https://arxiv.org/html/2607.03723v1",
+            "retrievedAt": "2026-10-01T17:51:11Z",
+            "verifiedAt": "2026-10-01T17:51:20Z",
+            "retrieval": "complete-primary-paper",
+            "evidence": "Sections3.3–4.2 and AppendixA identify the residual learner, real apparatus, limited task/architecture comparisons, operator success reward and safety resets."
+          },
+          {
+            "id": "m2",
+            "url": "https://colinyu1.github.io/omnitactune-site/",
+            "retrievedAt": "2026-10-01T17:54:42Z",
+            "verifiedAt": "2026-10-01T17:57:21Z",
+            "retrieval": "complete-primary-project-page",
+            "evidence": "Explicit UMD/GeorgiaTech author superscripts resolve affiliation ambiguity in HTML conversion; demonstrations and paper link."
+          },
+          {
+            "id": "m3",
+            "url": "https://colinyu1.github.io/",
+            "retrievedAt": "2026-10-01T17:54:42Z",
+            "verifiedAt": "2026-10-01T17:57:21Z",
+            "retrieval": "complete-primary-page",
+            "evidence": "Current UMD PhD with Ruohan Gao; September2026 paper news and prior GeorgiaTech master history are distinct."
+          },
+          {
+            "id": "m4",
+            "url": "https://ruohangao.github.io/",
+            "verifiedAt": "2026-10-01T17:50:47Z",
+            "retrieval": "complete-primary-faculty-page",
+            "evidence": "Current PhD roster independently lists Kelin Yu and current publication list includes OmniTacTune."
+          }
+        ]
+      }
+    },
+    {
+      "baselineId": 15,
+      "fullName": "Kianté Brantley",
+      "institution": "Harvard University",
+      "currentTitle": "Assistant Professor of Computer Science",
+      "observedAt": "2026-10-01T17:54:06Z",
+      "routeEvidence": {
+        "addendumId": "embodied-baseline-caveat-024",
+        "verifiedAt": "2026-10-01T17:51:20Z",
+        "finding": "The form directly linked from the current faculty homepage is broader than the homepage’s PhD/postdoc prose. Its opportunity selector explicitly includes Master, Spring/Summer/Fall Internship and Visiting Student at Harvard. It requests current institution and degree/expected graduation as free text, and relevant courses at Harvard or elsewhere. This supports external-master visitor/intern inquiries, without proving acceptance or a 2027 place.",
+        "caveats": [
+          "Master is an opportunity option, not a current-degree eligibility rule; external-master applicability follows from the independent visitor/intern choices and unrestricted institution/degree fields.",
+          "No specific2027 capacity, minimum duration, funding, remote mode or visa commitment is stated. Undergraduate named programs in the same selector are separate routes and not master’s eligibility proof.",
+          "No physical-robot claim or numeric score is introduced. Research remains the baseline RL/imitation/foundation-model direction. Harvard appointment feasibility still requires host/institution confirmation."
+        ],
+        "sources": [
+          {
+            "id": "r1",
+            "url": "https://xkianteb.github.io/",
+            "verifiedAt": "2026-10-01T17:50:58Z",
+            "retrieval": "complete-primary-page",
+            "evidence": "Current faculty homepage links the same form from PhD and postdoc recruitment; current Harvard role and research agenda."
+          },
+          {
+            "id": "r2",
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSdX811yBXNkicBBaEk_ynRoxYMumwUNZYHNUrcPofxei8IwKg/viewform?ouid=104478079955166015408&usp=sharing",
+            "verifiedAt": "2026-10-01T17:51:20Z",
+            "retrieval": "complete-primary-form",
+            "evidence": "Full one-page primary form extracted through web tool, including all opportunity options and free-text current institution/degree. No browser fallback or input needed."
+          },
+          {
+            "id": "r3",
+            "url": "https://seas.harvard.edu/person/kiante-brantley",
+            "verifiedAt": "2026-10-01T17:50:47Z",
+            "retrieval": "complete-primary-page",
+            "evidence": "Current official Assistant Professor of Computer Science and public professional contact."
+          }
+        ]
+      },
+      "appointmentStart": {
+        "year": 2024,
+        "month": 7,
+        "precision": "month",
+        "status": "current",
+        "appointmentType": "first-faculty-as-listed-in-CV",
+        "sourceIds": [
+          "h1",
+          "h2",
+          "h3"
+        ],
+        "evidence": "Official Kempner announcement explicitly gives July2024 and describes preceding Cornell postdoctoral service. Complete author CV lists Harvard as first faculty appointment, following research/postdoctoral and industry roles. Current SEAS directory verifies present title."
+      },
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://kempnerinstitute.harvard.edu/news/kiante-brantley-yilun-du-and-michael-albergo-to-join-the-kempner-as-institute-investigators/",
+          "verifiedAt": "2026-10-01T17:54:06Z",
+          "retrieval": "complete-primary-page",
+          "evidence": "Official July2024 start; appointment announcement and prior Cornell postdoctoral role."
+        },
+        {
+          "id": "h2",
+          "url": "https://xkianteb.github.io/assets/pdf/kiante_brantley.pdf",
+          "verifiedAt": "2026-10-01T17:54:06Z",
+          "retrieval": "complete-primary-PDF",
+          "evidence": "Complete six-page author CV, last updatedOctober2025: Harvard AP2024–present; prior Cornell postdoc2022–2024; no earlier faculty job."
+        },
+        {
+          "id": "h3",
+          "url": "https://seas.harvard.edu/person/kiante-brantley",
+          "verifiedAt": "2026-10-01T17:50:47Z",
+          "retrieval": "complete-primary-page",
+          "evidence": "Current official Assistant Professor of Computer Science."
+        }
+      ],
+      "appointmentObservedAt": "2026-10-01T17:54:06Z",
+      "display": "2024-07（官方/CV）",
+      "practicalNote": "当前表单有Master、季节intern和Harvard Visiting Student，外校可询问；无2027/期限/资金承诺"
+    },
+    {
+      "baselineId": 11,
+      "fullName": "Xianyi Cheng",
+      "institution": "Duke University",
+      "currentTitle": "Assistant Professor in the Thomas Lord Department of Mechanical Engineering and Materials Science",
+      "observedAt": "2026-10-01T17:52:48Z",
+      "routeEvidence": {
+        "addendumId": "embodied-baseline-caveat-024",
+        "verifiedAt": "2026-10-01T17:52:48Z",
+        "finding": "The complete live DexLab research-interest form expressly allows a No answer to current Duke affiliation and gives an outside-university master’s example for current affiliation. Graduate Research Assistant is a named opportunity alongside PhD, undergraduate RA and postdoc. This verifies a general outside-graduate research inquiry, but no distinct visiting-student or summer-intern category, dates or external research appointment is stated.",
+        "caveats": [
+          "Do not turn a Graduate Research Assistant interest option into an assured short-term outside-master appointment, funding offer or summer internship.",
+          "The homepage requests the form plus a brief email; this is a public contact workflow, not outreach already performed.",
+          "Duration, funding, remote mode and2027 capacity remain unknown. No original baseline row or score changed; no private account information retained."
+        ],
+        "sources": [
+          {
+            "id": "r1",
+            "url": "https://xianyicheng.github.io/",
+            "verifiedAt": "2026-10-01T17:50:58Z",
+            "retrieval": "complete-primary-page",
+            "evidence": "Official-linked author homepage: current Duke faculty and lab leadership; joining workflow links form and requests brief email."
+          },
+          {
+            "id": "r2",
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSfmU-x5SVO0ZXGAPf-RvCQjqtXe_Ot0PlkvrjJuQ5f9OIJVrw/viewform",
+            "verifiedAt": "2026-10-01T17:52:48Z",
+            "retrieval": "complete-live-cloud-browser-form",
+            "evidence": "Full blank form opened through the homepage’s actual short link at17:52:11Z. Duke-affiliation yes/no, current-affiliation master example and Graduate Research Assistant option; no named visitor/intern option. No fields changed."
+          },
+          {
+            "id": "r3",
+            "url": "https://scholars.duke.edu/person/xianyi.cheng",
+            "verifiedAt": "2026-10-01T17:50:47Z",
+            "retrieval": "complete-primary-page",
+            "evidence": "Official current MEMS Assistant Professor since2024; links the same personal and lab pages."
+          }
+        ]
+      },
+      "appointmentStart": {
+        "year": 2024,
+        "precision": "year",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "Official Duke academic-experience record dates the Assistant Professor appointment to2024–present. Exact month/day and first-ever faculty status are not explicitly established. The personal page’s August2024 date is a PhD completion date, not an employment-start date."
+      },
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://scholars.duke.edu/person/xianyi.cheng",
+          "verifiedAt": "2026-10-01T17:50:47Z",
+          "retrieval": "complete-primary-page",
+          "evidence": "Official current MEMS Assistant Professor, current appointments since2024."
+        },
+        {
+          "id": "h2",
+          "url": "https://xianyicheng.github.io/",
+          "verifiedAt": "2026-10-01T17:50:58Z",
+          "retrieval": "complete-primary-page",
+          "evidence": "Current Duke Assistant Professor and DexLab lead; August2024 explicitly dates CMU PhD completion only."
+        }
+      ],
+      "appointmentObservedAt": "2026-10-01T17:50:58Z",
+      "display": "2024（官方；月份未定）",
+      "practicalNote": "外校硕士例子/Graduate RA可询问，但无独立visitor/intern类别；不算已确认短访入口"
     }
   ]
 }

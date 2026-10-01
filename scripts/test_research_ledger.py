@@ -409,7 +409,20 @@ class ResearchLedgerTests(unittest.TestCase):
         text = ledger.render_baseline_ap(notes)
         self.assertIn('2023及更早 AP', text)
         self.assertIn('不计入新增人数', text)
-        self.assertEqual({r['baselineId'] for r in notes['candidates']}, {6, 8, 25, 148})
+        self.assertEqual({r['baselineId'] for r in notes['candidates']}, {1, 6, 8, 9, 10, 11, 12, 15, 25, 148})
+
+    def test_baseline_longer_route_is_separate_from_recent_hires(self):
+        notes = json.loads((ledger.LEDGER.parent / 'baseline_ap_notes.json').read_text())
+        text = ledger.render_baseline_ap(notes)
+        self.assertLess(text.index('较长访问要求或偏好'), text.index('### 原ID 9 ·'))
+        self.assertIn('一般至少6个月', text)
+
+    def test_baseline_methods_keep_separate_observation_times(self):
+        notes = json.loads((ledger.LEDGER.parent / 'baseline_ap_notes.json').read_text())
+        row = next(r for r in notes['candidates'] if r['baselineId'] == 1)
+        self.assertLess(row['appointmentObservedAt'], row['methodsEvidence']['verifiedAt'])
+        row['methodsEvidence']['sources'][0]['verifiedAt'] = '2099-01-01T00:00:00Z'
+        with self.assertRaises(AssertionError): ledger.validate_baseline_ap_notes(notes, self.full)
 
     def test_baseline_ap_view_rejects_discovery_backfill(self):
         notes = json.loads((ledger.LEDGER.parent / 'baseline_ap_notes.json').read_text())

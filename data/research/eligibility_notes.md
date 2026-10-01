@@ -189,3 +189,35 @@ Allison Okamura 的 [CHARM 个人页](https://charm.stanford.edu/Main/AllisonOka
 核查：2026-09-30T22:31:42Z。[UMD Intern 资格](https://marylandglobal.umd.edu/global-learning-all/international-students-scholars/departments/j-1-interns/j-1-intern-eligibility) 包括外校研究生，要求原学位关联、学校证明、3 周至十二个月、每周至少 32 小时，并须在完成原学位至少 30 天前结束。现列每月 2,600 美元支持额并允许个人资金；这是财力门槛，2027 金额、分类及主办条件仍须确认。
 
 [Michael Otte 的实验室规则](https://ottelab.com/html_stuff/policies.html) 更严格：外部学生访客即使能自付所有费用，也须获得外部 scholarship / award，并应先询问容量。学校接受个人财力材料不覆盖这一实验室要求，获奖也不保证邀请。
+
+<a id="indiana"></a>
+
+## Indiana · Student Intern 与 Scholar 资金条款分开确认
+
+核查：2026-09-30T22:34:57Z。[IU Student Intern](https://ois.iu.edu/scholars/j-1-student-intern/index.html) 面向国外全时在读学生，需良好学籍、英语、原学位目标、培训计划、保险及结束后返校；每周至少 32 小时、最多十二个月，院系应至少提前三个月办理。页面列单人每月 1,200 美元支持额，应重查 2027 现行数及实际生活费用。
+
+[一般 J-1 分类页](https://www.ois.iu.edu/scholars/j-1-scholar-visas/categories.html) 明确认可 Research Scholar / Professor 的个人或外部资金，但不能仅凭这一条确认在读硕士 Student Intern 的全额个人资金或任命类别。国际办公室须评估具体身份；导师访客询问页面不等于八周或 2027 接收承诺。
+
+<a id="pittsburgh"></a>
+
+## Pittsburgh · 学位关联实习与非临床研究范围
+
+核查：2026-09-30T22:58:28Z。[Pitt J-1 Intern](https://www.ois.pitt.edu/j-1-interns) 可考虑国外学位学生的学位关联培训，要求良好学籍、英语和财力、返回原校、导师计划及每周至少 32 小时；可有薪/无薪，主办方至少提前 45 天开始处理。该类别排除患者接触、临床工作和 elder care，机器人项目须由 OIS 确认具体任务，不能从研究主题推定患者工作许可。
+
+[2026 年 7 月官方 sponsorship PDF](https://www.ois.pitt.edu/sites/default/files/docs/Sponsoring%20Foreign%20Nationals%20for%20Employment%20at%20Pitt.pdf) 接受 J-1 个人资金，并列至少本科学位的 Short-Term Scholar 最长六个月；现行部门处理费普通 scholar 375 美元、intern 400 美元。完整材料至少提前 45 天不保证签证时间。当前生活财力最低额未验证，不以 FY2025 旧表充作 2027 报价。研究视频、模拟厨房或 mannequin 测试不等于临床部署。
+
+<a id="ut-dallas"></a>
+
+## UT Dallas · Intern 与 Scholar 的自费证据不同
+
+核查：2026-09-30T22:57:39Z。[Student Intern](https://isso.utdallas.edu/employment-and-internships/j-intern/) 包括持续在海外攻读学位者，须学位关联、结束后返校，任期 3 周至十二个月、每周至少 32 小时；页面要求财力与保险，但未明确确认完全个人资金或 intern 月最低额。
+
+另一个 [Scholar 说明](https://isso.utdallas.edu/employment-and-internships/j1-visitors/) 要求至少本科学位，Short-Term Scholar 最多六个月，明确个人资金及每月 2,000 美元支持额。该条不能自动转移到 Intern。[研究访问政策](https://research.utdallas.edu/security-ethics/research-security/hosting-visitors) 包括外校学生，要求正式 offer 前审批、明确资源和指导、抵达前签订 Visiting Scholar Agreement。[收费目录](https://ezpay.utdallas.edu/C20239_ustores/web/product_detail.jsp?PRODUCTID=1790) 列 200 美元 intern 费，具体适用性及付款方待确认。具体身份、2027 金额与导师容量均需核实。
+
+<a id="caltech"></a>
+
+## Caltech · 外校研究生 VSR
+
+核查：2026-09-30T23:05:49Z。[2026–27 catalog](https://www.catalog.caltech.edu/current/information-for-graduate-students/graduate-policies-and-procedures/visiting-student-appointments/) 于 2026 年 9 月 17 日发布，允许持本科学位且外校研究生在读者由导师 sponsor，VSR 为一个月至一年、不得续期，不获 Caltech 学分或 payroll stipend。[Graduate Office](https://gradoffice.caltech.edu/academics/otherprograms/visiting-student-researcher-vsr) 允许研究费用报销，但排除住宿、餐食等生活费用，并要求保险。Special Student 是另一种注册/学分类别，不能混用规则。
+
+[一般 J-1 scholar 说明](https://international.caltech.edu/maintainstatus/j1h1) 允许个人自费，但本轮未确证每个研究生 VSR 对应的国际身份；不能据此保证全额自费获批。[研究审查](https://researchpolicy.caltech.edu/research-security/international_collaboration) 须在任命前完成，完整申请细则的链接需登录，本轮未读取。学校文件处理阶段不等于总体提前期，具体八周接收、财力最低额、保险和费用待相关办公室确认。

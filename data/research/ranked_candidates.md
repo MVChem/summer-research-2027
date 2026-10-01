@@ -162,7 +162,7 @@
 | 152 | [Yi Guo](batches/control-015.md#yi-guo) · Stevens Institute of Technology | 76 (37/25/0/14) | unknown | 2026-09-30T23:19:58Z | 2026-09-30T23:27:35Z |
 | 153 | [Bilge Mutlu](batches/hri-001.md#bilge-mutlu) · University of Wisconsin–Madison | 76 (37/24/0/15) | unknown | 2026-09-30T21:22:12Z | 2026-09-30T21:27:42Z |
 | 154 | [Rahul Mangharam](batches/control-003.md#rahul-mangharam) · University of Pennsylvania | 76 (37/24/0/15) | unknown | 2026-09-30T21:34:55Z | 2026-09-30T21:38:05Z |
-| 155 | [Sebastian Scherer](batches/embodied-008.md#sebastian-scherer) · Carnegie Mellon University | 76 (37/24/0/15) | unknown | 2026-09-30T22:19:00Z | 2026-09-30T22:25:24Z |
+| 155 | [Sebastian Scherer](batches/embodied-008.md#sebastian-scherer) · Carnegie Mellon University | 76 (37/24/0/15) | unknown | 2026-09-30T22:19:00Z | 2026-10-01T01:25:21Z |
 | 156 | [Patrick Slade](batches/hri-008.md#patrick-slade) · Harvard University | 76 (37/24/0/15) | unknown | 2026-09-30T22:22:12Z | 2026-09-30T22:26:44Z |
 | 157 | [Alex Wong](batches/embodied-006.md#alex-wong) · Yale University | 76 (37/20/5/14) | indexed-inquiry-unconfirmed · Yale VAR条件 | 2026-09-30T22:00:12Z | 2026-09-30T22:06:50Z |
 | 158 | [Yifan Zhu](batches/embodied-006.md#yifan-zhu) · University of Illinois Chicago | 76 (37/20/9/10) | inquiry-only | 2026-09-30T22:00:12Z | 2026-09-30T22:47:41Z |

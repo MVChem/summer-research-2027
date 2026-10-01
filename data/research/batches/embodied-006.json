@@ -340,9 +340,21 @@
       "Live lab homepage/contact fetches failed repeatedly. The available indexed pages were crawled about 1.1years earlier; invitation must be reconfirmed live before using. Contact wording also refers prospective students to degree admissions, leaving visitor appointment details unresolved.",
       "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
       "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
-      "Yale VAR 的硕士论文与 J-1 外部资金条件需核实；不可假设仅个人自费可行。[机构说明](../eligibility_notes.md#yale-var)"
+      "Yale VAR 的硕士论文与 J-1 外部资金条件需核实；不可假设仅个人自费可行。[机构说明](../eligibility_notes.md#yale-var)",
+      "Live verification attempt at 2026-10-01T01:52:19Z again failed: the contact page returned HTTP 502 with a certificate issuer-validation error. No warning was bypassed. This records a failed check, not a newly verified invitation; indexed-only status and the prior successful verifiedAt are retained."
     ],
-    "publicEmail": "alex.wong@yale.edu"
+    "publicEmail": "alex.wong@yale.edu",
+    "verificationAttempts": [
+      {
+        "attemptedAt": "2026-10-01T01:52:19Z",
+        "sourceIds": [
+          "s2",
+          "s3"
+        ],
+        "outcome": "live-retrieval-failed; indexed invitation remains unconfirmed",
+        "scoreChanged": false
+      }
+    ]
   },
   {
     "id": "georgios-pavlakos",

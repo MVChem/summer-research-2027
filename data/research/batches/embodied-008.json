@@ -626,7 +626,7 @@
     "department": "Robotics Institute, School of Computer Science",
     "batch": "embodied-008",
     "discoveredAt": "2026-09-30T22:19:00Z",
-    "verifiedAt": "2026-09-30T22:25:24Z",
+    "verifiedAt": "2026-10-01T01:25:21Z",
     "researchAreas": [
       "Embodied semantic navigation",
       "Vision-language reasoning",
@@ -677,8 +677,8 @@
         "label": "www.ri.cmu.edu / source 1",
         "url": "https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/",
         "summary": "Official current research professor appointment and explicit email.",
-        "verifiedAt": "2026-09-30T22:25:24Z",
-        "retrieval": "indexed-primary-excerpt"
+        "verifiedAt": "2026-10-01T01:25:21Z",
+        "retrieval": "direct-primary-page"
       },
       {
         "id": "s2",
@@ -693,7 +693,7 @@
         "label": "theairlab.org / source 3",
         "url": "https://theairlab.org/openings/",
         "summary": "Directly read recruitment categories; no explicit external short visitor route.",
-        "verifiedAt": "2026-09-30T22:25:24Z",
+        "verifiedAt": "2026-10-01T01:25:21Z",
         "retrieval": "direct-primary-page"
       },
       {
@@ -724,7 +724,8 @@
     "unknowns": [
       "Use research professor from the current official RI profile; the lab contact page retains older associate-research wording. Do not call AM-Bench a hardware demonstration or claim full onboard VLM reasoning in RAVEN field trials.",
       "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
-      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Later source check on 2026-10-01T01:25:21Z directly reproduced the RI Research Professor title/contact and the unchanged AirLab recruitment scope; scores and original discovery time are unchanged."
     ],
     "publicEmail": "basti@andrew.cmu.edu"
   }

@@ -65,6 +65,7 @@
     "batches/control-054.json",
     "batches/control-055.json",
     "batches/control-056.json",
+    "batches/control-057.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -3448,6 +3449,36 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-056.json",
       "detailPage": "batches/control-056.md#pingping-zhu"
+    },
+    {
+      "id": "christian-hubicki",
+      "name": "Christian Hubicki",
+      "aliases": [
+        "Christian Michael Hubicki",
+        "Christian M. Hubicki"
+      ],
+      "school": "Florida State University; FAMU-FSU College of Engineering",
+      "title": "Associate Professor; Director, Optimal Robotics Laboratory",
+      "homepage": "https://www.optimalroboticslab.com/",
+      "batch": "control-057",
+      "discoveredAt": "2026-10-01T03:30:54Z",
+      "verifiedAt": "2026-10-01T04:33:10Z",
+      "scores": {
+        "fit": 35,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Online dynamics learning",
+        "Parameter-regression MPC",
+        "Adaptive robotic control",
+        "Legged locomotion",
+        "Risk-aware planning"
+      ],
+      "shortVisitStatus": "unknown · FSU extended screening timeline",
+      "recordFile": "batches/control-057.json",
+      "detailPage": "batches/control-057.md#christian-hubicki"
     },
     {
       "id": "tom-silver",

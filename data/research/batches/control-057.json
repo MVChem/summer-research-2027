@@ -1,0 +1,108 @@
+[
+  {
+    "id": "christian-hubicki",
+    "name": "Christian Hubicki",
+    "aliases": [
+      "Christian Michael Hubicki",
+      "Christian M. Hubicki"
+    ],
+    "school": "Florida State University; FAMU-FSU College of Engineering",
+    "homepage": "https://www.optimalroboticslab.com/",
+    "title": "Associate Professor; Director, Optimal Robotics Laboratory",
+    "department": "Mechanical and Aerospace Engineering",
+    "batch": "control-057",
+    "discoveredAt": "2026-10-01T03:30:54Z",
+    "verifiedAt": "2026-10-01T04:33:10Z",
+    "researchAreas": [
+      "Online dynamics learning",
+      "Parameter-regression MPC",
+      "Adaptive robotic control",
+      "Legged locomotion",
+      "Risk-aware planning"
+    ],
+    "fitReason": "Physical learning/control fit centered on online regression of dynamics and optimization-based robot behavior. Less foundation-model or deep-policy emphasis than many robot-learning groups.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "CASE2025 PaReMPC directly runs online least-squares parameter learning in the MPC loop on a loaded brushless motor and a UR5e balancing a ping-pong ball on an attached wooden board. Camera/color detection measures ball state and RTDE commands the arm. The scenario-tree ST-PaReMPC extension is numerically tested only; higher-DOF Unitree Go2 deployment is future work. This is genuine data-driven model adaptation, not a neural or RL controller, and the paper reports failures for some system dynamics.",
+      "sourceIds": [
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown · FSU extended screening timeline",
+      "summary": "Live lab page says it accepts college interns and motivated graduate researchers, with graduate RA/undergraduate intern/high-school/other inquiry categories. The surrounding examples emphasize FAMU/FSU students and local interns; external-master’s short-visit eligibility or summer 2027 timing is not explicitly established.",
+      "sourceIds": [
+        "s4",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 35,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct online model regression integrated with MPC on robots; mostly control/model learning rather than generalist learned policies.",
+      "physical": "Named local UR5e and motor experiments with explicit closed-loop online regression.",
+      "shortVisit": "College-intern invitation does not specifically establish external-master’s short route; restrictive institutional timing remains.",
+      "freshness": "May 2026 official lab-director profile and April 2026 technical workshop activity; hardware paper is explicitly 2025."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "eng.famu.fsu.edu / source 1",
+        "url": "https://eng.famu.fsu.edu/mae/people/hubicki",
+        "summary": "Current official Associate Professor and public institutional email.",
+        "verifiedAt": "2026-10-01T04:33:10Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "eng.famu.fsu.edu / source 2",
+        "url": "https://eng.famu.fsu.edu/node/16774",
+        "summary": "May 1, 2026 institutional report explicitly identifies MAE Associate Professor and current ORL director.",
+        "verifiedAt": "2026-10-01T03:34:08Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "eng.famu.fsu.edu / source 3",
+        "url": "https://eng.famu.fsu.edu/data-enabled-computational-engineering-and-applied-quantum-computing-initiative",
+        "summary": "April 17, 2026 automatic-differentiation/JAX technical workshop by Hubicki confirms current academic activity, not new robot execution.",
+        "verifiedAt": "2026-10-01T03:34:08Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "www.optimalroboticslab.com / source 4",
+        "url": "https://www.optimalroboticslab.com/about",
+        "summary": "Broad college-intern and graduate-researcher inquiry wording; external master’s short-visitor eligibility not explicit.",
+        "verifiedAt": "2026-10-01T04:33:10Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "www.optimalroboticslab.com / source 5",
+        "url": "https://www.optimalroboticslab.com/s/CASE2025_Annem_STPaReMPC.pdf",
+        "summary": "Full2025 primary paper: online least-squares PaReMPC on loaded motor and UR5e ball balancing; scenario-tree method and Go2 must not be represented as demonstrated hardware.",
+        "verifiedAt": "2026-10-01T04:33:10Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "cge.fsu.edu / source 6",
+        "url": "https://cge.fsu.edu/j-1-scholars/visiting-scholars",
+        "summary": "Current institutional warning on extended preparation and screening. No personal classification inferred.",
+        "verifiedAt": "2026-10-01T03:34:08Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      }
+    ],
+    "unknowns": [
+      "Current official department confirms Associate Professor, overriding older AME Assistant pages. FSU’s current visiting-scholar page warns of 9–12 months from RAMP completion to arrival and excludes applicants it deems foreign principals under its stated rules. No individual eligibility determination is made. FSU and FAMU administrative sponsorship must not be conflated. See the separate FSU feasibility supplement; generic college-intern intake does not bypass approval.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Florida State institutional visitor rules](../eligibility_notes.md#florida-state)"
+    ],
+    "publicEmail": "hubicki@eng.famu.fsu.edu"
+  }
+]

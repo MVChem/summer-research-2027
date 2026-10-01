@@ -74,8 +74,8 @@
 | 导师 / 学校 | 准确任职与入职证据 | 原分数：匹配/真机/访问/新鲜 | 访问与时点提醒 |
 |---|---|---|---|
 | [Wanxin Jin](batches/control-005.md#wanxin-jin) · Arizona State University | Assistant Professor；**任职起始时间尚未单独核实**  | 90（40/25/10/15） | **时长、2027容量、经费与主办批准另核**；inquiry-only |
+| [Kuan Fang](batches/embodied-023.md#kuan-fang) · Cornell University | Assistant Professor；**任职起始时间尚未单独核实**  | 90（40/25/10/15） | **时长、2027容量、经费与主办批准另核**；inquiry-only |
 | [Yue Wang](batches/embodied-001.md#yue-wang) · University of Southern California | Assistant Professor；**任职起始时间尚未单独核实**  | 88（40/25/8/15） | **时长、2027容量、经费与主办批准另核**；inquiry-only |
-| [Kuan Fang](batches/embodied-023.md#kuan-fang) · Cornell University | Assistant Professor；**任职起始时间尚未单独核实**  | 88（40/25/8/15） | **时长、2027容量、经费与主办批准另核**；inquiry-only |
 | [Jaime Fernández Fisac](batches/control-001.md#jaime-fernandez-fisac) · Princeton University | Assistant Professor；**任职起始时间尚未单独核实**  | 80（40/25/0/15） | **时长、2027容量、经费与主办批准另核**；precedent-only |
 | [Wenzhen Yuan](batches/embodied-004.md#wenzhen-yuan) · University of Illinois Urbana-Champaign | Assistant Professor；**任职起始时间尚未单独核实**  | 80（40/25/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |
 | [Ismini Lourentzou](batches/embodied-004.md#ismini-lourentzou) · University of Illinois Urbana-Champaign | Assistant Professor；**任职起始时间尚未单独核实**  | 80（40/25/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |
@@ -147,9 +147,9 @@
 | [Ranjay Krishna](batches/embodied-003.md#ranjay-krishna) · University of Washington | Assistant Professor；**任职起始时间尚未单独核实**  | 73（39/20/0/14） | **时长、2027容量、经费与主办批准另核**；unknown |
 | [Lu Gan](batches/control-006.md#lu-gan) · Georgia Institute of Technology | Assistant Professor；**任职起始时间尚未单独核实**  | 69（39/20/0/10） | **时长、2027容量、经费与主办批准另核**；unknown |
 | [Michelle Zhao](batches/hri-062.md#michelle-zhao) · Indiana University Bloomington | Assistant Professor of Computer Science；**任职起始时间尚未单独核实**  | 69（39/20/0/10） | **时长、2027容量、经费与主办批准另核**；degree-only · current IU students |
+| [Junyi Geng](batches/embodied-051.md#junyi-geng) · The Pennsylvania State University | Assistant Professor；**任职起始时间尚未单独核实**  | 88（38/25/10/15） | **时长、2027容量、经费与主办批准另核**；inquiry-only |
 | [Jiachen Li](batches/embodied-006.md#jiachen-li) · Georgia Institute of Technology | Assistant Professor; Coca-Cola Foundation Early Career Professor；**任职起始时间尚未单独核实**  | 86（38/25/8/15） | **时长、2027容量、经费与主办批准另核**；inquiry-only |
 | [Zezhou Cheng](batches/embodied-019.md#zezhou-cheng) · University of Virginia | Assistant Professor；**任职起始时间尚未单独核实**  | 86（38/25/8/15） | **时长、2027容量、经费与主办批准另核**；inquiry-only |
-| [Junyi Geng](batches/embodied-051.md#junyi-geng) · The Pennsylvania State University | Assistant Professor；**任职起始时间尚未单独核实**  | 86（38/25/8/15） | **时长、2027容量、经费与主办批准另核**；inquiry-only |
 | [Yu She](batches/embodied-002.md#yu-she) · Purdue University | Assistant Professor；**任职起始时间尚未单独核实**  | 84（38/25/7/14） | **时长、2027容量、经费与主办批准另核**；inquiry-only |
 | [Mark Draelos](batches/hri-008.md#mark-draelos) · University of Michigan | Assistant Professor；**任职起始时间尚未单独核实**  | 78（38/25/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |
 | [Peng Gao](batches/embodied-031.md#peng-gao) · North Carolina State University | Assistant Professor；**任职起始时间尚未单独核实**  | 78（38/25/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |

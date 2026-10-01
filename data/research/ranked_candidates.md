@@ -55,8 +55,8 @@
 | 45 | [Chenfeng Xu](batches/embodied-003.md#chenfeng-xu) · The University of Texas at Austin · **拟到岗/职级时点待核 AP** | 73 (39/20/0/14) | unknown | 2026-09-30T21:37:18Z | 2026-09-30T21:42:30Z |
 | 46 | [Karthik Mahadevan](batches/hri-003.md#karthik-mahadevan) · Massachusetts Institute of Technology (current postdoc); University of Texas at Austin (incoming Spring 2027) · **拟到岗/职级时点待核 AP** | 73 (38/20/0/15) | unknown | 2026-09-30T21:36:36Z | 2026-09-30T21:42:22Z |
 | 47 | [Wanxin Jin](batches/control-005.md#wanxin-jin) · Arizona State University · **其他 AP；较早任职、转校或入职年待核** | 90 (40/25/10/15) | inquiry-only | 2026-09-30T22:00:21Z | 2026-09-30T22:01:01Z |
-| 48 | [Yue Wang](batches/embodied-001.md#yue-wang) · University of Southern California · **其他 AP；较早任职、转校或入职年待核** | 88 (40/25/8/15) | inquiry-only | 2026-09-30T21:22:22Z | 2026-09-30T21:28:42Z |
-| 49 | [Kuan Fang](batches/embodied-023.md#kuan-fang) · Cornell University · **其他 AP；较早任职、转校或入职年待核** | 88 (40/25/8/15) | inquiry-only | 2026-09-30T23:58:43Z | 2026-10-01T00:03:16Z |
+| 48 | [Kuan Fang](batches/embodied-023.md#kuan-fang) · Cornell University · **其他 AP；较早任职、转校或入职年待核** | 90 (40/25/10/15) | inquiry-only | 2026-09-30T23:58:43Z | 2026-10-01T13:56:35Z |
+| 49 | [Yue Wang](batches/embodied-001.md#yue-wang) · University of Southern California · **其他 AP；较早任职、转校或入职年待核** | 88 (40/25/8/15) | inquiry-only | 2026-09-30T21:22:22Z | 2026-09-30T21:28:42Z |
 | 50 | [Jaime Fernández Fisac](batches/control-001.md#jaime-fernandez-fisac) · Princeton University · **其他 AP；较早任职、转校或入职年待核** | 80 (40/25/0/15) | precedent-only | 2026-09-30T21:21:51Z | 2026-09-30T21:24:34Z |
 | 51 | [Wenzhen Yuan](batches/embodied-004.md#wenzhen-yuan) · University of Illinois Urbana-Champaign · **其他 AP；较早任职、转校或入职年待核** | 80 (40/25/0/15) | unknown | 2026-09-30T21:46:34Z | 2026-09-30T21:52:53Z |
 | 52 | [Ismini Lourentzou](batches/embodied-004.md#ismini-lourentzou) · University of Illinois Urbana-Champaign · **其他 AP；较早任职、转校或入职年待核** | 80 (40/25/0/15) | unknown | 2026-09-30T21:48:27Z | 2026-09-30T22:00:03Z |
@@ -128,9 +128,9 @@
 | 118 | [Ranjay Krishna](batches/embodied-003.md#ranjay-krishna) · University of Washington · **其他 AP；较早任职、转校或入职年待核** | 73 (39/20/0/14) | unknown | 2026-09-30T21:37:51Z | 2026-09-30T21:42:30Z |
 | 119 | [Lu Gan](batches/control-006.md#lu-gan) · Georgia Institute of Technology · **其他 AP；较早任职、转校或入职年待核** | 69 (39/20/0/10) | unknown | 2026-09-30T22:04:58Z | 2026-09-30T22:08:52Z |
 | 120 | [Michelle Zhao](batches/hri-062.md#michelle-zhao) · Indiana University Bloomington · **其他 AP；较早任职、转校或入职年待核** | 69 (39/20/0/10) | degree-only · current IU students | 2026-10-01T05:19:50Z | 2026-10-01T05:20:40Z |
-| 121 | [Jiachen Li](batches/embodied-006.md#jiachen-li) · Georgia Institute of Technology · **其他 AP；较早任职、转校或入职年待核** | 86 (38/25/8/15) | inquiry-only | 2026-09-30T22:02:43Z | 2026-09-30T22:06:50Z |
-| 122 | [Zezhou Cheng](batches/embodied-019.md#zezhou-cheng) · University of Virginia · **其他 AP；较早任职、转校或入职年待核** | 86 (38/25/8/15) | inquiry-only | 2026-09-30T23:37:13Z | 2026-10-01T00:10:37Z |
-| 123 | [Junyi Geng](batches/embodied-051.md#junyi-geng) · The Pennsylvania State University · **其他 AP；较早任职、转校或入职年待核** | 86 (38/25/8/15) | inquiry-only | 2026-10-01T03:09:16Z | 2026-10-01T03:12:19Z |
+| 121 | [Junyi Geng](batches/embodied-051.md#junyi-geng) · The Pennsylvania State University · **其他 AP；较早任职、转校或入职年待核** | 88 (38/25/10/15) | inquiry-only | 2026-10-01T03:09:16Z | 2026-10-01T14:03:41Z |
+| 122 | [Jiachen Li](batches/embodied-006.md#jiachen-li) · Georgia Institute of Technology · **其他 AP；较早任职、转校或入职年待核** | 86 (38/25/8/15) | inquiry-only | 2026-09-30T22:02:43Z | 2026-09-30T22:06:50Z |
+| 123 | [Zezhou Cheng](batches/embodied-019.md#zezhou-cheng) · University of Virginia · **其他 AP；较早任职、转校或入职年待核** | 86 (38/25/8/15) | inquiry-only | 2026-09-30T23:37:13Z | 2026-10-01T00:10:37Z |
 | 124 | [Yu She](batches/embodied-002.md#yu-she) · Purdue University · **其他 AP；较早任职、转校或入职年待核** | 84 (38/25/7/14) | inquiry-only | 2026-09-30T21:29:56Z | 2026-09-30T21:55:32Z |
 | 125 | [Mark Draelos](batches/hri-008.md#mark-draelos) · University of Michigan · **其他 AP；较早任职、转校或入职年待核** | 78 (38/25/0/15) | unknown | 2026-09-30T22:20:58Z | 2026-09-30T22:26:44Z |
 | 126 | [Peng Gao](batches/embodied-031.md#peng-gao) · North Carolina State University · **其他 AP；较早任职、转校或入职年待核** | 78 (38/25/0/15) | unknown | 2026-10-01T01:01:01Z | 2026-10-01T01:09:40Z |

@@ -8351,11 +8351,11 @@
       "homepage": "https://kuanfang.github.io/",
       "batch": "embodied-023",
       "discoveredAt": "2026-09-30T23:58:43Z",
-      "verifiedAt": "2026-10-01T00:03:16Z",
+      "verifiedAt": "2026-10-01T13:56:35Z",
       "scores": {
         "fit": 40,
         "physical": 25,
-        "shortVisit": 8,
+        "shortVisit": 10,
         "freshness": 15
       },
       "researchAreas": [
@@ -9169,11 +9169,11 @@
       "homepage": "https://ari-psu.github.io/",
       "batch": "embodied-051",
       "discoveredAt": "2026-10-01T03:09:16Z",
-      "verifiedAt": "2026-10-01T03:12:19Z",
+      "verifiedAt": "2026-10-01T14:03:41Z",
       "scores": {
         "fit": 38,
         "physical": 25,
-        "shortVisit": 8,
+        "shortVisit": 10,
         "freshness": 15
       },
       "researchAreas": [

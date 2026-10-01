@@ -227,10 +227,10 @@
       ]
     },
     "kuan-fang": {
-      "note": "非Cornell访客入口；表单未读全，研究生主办类别另定",
+      "note": "外校在读MS表单已全文核实；按页面交表并邮件联系，填写起止日期/签证和资助需求不等于承诺；无已公布最短时长，Cornell研究生主办类别另定",
       "sourceIds": [
-        "s3",
-        "s7"
+        "s8",
+        "s9"
       ]
     },
     "chengzhi-mao": {
@@ -513,9 +513,10 @@
       ]
     },
     "junyi-geng": {
-      "note": "公开问询入口；详细资格与期限未定",
+      "note": "当前链接表单明确Summer Research Intern（MS/Undergrad/Remote）及访客；开头PhD年份仍为2024，时长/2027容量/资助未知，学校任命另审",
       "sourceIds": [
-        "s2"
+        "s10",
+        "s11"
       ]
     },
     "zezhou-cheng": {

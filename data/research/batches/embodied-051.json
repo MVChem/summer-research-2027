@@ -12,7 +12,7 @@
     "department": "Aerospace Engineering; University Park",
     "batch": "embodied-051",
     "discoveredAt": "2026-10-01T03:09:16Z",
-    "verifiedAt": "2026-10-01T03:12:19Z",
+    "verifiedAt": "2026-10-01T14:03:41Z",
     "researchAreas": [
       "Aerial manipulation",
       "Diffusion-policy imitation learning",
@@ -37,29 +37,22 @@
     },
     "shortVisit": {
       "status": "inquiry-only",
-      "summary": "The full current ARI Join Us page explicitly welcomes summer interns and visiting scholars, separately from its PhD/master’s degree recruitment. It directs interested researchers to a linked interest form and publishes professional contact details. Duration, overseas-master’s classification, funding and summer2027 capacity are not stated.",
+      "summary": "The current ARI joining page links a complete questionnaire with current-master status, arbitrary affiliation, Summer Research Intern (MS/Undergrad/Remote), visiting-student and visiting-scholar categories. The introduction still advertises PhD Spring/Fall 2024, so this is a currently linked inquiry channel rather than a newly dated 2027 opening. Duration, host approval, funding and actual capacity remain unknown.",
       "sourceIds": [
-        "s1",
-        "s2",
-        "s3",
-        "s4",
-        "s5",
-        "s6",
-        "s7",
-        "s8",
-        "s9"
+        "s10",
+        "s11"
       ]
     },
     "scores": {
       "fit": 38,
       "physical": 25,
-      "shortVisit": 8,
+      "shortVisit": 10,
       "freshness": 15
     },
     "scoreReasons": {
       "fit": "Direct current imitation-learning manipulation plus integrated perception/control, with meaningful CS-facing research questions.",
       "physical": "Full current own-group experiment and roster establish learned execution on physical hardware; narrow scope and small sample stated.",
-      "shortVisit": "Live explicit summer-intern/visitor inquiry, but dates/duration/external-master approval and funding unknown.",
+      "shortVisit": "Complete current-linked questionnaire explicitly supports outside current-master inquiries. Duration, institutional appointment, funding, actual acceptance and summer 2027 capacity remain unconfirmed.",
       "freshness": "September 24, 2026 physical-learning preprint and September 2026 benchmark activity."
     },
     "sources": [
@@ -134,6 +127,22 @@
         "summary": "Direct current group research inventory links manipulation, learning and September 2026 AM-Bench.",
         "verifiedAt": "2026-10-01T03:12:19Z",
         "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s10",
+        "label": "Current lab visiting inquiry",
+        "url": "https://ari-psu.github.io/contact/",
+        "summary": "Summer intern and visiting scholar welcomed separately from PhD/master-degree intake; directs all interested applicants to linked form.",
+        "verifiedAt": "2026-10-01T14:01:54Z",
+        "retrieval": "complete-primary-page; live-browser14:03:23Z"
+      },
+      {
+        "id": "s11",
+        "label": "Complete currently linked visitor questionnaire",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLScIUXDlOq6U5jEjzCXhTzsOOHq_1nLb39nkHuHa5QhA0EYmQw/viewform?usp=send_form",
+        "summary": "ARI Position Application: current-master choice, arbitrary affiliation/country, Summer Research Intern (MS/Undergrad/Remote), visiting student/scholar, financial-aid preference, research interests/skills and required CV/transcripts. Single page ending in Submit read without selecting or entering anything. Introductory PhD recruitment year remains2024.",
+        "verifiedAt": "2026-10-01T14:03:41Z",
+        "retrieval": "complete-live-cloud-browser-form"
       }
     ],
     "unknowns": [
@@ -142,7 +151,8 @@
       "The March 2026 near-wall physics-infused learning paper and April 2025 Imperative MPC paper explicitly evaluate simulation. They support current methods fit but receive no physical-execution credit.",
       "Existing Penn State review: an external master’s student with a bachelor’s appears compatible with AC01 academic minimum as an inference, subject to host/administrative and separate immigration approval. Personal/family funds are expressly permitted in scholar guidance; its current published minimum is $2,625/month, below estimated actual costs. Exact category/eight-week visit and2027 terms remain unconfirmed.",
       "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
-      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "The form retains a Spring/Fall 2024 PhD introduction. Its financial-aid preference is not a funding promise, and its summer/MS/remote category does not establish institutional visitor eligibility or a summer 2027 place."
     ],
     "publicEmail": "jgeng@psu.edu"
   }

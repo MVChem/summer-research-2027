@@ -9,7 +9,7 @@
     "department": "Computer Science",
     "batch": "embodied-023",
     "discoveredAt": "2026-09-30T23:58:43Z",
-    "verifiedAt": "2026-10-01T00:03:16Z",
+    "verifiedAt": "2026-10-01T13:56:35Z",
     "researchAreas": [
       "Generalizable robot learning",
       "Cross-embodiment manipulation",
@@ -33,27 +33,22 @@
     },
     "shortVisit": {
       "status": "inquiry-only",
-      "summary": "The current join page has a distinct Visiting Researchers section for people not currently at Cornell, inviting a form plus email. It mentions international visa support without guaranteeing eligibility. The form failed retrieval. No summer 2027 dates or eight-week commitment was verified.",
+      "summary": "The dedicated outside-Cornell Visiting Researchers route links a complete questionnaire with current MS status, arbitrary institution, visit start/end dates, visa needs and financial-support circumstances. Submit the form and email as the joining page directs. These fields establish an inquiry route, not guaranteed hosting, visa support or funding; no minimum duration or summer 2027 capacity is stated.",
       "sourceIds": [
-        "s1",
-        "s2",
-        "s3",
-        "s4",
-        "s5",
-        "s6",
-        "s7"
+        "s8",
+        "s9"
       ]
     },
     "scores": {
       "fit": 40,
       "physical": 25,
-      "shortVisit": 8,
+      "shortVisit": 10,
       "freshness": 15
     },
     "scoreReasons": {
       "fit": "Very direct scalable embodied learning, cross-embodiment and foundation-model fit.",
       "physical": "Two detailed current primary studies with real robot configurations and trial protocols.",
-      "shortVisit": "Explicit external visiting-researcher route; exact duration, appointment and acceptance remain unknown.",
+      "shortVisit": "Complete current-linked questionnaire explicitly supports outside current-master inquiries. Duration, institutional appointment, funding, actual acceptance and summer 2027 capacity remain unconfirmed.",
       "freshness": "Current 2026 physical research and live university/lab sources."
     },
     "sources": [
@@ -112,12 +107,29 @@
         "summary": "Current separate F-1 IRIP route explicitly names international undergraduate and graduate researchers, with research-credit registration and approvals.",
         "verifiedAt": "2026-10-01T00:03:16Z",
         "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s8",
+        "label": "Current lab visiting inquiry",
+        "url": "https://kuanfang.github.io/join-us.html",
+        "summary": "Dedicated Visiting Researchers section for people not at Cornell, separate from current Cornell students. Browser corroboration13:56:15Z.",
+        "verifiedAt": "2026-10-01T13:55:40Z",
+        "retrieval": "complete-primary-page; later live cloud browser"
+      },
+      {
+        "id": "s9",
+        "label": "Complete currently linked visitor questionnaire",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLScY0lMYwPVzAH4apY5YEd1_Lgk8mPKVPAaZHhzI25C9s9kaIw/viewform?usp=send_form",
+        "summary": "GRILL Visiting Researcher Application includes current MS student, current institution, expected graduation, start/end dates, adviser contact, research fit, CV/MS transcripts, visa support yes/no/not sure and open financial-support circumstances. All public fields read with no interaction beyond navigation.",
+        "verifiedAt": "2026-10-01T13:56:35Z",
+        "retrieval": "complete-live-cloud-browser-form"
       }
     ],
     "unknowns": [
       "KITE’s physical tests use a simulation workspace matched to the real scene and require a trained embodiment decoder; zero-shot does not mean zero preparation. Cornell’s undergraduate-only J-1 Student Intern route should not be used for an in-progress master’s. Separate nondegree graduate admission currently accepts graduate-level study or bachelor’s-equivalent credentials, while F-1 IRIP also names graduate researchers; the host must select and approve the actual route. Financial requirements differ by route.",
       "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
-      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "The previously unread questionnaire was successfully reviewed in full on October 1 at 13:56:35 UTC. Its request to describe financial need or existing support neither promises support nor imposes personal self-funding. No remote option or minimum duration is stated."
     ],
     "publicEmail": "kuanfang@cornell.edu"
   },

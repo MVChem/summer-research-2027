@@ -2064,6 +2064,84 @@
           "evidence": "Complete form Timeframe question strongly prefers more than one quarter; no hard minimum or blanket summer closure stated."
         }
       ]
+    },
+    {
+      "key": "parastoo-abtahi-current-visitor-closure",
+      "name": "Parastoo Abtahi",
+      "catalogueIdentity": {
+        "name": "Parastoo Abtahi",
+        "title": "Assistant Professor of Computer Science",
+        "institution": "Princeton University",
+        "homepage": "https://parastooabtahi.com/"
+      },
+      "kind": "no-summer-interns",
+      "scope": "Current visiting researcher and summer intern positions; narrow home-funded PhD/postdoc inquiry exception",
+      "summary": "当前没有visiting researcher或summer intern位置；仅允许母校资助的PhD/postdoc询问线下访问，仍看匹配/容量；未列外校硕士例外，不推断永久或2027关闭",
+      "observedAt": "2026-10-01T14:05:14Z",
+      "sources": [
+        {
+          "url": "https://www.cs.princeton.edu/news/parastoo-abtahi-expert-human-computer-interaction-joins-faculty",
+          "evidence": "Official new-faculty title/year context.",
+          "observedAt": "2026-10-01T14:05:01Z"
+        },
+        {
+          "url": "https://parastooabtahi.com/applicants",
+          "evidence": "Full current Visiting Researchers section with exact degree/funding/in-person exception; Princeton MSE admissions is a different route.",
+          "observedAt": "2026-10-01T14:05:14Z"
+        }
+      ]
+    },
+    {
+      "key": "brian-plancher-external-ra-restriction",
+      "name": "Brian K. Plancher",
+      "catalogueIdentity": {
+        "name": "Brian K. Plancher",
+        "title": "Assistant Professor",
+        "institution": "Dartmouth College",
+        "homepage": "https://brianplancher.com/"
+      },
+      "kind": "no-visitors",
+      "scope": "Remote or external research assistants without a prior in-person working relationship with this lab",
+      "summary": "通常不接收此前未与本组线下共事的外校/远程RA；曾线下合作的延续项目可能例外，不泛化为永久或2027全部访客禁止",
+      "observedAt": "2026-10-01T13:05:24Z",
+      "sources": [
+        {
+          "url": "https://a2r-lab.org/join/",
+          "evidence": "Complete live primary HTML and web page: scoped external/remote RA restriction; local Dartmouth UG/MS research and separate PhD admission.",
+          "observedAt": "2026-10-01T13:05:24Z"
+        },
+        {
+          "url": "https://web.cs.dartmouth.edu/people/brian-k-plancher",
+          "evidence": "Current Dartmouth Assistant Professor, legal-name middle initial.",
+          "observedAt": "2026-10-01T13:05:24Z"
+        }
+      ]
+    },
+    {
+      "key": "keenan-albee-external-ms-restriction",
+      "name": "Keenan Albee",
+      "catalogueIdentity": {
+        "name": "Keenan Albee",
+        "title": "Assistant Professor",
+        "institution": "University of Southern California",
+        "homepage": "https://albee.github.io/"
+      },
+      "kind": "no-visitors",
+      "scope": "Prospective MS/undergraduate research applicants who are not already at USC",
+      "summary": "当前没有非USC的MS/本科研究岗位；仅针对该类别，不泛化到全部访客或永久/2027禁令；访问PhD先例不能替代硕士资格",
+      "observedAt": "2026-10-01T13:34:36Z",
+      "sources": [
+        {
+          "url": "https://usclaser.github.io/join/",
+          "evidence": "Full live join page with explicit non-USC MS/undergraduate restriction.",
+          "observedAt": "2026-10-01T13:34:36Z"
+        },
+        {
+          "url": "https://viterbi.usc.edu/directory/faculty/Albee/Keenan",
+          "evidence": "Official current Assistant Professor and prior education, safe autonomy research and university email.",
+          "observedAt": "2026-10-01T13:34:36Z"
+        }
+      ]
     }
   ]
 }

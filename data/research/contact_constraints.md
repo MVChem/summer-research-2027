@@ -27,6 +27,13 @@
 - **至少两个quarter的无资助访问仍可讨论；当前明确无法接收更短访问，包括暑期实习。不能改写为所有访问全面关闭**
 - 核查：2026-10-01T12:23:33Z · [来源1](https://indylab.org/contact)
 
+### Parastoo Abtahi（限制目录；未计入新增排名）
+
+- 公开任职：Assistant Professor of Computer Science · Princeton University · [主页](https://parastooabtahi.com/)
+- 适用范围：Current visiting researcher and summer intern positions; narrow home-funded PhD/postdoc inquiry exception
+- **当前没有visiting researcher或summer intern位置；仅允许母校资助的PhD/postdoc询问线下访问，仍看匹配/容量；未列外校硕士例外，不推断永久或2027关闭**
+- 核查：2026-10-01T14:05:14Z · [来源1](https://www.cs.princeton.edu/news/parastoo-abtahi-expert-human-computer-interaction-joins-faculty) · [来源2](https://parastooabtahi.com/applicants)
+
 ## 当前明确暂停相关访客入口
 
 ### Shubham Tulsiani（原名单 #46）
@@ -62,6 +69,20 @@
 - 适用范围：Exact published Remote interns / visitors section
 - **准确栏目“Remote interns / visitors”当前没有空位；页面更新2026-09-28，不推断永久禁令或自行假设现场例外**
 - 核查：2026-10-01T12:23:33Z · [来源1](https://j-min.io/post/prospective-students/)
+
+### Brian K. Plancher（限制目录；未计入新增排名）
+
+- 公开任职：Assistant Professor · Dartmouth College · [主页](https://brianplancher.com/)
+- 适用范围：Remote or external research assistants without a prior in-person working relationship with this lab
+- **通常不接收此前未与本组线下共事的外校/远程RA；曾线下合作的延续项目可能例外，不泛化为永久或2027全部访客禁止**
+- 核查：2026-10-01T13:05:24Z · [来源1](https://a2r-lab.org/join/) · [来源2](https://web.cs.dartmouth.edu/people/brian-k-plancher)
+
+### Keenan Albee（限制目录；未计入新增排名）
+
+- 公开任职：Assistant Professor · University of Southern California · [主页](https://albee.github.io/)
+- 适用范围：Prospective MS/undergraduate research applicants who are not already at USC
+- **当前没有非USC的MS/本科研究岗位；仅针对该类别，不泛化到全部访客或永久/2027禁令；访问PhD先例不能替代硕士资格**
+- 核查：2026-10-01T13:34:36Z · [来源1](https://usclaser.github.io/join/) · [来源2](https://viterbi.usc.edu/directory/faculty/Albee/Keenan)
 
 ## 明确最短时长
 

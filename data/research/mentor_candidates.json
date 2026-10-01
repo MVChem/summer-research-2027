@@ -80,6 +80,7 @@
     "batches/control-069.json",
     "batches/control-070.json",
     "batches/control-071.json",
+    "batches/control-072.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -4242,6 +4243,35 @@
       "shortVisitStatus": "inquiry-only · self-funded, ASU category unresolved",
       "recordFile": "batches/control-071.json",
       "detailPage": "batches/control-071.md#hua-wei"
+    },
+    {
+      "id": "xi-yu",
+      "name": "Xi Yu",
+      "aliases": [
+        "Yu Xi"
+      ],
+      "school": "Arizona State University",
+      "title": "Assistant Professor; AMASS Laboratory",
+      "homepage": "https://search.asu.edu/profile/5170321",
+      "batch": "control-072",
+      "discoveredAt": "2026-10-01T06:07:27Z",
+      "verifiedAt": "2026-10-01T06:18:00Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Multi-robot reinforcement learning",
+        "Autonomy in extreme environments",
+        "Hierarchical coordination",
+        "Marine robotics",
+        "Resilient control"
+      ],
+      "shortVisitStatus": "degree-only · dated SURI 2026",
+      "recordFile": "batches/control-072.json",
+      "detailPage": "batches/control-072.md#xi-yu"
     },
     {
       "id": "tom-silver",

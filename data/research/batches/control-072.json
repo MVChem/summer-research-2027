@@ -1,0 +1,115 @@
+[
+  {
+    "id": "xi-yu",
+    "name": "Xi Yu",
+    "aliases": [
+      "Yu Xi"
+    ],
+    "school": "Arizona State University",
+    "homepage": "https://search.asu.edu/profile/5170321",
+    "title": "Assistant Professor; AMASS Laboratory",
+    "department": "School of Manufacturing Systems and Networks",
+    "batch": "control-072",
+    "discoveredAt": "2026-10-01T06:07:27Z",
+    "verifiedAt": "2026-10-01T06:18:00Z",
+    "researchAreas": [
+      "Multi-robot reinforcement learning",
+      "Autonomy in extreme environments",
+      "Hierarchical coordination",
+      "Marine robotics",
+      "Resilient control"
+    ],
+    "fitReason": "Direct learned high-level coordination for real marine robots, alongside a broader multi-agent control and underactuated-robot program.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "May 2026 MCAPS trains transformer-based actor/critic coordination with PPO in VMAS, then runs policy inference on a shore laptop at Fern Ridge Lake, Oregon. A Platypus Lutra USV and BlueROV execute locally planned trajectories under learned specialization vectors. The field study reports one successful trial each of MCAPS and a greedy baseline; ROV communication is tethered Ethernet and USV uses short-range Wi-Fi without observed loss. GPS/USBL localization and recoverable open-water operation do not validate under-ice navigation or acoustic communications. This is real hierarchical learned coordination, not end-to-end learned low-level control. Yu and her advised coauthor contribute methods/investigation, but the deployment is collaborative offsite and current ASU access to those exact robots is unverified. March 2026 topology reconfiguration is simulation-only.",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "shortVisit": {
+      "status": "degree-only · dated SURI 2026",
+      "summary": "Current AMASS recruiting distinguishes PhD admissions and projects for ASU-enrolled master’s students. A dated SURI 2026 listing offers underactuated-blimp hardware/control work to US and non-US students, but no current applicable external-master summer 2027 invitation is established.",
+      "sourceIds": [
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "PPO and transformer coordination directly affect robot behavior, with strong multi-agent control relevance.",
+      "physical": "Actual2026 field policy execution with explicit one-trial limits; collaborator-site equipment and unverified current local access cap score20.",
+      "shortVisit": "Current degree/enrolled-student recruitment and expired2026 program listing do not establish a general summer2027 short visit.",
+      "freshness": "Full2026 peer-reviewed deployment paper and current ASU recruitment/directory."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "search.asu.edu / source 1",
+        "url": "https://search.asu.edu/profile/5170321",
+        "summary": "Current ASU assistant professor and Fall2026 research/teaching record; WVU is prior host.",
+        "verifiedAt": "2026-10-01T06:18:00Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "search.asu.edu / source 2",
+        "url": "https://search.asu.edu/profile/5170321/cv",
+        "summary": "Official April 2025 CV confirms xyu@asu.edu, ASU startAugust2024 and direct advising of paper coauthor Prajjwal Dutta, with expected2025 degree date rather than proof of current enrollment.",
+        "verifiedAt": "2026-10-01T06:18:00Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "www.frontiersin.org / source 3",
+        "url": "https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2026.1799672/full",
+        "summary": "Full May 2026 primary MCAPS paper: transformer actor/critic trained with PPO, actual Fern Ridge Lake deployment, one trial per configuration, communication/localization limits, author roles and named grants.",
+        "verifiedAt": "2026-10-01T06:18:00Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "sites.google.com / source 4",
+        "url": "https://sites.google.com/view/xyureka/news/recruiting",
+        "summary": "PhD2026/2027 degree recruitment and ASU-enrolled master’s projects; no general external-master research visitor offer.",
+        "verifiedAt": "2026-10-01T06:18:00Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "students.engineering.asu.edu / source 5",
+        "url": "https://students.engineering.asu.edu/wp-content/uploads/2025/12/SURI_2026_Project_Catalog.pdf",
+        "summary": "Historical summer2026 blimp hardware/control project lists both US and non-US students; not a2027 opening or proof of visitor-category approval.",
+        "verifiedAt": "2026-10-01T06:18:00Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/abs/2603.13529",
+        "summary": "March 2026 hybrid topology control reports simulation, kept separate from physical MCAPS.",
+        "verifiedAt": "2026-10-01T06:18:00Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "msn.engineering.asu.edu / source 7",
+        "url": "https://msn.engineering.asu.edu/research/",
+        "summary": "Current official research directory identifies multi-robot systems, extreme-environment autonomy, blimps and underwater vehicles.",
+        "verifiedAt": "2026-10-01T06:18:00Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      }
+    ],
+    "unknowns": [
+      "Reuse ASU eligibility notes. Scholar, Student Intern and Student Non-Degree funding/category rules differ, so ISSC must classify an external master’s research visit. The latter has a nonpersonal-funding requirement; the PI’s general research or degree pages do not settle self-funded visitor eligibility. Eight-week capacity, project and site access, current funding and 2027 timing remain unknown. Current ASU appointment began 2024; older WVU and UPenn affiliations do not describe the present host.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[ASU institutional visitor rules](../eligibility_notes.md#asu-visiting-categories)"
+    ],
+    "publicEmail": "xyu@asu.edu"
+  }
+]

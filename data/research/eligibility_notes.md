@@ -151,3 +151,41 @@ Allison Okamura 的 [CHARM 个人页](https://charm.stanford.edu/Main/AllisonOka
 [工程学院访问页](https://coe.northeastern.edu/about/exchange/) 明确包括在读硕士，需导师、原机构函件和正式流程，估计完整提交至抵达需 5–7 个月。[中央新访客指引](https://international.northeastern.edu/ogs/exchange-visitor-program/j-1-scholars/information-for-new-j-1-scholars/) 列 Student Non-Degree 为 3 周至 2 年，要求至少提前四个月启动；具体院系任命及注册另须满足。不能将当前硕士改称 Scholar 以规避该学生资金条件。
 
 仍公开的 [路由表](https://provost.northeastern.edu/wp-content/uploads/2025/08/Exchange-Visitor-Program-Proposal-and-Routing-Process-Form.pdf) 内部修订于 2020 年，列每月 1/15 日开始、学生最长一年与每周 20 小时；这些与中央分类及当前流程的差异应确认，不拼接成新的强制规则，也不套用其他学校 Student Intern 的 32 小时规定。学校规则不证明 2027 导师名额。
+
+<a id="uic"></a>
+
+## Illinois Chicago · 学位关联与个人资金
+
+核查：2026-09-30T22:30:02Z。[UIC sponsorship 指引](https://ois.uic.edu/department-administrators/guide-to-employee-and-visitor-sponsorship/) 支持国外在读、实习服务原学位目标的 Student Intern；Short-Term Scholar 则要求研究生层次教育及相关专长，由 OIS 选择类别。[资金规则](https://ois.uic.edu/immigration/j-1-exchange-visitor/j-1-ev-funding-requirements/) 允许个人资金，当前学者支持额每月 2,400 美元，仅为财力证明基准。[办理指导](https://ois.uic.edu/immigration/j-1-exchange-visitor/j-1-exchange-visitor-scholars/) 给出 OIS 收件至开始至少约 60 天，另须主办方、英语、保险、研究合规及适用的 DS-7002 计划。八周项目、具体硕士身份与 2027 金额仍需确认。
+
+<a id="purdue"></a>
+
+## Purdue · 正式访问任命，不能以非正式志愿工作替代
+
+核查：2026-09-30T22:30:02Z。[2026 年 4 月 J-1 说明](https://www.purdue.edu/gpp/iss/scholar/immigration/j1/index.html) 包括国外各学位层次在读的 Student Intern，要求学位关联及结束后返校；任期在十二个月内由主办方和学生确定，Short-Term Scholar 为 1 天至六个月。[Visiting Scholar 说明](https://www.purdue.edu/gpp/iss/scholar/faculty-staff/i-am-a/visitingscholar.html) 是正式、通常无薪的 courtesy appointment，可有生活补助，研究目标应服务访问者自身学术发展，不能仅实质服务 Purdue。
+
+[财力规则](https://www.purdue.edu/gpp/iss/scholar/immigration/j1/details/Funding.html) 列每月 1,885 美元并允许个人/家庭支持，实际保险、旅行和其他费用另计。[主办流程](https://www.purdue.edu/gpp/iss/scholar/hosts/procedures/visiting-scholars.html) 要求正式邀请与审批，不允许把学术访问改作非正式 volunteering 或 tourist/business 身份。未完成本科学位者的 Visiting Undergraduate 路径不自动适用于硕士，具体身份由 ISS 确定；学校时长规则不证明实验室名额。
+
+<a id="tennessee-knoxville"></a>
+
+## Tennessee Knoxville · 学位要求与主办费冲突
+
+核查：2026-09-30T22:30:02Z。[大学链接的 ISSS 指引](https://utkisss.atlassian.net/wiki/spaces/IPFP/pages/1910767617/Understanding+J-1+Exchange+Visitors) 规定 Student Intern 须满足原校毕业要求，Short-Term Scholar 至少持本科学位、最多六个月；允许完全个人积蓄支持，现列每月 2,433 美元并建议提前 2–3 个月，另需保险、英语及研究安全批准。
+
+该指南列不可由访问者支付或报销的 200 美元主办费，而 [较旧概览](https://international.utk.edu/exchange-visitors/) 对 Student Intern 写无主办费用，适用类别与现行收费需 ISSS 澄清。财力门槛不等于实际账单或 2027 总预算，也不证明导师有空位。
+
+<a id="tufts-student-intern"></a>
+
+## Tufts · Intern 处理费必须由主办方承担
+
+核查：2026-09-30T23:45:55Z。[院系 Student Intern 政策](https://icenter.tufts.edu/departments/j1-student-intern/) 允许单独安排的海外在读学位学生访问，需原学位关联、良好学籍及返校完成学位；可有薪/无薪，3 周至十二个月、每周至少 32 小时。八周在时长范围内，实际硕士任命仍须批准。系主任、院长和导师须确认研究计划、指导和设施；临床患者接触等受限制。
+
+该路径 650 美元处理费必须由主办部门或 sponsor 支付，不得作为接收条件转嫁学生。[学生指引](https://icenter.tufts.edu/coming-to-tufts/visa-certificate/j-1-student-intern-program/) 接受个人/家庭银行材料，目前列每月 2,900 美元支持额；[准备表](https://icenter.tufts.edu/wp-content/uploads/Preparation-Guide-for-New-J-1-Student-Intern-Request.pdf) 也列个人自费选项和部门付款信息。金额及保险在 2027 前复核，1–2 周完整材料处理阶段不是包含导师邀请、校内审批和签证的总时间。另一个 self-funded Scholar 的费用支付规则不同，不能混用类别。
+
+<a id="maryland-student-intern"></a>
+
+## Maryland · 学校财力允许不覆盖实验室额外条件
+
+核查：2026-09-30T22:31:42Z。[UMD Intern 资格](https://marylandglobal.umd.edu/global-learning-all/international-students-scholars/departments/j-1-interns/j-1-intern-eligibility) 包括外校研究生，要求原学位关联、学校证明、3 周至十二个月、每周至少 32 小时，并须在完成原学位至少 30 天前结束。现列每月 2,600 美元支持额并允许个人资金；这是财力门槛，2027 金额、分类及主办条件仍须确认。
+
+[Michael Otte 的实验室规则](https://ottelab.com/html_stuff/policies.html) 更严格：外部学生访客即使能自付所有费用，也须获得外部 scholarship / award，并应先询问容量。学校接受个人财力材料不覆盖这一实验室要求，获奖也不保证邀请。

@@ -154,6 +154,7 @@
     "batches/embodied-067.json",
     "batches/embodied-068.json",
     "batches/embodied-069.json",
+    "batches/embodied-075.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -8458,6 +8459,36 @@
       "shortVisitStatus": "precedent-only · historical six-month MS visit",
       "recordFile": "batches/embodied-069.json",
       "detailPage": "batches/embodied-069.md#ci-jyun-liang"
+    },
+    {
+      "id": "pratyusha-sharma",
+      "name": "Pratyusha Sharma",
+      "aliases": [],
+      "school": "New York University",
+      "title": "Assistant Professor",
+      "homepage": "https://pratyushasharma.github.io/",
+      "batch": "embodied-075",
+      "discoveredAt": "2026-10-01T05:44:52Z",
+      "verifiedAt": "2026-10-01T07:19:10Z",
+      "scores": {
+        "fit": 36,
+        "physical": 15,
+        "shortVisit": 10,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Language-guided robot planning",
+        "World-model representation learning",
+        "Sequential decision making",
+        "Grounded action abstractions"
+      ],
+      "discoveryTimestampNote": "First precisely preserved candidate-specific primary-source encounter; later verification of the public visitor form does not replace the original discovery time.",
+      "candidateTier": "Visitor-first embodied-method backup; older prior-host hardware",
+      "physicalEvidenceStatus": "older-prior-host-hardware",
+      "physicalEvidenceLabel": "受限真机证据：older-prior-host-hardware",
+      "shortVisitStatus": "inquiry-only · 外校硕士/访客，可询问现场或远程；2027/八周未定",
+      "recordFile": "batches/embodied-075.json",
+      "detailPage": "batches/embodied-075.md#pratyusha-sharma"
     },
     {
       "id": "henny-admoni",

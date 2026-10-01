@@ -32,6 +32,7 @@
     "batches/control-021.json",
     "batches/control-022.json",
     "batches/control-023.json",
+    "batches/control-024.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -2177,6 +2178,60 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-023.json",
       "detailPage": "batches/control-023.md#josiah-p-hanna"
+    },
+    {
+      "id": "xiaomin-lin",
+      "name": "Xiaomin Lin",
+      "aliases": [],
+      "school": "University of South Florida",
+      "title": "Assistant Professor; ERA Lab Director",
+      "homepage": "https://xiaominlin.github.io/",
+      "batch": "control-024",
+      "discoveredAt": "2026-10-01T00:24:12Z",
+      "verifiedAt": "2026-10-01T00:25:13Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "vision-language robot planning",
+        "underwater autonomous systems",
+        "multimodal perception",
+        "edge AI"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-024.json",
+      "detailPage": "batches/control-024.md#xiaomin-lin"
+    },
+    {
+      "id": "ioannis-rekleitis",
+      "name": "Ioannis Rekleitis",
+      "aliases": [
+        "Ioannis M. Rekleitis"
+      ],
+      "school": "University of Delaware",
+      "title": "Associate Professor",
+      "homepage": "https://me.udel.edu/faculty/ioannis-rekleitis/",
+      "batch": "control-024",
+      "discoveredAt": "2026-10-01T00:23:15Z",
+      "verifiedAt": "2026-10-01T00:25:13Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "autonomous field robotics",
+        "underwater perception and navigation",
+        "multi-robot exploration",
+        "vision-language autonomy"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-024.json",
+      "detailPage": "batches/control-024.md#ioannis-rekleitis"
     },
     {
       "id": "tom-silver",

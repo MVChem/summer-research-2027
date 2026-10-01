@@ -1,0 +1,214 @@
+[
+  {
+    "id": "xiaomin-lin",
+    "name": "Xiaomin Lin",
+    "aliases": [],
+    "school": "University of South Florida",
+    "homepage": "https://xiaominlin.github.io/",
+    "title": "Assistant Professor; ERA Lab Director",
+    "department": "Electrical Engineering",
+    "batch": "control-024",
+    "discoveredAt": "2026-10-01T00:24:12Z",
+    "verifiedAt": "2026-10-01T00:25:13Z",
+    "researchAreas": [
+      "vision-language robot planning",
+      "underwater autonomous systems",
+      "multimodal perception",
+      "edge AI"
+    ],
+    "fitReason": "Direct perception-to-action learning and foundation-model reasoning for underwater autonomy.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "DREAM v2 deploys VLM-guided exploration on a BlueROV2 with camera, IMU and Waterlinked DVL-A50 in a tank. Physical results are qualitative; comparative coverage/time percentages are simulation. Co-first author Zhenqi Wu is a current USF lab PhD student.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current explicit 2027 recruitment concerns PhD admission. The lab’s master’s section is for USF students and says funding is extremely unlikely. Collaboration inquiries are welcome, but no external-master’s short-visit pathway or eight-week invitation is established.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong embodied perception/reasoning and robot autonomy methods.",
+      "physical": "Named hardware, current-group co-first author and direct full-paper deployment; no exclusive platform ownership claimed.",
+      "shortVisit": "PhD/local-MS recruitment does not establish external short visits.",
+      "freshness": "February 2026 technical revision and current official affiliation/roster."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "arxiv.org / source 1",
+        "url": "https://arxiv.org/abs/2509.13666",
+        "summary": "DREAM v2 dated February 9, 2026; author record labels ICRA 2026.",
+        "verifiedAt": "2026-10-01T00:25:13Z",
+        "retrieval": "direct primary page or author paper via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "arxiv.org / source 2",
+        "url": "https://arxiv.org/pdf/2509.13666v2",
+        "summary": "Physical deployment section and institutional author affiliations checked.",
+        "verifiedAt": "2026-10-01T00:25:13Z",
+        "retrieval": "direct primary page or author paper via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "www.usf.edu / source 3",
+        "url": "https://www.usf.edu/engineering/ece/faculty-staff/lin-xiaomin.aspx",
+        "summary": "Current EE Assistant Professor and public email.",
+        "verifiedAt": "2026-10-01T00:25:13Z",
+        "retrieval": "direct primary page or author paper via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "xiaominlin.github.io / source 4",
+        "url": "https://xiaominlin.github.io/",
+        "summary": "Spring/Fall 2027 PhD recruitment and present research directions.",
+        "verifiedAt": "2026-10-01T00:25:13Z",
+        "retrieval": "direct primary page or author paper via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "era-research-lab.github.io / source 5",
+        "url": "https://era-research-lab.github.io/opportunities/",
+        "summary": "Master’s recruitment limited to USF students; no external-visit invitation verified.",
+        "verifiedAt": "2026-10-01T00:25:13Z",
+        "retrieval": "direct primary page or author paper via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "era-research-lab.github.io / source 6",
+        "url": "https://era-research-lab.github.io/people/",
+        "summary": "Zhenqi Wu is a current PhD student, 2025–present.",
+        "verifiedAt": "2026-10-01T00:25:13Z",
+        "retrieval": "direct primary page or author paper via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "era-research-lab.github.io / source 7",
+        "url": "https://era-research-lab.github.io/robots/",
+        "summary": "Explicit placeholder warning; not treated as actual equipment inventory.",
+        "verifiedAt": "2026-10-01T00:25:13Z",
+        "retrieval": "direct primary page or author paper via web.run"
+      }
+    ],
+    "unknowns": [
+      "USF appointment classification, external master’s eligibility, funding and host capacity remain unconfirmed. The hardware inventory page explicitly consists of placeholders; do not infer named local equipment or current ownership from it.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "xlin2@usf.edu"
+  },
+  {
+    "id": "ioannis-rekleitis",
+    "name": "Ioannis Rekleitis",
+    "aliases": [
+      "Ioannis M. Rekleitis"
+    ],
+    "school": "University of Delaware",
+    "homepage": "https://me.udel.edu/faculty/ioannis-rekleitis/",
+    "title": "Associate Professor",
+    "department": "Mechanical Engineering",
+    "batch": "control-024",
+    "discoveredAt": "2026-10-01T00:23:15Z",
+    "verifiedAt": "2026-10-01T00:25:13Z",
+    "researchAreas": [
+      "autonomous field robotics",
+      "underwater perception and navigation",
+      "multi-robot exploration",
+      "vision-language autonomy"
+    ],
+    "fitReason": "Marine robot autonomy and multi-robot sensing, with recent participation in embodied foundation-model navigation.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Coauthor of the DREAM BlueROV2 tank demonstration. Physical trials establish small-scale executed behavior, not long-duration ocean autonomy. Delaware laboratory ownership, local deployment and a current supervised student’s hardware role were not established, so this is collaborator evidence.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current external visitor invitation was found on the official faculty profile or linked personal homepage.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong field-robotics match plus recent embodied reasoning work.",
+      "physical": "Current collaboration verified; own-lab access unconfirmed.",
+      "shortVisit": "No current external short-visit invitation.",
+      "freshness": "2026 revision and current official Delaware profile."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "arxiv.org / source 1",
+        "url": "https://arxiv.org/abs/2509.13666",
+        "summary": "DREAM v2 dated February 9, 2026; author record labels ICRA 2026.",
+        "verifiedAt": "2026-10-01T00:25:13Z",
+        "retrieval": "direct primary page or author paper via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "arxiv.org / source 2",
+        "url": "https://arxiv.org/pdf/2509.13666v2",
+        "summary": "Physical deployment section and institutional author affiliations checked.",
+        "verifiedAt": "2026-10-01T00:25:13Z",
+        "retrieval": "direct primary page or author paper via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "me.udel.edu / source 3",
+        "url": "https://me.udel.edu/faculty/ioannis-rekleitis/",
+        "summary": "Current Delaware Associate Professor, 2025–present; previous South Carolina role and verified email.",
+        "verifiedAt": "2026-10-01T00:25:13Z",
+        "retrieval": "direct primary page or author paper via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "sites.google.com / source 4",
+        "url": "https://sites.google.com/udel.edu/prof-ioannis-rekleitis/",
+        "summary": "Current Delaware role corroborated; contact block remains placeholders, no visitor invitation.",
+        "verifiedAt": "2026-10-01T00:25:13Z",
+        "retrieval": "direct primary page or author paper via web.run"
+      }
+    ],
+    "unknowns": [
+      "Current appointment is Delaware, 2025–present; South Carolina 2014–2024 and online South Carolina lab pages are historical. Current visitor eligibility, funding and eight-week hosting are unknown. Linked personal site retains placeholder contact details; use verified official-directory email.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "yiannisr@udel.edu"
+  }
+]

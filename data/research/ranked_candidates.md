@@ -367,7 +367,7 @@
 | 357 | [Pratik Mukherjee](batches/control-083.md#pratik-mukherjee) · Florida Atlantic University · **受限真机证据：Prior-host learned robot verified; current FAU learned execution not fully verified** | 73 (38/20/0/15) | degree-only · 所列MS/本科入口限FAU本校 | 2026-10-01T07:13:57Z | 2026-10-01T07:16:03Z |
 | 358 | [Amrit Singh Bedi](batches/embodied-076.md#amrit-singh-bedi) · University of Central Florida | 73 (38/20/0/15) | unknown | 2026-10-01T07:23:11Z † | 2026-10-01T07:27:29Z |
 | 359 | [Xiaogang Hu](batches/hri-077.md#xiaogang-hu) · Pennsylvania State University · **受限真机证据：historical-or-indirect** | 73 (38/20/0/15) | unknown | 2026-10-01T07:24:27Z | 2026-10-01T07:26:42Z |
-| 360 | [Ross Greer](batches/embodied-081.md#ross-greer) · University of California, Merced · **仅嵌入式感知；机器人执行未核** | 73 (38/10/10/15) | inquiry-only · 访客需自筹支持；八周与类别未定 | 2026-10-01T10:14:05Z † | 2026-10-01T10:21:01Z |
+| 360 | [Ross Greer](batches/embodied-081.md#ross-greer) · University of California, Merced · **仅嵌入式感知；机器人执行未核** | 73 (38/10/10/15) | inquiry-only · 访客预期自筹支持；八周与类别未定 | 2026-10-01T10:14:05Z † | 2026-10-01T10:21:01Z |
 | 361 | [Michael S. Ryoo](batches/embodied-003.md#michael-s-ryoo) · Stony Brook University | 73 (37/24/0/12) | unknown | 2026-09-30T21:39:12Z | 2026-09-30T21:42:30Z |
 | 362 | [Mingmin Zhao](batches/hri-048.md#mingmin-zhao) · University of Pennsylvania · **机器人采集数据；在线学习部署未核实** | 73 (37/18/8/10) | inquiry-only | 2026-10-01T03:16:27Z | 2026-10-01T03:24:30Z |
 | 363 | [Christopher Kitts](batches/control-074.md#christopher-kitts) · Santa Clara University | 73 (35/23/0/15) | unknown | 2026-10-01T06:19:55Z | 2026-10-01T06:32:06Z |

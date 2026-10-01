@@ -9571,7 +9571,7 @@
       "candidateTier": "Visitor-route and embedded-perception backup; robot actuation unverified",
       "physicalEvidenceStatus": "embedded-perception-only; actuation-unverified",
       "physicalEvidenceLabel": "仅嵌入式感知；机器人执行未核",
-      "shortVisitStatus": "inquiry-only · 访客需自筹支持；八周与类别未定",
+      "shortVisitStatus": "inquiry-only · 访客预期自筹支持；八周与类别未定",
       "recordFile": "batches/embodied-081.json",
       "detailPage": "batches/embodied-081.md#ross-greer"
     },

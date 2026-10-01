@@ -54,7 +54,8 @@
     "batches/hri-012.json",
     "batches/hri-013.json",
     "batches/hri-014.json",
-    "batches/hri-015.json"
+    "batches/hri-015.json",
+    "batches/hri-016.json"
   ],
   "candidates": [
     {
@@ -6119,6 +6120,36 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-015.json",
       "detailPage": "batches/hri-015.md#zhi-jane-li"
+    },
+    {
+      "id": "byung-cheol-min",
+      "name": "Byung-Cheol Min",
+      "aliases": [
+        "B.C. Min",
+        "BC Min"
+      ],
+      "school": "Indiana University Bloomington",
+      "title": "Professor",
+      "homepage": "https://minb.pages.iu.edu/",
+      "batch": "hri-016",
+      "discoveredAt": "2026-09-30T23:26:25Z",
+      "verifiedAt": "2026-09-30T23:30:54Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-robot teams",
+        "Robot learning and human preferences",
+        "LLM-based robot planning",
+        "Active perception and uncertainty-aware manipulation",
+        "Multi-robot systems"
+      ],
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/hri-016.json",
+      "detailPage": "batches/hri-016.md#byung-cheol-min"
     }
   ]
 }

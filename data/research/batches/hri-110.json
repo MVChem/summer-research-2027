@@ -13,7 +13,7 @@
     "department": "Civil and Environmental Engineering; Cognitive Robotics & AI for Future Technology (CRAFT) Lab",
     "batch": "hri-110",
     "discoveredAt": "2026-10-01T13:58:00Z",
-    "verifiedAt": "2026-10-01T14:02:13Z",
+    "verifiedAt": "2026-10-01T14:28:47Z",
     "researchAreas": [
       "Human-robot teaming",
       "Learned world models and model-based control",
@@ -42,20 +42,9 @@
     },
     "shortVisit": {
       "status": "unknown",
-      "summary": "The live CRAFT opportunities page advertises rolling PhD positions. No separate external-master visiting, summer-intern or remote-research invitation was established. Local master’s and doctoral supervision do not imply an outside placement.",
+      "summary": "The current opportunities page has separate rolling PhD recruitment and undergraduate/master research inquiries by email, asking for transcript and a short cover letter with availability/interests. The master section does not state a local-enrollment restriction. It also does not explicitly establish outside visiting status, summer duration, funding or summer 2027 capacity, so the external-visit score remains zero.",
       "sourceIds": [
-        "s1",
-        "s2",
-        "s3",
-        "s4",
-        "s5",
-        "s6",
-        "s7",
-        "s8",
-        "s9",
-        "s10",
-        "s11",
-        "s12"
+        "s13"
       ]
     },
     "scores": {
@@ -67,7 +56,7 @@
     "scoreReasons": {
       "fit": "Direct world-model control, imitation learning and applied assistive HRI, with current CS-compatible graduate research.",
       "physical": "Full current-group actual learned control, independently linked to the PI’s current PhD and master’s advisees; preliminary performance limits explicit.",
-      "shortVisit": "No distinct outside-master visitor invitation; institutional eligibility and local advisees do not create a vacancy.",
+      "shortVisit": "A current general undergraduate/master research inquiry exists without an explicit local-only limit, but outside visiting status and short-term eligibility remain unresolved; no visitor offer is inferred.",
       "freshness": "Full June 2026 learned physical study and current student project evidence."
     },
     "sources": [
@@ -154,6 +143,14 @@
         "url": "https://international.northeastern.edu/ogs/exchange-visitor-program/j-1-scholars/information-for-new-j-1-scholars/",
         "summary": "Reused Student Non-Degree route, three weeks to two years, at least four months initiation and formal registration; no individual acceptance implied.",
         "verifiedAt": "2026-09-30T23:48:24Z"
+      },
+      {
+        "id": "s13",
+        "label": "Current opportunities page: master and undergraduate research section",
+        "url": "https://gilbert-yangye.github.io/opportunities/",
+        "summary": "Complete live page has a separate undergraduate/master research section inviting transcript and a short cover letter with availability/interests by email. It does not state a local-only limit, but does not explicitly establish outside visiting status or duration.",
+        "verifiedAt": "2026-10-01T14:28:47Z",
+        "retrieval": "Complete direct primary page; independent source audit"
       }
     ],
     "unknowns": [

@@ -1648,7 +1648,7 @@
         "appointmentType": "unresolved"
       },
       "display": "2025-01（官方新教师公告）",
-      "caveat": "当前博士生主导真实FR3/ARX控制，但仅7/20与9/20成功；只核实PhD招募，外校访客未知；学校要求过半非个人/家庭资金",
+      "caveat": "当前博士生主导真实FR3/ARX控制，仅7/20与9/20成功；一般MS/本科研究询问存在但外校访问身份/时长未核，学校要求过半非个人/家庭资金",
       "sources": [
         {
           "id": "s2",
@@ -3137,21 +3137,6 @@
           "url": "https://viterbi.usc.edu/directory/faculty/Albee/Keenan",
           "evidence": "Official current Assistant Professor and prior education, safe autonomy research and university email.",
           "observedAt": "2026-10-01T13:34:36Z"
-        }
-      ]
-    },
-    {
-      "key": "gilbert-yang-ye-advertised-degree-intake",
-      "candidateId": "gilbert-yang-ye",
-      "name": "Gilbert Yang Ye",
-      "kind": "capacity-or-role",
-      "scope": "Advertised CRAFT opportunities page",
-      "summary": "已公布入口仅滚动PhD招募，未据此推断访客禁止",
-      "observedAt": "2026-10-01T14:01:10Z",
-      "sources": [
-        {
-          "url": "https://gilbert-yangye.github.io/opportunities/",
-          "evidence": "Live opportunities page advertises rolling PhD recruitment; accepts CS backgrounds but does not separately invite outside-master research visitors."
         }
       ]
     },

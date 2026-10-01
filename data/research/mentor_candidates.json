@@ -164,7 +164,8 @@
     "batches/hri-045.json",
     "batches/hri-046.json",
     "batches/hri-047.json",
-    "batches/hri-048.json"
+    "batches/hri-048.json",
+    "batches/hri-049.json"
   ],
   "candidates": [
     {
@@ -9766,6 +9767,35 @@
       "shortVisitStatus": "inquiry-only",
       "recordFile": "batches/hri-048.json",
       "detailPage": "batches/hri-048.md#mingmin-zhao"
+    },
+    {
+      "id": "jeremy-d-brown",
+      "name": "Jeremy D. Brown",
+      "aliases": [
+        "Jeremy Brown"
+      ],
+      "school": "Johns Hopkins University",
+      "title": "John C. Malone Associate Professor",
+      "homepage": "https://engineering.jhu.edu/faculty/jeremy-brown/",
+      "batch": "hri-049",
+      "discoveredAt": "2026-10-01T03:25:08Z",
+      "verifiedAt": "2026-10-01T03:27:42Z",
+      "scores": {
+        "fit": 36,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Human-robot interaction",
+        "Haptic feedback and shared control",
+        "Medical robotics",
+        "Vision-guided surgical autonomy",
+        "Upper-limb prosthetics"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-049.json",
+      "detailPage": "batches/hri-049.md#jeremy-d-brown"
     }
   ]
 }

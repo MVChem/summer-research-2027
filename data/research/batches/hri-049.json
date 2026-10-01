@@ -1,0 +1,112 @@
+[
+  {
+    "id": "jeremy-d-brown",
+    "name": "Jeremy D. Brown",
+    "aliases": [
+      "Jeremy Brown"
+    ],
+    "school": "Johns Hopkins University",
+    "homepage": "https://engineering.jhu.edu/faculty/jeremy-brown/",
+    "title": "John C. Malone Associate Professor",
+    "department": "Mechanical Engineering",
+    "batch": "hri-049",
+    "discoveredAt": "2026-10-01T03:25:08Z",
+    "verifiedAt": "2026-10-01T03:27:42Z",
+    "researchAreas": [
+      "Human-robot interaction",
+      "Haptic feedback and shared control",
+      "Medical robotics",
+      "Vision-guided surgical autonomy",
+      "Upper-limb prosthetics"
+    ],
+    "fitReason": "A medical-HRI and haptic interaction match with an attributable collaborative experiment connecting a pretrained visual model to real robot control. The current lab emphasis is broader haptics and human perception, so a CS-heavy short project needs explicit alignment.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The full August 2025 TMRB paper uses CoTracker visual tracking with an RGB-D camera to update a fuzzy controller on an actual KUKA LBR Med during ex vivo porcine-tissue cutting. Initial landmarks are manually selected, and path planning is geometric. Six closed-loop cuts were compared with three open-loop cuts. The learned tracker operates online, but its 2.9-fps rate and reliance on calibration limit translation; this is not validated clinical autonomy. Brown is a coauthor. The inspected current HAMR member list does not establish this experiment as a current independently led Brown-group platform, so it is scored as collaborative hardware.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The live HAMR Join Us page welcomes undergraduate and master’s participation, but its linked detailed guidance is explicitly dated September 15, 2016 and focuses on JHU research courses with a two-semester fall/spring commitment. It encourages full-time summer research without establishing current external-master’s eligibility. Listed summer REU/PURA pathways are undergraduate-specific. No current external eight-week or summer 2027 invitation was verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 36,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "36/40: strong HRI/haptics and a real learned-perception medical-control connection, with narrower CS-method overlap than general robot-learning groups.",
+      "physical": "20/25: directly verified collaborative online robot experiment; current independent Brown platform attribution unconfirmed.",
+      "shortVisit": "0/20: local/old master’s participation guidance and undergraduate summer routes do not confirm external short-visit eligibility.",
+      "freshness": "10/15: substantive learned physical study published in 2025; no 2026 experiment inferred from later indexing."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.jhu.edu / source 1",
+        "url": "https://engineering.jhu.edu/faculty/jeremy-brown/",
+        "summary": "Full current official profile verifies endowed Associate Professor title, Mechanical Engineering, lab leadership, haptic/medical HRI scope and public email.",
+        "verifiedAt": "2026-10-01T03:27:42Z"
+      },
+      {
+        "id": "s2",
+        "label": "hamr.lcsr.jhu.edu / source 2",
+        "url": "https://hamr.lcsr.jhu.edu/join-us/",
+        "summary": "Full current lab page welcomes undergraduate/master’s involvement, separately lists PhD admissions and undergraduate summer programs, and links detailed guidance.",
+        "verifiedAt": "2026-10-01T03:27:42Z"
+      },
+      {
+        "id": "s3",
+        "label": "hamr.lcsr.jhu.edu / source 3",
+        "url": "https://hamr.lcsr.jhu.edu/wp-content/uploads/2020/07/HAMRLabGuidelinesExpectations_UGMS.pdf",
+        "summary": "Full three-page guidance explicitly dated September 15, 2016; includes local course numbers, two-semester fall/spring expectation and a general summer encouragement, without current external-master’s intake terms.",
+        "verifiedAt": "2026-10-01T03:27:42Z"
+      },
+      {
+        "id": "s4",
+        "label": "hamr.lcsr.jhu.edu / source 4",
+        "url": "https://hamr.lcsr.jhu.edu/wp-content/uploads/2025/10/Autonomous_Closed-Loop_Control_for_Robotic_Soft_Tissue_Electrosurgery_Using_RGB-D_Image_Guidance.pdf",
+        "summary": "Primary paper downloaded from official lab and read through methods/results/limitations. Verifies online learned tracking linked to actual robot actuation; distinguishes manual initialization and ex vivo scope.",
+        "verifiedAt": "2026-10-01T03:27:42Z"
+      },
+      {
+        "id": "s5",
+        "label": "hamr.lcsr.jhu.edu / source 5",
+        "url": "https://hamr.lcsr.jhu.edu/publications-2/",
+        "summary": "Current lab publication list attributes the 2025 collaborative electrosurgery paper to Brown; later publication-list retrieval is not a newer experiment.",
+        "verifiedAt": "2026-10-01T03:27:42Z"
+      },
+      {
+        "id": "s6",
+        "label": "hamr.lcsr.jhu.edu / source 6",
+        "url": "https://hamr.lcsr.jhu.edu/people/",
+        "summary": "Full current lab roster has graduate researchers and summer undergraduates, but does not establish a current external-master’s invitation or the paper lead authors as current Brown advisees.",
+        "verifiedAt": "2026-10-01T03:27:42Z"
+      }
+    ],
+    "unknowns": [
+      "The live page’s master’s wording must not be read as a confirmed visiting-master’s offer; the linked course guidance is old and primarily locally enrolled student-oriented.",
+      "Previously verified WSE visiting graduate scholar policy provides a formal external-graduate route with research-credit and approval requirements. It does not establish this lab’s capacity, exact duration or funding terms.",
+      "The CoTracker study is collaborative JHU work with Axel Krieger and others. A current Brown-group adviser/platform relationship for its lead authors was not verified.",
+      "A research visit would require host and department approval, an appropriate appointment/visa category, insurance and funding verification. No outreach has occurred.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "jdelainebrown@jhu.edu"
+  }
+]

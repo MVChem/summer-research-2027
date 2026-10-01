@@ -370,5 +370,14 @@ class ResearchLedgerTests(unittest.TestCase):
         with self.assertRaises(AssertionError): ledger.validate_priority_notes(notes, self.full)
 
 
+    def test_restriction_catalogue_is_not_a_candidate_count(self):
+        notes = ledger.priority_notes()
+        ledger.validate_priority_notes(notes, self.full)
+        text = ledger.render_contact_constraints(notes)
+        self.assertIn('Simon B. Stepputtis', text)
+        self.assertIn('限制目录；未计入新增排名', text)
+        self.assertNotIn('simon-b-stepputtis', {r['id'] for r in self.full['candidates']})
+
+
 if __name__ == "__main__":
     unittest.main()

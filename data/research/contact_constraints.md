@@ -20,6 +20,13 @@
 - **明确不接收暑期实习生；一般偏好9个月，每年仅约1–2位且多为PhD，不据此推断绝对禁止硕士**
 - 核查：2026-10-01T11:38:47Z · [来源1](https://rail.eecs.berkeley.edu/contact.html) · [来源2](https://docs.google.com/forms/d/e/1FAIpQLScdgQplFqrnVqhX42gzHctg1TGgmNy9GcHRuqZM2uJGzIRoXg/viewform?usp=sf_link)
 
+### Roy Fox（限制目录；未计入新增排名）
+
+- 公开任职：本条未重新核实准确职级 · University of California, Irvine · [主页](https://indylab.org/contact)
+- 适用范围：External short-term visitors；Shorter visits under the two-quarter external visitor requirement
+- **至少两个quarter的无资助访问仍可讨论；当前明确无法接收更短访问，包括暑期实习。不能改写为所有访问全面关闭**
+- 核查：2026-10-01T12:23:33Z · [来源1](https://indylab.org/contact)
+
 ## 当前明确暂停相关访客入口
 
 ### Shubham Tulsiani（原名单 #46）
@@ -27,6 +34,34 @@
 - 适用范围：当前短期实习/访客
 - **当前明确没有短期实习或访客位置；未注明适用年份，不能推断为永久关闭**
 - 核查：2026-10-01T00:42:48Z · [来源1](https://shubhtuls.github.io/)
+
+### Simon B. Stepputtis（限制目录；未计入新增排名）
+
+- 公开任职：Assistant Professor of Mechanical Engineering; Computer Science by courtesy · Virginia Tech · [主页](https://tealab.ai/join/)
+- 适用范围：TEA Lab visitor positions and remote internships
+- **当前明确不提供远程实习和visitor positions；本校研究与学位申请是不同入口，不能代替外校访客资格**
+- 核查：2026-10-01T12:20:29Z · [来源1](https://me.vt.edu/people/faculty/stepputtis-simon.html) · [来源2](https://tealab.ai/join/)
+
+### Julie A. Kientz（限制目录；未计入新增排名）
+
+- 公开任职：Professor · University of Washington · [主页](https://faculty.washington.edu/jkientz/students/)
+- 适用范围：Students not enrolled at UW; undergraduate DREU/DUB REU exception
+- **不接收未在UW就读的学生进行暑期实习、访问或志愿研究；明确例外只针对经DREU/DUB REU申请的外校本科生，未见外校硕士例外**
+- 核查：2026-10-01T12:20:53Z · [来源1](https://faculty.washington.edu/jkientz/students/)
+
+### Tucker Hermans（限制目录；未计入新增排名）
+
+- 公开任职：本条未重新核实准确职级 · University of Utah · [主页](https://robot-learning.cs.utah.edu/prospectivestudents)
+- 适用范围：Summer internship positions；Visiting researcher positions
+- **当前没有暑期实习或visiting researcher位置；页面更新2026-08-24，未核实2027重新开放**
+- 核查：2026-10-01T12:23:33Z · [来源1](https://robot-learning.cs.utah.edu/prospectivestudents)
+
+### Jaemin Cho（限制目录；未计入新增排名）
+
+- 公开任职：本条未重新核实准确职级 · Johns Hopkins University · [主页](https://j-min.io/post/prospective-students/)
+- 适用范围：Exact published Remote interns / visitors section
+- **准确栏目“Remote interns / visitors”当前没有空位；页面更新2026-09-28，不推断永久禁令或自行假设现场例外**
+- 核查：2026-10-01T12:23:33Z · [来源1](https://j-min.io/post/prospective-students/)
 
 ## 明确最短时长
 
@@ -99,6 +134,20 @@
 - 适用范围：WEIRD学生研究入口
 - **当前研究入口限定已在UW的学生；参观实验室不等于外校研究任命**
 - 核查：2026-10-01T10:27:38Z · [来源1](https://weirdlab.cs.washington.edu/) · [来源2](https://homes.cs.washington.edu/~abhgupta/)
+
+### Krishna Murthy Jatavallabhula（限制目录；未计入新增排名）
+
+- 公开任职：Assistant Professor · Johns Hopkins University · [主页](https://sciphylab.org/apply/)
+- 适用范围：Undergraduate and master’s research collaboration
+- **本科/硕士研究合作明确仅限当前在读Hopkins学生；未见外校硕士例外，不扩大为所有类别学者访问的禁令**
+- 核查：2026-10-01T12:13:53Z · [来源1](https://www.cs.jhu.edu/news/johns-hopkins-computer-science-welcomes-six-new-tenure-track-faculty/) · [来源2](https://sciphylab.org/apply/)
+
+### Kaiyu Hang（限制目录；未计入新增排名）
+
+- 公开任职：本条未重新核实准确职级 · Rice University · [主页](https://hangkaiyu.github.io/join.html)
+- 适用范围：Projects for Rice undergraduate/master students only
+- **六个月最低投入属于Rice本校本科/硕士项目，并要求相关课程；外校访客是否适用没有说明，不能将此当作全体访客的六个月禁令**
+- 核查：2026-10-01T12:23:33Z · [来源1](https://hangkaiyu.github.io/join.html)
 
 ## 容量或任职提醒
 

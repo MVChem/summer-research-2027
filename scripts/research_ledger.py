@@ -257,8 +257,14 @@ def validate_priority_notes(notes, data):
         assert entry["key"] not in seen; seen.add(entry["key"])
         assert entry["kind"] in {"minimum-duration", "duration-preference", "no-summer-interns", "no-visitors", "local-students-only", "capacity-or-role"}
         assert entry["scope"] and entry["summary"] and entry["sources"]
-        assert ("candidateId" in entry) != ("baselineId" in entry)
-        target = rows[entry["candidateId"]] if "candidateId" in entry else baseline[entry["baselineId"]]
+        assert sum(key in entry for key in ("candidateId", "baselineId", "catalogueIdentity")) == 1
+        if "catalogueIdentity" in entry:
+            target = entry["catalogueIdentity"]
+            assert target["title"] and target["institution"]
+            url_key(target["homepage"])
+            assert name_key(entry["name"]) not in {name_key(r["name"]) for r in [*rows.values(), *baseline.values()]}, "Restriction-only identity already has a main record"
+        else:
+            target = rows[entry["candidateId"]] if "candidateId" in entry else baseline[entry["baselineId"]]
         assert name_key(entry["name"]) == name_key(target["name"])
         timestamp(entry["observedAt"])
         for source in entry["sources"]: url_key(source["url"]); assert source["evidence"]
@@ -307,9 +313,13 @@ def render_contact_constraints(notes):
         if not entries: continue
         lines += ["## " + heading, ""]
         for x in entries:
-            origin = "原名单 #" + str(x["baselineId"]) if "baselineId" in x else "新增候选"
+            origin = "原名单 #" + str(x["baselineId"]) if "baselineId" in x else ("限制目录；未计入新增排名" if "catalogueIdentity" in x else "新增候选")
             sources = " · ".join(f"[来源{i+1}]({s['url']})" for i,s in enumerate(x["sources"]))
-            lines += [f"### {x['name']}（{origin}）", "", f"- 适用范围：{x['scope']}", f"- **{x['summary']}**", f"- 核查：{x['observedAt']} · {sources}", ""]
+            lines += [f"### {x['name']}（{origin}）", ""]
+            if "catalogueIdentity" in x:
+                identity = x["catalogueIdentity"]
+                lines += [f"- 公开任职：{identity['title']} · {identity['institution']} · [主页]({identity['homepage']})"]
+            lines += [f"- 适用范围：{x['scope']}", f"- **{x['summary']}**", f"- 核查：{x['observedAt']} · {sources}", ""]
     return "\n".join(lines) + "\n"
 
 

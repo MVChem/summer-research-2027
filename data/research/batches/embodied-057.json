@@ -1,0 +1,100 @@
+[
+  {
+    "id": "andrew-ilyas",
+    "name": "Andrew Ilyas",
+    "aliases": [],
+    "school": "Carnegie Mellon University",
+    "homepage": "https://andrewilyas.com/",
+    "title": "Assistant Professor",
+    "department": "Electrical and Computer Engineering; School of Computer Science",
+    "batch": "embodied-057",
+    "discoveredAt": "2026-10-01T04:25:58Z",
+    "verifiedAt": "2026-10-01T04:37:21Z",
+    "researchAreas": [
+      "Data-centric robot learning",
+      "Robot imitation learning",
+      "Foundation-policy dataset curation",
+      "Reliable machine learning"
+    ],
+    "fitReason": "A methods-focused CS option for studying which demonstrations improve a robot foundation policy. DataMIL directly connects his data-attribution work to language-conditioned physical manipulation; a scoped data-curation or robustness project is a plausible discussion topic, not an offered summer project.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "DataMIL’s full June 19, 2026 revision fine-tunes Octo-small with selected OXE data and new target demonstrations, then executes real Franka Panda and Tiago policies. Appendix F.3 specifies 14 pick, 17 pouch, 39 sink and 32 multi-task evaluation rollouts; real-world experiments use one seed and partial multi-task successes receive half credit. This is actual policy execution, separate from MetaWorld/LIBERO simulation. The collaboration credits Ilyas under his earlier Stanford affiliation and is hosted by UT Austin’s Robot Interactive Intelligence Lab; it does not establish hardware in his new CMU group.",
+      "sourceIds": [
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "The complete current personal homepage explicitly offers limited space for interns and invites email, while warning that high volume prevents a guaranteed response. That sentence is separate from PhD admission and current-CMU student instructions. It specifies no duration, applicant eligibility, funding or summer 2027 dates.",
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 20,
+      "shortVisit": 7,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct data-centric foundation-policy and imitation-learning contribution, with a broader methods programme rather than a primarily hardware-led lab.",
+      "physical": "Verified real-policy experiments in collaboration under prior affiliation; current own-group CMU hardware not verified.",
+      "shortVisit": "Explicit current limited internship inquiry, with no duration or external-master’s confirmation.",
+      "freshness": "June 2026 primary revision and verified 2026 faculty start; opening has no stated future summer year."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "andrewilyas.com / source 1",
+        "url": "https://andrewilyas.com/",
+        "summary": "Full current faculty homepage: CMU role, January 2026 start, limited intern email invitation, public professional contact, current students and robot data-selection research.",
+        "verifiedAt": "2026-10-01T04:37:21Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "www.ece.cmu.edu / source 2",
+        "url": "https://www.ece.cmu.edu/directory/bios/andrew-ilyas.html",
+        "summary": "Current official Assistant Professor directory entry; biography retains incoming Spring 2026 wording, reconciled with current personal page and CV.",
+        "verifiedAt": "2026-10-01T04:26:43Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "andrewilyas.com / source 3",
+        "url": "https://andrewilyas.com/AndrewIlyasCV.pdf",
+        "summary": "Full current faculty-authored CV: CMU Assistant Professor from 2026 in Engineering/SCS; venue-label discrepancy explicitly retained.",
+        "verifiedAt": "2026-10-01T04:26:43Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2505.09603v2",
+        "summary": "Full June 19, 2026 DataMIL revision, experiments and Appendix F.3: language-conditioned Octo execution, actual embodiments, rollouts, single-seed and partial-credit caveats, prior Stanford affiliation.",
+        "verifiedAt": "2026-10-01T04:26:43Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "robin-lab.cs.utexas.edu / source 5",
+        "url": "https://robin-lab.cs.utexas.edu/datamodels4imitation/",
+        "summary": "Full author project page hosted at UT Austin: faculty co-advising attribution and separate physical-manipulation versus simulation results.",
+        "verifiedAt": "2026-10-01T04:26:43Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "CMU’s official ECE directory gives Assistant Professor but its biography retains incoming Spring 2026 wording. The current faculty-authored homepage and CV independently say current CMU Assistant Professor, with a January 2026 start. This is a new 2026 appointment, not still-incoming status.",
+      "Physical evidence is capped at 20 for collaborative/prior-affiliation research. CMU-local robotic equipment, visitor hardware access, supervision capacity and whether a summer project can include new physical trials remain unverified.",
+      "Reuse the saved CMU institutional audit: the independent Student Intern/Collaborating Visitor route is distinct from RISS, whose restrictions do not supply an external-master’s entry point. Host/department approval, OIE category, advance screening, exact eight-week duration, current financial minimum and self-funding eligibility still require confirmation.",
+      "The faculty homepage labels DataMIL ICML 2026 while the current CV labels it ICLR 2026. This record relies on the unambiguous June 19, 2026 arXiv revision for technical evidence and does not resolve or propagate the inconsistent venue label.",
+      "Summer 2027 acceptance, dates, remote arrangement, funding and applicable institutional/immigration approval are unconfirmed. A public startup cofounder role does not by itself establish leave or university-hosting unavailability.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[CMU institutional visitor rules](../eligibility_notes.md#cmu-student-intern)"
+    ],
+    "publicEmail": "andrewi@andrew.cmu.edu"
+  }
+]

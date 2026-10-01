@@ -122,6 +122,7 @@
     "batches/embodied-054.json",
     "batches/embodied-055.json",
     "batches/embodied-056.json",
+    "batches/embodied-057.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -6888,6 +6889,32 @@
       "shortVisitStatus": "inquiry-only",
       "recordFile": "batches/embodied-056.json",
       "detailPage": "batches/embodied-056.md#chengzhi-mao"
+    },
+    {
+      "id": "andrew-ilyas",
+      "name": "Andrew Ilyas",
+      "aliases": [],
+      "school": "Carnegie Mellon University",
+      "title": "Assistant Professor",
+      "homepage": "https://andrewilyas.com/",
+      "batch": "embodied-057",
+      "discoveredAt": "2026-10-01T04:25:58Z",
+      "verifiedAt": "2026-10-01T04:37:21Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 7,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Data-centric robot learning",
+        "Robot imitation learning",
+        "Foundation-policy dataset curation",
+        "Reliable machine learning"
+      ],
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/embodied-057.json",
+      "detailPage": "batches/embodied-057.md#andrew-ilyas"
     },
     {
       "id": "henny-admoni",

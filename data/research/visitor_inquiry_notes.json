@@ -549,6 +549,12 @@
       "sourceIds": [
         "s2"
       ]
+    },
+    "andrea-dambrosio": {
+      "note": "访客独立询问入口；USF主要资金须非个人、个人仅补充；学习控制仅仿真",
+      "sourceIds": [
+        "s3"
+      ]
     }
   }
 }

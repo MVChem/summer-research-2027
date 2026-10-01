@@ -93,6 +93,7 @@
     "batches/control-082.json",
     "batches/control-083.json",
     "batches/control-084.json",
+    "batches/control-085.json",
     "batches/control-086.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
@@ -4999,6 +5000,71 @@
       "shortVisitStatus": "unknown · 当前不征集具体项目；仅未来兴趣登记",
       "recordFile": "batches/control-084.json",
       "detailPage": "batches/control-084.md#daniel-bruder"
+    },
+    {
+      "id": "andrea-dambrosio",
+      "name": "Andrea D’Ambrosio",
+      "aliases": [
+        "Andrea D'Ambrosio",
+        "Andrea DAmbrosio"
+      ],
+      "school": "University of South Florida",
+      "title": "Assistant Professor",
+      "homepage": "https://ciro-lab.com/",
+      "batch": "control-085",
+      "discoveredAt": "2026-10-01T07:20:02Z",
+      "verifiedAt": "2026-10-01T09:43:52Z",
+      "scores": {
+        "fit": 35,
+        "physical": 0,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Spacecraft reinforcement learning",
+        "Safe neural guidance",
+        "Autonomous planetary landing",
+        "Physics-informed optimal control"
+      ],
+      "candidateTier": "Robotics-AI / physical-unverified visitor backup — space autonomy",
+      "physicalEvidenceStatus": "simulation-only",
+      "physicalEvidenceLabel": "仅仿真；真机待核实",
+      "shortVisitStatus": "conditional-inquiry · USF主要资金须机构支持，个人仅补充",
+      "recordFile": "batches/control-085.json",
+      "detailPage": "batches/control-085.md#andrea-dambrosio"
+    },
+    {
+      "id": "tamas-g-molnar",
+      "name": "Tamás G. Molnár",
+      "aliases": [
+        "Tamas G. Molnar",
+        "Tamas Molnar",
+        "Tamás Molnár"
+      ],
+      "school": "Cleveland State University",
+      "title": "Assistant Professor",
+      "homepage": "https://tamasmolnar.com/index.html",
+      "batch": "control-085",
+      "discoveredAt": "2026-10-01T02:09:27Z",
+      "verifiedAt": "2026-10-01T09:43:52Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Safe robot learning",
+        "Control barrier functions",
+        "Human-intention estimation",
+        "Connected autonomous vehicles"
+      ],
+      "candidateTier": "Robotics-AI with prior collaborative physical evidence; current-host hardware unverified",
+      "physicalEvidenceStatus": "Prior collaborative learned tracked-robot verified; current Cleveland execution unverified",
+      "physicalEvidenceLabel": "受限真机证据：Prior collaborative learned tracked-robot verified; current Cleveland execution unverified",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-085.json",
+      "detailPage": "batches/control-085.md#tamas-g-molnar"
     },
     {
       "id": "h-eric-tseng",

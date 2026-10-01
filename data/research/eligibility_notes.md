@@ -1037,3 +1037,10 @@ Part II第5页允许全额个人资金，但要求境外大学/研究机构关�
 核查：2026-10-01T07:22:21Z。[当前 Exchange Visitors 官方说明](https://www.uhcl.edu/academics/advising/international/exchange-visitors/)列出不足6个月的 Short-Term Scholar，但没有明确境外在读硕士资格或最短任期。Student Intern 仅在概述及资金标准中出现，未核实完整现行流程，因此不能直接认定8周境外硕士可走此类别。
 
 研究学者/教授邀请清单要求至少提前90天、校级/学院审批、正式邀请、英语及财力证明，并要求至少50%最低经费来自机构、政府、企业或其他组织，不能全部依赖个人/家庭资金。Student Intern 是否存在适用的独立资金例外须由 EASS 确认。未核实每月最低额、校内费用或完整2027预算。保险覆盖全程；住宿交通需写入安排。此处为 UH–Clear Lake，不沿用 UH 主校区规则，也不代表实验室开放或个人获批。
+
+<a id="cleveland-state"></a>
+## Cleveland State · 外校硕士类别及旧财力额待确认
+
+核查2026-10-01T09:43:52Z。[现行 J-1 页](https://www.csuohio.edu/international/j-1-exchange-visitor-program)列 Short-Term Scholar 为1天至6个月、至少学士及英语能力，需导师资源、研究计划、系主任和院长审批；外校在读硕士的具体任命仍待 CISP 确定。每月2,300美元明确标注为2022年4月基准，不能直接当作2027预算。页面接受银行证明，但未明确保证全部个人资金适用；另需保险。两周仅是办理提示，不代表完整签证周期。
+
+当前类别表未列 Student Intern；旧申请表的复选框不足以确认现行路径。Non-degree Student 的 MOU 及非个人主要资金规则不可自动套用 scholar。此处为 Cleveland State，区别于其他 CSU。

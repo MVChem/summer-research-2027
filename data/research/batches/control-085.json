@@ -1,0 +1,232 @@
+[
+  {
+    "id": "andrea-dambrosio",
+    "name": "Andrea D’Ambrosio",
+    "aliases": [
+      "Andrea D'Ambrosio",
+      "Andrea DAmbrosio"
+    ],
+    "school": "University of South Florida",
+    "homepage": "https://ciro-lab.com/",
+    "title": "Assistant Professor",
+    "department": "Mechanical and Aerospace Engineering; CIRO Lab",
+    "batch": "control-085",
+    "discoveredAt": "2026-10-01T07:20:02Z",
+    "verifiedAt": "2026-10-01T09:43:52Z",
+    "researchAreas": [
+      "Spacecraft reinforcement learning",
+      "Safe neural guidance",
+      "Autonomous planetary landing",
+      "Physics-informed optimal control"
+    ],
+    "fitReason": "Space-autonomy backup with substantive learned guidance and a distinct current research-visitor route.",
+    "physicalEvidence": {
+      "status": "simulation-only",
+      "summary": "Physical0 for learned execution. The complete lunar-landing meta-RL paper uses a recurrent CNN/GRU policy with PPO, camera images and ranging observations to produce thrust commands in Blender/Monte Carlo simulation. Real lunar terrain data used for rendering are not a physical flight. The 2025 path-constrained Pontryagin-network study also reports numerical rendezvous/rocket-ascent results. Separate 2021 Sapienza gantry experiments used PSO/geometric hazard detection; they do not establish current USF learned-robot hardware. A 2021 conference abstract mentions CNN hardware, but full methods were not verified and no physical credit is assigned.",
+      "sourceIds": [
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "shortVisit": {
+      "status": "conditional-inquiry · USF主要资金须机构支持，个人仅补充",
+      "summary": "CIRO’s live Join page has a separate Visiting student, collaborator, or researcher section: contact the PI with a CV, academic transcript and tentative research plan to check availability and topics. This is distinct from the PhD application instructions. No 2027 dates, eight-week commitment or funding promise is advertised.",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 35,
+      "physical": 0,
+      "shortVisit": 8,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantial learned autonomous guidance, with a narrower spacecraft rather than manipulation/terrestrial-robot focus.",
+      "physical": "Verified learned evaluation is simulated; older classical gantry and conference-only CNN claim receive no learned-hardware credit.",
+      "shortVisit": "Explicit visitor inquiry, with duration/category/funding acceptance unresolved.",
+      "freshness": "Official datedFebruary 2026 research appointment report and actual 2026 research presentations."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.usf.edu / source 1",
+        "url": "https://www.usf.edu/engineering/mae/people/",
+        "summary": "Current assistant professor, university email and ML/guidance expertise.",
+        "verifiedAt": "2026-10-01T09:43:52Z",
+        "retrieval": "Direct official/primary web.run source"
+      },
+      {
+        "id": "s2",
+        "label": "www.usf.edu / source 2",
+        "url": "https://www.usf.edu/engineering/news/2026/usf-expands-footprint-in-space-research.aspx",
+        "summary": "February 18, 2026 university report confirms current appointment and AI control-certification research.",
+        "verifiedAt": "2026-10-01T09:43:52Z",
+        "retrieval": "Direct official/primary web.run source"
+      },
+      {
+        "id": "s3",
+        "label": "ciro-lab.com / source 3",
+        "url": "https://ciro-lab.com/join/",
+        "summary": "Direct current visiting-student/collaborator inquiry instructions, separate from graduate-degree entry.",
+        "verifiedAt": "2026-10-01T09:43:52Z",
+        "retrieval": "Direct official/primary web.run source"
+      },
+      {
+        "id": "s4",
+        "label": "ciro-lab.com / source 4",
+        "url": "https://ciro-lab.com/people/",
+        "summary": "Current group and 2026 supervised doctoral researcher; no current visitor members listed.",
+        "verifiedAt": "2026-10-01T09:43:52Z",
+        "retrieval": "Direct official/primary web.run source"
+      },
+      {
+        "id": "s5",
+        "label": "ciro-lab.com / source 5",
+        "url": "https://ciro-lab.com/publications/",
+        "summary": "Primary PI research list includes 2025 constrained neural control and 2026 safe-RL/spacecraft docking presentations.",
+        "verifiedAt": "2026-10-01T09:43:52Z",
+        "retrieval": "Direct official/primary web.run source"
+      },
+      {
+        "id": "s6",
+        "label": "iris.uniroma1.it / source 6",
+        "url": "https://iris.uniroma1.it/retrieve/e383532d-74e8-15e8-e053-a505fe0a3de9/Scorsoglio_postprint_Image-Based_2021.pdf.pdf",
+        "summary": "Complete32-page accepted manuscript verifies PPO/CNN/GRU guidance and Blender-only evaluation.",
+        "verifiedAt": "2026-10-01T09:43:52Z",
+        "retrieval": "Public institutional PDF downloaded and complete methods/conclusion inspected"
+      },
+      {
+        "id": "s7",
+        "label": "experts.arizona.edu / source 7",
+        "url": "https://experts.arizona.edu/en/publications/physics-informed-pontryagin-neural-networks-for-path-constrained--3/",
+        "summary": "Official 2025 publication abstract explicitly classifies constrained rendezvous/ascent results as numerical.",
+        "verifiedAt": "2026-10-01T09:43:52Z",
+        "retrieval": "Official university search result; direct fetch failed"
+      },
+      {
+        "id": "s8",
+        "label": "www.mdpi.com / source 8",
+        "url": "https://www.mdpi.com/2226-4310/8/7/195",
+        "summary": "Complete 2021 gantry paper distinguishes PSO/geometric control from future machine-learning augmentation.",
+        "verifiedAt": "2026-10-01T09:43:52Z",
+        "retrieval": "Direct official/primary web.run source"
+      }
+    ],
+    "unknowns": [
+      "Reuse South Florida policy: outside degree students appear in Student Intern scope, but the current shared funding rule calls for institutional/government/organizational primary support and personal funds only as supplement; no applicable all-personal exception was verified. The annual estimate and 250-dollar host processing fee require 2027 confirmation. Plan3–6months administrative lead; minimum stay, weekly hours, arrival timing and external-master appointment need OIS/host confirmation. Lab welcome is an inquiry route rather than guaranteed admission or access.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#south-florida)"
+    ],
+    "candidateTier": "Robotics-AI / physical-unverified visitor backup — space autonomy",
+    "publicEmail": "dambrosioa@usf.edu"
+  },
+  {
+    "id": "tamas-g-molnar",
+    "name": "Tamás G. Molnár",
+    "aliases": [
+      "Tamas G. Molnar",
+      "Tamas Molnar",
+      "Tamás Molnár"
+    ],
+    "school": "Cleveland State University",
+    "homepage": "https://tamasmolnar.com/index.html",
+    "title": "Assistant Professor",
+    "department": "Mechanical Engineering; SANDy Lab",
+    "batch": "control-085",
+    "discoveredAt": "2026-10-01T02:09:27Z",
+    "verifiedAt": "2026-10-01T09:43:52Z",
+    "researchAreas": [
+      "Safe robot learning",
+      "Control barrier functions",
+      "Human-intention estimation",
+      "Connected autonomous vehicles"
+    ],
+    "fitReason": "Specific learning-enabled safety-filter methods executed on a real robot, with an active current safe-autonomy program.",
+    "physicalEvidence": {
+      "status": "Prior collaborative learned tracked-robot verified; current Cleveland execution unverified",
+      "summary": "The complete ICRA 2024 paper deploys an LSTM/DNN classifier to infer driver intent and select among three backup controllers on a tracked GVR-Bot/modified PackBot510. ROS/Python/C++ control and depth-camera/IMU state estimation execute real obstacle avoidance; the human still supplies desired velocity commands. The learned switch operates inside analytical backup-CBF constraints, not a learned universal safety guarantee. Hardware is the Caltech/JPL collaboration while Molnar was at Wichita; present Cleveland platform access is unverified. Physical20.",
+      "sourceIds": [
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The current homepage offers a generic prospective-student/postdoc interest form, which the PI monitors instead of promising email responses. No distinct external-master short-visitor invitation or 2027 vacancy is specified.",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantive neural intent/safety switching and preference-aware robot-control methods.",
+      "physical": "Actual collaborative tracked-robot learning, capped20; no new Cleveland hardware claim.",
+      "shortVisit": "Generic degree/postdoc interest does not prove an external short-visitor route.",
+      "freshness": "Current publication list contains a dated 2026 connected-vehicle study; older learned-robot evidence is labeled separately."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.csuohio.edu / source 1",
+        "url": "https://engineering.csuohio.edu/mce/robotics-and-control-research",
+        "summary": "Current university faculty listing; Cleveland is distinct from former Wichita host.",
+        "verifiedAt": "2026-10-01T09:43:52Z",
+        "retrieval": "Direct official/primary web.run source"
+      },
+      {
+        "id": "s2",
+        "label": "tamasmolnar.com / source 2",
+        "url": "https://tamasmolnar.com/index.html",
+        "summary": "Fall 2026 Cleveland appointment, current email and generic student/postdoc form.",
+        "verifiedAt": "2026-10-01T09:43:52Z",
+        "retrieval": "Direct official/primary web.run source"
+      },
+      {
+        "id": "s3",
+        "label": "tamasmolnar.com / source 3",
+        "url": "https://tamasmolnar.com/research.html",
+        "summary": "PI specifically attributes learned switching on real dual-track robot and prior preference-learning experiments.",
+        "verifiedAt": "2026-10-01T09:43:52Z",
+        "retrieval": "Direct official/primary web.run source"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2310.05865v3",
+        "summary": "CompleteCC-BY March 2024 paper verifies actual tracked-robot learner and prior Caltech/Wichita attribution.",
+        "verifiedAt": "2026-10-01T09:43:52Z",
+        "retrieval": "Direct official/primary web.run source"
+      },
+      {
+        "id": "s5",
+        "label": "tamasmolnar.com / source 5",
+        "url": "https://tamasmolnar.com/publication.html",
+        "summary": "ICRA 2024 author record and explicit 2026 connected-vehicle research publication.",
+        "verifiedAt": "2026-10-01T09:43:52Z",
+        "retrieval": "Direct official/primary web.run source"
+      },
+      {
+        "id": "s6",
+        "label": "www.csuohio.edu / source 6",
+        "url": "https://www.csuohio.edu/international/j-1-exchange-visitor-program",
+        "summary": "Current scholar categories, dated 2022 support figure, host approvals and separate enrolled-Student funding restriction.",
+        "verifiedAt": "2026-10-01T09:43:52Z",
+        "retrieval": "Direct official/primary web.run source"
+      }
+    ],
+    "unknowns": [
+      "Current Cleveland policy lists Short-Term Scholar at 1day–6months with bachelor-level qualification and host/chair/dean approval; it does not expressly settle an outside-master research appointment. The live2300-dollar monthly figure is datedApril 2022, so 2027 support/insurance costs need reconfirmation. Bank statements are accepted evidence, but an all-personal-funding approval is not explicit. Current category table omits Student Intern despite an older form checkbox; CISP must resolve category. Its non-degree Student/MOU and nonpersonal-primary-funding rule is separate from scholar eligibility. Two weeks is paperwork processing guidance, not a visa lead guarantee.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#cleveland-state)"
+    ],
+    "candidateTier": "Robotics-AI with prior collaborative physical evidence; current-host hardware unverified",
+    "publicEmail": "t.g.molnar@csuohio.edu"
+  }
+]

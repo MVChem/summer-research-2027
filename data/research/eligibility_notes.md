@@ -271,3 +271,45 @@ Allison Okamura 的 [CHARM 个人页](https://charm.stanford.edu/Main/AllisonOka
 核查：2026-09-30T23:22:24Z。[OIS 分类规则](https://ois.usc.edu/departments/selecting-j1-category/) 按访问实际活动选类别：Short-Term Scholar 要求至少本科及相关专长，研究可为 1 天至六个月，仍须学校任命与 OIS 判断。[财力页](https://ois.usc.edu/getting-started/j1-exchange-visitor-funding-requirements/) 接受个人/家长银行文件，现列 scholar 每月 2,000 美元，2027 须复核；Non-Degree Student 的超过 51% 非个人资金规则属于另一类别，不自动套用。
 
 [主办流程](https://ois.usc.edu/departments/ds2019-requests-j1-scholars/) 的详细时间线从院系提前 3–4 个月准备、完整请求至少提前两个月开始；页面个别 after/before 措辞不一致，须确认。250 美元 ISD 费经部门支付，不推定为访客收费或总预算。[中央 SURE 页面](https://viterbischool.usc.edu/sure/) 说明 Summer 2026 暂停且未公布恢复时间，资格为满足身份条件的美国院校本科生，不能当作外校硕士暑研入口。此项目暂停不代表所有 USC 访问暂停；Biyik 的至少十周期待仍是独立实验室条件，见基线补充核查。
+
+<a id="wpi"></a>
+
+## WPI · 正式研究生访客流程，旧表不能保证当前分类
+
+核查：2026-09-30T23:35:03Z。[Visiting Graduate Students / Scholars](https://www.wpi.edu/academics/graduate/graduate-student-experience/visiting-grads) 要求接收导师和 Provost 正式任命函。[分类页](https://www.wpi.edu/offices/international-house/faculty/visa-classification) 将 non-degree student 与 scholar 分开，由学校决定；不能直接把 scholar 时长用于硕士访问。[申请页](https://www.wpi.edu/offices/international-house/faculty/apply-for-visa) 允许个人财力文件，但不保证最终类别可以完全个人资助。
+
+仍链接的 non-degree 表内部日期为 2015 年，scholar 表为 2019 年，虽有硕士/个人资金选项，不能将其旧时长和金额作为 2027 规则。具体外校硕士类别、八周时长、最低支持、保险、费用与提前期均待当前国际办公室确认。
+
+<a id="unc-chapel-hill"></a>
+
+## UNC Chapel Hill · 当前资金数与旧表冲突
+
+核查：2026-09-30T23:36:23Z。[当前 J-1 说明](https://isss.unc.edu/international-faculty-and-researchers/j1/description/) 要求完成相关本科学位；Research Scholar / Professor 另有硕士或本科加充分相关经验要求，Short-Term Scholar 最长六个月。现列每月 2,776 美元加主办单位费用，至少提前三个月提交，并需英语和保险。没有确证外校在读硕士的具体任命。
+
+[旧财力 PDF](https://isss.unc.edu/wp-content/uploads/sites/23085/2018/09/Current-Funding-Minimums-for-J.pdf) 写每月 2,000 美元及个人流动资金；其数额与当前页面冲突，不能据旧表保证现行全额自费资格。[主办细则](https://isss.unc.edu/departments/regarding-scholars/) 需 Onyen 登录，本轮未读取。现行资金来源、分类及 2027 接收仍须 ISSS 和院系确认。
+
+<a id="ucf"></a>
+
+## UCF · 任命、资金与研究审查均需确认
+
+核查：2026-09-30T23:36:23Z。[当前 J-1 Scholar 页面](https://global.ucf.edu/international-scholars-professionals/j1exchange/) 列至少本科学位及 Short-Term Scholar 最多六个月，由主办院系在提供职位后办理。2026 年 8 月 24 日起初次 scholar 处理费向部门收取 300 美元；当前月支持额、完全个人资金及外校硕士任命未在所读页面确证。内部 portal 需登录，未读取其详细条件。
+
+[Global 指引](https://global.ucf.edu/international-scholars-professionals/) 给出 2–4 个月规划期，并使用涉及 Denied Entity 的过去十年 affiliation 措辞；[2026 年 4 月 7 日生效的 Policy 4-219](https://policies.ucf.edu/documents/4-219.pdf) 对无薪 scholar 的相关限制使用 employment 措辞。两者范围不同，须由主办方和合规部门解释，不能据此推断某位学生、国籍或学校已被排除或批准。研究审查与签证、任命是分别需要处理的条件。
+
+<a id="lehigh"></a>
+
+## Lehigh · Graduate Fellow 任命与国际分类分开
+
+核查：2026-09-30T23:56:51Z。[CAV 政策](https://provost.lehigh.edu/collaborating-academic-visitors/collaborating-academic-visitors-policy) 明确包括外校研究生的 Graduate Fellow，八周在公布时长内原则可安排，实验室访问使用 Category 3，并需导师、院系及学院/OIA 批准。不领取 Lehigh 工资或学分；可核验的 self-support 被列作资金例子，但一般偏好原机构支持，不能视为具体自费批准。
+
+[OISS 类别页](https://global.lehigh.edu/oiss/scholars/scholar-visas) 的 Student Intern 为本科生，Short-Term Scholar 要求相关本科且最多六个月，未确证研究生 CAV 对应的最终国际类别。[院系指引](https://global.lehigh.edu/oiss/departments) 建议 scholar 提前至少四个月，不能混用另一个 intern 的 90 天说明。支持最低数、费用、保险及导师容量未确认。
+
+<a id="georgia"></a>
+
+## University of Georgia · Student Intern 与 VRS 双重流程
+
+核查：2026-09-30T23:48:32Z。[Student Intern](https://globalengagement.uga.edu/immigration/visiting-scholars/incoming-student-interns/) 可支持国外在读、与当前学位目标相关的有薪/无薪实习，允许个人或外部资金，最长十二个月；[当前材料](https://globalengagement.uga.edu/images/documents/immigration/student-intern/J-1_Student_Intern_Info_Sheet.pdf) 要求每周至少 32 小时、原校学籍和返回完成学位。无薪研究生访客还须完成 [Visiting Graduate Student Researcher 注册](https://research.uga.edu/visiting/procedures/)，包括原机构授权签署及校内审批；VRS 的 24 个月任命上限不等于 Student Intern 签证上限。
+
+[最低财力表](https://globalengagement.uga.edu/images/documents/immigration/scholar/J-1_Scholar_Minimum_Monthly_Funding.pdf) 现列单人每月 2,098 美元。2026-07-01 至 2027-06-30 的 [427 美元处理费表](https://globalengagement.uga.edu/images/documents/immigration/information/IS_Fees_Current_Year.pdf) 对 intern/department 付款的表格与部门支付脚注不一致，付款责任待确认；[FY2027 合规费](https://globalengagement.uga.edu/images/documents/immigration/information/ISCF_Amounts_Current_Year.pdf) 在低于 50% UGA 支持时为每年 280 美元，这一比例用于收费分档，不是外部资金资格门槛。七月可能调价，不承诺短访按比例折算。
+
+[2026 年 7 月英语政策](https://globalengagement.uga.edu/images/documents/immigration/scholar/J-1EnglishProficiencyUGA.pdf) 规定测试或合格机构文件，缺少时需指定 J-Check；不能假定普通 PI 交谈即可。另一个 outside-funded scholar 路径的 advanced-degree / PhD-candidacy 门槛不自动由未完成硕士满足。导师名额、身份、完整费用及 2027 要求待确认。

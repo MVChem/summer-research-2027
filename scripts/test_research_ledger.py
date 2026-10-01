@@ -218,6 +218,18 @@ class ResearchLedgerTests(unittest.TestCase):
         with self.assertRaises(AssertionError):
             ledger.validate(data)
 
+    def test_explicit_visitor_backup_tier_is_preserved(self):
+        data = copy.deepcopy(self.full)
+        row = data["candidates"][0]
+        row["candidateTier"] = "Robotics-AI visitor backup; current learned hardware unverified"
+        row["physicalEvidence"]["status"] = "AI相关 · 真机待核实"
+        row["scores"]["physical"] = 12
+        summary = ledger.compact_index(data, self.paths)["candidates"][0]
+        self.assertEqual(summary["candidateTier"], row["candidateTier"])
+        self.assertEqual(summary["physicalEvidenceLabel"], "AI相关 · 真机待核实（弱/历史线索）")
+        self.assertIn("AI相关 · 真机待核实（弱/历史线索）", ledger.render_compact(data))
+        self.assertEqual(row["scores"]["physical"], 12)
+
 
 if __name__ == "__main__":
     unittest.main()

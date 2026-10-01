@@ -80,6 +80,8 @@ def validate(data):
         assert timestamp(row["discoveredAt"]) <= timestamp(row["verifiedAt"])
         if "discoveryTimestampNote" in row:
             assert isinstance(row["discoveryTimestampNote"], str) and row["discoveryTimestampNote"].strip(), "Discovery timestamp note must be nonempty text"
+        if "candidateTier" in row:
+            assert isinstance(row["candidateTier"], str) and row["candidateTier"].strip(), "Candidate tier must be nonempty text"
         assert row["sources"] and row["unknowns"] and row["researchAreas"]
         source_ids = set()
         for source in row["sources"]:
@@ -181,6 +183,8 @@ def physical_evidence_label(row):
     status = row["physicalEvidence"]["status"]
     if status == "robot-collected-data; online-learned-deployment-unverified":
         return "机器人采集数据；在线学习部署未核实"
+    if status == "AI相关 · 真机待核实":
+        return status + ("（弱/历史线索）" if row["scores"]["physical"] else "")
     if row["scores"]["physical"] == 0:
         return "仅仿真；真机待核实" if status == "simulation-only" else "真机待核实"
     if row["scores"]["physical"] <= 12:
@@ -197,6 +201,8 @@ def compact_index(data, record_files):
         summary = {key: row[key] for key in keys}
         if row.get("discoveryTimestampNote"):
             summary["discoveryTimestampNote"] = row["discoveryTimestampNote"]
+        if row.get("candidateTier"):
+            summary["candidateTier"] = row["candidateTier"]
         evidence_label = physical_evidence_label(row)
         if evidence_label:
             summary["physicalEvidenceStatus"] = row["physicalEvidence"]["status"]

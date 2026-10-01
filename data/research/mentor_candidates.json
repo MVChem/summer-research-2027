@@ -107,6 +107,8 @@
     "batches/control-107.json",
     "batches/control-108.json",
     "batches/control-109.json",
+    "batches/control-110.json",
+    "batches/control-111.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -285,7 +287,9 @@
     "batches/hri-086.json",
     "batches/hri-087.json",
     "batches/hri-089.json",
-    "batches/hri-091.json"
+    "batches/hri-091.json",
+    "batches/hri-094.json",
+    "batches/hri-097.json"
   ],
   "candidates": [
     {
@@ -5624,6 +5628,126 @@
       "shortVisitStatus": "degree-only · 当前MS/UG段落仅限USF本校",
       "recordFile": "batches/control-109.json",
       "detailPage": "batches/control-109.md#vittorio-giammarino"
+    },
+    {
+      "id": "alan-papalia",
+      "name": "Alan Papalia",
+      "aliases": [],
+      "school": "University of Michigan, Ann Arbor",
+      "title": "Assistant Professor (January 1, 2026–)",
+      "homepage": "https://alanpapalia.github.io/",
+      "batch": "control-110",
+      "discoveredAt": "2026-10-01T12:32:52Z",
+      "verifiedAt": "2026-10-01T12:36:56Z",
+      "scores": {
+        "fit": 36,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 13
+      },
+      "researchAreas": [
+        "Learning-based traversability",
+        "Risk-aware robot navigation",
+        "Marine robot perception",
+        "Certifiable neural verification"
+      ],
+      "physicalEvidenceStatus": "Verified prior-Northeastern learned navigation, physical20; current Michigan robot access unknown",
+      "physicalEvidenceLabel": "受限真机证据：Verified prior-Northeastern learned navigation, physical20; current Michigan robot access unknown",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-110.json",
+      "detailPage": "batches/control-110.md#alan-papalia"
+    },
+    {
+      "id": "zach-j-patterson",
+      "name": "Zach J. Patterson",
+      "aliases": [
+        "Zachary Patterson",
+        "Zach Patterson"
+      ],
+      "school": "Case Western Reserve University",
+      "title": "Assistant Professor (January 2025–)",
+      "homepage": "https://cyphilab.com/",
+      "batch": "control-110",
+      "discoveredAt": "2026-10-01T12:34:48Z",
+      "verifiedAt": "2026-10-01T12:36:56Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Imitation learning with stability guarantees",
+        "Learned visual servoing",
+        "Bioinspired and soft-rigid robots",
+        "Safe robotic control"
+      ],
+      "discoveryTimestampNote": "First precisely preserved primary-source observation; the time of an earlier preliminary name-only lead was not retained or reconstructed.",
+      "physicalEvidenceStatus": "Verified collaborative MIT-site learned swimming/visual-servo execution, physical20; CWRU apparatus not independently verified",
+      "physicalEvidenceLabel": "受限真机证据：Verified collaborative MIT-site learned swimming/visual-servo execution, physical20; CWRU apparatus not independently verified",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-110.json",
+      "detailPage": "batches/control-110.md#zach-j-patterson"
+    },
+    {
+      "id": "shahriar-talebi",
+      "name": "Shahriar Talebi",
+      "aliases": [],
+      "school": "University of California, Los Angeles",
+      "title": "Assistant Professor (July 1, 2025–)",
+      "homepage": "https://shahriarta.github.io/",
+      "batch": "control-111",
+      "discoveredAt": "2026-10-01T12:41:51Z",
+      "verifiedAt": "2026-10-01T12:46:34Z",
+      "scores": {
+        "fit": 36,
+        "physical": 0,
+        "shortVisit": 10,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Safe vision-language-action models",
+        "Geometric meta-reinforcement learning",
+        "Learning-based control and estimation",
+        "Risk-aware autonomous systems"
+      ],
+      "candidateTier": "AI相关 · 真机待核实；方法研究备选",
+      "physicalEvidenceStatus": "simulation-only",
+      "physicalEvidenceLabel": "仅仿真；真机待核实",
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/control-111.json",
+      "detailPage": "batches/control-111.md#shahriar-talebi"
+    },
+    {
+      "id": "alexander-sasha-davydov",
+      "name": "Alexander (Sasha) Davydov",
+      "aliases": [
+        "Alexander Davydov",
+        "Sasha Davydov"
+      ],
+      "school": "Rice University",
+      "title": "Assistant Professor (July 1, 2025–)",
+      "homepage": "https://davydovalexander.github.io/",
+      "batch": "control-111",
+      "discoveredAt": "2026-10-01T12:44:40Z",
+      "verifiedAt": "2026-10-01T12:46:34Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 13
+      },
+      "researchAreas": [
+        "Bayesian meta-learning for dynamics",
+        "Active information gathering",
+        "Learning-based model predictive control",
+        "Reliable nonlinear control"
+      ],
+      "physicalEvidenceStatus": "Verified prior-TRI actual learned vehicle control, first preprint2024; physical20; Rice hardware unknown",
+      "physicalEvidenceLabel": "受限真机证据：Verified prior-TRI actual learned vehicle control, first preprint2024; physical20; Rice hardware unknown",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-111.json",
+      "detailPage": "batches/control-111.md#alexander-sasha-davydov"
     },
     {
       "id": "tom-silver",
@@ -14921,6 +15045,97 @@
       "shortVisitStatus": "unknown · 偏好≥4月，偶尔summer例外；当前无访问资助",
       "recordFile": "batches/hri-091.json",
       "detailPage": "batches/hri-091.md#louis-philippe-morency"
+    },
+    {
+      "id": "karan-ahuja",
+      "name": "Karan Ahuja",
+      "aliases": [],
+      "school": "Northwestern University",
+      "title": "Lisa Wissner-Slivka and Benjamin Slivka Assistant Professor of Computer Science; Assistant Professor of Electrical and Computer Engineering by courtesy",
+      "homepage": "https://www.karan-ahuja.com/",
+      "batch": "hri-094",
+      "discoveredAt": "2026-10-01T11:49:41Z",
+      "verifiedAt": "2026-10-01T11:51:00Z",
+      "scores": {
+        "fit": 36,
+        "physical": 0,
+        "shortVisit": 10,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Spatial and embodied perception",
+        "Learned inertial odometry",
+        "Multimodal wearable sensing",
+        "Extended-reality interaction",
+        "Human pose estimation"
+      ],
+      "candidateTier": "AI相关 · 真机待核实；方法研究备选",
+      "physicalEvidenceStatus": "unverified",
+      "physicalEvidenceLabel": "真机待核实",
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/hri-094.json",
+      "detailPage": "batches/hri-094.md#karan-ahuja"
+    },
+    {
+      "id": "ryan-r-posh",
+      "name": "Ryan R. Posh",
+      "aliases": [
+        "Ryan Posh"
+      ],
+      "school": "The Ohio State University",
+      "title": "Assistant Professor of Mechanical and Aerospace Engineering",
+      "homepage": "https://people.engineering.osu.edu/people/posh.1",
+      "batch": "hri-097",
+      "discoveredAt": "2026-10-01T12:10:19Z",
+      "verifiedAt": "2026-10-01T12:21:29Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Reinforcement-learning personalization",
+        "Powered prostheses and exoskeletons",
+        "Human-robot interaction",
+        "Human-in-the-loop control",
+        "Learning-based assistive robotics"
+      ],
+      "physicalEvidenceStatus": "historical-or-indirect",
+      "physicalEvidenceLabel": "受限真机证据：historical-or-indirect",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-097.json",
+      "detailPage": "batches/hri-097.md#ryan-r-posh"
+    },
+    {
+      "id": "feng-liu",
+      "name": "Feng Liu",
+      "aliases": [],
+      "school": "Drexel University",
+      "title": "Assistant Professor of Computer Science",
+      "homepage": "https://liufeng2915.github.io/",
+      "batch": "hri-097",
+      "discoveredAt": "2026-10-01T00:58:49Z",
+      "verifiedAt": "2026-10-01T12:21:29Z",
+      "scores": {
+        "fit": 36,
+        "physical": 0,
+        "shortVisit": 10,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "3D human and motion understanding",
+        "Biomechanics-grounded vision-language models",
+        "Spatial and embodied perception",
+        "Generative human modeling"
+      ],
+      "discoveryTimestampNote": "Earliest precisely retained completed primary-source screen; earlier preliminary observation time was not retained or reconstructed.",
+      "candidateTier": "AI相关 · 真机待核实；方法研究备选",
+      "physicalEvidenceStatus": "unverified",
+      "physicalEvidenceLabel": "真机待核实",
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/hri-097.json",
+      "detailPage": "batches/hri-097.md#feng-liu"
     }
   ]
 }

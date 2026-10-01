@@ -1,0 +1,252 @@
+[
+  {
+    "id": "shahriar-talebi",
+    "name": "Shahriar Talebi",
+    "aliases": [],
+    "school": "University of California, Los Angeles",
+    "homepage": "https://shahriarta.github.io/",
+    "title": "Assistant Professor (July 1, 2025–)",
+    "department": "Mechanical and Aerospace Engineering; GLACIER Lab",
+    "batch": "control-111",
+    "discoveredAt": "2026-10-01T12:41:51Z",
+    "verifiedAt": "2026-10-01T12:46:34Z",
+    "researchAreas": [
+      "Safe vision-language-action models",
+      "Geometric meta-reinforcement learning",
+      "Learning-based control and estimation",
+      "Risk-aware autonomous systems"
+    ],
+    "fitReason": "Recently hired Assistant Professor with a direct non-UCLA summer internship inquiry route and substantive current VLA safety methods. This is a methods-focused, physical-0 backup: verified experiments are simulated.",
+    "physicalEvidence": {
+      "status": "simulation-only",
+      "summary": "The full June 2026 Knows study filters pi0.5 actions using attention-head target identification, fine-tuned YOLOE object masks, geometric tracking and a CBF-QP. Evaluation uses SafeLIBERO, including added moving obstacles; the hardware subsection describes GPU workstations and rendered environments, not a physical arm. The filter models only the end effector, and full-arm collisions, perception errors and downstream controller tracking remain limitations. The February 2026 geometric meta-RL paper is a two-dimensional numerical navigation task. The inspected 2023 spacecraft perception/control paper also uses simulation. No real learned robot execution is credited.",
+      "sourceIds": [
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "The live prospective-students page explicitly says non-UCLA students interested in summer research internships should email by April 1 of the intended year, within its master/undergraduate section. Its introductory examples still mention2026, but the outside-student rule is recurring rather than year-specific. For summer2027 the published annual rule therefore points to April 1, 2027; this is an inquiry deadline, not a guaranteed offer, funded position or formal program admission.",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 36,
+      "physical": 0,
+      "shortVisit": 10,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Current substantive VLA safety and learning-control implementation, not merely broad AI branding.",
+      "physical": "Verified robotics-AI experiments are simulated; no physical credit.",
+      "shortVisit": "Explicit non-UCLA summer internship inquiry under master/undergraduate section; unknown duration, funding and2027 acceptance.",
+      "freshness": "Dated June 2026 VLA method and February 2026 meta-RL preprint plus current live inquiry page."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.samueli.ucla.edu / source 1",
+        "url": "https://www.samueli.ucla.edu/new-faculty-2023-2026/",
+        "summary": "Official July 1, 2025 AP start, previous Harvard postdoc and UW PhD.",
+        "verifiedAt": "2026-10-01T12:46:34Z",
+        "retrieval": "Direct primary page"
+      },
+      {
+        "id": "s2",
+        "label": "shahriarta.github.io / source 2",
+        "url": "https://shahriarta.github.io/",
+        "summary": "Current role, academic trajectory, professional email and current 2026 research.",
+        "verifiedAt": "2026-10-01T12:46:34Z",
+        "retrieval": "Direct primary page"
+      },
+      {
+        "id": "s3",
+        "label": "shahriarta.github.io / source 3",
+        "url": "https://shahriarta.github.io/prospective-students/",
+        "summary": "Live master/undergraduate section explicitly welcomes non-UCLA summer internship inquiries by April 1 of the intended year; no duration/funding promise.",
+        "verifiedAt": "2026-10-01T12:46:34Z",
+        "retrieval": "Direct primary page"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2606.09749v1",
+        "summary": "Full current Knows VLA safety-filter methods and SafeLIBERO experiments; workstation hardware is compute infrastructure, not robot execution. End-effector-only safety and failures stated.",
+        "verifiedAt": "2026-10-01T12:46:34Z",
+        "retrieval": "Direct official or author/primary source; full methods inspected"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/pdf/2603.00396",
+        "summary": "Full geometric meta-RL study evaluates numerical2D navigation; no physical platform.",
+        "verifiedAt": "2026-10-01T12:46:34Z",
+        "retrieval": "Direct official or author/primary source; full methods inspected"
+      },
+      {
+        "id": "s6",
+        "label": "shahriarta.github.io / source 6",
+        "url": "https://shahriarta.github.io/assets/papers_pdf/deole2023multi.pdf",
+        "summary": "Full prior spacecraft CNN perception/passivity-control study is simulation and numerical experiments, not actual spacecraft or laboratory robot proof.",
+        "verifiedAt": "2026-10-01T12:46:34Z",
+        "retrieval": "Direct official or author/primary source; full methods inspected"
+      },
+      {
+        "id": "s7",
+        "label": "www.mae.ucla.edu / source 7",
+        "url": "https://www.mae.ucla.edu/laboratories/",
+        "summary": "Current official directory lists GLACIER Lab under Talebi.",
+        "verifiedAt": "2026-10-01T12:46:34Z",
+        "retrieval": "Direct primary page"
+      }
+    ],
+    "unknowns": [
+      "Reuse ucla-vgr notes. Outside enrolled masters can fit VGR academic eligibility, but published university pages differ on immigration category and personal-funding rules. Host/department and Dashew must reconcile these before assuming fully self-funded feasibility. Current international first-quarter fee is $1,044.88 with no proration; subsequent-quarter charge, insurance, precise dates and2027 rates need confirmation. Minimum lab duration, capacity and project resources are unknown.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#ucla-vgr)"
+    ],
+    "publicEmail": "s.talebi@ucla.edu",
+    "candidateTier": "AI相关 · 真机待核实；方法研究备选",
+    "appointmentStart": {
+      "year": 2025,
+      "month": 7,
+      "day": 1,
+      "precision": "day",
+      "status": "current",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ],
+      "evidence": "Official UCLA new-faculty cohort gives July1,2025; faculty biography places Harvard postdoc after2023 PhD and before UCLA."
+    }
+  },
+  {
+    "id": "alexander-sasha-davydov",
+    "name": "Alexander (Sasha) Davydov",
+    "aliases": [
+      "Alexander Davydov",
+      "Sasha Davydov"
+    ],
+    "school": "Rice University",
+    "homepage": "https://davydovalexander.github.io/",
+    "title": "Assistant Professor (July 1, 2025–)",
+    "department": "Mechanical Engineering; Control and Reliable Autonomy Lab",
+    "batch": "control-111",
+    "discoveredAt": "2026-10-01T12:44:40Z",
+    "verifiedAt": "2026-10-01T12:46:34Z",
+    "researchAreas": [
+      "Bayesian meta-learning for dynamics",
+      "Active information gathering",
+      "Learning-based model predictive control",
+      "Reliable nonlinear control"
+    ],
+    "fitReason": "New Assistant Professor with personally attributable actual full-scale vehicle-learning experiments at Toyota Research Institute. Current Rice PhD supervision is verified, while Rice vehicle access and external-master intake remain unknown.",
+    "physicalEvidence": {
+      "status": "Verified prior-TRI actual learned vehicle control, first preprint2024; physical20; Rice hardware unknown",
+      "summary": "The original October 2024 full preprint, later published in2025, verifies actual Toyota Supra control using neural-feature/Bayesian-last-layer learned dynamics within100Hz MPC. Information-rich4.5-second driving trajectories adapt the model before dynamic figure-eight drifting. Comparisons show online adaptation alone can produce large transients or spin-outs; prior information gathering improves reliability. The paper explicitly states Davydov performed this work at Toyota Research Institute, before Rice. This proves learned vehicle execution but does not establish a current Rice test vehicle or a new2025 experiment. July 2026 constrained-flow work uses numerical/image tasks, not new physical robotics.",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Official Rice August 2025 new-faculty announcement states July 1, 2025 starts unless otherwise indicated and identifies Davydov; current directory confirms AP. Published trajectory goes directly from UCSB PhD2025 to Rice. Current CARA roster has a PhD student and local undergraduates. Join page advertises PhD admissions and Rice-undergraduate projects; no external-master visitor invitation or explicit blanket visitor/summer refusal was found.",
+      "sourceIds": [
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 13
+    },
+    "scoreReasons": {
+      "fit": "Core safe robot/vehicle learning, Bayesian dynamics and active MPC.",
+      "physical": "Full personally attributed prior-TRI hardware protocol; capped20 with no current Rice equipment claim.",
+      "shortVisit": "No external-master visitor invitation verified.",
+      "freshness": "2024 physical experiment published2025, with dated2026 related method work; not called new2026 vehicle deployment."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "profiles.rice.edu / source 1",
+        "url": "https://profiles.rice.edu/faculty/sasha-davydov",
+        "summary": "Current Assistant Professor, professional email and UCSB PhD2025.",
+        "verifiedAt": "2026-10-01T12:46:34Z",
+        "retrieval": "Direct primary page"
+      },
+      {
+        "id": "s2",
+        "label": "engineering.rice.edu / source 2",
+        "url": "https://engineering.rice.edu/news/rices-school-engineering-and-computing-welcomes-new-faculty",
+        "summary": "Official August 4, 2025 cohort: all new faculty July 1, 2025 unless noted; Davydov no exception.",
+        "verifiedAt": "2026-10-01T12:46:34Z",
+        "retrieval": "Direct primary page"
+      },
+      {
+        "id": "s3",
+        "label": "davydovalexander.github.io / source 3",
+        "url": "https://davydovalexander.github.io/",
+        "summary": "Author dates doctoral defense/faculty transition2025 and explicitly attributes vehicle research to TRI.",
+        "verifiedAt": "2026-10-01T12:46:34Z",
+        "retrieval": "Direct primary page"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2411.00107v1",
+        "summary": "Full original October 2024 paper: actual Toyota Supra, learned dynamics/active data collection/MPC,100Hz onboard control and figure-eight trials at TRI.",
+        "verifiedAt": "2026-10-01T12:46:34Z",
+        "retrieval": "Direct official or author/primary source; full methods inspected"
+      },
+      {
+        "id": "s5",
+        "label": "cara-lab-rice.github.io / source 5",
+        "url": "https://cara-lab-rice.github.io/join.html",
+        "summary": "PhD admission and Rice-undergraduate recruiting; no explicit outside-master visitor route or refusal.",
+        "verifiedAt": "2026-10-01T12:46:34Z",
+        "retrieval": "Direct primary page"
+      },
+      {
+        "id": "s6",
+        "label": "cara-lab-rice.github.io / source 6",
+        "url": "https://cara-lab-rice.github.io/people.html",
+        "summary": "Current Rice PhD supervision plus2025–26 undergraduate roster.",
+        "verifiedAt": "2026-10-01T12:46:34Z",
+        "retrieval": "Direct primary page"
+      },
+      {
+        "id": "s7",
+        "label": "arxiv.org / source 7",
+        "url": "https://arxiv.org/html/2607.04513v1",
+        "summary": "Dated July 2026 constrained flow-matching methods; numerical/image experiments, not additional actual robots.",
+        "verifiedAt": "2026-10-01T12:46:34Z",
+        "retrieval": "Direct official or author/primary source; full methods inspected"
+      }
+    ],
+    "unknowns": [
+      "Reuse rice notes. Academic Visitor route requires a completed bachelor degree, host/Dean/OISS approval and at least32hours/week, with90-day planning guidance. Current support proof is $2,300/month plus a$300 processing fee and separate insurance/department costs. Acceptance of bank documents does not independently establish100% personal funding for every appointment. Outside-master category,2027 costs, host capacity and access to vehicle projects remain unconfirmed.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#rice)"
+    ],
+    "publicEmail": "sd210@rice.edu",
+    "appointmentStart": {
+      "year": 2025,
+      "month": 7,
+      "day": 1,
+      "precision": "day",
+      "status": "current",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ],
+      "evidence": "Official Rice cohort states all listed arrivals start July1,2025 unless excepted; Davydov has no exception. Official profile and author timeline show PhD2025 followed by Rice AP."
+    }
+  }
+]

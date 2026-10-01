@@ -671,6 +671,232 @@
           "evidence": "Historical university-hosted appointments: Buffalo AP fromNovember2020 and Research AP2018–2020; stale present ending is not current host."
         }
       ]
+    },
+    "shahriar-talebi": {
+      "appointmentStart": {
+        "year": 2025,
+        "month": 7,
+        "day": 1,
+        "precision": "day",
+        "status": "current",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "evidence": "Official UCLA new-faculty cohort gives July1,2025; faculty biography places Harvard postdoc after2023 PhD and before UCLA.",
+        "appointmentType": "first-faculty"
+      },
+      "display": "2025-07-01",
+      "caveat": "2025-07-01到岗；非UCLA暑研每年4月1日前邮件询问，按常规对应2027-04-01；时长/资助/接收未知，VLA安全仅仿真",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.samueli.ucla.edu/new-faculty-2023-2026/",
+          "observedAt": "2026-10-01T12:46:34Z",
+          "evidence": "Official July 1, 2025 AP start, previous Harvard postdoc and UW PhD."
+        },
+        {
+          "id": "s2",
+          "url": "https://shahriarta.github.io/",
+          "observedAt": "2026-10-01T12:46:34Z",
+          "evidence": "Current role, academic trajectory, professional email and current 2026 research."
+        }
+      ]
+    },
+    "alexander-sasha-davydov": {
+      "appointmentStart": {
+        "year": 2025,
+        "month": 7,
+        "day": 1,
+        "precision": "day",
+        "status": "current",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ],
+        "evidence": "Official Rice cohort states all listed arrivals start July1,2025 unless excepted; Davydov has no exception. Official profile and author timeline show PhD2025 followed by Rice AP.",
+        "appointmentType": "first-faculty"
+      },
+      "display": "2025-07-01",
+      "caveat": "2025-07-01新任；真实车辆实验在TRI且最早2024版本已有；Rice车辆和外校硕士访客未知",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://profiles.rice.edu/faculty/sasha-davydov",
+          "observedAt": "2026-10-01T12:46:34Z",
+          "evidence": "Current Assistant Professor, professional email and UCSB PhD2025."
+        },
+        {
+          "id": "s2",
+          "url": "https://engineering.rice.edu/news/rices-school-engineering-and-computing-welcomes-new-faculty",
+          "observedAt": "2026-10-01T12:46:34Z",
+          "evidence": "Official August 4, 2025 cohort: all new faculty July 1, 2025 unless noted; Davydov no exception."
+        },
+        {
+          "id": "s3",
+          "url": "https://davydovalexander.github.io/",
+          "observedAt": "2026-10-01T12:46:34Z",
+          "evidence": "Author dates doctoral defense/faculty transition2025 and explicitly attributes vehicle research to TRI."
+        }
+      ]
+    },
+    "karan-ahuja": {
+      "appointmentStart": {
+        "year": 2024,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "h1"
+        ],
+        "evidence": "Official March 6, 2024 article says he will join that August; current official directory and year-end 2024 department report corroborate service. Prior Google visiting faculty researcher was not this university appointment.",
+        "appointmentType": "unresolved",
+        "month": 8
+      },
+      "display": "2024-08（官方公告；未断言首次faculty任职）",
+      "caveat": "2024-08到岗；主页列Masters/Visitors，但表单返回授权错误、字段未核；空间/XR方法备选，机器人执行未核；学校研究生类别仍有冲突",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://www.mccormick.northwestern.edu/computer-science/news-events/news/articles/2024/karan-ahuja-wins-acm-sigchi-outstanding-dissertation-award.html",
+          "observedAt": "2026-10-01T12:33:06Z",
+          "evidence": "Official March 6, 2024 article says he will join that August; current official directory and year-end 2024 department report corroborate service. Prior Google visiting faculty researcher was not this university appointment."
+        }
+      ]
+    },
+    "ryan-r-posh": {
+      "appointmentStart": {
+        "year": 2026,
+        "month": 8,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "evidence": "Current university directory says joined in 2026; its linked CV gives August 2026, although its incoming header is now stale.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2026-08（大学托管CV；官方目录确认2026到岗）",
+      "caveat": "实际RL假肢验证来自此前Michigan；Ohio State新设备和外校访客未知，旧PhD截止不是访客拒绝",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://people.engineering.osu.edu/people/posh.1",
+          "observedAt": "2026-10-01T12:21:29Z",
+          "evidence": "Official current role, professional email, 2026 start and assistive-robotics agenda."
+        },
+        {
+          "id": "s2",
+          "url": "https://people.engineering.osu.edu/media/document/2026-09-08/ryan_posh_cv_08_2026.pdf",
+          "observedAt": "2026-10-01T12:21:29Z",
+          "evidence": "University-hosted CV supplies middle initial, August 2026 appointment and R.E.A.L. lab directorship; old incoming header is superseded by the live directory."
+        }
+      ]
+    },
+    "feng-liu": {
+      "appointmentStart": {
+        "year": 2024,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "evidence": "Official September 24, 2024 new-faculty announcement welcomes Feng Liu as Assistant Professor for the fall term; current directory confirms title.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2024",
+      "caveat": "2024秋新AP；有独立硕士项目实习询问，10–12周只是例子；硕士远程未明确、可能无薪；空间人类动作方法备选，无机器人执行",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://drexel.edu/cci/about/directory/L/Liu-Feng/",
+          "observedAt": "2026-10-01T12:21:29Z",
+          "evidence": "Official current assistant professorship, professional email and 3D vision/human-digitization agenda."
+        },
+        {
+          "id": "s2",
+          "url": "https://drexel.edu/cci/news/2024/September/new-faculty-join-cci/",
+          "observedAt": "2026-10-01T12:21:29Z",
+          "evidence": "Official Fall 2024 new-faculty announcement."
+        }
+      ]
+    },
+    "alan-papalia": {
+      "appointmentStart": {
+        "year": 2026,
+        "month": 1,
+        "day": 1,
+        "precision": "day",
+        "status": "current",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ],
+        "evidence": "Official college announcement specifies January 1, 2026; official department and author biography describe PhD followed by Northeastern postdoc before this faculty appointment.",
+        "appointmentType": "first-faculty"
+      },
+      "display": "2026-01-01",
+      "caveat": "2026-01-01新任；只核实学位/本校本科招募，外校硕士未知；真实Scout Mini五次试验中的危险障碍为虚拟",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://name.engin.umich.edu/people/alan-papalia/",
+          "observedAt": "2026-10-01T12:36:56Z",
+          "evidence": "Current Assistant Professor and departmental email/primary lab link."
+        },
+        {
+          "id": "s2",
+          "url": "https://news.engin.umich.edu/2025/08/strengthening-research-and-education-with-new-michigan-engineering-faculty-hires/",
+          "observedAt": "2026-10-01T12:36:56Z",
+          "evidence": "Explicit January 1, 2026 start, previous Northeastern/MIT-WHOI trajectory and marine autonomy focus."
+        },
+        {
+          "id": "s3",
+          "url": "https://alanpapalia.github.io/",
+          "observedAt": "2026-10-01T12:36:56Z",
+          "evidence": "Current faculty biography: PhD and subsequent Northeastern research before Michigan."
+        }
+      ]
+    },
+    "zach-j-patterson": {
+      "appointmentStart": {
+        "year": 2025,
+        "month": 1,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ],
+        "evidence": "Official Fall2024 newsletter announces January2025 faculty arrival; current directory and published CV confirm AP2025– after MIT postdoc2022–24.",
+        "appointmentType": "first-faculty"
+      },
+      "display": "2025-01",
+      "caveat": "只明确拒绝外校本科生，不泛化到硕士；MS论文研究不是已核实外校访客入口，硬件为MIT合作场地",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://case.edu/engineering/about/faculty-and-staff-directory/zachary-patterson",
+          "observedAt": "2026-10-01T12:36:56Z",
+          "evidence": "Current university Assistant Professor role and professional email."
+        },
+        {
+          "id": "s2",
+          "url": "https://case.edu/bme/sites/default/files/2024-11/Fall%202024%20Newsletter_0.pdf",
+          "observedAt": "2026-10-01T12:36:56Z",
+          "evidence": "Official Fall2024 newsletter states he will join in January 2025."
+        },
+        {
+          "id": "s3",
+          "url": "https://cyphilab.com/cv/",
+          "observedAt": "2026-10-01T12:36:56Z",
+          "evidence": "Current published CV: AP2025–, MIT postdoc2022–24; publication list updated September 27, 2026."
+        }
+      ]
     }
   },
   "constraints": [

@@ -174,6 +174,7 @@
     "batches/embodied-074.json",
     "batches/embodied-075.json",
     "batches/embodied-076.json",
+    "batches/embodied-077.json",
     "batches/embodied-080.json",
     "batches/embodied-081.json",
     "batches/hri-001.json",
@@ -9457,6 +9458,33 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-076.json",
       "detailPage": "batches/embodied-076.md#amrit-singh-bedi"
+    },
+    {
+      "id": "roni-khardon",
+      "name": "Roni Khardon",
+      "aliases": [],
+      "school": "Indiana University Bloomington",
+      "title": "Professor of Computer Science",
+      "homepage": "https://homes.luddy.indiana.edu/rkhardon/",
+      "batch": "embodied-077",
+      "discoveredAt": "2026-10-01T09:41:10Z",
+      "verifiedAt": "2026-10-01T09:42:49Z",
+      "scores": {
+        "fit": 36,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Model-based reinforcement learning",
+        "Learned dynamics and temporal abstraction",
+        "Active robotic mapping",
+        "Probabilistic planning and uncertainty quantification"
+      ],
+      "discoveryTimestampNote": "Name-only lead was discussed earlier without a retained primary encounter. This is the first precisely retained candidate-specific primary university result; no earlier timestamp reconstructed.",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-077.json",
+      "detailPage": "batches/embodied-077.md#roni-khardon"
     },
     {
       "id": "minghan-li",

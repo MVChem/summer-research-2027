@@ -1,0 +1,130 @@
+[
+  {
+    "id": "roni-khardon",
+    "name": "Roni Khardon",
+    "aliases": [],
+    "school": "Indiana University Bloomington",
+    "homepage": "https://homes.luddy.indiana.edu/rkhardon/",
+    "title": "Professor of Computer Science",
+    "department": "Computer Science, Luddy School of Informatics, Computing, and Engineering",
+    "batch": "embodied-077",
+    "discoveredAt": "2026-10-01T09:41:10Z",
+    "verifiedAt": "2026-10-01T09:42:49Z",
+    "researchAreas": [
+      "Model-based reinforcement learning",
+      "Learned dynamics and temporal abstraction",
+      "Active robotic mapping",
+      "Probabilistic planning and uncertainty quantification"
+    ],
+    "fitReason": "A substantive robot-learning/planning methods backup. Neural-kernel uncertainty models have directed real robot sampling, while recent work learns temporally extended dynamics for long-horizon planning. Better aligned to probabilistic autonomy and model-based RL than to VLA foundation-model scaling.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Full Adaptive Robotic Information Gathering paper §5.3 deploys a Clearpath autonomous surface vehicle with downward sonar and onboard computation in an 80×88 m quarry-lake area. Learned neural-network-parametrized Attentive Kernel uncertainty selects informative waypoints; conventional PD tracking executes linear/angular velocity commands. This is an actual closed-loop adaptive mapping experiment, not just bathymetric data replay. It is a 2023 study published in the 2024 journal issue, co-advised with Lantao Liu; current independent apparatus and visitor access are not verified, so physical20.",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current personal and research-group pages establish PhD advising and prior local MS research, but no explicit current outside-master short-visitor invitation. A prior master’s researcher or co-advised PhD is not an eight-week external visitor offer. Visitor evidence0.",
+      "sourceIds": [
+        "s2",
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 36,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "Repeated learned mapping and model-based RL methods directly relevant to embodied autonomy; narrower VLA overlap.",
+      "physical": "Detailed actual learned-estimation-to-robot-action loop, shared co-advised hardware and older experiment.",
+      "shortVisit": "No current suitable external-master visitor invitation verified.",
+      "freshness": "The inspected dated methods extend through October/December 2025. Current undated faculty/advising pages do not independently establish a 2026 research or recruitment event."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "luddy.iu.edu / source 1",
+        "url": "https://luddy.iu.edu/people/khardon-roni.html",
+        "summary": "Full current official Bloomington CS professor appointment and public university email.",
+        "verifiedAt": "2026-10-01T09:42:49Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "homes.luddy.indiana.edu / source 2",
+        "url": "https://homes.luddy.indiana.edu/rkhardon/",
+        "summary": "Full current homepage and December 2025 planning/MBRL project; explicit phishing warning.",
+        "verifiedAt": "2026-10-01T09:42:49Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "homes.luddy.indiana.edu / source 3",
+        "url": "https://homes.luddy.indiana.edu/rkhardon/researchgroup.html",
+        "summary": "Full direct PhD advising, Weizhe Chen co-advised with Lantao Liu and graduated 2024, local MS research; no external visitor offer.",
+        "verifiedAt": "2026-10-01T09:42:49Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2306.01263v3",
+        "summary": "Full Attentive Kernel methods and §5.3 physical ASV experiment: learned uncertainty-to-waypoint loop and conventional PD tracking.",
+        "verifiedAt": "2026-10-01T09:42:49Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "journals.sagepub.com / source 5",
+        "url": "https://journals.sagepub.com/doi/10.1177/02783649231184498",
+        "summary": "Publisher dates distinguish first onlineJune 2023 from April 2024 journal issue.",
+        "verifiedAt": "2026-10-01T09:42:49Z",
+        "retrieval": "primary-publisher-indexed-page"
+      },
+      {
+        "id": "s6",
+        "label": "homes.luddy.indiana.edu / source 6",
+        "url": "https://homes.luddy.indiana.edu/rkhardon/PUB/rss2024-POAM.pdf",
+        "summary": "Full RSS 2024 online sparse neural-kernel mapping paper; not counted as an additional physical deployment.",
+        "verifiedAt": "2026-10-01T09:42:49Z",
+        "retrieval": "direct-primary-pdf"
+      },
+      {
+        "id": "s7",
+        "label": "arxiv.org / source 7",
+        "url": "https://arxiv.org/html/2505.15754v2",
+        "summary": "Full October 21, 2025 NeurIPS paper learns temporally extended dynamics and plans with them in simulation.",
+        "verifiedAt": "2026-10-01T09:42:49Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s8",
+        "label": "pecey.github.io / source 8",
+        "url": "https://pecey.github.io/MBRL-with-TEA/",
+        "summary": "Full author project corroborates current MBRL methodology and simulated locomotion tasks.",
+        "verifiedAt": "2026-10-01T09:42:49Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Host is Indiana University Bloomington, not Indianapolis or former Tufts. Public contact is rkhardon@iu.edu. The faculty homepage warns of fake research offers using non-IU addresses; do not treat such messages as verified recruitment.",
+      "The 2024 POAM work concerns online probabilistic mapping and does not supply an independently verified new physical deployment here. The October 2025 temporally extended MBRL paper uses simulated environments, including MuJoCo locomotion, not new physical robot trials.",
+      "The 2025 method learns transition/reward models and plans with them, rather than learning a deployed policy directly. Neural-kernel mapping is learned estimation guiding planning; low-level ASV tracking remains conventional.",
+      "Reuse Indiana feasibility anchor indiana: overseas degree-linked Student Intern requires home enrollment, training plan, English, insurance, return to home institution and at least32 hours/week; host processing is at least three months ahead. The published monthly support figure and applicability of fully personal funds must be rechecked for 2027 and the actual category.",
+      "Summer 2027 acceptance, eight-week project scope, funding, remote availability, supervision and local hardware access remain unknown.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: Name-only lead was discussed earlier without a retained primary encounter. This is the first precisely retained candidate-specific primary university result; no earlier timestamp reconstructed.",
+      "[Institutional visitor rules](../eligibility_notes.md#indiana)"
+    ],
+    "discoveryTimestampNote": "Name-only lead was discussed earlier without a retained primary encounter. This is the first precisely retained candidate-specific primary university result; no earlier timestamp reconstructed.",
+    "publicEmail": "rkhardon@iu.edu"
+  }
+]

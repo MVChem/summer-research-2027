@@ -164,6 +164,7 @@
     "batches/embodied-070.json",
     "batches/embodied-071.json",
     "batches/embodied-072.json",
+    "batches/embodied-073.json",
     "batches/embodied-075.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
@@ -8936,6 +8937,36 @@
       "shortVisitStatus": "precedent-only",
       "recordFile": "batches/embodied-072.json",
       "detailPage": "batches/embodied-072.md#ming-hsuan-yang"
+    },
+    {
+      "id": "david-alexander-forsyth",
+      "name": "David Alexander Forsyth",
+      "aliases": [
+        "David Forsyth",
+        "David A. Forsyth"
+      ],
+      "school": "University of Illinois Urbana-Champaign",
+      "title": "Professor; Fulton Watson Copp Chair",
+      "homepage": "https://ece.illinois.edu/about/directory/faculty/daf",
+      "batch": "embodied-073",
+      "discoveredAt": "2026-10-01T07:00:41Z",
+      "verifiedAt": "2026-10-01T07:03:59Z",
+      "scores": {
+        "fit": 34,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Egocentric hand-motion diffusion models",
+        "Visual learning for autonomous vehicles",
+        "Physical vehicle-in-the-loop evaluation",
+        "3D scene understanding"
+      ],
+      "discoveryTimestampNote": "Earliest precisely retained primary encounter in the UIUC collaborator group roster; dedicated screen and exact full-name check followed. No earlier time reconstructed.",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-073.json",
+      "detailPage": "batches/embodied-073.md#david-alexander-forsyth"
     },
     {
       "id": "pratyusha-sharma",

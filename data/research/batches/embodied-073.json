@@ -1,0 +1,124 @@
+[
+  {
+    "id": "david-alexander-forsyth",
+    "name": "David Alexander Forsyth",
+    "aliases": [
+      "David Forsyth",
+      "David A. Forsyth"
+    ],
+    "school": "University of Illinois Urbana-Champaign",
+    "homepage": "https://ece.illinois.edu/about/directory/faculty/daf",
+    "title": "Professor; Fulton Watson Copp Chair",
+    "department": "Siebel School of Computing and Data Science; Electrical and Computer Engineering affiliate",
+    "batch": "embodied-073",
+    "discoveredAt": "2026-10-01T07:00:41Z",
+    "verifiedAt": "2026-10-01T07:03:59Z",
+    "researchAreas": [
+      "Egocentric hand-motion diffusion models",
+      "Visual learning for autonomous vehicles",
+      "Physical vehicle-in-the-loop evaluation",
+      "3D scene understanding"
+    ],
+    "fitReason": "A vision/embodied-method backup with actual collaborative learned vehicle execution and recent diffusion-based hand-motion modeling. More suitable for a scoped perception, representation or evaluation project than assuming a current dexterous-manipulation/VLA lab vacancy.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Full Sim-on-Wheels paper (June 2023; RA-L 2023, presented ICRA 2024) evaluates a behavior-cloned FCN/GRU brake model on a physical Polaris GEM e2 with drive-by-wire, ZED2 and onboard A4000. The moving vehicle responds to virtual hazards composited into live images; PI/Stanley low-level control remains conventional. Thus vehicle execution is real, hazards and collision metrics are augmented. Tests used a closed track, safety driver and lookout. This is a shared UIUC project from 2023, not proof of current individual lab access. Physical20.",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current official university profiles and a recent co-advised PhD record establish active university research. No explicit current outside-master’s visitor invitation, summer slot or eight-week project was found. TTIC adjoint affiliation does not substitute for an approved UIUC hosting arrangement.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 34,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Relevant embodied visual/diffusion methods and autonomous-vehicle learning, but broader CV emphasis than a core manipulation/VLA lab.",
+      "physical": "Full actual learned vehicle execution, conservative cap for older shared-platform evidence.",
+      "shortVisit": "No current suitable external-master’s invitation or short-visit offer.",
+      "freshness": "FullSeptember 2026 method revision and current faculty record; physical experiment remains dated 2023."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "ece.illinois.edu / source 1",
+        "url": "https://ece.illinois.edu/about/directory/faculty/daf",
+        "summary": "Full current university Professor, Computer Science profile, public email and autonomous-vehicle/vision teaching.",
+        "verifiedAt": "2026-10-01T07:03:59Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "experts.illinois.edu / source 2",
+        "url": "https://experts.illinois.edu/en/persons/david-alexander-forsyth/",
+        "summary": "Full official current professor and Fulton Watson Copp Chair; current 2026 publications.",
+        "verifiedAt": "2026-10-01T07:03:59Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/pdf/2306.08807",
+        "summary": "Full 8-pageJune 2023 Sim-on-Wheels manuscript, §IV-A/B real GEM e2 and FCN/GRU behavioral-cloning control; §IV-C limitations.",
+        "verifiedAt": "2026-10-01T07:03:59Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "sim-on-wheels.github.io / source 4",
+        "url": "https://sim-on-wheels.github.io/",
+        "summary": "Full author project confirms RA-L 2023/ICRA 2024 venue and all-UIUC collaboration; explicitly separates real vehicle from synthetic events.",
+        "verifiedAt": "2026-10-01T07:03:59Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2510.06145v2",
+        "summary": "FullSeptember19, 2026 ForeHand4D revision: diffusion lifting and bimanual human-motion forecasting; dataset evaluation, no physical robot deployment.",
+        "verifiedAt": "2026-10-01T07:03:59Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "mail.saurabhg.web.illinois.edu / source 6",
+        "url": "https://mail.saurabhg.web.illinois.edu/members.html",
+        "summary": "Full current group roster identifies 2025 PhD Aditya Prakash as jointly advised with Forsyth; not a current visitor offer.",
+        "verifiedAt": "2026-10-01T07:03:59Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s7",
+        "label": "ttic.edu / source 7",
+        "url": "https://ttic.edu/faculty/forsyth/",
+        "summary": "Full secondary institution profile distinguishes TTIC adjoint role from main UIUC professor appointment.",
+        "verifiedAt": "2026-10-01T07:03:59Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Summer 2027, approximately eight-week dates, funding, remote collaboration and hardware access are all unverified; visit evidence0.",
+      "September 19, 2026 ForeHand4D v2 is a revision of an October 2025 paper. It predicts human hand motion from images across datasets, not robot actions or new physical manipulation. The separate June 2026 human-video cotraining paper does not include Forsyth and is not attributed to him.",
+      "Sim-on-Wheels tests real vehicle motion with injected virtual events. Its nonzero collision outcomes describe those virtual hazards, not actual collisions with people; no general safety claim.",
+      "Reuse existing Illinois institutional note: Student Intern page is undergraduate-specific; an external master’s academic appointment and appropriate scholar/visitor category still require department/ISSS approval. Generic scholar self-support provisions do not themselves settle the academic route.",
+      "Current UIUC professor/chair identity is separately confirmed; do not confuse with economist Eliza Forsythe or substitute the TTIC affiliation as the main university host.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: Earliest precisely retained primary encounter in the UIUC collaborator group roster; dedicated screen and exact full-name check followed. No earlier time reconstructed.",
+      "[Institutional visitor rules](../eligibility_notes.md#illinois-urbana-champaign)"
+    ],
+    "discoveryTimestampNote": "Earliest precisely retained primary encounter in the UIUC collaborator group roster; dedicated screen and exact full-name check followed. No earlier time reconstructed.",
+    "publicEmail": "daf@illinois.edu"
+  }
+]

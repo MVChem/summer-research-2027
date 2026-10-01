@@ -2,11 +2,11 @@
 
 [全部候选与总分排序](ranked_candidates.md) · [原始索引](mentor_candidates.json) · [机构规则](eligibility_notes.md) · [原200位后续补充](baseline_addenda.md)
 
-从现有记录筛出 **91 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。
+从现有记录筛出 **92 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。
 
 本页按研究匹配分优先，其次真机、短访、新鲜度及发现时间；不把一般询问、学校制度或个人自费能力当成已获资格。所有人的主办类别、八周安排、2027容量、经费和设备访问都需确认。具体奖学金要求、无资助、时间不匹配、任职时点及证据限制优先看下列加粗提示，再读完整资料。
 
-## 访问/短期研究问询线索（现场安排仍须确认） · 83 条
+## 访问/短期研究问询线索（现场安排仍须确认） · 84 条
 
 | 导师 / 机构 | 匹配 / 真机 / 短访 | 已知限制与证据状态 | 直接来源 / 机构规则 | 记录核查 UTC |
 |---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Byung-Cheol Min](batches/hri-016.md#byung-cheol-min) · Indiana University Bloomington | 39/25/8 | **公开问询入口；详细资格与期限未定** | [s3](https://www.smart-laboratory.org/group/opportunities.html) [s4](https://smart-laboratory.org/) | 2026-10-01T00:19:26Z |
 | [Lifeng Zhou](batches/embodied-025.md#lifeng-zhou) · Drexel University | 39/25/8 | **公开问询入口；详细资格与期限未定** | [s3](https://zhourobotics.github.io/Join/) | 2026-10-01T00:15:41Z |
 | [Ransalu Senanayake](batches/control-061.md#ransalu-senanayake) · Arizona State University | 39/25/8 | **明确无资助；ASU访问类别与个人资金适用性未定** | [s2](https://ransml.github.io/lens-lab/joinus.html) [规则](eligibility_notes.md#asu-visiting-categories) | 2026-10-01T04:48:33Z |
+| [Wojciech Matusik](batches/embodied-084.md#wojciech-matusik) · Massachusetts Institute of Technology | 39/25/8 | **访客逐案询问；需说明日期和资金；MIT至少51%非个人支持，八周/2027未定** | [s3](https://cdfg.mit.edu/join/) [规则](eligibility_notes.md#mit-visiting-students) | 2026-10-01T10:47:43Z |
 | [Changliu Liu](batches/control-004.md#changliu-liu) · Carnegie Mellon University | 39/25/8 | **公开问询入口；详细资格与期限未定** | [s2](https://icontrol.ri.cmu.edu/) | 2026-09-30T21:57:49Z |
 | [Reza Azadeh](batches/control-008.md#reza-azadeh) · University of Massachusetts Lowell | 39/25/8 | **inquiry-only · 自费资格待分类确认** | [s3](https://www.pearl-robotics.com/) | 2026-09-30T22:42:03Z |
 | [Zhiwen Fan](batches/embodied-023.md#zhiwen-fan) · Texas A&M University | 39/25/5 | **intern要求US-based；是否限制海外visitor未定，不推断国籍** | [s2](https://phai-lab.github.io/) [s3](https://phai-lab.github.io/opening.html) | 2026-10-01T00:19:26Z |

@@ -178,6 +178,7 @@
     "batches/embodied-078.json",
     "batches/embodied-080.json",
     "batches/embodied-081.json",
+    "batches/embodied-084.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -9574,6 +9575,33 @@
       "shortVisitStatus": "inquiry-only · 访客预期自筹支持；八周与类别未定",
       "recordFile": "batches/embodied-081.json",
       "detailPage": "batches/embodied-081.md#ross-greer"
+    },
+    {
+      "id": "wojciech-matusik",
+      "name": "Wojciech Matusik",
+      "aliases": [],
+      "school": "Massachusetts Institute of Technology",
+      "title": "Cadence Design Systems Professor",
+      "homepage": "https://people.csail.mit.edu/wojciech/",
+      "batch": "embodied-084",
+      "discoveredAt": "2026-10-01T10:42:07Z",
+      "verifiedAt": "2026-10-01T10:47:43Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Neural robot dynamics and force perception",
+        "Robot assembly and imitation learning",
+        "Differentiable physics",
+        "AI for physical design and scientific discovery"
+      ],
+      "discoveryTimestampNote": "Earliest precisely retained candidate-specific primary-name occurrence; earlier incidental coauthor encounters were not precisely timestamped and are not reconstructed.",
+      "shortVisitStatus": "inquiry-only · case-by-case；MIT访学生资金需至少51%非个人",
+      "recordFile": "batches/embodied-084.json",
+      "detailPage": "batches/embodied-084.md#wojciech-matusik"
     },
     {
       "id": "henny-admoni",

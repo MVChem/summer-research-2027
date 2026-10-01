@@ -1,0 +1,121 @@
+[
+  {
+    "id": "wojciech-matusik",
+    "name": "Wojciech Matusik",
+    "aliases": [],
+    "school": "Massachusetts Institute of Technology",
+    "homepage": "https://people.csail.mit.edu/wojciech/",
+    "title": "Cadence Design Systems Professor",
+    "department": "Electrical Engineering and Computer Science; Mechanical Engineering; Computational Design and Fabrication Group (CDFG), CSAIL",
+    "batch": "embodied-084",
+    "discoveredAt": "2026-10-01T10:42:07Z",
+    "verifiedAt": "2026-10-01T10:47:43Z",
+    "researchAreas": [
+      "Neural robot dynamics and force perception",
+      "Robot assembly and imitation learning",
+      "Differentiable physics",
+      "AI for physical design and scientific discovery"
+    ],
+    "fitReason": "Strong robot-learning and AI-for-physical-systems option, with current neural actuation, contact-aware control and computational design. A CS project could investigate learned dynamics, force-aware imitation or efficient model transfer. The lab also explicitly considers visiting students, though a suitable eight-week project and funding arrangement need individual approval.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Full July 2026 NeuralActuator §IV-I and AppendixF verify real OpenManipulator-X control: a frozen learned force-estimation model supplies live telemetry-based feedback to Transformer behavior-cloning policies for lift-and-hold and pick-and-place. TableXIII reports40-trial evaluations, with 92.5% and 95% success versus80% and 85% position-only baselines. This is actual learned feedback controlling hardware, beyond recorded-data modeling. The full official 2025 Fabrica project also documents residual-RL dual-arm assembly, but the score does not require treating its shared Panda as solely CDFG-owned.",
+      "sourceIds": [
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only · case-by-case；MIT访学生资金需至少51%非个人",
+      "summary": "Current full CDFG joining page explicitly considers visiting students and researchers case by case, asking for dates and funding situation. This is separate from PhD admissions, postdocs and MIT-only UROP. It is a generic student-visitor inquiry route, not explicit outside-master acceptance, funding, eight-week availability or a summer 2027 offer. Visitor8.",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 8,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong neural models, robot learning, contact-aware control and physical design.",
+      "physical": "Full 2026 actual causal force-aware learned manipulation; offline platforms explicitly separated.",
+      "shortVisit": "Explicit generic visitor inquiry, without master/duration guarantee.",
+      "freshness": "July 2026 complete paper, current group and recruitment pages."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.eecs.mit.edu / source 1",
+        "url": "https://www.eecs.mit.edu/people/wojciech-matusik/",
+        "summary": "Full official current professorship and professional email.",
+        "verifiedAt": "2026-10-01T10:47:43Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "people.csail.mit.edu / source 2",
+        "url": "https://people.csail.mit.edu/wojciech/",
+        "summary": "Full present group/department roles, physical-AI agenda and contact.",
+        "verifiedAt": "2026-10-01T10:47:43Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "cdfg.mit.edu / source 3",
+        "url": "https://cdfg.mit.edu/join/",
+        "summary": "Full distinct case-by-case visiting-student/researcher paragraph requests dates and funding situation.",
+        "verifiedAt": "2026-10-01T10:47:43Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "cdfg.mit.edu / source 4",
+        "url": "https://cdfg.mit.edu/people/",
+        "summary": "Full current directed group, distinct from historic alumni.",
+        "verifiedAt": "2026-10-01T10:47:43Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2607.11734v1",
+        "summary": "Full July 2026 NeuralActuator, §IV-I/AppendixF live control and AppendixB offline Franka caveat.",
+        "verifiedAt": "2026-10-01T10:47:43Z",
+        "retrieval": "direct-primary-full-paper"
+      },
+      {
+        "id": "s6",
+        "label": "frank-zy-dou.github.io / source 6",
+        "url": "https://frank-zy-dou.github.io/projects/NeuralActuator/index.html",
+        "summary": "Full author project corroborates current MIT work and distinct platform roles.",
+        "verifiedAt": "2026-10-01T10:47:43Z",
+        "retrieval": "direct-primary-project"
+      },
+      {
+        "id": "s7",
+        "label": "fabrica.csail.mit.edu / source 7",
+        "url": "https://fabrica.csail.mit.edu/",
+        "summary": "Full 2025 author project: residual-RL physical dual-arm assembly and shared hardware acknowledgment; secondary fit corroboration.",
+        "verifiedAt": "2026-10-01T10:47:43Z",
+        "retrieval": "direct-primary-project"
+      }
+    ],
+    "unknowns": [
+      "Official MIT EECS page verifies current named professorship and wojciech@csail.mit.edu; the faculty/lab pages use wojciech@mit.edu. Both are public professional aliases, not two people.",
+      "NeuralActuator’s Franka experiment is an offline benchmark using a future-recorded-state proxy, not real-time Franka control. SO-101 validates modeling/perception; the verified downstream policy is the low-cost four-arm-joint-plus-gripper system. Keep these platform roles separate.",
+      "Actuation outputs are simulator-equivalent surrogates, not identified true torques. Force labels are supervised during training. The evaluated loads lie within pretraining range;500g pick-and-place is also in BC demonstrations, so avoid unseen-payload or broad zero-shot generalization claims.",
+      "The Fabrica project acknowledges Adelson-lab Panda support. Its real assembly and modern learning agenda corroborate fit, without implying every apparatus is independently owned or available to a visitor.",
+      "Reuse mit-visiting-students: overseas enrolled graduate visitors require faculty invitation and formal ISO approval; published range3weeks–12months can encompass eight weeks, but dates must conform to current rules. At least51% of total support must be non-personal; fully self/family-funded participation is not eligible under this route.",
+      "Existing MIT note gives 2026–27 support estimate$4350/month including$625 monthly fee, complete documents≥90days ahead, plus separate$1000 processing fee from PI discretionary funds. CSAIL’s older local guide has additional approvals/120-day lead; confirm current local application details.2027 funding, exact dates, project access, mentor capacity and remote options remain unresolved.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: Earliest precisely retained candidate-specific primary-name occurrence; earlier incidental coauthor encounters were not precisely timestamped and are not reconstructed.",
+      "[Institutional visitor rules](../eligibility_notes.md#mit-visiting-students)"
+    ],
+    "discoveryTimestampNote": "Earliest precisely retained candidate-specific primary-name occurrence; earlier incidental coauthor encounters were not precisely timestamped and are not reconstructed.",
+    "publicEmail": "wojciech@mit.edu"
+  }
+]

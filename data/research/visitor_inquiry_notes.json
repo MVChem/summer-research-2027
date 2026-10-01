@@ -588,6 +588,12 @@
       "sourceIds": [
         "s3"
       ]
+    },
+    "wojciech-matusik": {
+      "note": "访客逐案询问；需说明日期和资金；MIT至少51%非个人支持，八周/2027未定",
+      "sourceIds": [
+        "s3"
+      ]
     }
   }
 }

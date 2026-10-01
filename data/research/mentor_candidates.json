@@ -143,6 +143,7 @@
     "batches/embodied-063.json",
     "batches/embodied-064.json",
     "batches/embodied-065.json",
+    "batches/embodied-066.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -7858,6 +7859,32 @@
       "shortVisitStatus": "degree-only · concurrent overseas visit",
       "recordFile": "batches/embodied-065.json",
       "detailPage": "batches/embodied-065.md#kun-zhang"
+    },
+    {
+      "id": "mohsen-moghaddam",
+      "name": "Mohsen Moghaddam",
+      "aliases": [],
+      "school": "Georgia Institute of Technology",
+      "title": "Gary C. Butler Family Associate Professor",
+      "homepage": "https://sail.coe.gatech.edu/",
+      "batch": "embodied-066",
+      "discoveredAt": "2026-10-01T05:55:50Z",
+      "verifiedAt": "2026-10-01T05:58:40Z",
+      "scores": {
+        "fit": 35,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Learned human-intent prediction",
+        "Shared robot autonomy",
+        "Multimodal human-robot collaboration",
+        "XR-guided manipulation"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-066.json",
+      "detailPage": "batches/embodied-066.md#mohsen-moghaddam"
     },
     {
       "id": "henny-admoni",

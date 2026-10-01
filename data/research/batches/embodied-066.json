@@ -1,0 +1,119 @@
+[
+  {
+    "id": "mohsen-moghaddam",
+    "name": "Mohsen Moghaddam",
+    "aliases": [],
+    "school": "Georgia Institute of Technology",
+    "homepage": "https://sail.coe.gatech.edu/",
+    "title": "Gary C. Butler Family Associate Professor",
+    "department": "H. Milton Stewart School of Industrial and Systems Engineering; George W. Woodruff School of Mechanical Engineering",
+    "batch": "embodied-066",
+    "discoveredAt": "2026-10-01T05:55:50Z",
+    "verifiedAt": "2026-10-01T05:58:40Z",
+    "researchAreas": [
+      "Learned human-intent prediction",
+      "Shared robot autonomy",
+      "Multimodal human-robot collaboration",
+      "XR-guided manipulation"
+    ],
+    "fitReason": "Strong adjacent embodied-learning match for a CS project on intent prediction, shared autonomy or multimodal robot interaction. His lab combines learning with actual robot execution, while its wider agenda includes industrial XR, training and design rather than primarily generalist VLA policies.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "July 2026 AHEAD uses an attention/graph-based intent classifier to guide a physical UR10e with Robotiq-85 gripper during VR-mediated pick-and-place. A 15-participant study compares four interfaces on the real robot. SAIL’s current equipment page lists UR10e and Quest 3, and its people page identifies first author Seok Joon Kim as a current doctoral student, supporting current-group apparatus rather than inherited Northeastern hardware.",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current SAIL pages provide a general contact form and describe current Georgia Tech master’s/doctoral researchers, but no explicit external-master’s, summer-intern or short-term visitor invitation was verified. A request to visit for a research discussion or demo is not a research appointment.",
+      "sourceIds": [
+        "s2",
+        "s4",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 35,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Learned multimodal intent and shared autonomy are relevant, though the lab is broader HRI/XR rather than primarily VLA.",
+      "physical": "Named current lab equipment, current doctoral lead and actual learned-input robot execution.",
+      "shortVisit": "No explicit external summer/master’s visitor invitation.",
+      "freshness": "Full July 2026 robot study and current university/lab pages."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.isye.gatech.edu / source 1",
+        "url": "https://www.isye.gatech.edu/users/mohsen-moghaddam",
+        "summary": "Full official profile confirms current chaired associate professorship in ISyE and ME, SAIL leadership and former Northeastern role.",
+        "verifiedAt": "2026-10-01T05:58:40Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "sail.coe.gatech.edu / source 2",
+        "url": "https://sail.coe.gatech.edu/",
+        "summary": "Full live cloud-browser page describes human–AI–robot collaboration and lab research; the discussion/demo invitation is not an external research-visitor call.",
+        "verifiedAt": "2026-10-01T05:58:40Z",
+        "retrieval": "direct-browser-primary"
+      },
+      {
+        "id": "s3",
+        "label": "sail.coe.gatech.edu / source 3",
+        "url": "https://sail.coe.gatech.edu/equipment",
+        "summary": "Full current lab equipment page lists UR10e and Quest 3, corroborating the studied apparatus. Listed G1/Go2 platforms are not themselves proof of learned deployments.",
+        "verifiedAt": "2026-10-01T05:58:40Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "sail.coe.gatech.edu / source 4",
+        "url": "https://sail.coe.gatech.edu/people",
+        "summary": "Full current group roster verifies AHEAD first author Seok Joon Kim as a GT doctoral student and separately lists local master’s researchers.",
+        "verifiedAt": "2026-10-01T05:58:40Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2607.15172v1",
+        "summary": "Full AHEAD paper specifies actual UR10e user-study execution, learned intent model, marker tracking, scripted primitives and metric distinctions.",
+        "verifiedAt": "2026-10-01T05:58:40Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/abs/2607.15172",
+        "summary": "Primary July 16, 2026 submission and IROS 2026 acceptance note; full paper also supplies public GT author contact.",
+        "verifiedAt": "2026-10-01T05:58:40Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s7",
+        "label": "sail.coe.gatech.edu / source 7",
+        "url": "https://sail.coe.gatech.edu/contact-us",
+        "summary": "Full public page is a general contact form, without visitor-specific terms. No information entered or submitted.",
+        "verifiedAt": "2026-10-01T05:58:40Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "No Summer 2027 place, eight-week duration, external-master’s eligibility, funding, remote arrangement or visitor equipment access is confirmed. Current degree students do not supply a visitor pathway.",
+      "AHEAD learns high-level object/slot intent. Marker-based object tracking, a state machine and scripted Cartesian primitives execute movement; do not call it an end-to-end VLA, learned low-level controller or fully autonomous manipulation system.",
+      "The paper’s 76% result concerns offline intent classification, not robot task success. All four user-study conditions completed their tasks, so completion does not distinguish the methods.",
+      "Current Georgia Tech appointment supersedes prior Northeastern employment. Reuse Georgia Tech’s external undergraduate/graduate Student Intern and personal-funding notes; do not apply Northeastern’s majority-external-funding rule to this host.",
+      "The generic contact form was only read. Its anti-spam controls were neither solved nor submitted; direct public professional email is available in the primary paper.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Georgia Tech institutional visitor rules](../eligibility_notes.md#georgia-tech-student-intern)"
+    ],
+    "publicEmail": "mohsen.moghaddam@gatech.edu"
+  }
+]

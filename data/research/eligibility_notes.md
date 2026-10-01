@@ -1085,3 +1085,16 @@ Part II第5页允许全额个人资金，但要求境外大学/研究机构关�
 核查：2026-10-01T10:09:15Z。[2026–2027 校历说明](https://catalog.csupueblo.edu/special-academic-programs-and-services/student-and-exchange-visitor-program/) 确认 CSU Pueblo 支持 J 类国际学生及学者，并指向 Center for Student Support & Advocacy；这不是外校硕士八周研究访问的具体接收规则。其 CPT/OPT 说明面向已在本校就读的学生，不能当作新访客入口。[现行国际事务页面](https://www.csupueblo.edu/center-for-student-support-and-advocacy/international-programs/immigration/index.html) 提及 visiting scholars 服务，但未核实此类短访的任命、身份、最低时长、自费、保险、收费或提前量。
 
 这是 Pueblo 校区，不套用 Fort Collins 的 CSU 规则。须先由具体导师和该校负责国际访问的部门确认资格、项目与资源；[Discovery Scholars](https://www.csupueblo.edu/discovery-scholars/index.html) 是本校学年研究项目，不能据此声称外校硕士可参加暑研。制度细节和导师名额均未确认，保留 opportunity 0。
+
+<a id="uc-santa-cruz"></a>
+
+## UC Santa Cruz · 已公布 2027 年八周 ISRP，硕士可适用
+
+核查：2026-10-01T10:58:49Z；2027 日程、资格页与费用版本于 2026-10-01T11:03:29Z 再核。以下学校页面已在云端浏览器直接核对，搜索索引中的 2026 年日期已过时。[2027 申请安排](https://global.ucsc.edu/visiting-students/isrp/isrp-how-to-apply/) 明确：2026 年 11 月 1 日开放申请，2027 年 2 月 5 日优先截止；研究期 6 月 21 日至 8 月 13 日，八周，6 月 20 日入住、8 月 14 日离校。海外本科/研究生可申请最多三个预设项目，最终由导师择优接收。该时间表不等于每位 UCSC 导师开放名额。[项目库](https://ucsc-isrp.softr.app/) 在本次核查时仍展示 2025–26 项目，不能据此确认 2027 导师名单。
+
+[项目主页](https://global.ucsc.edu/visiting-students/isrp/) 强调海外合作院校，而[具体资格页](https://global.ucsc.edu/visiting-students/isrp/eligibility/)未明列合作校限制；非合作院校适用性仍须项目确认。须全程保持在读、不可在实习期间毕业，并由主校批准学位关联及返校完成学位。项目费 975 美元有效期为 2026-09-01 至 2027-08-31；八周住宿估计约 3,100 美元，餐饮、保险、旅行及签证等另计，非资助承诺。[Student Intern 流程](https://ifss.ucsc.edu/departments/request-process-for-j-1-student-interns/) 明确包含海外硕士，须保持在读、原校批准学位关联、访问后返校完成学位，每周至少 32 小时；导师培训计划和院系正式申请必需。建议提前三个月，完整院系申请至少提前 60 天。
+
+[资金要求](https://ifss.ucsc.edu/scholars/j-1-exchange-visitors/new/funding-requirements/) 单人每月最低 2,200 美元，允许合规的个人资金；这是财力证明门槛，不是完整实际预算。普通院系 Student Intern 类别与竞争性 ISRP 项目须分别确认，均不保证某实验室接收、硬件开放或给薪。保持学位、学校合作资格、项目名额及最终费用应在申请前复核。
+
+版本提醒：2027 专页给出的是 2 月 5 日**优先截止**；主页概述仍写通常一月底，以明确年份的专页安排为准。较新的主页列 2026–27 项目费 $975、八周住房约 $3,100；[独立费用页](https://global.ucsc.edu/visiting-students/isrp/cost/)仍标 2025–26 年及住房约 $3,025，其他餐饮估计也未同步。不得把两版当成统一最终报价，须在接受项目前确认。
+

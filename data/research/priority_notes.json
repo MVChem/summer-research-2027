@@ -37,18 +37,18 @@
     "tom-silver": {
       "appointmentStart": {
         "year": 2025,
-        "precision": "year",
-        "season": "Fall",
-        "display": "Fall 2025",
+        "precision": "month",
         "status": "current",
+        "appointmentType": "unresolved",
         "sourceIds": [
-          "h1",
-          "h2"
+          "later-h1",
+          "later-h2"
         ],
-        "evidence": "Department hire story explicitly says joined faculty in2025; lab news reports accepted position starting Fall2025. October2 publication is not hire day."
+        "evidence": "Later CV adds July 2025 precision. The official department account gives 2025; old lab announcement describes the academic start as Fall 2025. Preserve both provenance statements rather than calling the October 2 article publication his start date.",
+        "month": 7
       },
-      "display": "Fall 2025",
-      "caveat": "外校研究生可经VSRC询问；仅现场，按完整日历月安排；需提前4–6个月准备",
+      "display": "2025-07（本人CV）；官方确认2025、早期公告称Fall",
+      "caveat": "外校研究生VSRC可询问，仅现场、按完整日历月；新CV给7月，保留旧Fall口径；需提前4–6个月准备",
       "sources": [
         {
           "url": "https://ece.princeton.edu/news/tom-silver-joins-princeton-faculty-expertise-robot-planning-and-learning",
@@ -61,6 +61,41 @@
           "observedAt": "2026-10-01T12:09:31Z",
           "evidence": "Lab timeline says Fall2025 start; graduate students from other institutions may inquire via VSRC, with no remote internships.",
           "id": "h2"
+        },
+        {
+          "id": "later-h1",
+          "url": "https://tomsilver.github.io/assets/pdf/tom_silver_cv2026.pdf",
+          "observedAt": "2026-10-01T13:35:04Z",
+          "evidence": "Complete nine-page CV, Academic Positions and Education block: Princeton ECE Assistant Professor July 2025–Present.",
+          "retrieval": "full-primary-PDF-text"
+        },
+        {
+          "id": "later-h2",
+          "url": "https://ece.princeton.edu/news/tom-silver-joins-princeton-faculty-expertise-robot-planning-and-learning",
+          "observedAt": "2026-10-01T13:35:04Z",
+          "evidence": "Official October 2, 2025 account confirms current ECE AP and 2025 arrival.",
+          "retrieval": "complete-primary-page"
+        },
+        {
+          "id": "later-r1",
+          "url": "https://prpl-group.com/",
+          "observedAt": "2026-10-01T13:36:21Z",
+          "evidence": "Live page retains distinct external graduate VSRC inquiry route, no remote internships, and separate exclusion of outside undergraduates/high school/research-assistant inquiries, including self-funded RA.",
+          "retrieval": "complete-primary-page"
+        }
+      ],
+      "priorAppointmentMetadata": [
+        {
+          "year": 2025,
+          "precision": "year",
+          "season": "Fall",
+          "display": "Fall 2025",
+          "status": "current",
+          "sourceIds": [
+            "h1",
+            "h2"
+          ],
+          "evidence": "Department hire story explicitly says joined faculty in2025; lab news reports accepted position starting Fall2025. October2 publication is not hire day."
         }
       ]
     },
@@ -138,17 +173,18 @@
     "dhruv-shah": {
       "appointmentStart": {
         "year": 2026,
-        "precision": "year",
-        "display": "2026; exact month/day unconfirmed",
+        "precision": "month",
         "status": "current",
+        "appointmentType": "unresolved",
         "sourceIds": [
-          "h1",
-          "h2"
+          "later-h1",
+          "later-h2"
         ],
-        "evidence": "September2026 CV gives Princeton AP2026–present, corroborated by the April6,2026 department hire story. Article publication is not start day."
+        "evidence": "Official board appointment announcement specifies January 2026. The current ECE directory and April 2026 hire account corroborate that he is now serving; the month rests on the official appointment announcement, not an independently dated first workday.",
+        "month": 1
       },
-      "display": "2026; exact month/day unconfirmed",
-      "caveat": "2026已到岗；Masters可选，但通常偏好至少6个月，较短安排需确认",
+      "display": "2026-01（官方任命公告；当前已到岗）",
+      "caveat": "Masters表单通常偏好至少6个月，较短安排仍待确认；偏好不等于硬性门槛，原表单观察时间保留",
       "sources": [
         {
           "url": "https://dhruvshah.me/docs/cv.pdf",
@@ -173,6 +209,40 @@
           "observedAt": "2026-10-01T12:10:06Z",
           "evidence": "Initial form page explicitly prefers visits >=6months and includes Masters status. Later pages were not inspected and no identifying fields/checks/uploads/submission were entered. Exact URL checked12:13:06Z.",
           "id": "h4"
+        },
+        {
+          "id": "later-h1",
+          "url": "https://research.princeton.edu/news/board-approves-22-new-faculty-appointments",
+          "observedAt": "2026-10-01T13:35:04Z",
+          "evidence": "Under Assistant professor, Dhruv Shah is explicitly announced to join ECE in January 2026.",
+          "retrieval": "complete-primary-page"
+        },
+        {
+          "id": "later-h2",
+          "url": "https://ece.princeton.edu/people/shahd",
+          "observedAt": "2026-10-01T13:35:51Z",
+          "evidence": "Current institutional ECE Assistant Professor directory.",
+          "retrieval": "complete-primary-page"
+        },
+        {
+          "id": "later-r1",
+          "url": "https://prism.robotics.princeton.edu/contact",
+          "observedAt": "2026-10-01T13:36:21Z",
+          "evidence": "Dedicated non-Princeton short-term visitor form, distinct from current/admitted local student forms.",
+          "retrieval": "complete-primary-page"
+        }
+      ],
+      "priorAppointmentMetadata": [
+        {
+          "year": 2026,
+          "precision": "year",
+          "display": "2026; exact month/day unconfirmed",
+          "status": "current",
+          "sourceIds": [
+            "h1",
+            "h2"
+          ],
+          "evidence": "September2026 CV gives Princeton AP2026–present, corroborated by the April6,2026 department hire story. Article publication is not start day."
         }
       ]
     },
@@ -1608,6 +1678,648 @@
           "url": "https://frostlab.byu.edu/people/brady-moon/",
           "observedAt": "2026-10-01T14:02:48Z",
           "evidence": "University-hosted faculty biography explicitly dates first AP arrival July 2025 after CMU PhD."
+        }
+      ]
+    },
+    "kuan-fang": {
+      "appointmentStart": {
+        "year": 2024,
+        "precision": "year",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "later-h1",
+          "later-h2"
+        ],
+        "evidence": "Official Cornell announcement explicitly says Assistant professor of computer science (Fall 2024); current directory confirms the appointment. Use year precision, with Fall retained in text and no invented calendar month."
+      },
+      "display": "2024秋（官方新教师公告）",
+      "caveat": "外校在读MS完整表单已核实；须按页面交表并邮件，起止日期/签证/资金问题不是支持承诺；无已公布最短时长",
+      "sources": [
+        {
+          "id": "later-h1",
+          "url": "https://bowers.cornell.edu/news-stories/11-new-faculty-join-bowers-cis",
+          "observedAt": "2026-10-01T13:35:51Z",
+          "evidence": "Official cohort states Fall 2024 Kuan Fang appointment, after Berkeley postdoc.",
+          "retrieval": "complete-primary-page"
+        },
+        {
+          "id": "later-h2",
+          "url": "https://www.cs.cornell.edu/people/kuan-fang",
+          "observedAt": "2026-10-01T13:35:51Z",
+          "evidence": "Current Cornell department profile confirms Assistant Professor.",
+          "retrieval": "complete-primary-page"
+        },
+        {
+          "id": "later-r1",
+          "url": "https://kuanfang.github.io/join-us.html",
+          "observedAt": "2026-10-01T13:36:21Z",
+          "evidence": "Separate Visiting Researchers section explicitly addresses people not currently at Cornell and requests form plus email; visa/eligibility handled by Cornell.",
+          "retrieval": "complete-primary-page"
+        }
+      ]
+    },
+    "quan-khanh-luu": {
+      "appointmentStart": {
+        "year": 2026,
+        "precision": "year",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "later-h1",
+          "later-h2"
+        ],
+        "evidence": "Official September 3, 2026 story welcomes the 2026–27 cohort and lists Quan Luu as new ECE Assistant Professor. Year2026 is verified. Do not use class-start August24 as an individual appointment day; current personal page confirms role but no longer exposes the earlier indexed Fall-start wording."
+      },
+      "display": "2026（官方2026–27新教师群体）",
+      "caveat": "具体月日未核；真机是此前Purdue合作，当前UNL设备和访客入口未知",
+      "sources": [
+        {
+          "id": "later-h1",
+          "url": "https://engineering.unl.edu/news/260807/coe/new-faculty-named/",
+          "observedAt": "2026-10-01T13:36:38Z",
+          "evidence": "Complete public university HTML successfully read after web extraction error: September3 story lists Quan Luu among new2026–27 faculty, with soft sensing and embodied-AI focus.",
+          "retrieval": "complete-public-HTTPS-HTML"
+        },
+        {
+          "id": "later-h2",
+          "url": "https://quan-luu.github.io/",
+          "observedAt": "2026-10-01T13:35:04Z",
+          "evidence": "Current first-person page identifies full name Quan Khanh Luu, current UNL ECE AP and prior Purdue postdoc.",
+          "retrieval": "complete-primary-page"
+        }
+      ]
+    },
+    "yuzhang-shang": {
+      "appointmentStart": {
+        "year": 2025,
+        "precision": "year",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "later-h1"
+        ],
+        "evidence": "Official 2025 CS hiring cohort verifies the year. The separate IAI directory is indexed as Summer2025 but could not be retrieved as a full page; the cohort article calls the academic intake Fall2025. No exact month is inferred."
+      },
+      "display": "2025（官方新教师公告；Summer/Fall季节口径不同）",
+      "caveat": "具体访客页面要求只向公开招募邮箱询问；另一实验室首页更泛化但未宣布关闭；合作设备、资金/时长未知",
+      "sources": [
+        {
+          "id": "later-h1",
+          "url": "https://www.cs.ucf.edu/ucf-strengthens-computer-science-19-new-hires/",
+          "observedAt": "2026-10-01T14:02:35Z",
+          "evidence": "Official August11,2025 account names Shang among the new Fall2025 CS/IAI hires.",
+          "retrieval": "complete-primary-page"
+        },
+        {
+          "id": "later-h2",
+          "url": "https://www.cecs.ucf.edu/faculty/yuzhang-shang/",
+          "observedAt": "2026-10-01T13:55:56Z",
+          "evidence": "Current Assistant Professor faculty directory.",
+          "retrieval": "complete-primary-page"
+        },
+        {
+          "id": "later-h3",
+          "url": "https://ai.ucf.edu/people/faculty/",
+          "observedAt": "2026-10-01T13:55:40Z",
+          "evidence": "Indexed full faculty roster says Joined Summer2025. Full-page retrieval failed (web internal error; HTTPS502); this is corroborative indexed season only, not the basis for an exact start.",
+          "retrieval": "primary-search-index-only"
+        },
+        {
+          "id": "later-r1",
+          "url": "https://42shawn.github.io/EXceL-Lab@UCF/",
+          "observedAt": "2026-10-01T14:02:01Z",
+          "evidence": "Live page recruits visitors and master/undergraduate researchers, designated hiring email only; roster includes Fall2026 students.",
+          "retrieval": "complete-primary-page"
+        },
+        {
+          "id": "later-r2",
+          "url": "https://excel-lab.github.io/EXcel-Lab-Website/",
+          "observedAt": "2026-10-01T13:55:56Z",
+          "evidence": "Alternate lab root directs collaborators/prospective PhD inquiries to university email; no express visitor closure. Do not silently override the specific hiring-email instruction on the other live page.",
+          "retrieval": "complete-primary-page"
+        }
+      ]
+    },
+    "zezhou-cheng": {
+      "appointmentStart": {
+        "year": 2024,
+        "precision": "year",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "later-h1"
+        ],
+        "evidence": "Official new-faculty2024 cohort establishes year2024. Article publication October1 is not an appointment day."
+      },
+      "display": "2024（官方新教师公告）",
+      "caveat": "完整表单有外校学生选项，但未专门列外校硕士；8分保持，UVA本校MS选项不能当外校硕士保证",
+      "sources": [
+        {
+          "id": "later-h1",
+          "url": "https://engineering.virginia.edu/news-events/news/uva-engineering-welcomes-new-faculty-2024",
+          "observedAt": "2026-10-01T13:57:03Z",
+          "evidence": "October1,2024 new-faculty cohort names Zezhou Cheng, CS Assistant Professor.",
+          "retrieval": "complete-primary-page"
+        },
+        {
+          "id": "later-h2",
+          "url": "https://engineering.virginia.edu/faculty/zezhou-cheng",
+          "observedAt": "2026-10-01T14:01:54Z",
+          "evidence": "Current CS Assistant Professor directory.",
+          "retrieval": "complete-primary-page"
+        },
+        {
+          "id": "later-r1",
+          "url": "https://cvlab.cs.virginia.edu/contact.html",
+          "observedAt": "2026-10-01T14:05:03Z",
+          "evidence": "Separate external visiting-student/research-intern invitation and matching form.",
+          "retrieval": "complete-primary-page"
+        },
+        {
+          "id": "later-r2",
+          "url": "https://www.cs.virginia.edu/~zc3bp/",
+          "observedAt": "2026-10-01T14:02:01Z",
+          "evidence": "Current homepage links the long Google form directly for interns and PhD applicants.",
+          "retrieval": "complete-primary-page"
+        },
+        {
+          "id": "later-r3",
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSeonpWnTzEpoVRHykqPCbl47xKTmoQRpimBT6JPIqNDu2vfzQ/viewform",
+          "observedAt": "2026-10-01T14:03:05Z",
+          "evidence": "Complete one-page public form: external-institute students separate from UVA degree options, anticipated start/months, weekly commitment choices, research interests and CV links. No data entered or submitted.",
+          "retrieval": "complete-primary-form-via-web"
+        }
+      ]
+    },
+    "junyi-geng": {
+      "appointmentStart": {
+        "year": 2023,
+        "precision": "month",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "later-h1",
+          "later-h2"
+        ],
+        "evidence": "Lab head’s dated news explicitly states the new Penn State position began January2023. Official February2023 cohort independently places arrival within Sept2,2022–Jan31,2023; month rests on first-person lab account.",
+        "month": 1
+      },
+      "display": "2023-01（本人lab新闻；官方群体公告佐证范围）",
+      "caveat": "列为较早AP；当前表单明确MS/夏季/远程类别，旧2024 PhD标题仍在；时长/资金/2027接收未知",
+      "sources": [
+        {
+          "id": "later-h1",
+          "url": "https://ari-psu.github.io/team/junyi_geng/",
+          "observedAt": "2026-10-01T13:55:56Z",
+          "evidence": "January2023 news says started new Penn State position; April2022 announcement specifies January2023 AP start.",
+          "retrieval": "complete-primary-page"
+        },
+        {
+          "id": "later-h2",
+          "url": "https://www.psu.edu/news/engineering/story/17-new-faculty-members-join-college-engineering",
+          "observedAt": "2026-10-01T14:01:54Z",
+          "evidence": "February14,2023 new-faculty account lists Geng among tenure-line arrivals between Sept2,2022 and Jan31,2023.",
+          "retrieval": "complete-primary-page"
+        },
+        {
+          "id": "later-h3",
+          "url": "https://www.engr.psu.edu/directory/directory-detail-g.aspx?q=jxg1052",
+          "observedAt": "2026-10-01T14:04:49Z",
+          "evidence": "Current Aerospace Engineering AP directory, with current learning-based aerial robotics agenda.",
+          "retrieval": "complete-primary-page"
+        },
+        {
+          "id": "later-r1",
+          "url": "https://ari-psu.github.io/contact/",
+          "observedAt": "2026-10-01T14:01:54Z",
+          "evidence": "Dedicated summer intern and visiting scholar invitation; exact later form observations in route-addendum003.",
+          "retrieval": "complete-primary-page"
+        }
+      ]
+    },
+    "zhiwen-fan": {
+      "appointmentStart": {
+        "precision": "unknown",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "later-h1",
+          "later-r1",
+          "later-r2"
+        ]
+      },
+      "display": "现任AP；准确入职年仍未核实",
+      "caveat": "实验室研究实习写明US-based；单列visiting学生是否同受范围限制仍未知，不作国籍判断；不由2025 PhD推断任职年",
+      "sources": [
+        {
+          "id": "later-h1",
+          "url": "https://engineering.tamu.edu/electrical/profiles/fan-zhiwen.html",
+          "observedAt": "2026-10-01T14:02:01Z",
+          "evidence": "Current faculty title and2025 PhD, but no explicit faculty-start date.",
+          "retrieval": "complete-primary-page"
+        },
+        {
+          "id": "later-r1",
+          "url": "https://phai-lab.github.io/",
+          "observedAt": "2026-10-01T14:02:01Z",
+          "evidence": "Current Fall2027 PhD advertisement and research interns explicitly US based.",
+          "retrieval": "complete-primary-page"
+        },
+        {
+          "id": "later-r2",
+          "url": "https://phai-lab.github.io/opening.html",
+          "observedAt": "2026-10-01T14:01:54Z",
+          "evidence": "PhD, visiting student and intern recruitment; equal mentorship/computing access, but US-based scope not resolved for the separately named visitors.",
+          "retrieval": "complete-primary-page"
+        }
+      ]
+    },
+    "ziran-wang": {
+      "appointmentStart": {
+        "year": 2022,
+        "month": 7,
+        "precision": "month",
+        "status": "current",
+        "appointmentType": "first-faculty-as-listed",
+        "sourceIds": [
+          "later-h1",
+          "later-h2",
+          "later-h3"
+        ],
+        "evidence": "The live linked CV lists the primary Purdue CCE Assistant Professor appointment from July2022, following Toyota research roles. Official October2022 university coverage corroborates the AP role. May2025 is a separate ECE courtesy appointment, not the primary faculty start."
+      },
+      "display": "2022年7月（主聘AP；2025年5月仅ECE兼聘）",
+      "caveat": "主聘AP始于2022；按当前2024起近期AP视图不应因2025兼聘而上调。现场/远程intern问询仍有效；外校硕士、时长、资金与2027容量未知。",
+      "sources": [
+        {
+          "id": "later-h1",
+          "url": "https://ziranw.github.io/CV_Ziran_Wang.pdf",
+          "observedAt": "2026-10-01T13:55:23Z",
+          "evidence": "Current linked19-page CV updated February18,2026. Full PDF downloaded/text extracted; page1 rendered and read. CCE AP July2022–present; ECE courtesy May2025–present; earlier employment Toyota. Exact start month is personal-CV evidence."
+        },
+        {
+          "id": "later-h2",
+          "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2022/2022-1005-icon-new-faculty",
+          "observedAt": "2026-10-01T13:54:55Z",
+          "evidence": "Complete official October6,2022 article identifies Wang as Purdue Civil Engineering AP and Digital Twin Lab lead after Toyota. Corroborates2022 role, not an exact July date."
+        },
+        {
+          "id": "later-h3",
+          "url": "https://engineering.purdue.edu/CCE/People/Affiliations/a00015/ptProfile?group_id=1920&resource_id=271311",
+          "observedAt": "2026-10-01T13:53:24Z",
+          "evidence": "Current primary CCE Assistant Professor with courtesy ECE; West Lafayette host."
+        }
+      ]
+    },
+    "animesh-garg": {
+      "appointmentStart": {
+        "year": 2023,
+        "endYear": 2024,
+        "precision": "range",
+        "status": "current",
+        "appointmentType": "institution-move",
+        "sourceIds": [
+          "later-h1",
+          "later-h2",
+          "later-h3"
+        ],
+        "evidence": "Georgia Tech official August30,2023 feature calls Garg new AP; current personal timeline and linked CV instead put GT start in2024/August2024. Preserve unresolved2023–24 range. Toronto primary AP began2019; this is not a new first-career2024 faculty appointment."
+      },
+      "display": "2019起任AP；GT转校时间2023–24来源不一致",
+      "caveat": "转校任职；不是2024首次AP。少量外校短访，偏好自费/奖学金；表单加邮件。未核实2027容量或最短停留。",
+      "sources": [
+        {
+          "id": "later-h1",
+          "url": "https://www.cc.gatech.edu/news/georgia-tech-best-place-be-robotics-boom-horizon-says-new-faculty-member",
+          "observedAt": "2026-10-01T13:59:57Z",
+          "evidence": "Complete official August30,2023 feature calls him new GT AP after four Toronto years; publication date is not exact start day."
+        },
+        {
+          "id": "later-h2",
+          "url": "https://animesh.garg.tech/assets/garg-cv-0425.pdf",
+          "observedAt": "2026-10-01T14:02:15Z",
+          "evidence": "Full20-page PDF extracted; pages1–2 visually read. GT August2024; Toronto primary AP August2019–July2023 and courtesy fromAugust2023. Limits: CV contains an unrelated reversed Apptronik date range, so no attempt to resolve GT conflict by assuming a typo."
+        },
+        {
+          "id": "later-h3",
+          "url": "https://animesh.garg.tech/",
+          "observedAt": "2026-10-01T13:59:57Z",
+          "evidence": "Current personal timeline lists GT2024– and Toronto2019–2023; supports conflict disclosure."
+        },
+        {
+          "id": "later-h4",
+          "url": "https://web.cs.toronto.edu/news-events/news/we-have-really-ambitious-plans-robotics-research-gears-up-at-u-of-t-mississauga",
+          "observedAt": "2026-10-01T13:59:57Z",
+          "evidence": "Complete official August19,2019 article identifies Garg as an arriving AP that summer."
+        },
+        {
+          "id": "later-h5",
+          "url": "https://www.ic.gatech.edu/people/animesh-garg",
+          "observedAt": "2026-10-01T13:58:57Z",
+          "evidence": "Current official GT AP title and preferred Georgia Tech public email. Limits: Old bio says Toronto leave/Nvidia current; personal page now describes courtesy Toronto and past industry roles. No current industry appointment added."
+        },
+        {
+          "id": "later-r1",
+          "url": "https://www.pair.toronto.edu/contact/",
+          "observedAt": "2026-10-01T13:58:57Z",
+          "evidence": "Complete visitor section: non-GT short visits, few opportunities, self/fellowship support preferred, form plus email. Local UG/MS enrollment rule is a separate section. Limits: Linked visitor form not freshly reread in this date-focused pass; no absence-of-minimum conclusion beyond the page."
+        }
+      ],
+      "priorFacultyStart": {
+        "year": 2019,
+        "month": 8,
+        "precision": "month",
+        "sourceIds": [
+          "later-h2",
+          "later-h4"
+        ],
+        "evidence": "CV says August2019–July2023 Toronto primary AP; official UofT August2019 coverage describes arriving that summer. Exact August month comes from personal CV."
+      }
+    },
+    "wanxin-jin": {
+      "appointmentStart": {
+        "year": 2023,
+        "precision": "year",
+        "status": "current",
+        "appointmentType": "first-faculty-as-described",
+        "sourceIds": [
+          "later-h1",
+          "later-h2",
+          "later-h3"
+        ],
+        "evidence": "Official ASU March26,2024 Q&A explicitly says he started his faculty position in Fall2023; official new-faculty biography describes transition from Penn postdoc. Retain Fall qualifier without inventing August."
+      },
+      "display": "2023年秋（官方明确任职起点）",
+      "caveat": "独立intern现场/远程问询取决于项目与容量；2027全奖仅PhD通知，不能转为访学资助。",
+      "sources": [
+        {
+          "id": "later-h1",
+          "url": "https://forge.engineering.asu.edu/2024/03/qa-with-faculty-mentor-wanxin-jin/",
+          "observedAt": "2026-10-01T14:02:54Z",
+          "evidence": "Complete official Q&A explicitly states faculty-position start Fall2023; domestic MORE mentorship is not a visitor eligibility rule."
+        },
+        {
+          "id": "later-h2",
+          "url": "https://news.engineering.asu.edu/welcome/wanxin-jin/",
+          "observedAt": "2026-10-01T13:58:44Z",
+          "evidence": "Complete official new-faculty biography places him in2023–24 cohort after Penn postdoc. Limits: Later direct download returned bare403; successful web-reader observation retained."
+        },
+        {
+          "id": "later-h3",
+          "url": "https://search.asu.edu/profile/4837210",
+          "observedAt": "2026-10-01T14:01:35Z",
+          "evidence": "Current official AP, Tempe and department. Fall2023 teaching corroborates activity but was not used alone as hire date."
+        },
+        {
+          "id": "later-r1",
+          "url": "https://irislab.tech/joining/",
+          "observedAt": "2026-10-01T13:58:57Z",
+          "evidence": "Complete page has separate remote/in-person research-intern section and form, project fit/capacity condition. After one week without reply, follow-up email is suggested; not a response guarantee. Limits: No duration stated on page; linked form not freshly reread. Separate local ASU MS/UG section does not limit outside internship category."
+        },
+        {
+          "id": "later-r2",
+          "url": "https://irislab.tech/",
+          "observedAt": "2026-10-01T13:58:44Z",
+          "evidence": "Spring2027 fully-funded recruitment is explicitly two PhD positions, separate from internships."
+        }
+      ]
+    },
+    "jiachen-li": {
+      "appointmentStart": {
+        "precision": "unknown",
+        "status": "current",
+        "appointmentType": "institution-move",
+        "sourceIds": [
+          "later-h1",
+          "later-h2",
+          "later-h3",
+          "later-h4",
+          "later-h5",
+          "later-r1"
+        ]
+      },
+      "display": "首个列明AP为UCR2024；现GT任职已确认，转校起始日未核实",
+      "caveat": "GT已到岗而非确定新首次任职；网页07/2026版权不是入职日期。现场/远程intern及访问学者表单仍在，资金/2027日期仅PhD明确。",
+      "sources": [
+        {
+          "id": "later-h1",
+          "url": "https://jiachenli94.github.io/CV_Jiachen_Li.pdf",
+          "observedAt": "2026-10-01T14:02:15Z",
+          "evidence": "Full14-page PDF extracted; page1 visually confirms UCR AP2024–present and Stanford postdoc2021–23. Limits: Current institutional/employment text is stale after move. Use only historical start evidence, not current contact/affiliation."
+        },
+        {
+          "id": "later-h2",
+          "url": "https://profiles.ucr.edu/api/CvAttachment/7952081",
+          "observedAt": "2026-10-01T14:00:29Z",
+          "evidence": "Complete10-page official-hosted older CV confirms UCR AP2024 start. Limits: Old affiliation/contact retained in document; not current GT contact."
+        },
+        {
+          "id": "later-h3",
+          "url": "https://webarchive.ucr.edu/insideucr.ucr.edu/stories/2023/10/16/ucr-welcomes-52-new-faculty-members.html",
+          "observedAt": "2026-10-01T14:00:54Z",
+          "evidence": "Official archive covers2023–24 cohort and says Jiachen would begin teaching spring2024. Does not supply exact appointment day/month."
+        },
+        {
+          "id": "later-h4",
+          "url": "https://people.research.gatech.edu/jiachen-li",
+          "observedAt": "2026-10-01T13:58:44Z",
+          "evidence": "Current official GT named AP and joint ISyE/ME appointment, jiachen_li@gatech.edu. No exact start date."
+        },
+        {
+          "id": "later-h5",
+          "url": "https://jiachenli94.github.io/",
+          "observedAt": "2026-10-01T13:58:44Z",
+          "evidence": "Personal current GT role explicitly says he previously served as UCR AP. Copyright07/2026 is not appointment date."
+        },
+        {
+          "id": "later-r1",
+          "url": "https://tasl-lab.github.io/join/",
+          "observedAt": "2026-10-01T13:58:57Z",
+          "evidence": "Complete GT join page separately lists onsite/remote interns and visiting scholars; relevant STEM bachelor degree being pursued or held is expected. Fully fundedSpring/Fall2027 clauses belong to PhD positions. Limits: Form not freshly reread; no statement that hidden form has no duration requirement."
+        }
+      ],
+      "priorFacultyStart": {
+        "year": 2024,
+        "precision": "year",
+        "sourceIds": [
+          "later-h1",
+          "later-h2",
+          "later-h3"
+        ],
+        "evidence": "Both currently linked personal CV and older UCR-hosted CV list UCR primary AP from2024 after Stanford postdoc. October2023 UCR story is2023–24 cohort and says future spring2024 teaching; it is not an exact2023 appointment."
+      }
+    },
+    "dong-chen": {
+      "appointmentStart": {
+        "year": 2024,
+        "month": 10,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "later-h1"
+        ],
+        "evidence": "Official ABE Fall 2024 newsletter, printed page 5, explicitly states October 2024 AP arrival after UVA postdoctoral work.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2024-10（官方学院newsletter）",
+      "caveat": "Mississippi State农业机器人导师；当前已核实入口仅远程，现场短访分仍0，不能将任职日期当现场邀请",
+      "sources": [
+        {
+          "id": "later-h1",
+          "url": "https://www.abe.msstate.edu/wp-content/uploads/ABE-Newsletter-Fall-2024.pdf",
+          "observedAt": "2026-10-01T14:13:21Z",
+          "evidence": "Full primary PDF page 5: October 2024 AP start; 2023–2024 UVA postdoc and 2023 Michigan State PhD."
+        }
+      ]
+    },
+    "sihong-he": {
+      "appointmentStart": {
+        "year": 2024,
+        "precision": "year",
+        "season": "Fall",
+        "status": "current",
+        "sourceIds": [
+          "later-h1",
+          "later-h2"
+        ],
+        "evidence": "UTA official Fall 2024 new-faculty booklet, printed page 17, identifies Sihong He as new CSE Assistant Professor; prior UConn doctoral role is independently corroborated by author biography.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2024秋（官方新教师册）",
+      "caveat": "机器人学习仍为仿真备选；访客邀请保留原2024日期，不因新核任职而变成2027名额",
+      "sources": [
+        {
+          "id": "later-h1",
+          "url": "https://cdn.web.uta.edu/-/media/project/website/provost/faculty-affairs/pdfs/faculty-booklet/new-faculty-book-2024.ashx",
+          "observedAt": "2026-10-01T14:13:21Z",
+          "evidence": "Primary PDF downloaded successfully and layout-preserving extraction verified name, title and cohort on page 17."
+        },
+        {
+          "id": "later-h2",
+          "url": "https://sihonghe.com/",
+          "observedAt": "2026-10-01T14:13:21Z",
+          "evidence": "Current AP biography and immediately preceding UConn PhD, with external intern/visitor invitation separately documented in existing row."
+        }
+      ]
+    },
+    "luis-antonio-garcia": {
+      "appointmentStart": {
+        "year": 2023,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "later-h1",
+          "later-h2"
+        ],
+        "evidence": "Official 2023 engineering research report identifies Garcia among new tenure-track faculty added in 2023 by July. Author CV explicitly gives July 2023 Utah start and July 2022–June 2023 USC Research Assistant Professor.",
+        "appointmentType": "institution-move"
+      },
+      "display": "2023转入Utah；本人CV细化7月；此前USC Research AP2022-07起",
+      "caveat": "这是机构转移，不是首次faculty；旧UCLA真机证据和访客询问不保证Utah设备/项目容量",
+      "sources": [
+        {
+          "id": "later-h1",
+          "url": "https://www.price.utah.edu/wp-content/uploads/2023/08/ResearchReport2023.pdf",
+          "observedAt": "2026-10-01T14:13:21Z",
+          "evidence": "Official 2023 new-faculty cohort, printed page 20; no exact individual hire day."
+        },
+        {
+          "id": "later-h2",
+          "url": "https://lagarcia.us/files/LuisGarcia_CV.pdf",
+          "observedAt": "2026-10-01T14:13:21Z",
+          "evidence": "Full CV page 1: Utah AP July 2023; USC Research AP July 2022–June 2023, overlapping USC research-scientist role."
+        }
+      ]
+    },
+    "xuan-wang": {
+      "appointmentStart": {
+        "precision": "unknown",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "later-h1",
+          "later-h2",
+          "later-h3"
+        ]
+      },
+      "display": "至迟2021已在Mason任AP；准确入职日未核",
+      "caveat": "2021实验室创立不能当精确到岗日；旧CV现在404；实习邀请仍受GMU无Student Intern及资金规则限制",
+      "sources": [
+        {
+          "id": "later-h1",
+          "url": "https://facultysenate.gmu.edu/wp-content/uploads/archive/FS_MINUTES_8-25-21_cont_9_8_21.pdf",
+          "observedAt": "2026-10-01T14:13:21Z",
+          "evidence": "Official dated faculty-senate minutes identify ECE AP Xuan Wang in 2021."
+        },
+        {
+          "id": "later-h2",
+          "url": "https://mason.gmu.edu/~xwang64/index.html",
+          "observedAt": "2026-10-01T14:13:21Z",
+          "evidence": "Lab establishment August 2021, not explicitly individual appointment date."
+        },
+        {
+          "id": "later-h3",
+          "url": "https://mason.gmu.edu/~xwang64/team.html",
+          "observedAt": "2026-10-01T14:13:21Z",
+          "evidence": "Prior Purdue PhD 2020 and UCSD postdoc; current Mason AP."
+        }
+      ]
+    },
+    "andrea-dambrosio": {
+      "appointmentStart": {
+        "precision": "unknown",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "later-h1",
+          "later-h2",
+          "later-h3"
+        ]
+      },
+      "display": "官方Fall2025群体、2026-02已到岗；具体起始日期未核",
+      "caveat": "官方群体标题不能单独证明个人实际到岗月；空间自主方法备选，真机未核；访客资格/资金须另定",
+      "sources": [
+        {
+          "id": "later-h1",
+          "url": "https://www.usf.edu/engineering/faculty-affairs/newfaculty.aspx",
+          "observedAt": "2026-10-01T14:13:21Z",
+          "evidence": "Full official page: D’Ambrosio is under Fall 2025 cohort, without an individual start sentence."
+        },
+        {
+          "id": "later-h2",
+          "url": "https://www.usf.edu/engineering/news/2026/usf-expands-footprint-in-space-research.aspx",
+          "observedAt": "2026-10-01T14:13:21Z",
+          "evidence": "February 18, 2026 current AP and recent arrival; adjacent Liu explicitly January 2026, showing cohort-heading ambiguity."
+        },
+        {
+          "id": "later-h3",
+          "url": "https://ciro-lab.com/people/",
+          "observedAt": "2026-10-01T14:13:21Z",
+          "evidence": "Current lab biography gives prior Arizona/MIT postdoctoral roles."
+        }
+      ]
+    },
+    "anushri-dixit": {
+      "appointmentStart": {
+        "year": 2024,
+        "month": 7,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "later-s1"
+        ],
+        "evidence": "Official university2024 new-faculty article states joined UCLA as Assistant Professor in July2024 after Princeton postdoc.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2024-07（官方新教师公告）",
+      "caveat": "只补当前机构任职日期，未断言首次faculty；原研究分数与访客未知状态保持",
+      "sources": [
+        {
+          "id": "later-s1",
+          "url": "https://samueli.ucla.edu/ucla-samueli-welcomes-new-faculty-members-2024/",
+          "observedAt": "2026-10-01T13:16:43Z",
+          "evidence": "University current primary article explicitly dates July2024 new faculty start; no original discovery or score changes."
         }
       ]
     }

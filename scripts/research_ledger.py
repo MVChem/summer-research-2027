@@ -82,6 +82,9 @@ def validate(data):
             assert isinstance(row["discoveryTimestampNote"], str) and row["discoveryTimestampNote"].strip(), "Discovery timestamp note must be nonempty text"
         if "candidateTier" in row:
             assert isinstance(row["candidateTier"], str) and row["candidateTier"].strip(), "Candidate tier must be nonempty text"
+        if "appointmentTimingStatus" in row:
+            assert isinstance(row["appointmentTimingStatus"], str) and row["appointmentTimingStatus"].strip(), "Appointment timing must be nonempty text"
+            assert isinstance(row.get("appointmentTimingLabel"), str) and row["appointmentTimingLabel"].strip(), "Appointment timing requires a visible label"
         assert row["sources"] and row["unknowns"] and row["researchAreas"]
         source_ids = set()
         for source in row["sources"]:
@@ -226,6 +229,9 @@ def compact_index(data, record_files):
             summary["discoveryTimestampNote"] = row["discoveryTimestampNote"]
         if row.get("candidateTier"):
             summary["candidateTier"] = row["candidateTier"]
+        if row.get("appointmentTimingStatus"):
+            summary["appointmentTimingStatus"] = row["appointmentTimingStatus"]
+            summary["appointmentTimingLabel"] = row["appointmentTimingLabel"]
         evidence_label = physical_evidence_label(row)
         if evidence_label:
             summary["physicalEvidenceStatus"] = row["physicalEvidence"]["status"]
@@ -245,6 +251,8 @@ def render_compact(data):
         discovery = row["discoveredAt"] + (" †" if row.get("discoveryTimestampNote") else "")
         evidence_label = physical_evidence_label(row)
         evidence_note = f" · **{cell(evidence_label)}**" if evidence_label else ""
+        if row.get("appointmentTimingLabel"):
+            evidence_note += f" · **{cell(row['appointmentTimingLabel'])}**"
         lines.append(f"| {index} | [{cell(row['name'])}]({detail}) · {cell(row['school'])}{evidence_note} | {sum(row['scores'].values())} ({scores}) | {cell(row['shortVisit']['status'])} | {discovery} | {row['verifiedAt']} |")
     if any(row.get("discoveryTimestampNote") for row in data["candidates"]):
         lines += ["", "† 时间口径例外：此条使用首次可精确保留的来源观察/核查记录时间，不能断言为最早遇到该线索的时刻。未重建更早时间；原值保持不变，具体限制见详情和索引的 discoveryTimestampNote。"]

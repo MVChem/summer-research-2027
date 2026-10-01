@@ -84,6 +84,7 @@
     "batches/control-073.json",
     "batches/control-074.json",
     "batches/control-075.json",
+    "batches/control-081.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -4518,6 +4519,69 @@
       "shortVisitStatus": "inquiry-only · 外部访问意向；八周与2027名额未定",
       "recordFile": "batches/control-075.json",
       "detailPage": "batches/control-075.md#vivek-thangavelu"
+    },
+    {
+      "id": "sihong-he",
+      "name": "Sihong He",
+      "aliases": [],
+      "school": "University of Texas at Arlington",
+      "title": "Assistant Professor",
+      "homepage": "https://sihonghe.com/",
+      "batch": "control-081",
+      "discoveredAt": "2026-10-01T05:07:07Z",
+      "verifiedAt": "2026-10-01T07:07:38Z",
+      "scores": {
+        "fit": 37,
+        "physical": 0,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Robust and multi-agent reinforcement learning",
+        "Critic learning for robot control",
+        "Simulated humanoid locomotion and dexterous manipulation",
+        "Autonomous mobility systems"
+      ],
+      "candidateTier": "Robotics-AI visitor backup; current learned hardware unverified",
+      "physicalEvidenceStatus": "AI相关 · 真机待核实",
+      "physicalEvidenceLabel": "AI相关 · 真机待核实",
+      "shortVisitStatus": "inquiry-only · 页面标注2024；2027名额未核实",
+      "recordFile": "batches/control-081.json",
+      "detailPage": "batches/control-081.md#sihong-he"
+    },
+    {
+      "id": "carmen-amo-alonso",
+      "name": "Carmen Amo Alonso",
+      "aliases": [
+        "Carmen Amo-Alonso",
+        "Carmen A. Alonso"
+      ],
+      "school": "University of California, Berkeley",
+      "title": "Incoming 2027 Assistant Professor and Lucy Hsu Faculty Fellow; exact start date unconfirmed",
+      "homepage": "https://camoalon.github.io/",
+      "batch": "control-081",
+      "discoveredAt": "2026-10-01T07:00:02Z",
+      "verifiedAt": "2026-10-01T07:07:38Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Controllable vision-language-action models",
+        "Representation-level robot policy steering",
+        "Learning and control for reliable embodied AI",
+        "Language-guided robot control"
+      ],
+      "candidateTier": "Timing-contingent prospect: incoming 2027; summer hosting unconfirmed",
+      "appointmentTimingStatus": "Official incoming 2027; exact month and summer sponsorship authority unknown",
+      "appointmentTimingLabel": "2027待入职；夏季主办权限未定",
+      "physicalEvidenceStatus": "Verified real learned robot at prior host; Berkeley hardware access unverified",
+      "physicalEvidenceLabel": "受限真机证据：Verified real learned robot at prior host; Berkeley hardware access unverified",
+      "shortVisitStatus": "inquiry-only · 2027待入职；夏季接收时间未定",
+      "recordFile": "batches/control-081.json",
+      "detailPage": "batches/control-081.md#carmen-amo-alonso"
     },
     {
       "id": "tom-silver",

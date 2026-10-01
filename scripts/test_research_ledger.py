@@ -38,6 +38,23 @@ class ResearchLedgerTests(unittest.TestCase):
         with self.assertRaises(AssertionError):
             ledger.validate_adjacent(adjacent, self.full)
 
+    def test_appointment_timing_reaches_index_and_ranking(self):
+        data = copy.deepcopy(self.full)
+        row = data["candidates"][0]
+        row["appointmentTimingStatus"] = "Incoming 2027; exact month unknown"
+        row["appointmentTimingLabel"] = "2027待入职；夏季主办权限未定"
+        summary = ledger.compact_index(data, self.paths)["candidates"][0]
+        self.assertEqual(summary["appointmentTimingStatus"], row["appointmentTimingStatus"])
+        self.assertIn(row["appointmentTimingLabel"], ledger.render_compact(data))
+
+    def test_appointment_timing_requires_visible_label(self):
+        data = copy.deepcopy(self.full)
+        row = data["candidates"][0]
+        row["appointmentTimingStatus"] = "Incoming 2027"
+        row.pop("appointmentTimingLabel", None)
+        with self.assertRaises(AssertionError):
+            ledger.validate(data)
+
     def test_duplicate_identity_rejected(self):
         data = copy.deepcopy(self.full)
         duplicate = copy.deepcopy(data["candidates"][0])

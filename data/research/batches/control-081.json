@@ -1,0 +1,198 @@
+[
+  {
+    "id": "sihong-he",
+    "name": "Sihong He",
+    "aliases": [],
+    "school": "University of Texas at Arlington",
+    "homepage": "https://sihonghe.com/",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering; General Embodied Multi-Agent AI Lab",
+    "batch": "control-081",
+    "discoveredAt": "2026-10-01T05:07:07Z",
+    "verifiedAt": "2026-10-01T07:07:38Z",
+    "researchAreas": [
+      "Robust and multi-agent reinforcement learning",
+      "Critic learning for robot control",
+      "Simulated humanoid locomotion and dexterous manipulation",
+      "Autonomous mobility systems"
+    ],
+    "fitReason": "Robotics-AI visitor backup: explicit visitor/intern route plus concrete recent robot-control RL methods, with physical execution unverified.",
+    "physicalEvidence": {
+      "status": "AI相关 · 真机待核实",
+      "summary": "The full April 2026 LoRA-critic manuscript evaluates SAC on seven DeepMind Control tasks and FastTD3 on six IsaacLab tasks: H1/G1 flat/rough-terrain locomotion and Allegro/Shadow cube reorientation. Frozen critic bases with low-rank updates regularize training; these are simulated robots, not physical deployment. Its appendix says VRAM and training time are comparable, so do not claim a proven hardware-efficiency gain. The 2026 UTA mobility article likewise describes simulation and real taxi/map data, not executed autonomous vehicles. Physical0.",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only · 页面标注2024；2027名额未核实",
+      "summary": "The live PI homepage separately welcomes research interns and visiting students, with CV, transcript, interests and Future-Maverick email filter. This page retains its October 2024 update date, so it establishes a publicly live generic invitation but not renewed 2027 capacity, dates, funding or eight-week acceptance.",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 0,
+      "shortVisit": 8,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Concrete contemporary robot-control RL methods beyond broad mobility claims.",
+      "physical": "Reviewed robot evaluations are simulation only.",
+      "shortVisit": "Separate live generic intern/visitor invitation, without 2027 guarantee.",
+      "freshness": "Full 2026 robot-RL paper plus current official appointment/program."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.uta.edu / source 1",
+        "url": "https://www.uta.edu/news/news-releases/2026/08/24/uta-researcher-could-improve-autonomous-vehicle-systems",
+        "summary": "Current appointment and active robust multi-agent program; simulation-based work plan.",
+        "verifiedAt": "2026-10-01T07:07:38Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "www.uta.edu / source 2",
+        "url": "https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/research",
+        "summary": "Official GEM AI Lab faculty lead and robotics/autonomous-systems scope.",
+        "verifiedAt": "2026-10-01T07:07:38Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "sihonghe.com / source 3",
+        "url": "https://sihonghe.com/",
+        "summary": "Explicit research-intern and visiting-student inquiry and preferred public email; last updated October 2024.",
+        "verifiedAt": "2026-10-01T07:07:38Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2604.18978v1",
+        "summary": "Full primary paper and appendix: critic LoRA, SAC/FastTD3, simulated H1/G1 and Allegro/Shadow tasks; no physical execution.",
+        "verifiedAt": "2026-10-01T07:07:38Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      }
+    ],
+    "unknowns": [
+      "Reuse UT Arlington institutional supplement: outside-degree Student Intern route, home-degree objectives, at least 32 hours/week, maximum 12 months, host/OIE and security/export review. No verified minimum stay. Personal-funding allowance and undated $1,467/month on the scholar page are not yet confirmed for Student Interns or 2027. Its three-month insurance evidence wording also needs clarification for an eight-week visit. Do not use extension turnaround as initial-processing time.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#ut-arlington)"
+    ],
+    "candidateTier": "Robotics-AI visitor backup; current learned hardware unverified",
+    "publicEmail": "sihonghe.ai@gmail.com"
+  },
+  {
+    "id": "carmen-amo-alonso",
+    "name": "Carmen Amo Alonso",
+    "aliases": [
+      "Carmen Amo-Alonso",
+      "Carmen A. Alonso"
+    ],
+    "school": "University of California, Berkeley",
+    "homepage": "https://camoalon.github.io/",
+    "title": "Incoming 2027 Assistant Professor and Lucy Hsu Faculty Fellow; exact start date unconfirmed",
+    "department": "Electrical Engineering and Computer Sciences; Control and Intelligent Systems Lab",
+    "batch": "control-081",
+    "discoveredAt": "2026-10-01T07:00:02Z",
+    "verifiedAt": "2026-10-01T07:07:38Z",
+    "researchAreas": [
+      "Controllable vision-language-action models",
+      "Representation-level robot policy steering",
+      "Learning and control for reliable embodied AI",
+      "Language-guided robot control"
+    ],
+    "fitReason": "Strong learned-robot/control match with a separate visitor route, but summer 2027 availability depends on the unconfirmed Berkeley appointment start.",
+    "physicalEvidence": {
+      "status": "Verified real learned robot at prior host; Berkeley hardware access unverified",
+      "summary": "Full September 21, 2026 revision of Observing and Controlling Features in Vision-Language-Action Models verifies frozen pi0.5 with trained linear observers and representation interventions on real DROID hardware. Three hardware tasks use 50 rollouts per method: coffee-mug handle preference and choosing appropriate objects for a blender/oven. Object selection/manipulation is evaluated; full cooking tasks are not. The observer-output constraint is guaranteed within the model, but physical safety is not. LIBERO trials and DROID/BridgeData probing are separately simulated/dataset experiments. Authors are Stanford-affiliated in this study; no Berkeley platform or visitor access has been established. Physical20 for attributable prior-host collaborative execution.",
+      "sourceIds": [
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only · 2027待入职；夏季接收时间未定",
+      "summary": "The new lab’s Join page has a separate Visitors section requesting a CV, two recommenders and overlapping interests, subject to hosting capacity. It is distinct from Berkeley PhD admission and local-undergraduate routes. Official Berkeley profile and personal homepage explicitly say incoming 2027; neither supplies a month. The lab’s present-tense team wording must not erase that timing limitation.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 8,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct VLA behavior/control methods with actual learned robot integration.",
+      "physical": "Prior Stanford collaborative hardware; not evidence of Berkeley equipment access.",
+      "shortVisit": "Explicit generic visitor route, sharply contingent on unconfirmed 2027 start and capacity.",
+      "freshness": "September 2026 hardware manuscript and current official forthcoming appointment."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www2.eecs.berkeley.edu / source 1",
+        "url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/camoalon.html",
+        "summary": "Official incoming-2027 assistant professor/fellow appointment; no start month.",
+        "verifiedAt": "2026-10-01T07:07:38Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "camoalon.github.io / source 2",
+        "url": "https://camoalon.github.io/",
+        "summary": "PI independently confirms incoming 2027 and current research scope.",
+        "verifiedAt": "2026-10-01T07:07:38Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "controllableai.org / source 3",
+        "url": "https://controllableai.org/join.html",
+        "summary": "Separate capacity-dependent visitor application route, distinct from PhD admission; no 2027 dates specified.",
+        "verifiedAt": "2026-10-01T07:07:38Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "controllableai.org / source 4",
+        "url": "https://controllableai.org/team.html",
+        "summary": "Lab affiliates invite visitors, but present-tense title does not supersede official incoming timing.",
+        "verifiedAt": "2026-10-01T07:07:38Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "controllableai.org / source 5",
+        "url": "https://controllableai.org/research.html",
+        "summary": "PI directly includes VLA observability/control and language-robot control in her research program.",
+        "verifiedAt": "2026-10-01T07:07:38Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2603.05487v2",
+        "summary": "Full CC-BY primary September 2026 paper: actual DROID closed-loop experiments; Stanford affiliation; limits on safety and task completion.",
+        "verifiedAt": "2026-10-01T07:07:38Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      }
+    ],
+    "unknowns": [
+      "Reuse Berkeley VSR note: external graduate enrollment and completed bachelor’s, on-site 30 days–one year, generally personal/external support, host approval and separate service/department/visa/insurance costs. Current VSR first-year service fee $1,000 is not prorated; special-program summer discounts do not apply automatically. Most importantly, exact faculty start, ability to sponsor before summer, local equipment and eight-week dates must be confirmed before treating this as a usable summer opening. Current Stanford fellowship and prior Stanford hardware do not supply Berkeley hosting authority.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#berkeley-vsr)"
+    ],
+    "candidateTier": "Timing-contingent prospect: incoming 2027; summer hosting unconfirmed",
+    "publicEmail": "camoalon@berkeley.edu",
+    "appointmentTimingStatus": "Official incoming 2027; exact month and summer sponsorship authority unknown",
+    "appointmentTimingLabel": "2027待入职；夏季主办权限未定"
+  }
+]

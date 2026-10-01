@@ -1,0 +1,114 @@
+[
+  {
+    "id": "lirong-xiang",
+    "name": "Lirong Xiang",
+    "aliases": [],
+    "school": "Cornell University",
+    "homepage": "https://lr-xiang.github.io/lxweb/",
+    "title": "Assistant Professor",
+    "department": "Biological and Environmental Engineering, College of Agriculture and Life Sciences",
+    "batch": "embodied-030",
+    "discoveredAt": "2026-10-01T01:00:42Z",
+    "verifiedAt": "2026-10-01T01:05:41Z",
+    "researchAreas": [
+      "Learning-based robotic grasping",
+      "Agricultural robot perception",
+      "Robot-assisted disease monitoring",
+      "Digital twins and embodied AI"
+    ],
+    "fitReason": "The current Cornell AR Lab combines robot perception and learned grasping with real field platforms; its newer foundation-model projects provide a relevant CS-to-robotics application area.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The 2026 bin-picking author manuscript reports a real UR10 with Schunk WSG-50 and eye-in-hand D435i. A synthetic-data-trained CNN predicts segmentation, grasp confidence and depth, followed by analytical grasp planning. August 2026 disease-diagnosis work evaluates images collected by an Amiga-derived field robot; it is offline perception evaluation, not closed-loop MLLM robot control.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "conditional-inquiry · 要求正式交流或fellowship",
+      "summary": "The live Cornell lab page welcomes visiting researchers and students through formal exchange or fellowship programs. This is a conditional route, with no duration, self-funded exception or summer 2027 capacity stated.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 5,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantial learned perception-to-grasping and embodied agricultural program, with current foundation-model work.",
+      "physical": "Real hardware demonstrated; prior-host/collaborative ownership and offline perception limit current access inference.",
+      "shortVisit": "Explicit visiting route requires a formal exchange or fellowship; applicant-specific eligibility unresolved.",
+      "freshness": "2026 author manuscript, August 2026 primary ML analysis and current Cornell lab activity; original physical data date is preserved."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "cals.cornell.edu / source 1",
+        "url": "https://cals.cornell.edu/people/lirong-xiang",
+        "summary": "Current official Cornell Assistant Professor in BEE; public email and robot/ML research.",
+        "verifiedAt": "2026-10-01T01:05:41Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "lr-xiang.github.io / source 2",
+        "url": "https://lr-xiang.github.io/lxweb/",
+        "summary": "Current Cornell lab, August 2025 move, active 2026 field robot work and visitor invitation restricted to exchange/fellowship programs.",
+        "verifiedAt": "2026-10-01T01:05:41Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "www.researchgate.net / source 3",
+        "url": "https://www.researchgate.net/publication/399710711_Bin-Picking_With_Category-Agnostic_Segmentation_for_Unreliable_Depth_Scenarios",
+        "summary": "Full primary author manuscript uploaded by Prem Raj; Section III-B specifies UR10, WSG-50 and D435i physical grasping. IEEE final DOI was inaccessible in web tool.",
+        "verifiedAt": "2026-10-01T01:05:41Z",
+        "retrieval": "direct-author-manuscript-mirror"
+      },
+      {
+        "id": "s4",
+        "label": "github.com / source 4",
+        "url": "https://github.com/praj441/Bin-Picking-CAS-GCS",
+        "summary": "Author source-code repository corroborates learned segmentation/depth/grasp-confidence pipeline and robot grasp execution.",
+        "verifiedAt": "2026-10-01T01:05:41Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2608.24934v1",
+        "summary": "August 23, 2026 primary study: July–August 2025 robot-acquired imagery, offline CNN/MLLM analysis and temporal-split leakage limitation.",
+        "verifiedAt": "2026-10-01T01:05:41Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "cals.cornell.edu / source 6",
+        "url": "https://cals.cornell.edu/faculty-staff/academic-appointment-procedures/non-tenure-track-rte-reappointment-and-promotion/other-academics/appointment-guidelines",
+        "summary": "CALS external graduate Intern Paid/Unpaid and nondegree categories; scholar/fellow advanced-degree and funding caveats. Academic internship title is not automatic J-1 Student Intern eligibility.",
+        "verifiedAt": "2026-10-01T01:05:41Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Xiang moved from NC State to Cornell in August 2025; use the Cornell contact and rules. The bin-picking preprint and field-image collection date to 2025, and current Cornell ownership of the UR10 is unverified, so physical evidence is capped at 20. Field-data accuracy is vulnerable to temporal leakage acknowledged by the authors. CALS distinguishes student Intern Paid/Unpaid or nondegree graduate status from terminal-degree scholar/fellow titles; the lab’s formal exchange/fellowship condition must be clarified rather than replaced by a self-funding assumption.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "discoveryNote": "First encountered in a dated NC State official article; current Cornell affiliation subsequently established from live lab and Cornell CALS pages.",
+    "publicEmail": "lxiang@cornell.edu"
+  }
+]

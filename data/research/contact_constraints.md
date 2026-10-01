@@ -125,7 +125,7 @@
 ### Cheng Zhang（新增候选）
 
 - 适用范围：Texas A&M Cheng Zhang lab long-term visitors only; not Cornell namesake
-- **当前明确没有short-term positions；匹配的长期访问至少6个月，短访分0、显著后置。不等于所有未来访问拒绝，2027 PhD资助不能转作访学承诺**
+- **当前明确没有short-term positions；匹配的长期访问至少6个月，短访分0、显著后置。不等于所有未来访问拒绝，2027 PhD招募不证明任何访学资助**
 - 核查：2026-10-01T14:32:57Z · [来源1](https://docs.google.com/document/d/1CGNidaVyv7eNTsphIewjxNKlgeKSbwAN0EJdyCZMyxE/edit?tab=t.0)
 
 ## 时长偏好或常态，不是硬性禁令

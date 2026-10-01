@@ -12,7 +12,7 @@
     "department": "Electrical and Computer Engineering",
     "batch": "hri-114",
     "discoveredAt": "2026-10-01T14:27:35Z",
-    "verifiedAt": "2026-10-01T14:29:30Z",
+    "verifiedAt": "2026-10-01T15:02:57Z",
     "researchAreas": [
       "Autonomous medical robotics",
       "Learned ultrasound perception",
@@ -127,6 +127,14 @@
         "url": "https://icenter.tufts.edu/coming-to-tufts/visa-certificate/j-1-student-intern-program/",
         "summary": "Reused personal/family support documentation and $2,900 monthly published threshold; confirm 2027 category/rate. One-to-two-week office review excludes host and visa steps.",
         "verifiedAt": "2026-09-30T23:45:55Z"
+      },
+      {
+        "id": "s10",
+        "label": "Current official faculty profile, later complete retrieval",
+        "url": "https://engineering.tufts.edu/ece/people/faculty/lidia-al-zogbi",
+        "summary": "Complete current official HTML confirms the Tufts ECE Assistant Professor role, professional profile and research agenda. This later successful retrieval supplements, rather than rewrites, the earlier indexed-only observation.",
+        "verifiedAt": "2026-10-01T15:02:57Z",
+        "retrieval": "Complete official HTML; download finished15:01:46.917113Z, role/bio read completed15:02:57Z"
       }
     ],
     "unknowns": [

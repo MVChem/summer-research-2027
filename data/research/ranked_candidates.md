@@ -32,7 +32,7 @@
 | 22 | [Zhiyu Huang](batches/embodied-012.md#zhiyu-huang) · North Carolina State University · **近期已到岗 AP（2024起）** | 73 (38/20/0/15) | unknown | 2026-09-30T22:48:35Z | 2026-09-30T23:00:32Z |
 | 23 | [Yaxin Hu](batches/hri-027.md#yaxin-hu) · William & Mary · **近期已到岗 AP（2024起）** | 73 (38/20/0/15) | unknown | 2026-10-01T01:05:52Z | 2026-10-01T01:10:34Z |
 | 24 | [Vittorio Giammarino](batches/control-109.md#vittorio-giammarino) · University of South Florida · **近期已到岗 AP（2024起）** · **受限真机证据：Verified May2026 prior-Purdue learned UR5e execution; physical20; current USF hardware unknown** | 73 (38/20/0/15) | degree-only · 当前MS/UG段落仅限USF本校 | 2026-10-01T12:26:29Z | 2026-10-01T12:27:32Z |
-| 25 | [Lidia Al-Zogbi](batches/hri-114.md#lidia-al-zogbi) · Tufts University · **近期已到岗 AP（2024起）** · **受限真机证据：historical-or-indirect** | 73 (38/20/0/15) | unknown | 2026-10-01T14:27:35Z † | 2026-10-01T14:29:30Z |
+| 25 | [Lidia Al-Zogbi](batches/hri-114.md#lidia-al-zogbi) · Tufts University · **近期已到岗 AP（2024起）** · **受限真机证据：historical-or-indirect** | 73 (38/20/0/15) | unknown | 2026-10-01T14:27:35Z † | 2026-10-01T15:02:57Z |
 | 26 | [Francis Baek](batches/hri-115.md#francis-baek) · Georgia Institute of Technology · **近期已到岗 AP（2024起）** · **受限真机证据：historical-or-indirect** | 73 (38/20/0/15) | unknown | 2026-10-01T14:34:27Z | 2026-10-01T14:36:48Z |
 | 27 | [Tom Silver](batches/embodied-001.md#tom-silver) · Princeton University · **近期已到岗 AP（2024起）** | 94 (37/25/17/15) | inquiry-only | 2026-09-30T21:21:59Z | 2026-09-30T21:28:42Z |
 | 28 | [Patrícia Alves-Oliveira](batches/hri-005.md#patricia-alves-oliveira) · University of Michigan · **近期已到岗 AP（2024起）** | 87 (37/25/10/15) | inquiry-only | 2026-09-30T21:54:18Z | 2026-09-30T21:58:49Z |
@@ -593,7 +593,7 @@
 | 583 | [Dhruv Shah](batches/embodied-001.md#dhruv-shah) · Princeton University · **较长访问偏好；降低首联优先级** | 85 (40/20/10/15) | inquiry-only | 2026-09-30T21:21:32Z | 2026-10-01T12:10:06Z |
 | 584 | [Louis-Philippe Morency](batches/hri-091.md#louis-philippe-morency) · Carnegie Mellon University · **较长访问偏好；降低首联优先级** · **受限真机证据：historical-or-indirect** | 72 (37/20/0/15) | unknown · 偏好≥4月，偶尔summer例外；当前无访问资助 | 2026-10-01T11:19:19Z † | 2026-10-01T11:37:16Z |
 | 585 | [Kyle T. Yoshida](batches/hri-100.md#kyle-t-yoshida) · University of California, Los Angeles · **较长访问偏好；降低首联优先级** · **真机待核实** | 59 (34/0/10/15) | inquiry-only · 强烈偏好超过1个quarter；降低短期优先级 | 2026-10-01T12:41:51Z | 2026-10-01T13:23:59Z |
-| 586 | [Cheng Zhang](batches/embodied-103.md#cheng-zhang-tamu) · Texas A&M University · **明确至少三个月；降低首联优先级** · **受限真机证据：historical-or-indirect** · **Texas A&M同名导师；不是原名单152 Cornell** | 70 (35/20/0/15) | minimum-6-months · 明确无短期岗位，较长访问仅条件性询问 | 2026-10-01T14:25:03Z † | 2026-10-01T14:45:40Z |
+| 586 | [Cheng Zhang](batches/embodied-103.md#cheng-zhang-tamu) · Texas A&M University · **明确至少三个月；降低首联优先级** · **受限真机证据：historical-or-indirect** · **Texas A&M同名导师；不是原名单152 Cornell** | 70 (35/20/0/15) | minimum-6-months · 明确无短期岗位，较长访问仅条件性询问 | 2026-10-01T14:25:03Z † | 2026-10-01T15:02:03Z |
 | 587 | [Xiaofan Yu](batches/control-106.md#xiaofan-yu) · University of California, Merced · **明确至少三个月；降低首联优先级** · **仅仿真；真机待核实** | 55 (32/0/8/15) | inquiry-only · 最低3–6个月；降低短期优先级 | 2026-10-01T11:47:43Z | 2026-10-01T12:07:29Z |
 
 † 时间口径例外：此条使用首次可精确保留的来源观察/核查记录时间，不能断言为最早遇到该线索的时刻。未重建更早时间；原值保持不变，具体限制见详情和索引的 discoveryTimestampNote。

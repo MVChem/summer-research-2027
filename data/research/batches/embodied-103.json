@@ -9,7 +9,7 @@
     "department": "Computer Science and Engineering; Visual AI research",
     "batch": "embodied-103",
     "discoveredAt": "2026-10-01T14:25:03Z",
-    "verifiedAt": "2026-10-01T14:45:40Z",
+    "verifiedAt": "2026-10-01T15:02:03Z",
     "researchAreas": [
       "Physically grounded3D representations",
       "Human and dynamic-scene modeling",
@@ -27,9 +27,10 @@
     },
     "shortVisit": {
       "status": "minimum-6-months · 明确无短期岗位，较长访问仅条件性询问",
-      "summary": "ShortVisit0 because the current public recruitment document explicitly declines short-term positions and considers only well-matched long-term applicants of at least6months. This is a conditional longer-term inquiry, not a useful roughly8week offer. External-master eligibility, support, remote availability and summer2027 capacity remain unverified. The separate Spring/Fall2027 PhD funding advertisement cannot be transferred to visitors.",
+      "summary": "The complete current recruitment document explicitly declines short-term positions and considers well-matched interns/visitors only for at least six months. This is a conditional longer-term inquiry. External-master eligibility, support, remote availability and summer 2027 capacity remain unverified. The separate Spring/Fall 2027 PhD recruitment does not establish doctoral or visitor funding in the inspected text.",
       "sourceIds": [
-        "s4"
+        "s4",
+        "s13"
       ]
     },
     "scores": {
@@ -73,9 +74,10 @@
         "id": "s4",
         "label": "docs.google.com / source 4",
         "url": "https://docs.google.com/document/d/1CGNidaVyv7eNTsphIewjxNKlgeKSbwAN0EJdyCZMyxE/edit?tab=t.0",
-        "summary": "Current public recruitment document explicitly has no short-term positions and considers well-matched visitors only for at least6months. Separate green-highlighted Spring/Fall2027 funded openings are PhD positions. Full relevant pages viewed14:31:48–14:33:35 without editing, applying or submitting.",
+        "summary": "Current public recruitment document explicitly has no short-term positions and considers well-matched visitors only for at least6months. Separate Spring/Fall 2027 openings are PhD positions; no funding statement was established. Full relevant pages viewed14:31:48–14:33:35 without editing, applying or submitting.",
         "verifiedAt": "2026-10-01T14:32:57Z",
-        "retrieval": "complete-live-cloud-browser-recruitment-document"
+        "retrieval": "complete-live-cloud-browser-recruitment-document",
+        "metadataCorrectionObservedAt": "2026-10-01T15:02:03Z"
       },
       {
         "id": "s5",
@@ -140,6 +142,14 @@
         "summary": "Current TAMU CSE AP, chzhang@tamu.edu, official link to czhang0528.github.io, Ohio State2022 PhD and CMU2022–24 postdoc.",
         "verifiedAt": "2026-10-01T14:45:40Z",
         "retrieval": "complete-official-primary-page"
+      },
+      {
+        "id": "s13",
+        "label": "Current recruitment document, complete text verification",
+        "url": "https://docs.google.com/document/d/1CGNidaVyv7eNTsphIewjxNKlgeKSbwAN0EJdyCZMyxE/edit?tab=t.0",
+        "summary": "Complete public document read through the native Docs text interface: no short-term positions, conditional visitors/interns of at least six months, and separate Spring/Fall2027 PhD recruitment. The inspected text does not establish funding for either category.",
+        "verifiedAt": "2026-10-01T15:02:03Z",
+        "retrieval": "Complete public document text; independent source audit"
       }
     ],
     "unknowns": [
@@ -149,7 +159,7 @@
       "HAMLET uses neural manipulation with model-based chassis control, not a fully learned whole-body policy. Its serving-machine setup has differing position counts in text and figure; no precise aggregate configuration or success statistic is used here.",
       "USplat4D’s real-world label refers to recorded videos and reconstruction; no current physical execution is inferred.",
       "Current visitor inquiry document requests a form plus reminder email; neither was submitted or sent. A matching route does not establish outside-master eligibility, funding or acceptance.",
-      "Current2027 PhD openings are degree intake, not funded visitor slots. No onsite/remote exception to the6month visitor minimum was found.",
+      "Current 2027 PhD openings are degree intake and do not establish visitor places or funding. No onsite/remote exception to the6month visitor minimum was found.",
       "Previously reviewed TAMU conditions: foreign BS/MS Student Intern category, host/ISSS/HR approval, degree connection and≥32hours/week; published3weeks–12months institutional range does not supersede the lab’s6month minimum.",
       "Previously posted$2000/month financial proof, personal/family support treatment, department fees, insurance and immigration terms require2027 reconfirmation; no personal self-funding or sponsor promise from this PI.",
       "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",

@@ -1,0 +1,118 @@
+[
+  {
+    "id": "wenhao-yang",
+    "name": "Wenhao Yang",
+    "aliases": [],
+    "school": "Lamar University",
+    "homepage": "https://wenhaoyang.com/",
+    "title": "Assistant Professor",
+    "department": "Industrial and Systems Engineering",
+    "batch": "hri-055",
+    "discoveredAt": "2026-10-01T04:30:36Z",
+    "verifiedAt": "2026-10-01T04:36:16Z",
+    "researchAreas": [
+      "Human-robot interaction",
+      "Vision-language-action robustness",
+      "Test-time reinforcement learning",
+      "XR robot interfaces",
+      "Collaborative industrial robotics"
+    ],
+    "fitReason": "An application-oriented HRI/XR mentor with substantive collaborative VLA research and current robot facilities. Particularly suited to interface, robustness or robot-system evaluation projects; the broad lab portfolio also includes nonrobot XR and education work, so a robot-facing AI project should be specified.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The full January 2026 TT-VLA manuscript lists Yang at Lamar and reports OpenVLA test-time policy adaptation on a real Franka Research 3 across nine task settings, ten trials each. The campus hosting that Franka is not identified, so this is collaborative hardware evidence, not proof of a Lamar-owned FR3 or local VLA deployment. Separately, the current XRAI lab inventories UR10e and xArm6 manipulators, and the official faculty page describes hands-on UR10e courses. The August 2026 TurtleBot4 inspection project explicitly uses TSP heuristics and Nav2/Dijkstra/DWB, which establish real robot navigation but not a learned controller.",
+      "sourceIds": [
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The homepage broadly welcomes motivated students to the research group, but does not identify external-master’s visitors, internships or short visits. The 2026 Lamar SURF article concerns undergraduate projects. Neither is a verified summer 2027 external-master opening.",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 35,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "35/40: real VLA methods collaboration and HRI/XR systems, with a broader application/education portfolio than a robot-learning-focused group.",
+      "physical": "20/25: actual collaborative learned FR3 execution; current Lamar hardware independently verified but study provenance/local learned deployment unresolved.",
+      "shortVisit": "0/20: generic student welcome and undergraduate programs do not establish an external-master short visit.",
+      "freshness": "15/15: January 2026 VLA preprint plus August/September 2026 physical lab activity."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.lamar.edu / source 1",
+        "url": "https://www.lamar.edu/engineering/industrial/faculty/yang/",
+        "summary": "Full current official directory verifies Assistant Professor, departmental role, institutional email and Fall 2026 UR10e teaching.",
+        "verifiedAt": "2026-10-01T04:36:16Z"
+      },
+      {
+        "id": "s2",
+        "label": "www.lamar.edu / source 2",
+        "url": "https://www.lamar.edu/engineering/_files/documents/industrial/wenhao-yang-cv-2024-09-13.pdf",
+        "summary": "Full university-hosted CV verifies July 2024 Lamar assistant-professor start; old email is not used over current directory.",
+        "verifiedAt": "2026-10-01T04:36:16Z"
+      },
+      {
+        "id": "s3",
+        "label": "wenhaoyang.com / source 3",
+        "url": "https://wenhaoyang.com/",
+        "summary": "Full current PI homepage verifies lab leadership, 2026 activity and only a generic student welcome; no specific short-visit invitation.",
+        "verifiedAt": "2026-10-01T04:36:16Z"
+      },
+      {
+        "id": "s4",
+        "label": "wenhaoyang.com / source 4",
+        "url": "https://wenhaoyang.com/lab/",
+        "summary": "Full current lab page inventories physical UR10e, xArm6 and other platforms; no assertion they performed the collaborative Franka experiment.",
+        "verifiedAt": "2026-10-01T04:36:16Z"
+      },
+      {
+        "id": "s5",
+        "label": "wenhaoyang.com / source 5",
+        "url": "https://wenhaoyang.com/research/",
+        "summary": "Full project list distinguishes 2026 classical TurtleBot navigation from collaborative VLA robustness and nonrobot XR work.",
+        "verifiedAt": "2026-10-01T04:36:16Z"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2601.06748v1",
+        "summary": "Full primary methods, real-world results and appendices verify learned Franka FR3 policy execution, collaboration authorship and experimental scope; campus ownership not supplied.",
+        "verifiedAt": "2026-10-01T04:36:16Z"
+      },
+      {
+        "id": "s7",
+        "label": "www.lamar.edu / source 7",
+        "url": "https://www.lamar.edu/international-education/international-students-and-scholars/guide-and-forms.html",
+        "summary": "Full official index links J-1 application, sponsor approval sheet and dated DS-7002; exact student research category not established.",
+        "verifiedAt": "2026-10-01T04:36:16Z"
+      },
+      {
+        "id": "s8",
+        "label": "www.lamar.edu / source 8",
+        "url": "https://www.lamar.edu/international-education/_files/documents/old-files/j-1-application-approval-letter-2018.pdf",
+        "summary": "Full currently linked sponsor sheet requires dean, department chair and sponsor approval before processing.",
+        "verifiedAt": "2026-10-01T04:36:16Z"
+      }
+    ],
+    "unknowns": [
+      "Summer 2027 capacity, eight-week duration, remote work, lab funding and all-personal-funding permission remain unknown.",
+      "The current Lamar J-1 forms index establishes an exchange-visitor process. Its linked sponsor sheet requires dean/chair/sponsor signatures, but no clear external-master research-only eligibility or Student Intern designation was verified.",
+      "The linked DS-7002 is a 2018 generic form with a 2021 OMB expiration, under a heading labeled Academic Training; it does not independently establish a current Student Intern program.",
+      "Physical VLA experiments are collaborative with campus provenance unresolved; do not equate current Lamar classroom hardware or classical TurtleBot navigation with the TT-VLA experiment.",
+      "The official September 2024 CV dates his Lamar assistant professorship to July 2024; his current homepage summarizes the start as Fall 2024. Both support 2024, but the small month/term wording difference is retained.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Lamar institutional visitor rules](../eligibility_notes.md#lamar)"
+    ],
+    "publicEmail": "wenhao.yang@lamar.edu"
+  }
+]

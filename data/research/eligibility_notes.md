@@ -831,3 +831,14 @@ Sources: [Hosting a Visiting Scholar](https://www.kent.edu/globaleducation/hosti
 上述中央路径不等于任何实验室招收短期访客。八周项目内容、导师与院系接受、资金来源和 2027 名额仍应分别核实。若项目涉及人体实验，还需考虑研究审批和培训周期。
 
 Source: [URI International J-1 Student Interns](https://web.uri.edu/global/coming-to-uri/visa/international-j1-student-interns/)
+
+<a id="lamar"></a>
+## Lamar · J-1 主办流程存在，外校硕士科研访问类别未明确
+
+2026-10-01 核查。Lamar 的当前 Guides and Forms 页面提供 J-1 学生/学者申请入口。仍在该页链接的 2018 Sponsor’s Visa Request Letter 要求 dean、department chair 和 sponsor 三方签署，并随邀请信提交后才启动流程；这只证明主办审批要求，不等于外校在读硕士研究任命已经可用。
+
+同页将 DS-7002 标为 Academic Training，但链接的是 2018 版通用 Trainee/Intern 表，标示的 OMB 日期为 2021 年到期。表格存在不能单独证明 Lamar 当前具有适合该访问的 Student Intern 类别或批准某位申请人。在线 J-1 外部表单未能完整读取，未填写或提交。
+
+目前未核实纯研究访问的硕士资格、最低/最高时长、资金来源比例、完全个人支持、保险、办理费和 2027 提前量。应由导师、院系和 Global Education Center（international@lamar.edu）确认具体任命及移民类别；不要把本科 SURF、修课 exchange 或普通 degree-admission 财力数字用于八周研究访问。
+
+Sources: [Guides and Forms](https://www.lamar.edu/international-education/international-students-and-scholars/guide-and-forms.html); [Sponsor signature sheet](https://www.lamar.edu/international-education/_files/documents/old-files/j-1-application-approval-letter-2018.pdf); [Linked DS-7002, 2018 version](https://www.lamar.edu/international-education/_files/documents/old-files/j-1-application_a-j-1-application-a-ds7002.pdf); [J-1 application entry](https://www.lamar.edu/forms/international/j-1-exchange-visitor-application.html)

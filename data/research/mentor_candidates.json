@@ -179,7 +179,8 @@
     "batches/hri-051.json",
     "batches/hri-052.json",
     "batches/hri-053.json",
-    "batches/hri-054.json"
+    "batches/hri-054.json",
+    "batches/hri-055.json"
   ],
   "candidates": [
     {
@@ -10282,6 +10283,33 @@
       "shortVisitStatus": "degree-only",
       "recordFile": "batches/hri-054.json",
       "detailPage": "batches/hri-054.md#reza-abiri"
+    },
+    {
+      "id": "wenhao-yang",
+      "name": "Wenhao Yang",
+      "aliases": [],
+      "school": "Lamar University",
+      "title": "Assistant Professor",
+      "homepage": "https://wenhaoyang.com/",
+      "batch": "hri-055",
+      "discoveredAt": "2026-10-01T04:30:36Z",
+      "verifiedAt": "2026-10-01T04:36:16Z",
+      "scores": {
+        "fit": 35,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-robot interaction",
+        "Vision-language-action robustness",
+        "Test-time reinforcement learning",
+        "XR robot interfaces",
+        "Collaborative industrial robotics"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-055.json",
+      "detailPage": "batches/hri-055.md#wenhao-yang"
     }
   ]
 }

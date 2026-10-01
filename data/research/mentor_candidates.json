@@ -105,7 +105,8 @@
     "batches/hri-027.json",
     "batches/hri-028.json",
     "batches/hri-029.json",
-    "batches/hri-030.json"
+    "batches/hri-030.json",
+    "batches/hri-031.json"
   ],
   "candidates": [
     {
@@ -7932,6 +7933,36 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-030.json",
       "detailPage": "batches/hri-030.md#casey-kennington"
+    },
+    {
+      "id": "pranav-bhounsule",
+      "name": "Pranav Bhounsule",
+      "aliases": [
+        "Pranav A. Bhounsule",
+        "Pranav Audhut Bhounsule"
+      ],
+      "school": "University of Illinois Chicago",
+      "title": "Associate Professor",
+      "homepage": "https://pab47.github.io/",
+      "batch": "hri-031",
+      "discoveredAt": "2026-10-01T01:35:38Z",
+      "verifiedAt": "2026-10-01T01:37:01Z",
+      "scores": {
+        "fit": 36,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Learning-based multi-robot planning",
+        "UAV–UGV coordination",
+        "Vision-language robot perception",
+        "Field robotics",
+        "Optimization and control"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-031.json",
+      "detailPage": "batches/hri-031.md#pranav-bhounsule"
     }
   ]
 }

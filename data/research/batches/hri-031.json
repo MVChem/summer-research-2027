@@ -1,0 +1,95 @@
+[
+  {
+    "id": "pranav-bhounsule",
+    "name": "Pranav Bhounsule",
+    "aliases": [
+      "Pranav A. Bhounsule",
+      "Pranav Audhut Bhounsule"
+    ],
+    "school": "University of Illinois Chicago",
+    "homepage": "https://pab47.github.io/",
+    "title": "Associate Professor",
+    "department": "Mechanical and Industrial Engineering",
+    "batch": "hri-031",
+    "discoveredAt": "2026-10-01T01:35:38Z",
+    "verifiedAt": "2026-10-01T01:37:01Z",
+    "researchAreas": [
+      "Learning-based multi-robot planning",
+      "UAV–UGV coordination",
+      "Vision-language robot perception",
+      "Field robotics",
+      "Optimization and control"
+    ],
+    "fitReason": "Strong CS-methods overlap through transformer routing, policy-gradient learning and robot perception, grounded in actual field execution. More multi-robot autonomy than social HRI or manipulation.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "July 7, 2026 paper deploys a REINFORCE-trained transformer planner on an actual X500 quadrotor and Clearpath Husky in a 50 × 50 m outdoor area. A central laptop replans at rendezvous events; ROS 2/Nav2 and PX4 execute vehicle motion. GPT-4o analyzes actual aerial images in a staged hazard-detection example. Important limits: final precision landing is manual, battery recharging is simulated, and the reported 83.33%→20% violation comparison is a separate Gazebo test.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current lab homepage, last updated September 2, 2025, says no PhD openings and invites current UIC thesis MS students and UIC undergraduates. It does not explicitly offer external short visits. Existing central UIC policy supports a degree-related external-student route, but that is not a faculty invitation.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 36,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "36/40: substantial learned multi-robot planning and perception; less direct HRI/manipulation overlap.",
+      "physical": "25/25: current, specifically documented outdoor hardware execution with operational limits retained.",
+      "shortVisit": "0/20: current internal-student recruitment is not external visiting availability.",
+      "freshness": "15/15: substantive July 2026 primary research at current institution."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "mie.uic.edu / source 1",
+        "url": "https://mie.uic.edu/profiles/bhounsule-pranav/",
+        "summary": "Official current UIC directory confirms Associate Professor, department and public email.",
+        "verifiedAt": "2026-10-01T01:37:01Z"
+      },
+      {
+        "id": "s2",
+        "label": "pab47.github.io / source 2",
+        "url": "https://pab47.github.io/about.html",
+        "summary": "Faculty biography dates promotion to Associate Professor to August 2025 and verifies current UIC appointment.",
+        "verifiedAt": "2026-10-01T01:37:01Z"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2607.07350v1",
+        "summary": "Full primary manuscript, especially §§IV and VI, verifies learned routing and real aerial–ground execution; distinguishes manual landing, simulated recharge and separate simulation metrics.",
+        "verifiedAt": "2026-10-01T01:37:01Z"
+      },
+      {
+        "id": "s4",
+        "label": "pab47.github.io / source 4",
+        "url": "https://pab47.github.io/",
+        "summary": "Live lab recruitment is limited to current UIC students and says no PhD openings; no external summer invitation.",
+        "verifiedAt": "2026-10-01T01:37:01Z"
+      }
+    ],
+    "unknowns": [
+      "Current-UIC student recruitment does not establish eligibility for an external master’s visitor.",
+      "Host capacity, about eight weeks, summer 2027 dates, project access and final OIS appointment/funding approval need confirmation.",
+      "Army-sponsored coauthorship does not establish a blanket nationality restriction; any project-specific access rules remain unverified.",
+      "Do not describe the demonstration as autonomous precision landing or actual mobile recharging.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "pranav@uic.edu"
+  }
+]

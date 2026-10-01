@@ -1,6 +1,6 @@
 # 持续导师检索记录
 
-[新进AP优先看](ap_priority.md) · [全部候选偏好排序](ranked_candidates.md) · [明确限制与暑期关闭](contact_constraints.md) · [明确访问问询入口](visitor_inquiries.md) · [结构化记录](mentor_candidates.json) · [机构访问规则](eligibility_notes.md) · [旧名单后续补充](baseline_addenda.md) · [项目周期](program_watch.md)
+[新进AP优先看](ap_priority.md) · [原有名单AP后续核查](baseline_ap.md) · [全部候选偏好排序](ranked_candidates.md) · [明确限制与暑期关闭](contact_constraints.md) · [明确访问问询入口](visitor_inquiries.md) · [结构化记录](mentor_candidates.json) · [机构访问规则](eligibility_notes.md) · [旧名单后续补充](baseline_addenda.md) · [项目周期](program_watch.md)
 
 这里只记录新发现候选。原有 **200 位**及其编号、姓名、资料和浏览器联系记录保持不变；不为旧记录补造发现时间。现有应用仍读取原 200 位，新候选先在此通过 GitHub 浏览。
 
@@ -108,3 +108,7 @@ python scripts/test_research_ledger.py
 ### 明确访问问询入口
 
 [实用问询索引](visitor_inquiries.md)从已有短访证据为正的记录、明确远程入口及单独核实的一般intern入口生成，按研究匹配优先排序，并单列外校硕士适用性未定的一般intern入口与仅远程线索。`visitor_inquiry_notes.json`只保存已发布证据的简短限制摘要及对应来源引用；不产生新名额、评分或核查日期。历史访客、仅本校学位招募和无导师入口的学校制度不自动入选。一般intern入口即使现场短访分为0，也可在独立分组中按明确来源及纳入理由展示，不为展示而改分。摘要与来源引用也通过校验，每次数据更新一并重新生成。
+
+## 原有名单AP的后续核查
+
+`baseline_ap_notes.json`与[原名单AP视图](baseline_ap.md)只记录后续来源观察、准确任职与询问限制。原200数据、原分数和原日期不改，没有新造`discoveredAt`，也不计入新增人数。2023及更早AP仍单列保留；近期转校不自动当作首次faculty任职。

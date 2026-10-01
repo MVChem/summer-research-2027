@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "baselineCommit": "834e348e17e47333777353e419dcc058f9f46846",
+  "originalRecordsModified": false,
+  "scope": "Later source observations only; excluded from new-candidate counts, with no original row, score or discovery edits.",
+  "candidates": [
+    {
+      "baselineId": 6,
+      "fullName": "Yilun Du",
+      "institution": "Harvard University",
+      "currentTitle": "Assistant Professor of Computer Science",
+      "observedAt": "2026-10-01T13:05:09Z",
+      "appointmentStart": {
+        "year": 2025,
+        "month": 7,
+        "precision": "month",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "evidence": "The official appointment announcement dates the Harvard start to July 2025; the current SEAS directory confirms the appointment. The preceding role was MIT doctoral/research work. First-ever faculty status is not explicitly asserted by the checked sources."
+      },
+      "routeEvidence": {
+        "verifiedAt": "2026-10-01T12:00:51Z",
+        "finding": "The live linked research-opportunity form includes current Master’s students, arbitrary current institutions, and distinct in-person and remote visiting-researcher roles, separate from current Harvard/MIT student roles. This strengthens the outside-master inquiry route and makes remote inquiry explicitly available. No minimum duration, funding promise, summer2027 capacity or acceptance of eight weeks is stated.",
+        "sources": [
+          {
+            "url": "https://embodied-minds-lab.github.io/contact/",
+            "retrieval": "direct-primary-page",
+            "evidence": "Full current visiting-researchers section links the form and invites specific project-fit inquiries."
+          },
+          {
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSewtWN1KERrXQE-FbRxJSHPRS-cG0kkN92eLPIbLXjr5e329A/viewform",
+            "retrieval": "direct-primary-cloud-browser",
+            "evidence": "Complete public form read without entering fields; current Master’s option, affiliation, separate visiting and local-student roles, start date and weekly commitment. No submission or file upload."
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://seas.harvard.edu/news/seas-welcomes-new-faculty-computer-science-applied-math",
+          "verifiedAt": "2026-10-01T13:04:38Z",
+          "retrieval": "direct-primary-page",
+          "evidence": "Official July 25, 2024 announcement explicitly gives July 2025 start and prior MIT PhD."
+        },
+        {
+          "id": "s2",
+          "url": "https://seas.harvard.edu/person/yilun-du",
+          "verifiedAt": "2026-10-01T13:05:09Z",
+          "retrieval": "direct-primary-page",
+          "evidence": "Current institutional directory: Assistant Professor of Computer Science."
+        }
+      ],
+      "display": "2025-07（Harvard官方）",
+      "practicalNote": "实际表单支持外校Masters与现场/远程访客；时长、资助和2027接收未知；正式Harvard任命另核"
+    },
+    {
+      "baselineId": 8,
+      "fullName": "Zhuang Liu",
+      "institution": "Princeton University",
+      "currentTitle": "Assistant Professor of Computer Science",
+      "observedAt": "2026-10-01T13:05:09Z",
+      "appointmentStart": {
+        "year": 2025,
+        "month": 7,
+        "precision": "day",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "evidence": "Official March 25, 2026 retrospective states the actual Princeton start was July 1, 2025, following Meta research-scientist service. A recent institutional start is established; first-ever faculty status is not separately asserted.",
+        "day": 1
+      },
+      "routeEvidence": {
+        "verifiedAt": "2026-10-01T12:03:58Z",
+        "finding": "The live linked research-intern/visitor form explicitly includes current master’s students, arbitrary home institutions, in-person and remote collaboration options, and a1–3-month duration choice. Thus roughly eight weeks fits a listed inquiry band even though the homepage favors long-term projects. The form’s inability to sponsor in-person visas applies specifically to undergraduates outside the US, not an announced master’s prohibition. Actual master’s immigration category and approval remain unverified.",
+        "sources": [
+          {
+            "url": "https://liuzhuang13.github.io/",
+            "retrieval": "direct-primary-live-HTML",
+            "evidence": "Full live Join Us text: long-term research-intern collaboration and linked form, plus separate Fall2027 PhD recruitment."
+          },
+          {
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSc6_5Z91ezNM-Ra3ST9S45UaNEdWNeaN_zzsEO7FJYUZrobgQ/viewform?usp=send_form",
+            "retrieval": "direct-primary-cloud-browser",
+            "evidence": "Complete public form read: Master, home institution, mode options, start date and1–3/4–6/7–9/10–12/13+ months; undergraduate-only visa caveat. No entries/uploads/submission."
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.cs.princeton.edu/news/zhuang-liu-joins-faculty-bringing-expertise-deep-learning-and-computer-vision",
+          "verifiedAt": "2026-10-01T13:04:26Z",
+          "retrieval": "direct-primary-page",
+          "evidence": "Official retrospective explicitly reports July 1, 2025 start after four years at Meta."
+        },
+        {
+          "id": "s2",
+          "url": "https://www.cs.princeton.edu/people/profile/zhuangl",
+          "verifiedAt": "2026-10-01T13:04:26Z",
+          "retrieval": "direct-primary-page",
+          "evidence": "Current institutional profile confirms Assistant Professor and links appointment story."
+        }
+      ],
+      "display": "2025-07-01（Princeton官方回顾）",
+      "practicalNote": "表单有Masters、外校机构、现场/远程及1–3个月；主页偏长期。签证警告只针对海外本科生，不是硕士禁令；正式批准另核"
+    },
+    {
+      "baselineId": 25,
+      "fullName": "Sara Beery",
+      "institution": "Massachusetts Institute of Technology",
+      "currentTitle": "Assistant Professor, Electrical Engineering and Computer Science; Homer A. Burnell Career Development chair",
+      "observedAt": "2026-10-01T13:05:09Z",
+      "appointmentStart": {
+        "year": 2023,
+        "month": 9,
+        "precision": "month",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ],
+        "evidence": "Official March 31, 2023 announcement dates her EECS AP start to September 2023. The current CSAIL directory confirms Assistant Professor; the linked academic CV records the Burnell title from 2023. Google Visiting Faculty Researcher was an industry role, not evidence of a prior university faculty transfer. First-ever university faculty status remains unasserted."
+      },
+      "routeEvidence": {
+        "verifiedAt": "2026-10-01T12:03:15Z",
+        "finding": "The current homepage explicitly welcomes Visitor inquiries through the interest survey, but the actual form has undergraduate, master’s, PhD and postdoc level options and an admitted-to-MIT yes/no question; it does not contain a separate Visitor choice. The outside visitor inquiry remains genuine, but this is not an explicit short external-master summer invitation.",
+        "sources": [
+          {
+            "url": "https://beerys.github.io/",
+            "retrieval": "direct-primary-live-HTML",
+            "evidence": "Full live homepage joining section retrieved directly; web text copy omitted it. Visitor is in the homepage invitation, not a form option."
+          },
+          {
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSeWT5uCEBRO_TkyxW-kjlJkICk04C-dXzDh5U3TMAhoGNtbVg/viewform?usp=send_form",
+            "retrieval": "direct-primary-cloud-browser",
+            "evidence": "Complete read-only form: master’s level and not-yet-admitted answer, no Visitor choice, dates, duration, funding or remote field. No inputs/submission."
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.eecs.mit.edu/school-of-engineering-welcomes-new-faculty-2/",
+          "verifiedAt": "2026-10-01T13:04:38Z",
+          "retrieval": "direct-primary-page",
+          "evidence": "Official 2023 cohort announcement explicitly says September start, prior Google visiting researcher."
+        },
+        {
+          "id": "s2",
+          "url": "https://www.csail.mit.edu/person/sara-beery",
+          "verifiedAt": "2026-10-01T13:04:38Z",
+          "retrieval": "direct-primary-page",
+          "evidence": "Current CSAIL PI directory identifies Assistant Professor."
+        },
+        {
+          "id": "s3",
+          "url": "https://beerys.github.io/assets/Sara_Beery_Academic_CV.pdf",
+          "verifiedAt": "2026-10-01T13:04:49Z",
+          "retrieval": "direct-primary-page",
+          "evidence": "Career-history section records 2023–present Homer A. Burnell Career Development Assistant Professor."
+        },
+        {
+          "id": "s4",
+          "url": "https://eecsis.mit.edu/research_interests.pcgi?pdf=true",
+          "verifiedAt": "2026-10-01T13:05:09Z",
+          "retrieval": "direct-primary-page",
+          "evidence": "Current approved thesis-supervisor list marks on leave Fall 2026. No 2027 duration or blanket visitor closure is stated."
+        }
+      ],
+      "timingCaveats": [
+        {
+          "detail": "MIT currently marks on leave Fall 2026. This is a fall-only dated availability caveat, not evidence of a summer 2027 closure, no-visitor policy or permanent departure.",
+          "sourceIds": [
+            "s4"
+          ],
+          "observedAt": "2026-10-01T13:05:09Z"
+        }
+      ],
+      "display": "2023-09（MIT官方）",
+      "practicalNote": "主页欢迎Visitor，表单无独立Visitor选项；外校硕士具体适用性待确认。官方仅标2026秋休假，不推断2027暑期关闭；MIT资金规则独立适用"
+    },
+    {
+      "baselineId": 148,
+      "fullName": "Guanya Shi",
+      "institution": "Carnegie Mellon University",
+      "currentTitle": "Assistant Professor, Robotics Institute",
+      "observedAt": "2026-10-01T13:05:09Z",
+      "appointmentStart": {
+        "year": 2023,
+        "month": 9,
+        "precision": "month",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ],
+        "evidence": "CMU official new-faculty cohort verifies 2023 arrival. The live first-person page supplies September 2023 and prior UW postdoc, and current RI directory confirms Assistant Professor. First-ever faculty status is not separately asserted."
+      },
+      "routeEvidence": {
+        "verifiedAt": "2026-10-01T10:24:53Z",
+        "finding": "Current LeCAR join page explicitly includes visiting students and gives a direct email inquiry route with CV/transcript, research experience, lab fit and funding need. The stated longer-than-six-month minimum is specifically for international visiting undergraduates; no equivalent graduate-visitor minimum is stated. Existing baseline148 records unverified visitor intake, so this is a useful positive route addendum, not a new mentor.",
+        "sources": [
+          {
+            "url": "https://lecar-lab.github.io/join.html",
+            "retrieval": "direct-primary-page",
+            "evidence": "Full visiting-student inquiry instructions separate from prospective/admitted degree students; explicit longer-than-six-month rule restricted to international undergraduates."
+          },
+          {
+            "url": "https://www.gshi.me/",
+            "retrieval": "direct-primary-page",
+            "evidence": "Full current CMU assistant professor and LeCAR lead; public email, direct referral to join page, currentFall2026 teaching."
+          },
+          {
+            "url": "https://www.ri.cmu.edu/robotics-groups/lecar-lab/",
+            "retrieval": "direct-primary-page",
+            "evidence": "Full official Robotics Institute lab page identifies Guanya Shi as current head."
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.scsdean.cs.cmu.edu/new-faculty/2023.html",
+          "verifiedAt": "2026-10-01T13:05:09Z",
+          "retrieval": "direct-primary-page",
+          "evidence": "Official new-faculty 2023 list places Guanya Shi in the Robotics Institute as Assistant Professor."
+        },
+        {
+          "id": "s2",
+          "url": "https://www.gshi.me/",
+          "verifiedAt": "2026-10-01T13:05:09Z",
+          "retrieval": "direct-primary-page",
+          "evidence": "Live personal page explicitly states joining CMU September 2023 after UW postdoc."
+        },
+        {
+          "id": "s3",
+          "url": "https://www.ri.cmu.edu/ri-faculty/guanya-shi/",
+          "verifiedAt": "2026-10-01T13:04:38Z",
+          "retrieval": "direct-primary-page",
+          "evidence": "Current official RI faculty profile confirms Assistant Professor."
+        }
+      ],
+      "display": "2023（CMU官方）；9月（本人）",
+      "practicalNote": "独立访客邮件入口；超过6个月的规定只针对国际访问本科生，不能套给硕士。研究生时长、项目、资金和OIE批准待核"
+    }
+  ]
+}

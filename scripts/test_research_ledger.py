@@ -393,5 +393,29 @@ class ResearchLedgerTests(unittest.TestCase):
         with self.assertRaises(AssertionError): ledger.validate_priority_notes(notes, self.full)
 
 
+    def test_baseline_ap_view_keeps_original_records_separate(self):
+        notes = json.loads((ledger.LEDGER.parent / 'baseline_ap_notes.json').read_text())
+        ledger.validate_baseline_ap_notes(notes, self.full)
+        text = ledger.render_baseline_ap(notes)
+        self.assertIn('2023及更早 AP', text)
+        self.assertIn('不计入新增人数', text)
+        self.assertEqual({r['baselineId'] for r in notes['candidates']}, {6, 8, 25, 148})
+
+    def test_baseline_ap_view_rejects_discovery_backfill(self):
+        notes = json.loads((ledger.LEDGER.parent / 'baseline_ap_notes.json').read_text())
+        notes['candidates'][0]['discoveredAt'] = '2026-10-01T00:00:00Z'
+        with self.assertRaises(AssertionError): ledger.validate_baseline_ap_notes(notes, self.full)
+
+    def test_baseline_ap_view_rejects_rescoring(self):
+        notes = json.loads((ledger.LEDGER.parent / 'baseline_ap_notes.json').read_text())
+        notes['candidates'][0]['scores'] = {'fit':40}
+        with self.assertRaises(AssertionError): ledger.validate_baseline_ap_notes(notes, self.full)
+
+    def test_baseline_ap_view_source_ids_resolve(self):
+        notes = json.loads((ledger.LEDGER.parent / 'baseline_ap_notes.json').read_text())
+        notes['candidates'][0]['appointmentStart']['sourceIds'] = ['missing']
+        with self.assertRaises(AssertionError): ledger.validate_baseline_ap_notes(notes, self.full)
+
+
 if __name__ == "__main__":
     unittest.main()

@@ -1045,6 +1045,124 @@
           "evidence": "Official August 17, 2026 announcement names a new full-time Assistant Professor for that fall. Announcement date is not an exact appointment day."
         }
       ]
+    },
+    "yayun-du": {
+      "appointmentStart": {
+        "year": 2024,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "h1"
+        ],
+        "evidence": "Official Faculty Affairs 2024 new-faculty cohort names Yayun Du; current VISE directory confirms Assistant Professor. No start month inferred.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2024",
+      "caveat": "有明确短/长期访客询问；具体长度、外校硕士资格和2027资金未定；旧UCLA设备不等于当前Vanderbilt资源",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://www.vanderbilt.edu/faculty-affairs/2024-new-faculty/",
+          "observedAt": "2026-10-01T13:03:30Z",
+          "evidence": "Official Faculty Affairs 2024 new-faculty cohort names Yayun Du; current VISE directory confirms Assistant Professor. No start month inferred."
+        }
+      ]
+    },
+    "tsung-chi-lin": {
+      "appointmentStart": {
+        "year": 2025,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "h1"
+        ],
+        "evidence": "Official showcase explicitly identifies its presenters as new Fall 2025 faculty and names Tsung-Chi Lin; current NJIT directory confirms Assistant Professor.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2025",
+      "caveat": "MS/UG一般招募和2026外校访客先例；未核实当前独立短访入口，NJIT资金条件另核",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://www.njit.edu/facultyaffairs/2025-new-faculty-research-showcase",
+          "observedAt": "2026-10-01T13:02:53Z",
+          "evidence": "Official showcase explicitly identifies its presenters as new Fall 2025 faculty and names Tsung-Chi Lin; current NJIT directory confirms Assistant Professor."
+        }
+      ]
+    },
+    "yaxin-hu": {
+      "appointmentStart": {
+        "year": 2026,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "Official August 3, 2026 new-faculty article names Hu as a new Assistant Professor; 2026–27 official catalogue gives appointment year 2026. Exact start month/day is not inferred from article date.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2026",
+      "caveat": "当前Fall2026/Spring/Fall2027是学位/组内招募；外校短访入口及新校设备未核",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://cdsp.wm.edu/computerscience/about/news/cs@wm-welcomes-two-new-faculty.php",
+          "observedAt": "2026-10-01T13:03:18Z",
+          "evidence": "Official August 3, 2026 new-faculty article names Hu as a new Assistant Professor; 2026–27 official catalogue gives appointment year 2026. Exact start month/day is not inferred from article date."
+        },
+        {
+          "id": "h2",
+          "url": "https://catalog.wm.edu/officersofinstruction/",
+          "observedAt": "2026-10-01T13:02:53Z",
+          "evidence": "Official current catalogue lists Yaxin Hu (2026), Assistant Professor of Computer Science."
+        }
+      ]
+    },
+    "mike-hagenow": {
+      "appointmentStart": {
+        "year": 2025,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "h1"
+        ],
+        "evidence": "Official September 17, 2025 department article introduces new Assistant Professor Mike Hagenow after his MIT postdoc. Year precision only.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2025",
+      "caveat": "不主动招访客，仅强匹配的特别询问；本科一年投入不适用于所有访客；外校硕士和2027容量待核",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://www.cs.wisc.edu/2025/09/17/welcome-new-faculty-member-mike-hagenow/",
+          "observedAt": "2026-10-01T12:54:48Z",
+          "evidence": "Official September 17, 2025 department article introduces new Assistant Professor Mike Hagenow after his MIT postdoc. Year precision only."
+        }
+      ]
+    },
+    "wenhao-yang": {
+      "appointmentStart": {
+        "year": 2024,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "h1"
+        ],
+        "evidence": "University-hosted, department-linked CV explicitly gives Assistant Professor at Lamar July 2024–present. This is official-hosted first-person CV provenance, distinct from an independent hiring announcement.",
+        "appointmentType": "unresolved",
+        "month": 7
+      },
+      "display": "2024-07（大学托管本人CV）",
+      "caveat": "大学托管本人CV称2024-07；其他页面Fall措辞不强行精确化；未核实外校短访，VLA设备为合作平台",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://www.lamar.edu/engineering/_files/documents/industrial/wenhao-yang-cv-2024-09-13.pdf",
+          "observedAt": "2026-10-01T13:03:42Z",
+          "evidence": "University-hosted, department-linked CV explicitly gives Assistant Professor at Lamar July 2024–present. This is official-hosted first-person CV provenance, distinct from an independent hiring announcement."
+        }
+      ]
     }
   },
   "constraints": [
@@ -1512,6 +1630,21 @@
         {
           "url": "https://yuccalab.ucmerced.edu/join.html",
           "evidence": "The current Visiting Students section explicitly accepts students enrolled in outside undergraduate/MS programs from US or international institutions, with a research proposal and self/external funding, and lists UCM J1 support. It requires a minimum 3–6-month commitment and an application 3–6 months before arrival. This is a standing invitation, not a confirmed summer2027 place. The closed 2025–26 PhD recruitment cycle is a separate category and must not be described as no visitors or no summer interns."
+        }
+      ]
+    },
+    {
+      "key": "baseline-25-fall2026-leave",
+      "baselineId": 25,
+      "name": "Sara Beery",
+      "kind": "capacity-or-role",
+      "scope": "MIT官方列出的2026秋休假",
+      "summary": "仅确认Fall2026休假；未说明2027暑期不可接收，不推断永久离开或访客关闭",
+      "observedAt": "2026-10-01T13:05:09Z",
+      "sources": [
+        {
+          "url": "https://eecsis.mit.edu/research_interests.pcgi?pdf=true",
+          "evidence": "Current approved thesis-supervisor list marks on leave Fall 2026. No 2027 duration or blanket visitor closure is stated."
         }
       ]
     }

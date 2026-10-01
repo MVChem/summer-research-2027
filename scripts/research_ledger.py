@@ -276,7 +276,7 @@ def validate_priority_notes(notes, data):
 
 def render_ap_priority(data, notes):
     rows = [r for r in ranked_rows(data) if is_assistant_professor(r)]
-    lines = ["# 新进 Assistant Professor 优先看", "", "[全部候选：最新偏好排序](ranked_candidates.md) · [明确限制与暑期关闭](contact_constraints.md) · [访问问询入口](visitor_inquiries.md) · [评分说明](README.md)", "",
+    lines = ["# 新进 Assistant Professor 优先看", "", "[全部候选：最新偏好排序](ranked_candidates.md) · [原有名单AP后续核查](baseline_ap.md) · [明确限制与暑期关闭](contact_constraints.md) · [访问问询入口](visitor_inquiries.md) · [评分说明](README.md)", "",
              f"当前新增记录中有 **{len(rows)} 位**以公开准确职级列出的 AP；这里只核实了一部分入职日期，日期未知不等于资历较老。", "",
              "约八周是初步参考，未说明时长不会被排除。先看近期已到岗 AP，再看暑期前有明确任职日期的 AP；其他 AP 仍保留。明确至少三个月及较长访问偏好降序，硬性最短时长与偏好分开；明确不接收暑期/访客优先标记。", "",
              "工作排序暂以 **2024年起**作为约近两三年的范围，并单列2027暑期前已公告入职者；这是可调整的整理约定，不是年龄判断、用户硬性年限或接收概率。各层内部先按研究匹配，再按真机证据及原总分。原四项分数和发现时间均未改写。", ""]
@@ -490,6 +490,51 @@ def load_shards(index):
     return data, paths, batches
 
 
+
+def validate_baseline_ap_notes(notes, data):
+    baseline = {r['id']: r for r in json.loads((ROOT / data['baseline']['path']).read_text())['contacts']}
+    assert notes['schemaVersion'] == 1 and notes['originalRecordsModified'] is False
+    assert notes['baselineCommit'] == data['baseline']['commit']
+    seen = set()
+    for r in notes['candidates']:
+        assert r['baselineId'] in baseline and r['baselineId'] not in seen
+        seen.add(r['baselineId'])
+        assert name_key(r['fullName']) == name_key(baseline[r['baselineId']]['name'])
+        assert not {'discoveredAt', 'scores', 'score', 'totalScore'} & r.keys(), 'Baseline view must not invent discovery or rescore'
+        assert r['currentTitle'] and r['display'] and r['practicalNote']
+        timestamp(r['observedAt'])
+        ids = {x['id'] for x in r['sources']}
+        assert len(ids) == len(r['sources']) and r['appointmentStart']['sourceIds'] and set(r['appointmentStart']['sourceIds']) <= ids
+        for source in r['sources']:
+            url_key(source['url']); assert source['evidence']
+            assert timestamp(source['verifiedAt']) <= timestamp(r['observedAt'])
+        route = r['routeEvidence']; assert route['finding'] and route['sources']
+        assert timestamp(route['verifiedAt']) <= timestamp(r['observedAt'])
+        for source in route['sources']: url_key(source['url']); assert source['evidence']
+        for caveat in r.get('timingCaveats', []):
+            assert set(caveat['sourceIds']) <= ids
+            assert timestamp(caveat['observedAt']) <= timestamp(r['observedAt'])
+
+
+def render_baseline_ap(notes):
+    lines = ['# 原有名单中的 AP：后续核查', '', '[新增 AP 优先视图](ap_priority.md) · [全部新增候选](ranked_candidates.md) · [原200位数据](../contacts.json) · [原名单其他后续观察](baseline_addenda.md) · [明确限制](contact_constraints.md)', '',
+             f"本页只整理原有200位中的 **{len(notes['candidates'])} 位**；不计入新增人数，不重评原分数、不修改原记录，也不补造发现时间。日期均为来源核查或任职起始时间。", '',
+             '2024起暂列近期组，2023及更早的AP作为次级组保留；这不是排除条件或年龄判断。以下日期指已核实的当前机构任职，未自动推断首次faculty职位或接收概率。', '']
+    for recent, label in [(True, '近期到岗组（2024起）'), (False, '2023及更早 AP · 继续保留')]:
+        rows = [r for r in notes['candidates'] if (r['appointmentStart']['year'] >= 2024) == recent]
+        if not rows: continue
+        lines += ['## ' + label, '']
+        for r in sorted(rows, key=lambda x: (-x['appointmentStart']['year'], x['fullName'])):
+            lines += [f"<a id=\"baseline-{r['baselineId']}\"></a>", '', f"### 原ID {r['baselineId']} · {r['fullName']} · {r['institution']}", '',
+                      f"- 准确任职：{r['currentTitle']}", f"- 任职开始：**{r['display']}**", f"- **{r['practicalNote']}**", f"- 本次任职/时点观察：{r['observedAt']}；已有询问入口核查：{r['routeEvidence']['verifiedAt']}（两次核查不混同）", '- 任职来源：']
+            lines += [f"  - [来源{s['id']}]({s['url']})：{s['evidence']}（核查{s['verifiedAt']}）" for s in r['sources']]
+            lines += ['- 询问入口来源：']
+            lines += [f"  - [来源{i+1}]({source['url']})：{source['evidence']}" for i,source in enumerate(r['routeEvidence']['sources'])]
+            lines.append('')
+    lines += ['所有问询仍需确认项目匹配、实际容量、具体长度、经费、现场/远程安排及大学批准；表单存在、学位选项或过往访客都不是2027接收承诺。', '']
+    return '\n'.join(lines)
+
+
 def main():
     parser = argparse.ArgumentParser()
     group = parser.add_mutually_exclusive_group(required=True)
@@ -525,6 +570,11 @@ def main():
         validate_priority_notes(notes, data)
         outputs[LEDGER.parent / "ap_priority.md"] = render_ap_priority(data, notes)
         outputs[LEDGER.parent / "contact_constraints.md"] = render_contact_constraints(notes)
+    baseline_ap_path = LEDGER.parent / "baseline_ap_notes.json"
+    if baseline_ap_path.exists():
+        baseline_ap = json.loads(baseline_ap_path.read_text())
+        validate_baseline_ap_notes(baseline_ap, data)
+        outputs[LEDGER.parent / "baseline_ap.md"] = render_baseline_ap(baseline_ap)
     for path, expected in outputs.items():
         if args.write:
             path.write_text(expected)

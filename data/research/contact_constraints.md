@@ -163,3 +163,9 @@
 - **本人正在休假并承担DeepMind领导职务；结束时间与2027暑期校园指导未定，未推断永久离校或暑期禁招**
 - 核查：2026-10-01T11:54:06Z · [来源1](https://people.eecs.berkeley.edu/~anca/) · [来源2](https://www2.eecs.berkeley.edu/Faculty/Homepages/anca.html)
 
+### Sara Beery（原名单 #25）
+
+- 适用范围：MIT官方列出的2026秋休假
+- **仅确认Fall2026休假；未说明2027暑期不可接收，不推断永久离开或访客关闭**
+- 核查：2026-10-01T13:05:09Z · [来源1](https://eecsis.mit.edu/research_interests.pcgi?pdf=true)
+

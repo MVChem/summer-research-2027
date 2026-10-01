@@ -175,6 +175,7 @@
     "batches/embodied-075.json",
     "batches/embodied-076.json",
     "batches/embodied-077.json",
+    "batches/embodied-078.json",
     "batches/embodied-080.json",
     "batches/embodied-081.json",
     "batches/hri-001.json",
@@ -9485,6 +9486,32 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-077.json",
       "detailPage": "batches/embodied-077.md#roni-khardon"
+    },
+    {
+      "id": "kaushik-roy",
+      "name": "Kaushik Roy",
+      "aliases": [],
+      "school": "Purdue University",
+      "title": "Edward G. Tiedemann Jr. Distinguished Professor of Electrical and Computer Engineering",
+      "homepage": "https://engineering.purdue.edu/NRL/",
+      "batch": "embodied-078",
+      "discoveredAt": "2026-10-01T09:48:14Z",
+      "verifiedAt": "2026-10-01T09:56:11Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Robot learning and morphology-control co-design",
+        "Neuromorphic perception and navigation",
+        "Language-conditioned robot interfaces",
+        "Efficient edge AI"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-078.json",
+      "detailPage": "batches/embodied-078.md#kaushik-roy"
     },
     {
       "id": "minghan-li",

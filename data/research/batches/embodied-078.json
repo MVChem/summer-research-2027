@@ -1,0 +1,127 @@
+[
+  {
+    "id": "kaushik-roy",
+    "name": "Kaushik Roy",
+    "aliases": [],
+    "school": "Purdue University",
+    "homepage": "https://engineering.purdue.edu/NRL/",
+    "title": "Edward G. Tiedemann Jr. Distinguished Professor of Electrical and Computer Engineering",
+    "department": "Elmore Family School of Electrical and Computer Engineering; Nanoelectronics Research Laboratory",
+    "batch": "embodied-078",
+    "discoveredAt": "2026-10-01T09:48:14Z",
+    "verifiedAt": "2026-10-01T09:56:11Z",
+    "researchAreas": [
+      "Robot learning and morphology-control co-design",
+      "Neuromorphic perception and navigation",
+      "Language-conditioned robot interfaces",
+      "Efficient edge AI"
+    ],
+    "fitReason": "Strong established embodied-method match despite a broader circuits/neuromorphic lab identity: directed work combines RL quadruped locomotion, learned perception/planning, and an LLM-conditioned flight interface. Particularly relevant to resource-efficient robot intelligence rather than general-purpose VLA scaling.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "September 2026 GLAMDRING §IV-D actually deploys a PPO-trained CPG policy on an unmodified Unitree Go2, with zero payload and no learned-gait retuning. Search constraints deliberately target Go2-compatible geometry; only this limited hardware demonstration is verified, not fabricated novel bodies or a full robustness study. April 2025 Neuro-LIFT separately executes indoor Bebop2 flights around/through a moving ring. These are current directed Purdue-group experiments with official adviser/student corroboration, physical25.",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5",
+        "s8"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Official NRL visitor roster lists outside undergraduate Carlos Ortiz and PhD Johnny Rhe. Current-student biographies also describe earlier summer internships and a six-month 2024 visit. These establish hosting precedent only; no current outside-master eight-week offer is verified. Visitor0.",
+      "sourceIds": [
+        "s3",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantive RL locomotion, neuromorphic robot learning and language-conditioned autonomy across multiple directed projects.",
+      "physical": "Current directed-group real Go2 and Bebop2 executions, with method/platform limits explicitly retained.",
+      "shortVisit": "Current visitor roster and historical summer precedents are not an applicable open outside-master offer.",
+      "freshness": "September 2026 full methods, current faculty and fall 2026 student roster."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.purdue.edu / source 1",
+        "url": "https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3085",
+        "summary": "Full official West Lafayette distinguished-professor title and public email.",
+        "verifiedAt": "2026-10-01T09:56:11Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "engineering.purdue.edu / source 2",
+        "url": "https://engineering.purdue.edu/NRL/",
+        "summary": "Full current Nanoelectronics Research Laboratory homepage.",
+        "verifiedAt": "2026-10-01T09:56:11Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "engineering.purdue.edu / source 3",
+        "url": "https://engineering.purdue.edu/NRL/Group/current-students",
+        "summary": "Full current official roster verifies Amogh Shantanu Joshi as Roy-advised PhD, including fall 2026 roster updates; historical visitors are not current openings.",
+        "verifiedAt": "2026-10-01T09:56:11Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2609.19452v1",
+        "summary": "Full September 2026 GLAMDRING: PPO-conditioned CPG, learned joint mapping, §IV-D actual unmodified Go2 execution with zero payload and explicit limited-validation caveat.",
+        "verifiedAt": "2026-10-01T09:56:11Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2501.19259v2",
+        "summary": "Full April 2025 Neuro-LIFT: Llama maneuver-feasibility classifier, neuromorphic sensing and planning, actual Bebop2 execution; offboard tripod sensors/compute, Optitrack compensation, conventional PID.",
+        "verifiedAt": "2026-10-01T09:56:11Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "engineering.purdue.edu / source 6",
+        "url": "https://engineering.purdue.edu/NRL/Research/AIRobotics_html",
+        "summary": "Full official robot perception, planning and control research description and attributable publications.",
+        "verifiedAt": "2026-10-01T09:56:11Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s7",
+        "label": "engineering.purdue.edu / source 7",
+        "url": "https://engineering.purdue.edu/NRL/Group/Visiting-Students",
+        "summary": "Full visiting-student roster lists outside undergraduate and PhD researchers. No duration-specific external-master invitation.",
+        "verifiedAt": "2026-10-01T09:56:11Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s8",
+        "label": "amoghj98.github.io / source 8",
+        "url": "https://amoghj98.github.io/",
+        "summary": "Full student-authored page corroborates Roy supervision and repeated RL/robotics program.",
+        "verifiedAt": "2026-10-01T09:56:11Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "West Lafayette host, not Purdue Indianapolis or a namesake researcher. Official public contact: kaushik@purdue.edu.",
+      "GLAMDRING trains in IsaacLab/PhysX; high-payload, morphology-search and actuator-envelope comparisons remain simulation results. Actual Go2 test is deliberately constrained, zero-payload and limited in scope.",
+      "Neuro-LIFT fine-tunes Llama-3.2-3B as a maneuver-feasibility classifier; it is not an end-to-end VLA policy. The DVS and Jetson sit offboard on a tripod because of payload limits, with motion-capture compensation. Low-level control is PID; the TurtleBot moves the obstacle by teleoperation, not learned autonomous navigation.",
+      "Reuse Purdue feasibility anchor purdue: formal host invitation/approval and appointment are required. Degree-linked Student Intern and Short-Term Scholar have different eligibility; ISS chooses the applicable category. Personal/family support may count under the published funding rules, but does not create a lab place. No informal volunteering/tourist workaround.",
+      "Summer 2027 availability, eight-week scope, funding, remote participation, mentoring and robot access remain unknown. Historical visitor degrees/durations must not be converted into a current master’s invitation.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#purdue)"
+    ],
+    "publicEmail": "kaushik@purdue.edu"
+  }
+]

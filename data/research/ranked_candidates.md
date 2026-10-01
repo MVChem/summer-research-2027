@@ -167,166 +167,166 @@
 | 157 | [Ivan Ruchkin](batches/control-042.md#ivan-ruchkin) · University of Florida | 78 (38/25/0/15) | unknown | 2026-10-01T02:18:30Z | 2026-10-01T02:20:04Z |
 | 158 | [Artur W. Dubrawski](batches/hri-040.md#artur-w-dubrawski) · Carnegie Mellon University | 78 (38/25/0/15) | unknown | 2026-10-01T02:31:23Z | 2026-10-01T02:32:25Z |
 | 159 | [Bowen Weng](batches/control-051.md#bowen-weng) · Iowa State University | 78 (38/25/0/15) | unknown | 2026-10-01T02:42:28Z | 2026-10-01T02:53:44Z |
-| 160 | [Farshad Khorrami](batches/embodied-055.md#farshad-khorrami) · New York University | 78 (38/25/0/15) | degree-only | 2026-10-01T03:33:04Z | 2026-10-01T04:27:11Z |
-| 161 | [Reza Abiri](batches/hri-054.md#reza-abiri) · University of Rhode Island | 78 (38/25/0/15) | degree-only | 2026-10-01T04:31:46Z | 2026-10-01T04:33:06Z |
-| 162 | [Murat Arcak](batches/control-063.md#murat-arcak) · University of California, Berkeley | 78 (38/25/0/15) | unknown | 2026-10-01T04:56:23Z | 2026-10-01T05:00:30Z |
-| 163 | [Bin He](batches/hri-061.md#bin-he) · Carnegie Mellon University | 78 (38/25/0/15) | degree-only | 2026-10-01T05:07:29Z | 2026-10-01T05:13:42Z |
-| 164 | [Renato Mancuso](batches/control-066.md#renato-mancuso) · Boston University | 78 (38/25/0/15) | precedent-only | 2026-10-01T05:22:50Z † | 2026-10-01T05:27:36Z |
-| 165 | [Hyunglae Lee](batches/control-066.md#hyunglae-lee) · Arizona State University | 78 (38/25/0/15) | degree-only | 2026-10-01T05:24:13Z | 2026-10-01T05:27:36Z |
-| 166 | [Lirong Xiang](batches/embodied-030.md#lirong-xiang) · Cornell University | 78 (38/20/5/15) | conditional-inquiry · 要求正式交流或fellowship | 2026-10-01T01:00:42Z | 2026-10-01T01:05:41Z |
-| 167 | [Qianqian (Quinn) Wang](batches/embodied-032.md#qianqian-quinn-wang) · Harvard University | 78 (38/20/5/15) | conditional-inquiry · SEAS通常至少3个月，8周未确认 | 2026-10-01T01:10:51Z | 2026-10-01T01:17:39Z |
-| 168 | [Huaxiu Yao](batches/embodied-017.md#huaxiu-yao) · University of North Carolina at Chapel Hill | 78 (36/20/8/14) | inquiry-only | 2026-09-30T23:18:57Z | 2026-09-30T23:29:02Z |
-| 169 | [Abdeslam Boularias](batches/embodied-002.md#abdeslam-boularias) · Rutgers University | 77 (39/24/0/14) | unknown | 2026-09-30T21:29:26Z | 2026-09-30T21:36:36Z |
-| 170 | [Kostas E. Bekris](batches/embodied-005.md#kostas-e-bekris) · Rutgers University | 77 (38/25/0/14) | unknown | 2026-09-30T21:55:09Z | 2026-09-30T21:59:27Z |
-| 171 | [Jundong Liu](batches/control-029.md#jundong-liu) · Ohio University | 77 (38/25/0/14) | unknown | 2026-10-01T01:05:06Z | 2026-10-01T01:06:03Z |
-| 172 | [Xiaonan (Sean) Huang](batches/embodied-013.md#xiaonan-sean-huang) · University of Michigan, Ann Arbor | 77 (38/24/0/15) | unknown | 2026-09-30T23:01:23Z | 2026-09-30T23:06:18Z |
-| 173 | [Katia Sycara](batches/hri-032.md#katia-sycara) · Carnegie Mellon University | 77 (38/24/0/15) | unknown | 2026-10-01T01:35:53Z | 2026-10-01T01:38:52Z |
-| 174 | [He (Helen) Huang](batches/hri-039.md#he-helen-huang) · North Carolina State University / University of North Carolina at Chapel Hill | 77 (38/24/0/15) | unknown · NC State两个月与八周需区分 | 2026-10-01T02:18:24Z | 2026-10-01T02:21:06Z |
-| 175 | [Chien-Ming Huang](batches/hri-002.md#chien-ming-huang) · Johns Hopkins University | 77 (37/25/0/15) | unknown | 2026-09-30T21:28:48Z | 2026-09-30T21:35:06Z |
-| 176 | [Gaurav S. Sukhatme](batches/embodied-002.md#gaurav-s-sukhatme) · University of Southern California | 77 (37/25/0/15) | unknown | 2026-09-30T21:29:41Z | 2026-09-30T21:36:36Z |
-| 177 | [Angelique Taylor](batches/hri-003.md#angelique-taylor) · Cornell University, Cornell Tech | 77 (37/25/0/15) | unknown | 2026-09-30T21:36:19Z | 2026-09-30T21:42:22Z |
-| 178 | [Reid Simmons](batches/hri-004.md#reid-simmons) · Carnegie Mellon University | 77 (37/25/0/15) | unknown | 2026-09-30T21:44:02Z | 2026-09-30T21:50:22Z |
-| 179 | [Zhi Tan](batches/hri-005.md#zhi-tan) · Northeastern University | 77 (37/25/0/15) | unknown | 2026-09-30T21:48:28Z | 2026-09-30T21:58:49Z |
-| 180 | [Cindy M. Grimm](batches/hri-006.md#cindy-m-grimm) · Oregon State University | 77 (37/25/0/15) | unknown | 2026-09-30T22:03:25Z | 2026-09-30T22:07:05Z |
-| 181 | [Yashwanth Kumar Nakka](batches/control-006.md#yashwanth-kumar-nakka) · Georgia Institute of Technology | 77 (37/25/0/15) | unknown | 2026-09-30T22:04:58Z | 2026-09-30T22:08:52Z |
-| 182 | [Yanran Ding](batches/embodied-013.md#yanran-ding) · University of Michigan, Ann Arbor | 77 (37/25/0/15) | unknown | 2026-09-30T23:01:06Z | 2026-09-30T23:06:18Z |
-| 183 | [David Saldaña](batches/control-022.md#david-saldana) · Lehigh University | 77 (37/25/0/15) | unknown | 2026-10-01T00:01:03Z | 2026-10-01T00:05:19Z |
-| 184 | [Juan Rojas](batches/hri-026.md#juan-rojas) · Lipscomb University | 77 (37/25/0/15) | unknown | 2026-10-01T01:00:00Z | 2026-10-01T01:02:08Z |
-| 185 | [Nancy Pollard](batches/hri-034.md#nancy-pollard) · Carnegie Mellon University | 77 (37/25/0/15) | unknown | 2026-10-01T01:44:44Z | 2026-10-01T01:47:01Z |
-| 186 | [Kaveh Akbari Hamed](batches/control-049.md#kaveh-akbari-hamed) · Virginia Tech | 77 (37/25/0/15) | unknown | 2026-10-01T02:40:24Z | 2026-10-01T02:47:23Z |
-| 187 | [Silvia Ferrari](batches/control-056.md#silvia-ferrari) · Cornell University | 77 (37/25/0/15) | unknown | 2026-10-01T03:21:37Z † | 2026-10-01T03:29:11Z |
-| 188 | [John T. Wen](batches/control-060.md#john-t-wen) · Rensselaer Polytechnic Institute | 77 (37/25/0/15) | precedent-only | 2026-10-01T04:34:09Z | 2026-10-01T04:36:46Z |
-| 189 | [José L. Pons](batches/hri-057.md#jose-l-pons) · Northwestern University; Shirley Ryan AbilityLab | 77 (37/25/0/15) | unknown | 2026-10-01T04:40:28Z | 2026-10-01T05:07:02Z |
-| 190 | [Sanjit A. Seshia](batches/control-063.md#sanjit-a-seshia) · University of California, Berkeley | 77 (37/25/0/15) | unknown | 2026-10-01T04:50:50Z | 2026-10-01T05:00:30Z |
-| 191 | [Jose Luis Contreras-Vidal](batches/hri-060.md#jose-luis-contreras-vidal) · University of Houston | 77 (37/25/0/15) | unknown · separate 2026 NSAP restrictions | 2026-10-01T05:01:59Z | 2026-10-01T06:02:05Z |
-| 192 | [José del R. Millán](batches/hri-060.md#jose-del-r-millan) · The University of Texas at Austin | 77 (37/25/0/15) | unknown | 2026-10-01T05:01:59Z | 2026-10-01T06:02:05Z |
-| 193 | [Jun Nishida](batches/hri-052.md#jun-nishida) · University of Maryland, College Park | 77 (34/23/5/15) | inquiry-only · student appointment category unresolved | 2026-10-01T03:36:49Z | 2026-10-01T04:34:22Z |
-| 194 | [Yi Guo](batches/control-015.md#yi-guo) · Stevens Institute of Technology | 76 (37/25/0/14) | unknown | 2026-09-30T23:19:58Z | 2026-09-30T23:27:35Z |
-| 195 | [Bilge Mutlu](batches/hri-001.md#bilge-mutlu) · University of Wisconsin–Madison | 76 (37/24/0/15) | unknown | 2026-09-30T21:22:12Z | 2026-09-30T21:27:42Z |
-| 196 | [Rahul Mangharam](batches/control-003.md#rahul-mangharam) · University of Pennsylvania | 76 (37/24/0/15) | unknown | 2026-09-30T21:34:55Z | 2026-09-30T21:38:05Z |
-| 197 | [Sebastian Scherer](batches/embodied-008.md#sebastian-scherer) · Carnegie Mellon University | 76 (37/24/0/15) | unknown | 2026-09-30T22:19:00Z | 2026-10-01T03:10:43Z |
-| 198 | [Patrick Slade](batches/hri-008.md#patrick-slade) · Harvard University | 76 (37/24/0/15) | unknown | 2026-09-30T22:22:12Z | 2026-09-30T22:26:44Z |
-| 199 | [Alex Wong](batches/embodied-006.md#alex-wong) · Yale University | 76 (37/20/5/14) | indexed-inquiry-unconfirmed · Yale VAR条件 | 2026-09-30T22:00:12Z | 2026-09-30T22:06:50Z |
-| 200 | [Yifan Zhu](batches/embodied-006.md#yifan-zhu) · University of Illinois Chicago | 76 (37/20/9/10) | inquiry-only | 2026-09-30T22:00:12Z | 2026-09-30T22:47:41Z |
-| 201 | [Heather Culbertson](batches/hri-004.md#heather-culbertson) · University of Southern California | 76 (36/25/0/15) | unknown | 2026-09-30T21:44:29Z | 2026-09-30T21:50:22Z |
-| 202 | [Tsung-Chi Lin](batches/hri-023.md#tsung-chi-lin) · New Jersey Institute of Technology | 76 (36/25/0/15) | unknown | 2026-10-01T00:07:54Z | 2026-10-01T00:08:52Z |
-| 203 | [Pranav Bhounsule](batches/hri-031.md#pranav-bhounsule) · University of Illinois Chicago | 76 (36/25/0/15) | unknown | 2026-10-01T01:35:38Z | 2026-10-01T01:37:01Z |
-| 204 | [Nirmalya Roy](batches/hri-044.md#nirmalya-roy) · University of Maryland, Baltimore County | 76 (36/25/0/15) | unknown | 2026-10-01T02:50:49Z | 2026-10-01T02:56:33Z |
-| 205 | [Jong-Hoon Kim](batches/hri-053.md#jong-hoon-kim) · Kent State University | 76 (36/25/0/15) | precedent-only | 2026-10-01T04:26:05Z | 2026-10-01T04:27:25Z |
-| 206 | [Rushikesh L. Kamalapurkar](batches/control-059.md#rushikesh-l-kamalapurkar) · University of Florida | 76 (36/25/0/15) | degree-only | 2026-10-01T04:28:50Z | 2026-10-01T04:37:50Z |
-| 207 | [Cynthia A. Chestek](batches/hri-059.md#cynthia-a-chestek) · University of Michigan–Ann Arbor | 76 (36/25/0/15) | degree-only | 2026-10-01T04:50:35Z | 2026-10-01T05:00:15Z |
-| 208 | [Stephanie Gil](batches/control-062.md#stephanie-gil) · Harvard University | 76 (36/25/0/15) | precedent-only · Harvard normally at least 3 months | 2026-10-01T04:51:54Z † | 2026-10-01T05:07:02Z |
-| 209 | [Carol C. Menassa](batches/embodied-063.md#carol-c-menassa) · University of Michigan, Ann Arbor | 76 (36/25/0/15) | unknown | 2026-10-01T05:32:59Z | 2026-10-01T05:35:01Z |
-| 210 | [Geng Yuan](batches/embodied-020.md#geng-yuan) · University of Georgia | 76 (36/20/5/15) | inquiry-only | 2026-09-30T23:39:49Z | 2026-09-30T23:43:11Z |
-| 211 | [Glen Chou](batches/control-006.md#glen-chou) · Georgia Institute of Technology | 75 (40/20/0/15) | unknown | 2026-09-30T22:04:48Z | 2026-09-30T22:08:52Z |
-| 212 | [Maria Kyrarini](batches/hri-008.md#maria-kyrarini) · Santa Clara University | 75 (40/20/0/15) | unknown | 2026-09-30T22:23:11Z | 2026-09-30T22:26:44Z |
-| 213 | [Yan Yan](batches/embodied-016.md#yan-yan) · University of Illinois Chicago | 75 (40/20/0/15) | unknown | 2026-09-30T23:11:28Z | 2026-09-30T23:22:19Z |
-| 214 | [Haozhi Qi](batches/embodied-022.md#haozhi-qi) · University of Chicago (incoming January 2027) | 75 (40/20/0/15) | unknown · 2027年1月入职，实验室待确认 | 2026-09-30T23:51:05Z | 2026-09-30T23:58:03Z |
-| 215 | [Ruoshi Liu](batches/embodied-027.md#ruoshi-liu) · University of Maryland, College Park | 75 (40/20/0/15) | unknown | 2026-10-01T00:31:06Z | 2026-10-01T00:46:00Z |
-| 216 | [Lillian J. Ratliff](batches/control-031.md#lillian-j-ratliff) · University of Washington | 75 (40/20/0/15) | unknown | 2026-10-01T01:19:06Z | 2026-10-01T01:20:49Z |
-| 217 | [Sherry Yang](batches/embodied-054.md#sherry-yang) · New York University | 75 (40/20/0/15) | precedent-only | 2026-10-01T03:30:02Z | 2026-10-01T04:31:16Z |
-| 218 | [Qi Zhu](batches/embodied-059.md#qi-zhu) · Northwestern University | 75 (40/20/0/15) | precedent-only | 2026-10-01T04:38:47Z | 2026-10-01T05:04:19Z |
-| 219 | [Deva Ramanan](batches/embodied-062.md#deva-ramanan) · Carnegie Mellon University | 75 (40/20/0/15) | precedent-only | 2026-10-01T05:11:17Z | 2026-10-01T05:20:34Z |
-| 220 | [Nikolay A. Atanasov](batches/control-002.md#nikolay-a-atanasov) · University of California, San Diego | 75 (38/22/0/15) | precedent-only | 2026-09-30T21:28:35Z | 2026-09-30T21:31:39Z |
-| 221 | [Dimitra Panagou](batches/control-003.md#dimitra-panagou) · University of Michigan | 75 (38/22/0/15) | unknown | 2026-09-30T21:34:55Z | 2026-09-30T21:38:05Z |
-| 222 | [Daniel Szafir](batches/hri-003.md#daniel-szafir) · University of North Carolina at Chapel Hill | 75 (37/23/0/15) | unknown | 2026-09-30T21:36:36Z | 2026-09-30T21:42:22Z |
-| 223 | [R. Brent Gillespie](batches/hri-007.md#r-brent-gillespie) · University of Michigan | 75 (37/23/0/15) | unknown | 2026-09-30T22:11:06Z | 2026-09-30T22:18:02Z |
-| 224 | [Nader Motee](batches/control-019.md#nader-motee) · Lehigh University | 75 (37/23/0/15) | unknown | 2026-09-30T23:49:33Z | 2026-09-30T23:52:09Z |
-| 225 | [Konstantinos Karydis](batches/control-028.md#konstantinos-karydis) · University of California, Riverside | 75 (37/23/0/15) | unknown | 2026-10-01T00:45:53Z | 2026-10-01T00:47:57Z |
-| 226 | [Kasthuri Jayarajah](batches/hri-043.md#kasthuri-jayarajah) · New Jersey Institute of Technology | 75 (37/23/0/15) | unknown | 2026-10-01T02:47:27Z | 2026-10-01T02:49:30Z |
-| 227 | [Antonio Loquercio](batches/embodied-001.md#antonio-loquercio) · University of Pennsylvania | 75 (36/25/0/14) | unknown | 2026-09-30T21:24:15Z | 2026-09-30T21:28:42Z |
-| 228 | [Stefano Carpin](batches/control-007.md#stefano-carpin) · University of California, Merced | 75 (36/25/0/14) | unknown | 2026-09-30T22:13:08Z | 2026-09-30T22:19:35Z |
-| 229 | [Stefanos Nikolaidis](batches/embodied-001.md#stefanos-nikolaidis) · University of Southern California | 75 (35/25/0/15) | unknown | 2026-09-30T21:21:59Z | 2026-09-30T21:28:42Z |
-| 230 | [Brian Scassellati](batches/hri-001.md#brian-scassellati) · Yale University | 75 (35/25/0/15) | unknown | 2026-09-30T21:22:28Z | 2026-09-30T22:33:54Z |
-| 231 | [Joohyung Kim](batches/embodied-002.md#joohyung-kim) · University of Illinois Urbana-Champaign | 75 (35/25/0/15) | unknown | 2026-09-30T21:33:44Z | 2026-09-30T21:36:36Z |
-| 232 | [Holly Yanco](batches/hri-003.md#holly-yanco) · University of Massachusetts Amherst | 75 (35/25/0/15) | unknown | 2026-09-30T21:36:25Z | 2026-09-30T21:42:22Z |
-| 233 | [Vasileios Tzoumas](batches/control-004.md#vasileios-tzoumas) · University of Michigan | 75 (35/25/0/15) | unknown | 2026-09-30T21:42:18Z | 2026-09-30T21:47:35Z |
-| 234 | [Jie Ying Wu](batches/embodied-007.md#jie-ying-wu) · Vanderbilt University | 75 (35/25/0/15) | unknown | 2026-09-30T22:07:56Z | 2026-09-30T22:18:19Z |
-| 235 | [Derek A. Paley](batches/control-007.md#derek-a-paley) · University of Maryland, College Park | 75 (35/25/0/15) | unknown | 2026-09-30T22:12:58Z | 2026-10-01T05:51:00Z |
-| 236 | [Jiangen He](batches/hri-024.md#jiangen-he) · University of Tennessee, Knoxville | 75 (35/25/0/15) | unknown | 2026-10-01T00:07:54Z | 2026-10-01T00:13:39Z |
-| 237 | [Carmel Majidi](batches/embodied-041.md#carmel-majidi) · Carnegie Mellon University | 75 (35/25/0/15) | unknown | 2026-10-01T01:56:41Z | 2026-10-01T01:59:06Z |
-| 238 | [David J. Cappelleri](batches/embodied-049.md#david-j-cappelleri) · Purdue University | 75 (35/25/0/15) | unknown | 2026-10-01T02:52:41Z | 2026-10-01T02:59:54Z |
-| 239 | [Ramana Kumar Vinjamuri](batches/hri-045.md#ramana-kumar-vinjamuri) · University of Maryland, Baltimore County | 75 (35/25/0/15) | unknown | 2026-10-01T02:57:55Z | 2026-10-01T03:01:30Z |
-| 240 | [Ryan L. Truby](batches/embodied-050.md#ryan-l-truby) · Northwestern University | 75 (35/25/0/15) | unknown | 2026-10-01T03:01:24Z | 2026-10-01T03:08:30Z |
-| 241 | [Pingping Zhu](batches/control-056.md#pingping-zhu) · Marshall University | 75 (35/25/0/15) | unknown | 2026-10-01T03:26:49Z | 2026-10-01T03:29:11Z |
-| 242 | [Christian Hubicki](batches/control-057.md#christian-hubicki) · Florida State University; FAMU-FSU College of Engineering | 75 (35/25/0/15) | unknown · FSU extended screening timeline | 2026-10-01T03:30:54Z | 2026-10-01T04:33:10Z |
-| 243 | [Zheng Chen](batches/control-064.md#zheng-chen) · University of Houston | 75 (35/25/0/15) | degree-only · dated 2018 recruitment | 2026-10-01T05:05:29Z | 2026-10-01T05:11:12Z |
-| 244 | [Mohsen Moghaddam](batches/embodied-066.md#mohsen-moghaddam) · Georgia Institute of Technology | 75 (35/25/0/15) | unknown | 2026-10-01T05:55:50Z | 2026-10-01T05:58:40Z |
-| 245 | [Wenlong Zhang](batches/control-005.md#wenlong-zhang) · Arizona State University | 74 (39/25/0/10) | precedent-only | 2026-09-30T21:52:12Z | 2026-09-30T22:01:01Z |
-| 246 | [Claire J. Tomlin](batches/control-003.md#claire-j-tomlin) · University of California, Berkeley | 74 (39/20/0/15) | unknown | 2026-09-30T21:22:05Z | 2026-09-30T21:38:05Z |
-| 247 | [Marco Pavone](batches/control-002.md#marco-pavone) · Stanford University | 74 (39/20/0/15) | unknown | 2026-09-30T21:22:33Z | 2026-09-30T21:31:39Z |
-| 248 | [Evangelos A. Theodorou](batches/control-003.md#evangelos-a-theodorou) · Georgia Institute of Technology | 74 (39/20/0/15) | unknown | 2026-09-30T21:28:35Z | 2026-09-30T21:38:05Z |
-| 249 | [Haimin Hu](batches/control-002.md#haimin-hu) · Johns Hopkins University | 74 (39/20/0/15) | unknown | 2026-09-30T21:28:41Z | 2026-09-30T21:31:39Z |
-| 250 | [Zhongzheng (Jason) Ren](batches/embodied-003.md#zhongzheng-jason-ren) · University of North Carolina at Chapel Hill | 74 (39/20/0/15) | unknown | 2026-09-30T21:37:18Z | 2026-09-30T21:42:30Z |
-| 251 | [Yorie Nakahira](batches/control-004.md#yorie-nakahira) · Carnegie Mellon University | 74 (39/20/0/15) | unknown | 2026-09-30T21:41:52Z | 2026-09-30T21:47:35Z |
-| 252 | [Cynthia Matuszek](batches/hri-004.md#cynthia-matuszek) · University of Maryland, Baltimore County | 74 (39/20/0/15) | unknown | 2026-09-30T21:44:02Z | 2026-09-30T21:50:22Z |
-| 253 | [Matthew Gombolay](batches/hri-005.md#matthew-gombolay) · Georgia Institute of Technology | 74 (39/20/0/15) | unknown | 2026-09-30T21:54:45Z | 2026-09-30T21:58:49Z |
-| 254 | [Kunal Garg](batches/control-005.md#kunal-garg) · Arizona State University | 74 (39/20/0/15) | unknown | 2026-09-30T21:55:56Z | 2026-09-30T22:01:01Z |
-| 255 | [Georgios Pavlakos](batches/embodied-006.md#georgios-pavlakos) · University of Texas at Austin | 74 (39/20/0/15) | unknown | 2026-09-30T22:00:50Z | 2026-09-30T22:06:50Z |
-| 256 | [M. Ani Hsieh](batches/control-007.md#m-ani-hsieh) · University of Pennsylvania | 74 (39/20/0/15) | unknown | 2026-09-30T22:13:08Z | 2026-09-30T22:19:35Z |
-| 257 | [Michael Kaess](batches/embodied-008.md#michael-kaess) · Carnegie Mellon University | 74 (39/20/0/15) | unknown | 2026-09-30T22:18:52Z | 2026-09-30T22:25:24Z |
-| 258 | [Maani Ghaffari](batches/control-012.md#maani-ghaffari) · University of Michigan | 74 (39/20/0/15) | unknown | 2026-09-30T22:44:01Z | 2026-09-30T22:50:43Z |
-| 259 | [Pratap Tokekar](batches/embodied-011.md#pratap-tokekar) · University of Maryland, College Park | 74 (39/20/0/15) | unknown | 2026-09-30T22:47:45Z | 2026-09-30T22:50:54Z |
-| 260 | [Wei Gao](batches/hri-012.md#wei-gao) · University of Pittsburgh | 74 (39/20/0/15) | unknown | 2026-09-30T22:57:49Z | 2026-09-30T23:00:27Z |
-| 261 | [Yanzhi Wang](batches/embodied-020.md#yanzhi-wang) · Northeastern University | 74 (39/20/0/15) | unknown | 2026-09-30T23:39:49Z | 2026-09-30T23:43:11Z |
-| 262 | [Cristian-Ioan Vasile](batches/control-020.md#cristian-ioan-vasile) · Lehigh University | 74 (39/20/0/15) | unknown | 2026-09-30T23:49:33Z | 2026-09-30T23:54:08Z |
-| 263 | [Quan Khanh Luu](batches/embodied-026.md#quan-khanh-luu) · University of Nebraska–Lincoln | 74 (39/20/0/15) | unknown | 2026-10-01T00:29:54Z | 2026-10-01T00:33:48Z |
-| 264 | [Tianlong Chen](batches/embodied-029.md#tianlong-chen) · University of North Carolina at Chapel Hill | 74 (39/20/0/15) | unknown | 2026-10-01T00:54:14Z | 2026-10-01T01:00:00Z |
-| 265 | [Nikolaus Correll](batches/control-030.md#nikolaus-correll) · University of Notre Dame | 74 (39/20/0/15) | unknown | 2026-10-01T01:12:36Z | 2026-10-01T01:14:01Z |
-| 266 | [Edward H. (Ted) Adelson](batches/embodied-040.md#edward-h-ted-adelson) · Massachusetts Institute of Technology | 74 (39/20/0/15) | unknown | 2026-10-01T01:42:31Z | 2026-10-01T01:45:40Z |
-| 267 | [Mengxue Hou](batches/control-035.md#mengxue-hou) · University of Notre Dame | 74 (39/20/0/15) | unknown | 2026-10-01T01:43:51Z | 2026-10-01T01:48:10Z |
-| 268 | [Joel W. Burdick](batches/control-037.md#joel-w-burdick) · California Institute of Technology | 74 (39/20/0/15) | unknown | 2026-10-01T01:50:13Z | 2026-10-01T01:54:35Z |
-| 269 | [Ersin Daş](batches/control-037.md#ersin-das) · Illinois Institute of Technology | 74 (39/20/0/15) | unknown | 2026-10-01T01:53:12Z | 2026-10-01T01:54:35Z |
-| 270 | [Sertac Karaman](batches/control-038.md#sertac-karaman) · Massachusetts Institute of Technology | 74 (39/20/0/15) | unknown | 2026-10-01T01:56:18Z | 2026-10-01T02:04:27Z |
-| 271 | [Vaibhav Unhelkar](batches/hri-041.md#vaibhav-unhelkar) · Rice University | 74 (39/20/0/15) | unknown · 仅具限制条件的项目入口 | 2026-10-01T02:33:38Z | 2026-10-01T02:35:57Z |
-| 272 | [Peizhu (Pam) Qian](batches/hri-042.md#peizhu-pam-qian) · University of Houston | 74 (39/20/0/15) | unknown | 2026-10-01T02:34:10Z | 2026-10-01T02:39:43Z |
-| 273 | [Vince Kurtz](batches/control-050.md#vince-kurtz) · DePaul University | 74 (39/20/0/15) | unknown | 2026-10-01T02:40:24Z | 2026-10-01T02:48:34Z |
-| 274 | [Ayonga Hereid](batches/control-052.md#ayonga-hereid) · The Ohio State University | 74 (39/20/0/15) | unknown | 2026-10-01T02:57:48Z | 2026-10-01T03:00:25Z |
-| 275 | [Abhishek Cauligi](batches/control-055.md#abhishek-cauligi) · Johns Hopkins University | 74 (39/20/0/15) | unknown | 2026-10-01T03:14:07Z | 2026-10-01T03:19:18Z |
-| 276 | [Joseph Moore](batches/control-055.md#joseph-moore) · Johns Hopkins University | 74 (39/20/0/15) | unknown | 2026-10-01T03:14:07Z | 2026-10-01T03:19:18Z |
-| 277 | [Yann LeCun](batches/embodied-055.md#yann-lecun) · New York University | 74 (39/20/0/15) | unknown | 2026-10-01T03:33:04Z | 2026-10-01T04:27:11Z |
-| 278 | [Alexandre M. Bayen](batches/control-062.md#alexandre-m-bayen) · University of California, Berkeley | 74 (39/20/0/15) | unknown | 2026-10-01T04:50:50Z | 2026-10-01T04:55:05Z |
-| 279 | [Kathleen Candon](batches/hri-061.md#kathleen-candon) · Skidmore College | 74 (39/20/0/15) | unknown · internal Skidmore summer program only | 2026-10-01T05:07:22Z | 2026-10-01T05:13:42Z |
-| 280 | [Manfred Huber](batches/control-065.md#manfred-huber) · University of Texas at Arlington | 74 (39/20/0/15) | unknown | 2026-10-01T05:14:23Z | 2026-10-01T05:21:20Z |
-| 281 | [Marcos Quiñones-Grueiro](batches/control-066.md#marcos-quinones-grueiro) · Vanderbilt University | 74 (39/20/0/15) | precedent-only | 2026-10-01T05:24:46Z | 2026-10-01T05:27:36Z |
-| 282 | [Biwei Huang](batches/embodied-064.md#biwei-huang) · University of California San Diego | 74 (39/20/0/15) | degree-only | 2026-10-01T05:38:50Z | 2026-10-01T05:43:18Z |
-| 283 | [Jonathan Francis](batches/hri-066.md#jonathan-francis) · Carnegie Mellon University | 74 (39/20/0/15) | degree-only · courtesy role, host authority unknown | 2026-10-01T05:45:03Z | 2026-10-01T05:48:29Z |
-| 284 | [Nikhil Chopra](batches/control-027.md#nikhil-chopra) · University of Maryland, College Park | 74 (37/23/0/14) | unknown | 2026-10-01T00:41:31Z | 2026-10-01T00:42:44Z |
-| 285 | [Morteza Lahijanian](batches/control-002.md#morteza-lahijanian) · University of Colorado Boulder | 74 (37/22/0/15) | unknown | 2026-09-30T21:28:26Z | 2026-09-30T21:31:39Z |
-| 286 | [Bradley Hayes](batches/hri-002.md#bradley-hayes) · University of Colorado Boulder | 74 (37/22/0/15) | unknown | 2026-09-30T21:29:12Z | 2026-09-30T21:35:06Z |
-| 287 | [Jia Deng](batches/embodied-003.md#jia-deng) · Princeton University | 74 (36/24/0/14) | unknown | 2026-09-30T21:38:32Z | 2026-09-30T21:42:30Z |
-| 288 | [Maja Matarić](batches/hri-001.md#maja-mataric) · University of Southern California | 74 (36/20/5/13) | inquiry-only | 2026-09-30T21:22:19Z | 2026-09-30T21:27:42Z |
-| 289 | [Cristina G. Wilson](batches/hri-006.md#cristina-g-wilson) · Oregon State University | 74 (35/24/0/15) | unknown | 2026-09-30T22:03:25Z | 2026-09-30T22:07:05Z |
-| 290 | [Naomi Fitter](batches/hri-002.md#naomi-fitter) · Oregon State University | 74 (34/25/0/15) | unknown | 2026-09-30T21:29:03Z | 2026-09-30T21:35:06Z |
-| 291 | [Sarah Sebo](batches/hri-002.md#sarah-sebo) · University of Kansas; continuing University of Chicago research affiliation | 74 (34/25/0/15) | unknown | 2026-09-30T21:29:03Z | 2026-09-30T21:35:06Z |
-| 292 | [David Feil-Seifer](batches/hri-003.md#david-feil-seifer) · University of Nevada, Reno | 74 (34/25/0/15) | unknown | 2026-09-30T21:36:25Z | 2026-09-30T21:42:22Z |
-| 293 | [Ziyun (Claude) Wang](batches/embodied-006.md#ziyun-claude-wang) · Johns Hopkins University | 74 (34/25/0/15) | unknown | 2026-09-30T22:00:23Z | 2026-09-30T22:06:50Z |
-| 294 | [Raj Korpan](batches/hri-021.md#raj-korpan) · Hunter College, City University of New York | 74 (34/25/0/15) | unknown | 2026-09-30T23:55:47Z | 2026-09-30T23:58:55Z |
-| 295 | [Michael W. Otte](batches/control-007.md#michael-w-otte) · University of Maryland, College Park | 74 (34/22/8/10) | inquiry-only · 必须有外部奖学金/奖项 | 2026-09-30T22:12:58Z | 2026-09-30T22:19:35Z |
-| 296 | [Shanshan Yao](batches/hri-065.md#shanshan-yao) · Stony Brook University | 74 (34/20/10/10) | inquiry-only · live external-degree invitation | 2026-10-01T05:37:53Z † | 2026-10-01T05:46:12Z |
-| 297 | [Chenfeng Xu](batches/embodied-003.md#chenfeng-xu) · The University of Texas at Austin | 73 (39/20/0/14) | unknown | 2026-09-30T21:37:18Z | 2026-09-30T21:42:30Z |
-| 298 | [Ranjay Krishna](batches/embodied-003.md#ranjay-krishna) · University of Washington | 73 (39/20/0/14) | unknown | 2026-09-30T21:37:51Z | 2026-09-30T21:42:30Z |
-| 299 | [Ashish Deshpande](batches/hri-007.md#ashish-deshpande) · University of Texas at Austin | 73 (38/25/0/10) | unknown | 2026-09-30T22:12:05Z | 2026-09-30T22:18:02Z |
-| 300 | [David Fridovich-Keil](batches/control-001.md#david-fridovich-keil) · University of Texas at Austin | 73 (38/20/0/15) | undergraduate-only | 2026-09-30T21:21:51Z | 2026-09-30T21:24:34Z |
-| 301 | [Jesse Thomason](batches/embodied-001.md#jesse-thomason) · Georgia Institute of Technology | 73 (38/20/0/15) | unknown | 2026-09-30T21:21:59Z | 2026-09-30T21:28:42Z |
-| 302 | [Giuseppe Loianno](batches/control-002.md#giuseppe-loianno) · University of California, Berkeley | 73 (38/20/0/15) | unknown | 2026-09-30T21:28:35Z | 2026-09-30T21:31:39Z |
-| 303 | [Karthik Mahadevan](batches/hri-003.md#karthik-mahadevan) · Massachusetts Institute of Technology (current postdoc); University of Texas at Austin (incoming Spring 2027) | 73 (38/20/0/15) | unknown | 2026-09-30T21:36:36Z | 2026-09-30T21:42:22Z |
-| 304 | [Na (Lina) Li](batches/control-004.md#na-lina-li) · Harvard University | 73 (38/20/0/15) | unknown | 2026-09-30T21:42:18Z | 2026-09-30T21:47:35Z |
-| 305 | [Liangyan Gui](batches/embodied-004.md#liangyan-gui) · University of Illinois Urbana-Champaign | 73 (38/20/0/15) | unknown | 2026-09-30T21:43:15Z | 2026-09-30T21:52:53Z |
-| 306 | [Robin Walters](batches/embodied-004.md#robin-walters) · Northeastern University | 73 (38/20/0/15) | unknown | 2026-09-30T21:47:40Z | 2026-09-30T21:52:53Z |
-| 307 | [Chen Feng](batches/embodied-006.md#chen-feng) · New York University | 73 (38/20/0/15) | unknown | 2026-09-30T22:02:43Z | 2026-09-30T22:06:50Z |
-| 308 | [Samuel Coogan](batches/control-006.md#samuel-coogan) · Georgia Institute of Technology | 73 (38/20/0/15) | unknown | 2026-09-30T22:04:48Z | 2026-09-30T22:08:52Z |
-| 309 | [Zhi Zheng](batches/hri-007.md#zhi-zheng) · University of Notre Dame | 73 (38/20/0/15) | unknown | 2026-09-30T22:10:50Z | 2026-09-30T22:18:02Z |
-| 310 | [Aaron M. Johnson](batches/embodied-008.md#aaron-m-johnson) · Carnegie Mellon University | 73 (38/20/0/15) | unknown | 2026-09-30T22:19:00Z | 2026-09-30T22:25:24Z |
-| 311 | [Zhiyu Huang](batches/embodied-012.md#zhiyu-huang) · North Carolina State University | 73 (38/20/0/15) | unknown | 2026-09-30T22:48:35Z | 2026-09-30T23:00:32Z |
-| 312 | [David J. Crandall](batches/hri-020.md#david-j-crandall) · Indiana University Bloomington | 73 (38/20/0/15) | precedent-only | 2026-09-30T23:50:26Z | 2026-09-30T23:56:17Z |
-| 313 | [Yaxin Hu](batches/hri-027.md#yaxin-hu) · William & Mary | 73 (38/20/0/15) | unknown | 2026-10-01T01:05:52Z | 2026-10-01T01:10:34Z |
-| 314 | [Hamed Hassani](batches/control-040.md#hamed-hassani) · University of Pennsylvania | 73 (38/20/0/15) | unknown | 2026-10-01T02:10:25Z | 2026-10-01T02:11:35Z |
-| 315 | [Mark R. Cutkosky](batches/control-042.md#mark-r-cutkosky) · Stanford University | 73 (38/20/0/15) | unknown | 2026-10-01T02:18:05Z | 2026-10-01T02:20:04Z |
-| 316 | [Jessica K. Hodgins](batches/embodied-044.md#jessica-k-hodgins) · Carnegie Mellon University | 73 (38/20/0/15) | unknown | 2026-10-01T02:23:20Z | 2026-10-01T02:26:17Z |
-| 317 | [Russell H. Taylor](batches/hri-047.md#russell-h-taylor) · Johns Hopkins University | 73 (38/20/0/15) | unknown | 2026-10-01T03:08:58Z | 2026-10-01T03:14:13Z |
-| 318 | [Jing Zhang](batches/embodied-053.md#jing-zhang) · New York University | 73 (38/20/0/15) | unknown · 2027机构与主办权限待确认 | 2026-10-01T03:24:16Z | 2026-10-01T04:31:16Z |
-| 319 | [Karen M. Feigh](batches/hri-051.md#karen-m-feigh) · Georgia Institute of Technology | 73 (38/20/0/15) | unknown | 2026-10-01T03:30:40Z | 2026-10-01T04:29:49Z |
+| 160 | [Reza Abiri](batches/hri-054.md#reza-abiri) · University of Rhode Island | 78 (38/25/0/15) | degree-only | 2026-10-01T04:31:46Z | 2026-10-01T04:33:06Z |
+| 161 | [Murat Arcak](batches/control-063.md#murat-arcak) · University of California, Berkeley | 78 (38/25/0/15) | unknown | 2026-10-01T04:56:23Z | 2026-10-01T05:00:30Z |
+| 162 | [Bin He](batches/hri-061.md#bin-he) · Carnegie Mellon University | 78 (38/25/0/15) | degree-only | 2026-10-01T05:07:29Z | 2026-10-01T05:13:42Z |
+| 163 | [Renato Mancuso](batches/control-066.md#renato-mancuso) · Boston University | 78 (38/25/0/15) | precedent-only | 2026-10-01T05:22:50Z † | 2026-10-01T05:27:36Z |
+| 164 | [Hyunglae Lee](batches/control-066.md#hyunglae-lee) · Arizona State University | 78 (38/25/0/15) | degree-only | 2026-10-01T05:24:13Z | 2026-10-01T05:27:36Z |
+| 165 | [Lirong Xiang](batches/embodied-030.md#lirong-xiang) · Cornell University | 78 (38/20/5/15) | conditional-inquiry · 要求正式交流或fellowship | 2026-10-01T01:00:42Z | 2026-10-01T01:05:41Z |
+| 166 | [Qianqian (Quinn) Wang](batches/embodied-032.md#qianqian-quinn-wang) · Harvard University | 78 (38/20/5/15) | conditional-inquiry · SEAS通常至少3个月，8周未确认 | 2026-10-01T01:10:51Z | 2026-10-01T01:17:39Z |
+| 167 | [Huaxiu Yao](batches/embodied-017.md#huaxiu-yao) · University of North Carolina at Chapel Hill | 78 (36/20/8/14) | inquiry-only | 2026-09-30T23:18:57Z | 2026-09-30T23:29:02Z |
+| 168 | [Abdeslam Boularias](batches/embodied-002.md#abdeslam-boularias) · Rutgers University | 77 (39/24/0/14) | unknown | 2026-09-30T21:29:26Z | 2026-09-30T21:36:36Z |
+| 169 | [Kostas E. Bekris](batches/embodied-005.md#kostas-e-bekris) · Rutgers University | 77 (38/25/0/14) | unknown | 2026-09-30T21:55:09Z | 2026-09-30T21:59:27Z |
+| 170 | [Jundong Liu](batches/control-029.md#jundong-liu) · Ohio University | 77 (38/25/0/14) | unknown | 2026-10-01T01:05:06Z | 2026-10-01T01:06:03Z |
+| 171 | [Xiaonan (Sean) Huang](batches/embodied-013.md#xiaonan-sean-huang) · University of Michigan, Ann Arbor | 77 (38/24/0/15) | unknown | 2026-09-30T23:01:23Z | 2026-09-30T23:06:18Z |
+| 172 | [Katia Sycara](batches/hri-032.md#katia-sycara) · Carnegie Mellon University | 77 (38/24/0/15) | unknown | 2026-10-01T01:35:53Z | 2026-10-01T01:38:52Z |
+| 173 | [He (Helen) Huang](batches/hri-039.md#he-helen-huang) · North Carolina State University / University of North Carolina at Chapel Hill | 77 (38/24/0/15) | unknown · NC State两个月与八周需区分 | 2026-10-01T02:18:24Z | 2026-10-01T02:21:06Z |
+| 174 | [Chien-Ming Huang](batches/hri-002.md#chien-ming-huang) · Johns Hopkins University | 77 (37/25/0/15) | unknown | 2026-09-30T21:28:48Z | 2026-09-30T21:35:06Z |
+| 175 | [Gaurav S. Sukhatme](batches/embodied-002.md#gaurav-s-sukhatme) · University of Southern California | 77 (37/25/0/15) | unknown | 2026-09-30T21:29:41Z | 2026-09-30T21:36:36Z |
+| 176 | [Angelique Taylor](batches/hri-003.md#angelique-taylor) · Cornell University, Cornell Tech | 77 (37/25/0/15) | unknown | 2026-09-30T21:36:19Z | 2026-09-30T21:42:22Z |
+| 177 | [Reid Simmons](batches/hri-004.md#reid-simmons) · Carnegie Mellon University | 77 (37/25/0/15) | unknown | 2026-09-30T21:44:02Z | 2026-09-30T21:50:22Z |
+| 178 | [Zhi Tan](batches/hri-005.md#zhi-tan) · Northeastern University | 77 (37/25/0/15) | unknown | 2026-09-30T21:48:28Z | 2026-09-30T21:58:49Z |
+| 179 | [Cindy M. Grimm](batches/hri-006.md#cindy-m-grimm) · Oregon State University | 77 (37/25/0/15) | unknown | 2026-09-30T22:03:25Z | 2026-09-30T22:07:05Z |
+| 180 | [Yashwanth Kumar Nakka](batches/control-006.md#yashwanth-kumar-nakka) · Georgia Institute of Technology | 77 (37/25/0/15) | unknown | 2026-09-30T22:04:58Z | 2026-09-30T22:08:52Z |
+| 181 | [Yanran Ding](batches/embodied-013.md#yanran-ding) · University of Michigan, Ann Arbor | 77 (37/25/0/15) | unknown | 2026-09-30T23:01:06Z | 2026-09-30T23:06:18Z |
+| 182 | [David Saldaña](batches/control-022.md#david-saldana) · Lehigh University | 77 (37/25/0/15) | unknown | 2026-10-01T00:01:03Z | 2026-10-01T00:05:19Z |
+| 183 | [Juan Rojas](batches/hri-026.md#juan-rojas) · Lipscomb University | 77 (37/25/0/15) | unknown | 2026-10-01T01:00:00Z | 2026-10-01T01:02:08Z |
+| 184 | [Nancy Pollard](batches/hri-034.md#nancy-pollard) · Carnegie Mellon University | 77 (37/25/0/15) | unknown | 2026-10-01T01:44:44Z | 2026-10-01T01:47:01Z |
+| 185 | [Kaveh Akbari Hamed](batches/control-049.md#kaveh-akbari-hamed) · Virginia Tech | 77 (37/25/0/15) | unknown | 2026-10-01T02:40:24Z | 2026-10-01T02:47:23Z |
+| 186 | [Silvia Ferrari](batches/control-056.md#silvia-ferrari) · Cornell University | 77 (37/25/0/15) | unknown | 2026-10-01T03:21:37Z † | 2026-10-01T03:29:11Z |
+| 187 | [John T. Wen](batches/control-060.md#john-t-wen) · Rensselaer Polytechnic Institute | 77 (37/25/0/15) | precedent-only | 2026-10-01T04:34:09Z | 2026-10-01T04:36:46Z |
+| 188 | [José L. Pons](batches/hri-057.md#jose-l-pons) · Northwestern University; Shirley Ryan AbilityLab | 77 (37/25/0/15) | unknown | 2026-10-01T04:40:28Z | 2026-10-01T05:07:02Z |
+| 189 | [Sanjit A. Seshia](batches/control-063.md#sanjit-a-seshia) · University of California, Berkeley | 77 (37/25/0/15) | unknown | 2026-10-01T04:50:50Z | 2026-10-01T05:00:30Z |
+| 190 | [Jose Luis Contreras-Vidal](batches/hri-060.md#jose-luis-contreras-vidal) · University of Houston | 77 (37/25/0/15) | unknown · separate 2026 NSAP restrictions | 2026-10-01T05:01:59Z | 2026-10-01T06:02:05Z |
+| 191 | [José del R. Millán](batches/hri-060.md#jose-del-r-millan) · The University of Texas at Austin | 77 (37/25/0/15) | unknown | 2026-10-01T05:01:59Z | 2026-10-01T06:02:05Z |
+| 192 | [Jun Nishida](batches/hri-052.md#jun-nishida) · University of Maryland, College Park | 77 (34/23/5/15) | inquiry-only · student appointment category unresolved | 2026-10-01T03:36:49Z | 2026-10-01T04:34:22Z |
+| 193 | [Yi Guo](batches/control-015.md#yi-guo) · Stevens Institute of Technology | 76 (37/25/0/14) | unknown | 2026-09-30T23:19:58Z | 2026-09-30T23:27:35Z |
+| 194 | [Bilge Mutlu](batches/hri-001.md#bilge-mutlu) · University of Wisconsin–Madison | 76 (37/24/0/15) | unknown | 2026-09-30T21:22:12Z | 2026-09-30T21:27:42Z |
+| 195 | [Rahul Mangharam](batches/control-003.md#rahul-mangharam) · University of Pennsylvania | 76 (37/24/0/15) | unknown | 2026-09-30T21:34:55Z | 2026-09-30T21:38:05Z |
+| 196 | [Sebastian Scherer](batches/embodied-008.md#sebastian-scherer) · Carnegie Mellon University | 76 (37/24/0/15) | unknown | 2026-09-30T22:19:00Z | 2026-10-01T03:10:43Z |
+| 197 | [Patrick Slade](batches/hri-008.md#patrick-slade) · Harvard University | 76 (37/24/0/15) | unknown | 2026-09-30T22:22:12Z | 2026-09-30T22:26:44Z |
+| 198 | [Alex Wong](batches/embodied-006.md#alex-wong) · Yale University | 76 (37/20/5/14) | indexed-inquiry-unconfirmed · Yale VAR条件 | 2026-09-30T22:00:12Z | 2026-09-30T22:06:50Z |
+| 199 | [Yifan Zhu](batches/embodied-006.md#yifan-zhu) · University of Illinois Chicago | 76 (37/20/9/10) | inquiry-only | 2026-09-30T22:00:12Z | 2026-09-30T22:47:41Z |
+| 200 | [Heather Culbertson](batches/hri-004.md#heather-culbertson) · University of Southern California | 76 (36/25/0/15) | unknown | 2026-09-30T21:44:29Z | 2026-09-30T21:50:22Z |
+| 201 | [Tsung-Chi Lin](batches/hri-023.md#tsung-chi-lin) · New Jersey Institute of Technology | 76 (36/25/0/15) | unknown | 2026-10-01T00:07:54Z | 2026-10-01T00:08:52Z |
+| 202 | [Pranav Bhounsule](batches/hri-031.md#pranav-bhounsule) · University of Illinois Chicago | 76 (36/25/0/15) | unknown | 2026-10-01T01:35:38Z | 2026-10-01T01:37:01Z |
+| 203 | [Nirmalya Roy](batches/hri-044.md#nirmalya-roy) · University of Maryland, Baltimore County | 76 (36/25/0/15) | unknown | 2026-10-01T02:50:49Z | 2026-10-01T02:56:33Z |
+| 204 | [Jong-Hoon Kim](batches/hri-053.md#jong-hoon-kim) · Kent State University | 76 (36/25/0/15) | precedent-only | 2026-10-01T04:26:05Z | 2026-10-01T04:27:25Z |
+| 205 | [Rushikesh L. Kamalapurkar](batches/control-059.md#rushikesh-l-kamalapurkar) · University of Florida | 76 (36/25/0/15) | degree-only | 2026-10-01T04:28:50Z | 2026-10-01T04:37:50Z |
+| 206 | [Cynthia A. Chestek](batches/hri-059.md#cynthia-a-chestek) · University of Michigan–Ann Arbor | 76 (36/25/0/15) | degree-only | 2026-10-01T04:50:35Z | 2026-10-01T05:00:15Z |
+| 207 | [Stephanie Gil](batches/control-062.md#stephanie-gil) · Harvard University | 76 (36/25/0/15) | precedent-only · Harvard normally at least 3 months | 2026-10-01T04:51:54Z † | 2026-10-01T05:07:02Z |
+| 208 | [Carol C. Menassa](batches/embodied-063.md#carol-c-menassa) · University of Michigan, Ann Arbor | 76 (36/25/0/15) | unknown | 2026-10-01T05:32:59Z | 2026-10-01T05:35:01Z |
+| 209 | [Geng Yuan](batches/embodied-020.md#geng-yuan) · University of Georgia | 76 (36/20/5/15) | inquiry-only | 2026-09-30T23:39:49Z | 2026-09-30T23:43:11Z |
+| 210 | [Glen Chou](batches/control-006.md#glen-chou) · Georgia Institute of Technology | 75 (40/20/0/15) | unknown | 2026-09-30T22:04:48Z | 2026-09-30T22:08:52Z |
+| 211 | [Maria Kyrarini](batches/hri-008.md#maria-kyrarini) · Santa Clara University | 75 (40/20/0/15) | unknown | 2026-09-30T22:23:11Z | 2026-09-30T22:26:44Z |
+| 212 | [Yan Yan](batches/embodied-016.md#yan-yan) · University of Illinois Chicago | 75 (40/20/0/15) | unknown | 2026-09-30T23:11:28Z | 2026-09-30T23:22:19Z |
+| 213 | [Haozhi Qi](batches/embodied-022.md#haozhi-qi) · University of Chicago (incoming January 2027) | 75 (40/20/0/15) | unknown · 2027年1月入职，实验室待确认 | 2026-09-30T23:51:05Z | 2026-09-30T23:58:03Z |
+| 214 | [Ruoshi Liu](batches/embodied-027.md#ruoshi-liu) · University of Maryland, College Park | 75 (40/20/0/15) | unknown | 2026-10-01T00:31:06Z | 2026-10-01T00:46:00Z |
+| 215 | [Lillian J. Ratliff](batches/control-031.md#lillian-j-ratliff) · University of Washington | 75 (40/20/0/15) | unknown | 2026-10-01T01:19:06Z | 2026-10-01T01:20:49Z |
+| 216 | [Sherry Yang](batches/embodied-054.md#sherry-yang) · New York University | 75 (40/20/0/15) | precedent-only | 2026-10-01T03:30:02Z | 2026-10-01T04:31:16Z |
+| 217 | [Qi Zhu](batches/embodied-059.md#qi-zhu) · Northwestern University | 75 (40/20/0/15) | precedent-only | 2026-10-01T04:38:47Z | 2026-10-01T05:04:19Z |
+| 218 | [Deva Ramanan](batches/embodied-062.md#deva-ramanan) · Carnegie Mellon University | 75 (40/20/0/15) | precedent-only | 2026-10-01T05:11:17Z | 2026-10-01T05:20:34Z |
+| 219 | [Nikolay A. Atanasov](batches/control-002.md#nikolay-a-atanasov) · University of California, San Diego | 75 (38/22/0/15) | precedent-only | 2026-09-30T21:28:35Z | 2026-09-30T21:31:39Z |
+| 220 | [Dimitra Panagou](batches/control-003.md#dimitra-panagou) · University of Michigan | 75 (38/22/0/15) | unknown | 2026-09-30T21:34:55Z | 2026-09-30T21:38:05Z |
+| 221 | [Daniel Szafir](batches/hri-003.md#daniel-szafir) · University of North Carolina at Chapel Hill | 75 (37/23/0/15) | unknown | 2026-09-30T21:36:36Z | 2026-09-30T21:42:22Z |
+| 222 | [R. Brent Gillespie](batches/hri-007.md#r-brent-gillespie) · University of Michigan | 75 (37/23/0/15) | unknown | 2026-09-30T22:11:06Z | 2026-09-30T22:18:02Z |
+| 223 | [Nader Motee](batches/control-019.md#nader-motee) · Lehigh University | 75 (37/23/0/15) | unknown | 2026-09-30T23:49:33Z | 2026-09-30T23:52:09Z |
+| 224 | [Konstantinos Karydis](batches/control-028.md#konstantinos-karydis) · University of California, Riverside | 75 (37/23/0/15) | unknown | 2026-10-01T00:45:53Z | 2026-10-01T00:47:57Z |
+| 225 | [Kasthuri Jayarajah](batches/hri-043.md#kasthuri-jayarajah) · New Jersey Institute of Technology | 75 (37/23/0/15) | unknown | 2026-10-01T02:47:27Z | 2026-10-01T02:49:30Z |
+| 226 | [Antonio Loquercio](batches/embodied-001.md#antonio-loquercio) · University of Pennsylvania | 75 (36/25/0/14) | unknown | 2026-09-30T21:24:15Z | 2026-09-30T21:28:42Z |
+| 227 | [Stefano Carpin](batches/control-007.md#stefano-carpin) · University of California, Merced | 75 (36/25/0/14) | unknown | 2026-09-30T22:13:08Z | 2026-09-30T22:19:35Z |
+| 228 | [Stefanos Nikolaidis](batches/embodied-001.md#stefanos-nikolaidis) · University of Southern California | 75 (35/25/0/15) | unknown | 2026-09-30T21:21:59Z | 2026-09-30T21:28:42Z |
+| 229 | [Brian Scassellati](batches/hri-001.md#brian-scassellati) · Yale University | 75 (35/25/0/15) | unknown | 2026-09-30T21:22:28Z | 2026-09-30T22:33:54Z |
+| 230 | [Joohyung Kim](batches/embodied-002.md#joohyung-kim) · University of Illinois Urbana-Champaign | 75 (35/25/0/15) | unknown | 2026-09-30T21:33:44Z | 2026-09-30T21:36:36Z |
+| 231 | [Holly Yanco](batches/hri-003.md#holly-yanco) · University of Massachusetts Amherst | 75 (35/25/0/15) | unknown | 2026-09-30T21:36:25Z | 2026-09-30T21:42:22Z |
+| 232 | [Vasileios Tzoumas](batches/control-004.md#vasileios-tzoumas) · University of Michigan | 75 (35/25/0/15) | unknown | 2026-09-30T21:42:18Z | 2026-09-30T21:47:35Z |
+| 233 | [Jie Ying Wu](batches/embodied-007.md#jie-ying-wu) · Vanderbilt University | 75 (35/25/0/15) | unknown | 2026-09-30T22:07:56Z | 2026-09-30T22:18:19Z |
+| 234 | [Derek A. Paley](batches/control-007.md#derek-a-paley) · University of Maryland, College Park | 75 (35/25/0/15) | unknown | 2026-09-30T22:12:58Z | 2026-10-01T05:51:00Z |
+| 235 | [Jiangen He](batches/hri-024.md#jiangen-he) · University of Tennessee, Knoxville | 75 (35/25/0/15) | unknown | 2026-10-01T00:07:54Z | 2026-10-01T00:13:39Z |
+| 236 | [Carmel Majidi](batches/embodied-041.md#carmel-majidi) · Carnegie Mellon University | 75 (35/25/0/15) | unknown | 2026-10-01T01:56:41Z | 2026-10-01T01:59:06Z |
+| 237 | [David J. Cappelleri](batches/embodied-049.md#david-j-cappelleri) · Purdue University | 75 (35/25/0/15) | unknown | 2026-10-01T02:52:41Z | 2026-10-01T02:59:54Z |
+| 238 | [Ramana Kumar Vinjamuri](batches/hri-045.md#ramana-kumar-vinjamuri) · University of Maryland, Baltimore County | 75 (35/25/0/15) | unknown | 2026-10-01T02:57:55Z | 2026-10-01T03:01:30Z |
+| 239 | [Ryan L. Truby](batches/embodied-050.md#ryan-l-truby) · Northwestern University | 75 (35/25/0/15) | unknown | 2026-10-01T03:01:24Z | 2026-10-01T03:08:30Z |
+| 240 | [Pingping Zhu](batches/control-056.md#pingping-zhu) · Marshall University | 75 (35/25/0/15) | unknown | 2026-10-01T03:26:49Z | 2026-10-01T03:29:11Z |
+| 241 | [Christian Hubicki](batches/control-057.md#christian-hubicki) · Florida State University; FAMU-FSU College of Engineering | 75 (35/25/0/15) | unknown · FSU extended screening timeline | 2026-10-01T03:30:54Z | 2026-10-01T04:33:10Z |
+| 242 | [Zheng Chen](batches/control-064.md#zheng-chen) · University of Houston | 75 (35/25/0/15) | degree-only · dated 2018 recruitment | 2026-10-01T05:05:29Z | 2026-10-01T05:11:12Z |
+| 243 | [Mohsen Moghaddam](batches/embodied-066.md#mohsen-moghaddam) · Georgia Institute of Technology | 75 (35/25/0/15) | unknown | 2026-10-01T05:55:50Z | 2026-10-01T05:58:40Z |
+| 244 | [Wenlong Zhang](batches/control-005.md#wenlong-zhang) · Arizona State University | 74 (39/25/0/10) | precedent-only | 2026-09-30T21:52:12Z | 2026-09-30T22:01:01Z |
+| 245 | [Claire J. Tomlin](batches/control-003.md#claire-j-tomlin) · University of California, Berkeley | 74 (39/20/0/15) | unknown | 2026-09-30T21:22:05Z | 2026-09-30T21:38:05Z |
+| 246 | [Marco Pavone](batches/control-002.md#marco-pavone) · Stanford University | 74 (39/20/0/15) | unknown | 2026-09-30T21:22:33Z | 2026-09-30T21:31:39Z |
+| 247 | [Evangelos A. Theodorou](batches/control-003.md#evangelos-a-theodorou) · Georgia Institute of Technology | 74 (39/20/0/15) | unknown | 2026-09-30T21:28:35Z | 2026-09-30T21:38:05Z |
+| 248 | [Haimin Hu](batches/control-002.md#haimin-hu) · Johns Hopkins University | 74 (39/20/0/15) | unknown | 2026-09-30T21:28:41Z | 2026-09-30T21:31:39Z |
+| 249 | [Zhongzheng (Jason) Ren](batches/embodied-003.md#zhongzheng-jason-ren) · University of North Carolina at Chapel Hill | 74 (39/20/0/15) | unknown | 2026-09-30T21:37:18Z | 2026-09-30T21:42:30Z |
+| 250 | [Yorie Nakahira](batches/control-004.md#yorie-nakahira) · Carnegie Mellon University | 74 (39/20/0/15) | unknown | 2026-09-30T21:41:52Z | 2026-09-30T21:47:35Z |
+| 251 | [Cynthia Matuszek](batches/hri-004.md#cynthia-matuszek) · University of Maryland, Baltimore County | 74 (39/20/0/15) | unknown | 2026-09-30T21:44:02Z | 2026-09-30T21:50:22Z |
+| 252 | [Matthew Gombolay](batches/hri-005.md#matthew-gombolay) · Georgia Institute of Technology | 74 (39/20/0/15) | unknown | 2026-09-30T21:54:45Z | 2026-09-30T21:58:49Z |
+| 253 | [Kunal Garg](batches/control-005.md#kunal-garg) · Arizona State University | 74 (39/20/0/15) | unknown | 2026-09-30T21:55:56Z | 2026-09-30T22:01:01Z |
+| 254 | [Georgios Pavlakos](batches/embodied-006.md#georgios-pavlakos) · University of Texas at Austin | 74 (39/20/0/15) | unknown | 2026-09-30T22:00:50Z | 2026-09-30T22:06:50Z |
+| 255 | [M. Ani Hsieh](batches/control-007.md#m-ani-hsieh) · University of Pennsylvania | 74 (39/20/0/15) | unknown | 2026-09-30T22:13:08Z | 2026-09-30T22:19:35Z |
+| 256 | [Michael Kaess](batches/embodied-008.md#michael-kaess) · Carnegie Mellon University | 74 (39/20/0/15) | unknown | 2026-09-30T22:18:52Z | 2026-09-30T22:25:24Z |
+| 257 | [Maani Ghaffari](batches/control-012.md#maani-ghaffari) · University of Michigan | 74 (39/20/0/15) | unknown | 2026-09-30T22:44:01Z | 2026-09-30T22:50:43Z |
+| 258 | [Pratap Tokekar](batches/embodied-011.md#pratap-tokekar) · University of Maryland, College Park | 74 (39/20/0/15) | unknown | 2026-09-30T22:47:45Z | 2026-09-30T22:50:54Z |
+| 259 | [Wei Gao](batches/hri-012.md#wei-gao) · University of Pittsburgh | 74 (39/20/0/15) | unknown | 2026-09-30T22:57:49Z | 2026-09-30T23:00:27Z |
+| 260 | [Yanzhi Wang](batches/embodied-020.md#yanzhi-wang) · Northeastern University | 74 (39/20/0/15) | unknown | 2026-09-30T23:39:49Z | 2026-09-30T23:43:11Z |
+| 261 | [Cristian-Ioan Vasile](batches/control-020.md#cristian-ioan-vasile) · Lehigh University | 74 (39/20/0/15) | unknown | 2026-09-30T23:49:33Z | 2026-09-30T23:54:08Z |
+| 262 | [Quan Khanh Luu](batches/embodied-026.md#quan-khanh-luu) · University of Nebraska–Lincoln | 74 (39/20/0/15) | unknown | 2026-10-01T00:29:54Z | 2026-10-01T00:33:48Z |
+| 263 | [Tianlong Chen](batches/embodied-029.md#tianlong-chen) · University of North Carolina at Chapel Hill | 74 (39/20/0/15) | unknown | 2026-10-01T00:54:14Z | 2026-10-01T01:00:00Z |
+| 264 | [Nikolaus Correll](batches/control-030.md#nikolaus-correll) · University of Notre Dame | 74 (39/20/0/15) | unknown | 2026-10-01T01:12:36Z | 2026-10-01T01:14:01Z |
+| 265 | [Edward H. (Ted) Adelson](batches/embodied-040.md#edward-h-ted-adelson) · Massachusetts Institute of Technology | 74 (39/20/0/15) | unknown | 2026-10-01T01:42:31Z | 2026-10-01T01:45:40Z |
+| 266 | [Mengxue Hou](batches/control-035.md#mengxue-hou) · University of Notre Dame | 74 (39/20/0/15) | unknown | 2026-10-01T01:43:51Z | 2026-10-01T01:48:10Z |
+| 267 | [Joel W. Burdick](batches/control-037.md#joel-w-burdick) · California Institute of Technology | 74 (39/20/0/15) | unknown | 2026-10-01T01:50:13Z | 2026-10-01T01:54:35Z |
+| 268 | [Ersin Daş](batches/control-037.md#ersin-das) · Illinois Institute of Technology | 74 (39/20/0/15) | unknown | 2026-10-01T01:53:12Z | 2026-10-01T01:54:35Z |
+| 269 | [Sertac Karaman](batches/control-038.md#sertac-karaman) · Massachusetts Institute of Technology | 74 (39/20/0/15) | unknown | 2026-10-01T01:56:18Z | 2026-10-01T02:04:27Z |
+| 270 | [Vaibhav Unhelkar](batches/hri-041.md#vaibhav-unhelkar) · Rice University | 74 (39/20/0/15) | unknown · 仅具限制条件的项目入口 | 2026-10-01T02:33:38Z | 2026-10-01T02:35:57Z |
+| 271 | [Peizhu (Pam) Qian](batches/hri-042.md#peizhu-pam-qian) · University of Houston | 74 (39/20/0/15) | unknown | 2026-10-01T02:34:10Z | 2026-10-01T02:39:43Z |
+| 272 | [Vince Kurtz](batches/control-050.md#vince-kurtz) · DePaul University | 74 (39/20/0/15) | unknown | 2026-10-01T02:40:24Z | 2026-10-01T02:48:34Z |
+| 273 | [Ayonga Hereid](batches/control-052.md#ayonga-hereid) · The Ohio State University | 74 (39/20/0/15) | unknown | 2026-10-01T02:57:48Z | 2026-10-01T03:00:25Z |
+| 274 | [Abhishek Cauligi](batches/control-055.md#abhishek-cauligi) · Johns Hopkins University | 74 (39/20/0/15) | unknown | 2026-10-01T03:14:07Z | 2026-10-01T03:19:18Z |
+| 275 | [Joseph Moore](batches/control-055.md#joseph-moore) · Johns Hopkins University | 74 (39/20/0/15) | unknown | 2026-10-01T03:14:07Z | 2026-10-01T03:19:18Z |
+| 276 | [Yann LeCun](batches/embodied-055.md#yann-lecun) · New York University | 74 (39/20/0/15) | unknown | 2026-10-01T03:33:04Z | 2026-10-01T04:27:11Z |
+| 277 | [Alexandre M. Bayen](batches/control-062.md#alexandre-m-bayen) · University of California, Berkeley | 74 (39/20/0/15) | unknown | 2026-10-01T04:50:50Z | 2026-10-01T04:55:05Z |
+| 278 | [Kathleen Candon](batches/hri-061.md#kathleen-candon) · Skidmore College | 74 (39/20/0/15) | unknown · internal Skidmore summer program only | 2026-10-01T05:07:22Z | 2026-10-01T05:13:42Z |
+| 279 | [Manfred Huber](batches/control-065.md#manfred-huber) · University of Texas at Arlington | 74 (39/20/0/15) | unknown | 2026-10-01T05:14:23Z | 2026-10-01T05:21:20Z |
+| 280 | [Marcos Quiñones-Grueiro](batches/control-066.md#marcos-quinones-grueiro) · Vanderbilt University | 74 (39/20/0/15) | precedent-only | 2026-10-01T05:24:46Z | 2026-10-01T05:27:36Z |
+| 281 | [Biwei Huang](batches/embodied-064.md#biwei-huang) · University of California San Diego | 74 (39/20/0/15) | degree-only | 2026-10-01T05:38:50Z | 2026-10-01T05:43:18Z |
+| 282 | [Jonathan Francis](batches/hri-066.md#jonathan-francis) · Carnegie Mellon University | 74 (39/20/0/15) | degree-only · courtesy role, host authority unknown | 2026-10-01T05:45:03Z | 2026-10-01T05:48:29Z |
+| 283 | [Nikhil Chopra](batches/control-027.md#nikhil-chopra) · University of Maryland, College Park | 74 (37/23/0/14) | unknown | 2026-10-01T00:41:31Z | 2026-10-01T00:42:44Z |
+| 284 | [Morteza Lahijanian](batches/control-002.md#morteza-lahijanian) · University of Colorado Boulder | 74 (37/22/0/15) | unknown | 2026-09-30T21:28:26Z | 2026-09-30T21:31:39Z |
+| 285 | [Bradley Hayes](batches/hri-002.md#bradley-hayes) · University of Colorado Boulder | 74 (37/22/0/15) | unknown | 2026-09-30T21:29:12Z | 2026-09-30T21:35:06Z |
+| 286 | [Jia Deng](batches/embodied-003.md#jia-deng) · Princeton University | 74 (36/24/0/14) | unknown | 2026-09-30T21:38:32Z | 2026-09-30T21:42:30Z |
+| 287 | [Maja Matarić](batches/hri-001.md#maja-mataric) · University of Southern California | 74 (36/20/5/13) | inquiry-only | 2026-09-30T21:22:19Z | 2026-09-30T21:27:42Z |
+| 288 | [Cristina G. Wilson](batches/hri-006.md#cristina-g-wilson) · Oregon State University | 74 (35/24/0/15) | unknown | 2026-09-30T22:03:25Z | 2026-09-30T22:07:05Z |
+| 289 | [Naomi Fitter](batches/hri-002.md#naomi-fitter) · Oregon State University | 74 (34/25/0/15) | unknown | 2026-09-30T21:29:03Z | 2026-09-30T21:35:06Z |
+| 290 | [Sarah Sebo](batches/hri-002.md#sarah-sebo) · University of Kansas; continuing University of Chicago research affiliation | 74 (34/25/0/15) | unknown | 2026-09-30T21:29:03Z | 2026-09-30T21:35:06Z |
+| 291 | [David Feil-Seifer](batches/hri-003.md#david-feil-seifer) · University of Nevada, Reno | 74 (34/25/0/15) | unknown | 2026-09-30T21:36:25Z | 2026-09-30T21:42:22Z |
+| 292 | [Ziyun (Claude) Wang](batches/embodied-006.md#ziyun-claude-wang) · Johns Hopkins University | 74 (34/25/0/15) | unknown | 2026-09-30T22:00:23Z | 2026-09-30T22:06:50Z |
+| 293 | [Raj Korpan](batches/hri-021.md#raj-korpan) · Hunter College, City University of New York | 74 (34/25/0/15) | unknown | 2026-09-30T23:55:47Z | 2026-09-30T23:58:55Z |
+| 294 | [Michael W. Otte](batches/control-007.md#michael-w-otte) · University of Maryland, College Park | 74 (34/22/8/10) | inquiry-only · 必须有外部奖学金/奖项 | 2026-09-30T22:12:58Z | 2026-09-30T22:19:35Z |
+| 295 | [Shanshan Yao](batches/hri-065.md#shanshan-yao) · Stony Brook University | 74 (34/20/10/10) | inquiry-only · live external-degree invitation | 2026-10-01T05:37:53Z † | 2026-10-01T05:46:12Z |
+| 296 | [Chenfeng Xu](batches/embodied-003.md#chenfeng-xu) · The University of Texas at Austin | 73 (39/20/0/14) | unknown | 2026-09-30T21:37:18Z | 2026-09-30T21:42:30Z |
+| 297 | [Ranjay Krishna](batches/embodied-003.md#ranjay-krishna) · University of Washington | 73 (39/20/0/14) | unknown | 2026-09-30T21:37:51Z | 2026-09-30T21:42:30Z |
+| 298 | [Ashish Deshpande](batches/hri-007.md#ashish-deshpande) · University of Texas at Austin | 73 (38/25/0/10) | unknown | 2026-09-30T22:12:05Z | 2026-09-30T22:18:02Z |
+| 299 | [David Fridovich-Keil](batches/control-001.md#david-fridovich-keil) · University of Texas at Austin | 73 (38/20/0/15) | undergraduate-only | 2026-09-30T21:21:51Z | 2026-09-30T21:24:34Z |
+| 300 | [Jesse Thomason](batches/embodied-001.md#jesse-thomason) · Georgia Institute of Technology | 73 (38/20/0/15) | unknown | 2026-09-30T21:21:59Z | 2026-09-30T21:28:42Z |
+| 301 | [Giuseppe Loianno](batches/control-002.md#giuseppe-loianno) · University of California, Berkeley | 73 (38/20/0/15) | unknown | 2026-09-30T21:28:35Z | 2026-09-30T21:31:39Z |
+| 302 | [Karthik Mahadevan](batches/hri-003.md#karthik-mahadevan) · Massachusetts Institute of Technology (current postdoc); University of Texas at Austin (incoming Spring 2027) | 73 (38/20/0/15) | unknown | 2026-09-30T21:36:36Z | 2026-09-30T21:42:22Z |
+| 303 | [Na (Lina) Li](batches/control-004.md#na-lina-li) · Harvard University | 73 (38/20/0/15) | unknown | 2026-09-30T21:42:18Z | 2026-09-30T21:47:35Z |
+| 304 | [Liangyan Gui](batches/embodied-004.md#liangyan-gui) · University of Illinois Urbana-Champaign | 73 (38/20/0/15) | unknown | 2026-09-30T21:43:15Z | 2026-09-30T21:52:53Z |
+| 305 | [Robin Walters](batches/embodied-004.md#robin-walters) · Northeastern University | 73 (38/20/0/15) | unknown | 2026-09-30T21:47:40Z | 2026-09-30T21:52:53Z |
+| 306 | [Chen Feng](batches/embodied-006.md#chen-feng) · New York University | 73 (38/20/0/15) | unknown | 2026-09-30T22:02:43Z | 2026-09-30T22:06:50Z |
+| 307 | [Samuel Coogan](batches/control-006.md#samuel-coogan) · Georgia Institute of Technology | 73 (38/20/0/15) | unknown | 2026-09-30T22:04:48Z | 2026-09-30T22:08:52Z |
+| 308 | [Zhi Zheng](batches/hri-007.md#zhi-zheng) · University of Notre Dame | 73 (38/20/0/15) | unknown | 2026-09-30T22:10:50Z | 2026-09-30T22:18:02Z |
+| 309 | [Aaron M. Johnson](batches/embodied-008.md#aaron-m-johnson) · Carnegie Mellon University | 73 (38/20/0/15) | unknown | 2026-09-30T22:19:00Z | 2026-09-30T22:25:24Z |
+| 310 | [Zhiyu Huang](batches/embodied-012.md#zhiyu-huang) · North Carolina State University | 73 (38/20/0/15) | unknown | 2026-09-30T22:48:35Z | 2026-09-30T23:00:32Z |
+| 311 | [David J. Crandall](batches/hri-020.md#david-j-crandall) · Indiana University Bloomington | 73 (38/20/0/15) | precedent-only | 2026-09-30T23:50:26Z | 2026-09-30T23:56:17Z |
+| 312 | [Yaxin Hu](batches/hri-027.md#yaxin-hu) · William & Mary | 73 (38/20/0/15) | unknown | 2026-10-01T01:05:52Z | 2026-10-01T01:10:34Z |
+| 313 | [Hamed Hassani](batches/control-040.md#hamed-hassani) · University of Pennsylvania | 73 (38/20/0/15) | unknown | 2026-10-01T02:10:25Z | 2026-10-01T02:11:35Z |
+| 314 | [Mark R. Cutkosky](batches/control-042.md#mark-r-cutkosky) · Stanford University | 73 (38/20/0/15) | unknown | 2026-10-01T02:18:05Z | 2026-10-01T02:20:04Z |
+| 315 | [Jessica K. Hodgins](batches/embodied-044.md#jessica-k-hodgins) · Carnegie Mellon University | 73 (38/20/0/15) | unknown | 2026-10-01T02:23:20Z | 2026-10-01T02:26:17Z |
+| 316 | [Russell H. Taylor](batches/hri-047.md#russell-h-taylor) · Johns Hopkins University | 73 (38/20/0/15) | unknown | 2026-10-01T03:08:58Z | 2026-10-01T03:14:13Z |
+| 317 | [Jing Zhang](batches/embodied-053.md#jing-zhang) · New York University | 73 (38/20/0/15) | unknown · 2027机构与主办权限待确认 | 2026-10-01T03:24:16Z | 2026-10-01T04:31:16Z |
+| 318 | [Karen M. Feigh](batches/hri-051.md#karen-m-feigh) · Georgia Institute of Technology | 73 (38/20/0/15) | unknown | 2026-10-01T03:30:40Z | 2026-10-01T04:29:49Z |
+| 319 | [Farshad Khorrami](batches/embodied-055.md#farshad-khorrami) · New York University | 73 (38/20/0/15) | degree-only | 2026-10-01T03:33:04Z | 2026-10-01T06:15:51Z |
 | 320 | [Souma Chowdhury](batches/control-058.md#souma-chowdhury) · University at Buffalo, State University of New York | 73 (38/20/0/15) | unknown | 2026-10-01T04:26:03Z | 2026-10-01T04:37:24Z |
 | 321 | [David M. Chan](batches/embodied-061.md#david-m-chan) · University of California, Irvine (incoming January 2027) | 73 (38/20/0/15) | degree-only · incoming January 2027 | 2026-10-01T04:49:54Z | 2026-10-01T05:04:42Z |
 | 322 | [Gautam Biswas](batches/control-068.md#gautam-biswas) · Vanderbilt University | 73 (38/20/0/15) | precedent-only | 2026-10-01T05:38:44Z † | 2026-10-01T05:46:03Z |

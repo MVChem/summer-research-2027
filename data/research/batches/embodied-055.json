@@ -9,7 +9,7 @@
     "department": "Electrical and Computer Engineering, Tandon",
     "batch": "embodied-055",
     "discoveredAt": "2026-10-01T03:33:04Z",
-    "verifiedAt": "2026-10-01T04:27:11Z",
+    "verifiedAt": "2026-10-01T06:15:51Z",
     "researchAreas": [
       "World models for dexterous manipulation",
       "Visual imitation",
@@ -19,11 +19,12 @@
     "fitReason": "CRRL combines substantial current embodied-AI policy research with a physical robotics lab. This is a stronger match through the world-model and visual-imitation projects than through the broader nonlinear-control/cybersecurity portfolio.",
     "physicalEvidence": {
       "status": "public-hardware-evidence",
-      "summary": "DexWM, revised March 16, 2026, uses a learned human-video world model to optimize Franka Panda/Allegro actions. Its actual experiment has10 successful grasps among12 trials over four objects; optimized two-step actions execute open-loop. Reach/place benchmarks are simulation, and the small physical sample is not broad real-world validation. Lead author Raktim Goswami is a current CRRL PhD student. The current lab inventory includes three Franka arms, dexterous-hand equipment and legged platforms.",
+      "summary": "DexWM, revised March 16, 2026, optimizes Franka Panda/Allegro actions with a learned human-video world model. It reports 10 successful grasps in 12 trials over four objects, executing optimized two-step actions open-loop; reach/place benchmarks are simulation. Lead author Raktim Goswami remains a CRRL PhD student, but the paper explicitly states that this work was done during his Meta internship, and his page identifies Yann LeCun as that internship mentor. CRRL separately lists Franka and dexterous-hand equipment; the inspected sources do not link that inventory to these specific trials. Treat the study as collaborative hardware with location, ownership and visitor access unresolved.",
       "sourceIds": [
         "s2",
         "s3",
-        "s5"
+        "s5",
+        "s7"
       ]
     },
     "shortVisit": {
@@ -35,13 +36,13 @@
     },
     "scores": {
       "fit": 38,
-      "physical": 25,
+      "physical": 20,
       "shortVisit": 0,
       "freshness": 15
     },
     "scoreReasons": {
       "fit": "Strong current world-model manipulation within a broader control/security group.",
-      "physical": "Direct primary physical study connected to current own student and lab equipment.",
+      "physical": "Physical DexWM execution is verified in a Meta–NYU collaboration conducted during the lead author’s Meta internship. CRRL student membership and a separate equipment inventory do not establish where these trials ran or independent current visitor access; cap at 20.",
       "shortVisit": "Current local-master’s wording does not invite external summer visitors.",
       "freshness": "March 2026 revised physical source and June 2026 own-group methods paper."
     },
@@ -82,8 +83,8 @@
         "id": "s5",
         "label": "arxiv.org / source 5",
         "url": "https://arxiv.org/html/2512.13644v2",
-        "summary": "Full DexWM methods and hardware experiment, with simulation and open-loop execution distinctions.",
-        "verifiedAt": "2026-10-01T04:27:11Z",
+        "summary": "Full DexWM methods and hardware experiment, with simulation and open-loop execution distinctions. The first-author affiliation footnote explicitly identifies work during a Meta internship; trial location and ownership are not allocated to CRRL.",
+        "verifiedAt": "2026-10-01T06:15:51Z",
         "retrieval": "direct-primary-page"
       },
       {
@@ -98,8 +99,8 @@
         "id": "s7",
         "label": "raktimgg.github.io / source 7",
         "url": "https://raktimgg.github.io/",
-        "summary": "Full current CRRL lead-author affiliation, June 2026 research news and separate industry internships.",
-        "verifiedAt": "2026-10-01T03:36:55Z",
+        "summary": "Full current CRRL lead-author affiliation, June 2026 research news and separate industry internships. The current author page separately identifies the July 2025–January 2026 Meta FAIR internship under Yann LeCun.",
+        "verifiedAt": "2026-10-01T06:15:51Z",
         "retrieval": "direct-primary-page"
       }
     ],
@@ -109,7 +110,8 @@
       "Reuse the NYU supplement. External-student unpaid research affiliations require a qualifying full-time faculty sponsor and HR approval. International sponsorship, project educational benefit and fully personal funding are category-specific unresolved questions; neither central eligibility nor degree recruitment is a summer offer.",
       "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
       "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
-      "[NYU institutional visitor rules](../eligibility_notes.md#nyu)"
+      "[NYU institutional visitor rules](../eligibility_notes.md#nyu)",
+      "Hardware attribution refinement: the source does not independently tie the 12 DexWM trials to CRRL equipment. Current CRRL affiliation and inventory are retained as separate facts, not proof of experiment-site ownership."
     ],
     "publicEmail": "khorrami@nyu.edu"
   },

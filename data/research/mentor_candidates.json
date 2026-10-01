@@ -7579,10 +7579,10 @@
       "homepage": "https://crrl-control-robotics-research-lab.github.io/",
       "batch": "embodied-055",
       "discoveredAt": "2026-10-01T03:33:04Z",
-      "verifiedAt": "2026-10-01T04:27:11Z",
+      "verifiedAt": "2026-10-01T06:15:51Z",
       "scores": {
         "fit": 38,
-        "physical": 25,
+        "physical": 20,
         "shortVisit": 0,
         "freshness": 15
       },

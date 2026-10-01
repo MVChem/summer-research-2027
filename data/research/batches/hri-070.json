@@ -1,0 +1,116 @@
+[
+  {
+    "id": "kyungki-kim",
+    "name": "Kyungki Kim",
+    "aliases": [
+      "Kim Kyungki"
+    ],
+    "school": "University of Nebraska–Lincoln",
+    "homepage": "https://engineering.unl.edu/durhamschool/person/kyungki-kim/",
+    "title": "Assistant Professor",
+    "department": "Durham School of Architectural Engineering and Construction (Omaha campus)",
+    "batch": "hri-070",
+    "discoveredAt": "2026-10-01T06:24:24Z",
+    "verifiedAt": "2026-10-01T06:30:46Z",
+    "researchAreas": [
+      "Vision-language robot task orchestration",
+      "Human-robot-infrastructure interaction",
+      "Mobile manipulation",
+      "Assistive service robotics",
+      "AI agent reliability"
+    ],
+    "fitReason": "Applied embodied-AI and assistive-robotics fit, especially VLM grounding, tool-call reliability, task verification and evaluation. His physical health-attendant prototype offers a concrete research direction, but a short external-master project and summer 2027 capacity are not advertised.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "A July 2026 author-uploaded preprint reports a real TIAGo Pro in one unoccupied patient room. VLM agents select shared MCP tools for navigation, manipulation and perception; fixed Cosmos Reason2 grounding and SAM2 support object localization, while lower-level motions are largely scripted. GPT-5.4-mini and two Qwen3.5 models are compared across five task types. Object delivery executes roughly 20 tool calls including navigation, grasping and delivery, with 10 trials per model; the reported completions are 9/10, 10/10 and 6/10 for the GPT mini, 122B Qwen and 35B Qwen variants. Skipped actions sometimes produce false success reports. Room locations and task phases are prepared in advance, no patients or clinical staff participate, and clinical effectiveness is untested. This is a preliminary architecture evaluation, not a new learned motor policy. The May 2026 Applied Sciences article is a separate Isaac Sim study and is not counted as physical hardware evidence.",
+      "sourceIds": [
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current university sources verify a robotics research program and graduate teaching, but no explicit external-master visiting or summer internship invitation was found. Collaborative medical-center work, local graduate research and a new robot do not establish outside-student intake, funding or remote participation.",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 23,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantive VLM reasoning and grounded tool execution on an assistive mobile manipulator, focused on integration and reliability rather than new model training.",
+      "physical": "Actual current robot and first-author faculty attribution, conservatively capped for preliminary small-room evidence and indexed full-manuscript retrieval.",
+      "shortVisit": "No explicit external-master or short-term research invitation.",
+      "freshness": "July 2026 physical prototype preprint with current official faculty/AI-agent activity."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.unl.edu / source 1",
+        "url": "https://engineering.unl.edu/durhamschool/person/kyungki-kim/",
+        "summary": "Live official Assistant Professor title, UNL department, Omaha office, email, robot task-planning program and graduate instruction.",
+        "verifiedAt": "2026-10-01T06:30:46Z"
+      },
+      {
+        "id": "s2",
+        "label": "ntc.unl.edu / source 2",
+        "url": "https://ntc.unl.edu/news/beyond-llms-ai-agents-transportation-and-built-environment/",
+        "summary": "September 2026 official university event confirms current Assistant Professor affiliation and AI-agent research activity.",
+        "verifiedAt": "2026-10-01T06:30:46Z"
+      },
+      {
+        "id": "s3",
+        "label": "www.researchgate.net / source 3",
+        "url": "https://www.researchgate.net/publication/408945179_VLM-Based_Multi-Agent_Architecture_for_Multifunctional_Robotic_Health_Attendant_RHA_Using_Phase-Prompt_Task_Design",
+        "summary": "Primary full manuscript uploaded by Kyungki Kim July 12, 2026; indexed Sections 3, 5–7 verify real TIAGo task execution, architecture, failures and limits.",
+        "verifiedAt": "2026-10-01T06:30:46Z",
+        "retrieval": "Indexed primary author-uploaded full methods/results; direct retrieval failed"
+      },
+      {
+        "id": "s4",
+        "label": "papers.ssrn.com / source 4",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7096918",
+        "summary": "July 3 manuscript, posted July 16, 2026; independent primary preprint record explicitly describes real TIAGo, five tasks and false-success limitation.",
+        "verifiedAt": "2026-10-01T06:30:46Z"
+      },
+      {
+        "id": "s5",
+        "label": "www.mdpi.com / source 5",
+        "url": "https://www.mdpi.com/2076-3417/16/11/5320",
+        "summary": "May 26, 2026 predecessor is explicitly evaluated in Isaac Sim; excluded from physical execution evidence.",
+        "verifiedAt": "2026-10-01T06:30:46Z"
+      },
+      {
+        "id": "s6",
+        "label": "global.unl.edu / source 6",
+        "url": "https://global.unl.edu/isso/host-or-hire-international-scholar/",
+        "summary": "Existing UNL institutional scholar guidance: funding and duration possibilities are conditional, not a master’s offer.",
+        "verifiedAt": "2026-10-01T06:30:46Z"
+      },
+      {
+        "id": "s7",
+        "label": "global.unl.edu / source 7",
+        "url": "https://global.unl.edu/isso/host-or-hire-j-1-scholar/",
+        "summary": "Existing host-initiated appointment/process guidance, not individualized eligibility approval.",
+        "verifiedAt": "2026-10-01T06:30:46Z"
+      }
+    ],
+    "unknowns": [
+      "Current official faculty profile and September 2026 university seminar both identify Assistant Professor; use this exact title rather than ambiguous search snippets from personnel tables.",
+      "The employer is Nebraska–Lincoln, while the Durham School office and robotics collaboration are in Omaha. Do not automatically substitute University of Nebraska Omaha or Nebraska Medical Center visitor rules for his UNL appointment.",
+      "Physical evidence is a July 2026 preprint with a small prepared-room evaluation. Direct full-page retrieval failed, but indexed primary author-uploaded methods and results were inspected; SSRN independently verifies the preprint date and real TIAGo task scope.",
+      "The inspected full manuscript lists Kim, John Windle, Tom Windle, Melissa Christian and Christian Haas; the SSRN listing names only Kim and John Windle. This catalog difference is not used to invent contribution claims for other faculty.",
+      "Existing UNL institutional guidance permits conditional unpaid/personal-funded scholar appointments and recommends several months of lead time, but the academic classification of an external enrolled master’s student, current minimum support amount, fees and exact eight-week dates remain unconfirmed.",
+      "Human-subject or patient-data access is not established. The prototype’s patient-facing task names do not demonstrate authorization for clinical research or deployment.",
+      "No summer 2027 offer, stipend, fee waiver, remote route or guaranteed hardware access is established.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Nebraska–Lincoln institutional visitor rules](../eligibility_notes.md#nebraska-lincoln)"
+    ],
+    "publicEmail": "kkim13@unl.edu"
+  }
+]

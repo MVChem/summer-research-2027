@@ -218,7 +218,8 @@
     "batches/hri-066.json",
     "batches/hri-067.json",
     "batches/hri-068.json",
-    "batches/hri-069.json"
+    "batches/hri-069.json",
+    "batches/hri-070.json"
   ],
   "candidates": [
     {
@@ -12004,6 +12005,35 @@
       "shortVisitStatus": "degree-only · visiting PhD invitation",
       "recordFile": "batches/hri-069.json",
       "detailPage": "batches/hri-069.md#yong-kwon-cho"
+    },
+    {
+      "id": "kyungki-kim",
+      "name": "Kyungki Kim",
+      "aliases": [
+        "Kim Kyungki"
+      ],
+      "school": "University of Nebraska–Lincoln",
+      "title": "Assistant Professor",
+      "homepage": "https://engineering.unl.edu/durhamschool/person/kyungki-kim/",
+      "batch": "hri-070",
+      "discoveredAt": "2026-10-01T06:24:24Z",
+      "verifiedAt": "2026-10-01T06:30:46Z",
+      "scores": {
+        "fit": 37,
+        "physical": 23,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Vision-language robot task orchestration",
+        "Human-robot-infrastructure interaction",
+        "Mobile manipulation",
+        "Assistive service robotics",
+        "AI agent reliability"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-070.json",
+      "detailPage": "batches/hri-070.md#kyungki-kim"
     }
   ]
 }

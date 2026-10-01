@@ -1,0 +1,123 @@
+[
+  {
+    "id": "qin-lin",
+    "name": "Qin Lin",
+    "aliases": [],
+    "school": "University of Houston",
+    "homepage": "https://air.egr.uh.edu/",
+    "title": "Assistant Professor; Assured and Intelligent Robotics Lab director",
+    "department": "Department of Engineering Technology, Cullen College of Engineering",
+    "batch": "control-044",
+    "discoveredAt": "2026-10-01T02:31:19Z",
+    "verifiedAt": "2026-10-01T02:32:43Z",
+    "researchAreas": [
+      "Safe learning-based control",
+      "Neural disturbance estimation",
+      "Formal verification",
+      "Aerial robotics",
+      "Robust manipulation"
+    ],
+    "fitReason": "Strong methods-to-hardware fit in combining neural disturbance models with stabilizing feedback and uncertainty-aware control on real aerial and manipulation systems.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Neural-ESO (July 7, 2026; RA-L acceptance June 2026) runs a neural disturbance predictor alongside a corrective observer on a ModalAI Seeker with VOXL/PX4. OptiTrack supplies pose; an Intel i9 ground station sends 50 Hz offboard commands. Actual landing and near-ground maneuvers test normal and shifted conditions. A separate July 2026 study runs online conformal uncertainty bounds and control-barrier safety on a 7-DoF Franka Research 3 at 1 kHz, including a sloshing-water payload. Its residual neural controller is a comparison baseline, not the proposed conformal controller. Both papers have current UH-affiliated advisees and are linked as current AIR projects.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Official faculty page confirms appointment and public email. Current university-hosted AIR site and publications identify recent advisees and ongoing 2026 work. No explicit current external graduate short-visit invitation was found. The older personal site explicitly directs readers to the new UH lab.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct safe neural learning and uncertainty-aware robot control, with a clear algorithmic contribution beyond hardware construction.",
+      "physical": "Current UH-led papers and lab demonstrate named quadrotor and FR3 systems, with explicit onboard/offboard configuration and actual physical trials.",
+      "shortVisit": "No current external short-visit pathway established by reviewed pages.",
+      "freshness": "July 2026 primary technical papers, September 2026 lab activity, and current official faculty appointment."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.et.uh.edu / source 1",
+        "url": "https://www.et.uh.edu/faculty/lin-qin",
+        "summary": "Official current faculty page: Assistant Professor, Engineering Technology, public email; Sugar Land departmental address.",
+        "verifiedAt": "2026-10-01T02:32:43Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "air.egr.uh.edu / source 2",
+        "url": "https://air.egr.uh.edu/",
+        "summary": "Current AIR lab founded by Qin Lin; September 2026 news and neural UAV/conformal manipulation demonstrations.",
+        "verifiedAt": "2026-10-01T02:32:43Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "air.egr.uh.edu / source 3",
+        "url": "https://air.egr.uh.edu/publications/",
+        "summary": "Current publications identify Fan Zhang and Wenhua Liu as advisees and link the 2026 technical papers.",
+        "verifiedAt": "2026-10-01T02:32:43Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "www.egr.uh.edu / source 4",
+        "url": "https://www.egr.uh.edu/parameters/2026-spring/qin-lin",
+        "summary": "Spring 2026 institutional profile confirms faculty since 2024 and rebuilding experimental lab infrastructure after move from Cleveland.",
+        "verifiedAt": "2026-10-01T02:32:43Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2607.06535v1",
+        "summary": "July 2026 full paper: UH Neural-ESO, ModalAI Seeker, motion-capture feedback and 50 Hz offboard actual flight trials.",
+        "verifiedAt": "2026-10-01T02:32:43Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2607.00424v1",
+        "summary": "July 2026 full paper: physical FR3 1 kHz tracking/safety with sloshing payload and conformal disturbance bounds; neural baseline distinguished.",
+        "verifiedAt": "2026-10-01T02:32:43Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "qinlincmu.github.io / source 7",
+        "url": "https://qinlincmu.github.io/",
+        "summary": "Legacy personal page explicitly no longer updated and directs to the current UH lab; identifies PI/director role.",
+        "verifiedAt": "2026-10-01T02:32:43Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      }
+    ],
+    "unknowns": [
+      "External-master’s appointment, self-funding, duration and summer 2027 capacity require host and institutional approval. Department contact is at Sugar Land; exact research site should be confirmed before planning an in-person visit. Do not transfer an old Cleveland State affiliation or assume university-funded placement.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "qlin21@central.uh.edu"
+  }
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "id": "bin-hu",
+    "name": "Bin Hu",
+    "aliases": [],
+    "school": "University of Houston",
+    "homepage": "https://binhu85.github.io/",
+    "title": "Assistant Professor; Networked Autonomous and Intelligent Learning Lab director",
+    "department": "Department of Engineering Technology; Electrical and Computer Engineering affiliation",
+    "batch": "control-045",
+    "discoveredAt": "2026-10-01T02:34:26Z",
+    "verifiedAt": "2026-10-01T02:35:43Z",
+    "researchAreas": [
+      "Safe learning-based control",
+      "Multi-robot systems",
+      "Edge AI",
+      "Trustworthy autonomy",
+      "Neural disturbance estimation"
+    ],
+    "fitReason": "Strong bridge between safe-learning algorithms, embedded perception and current physical multi-robot/aerial systems; especially suitable for control-aware neural models and resource-constrained autonomy.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Coauthors July 2026 Neural-ESO with his current PhD student Richie Suganda: a learned disturbance predictor plus corrective observer executes actual ModalAI Seeker landing and near-ground maneuvers, using OptiTrack and 50 Hz offboard control. His current lab inventory independently lists three Seeker drones, ROSbot Pro platforms, a Jackal and motion capture; the lab demonstration page describes real two-ROSbot learned-perception/CBF leader following. March 2026 formation-aware conformal perception is explicitly Gazebo simulation and is not counted as new physical validation. The LLM-drone description includes hardware-in-the-loop testing, so it is not used to claim a separately verified autonomous foundation-model flight experiment.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The homepage advertises student openings and the team page invites general research inquiries. Neither establishes external short-term visiting-master’s eligibility or an eight-week summer place. The current roster contains PhD students and prior local master’s advisees.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct safe neural-control and embedded robot perception methods rather than generic AI adjacency.",
+      "physical": "Actual learned drone experiment with current advisee plus an independently verified current lab inventory of that platform and real ROSbot demonstrations.",
+      "shortVisit": "General student recruitment lacks an explicit external visitor/intern pathway; no short-visit credit.",
+      "freshness": "July 2026 primary flight paper and lab pages updated September 28, 2026; official appointment verified."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.et.uh.edu / source 1",
+        "url": "https://www.et.uh.edu/faculty/hu-bin",
+        "summary": "Official Assistant Professor appointment, Engineering Technology, 2022 UH start and Notre Dame PhD identity; directory also lists a different public email alias.",
+        "verifiedAt": "2026-10-01T02:35:43Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "binhu85.github.io / source 2",
+        "url": "https://binhu85.github.io/",
+        "summary": "Current PI homepage, generic student recruitment, September 2026 research activity; page dated September 28, 2026.",
+        "verifiedAt": "2026-10-01T02:35:43Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "binhu85.github.io / source 3",
+        "url": "https://binhu85.github.io/team-members/",
+        "summary": "Current PhD advisees including Richie Suganda, local master’s alumni and generic Join Us inquiry wording.",
+        "verifiedAt": "2026-10-01T02:35:43Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "binhu85.github.io / source 4",
+        "url": "https://binhu85.github.io/resources/",
+        "summary": "Current NAIL inventory explicitly lists three ModalAI Seekers, three ROSbot Pro platforms, Jackal and OptiTrack; public bhu12@uh.edu address.",
+        "verifiedAt": "2026-10-01T02:35:43Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "binhu85.github.io / source 5",
+        "url": "https://binhu85.github.io/demonstrations/",
+        "summary": "Physical two-ROSbot perception-aware following; LLM/drone entry specifically says hardware-in-the-loop. Updated August 2, 2026.",
+        "verifiedAt": "2026-10-01T02:35:43Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "binhu85.github.io / source 6",
+        "url": "https://binhu85.github.io/publications/",
+        "summary": "Neural-ESO is current lab publication and marks Richie Suganda as his PhD student.",
+        "verifiedAt": "2026-10-01T02:35:43Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "arxiv.org / source 7",
+        "url": "https://arxiv.org/html/2607.06535v1",
+        "summary": "July 2026 Neural-ESO full text documents actual ModalAI Seeker flight, neural prior, corrective observer and 50 Hz offboard control.",
+        "verifiedAt": "2026-10-01T02:35:43Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s8",
+        "label": "arxiv.org / source 8",
+        "url": "https://arxiv.org/abs/2603.08958",
+        "summary": "Formation-aware conformal perception abstract explicitly reports Gazebo simulations, not physical robot trials.",
+        "verifiedAt": "2026-10-01T02:35:43Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      }
+    ],
+    "unknowns": [
+      "Host acceptance, institutional visitor category, foreign-enrolled master’s eligibility, funding, duration and 2027 dates remain unconfirmed. NAIL is at UH Sugar Land. This Bin Hu is the Notre Dame PhD/UH Engineering Technology faculty member, distinct from same-name faculty elsewhere and from Jia-Bin Huang.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "bhu12@uh.edu"
+  }
+]

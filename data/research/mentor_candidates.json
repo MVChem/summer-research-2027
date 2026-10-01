@@ -52,6 +52,8 @@
     "batches/control-041.json",
     "batches/control-042.json",
     "batches/control-043.json",
+    "batches/control-044.json",
+    "batches/control-045.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -2946,6 +2948,60 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-043.json",
       "detailPage": "batches/control-043.md#tony-g-chen"
+    },
+    {
+      "id": "qin-lin",
+      "name": "Qin Lin",
+      "aliases": [],
+      "school": "University of Houston",
+      "title": "Assistant Professor; Assured and Intelligent Robotics Lab director",
+      "homepage": "https://air.egr.uh.edu/",
+      "batch": "control-044",
+      "discoveredAt": "2026-10-01T02:31:19Z",
+      "verifiedAt": "2026-10-01T02:32:43Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Safe learning-based control",
+        "Neural disturbance estimation",
+        "Formal verification",
+        "Aerial robotics",
+        "Robust manipulation"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-044.json",
+      "detailPage": "batches/control-044.md#qin-lin"
+    },
+    {
+      "id": "bin-hu",
+      "name": "Bin Hu",
+      "aliases": [],
+      "school": "University of Houston",
+      "title": "Assistant Professor; Networked Autonomous and Intelligent Learning Lab director",
+      "homepage": "https://binhu85.github.io/",
+      "batch": "control-045",
+      "discoveredAt": "2026-10-01T02:34:26Z",
+      "verifiedAt": "2026-10-01T02:35:43Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Safe learning-based control",
+        "Multi-robot systems",
+        "Edge AI",
+        "Trustworthy autonomy",
+        "Neural disturbance estimation"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-045.json",
+      "detailPage": "batches/control-045.md#bin-hu"
     },
     {
       "id": "tom-silver",

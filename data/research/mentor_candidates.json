@@ -272,7 +272,8 @@
     "batches/hri-085.json",
     "batches/hri-086.json",
     "batches/hri-087.json",
-    "batches/hri-089.json"
+    "batches/hri-089.json",
+    "batches/hri-091.json"
   ],
   "candidates": [
     {
@@ -14378,6 +14379,38 @@
       "shortVisitStatus": "inquiry-only · 访客通常自筹；短期支持需按匹配及任命讨论",
       "recordFile": "batches/hri-089.json",
       "detailPage": "batches/hri-089.md#maria-gorlatova"
+    },
+    {
+      "id": "louis-philippe-morency",
+      "name": "Louis-Philippe Morency",
+      "aliases": [
+        "Louis Philippe Morency"
+      ],
+      "school": "Carnegie Mellon University",
+      "title": "Leonardo Associate Professor of Computer Science",
+      "homepage": "https://www.lti.cmu.edu/people/faculty/morency-louis-philippe.html",
+      "batch": "hri-091",
+      "discoveredAt": "2026-10-01T11:19:19Z",
+      "verifiedAt": "2026-10-01T11:37:16Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Multimodal machine learning",
+        "Situated human–robot conversation",
+        "LLM tool use for active perception",
+        "Social attention and gaze control",
+        "Human communicative behavior modeling"
+      ],
+      "discoveryTimestampNote": "First precisely retained source was an older official USC CV returned during initial screening; current CMU role and methods were subsequently verified. No older incidental exposure time is reconstructed.",
+      "physicalEvidenceStatus": "historical-or-indirect",
+      "physicalEvidenceLabel": "受限真机证据：historical-or-indirect",
+      "shortVisitStatus": "unknown · 偏好≥4月，偶尔summer例外；当前无访问资助",
+      "recordFile": "batches/hri-091.json",
+      "detailPage": "batches/hri-091.md#louis-philippe-morency"
     }
   ]
 }

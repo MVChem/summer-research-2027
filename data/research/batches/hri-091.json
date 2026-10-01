@@ -1,0 +1,127 @@
+[
+  {
+    "id": "louis-philippe-morency",
+    "name": "Louis-Philippe Morency",
+    "aliases": [
+      "Louis Philippe Morency"
+    ],
+    "school": "Carnegie Mellon University",
+    "homepage": "https://www.lti.cmu.edu/people/faculty/morency-louis-philippe.html",
+    "title": "Leonardo Associate Professor of Computer Science",
+    "department": "Language Technologies Institute; MultiComp Lab",
+    "batch": "hri-091",
+    "discoveredAt": "2026-10-01T11:19:19Z",
+    "verifiedAt": "2026-10-01T11:37:16Z",
+    "researchAreas": [
+      "Multimodal machine learning",
+      "Situated human–robot conversation",
+      "LLM tool use for active perception",
+      "Social attention and gaze control",
+      "Human communicative behavior modeling"
+    ],
+    "fitReason": "Technical-fit HRI backup with current multimodal-LLM attention control research. Practical availability is constrained: the lab normally prefers visits of at least four months, with only occasional summer-intern exceptions mentioned. This is not a verified eight-week route.",
+    "physicalEvidence": {
+      "status": "historical-or-indirect",
+      "summary": "The full February 2026 MIT/CMU preprint implements real-time multimodal LLM function calls on actual Jibo gaze/attention control, with a qualitative Reachy Mini transfer. YOLO11-pose and SAM3 provide local person/object tracking; geometric binding turns detections or remembered views into gaze targets. The learned high-level system selects attention and perception tools, rather than manipulating objects or navigating a mobile base. Evaluation records six scenarios under four system variants, yielding 24 interaction videos rated by observers; this is not a 24-person deployment. Current coauthorship is verified, but lead authors and principal hardware work are MIT-linked, so current CMU-owned apparatus or visitor access is not inferred.",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown · 偏好≥4月，偶尔summer例外；当前无访问资助",
+      "summary": "The live official MultiComp visitor FAQ says space is very limited, generally prefers at least four months, and usually cannot accommodate short visits. A distinct answer mentions occasional summer student interns, favors prior multimodal/ML research experience and suggests a January availability inquiry. The FAQ explicitly says no funded visiting positions are currently open; visitors normally bring support for travel, lodging and insurance. Outside-master status, eight-week terms and summer 2027 capacity remain unresolved. The separate undergraduate/professional-master research page currently reports no available opportunities. These mixed statements are retained as detail, not scored as a short-visit invitation.",
+      "sourceIds": [
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Current substantive multimodal embodied conversation and active attention; broader human-communication portfolio.",
+      "physical": "Actual learned attention/perception-to-gaze implementation, capped for collaborative MIT-linked hardware and staged scope.",
+      "shortVisit": "No verified eight-week outside-master route; normal four-month preference and sparse exceptions make the mixed FAQ insufficient for opportunity points.",
+      "freshness": "February 2026 technical preprint plus current university role; undated visitor FAQ is not treated as newly issued recruitment."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.lti.cmu.edu / source 1",
+        "url": "https://www.lti.cmu.edu/people/faculty/morency-louis-philippe.html",
+        "summary": "Current exact university title, multimodal research and active advisee list.",
+        "verifiedAt": "2026-10-01T11:26:32Z"
+      },
+      {
+        "id": "s2",
+        "label": "www.cs.cmu.edu / source 2",
+        "url": "https://www.cs.cmu.edu/~morency/",
+        "summary": "Official faculty homepage corroborates role, MultiComp directorship and professional email.",
+        "verifiedAt": "2026-10-01T11:26:32Z"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2602.04157v1",
+        "summary": "Full February 2026 primary system and evaluation sections establish Jibo attention/tool execution and qualitative Reachy Mini transfer; current MIT/CMU collaboration, not CMU-owned robot proof.",
+        "verifiedAt": "2026-10-01T11:26:32Z"
+      },
+      {
+        "id": "s4",
+        "label": "multicomp.cs.cmu.edu / source 4",
+        "url": "https://multicomp.cs.cmu.edu/faq/visitors/",
+        "summary": "Direct live shell HTML read: limited space, at least four-month preference, short-visit caution and distinct occasional summer-intern January inquiry; undated. The complete FAQ explicitly says no funded visiting positions are currently open and most visitors bring their own support for travel, lodging and insurance; a one-year maximum is also stated.",
+        "verifiedAt": "2026-10-01T11:37:16Z",
+        "retrieval": "Complete saved public HTML inspected at the stated observation time; undated page. A subsequent web-text-reader fetch returned502 and was not treated as new verification."
+      },
+      {
+        "id": "s5",
+        "label": "multicomp.cs.cmu.edu / source 5",
+        "url": "https://multicomp.cs.cmu.edu/research/research-opportunities/",
+        "summary": "Separate professional-master/undergraduate appointments page currently lists no available opportunities; not a verified external short-visit invitation.",
+        "verifiedAt": "2026-10-01T11:26:32Z"
+      },
+      {
+        "id": "s6",
+        "label": "www.cmu.edu / source 6",
+        "url": "https://www.cmu.edu/oie/pre-arrival-and-settling-in/scholars/instructions/j1-exchange/index.html",
+        "summary": "Independent Student Intern category reused from prior 22:26:52Z institutional review; no lab acceptance inferred.",
+        "verifiedAt": "2026-09-30T22:26:52Z",
+        "retrieval": "Reused earlier CMU institutional review; no new host approval or funding commitment"
+      },
+      {
+        "id": "s7",
+        "label": "www.cmu.edu / source 7",
+        "url": "https://www.cmu.edu/oie/administrators/docs/j-intern-data-form.pdf",
+        "summary": "June 2026 form, fully verified in prior 05:26:26Z update, covers masters and Pittsburgh $3,253 monthly support; not newly reread here.",
+        "verifiedAt": "2026-10-01T05:26:26Z",
+        "retrieval": "Reused earlier CMU institutional review; no new host approval or funding commitment"
+      },
+      {
+        "id": "s8",
+        "label": "www.cmu.edu / source 8",
+        "url": "https://www.cmu.edu/collaborating-visitor/faq.html",
+        "summary": "Reused 00:16:30Z appointment-screening lead-time check; separate from visa sponsorship.",
+        "verifiedAt": "2026-10-01T00:16:30Z",
+        "retrieval": "Reused earlier CMU institutional review; no new host approval or funding commitment"
+      }
+    ],
+    "unknowns": [
+      "Treat this as a technical-fit backup with a meaningful duration/capacity constraint. Do not label the lab universally closed, but do not assume the summer exception overrides the normal four-month preference for a particular external master’s student.",
+      "The visitor FAQ is undated and remains on an older-design site. Direct read-only retrieval succeeded after web extraction failed. Reconfirm that the occasional summer exception is operative before relying on it. For general student visits the FAQ suggests advisor-initiated contact.",
+      "Existing CMU policy is reused: independent Student Intern supports outside-US degree students, distinct from undergraduate-only RISS; external graduate research may also require Collaborating Visitor approval. Neither creates a lab opening.",
+      "The June 2026 CMU Student Intern form was already fully checked at 2026-10-01T05:26:26Z and lists master’s students, personal/family support documentation and $3,253 per month for Pittsburgh. This supersedes the older indexed $3,015 figure. Support evidence is not a university fee; 2027 rates, insurance and total costs remain to be confirmed.",
+      "CMU Collaborating Visitor guidance checked at 00:16:30Z requires advance approval, normally 30 days or 60 when immigration documentation is required. Appointment screening and OIE sponsorship are separate, and the applicable eight-week classification must be approved.",
+      "The current physical research is a small staged technical evaluation of social gaze and visual grounding. Observer ratings do not establish long-term human outcomes, clinical benefit or unrestricted robot autonomy.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: First precisely retained source was an older official USC CV returned during initial screening; current CMU role and methods were subsequently verified. No older incidental exposure time is reconstructed.",
+      "At the source check, the FAQ explicitly offered no funded visiting positions. The page is undated, so this is a current observed limitation, not a permanent funding ban. Any occasional summer exception still requires a current capacity inquiry; it does not itself verify an eight-week or outside-master arrangement.",
+      "[Institutional visitor rules](../eligibility_notes.md#cmu-student-intern)"
+    ],
+    "discoveryTimestampNote": "First precisely retained source was an older official USC CV returned during initial screening; current CMU role and methods were subsequently verified. No older incidental exposure time is reconstructed.",
+    "publicEmail": "morency@cs.cmu.edu"
+  }
+]

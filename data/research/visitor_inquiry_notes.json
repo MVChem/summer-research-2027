@@ -621,6 +621,15 @@
         "s3",
         "s8"
       ]
+    },
+    "louis-philippe-morency": {
+      "note": "仅偶尔summer例外问询；偏好≥4月、名额少、当前无访问资助；建议1月问，8周/硕士未定",
+      "category": "generic-intern-eligibility-unconfirmed",
+      "inclusionRationale": "A distinct live FAQ answer permits occasional summer student interns and recommends a January availability inquiry. This exception does not establish a current opening or override the four-month preference; onsite shortVisit remains0.",
+      "sourceIds": [
+        "s4",
+        "s5"
+      ]
     }
   }
 }

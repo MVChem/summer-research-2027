@@ -1051,3 +1051,11 @@ Part II第5页允许全额个人资金，但要求境外大学/研究机构关�
 核查2026-10-01T10:11:53Z。[现行流程](https://faculty-advancement.sdsu.edu/immigration/j-1-exprogram)要求导师协议、邀请函、英语及财力证明、Faculty Advancement批准；Student Intern需DS7002及结束评估，上限12个月，最短访问期未明确。完整批准后4周为DS2019办理说明，不是签证总周期。
 
 [官方指南](https://faculty-advancement.sdsu.edu/immigration/j-1-inforcollege)承认境外在读研究生，允许个人资金，建议提前2–3个月；学校不收J-1办理费，政府费用及保险仍需承担。[财力表](https://faculty-advancement.sdsu.edu/_resources/files/immigration/j-1-exchange/min-finan-supp.pdf)列研究生Student Intern每月2,207美元，Research/Short-Term Scholar每月2,400美元；2027金额和实际生活预算须复核。八周类别、项目限制及导师名额均须个案批准。与South Dakota State不同。
+
+<a id="arkansas-fayetteville"></a>
+
+## Arkansas Fayetteville · 外校研究生可走 Student Intern，临床活动受限
+
+核查：2026-10-01T10:03:47Z。[ISS 规则](https://international-students.uark.edu/preparing-to-arrive/regulations.php) 明确包含国外在读本科或研究生：项目须服务原学位、结束后返校完成学位，每周至少32小时，列示时长3周至1年。须院系接收、训练计划、原校/主办方核验、英语、保险及财力证明；Student Intern 至少预留30天办理，另加邀请审批和签证时间。**临床岗位及患者接触/照护被排除**，医疗机器人应先核定非临床研究边界。
+
+[校规206.8](https://policies.uark.edu/fayetteville-policies/vcri/2068.php) 要求导师发起、系/学院及研究合规审核，可能另有出口管制与知识产权安排；[当前办理入口](https://rsic.uark.edu/other/visitingscholars.php) 不等于导师名额。八周在一般时长范围内，但2027接收、项目资格、全额个人资金能否使用及当前财力金额未确认。同页 Academic Training 的金额不能套用于首次研究访问，Short-Term Scholar 六个月上限也不等于自动获批。

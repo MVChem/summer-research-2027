@@ -177,6 +177,7 @@
     "batches/embodied-076.json",
     "batches/embodied-077.json",
     "batches/embodied-078.json",
+    "batches/embodied-079.json",
     "batches/embodied-080.json",
     "batches/embodied-081.json",
     "batches/embodied-084.json",
@@ -9545,6 +9546,34 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-078.json",
       "detailPage": "batches/embodied-078.md#kaushik-roy"
+    },
+    {
+      "id": "dongyi-wang",
+      "name": "Dongyi Wang",
+      "aliases": [],
+      "school": "University of Arkansas, Fayetteville",
+      "title": "Assistant Professor",
+      "homepage": "https://dw-bioag.github.io/safelab/",
+      "batch": "embodied-079",
+      "discoveredAt": "2026-10-01T10:00:51Z",
+      "verifiedAt": "2026-10-01T10:04:55Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Imitation learning for contact-rich manipulation",
+        "Diffusion policies",
+        "Deformable object manipulation",
+        "Agricultural and food robotics",
+        "Robot vision and sensing"
+      ],
+      "discoveryTimestampNote": "First precisely retained primary university/lab result; earlier third-party recruitment index is not treated as primary verification.",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-079.json",
+      "detailPage": "batches/embodied-079.md#dongyi-wang"
     },
     {
       "id": "minghan-li",

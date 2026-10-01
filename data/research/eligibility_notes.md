@@ -491,3 +491,83 @@ Tacoma 补充核查：2026-10-01T01:02:36Z。[SET visiting appointments](https:/
 核查：2026-10-01T01:26:27Z。[Prospective Scholar](https://www.boisestate.edu/global-international-scholars-faculty/evp-overview/prospective-j1-scholars/) 要求完成本科等同学位，Short-Term 为 1 天至六个月，现列单人每月 2,325 美元生活支持，非学费或完整预算。[主办指导](https://www.boisestate.edu/global-international-scholars-faculty/evp-overview/departments-j1/) 明确无需学校发薪、可用个人资金，并要求至少提前三个月准备。
 
 [正式流程](https://www.boisestate.edu/global-international-scholars-faculty/j1-paperwork/) 需财力、英语及院系/学院批准，完整材料后的文件制作时间不是总体提前期。外校在读硕士的实际学术职称、项目和国际类别仍未明确，不能仅凭八周落在时长上限内就称已获资格；也未验证独立 Student Intern 路径。2027 资金数、保险和其他费用须重查。
+
+<a id="hunter-cuny"></a>
+
+## Hunter / CUNY · 校区规则不能混用
+
+核查：2026-10-01T00:02:33Z。[Hunter 访问任命表](https://www2.hunter.cuny.edu/pending-migration/provost/hunter-college-visiting-scholar-form.pdf) 有导师、院系及 Provost 流程、最长一学年，但未明确外校硕士资格或最低时长，且文件处于 pending-migration 路径，须确认当前流程。[Graduate Center Research Scholars](https://www.gc.cuny.edu/provosts-office/visiting-research-scholars) 是另一校区的正式接收，不能由某导师具有 GC affiliation 就自动套用。
+
+[GC Exchange Visitor 页面](https://www.gc.cuny.edu/human-resources/policies-and-procedures/exchange-visitor-program) 列单人每月 2,000 美元支持估算、220 美元 SEVIS 及 3–4 个月规划，均不自动成为 Hunter 的标准或全额个人资金许可。[CUNY 中央页](https://www.cuny.edu/academics/academic-programs/international-education/isss/) 的显著外部资金条件针对列名 consortium campuses，不包括 Hunter/GC，不能跨范围移植成其资金禁令。实际校区、硕士类别、资金、保险和 2027 费用待确认。
+
+<a id="njit"></a>
+
+## NJIT · Prescribed Study 的外部资金要求
+
+核查：2026-10-01T00:11:44Z。[Prescribed Study](https://www.njit.edu/global/incoming/j1-students/prescribed) 适用于国外在读学生的学位关联研究，不修课程，使用 J-1 non-degree student，至少提前三个月请求。当前链接的 [Spring 2023 host packet](https://www.njit.edu/global/sites/njit.edu.global/files/Prescribed%20study%20student%20Host%20department%20forms%20Spring%202023.pdf) 明确含硕士，至少每周二十小时、初次最多十二个月，最低访问时长未公布。
+
+该旧但仍链接的 packet 列每月 2,000 美元，并通常要求至少 51% 非个人资金，列 partner university 例外；[资金页](https://www.njit.edu/global/j1costs) 也将个人资金许可与学校协议关联，不能假设任意外校可完全自费。packet 的 220 美元 SEVIS 和可选 200 美元英语面试费是不同收费，后者只能由主办部门支付。2027 金额、保险及协议例外须确认；另一个要求外部全时雇佣的 Courtesy Appointment 不是普通在读硕士的自动替代。
+
+<a id="columbia"></a>
+
+## Columbia · VSI 学术任命的 51% 外部支持条件
+
+核查：2026-10-01T01:35:01Z。[2026 年 1 月更新的 VSI 政策](https://provost.columbia.edu/content/visiting-student-interns) 明确包括外校本科/研究生的合作培训，需全程在读并返校完成学位、PI/院系/学院批准、最长一年。每月至少 3,000 美元支持，个人至多 49%，至少 51% 来自原机构、外部 funding agency 或 Columbia，不能称此类访问可完全个人资助。
+
+[ISSO 指导](https://isso.columbia.edu/content/sponsoring-and-extending-j-1-student-intern) 将本科等同学历者分到 Research/Short-Term Scholar，但不消除学术 VSI 的资金要求，建议提前三个月。Provost 流程的 500 美元 Student Intern fee waiver 与 [通用费用表](https://forms.isso.columbia.edu/content/visiting-scholar-administration-fee-online-payment-form) 不完全一致，须按实际 graduate VSI 类别核定。签证、保险与研究活动限制另计，八周和导师容量未批准。
+
+<a id="rochester"></a>
+
+## University of Rochester · Visiting Student 与 Scholar 资金规则不同
+
+核查：2026-10-01T01:03:21Z。[International Visiting Students](https://www.rochester.edu/iso/global-visitor-program/visiting-students/) 包括推进本科/研究生学位的活动，须导师、院系、研究生及学校审查，总流程通常 4–6 个月或更长。[主办指导](https://www.rochester.edu/iso/global-visitor-program/hosting-a-visitor/) 对多数此类学生建议 F-1，完整材料到 ISO 后至少预留三个月，最终分类由 ISO 决定。
+
+[FAQ](https://www.rochester.edu/iso/global-visitor-program/visitor-faqs/) 要求逐学期全时 non-matriculated 注册，每学期 300 美元另加未量化的 international/健康/保险等收费，不修额外课程一般不收传统学费；银行材料可作财力文件，但最终完全个人资金许可仍待确认。[另一 J-1 Scholar 页](https://www.rochester.edu/iso/scholars-employees/j-1-scholars/eligibility/) 禁止全部个人资金，列每月 3,100 美元且不含保险，不能将这一规则概括为所有 F-1 访学也不可行。该校与 RIT 是不同机构。
+
+<a id="delaware"></a>
+
+## Delaware · Intern 与 Scholar 资金分开，处理费有新旧数
+
+核查：2026-10-01T01:54:08Z。[Student Intern](https://www.udel.edu/academics/global/isss/departments/hosting-scholars/j-1-student-intern/) 面向国外学位在读者、未限定本科，至少三周、每周至少 32 小时、最长十二个月，可有薪/无薪，需学位关联、原校材料、返校及主办批准。
+
+[Scholar 页](https://www.udel.edu/academics/global/isss/departments/hosting-scholars/j-1-scholars/) 接受个人/家庭等资金并列每月 1,663 美元，但未确定这些数及全额个人许可如何用于 Intern。[CGPS 费用表](https://www.udel.edu/academics/global/isss/resources/life-us-ud/costs/) 明确 2026 年 9 月起提交的 J-1 visiting-scholar 申请为 190 美元，强于 Graduate College 仍写的 180 美元；Intern 的最终费用及付款方须确认，不能套普通学生暑期学费。2027 日期、支持、保险及导师容量仍未确认。
+
+<a id="michigan-ann-arbor"></a>
+
+## Michigan–Ann Arbor · 2026–27 Scholar 财力与 Covered Visitors
+
+核查：2026-10-01T02:02:57Z。[Covered Visitors 政策](https://spg.umich.edu/policy/601.42) 于 2025 年 11 月生效，明确包括其他机构在读研究生，覆盖至少十四天的非公开资源访问，机构批准可至多两年。这个时限不是签证期限，也不是接收承诺；院系须完成 onboarding、协议和适用审查。[Rackham](https://rackham.umich.edu/admissions/non-degree-and-guest-students-and-scholars/) 说明研究生访客由接收单位独立办理，课程型 non-degree 入学是另一安排。
+
+[现行 IC Scholar 财力 PDF](https://internationalcenter.umich.edu/sites/default/files/info/J1_Scholar_Funding.pdf) 适用 2026-09-01 至 2027-08-31，接受个人/家庭/机构支持，单人每月 4,000 美元。其示例从 4,000 中扣除 308.72 美元保险，不能再自动把保险重复叠加。旧索引 3,200/291.27 美元不作当前标准。此为 scholar 规则，外校在读硕士的最终 J-1 类别仍需主办方和 International Center 决定，不能与普通 degree-student 的外部资金要求混用；不足月处理和实际费用另确认。
+
+<a id="utah"></a>
+
+## Utah · 研究生学术任命与 Student Intern 配合确认
+
+核查：2026-10-01T01:45:00Z。[Policy 6-317](https://regulations.utah.edu/academics/6-317.php) 及 [2026 年 7 月 registry](https://gradschool.utah.edu/_resources/documents/the_graduate_school_visiting_scholar_registry_form_updated_7-1-2026.pdf) 明确包括硕士/博士 Visiting Graduate Student，需单位与 Graduate School 批准，属于无薪非雇佣身份。一般 Visiting Scholar 的一学期措辞不能自动套用于该独立研究生栏目。
+
+[Student Intern 指引](https://isss.utah.edu/j-1-visa-program/host-department-resources/student-intern-guide/index.php) 允许国外在读的学位关联访问，3 周至十二个月、每周至少 32 小时，需返校完成学位，接受个人银行资金并建议提前三个月。[DS-2019 财力页](https://www.isss.utah.edu/j-1-visa-program/host-department-resources/ds-2019-application-guide/index.php) 现列单人每月 2,400 美元、部门处理费 350 美元，能否转嫁收费未确证，旧算例与现行数不一致不得照用。学校路径不覆盖实验室自己的不接收访客通知。
+
+<a id="duke"></a>
+
+## Duke · 外校研究生访问与有日期的旧财力表
+
+核查：2026-10-01T01:15:42Z。[Visiting Research Scholars](https://myresearchpath.duke.edu/visiting-research-scholars) 包括不修 Duke 课程、不领取 Duke 工资的外校研究生，须单位事前注册、研究计划及合规审查。[签证指导](https://visaservices.duke.edu/maintaining-j-non-immigrant-class/) 的 Student Intern 可有薪/无薪至多十二个月，Short-Term Scholar 最多六个月，但具体硕士类别和八周任命仍需批准。
+
+仍可访问的 [J funding PDF](https://web.visaservices.duke.edu/Duke.Idioms.WebForms/Documents/InternationalOffice/NonStudents/Visa%20Documents/J1_DukeIssued/both/J-1%20Funding%20Requirements.pdf) 包含 Student Intern 和 scholar，允许个人/家庭资金，但内部修订于 2023 年，所列每月 2,578 美元不是已验证的 2026/27 数额。现行最低数、全部费用、保险和主办容量待 DVS 确认，不套本科交换或普通学位学费。
+
+<a id="oregon-state"></a>
+
+## Oregon State · 学位关联 Student Intern
+
+核查：2026-10-01T00:35:14Z。[Student Intern](https://internationalservices.oregonstate.edu/ois/iess/j-1-student-intern) 覆盖国外 postsecondary 学位学生、未限本科，至少每周 32 小时，最长十二个月或学位完成日（取较早者），需学位关联及返校完成学位；付款可选，未公布最低时长。[费用与支持页](https://internationalservices.oregonstate.edu/ois/iess/estimated-expenses) 包括 Intern，接受本人账户，单人每月 2,175 美元，另列 620 美元处理费可由院系或访问者支付。保险和其他费用另核算，证明金额不等于学校账单。
+
+[办理时限](https://internationalservices.oregonstate.edu/ois/iess/processing-times) 要求完整申请至少距开始三个月，文件制作十个工作日不是总流程。[申请流程](https://internationalservices.oregonstate.edu/ois/iess/application-process-j-1-exchange-visitor) 仍需导师、任命、原校、英语和研究审批。2027 时间、资金、项目与实验室接收待确认。
+
+<a id="santa-clara"></a>
+
+## Santa Clara · Scholar 自费允许，硕士分类未验证
+
+核查：2026-10-01T00:27:38Z。[主办 Scholar 页面](https://www.scu.edu/globalengagement/international-students/prospective-international-students/host-international-scholars/) 有至多六个月的 Short-Term 类别，但其学生例子为博士论文阶段，未明确外校硕士或 Student Intern；这属于待确认，不是硕士禁令。[资金页](https://www.scu.edu/globalengagement/international-students/prospective-international-students/host-international-scholars/estimated-expenses-for-j-1-scholars/) 允许个人流动资金，单人每月 3,000 美元，仍须任命分类及具体文件批准。
+
+[主办责任](https://www.scu.edu/globalengagement/international-students/prospective-international-students/host-international-scholars/facultystaff-host-responsibilities-and-resources/) 要求至少提前十周、校园工作空间及院系/学院批准；十周是提前期，不是访期最低值。使用 [当前保险规则](https://www.scu.edu/globalengagement/international-students/prospective-international-students/host-international-scholars/insurance-requirements-for-j-1-scholars/)，不采用旧 development-site 的不可豁免保险说法。完整费用、2027 规则及导师容量仍未确认。

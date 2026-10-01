@@ -1,0 +1,124 @@
+[
+  {
+    "id": "hua-wei",
+    "name": "Hua Wei",
+    "aliases": [],
+    "school": "Arizona State University",
+    "homepage": "https://labs.engineering.asu.edu/hw/",
+    "title": "Assistant Professor; Data Mining and Reinforcement Learning Group",
+    "department": "School of Computing and Augmented Intelligence",
+    "batch": "control-071",
+    "discoveredAt": "2026-09-30T23:30:24Z",
+    "verifiedAt": "2026-10-01T06:11:26Z",
+    "researchAreas": [
+      "Sim-to-real reinforcement learning",
+      "Learning from demonstration",
+      "Robot lane-keeping",
+      "Trustworthy decision-making",
+      "Multi-agent learning"
+    ],
+    "fitReason": "A direct visitor inquiry route plus verified small-scale physical robot learning; broader lab work spans reinforcement learning, transportation and trustworthy AI.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "A 2025 FURI primary poster supervised by Wei shows actual miniature-vehicle lane-keeping, a real-world map and explicit policy-deployment loop. It compares behavior cloning and implicit Q-learning using simulated, real and mixed demonstrations. Full poster rendering verifies the physical setup. Results are preliminary: the poster calls differences negligible and leaves intersection maneuvers/pedestrian avoidance to future work; no strong improvement or safety claim is made. A February 2026 ASU report independently confirms the project, actual vehicles and Wei’s supervision. This establishes current-host learned execution at prototype scale, not full-size road deployment. DADiff/Found-adapt and PlantShade remain simulation/data work and are not counted as newer physical robot experiments.",
+      "sourceIds": [
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only · self-funded, ASU category unresolved",
+      "summary": "Current official prospective-student page explicitly welcomes self-funded visiting students/scholars, while separately describing ASU-enrolled master’s and PhD recruitment. Lab homepage also advertises flexible-time research interns. These are inquiry invitations without confirmed summer 2027 dates, eight-week duration, funding or acceptance.",
+      "sourceIds": [
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 22,
+      "shortVisit": 8,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantive imitation/offline RL and sim-to-real robotics; broader program includes transportation and nonrobot AI.",
+      "physical": "Primary real-robot prototype plus independent current ASU supervision; below maximum because poster-level preliminary evaluation has limited detail.",
+      "shortVisit": "Explicit generic visitor/intern inquiry, conditional self-funding; duration and summer 2027 acceptance unknown.",
+      "freshness": "2025 technical poster, independently attributed February 2026 physical project and current 2026 recruitment/research."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "search.asu.edu / source 1",
+        "url": "https://search.asu.edu/profile/3095662",
+        "summary": "Current ASU assistant-professor host and Fall2026 research/teaching record.",
+        "verifiedAt": "2026-10-01T06:11:26Z",
+        "retrieval": "Direct official HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "labs.engineering.asu.edu / source 2",
+        "url": "https://labs.engineering.asu.edu/hw/wp-content/uploads/sites/163/2025/08/CV_HuaWei_ASU.pdf",
+        "summary": "Official lab-hosted CV confirms hua.wei@asu.edu and ASU appointment since2023.",
+        "verifiedAt": "2026-10-01T06:11:26Z",
+        "retrieval": "Primary indexed CV text via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "labs.engineering.asu.edu / source 3",
+        "url": "https://labs.engineering.asu.edu/hw/prospective-students",
+        "summary": "Explicit self-funded visiting-student/scholar invitation, distinct from ASU-enrolled master’s and PhD routes. No eight-week or summer 2027 promise.",
+        "verifiedAt": "2026-10-01T06:11:26Z",
+        "retrieval": "Direct official lab HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "labs.engineering.asu.edu / source 4",
+        "url": "https://labs.engineering.asu.edu/hw/",
+        "summary": "Current faculty identity and flexible-time research-intern invitation. Future-dated/mismatched news labels are not treated as dated verification.",
+        "verifiedAt": "2026-10-01T06:11:26Z",
+        "retrieval": "Direct official lab HTML via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "forge.engineering.asu.edu / source 5",
+        "url": "https://forge.engineering.asu.edu/wp-content/uploads/2025/03/Khoa_Albert_Vo_FURI.pdf",
+        "summary": "Primary FURI poster: BC and implicit Q-learning; real miniature-robot lane-keeping setup and policy deployment. Gains explicitly described as negligible and pedestrian/intersection tasks as future work.",
+        "verifiedAt": "2026-10-01T06:11:26Z",
+        "retrieval": "Direct full primary PDF via web.run; downloaded with curl and rendered with pdftoppm for visual inspection"
+      },
+      {
+        "id": "s6",
+        "label": "news.engineering.asu.edu / source 6",
+        "url": "https://news.engineering.asu.edu/2026/02/four-students-four-hard-computing-problems/",
+        "summary": "February 23, 2026 official independent report attributes Khoa Vo’s physical sim-to-real robot project to Hua Wei’s DaRL lab. Technical limits deferred to primary poster.",
+        "verifiedAt": "2026-10-01T06:11:26Z",
+        "retrieval": "Direct official HTML via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "labs.engineering.asu.edu / source 7",
+        "url": "https://labs.engineering.asu.edu/hw/publications",
+        "summary": "Current 2026 robotics/RL research; marks supervised first authors and identifies related 2025 sim-to-real work. Publication titles alone are not physical proof.",
+        "verifiedAt": "2026-10-01T06:11:26Z",
+        "retrieval": "Direct official lab HTML via web.run"
+      },
+      {
+        "id": "s8",
+        "label": "proceedings.iclr.cc / source 8",
+        "url": "https://proceedings.iclr.cc/paper_files/paper/2026/file/3d57b2c9e75aa0fd11d8ab3abde6615c-Paper-Conference.pdf",
+        "summary": "Earlier peer verification found Found-adapt’s physical hardware remains future work; retained as simulation-only context, not the basis of promotion.",
+        "verifiedAt": "2026-10-01T00:46:00Z",
+        "retrieval": "Previously verified primary full PDF in preserved embodied exclusion record, checked 2026-10-01T00:46:00Z"
+      }
+    ],
+    "unknowns": [
+      "Existing ASU policy applies. Scholar sponsorship accepts personal financial evidence, while Student Non-Degree requires at least 51% nonpersonal/family funds and Student Intern has separate conditions. ISSC must determine the correct category; a lab’s self-funding invitation does not override institutional rules. Host approval, degree linkage where relevant, lead time, insurance and 2027 costs remain open. The lab homepage contains future-dated or mismatched news-year labels, so those labels are not used to establish freshness or a dated summer offer.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: First precisely preserved screening time; earlier preliminary lead time is unavailable and was not reconstructed.",
+      "[ASU institutional visitor rules](../eligibility_notes.md#asu-visiting-categories)"
+    ],
+    "discoveryTimestampNote": "First precisely preserved screening time; earlier preliminary lead time is unavailable and was not reconstructed.",
+    "publicEmail": "hua.wei@asu.edu"
+  }
+]

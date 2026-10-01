@@ -79,6 +79,7 @@
     "batches/control-068.json",
     "batches/control-069.json",
     "batches/control-070.json",
+    "batches/control-071.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -4211,6 +4212,34 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-070.json",
       "detailPage": "batches/control-070.md#dawn-m-tilbury"
+    },
+    {
+      "id": "hua-wei",
+      "name": "Hua Wei",
+      "aliases": [],
+      "school": "Arizona State University",
+      "title": "Assistant Professor; Data Mining and Reinforcement Learning Group",
+      "homepage": "https://labs.engineering.asu.edu/hw/",
+      "batch": "control-071",
+      "discoveredAt": "2026-09-30T23:30:24Z",
+      "verifiedAt": "2026-10-01T06:11:26Z",
+      "scores": {
+        "fit": 38,
+        "physical": 22,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Sim-to-real reinforcement learning",
+        "Learning from demonstration",
+        "Robot lane-keeping",
+        "Trustworthy decision-making",
+        "Multi-agent learning"
+      ],
+      "discoveryTimestampNote": "First precisely preserved screening time; earlier preliminary lead time is unavailable and was not reconstructed.",
+      "shortVisitStatus": "inquiry-only · self-funded, ASU category unresolved",
+      "recordFile": "batches/control-071.json",
+      "detailPage": "batches/control-071.md#hua-wei"
     },
     {
       "id": "tom-silver",

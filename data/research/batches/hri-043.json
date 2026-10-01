@@ -1,0 +1,110 @@
+[
+  {
+    "id": "kasthuri-jayarajah",
+    "name": "Kasthuri Jayarajah",
+    "aliases": [],
+    "school": "New Jersey Institute of Technology",
+    "homepage": "https://kjayarajah.github.io/",
+    "title": "Assistant Professor of Computer Science",
+    "department": "Computer Science",
+    "batch": "hri-043",
+    "discoveredAt": "2026-10-01T02:47:27Z",
+    "verifiedAt": "2026-10-01T02:49:30Z",
+    "researchAreas": [
+      "Human-autonomy teaming",
+      "Multimodal wearable sensing",
+      "Collaborative edge AI",
+      "Human-guided robot exploration",
+      "Gesture teleoperation"
+    ],
+    "fitReason": "Relevant CS/HRI systems work connects wearable gaze, pose and depth sensing with robot decisions, while a broader edge-AI program studies collaborative deep perception. Stronger on sensing, interaction and system integration than end-to-end robot policy learning.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The official MobiSys 2026 public review of ConCord confirms an end-to-end AR/HMD–robot prototype and initial real-world deployment as well as simulations, using implicit human signals for complementary exploration. It warns that human-behavior modeling uses simple proxies and evaluation is limited. NJIT’s March 27, 2026 report independently identifies Jayarajah presenting an actual robot dog driven through a wearable/VR interface. Exact ConCord robot model and full manuscript methods were not retrieved; no claim is made that it uses learned navigation, RL or a foundation model. Her current homepage explicitly identifies its first authors as her students.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current external-master’s visitor route was verified. The hiring page still describes Fall 2023 PhD recruitment and independent projects for NJIT students. Earlier UMBC summer-mentor experience and cross-institution advising are precedent, not a current short-visit invitation. Use the current NJIT directory email rather than the older UMBC address on that hiring page.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 23,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "37/40: direct computational HRI, multimodal perception and edge-AI overlap, with simpler human behavior models than richer policy-learning labs.",
+      "physical": "23/25: current primary conference review and university report confirm own-group real systems, but exact hardware and full manuscript were not verified.",
+      "shortVisit": "0/20: only old degree/local recruitment and historical mentoring verified.",
+      "freshness": "15/15: substantive June 2026 ConCord review and March 2026 physical demonstration, with current adviser attribution."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "people.njit.edu / source 1",
+        "url": "https://people.njit.edu/profile/kj373",
+        "summary": "Full current official directory verifies CS Assistant Professor, university email and research interests.",
+        "verifiedAt": "2026-10-01T02:49:30Z"
+      },
+      {
+        "id": "s2",
+        "label": "kjayarajah.github.io / source 2",
+        "url": "https://kjayarajah.github.io/",
+        "summary": "Full current homepage identifies 2026 ConCord research and its first authors as current advisees.",
+        "verifiedAt": "2026-10-01T02:49:30Z"
+      },
+      {
+        "id": "s3",
+        "label": "www.sigmobile.org / source 3",
+        "url": "https://www.sigmobile.org/mobisys/2026/program/",
+        "summary": "Official conference public review of ConCord confirms end-to-end prototype, initial real-world deployment, simulation and simple-proxy/limited-evaluation caveats.",
+        "verifiedAt": "2026-10-01T02:49:30Z"
+      },
+      {
+        "id": "s4",
+        "label": "news.njit.edu / source 4",
+        "url": "https://news.njit.edu/brain-mapping-drone-swarms-ai-connect-minds-and-challenges-makers-nce",
+        "summary": "Full March 27, 2026 university report attributes physical wearable/VR robot-dog demonstration specifically to Jayarajah; unrelated arm/drone demos are not attributed to her.",
+        "verifiedAt": "2026-10-01T02:49:30Z"
+      },
+      {
+        "id": "s5",
+        "label": "computing.njit.edu / source 5",
+        "url": "https://computing.njit.edu/mobile-computing-0",
+        "summary": "Full university research report explains her multimodal human–robot cooperation and collaborative deep-perception/edge-AI methods.",
+        "verifiedAt": "2026-10-01T02:49:30Z"
+      },
+      {
+        "id": "s6",
+        "label": "kjayarajah.github.io / source 6",
+        "url": "https://kjayarajah.github.io/hiring.html",
+        "summary": "Full page retains incoming Fall 2023 wording, PhD recruitment and NJIT-only master’s/undergraduate independent projects; no external short-visit call.",
+        "verifiedAt": "2026-10-01T02:49:30Z"
+      }
+    ],
+    "unknowns": [
+      "The physical evidence is corroborated by an official conference public review and current university demonstration, but full ConCord manuscript retrieval failed; robot model and detailed deployment protocol remain unverified.",
+      "The ConCord review explicitly characterizes human modeling as simple proxies, so do not present it as validated deep intent inference or learned control.",
+      "Reuse NJIT Prescribed Study policy: outside graduate research students have a central route, but generally at least 51% support must be nonpersonal unless a specific partner-university exception applies. A fully self-funded visit is not established.",
+      "The lab hiring page is stale and degree/local-student oriented. Eight weeks, funding, host capacity and summer 2027 acceptance require separate confirmation.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "kasthuri.jayarajah@njit.edu"
+  }
+]

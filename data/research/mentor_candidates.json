@@ -149,7 +149,8 @@
     "batches/hri-039.json",
     "batches/hri-040.json",
     "batches/hri-041.json",
-    "batches/hri-042.json"
+    "batches/hri-042.json",
+    "batches/hri-043.json"
   ],
   "candidates": [
     {
@@ -9278,6 +9279,33 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-042.json",
       "detailPage": "batches/hri-042.md#peizhu-pam-qian"
+    },
+    {
+      "id": "kasthuri-jayarajah",
+      "name": "Kasthuri Jayarajah",
+      "aliases": [],
+      "school": "New Jersey Institute of Technology",
+      "title": "Assistant Professor of Computer Science",
+      "homepage": "https://kjayarajah.github.io/",
+      "batch": "hri-043",
+      "discoveredAt": "2026-10-01T02:47:27Z",
+      "verifiedAt": "2026-10-01T02:49:30Z",
+      "scores": {
+        "fit": 37,
+        "physical": 23,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-autonomy teaming",
+        "Multimodal wearable sensing",
+        "Collaborative edge AI",
+        "Human-guided robot exploration",
+        "Gesture teleoperation"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-043.json",
+      "detailPage": "batches/hri-043.md#kasthuri-jayarajah"
     }
   ]
 }

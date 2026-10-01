@@ -1,0 +1,102 @@
+[
+  {
+    "id": "quan-nguyen",
+    "name": "Quan Nguyen",
+    "aliases": [],
+    "school": "University of Southern California",
+    "homepage": "https://sites.usc.edu/quann/",
+    "title": "Associate Professor; Director, Dynamic Robotics and Control Laboratory",
+    "department": "Aerospace and Mechanical Engineering; Computer Science",
+    "batch": "control-041",
+    "discoveredAt": "2026-10-01T02:13:24Z",
+    "verifiedAt": "2026-10-01T02:15:26Z",
+    "researchAreas": [
+      "Robot reinforcement learning",
+      "Perceptive humanoid control",
+      "Safe legged locomotion",
+      "Learning and model predictive control"
+    ],
+    "fitReason": "Very strong direct overlap: current lab develops learned whole-body control for physical humanoids, with reinforcement learning, perception adaptation and dynamic locomotion rather than only simulation.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "September 9, 2026 ViBe reports zero-shot transfer of PPO-trained visual extractor/LoRA adapters to a physical Unitree G1. A frozen visual encoder and whole-body tracker are adapted for terrain traversal, cube reorientation, object transport and dodgeball. Section 4 identifies a head-mounted RealSense D435i and 50 Hz camera/policy rate; figures explicitly show uninterrupted hardware rollouts, including outdoor and altered-lighting tests. Separate policies are trained per task with a shared recipe; this is not one universal policy. Authors are current lab PhD/MS researchers, supporting current local hardware evidence.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Live USC lab homepage, directly read in cloud browser, invites current USC undergraduate/MS research volunteers and PhD applications. These are local/degree routes. An alumni visiting-student roster is precedent only; no current external master’s short-visit invitation or summer-2027 dates verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 40,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct RL-based perception-to-action adaptation for legged physical systems.",
+      "physical": "September 2026 actual G1 hardware rollouts with named camera/control stack and current lab students.",
+      "shortVisit": "Only current-USC volunteering and PhD recruitment explicitly advertised; visitor alumni alone earn zero.",
+      "freshness": "Dated September 2026 primary paper and live official faculty/lab verification."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.cs.usc.edu / source 1",
+        "url": "https://www.cs.usc.edu/directory/faculty/profile/?fname=Quan&lname=Nguyen",
+        "summary": "Current faculty header says Associate Professor of AME and CS; email quann@usc.edu. The biography still says Assistant Professor, retained as a source inconsistency.",
+        "verifiedAt": "2026-10-01T02:15:26Z",
+        "retrieval": "Direct official page via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "sites.usc.edu / source 2",
+        "url": "https://sites.usc.edu/quann/",
+        "summary": "Live openings invite existing USC undergraduate/MS volunteers and PhD applicants. No current external short-visitor invitation; web.run gave 502 but cloud browser rendered full page.",
+        "verifiedAt": "2026-10-01T02:15:26Z",
+        "retrieval": "Direct cloud-browser page, 2026-10-01T02:14:35Z"
+      },
+      {
+        "id": "s3",
+        "label": "sites.usc.edu / source 3",
+        "url": "https://sites.usc.edu/quann/people/",
+        "summary": "Current roster lists Lokesh Krishna, Sarvesh Venkatesan and An Zhang; visiting-student item is in alumni.",
+        "verifiedAt": "2026-10-01T02:15:26Z",
+        "retrieval": "Indexed official page via web.run search"
+      },
+      {
+        "id": "s4",
+        "label": "sites.usc.edu / source 4",
+        "url": "https://sites.usc.edu/quann/publications/",
+        "summary": "Current official research list includes DiffCoTune and IROS2025 multi-mode loco-manipulation, establishing broader continuing learning/control portfolio.",
+        "verifiedAt": "2026-10-01T02:15:26Z",
+        "retrieval": "Direct cloud-browser page, 2026-10-01T02:14:47Z"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2609.09918v1",
+        "summary": "September 9, 2026 ViBe full paper identifies USC authors and physical Unitree G1 zero-shot rollouts with learned visual adaptation; Section 4 separates hardware qualitative demonstrations and controlled learning comparisons.",
+        "verifiedAt": "2026-10-01T02:15:26Z",
+        "retrieval": "Direct primary full HTML via web.run"
+      }
+    ],
+    "unknowns": [
+      "Current central faculty header says Associate Professor of AME and CS, while biography/lab people page still use Assistant Professor; latest structured header retained, with promotion date unverified. Existing USC policy supplement supports conditional scholar categories and personal funding, but specific academic appointment and host acceptance remain unresolved. Local volunteer recruitment does not authorize an external unpaid visit.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "quann@usc.edu"
+  }
+]

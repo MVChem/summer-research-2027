@@ -1,0 +1,104 @@
+[
+  {
+    "id": "tony-g-chen",
+    "name": "Tony G. Chen",
+    "aliases": [
+      "Tony Chen"
+    ],
+    "school": "Georgia Institute of Technology",
+    "homepage": "https://mirl.gatech.edu/",
+    "title": "Assistant Professor; Mechanical Intelligence Robotics Lab PI",
+    "department": "George W. Woodruff School of Mechanical Engineering",
+    "batch": "control-043",
+    "discoveredAt": "2026-10-01T02:18:30Z",
+    "verifiedAt": "2026-10-01T02:23:10Z",
+    "researchAreas": [
+      "Mechanically intelligent robots",
+      "Perception-guided aerial manipulation",
+      "Bioinspired robotics",
+      "Physical robot design"
+    ],
+    "fitReason": "Moderate, hardware-centered fit: one current published system integrates learned visual detection with actual aerial perching, while the main lab focus is mechanical design rather than RL or foundation-model algorithms.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "January 1, 2026 SLAP full paper verifies a PercepTree-based CNN tree detector feeding a polynomial planner on a physical 1.2 kg Uvify IFO-S drone. Indoor Stanford experiments use motion-capture localization, offboard Orin processing and human verification before perching; 20 trials evaluate the full detection-to-perch system. Learned bark/species classification is explicitly not implemented, and flight control is not learned. The paper states Chen was at Stanford when the work was performed, so this is prior-institution collaborative hardware, not verified current GT flight-lab access.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current GT faculty profile and MIRL homepage/people page verify PI appointment and a current team, including graduate advisees. No current external-master’s short-visit invitation or summer-2027 opening was verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 32,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Concrete learned perception participates in actual robot action, but principal portfolio and lab mission emphasize mechanisms rather than algorithmic learning.",
+      "physical": "Real full-system aircraft experiment clearly verified; reduced to20 for explicitly prior-Stanford hardware and human-in-loop conditions.",
+      "shortVisit": "No external visitor route advertised on reviewed faculty/lab pages.",
+      "freshness": "January 2026 primary technical paper and current GT official faculty/lab team verified directly."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "robotics.gatech.edu / source 1",
+        "url": "https://robotics.gatech.edu/node/118",
+        "summary": "Official IRIM faculty profile confirms GT Assistant Professor, ME department, MIRL and public email; describes mechanical intelligence as physical design.",
+        "verifiedAt": "2026-10-01T02:23:10Z",
+        "retrieval": "Direct official page via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "mirl.gatech.edu / source 2",
+        "url": "https://mirl.gatech.edu/",
+        "summary": "Lab mission is robot mechanism/platform design for robust field and bioinspired applications. Live cloud browser rendered after web.run502.",
+        "verifiedAt": "2026-10-01T02:23:10Z",
+        "retrieval": "Direct cloud-browser page, 2026-10-01T02:21:51Z"
+      },
+      {
+        "id": "s3",
+        "label": "mirl.gatech.edu / source 3",
+        "url": "https://mirl.gatech.edu/people/",
+        "summary": "Current PI and PhD/MS roster, including co-advising Avi Balakirsky with Shreyas Kousik; no visitor invitation visible.",
+        "verifiedAt": "2026-10-01T02:23:10Z",
+        "retrieval": "Direct cloud-browser page, 2026-10-01T02:22:06Z"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2601.00238v1",
+        "summary": "SLAP Sections III-C/V show CNN-based tree masks guide physical indoor perching with human verification, motion capture and offboard compute. Bark/species learning is future work. Acknowledgments explicitly place Chen at Stanford during the work.",
+        "verifiedAt": "2026-10-01T02:23:10Z",
+        "retrieval": "Direct primary full HTML via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "slap-perching.github.io / source 5",
+        "url": "https://slap-perching.github.io/",
+        "summary": "Author project page confirms 2026 IEEE Aerospace acceptance and current GT affiliation while preserving Stanford-at-time-of-work acknowledgment.",
+        "verifiedAt": "2026-10-01T02:23:10Z",
+        "retrieval": "Indexed author project page via web.run search"
+      }
+    ],
+    "unknowns": [
+      "Existing Georgia Tech Student Intern policy can cover external degree students subject to departmental approval and host sponsorship; it does not establish an invitation. This mentor is stronger for design/perception integration than core robot-learning methods. Exact project supervision, current platform access, funding and duration remain unknown.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "tonygchen@gatech.edu"
+  }
+]

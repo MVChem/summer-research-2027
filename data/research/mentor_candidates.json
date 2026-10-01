@@ -48,6 +48,10 @@
     "batches/control-037.json",
     "batches/control-038.json",
     "batches/control-039.json",
+    "batches/control-040.json",
+    "batches/control-041.json",
+    "batches/control-042.json",
+    "batches/control-043.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -2802,6 +2806,142 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-039.json",
       "detailPage": "batches/control-039.md#sayan-mitra"
+    },
+    {
+      "id": "hamed-hassani",
+      "name": "Hamed Hassani",
+      "aliases": [
+        "Seyed Hamed Hassani"
+      ],
+      "school": "University of Pennsylvania",
+      "title": "Associate Professor; Visiting Faculty Researcher at Google Research, NYC",
+      "homepage": "https://www.engineering.upenn.edu/~hassani/",
+      "batch": "control-040",
+      "discoveredAt": "2026-10-01T02:10:25Z",
+      "verifiedAt": "2026-10-01T02:11:35Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Safe embodied AI",
+        "Robust machine learning",
+        "LLM-enabled robot guardrails",
+        "Formal safety and optimization"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-040.json",
+      "detailPage": "batches/control-040.md#hamed-hassani"
+    },
+    {
+      "id": "quan-nguyen",
+      "name": "Quan Nguyen",
+      "aliases": [],
+      "school": "University of Southern California",
+      "title": "Associate Professor; Director, Dynamic Robotics and Control Laboratory",
+      "homepage": "https://sites.usc.edu/quann/",
+      "batch": "control-041",
+      "discoveredAt": "2026-10-01T02:13:24Z",
+      "verifiedAt": "2026-10-01T02:15:26Z",
+      "scores": {
+        "fit": 40,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Robot reinforcement learning",
+        "Perceptive humanoid control",
+        "Safe legged locomotion",
+        "Learning and model predictive control"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-041.json",
+      "detailPage": "batches/control-041.md#quan-nguyen"
+    },
+    {
+      "id": "ivan-ruchkin",
+      "name": "Ivan Ruchkin",
+      "aliases": [],
+      "school": "University of Florida",
+      "title": "Malachowsky Family Endowed Rising Star Assistant Professor; TEA Lab Director",
+      "homepage": "https://ivan.ece.ufl.edu/",
+      "batch": "control-042",
+      "discoveredAt": "2026-10-01T02:18:30Z",
+      "verifiedAt": "2026-10-01T02:20:04Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Safe learning-enabled autonomy",
+        "World models and uncertainty",
+        "Neural robot control",
+        "Formal verification"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-042.json",
+      "detailPage": "batches/control-042.md#ivan-ruchkin"
+    },
+    {
+      "id": "mark-r-cutkosky",
+      "name": "Mark R. Cutkosky",
+      "aliases": [
+        "Mark Cutkosky"
+      ],
+      "school": "Stanford University",
+      "title": "Fletcher Jones Professor; Biomimetics and Dexterous Manipulation Lab faculty",
+      "homepage": "https://profiles.stanford.edu/mark-cutkosky",
+      "batch": "control-042",
+      "discoveredAt": "2026-10-01T02:18:05Z",
+      "verifiedAt": "2026-10-01T02:20:04Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Force-aware robot learning",
+        "Tactile sensing",
+        "Dexterous manipulation",
+        "Bioinspired robotic systems"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-042.json",
+      "detailPage": "batches/control-042.md#mark-r-cutkosky"
+    },
+    {
+      "id": "tony-g-chen",
+      "name": "Tony G. Chen",
+      "aliases": [
+        "Tony Chen"
+      ],
+      "school": "Georgia Institute of Technology",
+      "title": "Assistant Professor; Mechanical Intelligence Robotics Lab PI",
+      "homepage": "https://mirl.gatech.edu/",
+      "batch": "control-043",
+      "discoveredAt": "2026-10-01T02:18:30Z",
+      "verifiedAt": "2026-10-01T02:23:10Z",
+      "scores": {
+        "fit": 32,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Mechanically intelligent robots",
+        "Perception-guided aerial manipulation",
+        "Bioinspired robotics",
+        "Physical robot design"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-043.json",
+      "detailPage": "batches/control-043.md#tony-g-chen"
     },
     {
       "id": "tom-silver",

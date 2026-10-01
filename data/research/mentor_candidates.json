@@ -110,7 +110,8 @@
     "batches/hri-029.json",
     "batches/hri-030.json",
     "batches/hri-031.json",
-    "batches/hri-032.json"
+    "batches/hri-032.json",
+    "batches/hri-033.json"
   ],
   "candidates": [
     {
@@ -8076,6 +8077,35 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-032.json",
       "detailPage": "batches/hri-032.md#katia-sycara"
+    },
+    {
+      "id": "zeynep-temel",
+      "name": "Zeynep Temel",
+      "aliases": [
+        "F. Z. Temel"
+      ],
+      "school": "Carnegie Mellon University",
+      "title": "Associate Professor",
+      "homepage": "https://www.ri.cmu.edu/ri-faculty/zeynep-temel/",
+      "batch": "hri-033",
+      "discoveredAt": "2026-10-01T01:39:47Z",
+      "verifiedAt": "2026-10-01T01:41:57Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Tactile representation learning",
+        "Visuotactile manipulation policies",
+        "Dexterous robotic hands",
+        "Interactive perception",
+        "Compliant robotic mechanisms"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-033.json",
+      "detailPage": "batches/hri-033.md#zeynep-temel"
     }
   ]
 }

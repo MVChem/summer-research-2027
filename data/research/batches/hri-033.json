@@ -1,0 +1,85 @@
+[
+  {
+    "id": "zeynep-temel",
+    "name": "Zeynep Temel",
+    "aliases": [
+      "F. Z. Temel"
+    ],
+    "school": "Carnegie Mellon University",
+    "homepage": "https://www.ri.cmu.edu/ri-faculty/zeynep-temel/",
+    "title": "Associate Professor",
+    "department": "Robotics Institute, School of Computer Science",
+    "batch": "hri-033",
+    "discoveredAt": "2026-10-01T01:39:47Z",
+    "verifiedAt": "2026-10-01T01:41:57Z",
+    "researchAreas": [
+      "Tactile representation learning",
+      "Visuotactile manipulation policies",
+      "Dexterous robotic hands",
+      "Interactive perception",
+      "Compliant robotic mechanisms"
+    ],
+    "fitReason": "Current work directly connects learned tactile/text representations with transformer manipulation policies, giving a concrete AI-methods fit beyond her mechanical robot-design program.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "September 27, 2026 primary manuscript documents actual Franka Emika Panda/parallel-jaw and DeltaHand experiments. Tactile exploration supplies learned, text-aligned object context to an Action Chunking Transformer for rearranging, pouring and opening boxes. Training uses 180, 80 and 50 demonstrations respectively. Object-property prediction and actual policy success are evaluated separately. Exploration follows predefined procedures and precedes manipulation; adaptive task-driven online exploration is future work.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current RI faculty and group pages verify an active lab. No specific external short-visit invitation was established. The linked Zoom Lab standalone website returned HTTP 502 in web and direct retrieval, so its current joining details could not be verified. Indexed general joining text and historical RISS participation are not scored as an external-master’s pathway.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "39/40: directly grounded multimodal representation learning and transformer-based manipulation.",
+      "physical": "25/25: specific current actual-arm and dexterous-hand policy experiments.",
+      "shortVisit": "0/20: no verified current external visitor pathway; standalone joining site unavailable.",
+      "freshness": "15/15: substantive September 2026 primary manuscript, preprint status retained."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.ri.cmu.edu / source 1",
+        "url": "https://www.ri.cmu.edu/ri-faculty/zeynep-temel/",
+        "summary": "Current official header verifies Associate Professor, RI affiliation and public email; body rank is older.",
+        "verifiedAt": "2026-10-01T01:41:57Z"
+      },
+      {
+        "id": "s2",
+        "label": "www.ri.cmu.edu / source 2",
+        "url": "https://www.ri.cmu.edu/robotics-groups/zoom-lab/",
+        "summary": "Current university lab listing verifies group and learning/control plus compliant-mechanism scope.",
+        "verifiedAt": "2026-10-01T01:41:57Z"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2609.33235v1",
+        "summary": "Full September 27, 2026 manuscript §§3–5 details real Panda/DeltaHand, tactile/text representation learning and ACT policy execution; predefined exploration limitation is explicit.",
+        "verifiedAt": "2026-10-01T01:41:57Z"
+      }
+    ],
+    "unknowns": [
+      "Current institutional directory header says Associate Professor; its older biography still says Assistant Professor. Use the current header rank.",
+      "The September 2026 source is a preprint; a peer-reviewed venue was not established for that manuscript.",
+      "Host capacity, approximately eight-week project, summer 2027 dates, equipment access and final visiting/funding appointment remain unconfirmed.",
+      "Mechanical intelligence alone is not the fit rationale: the selected evidence is actual learned manipulation.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "ztemel@andrew.cmu.edu"
+  }
+]

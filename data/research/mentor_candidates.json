@@ -129,6 +129,7 @@
     "batches/embodied-057.json",
     "batches/embodied-058.json",
     "batches/embodied-059.json",
+    "batches/embodied-060.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -7149,6 +7150,35 @@
       "shortVisitStatus": "precedent-only",
       "recordFile": "batches/embodied-059.json",
       "detailPage": "batches/embodied-059.md#qi-zhu"
+    },
+    {
+      "id": "s-shankar-sastry",
+      "name": "S. Shankar Sastry",
+      "aliases": [
+        "Shankar Sastry",
+        "S. S. Sastry"
+      ],
+      "school": "University of California, Berkeley",
+      "title": "Professor; EMBER Center Faculty Lead",
+      "homepage": "https://www2.eecs.berkeley.edu/Faculty/Homepages/sastry.html",
+      "batch": "embodied-060",
+      "discoveredAt": "2026-10-01T04:44:56Z",
+      "verifiedAt": "2026-10-01T04:46:54Z",
+      "scores": {
+        "fit": 40,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 14
+      },
+      "researchAreas": [
+        "Humanoid learning and whole-body control",
+        "Vision-language-action models",
+        "Generative motion priors",
+        "Safe adaptive and game-theoretic robot control"
+      ],
+      "shortVisitStatus": "unknown · member-level visitor lead",
+      "recordFile": "batches/embodied-060.json",
+      "detailPage": "batches/embodied-060.md#s-shankar-sastry"
     },
     {
       "id": "henny-admoni",

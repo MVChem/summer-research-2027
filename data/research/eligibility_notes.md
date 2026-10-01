@@ -28,6 +28,7 @@ Tom Silver 的 [PRPL](https://prpl-group.com/) 明确邀请外校研究生就 VS
 
 Allison Okamura 的 [CHARM 个人页](https://charm.stanford.edu/Main/AllisonOkamura) 有条件接受访客询问；关联 [CDR visitor appointments](https://centerfordesignresearch.stanford.edu/resources/visiting-appointments) 页面偏好 6–12 个月 VSR。若由 CDR 办理，需特别确认短期安排和额外费用。偏好不等于绝对禁止八周；页面 2025–26 费用不能直接作为 2027 报价。
 
+<a id="berkeley-vsr"></a>
 ## UC Berkeley · Visiting Student Researchers
 
 核查：2026-09-30T21:37:40Z。研究生 VSR 路径要求已持本科学位并在 UC 系统以外就读研究生；任期 30 天至一年，仅限线下。通常为个人或外部资金支持，不领取工资，可有主办方生活补助；服务、院系、签证和保险费用需逐项确认。满足学校身份条件仍不等于导师同意接收。

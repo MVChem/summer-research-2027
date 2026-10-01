@@ -230,6 +230,7 @@
     "batches/hri-069.json",
     "batches/hri-070.json",
     "batches/hri-071.json",
+    "batches/hri-072.json",
     "batches/hri-074.json",
     "batches/hri-076.json"
   ],
@@ -12591,6 +12592,33 @@
       "shortVisitStatus": "inquiry-only · historical physical-evidence backup",
       "recordFile": "batches/hri-071.json",
       "detailPage": "batches/hri-071.md#preeya-khanna"
+    },
+    {
+      "id": "yizhi-liu",
+      "name": "Yizhi Liu",
+      "aliases": [],
+      "school": "Syracuse University",
+      "title": "Assistant Professor",
+      "homepage": "https://ecs.syracuse.edu/faculty-staff/yizhi-liu",
+      "batch": "hri-072",
+      "discoveredAt": "2026-10-01T06:32:57Z",
+      "verifiedAt": "2026-10-01T06:42:19Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-robot collaboration in construction",
+        "Humanoid imitation and reinforcement learning",
+        "Human motion estimation and retargeting",
+        "Intent-aware robot planning",
+        "Multimodal robotic perception"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-072.json",
+      "detailPage": "batches/hri-072.md#yizhi-liu"
     },
     {
       "id": "yogesh-girdhar",

@@ -997,3 +997,10 @@ Sources: [Guides and Forms](https://www.lamar.edu/international-education/intern
 [March2026 申请表](https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/documents/j-1_biographical_information_form_march_2026.pdf) 包含 graduate student 原身份示例与个人资金选项；[现行资金页](https://iss.ucmerced.edu/J-1Funding) 及同月校方清单均为单人每月 **2,000美元**，是财力证明而非收费，旧1,600/1,800数字不作现行预算。[签证类别](https://iss.ucmerced.edu/ucm-departments/j-1scholars/categories) 列 Short-Term Scholar 最长六个月等，由OIA确定；未列 Student Intern，不能借用其他UC分校规则。[本科 Non-Degree 的51%非个人资金要求](https://iss.ucmerced.edu/ucm-departments/non-degree) 不自动套用所有研究生Scholar，但类别未批准前也不能承诺全自费。
 
 [初始申请应提前三个月](https://iss.ucmerced.edu/ucm-departments/j-1scholars/timelines)，[初始J1办理费680美元由部门recharge支付、加急370美元](https://iss.ucmerced.edu/ucm-departments/j-1scholars/fees)，最终由谁承担须问主办方。[2026校方清单](https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/documents/ucm_school_request_for_j-1_services_march_2026.pdf) 要求任命、英语及研究安全审核，Scholar至少60%线下、Non-Degree不能远程。[保险须合规并按适用规则投保或获waiver](https://iss.ucmerced.edu/professors-researchers/j-1/health-insurance)；现行材料仍有等待期细节差异，需OIA确认。八周项目、导师容量、签证分类、保险及2027费用均未获个人批准。
+
+<a id="syracuse"></a>
+## Syracuse University · 国外在读学位学生的有条件 Intern 路径
+
+核查：2026-10-01T06:42:19Z。[当前官方 J-1 指引](https://experience.syracuse.edu/intercultural-collective/center-for-international-services/scholars) 将 Student Intern 用于美国境外高校持续攻读学位的学生，最长 12 个月；需要院系邀请、学位相关培训计划、DS-7002、英语证明、保险及评估，每周至少 32 小时。未核实最短访问时长或导师空位，实际资格须由学校确认。
+
+可有薪或无薪；无薪访客须提交银行证明或资助函。当前页面列出的财力最低额为每月 1,200 美元，每位随行家属另加 500 美元，不等于 2027 完整生活预算或学校承诺资助。页面要求至少预留 8 周完成签证及抵达流程；这属于办理提前量，不是访问最短时长。内部费用、2027 标准及项目的实际安排仍需确认。航空、患者接触等活动有限制，具体机器人研究任务应由主办方审查。

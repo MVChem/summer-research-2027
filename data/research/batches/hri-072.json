@@ -1,0 +1,121 @@
+[
+  {
+    "id": "yizhi-liu",
+    "name": "Yizhi Liu",
+    "aliases": [],
+    "school": "Syracuse University",
+    "homepage": "https://ecs.syracuse.edu/faculty-staff/yizhi-liu",
+    "title": "Assistant Professor",
+    "department": "Civil and Environmental Engineering",
+    "batch": "hri-072",
+    "discoveredAt": "2026-10-01T06:32:57Z",
+    "verifiedAt": "2026-10-01T06:42:19Z",
+    "researchAreas": [
+      "Human-robot collaboration in construction",
+      "Humanoid imitation and reinforcement learning",
+      "Human motion estimation and retargeting",
+      "Intent-aware robot planning",
+      "Multimodal robotic perception"
+    ],
+    "fitReason": "Strong CS-to-physical-robot fit in vision-based human motion retargeting, teacher-student reinforcement learning and safe worker-robot collaboration. A current Syracuse-directed humanoid study provides a concrete project basis, but no external summer position is established.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The full 2026 Perception-and-action system paper, authored by Liu and his Syracuse PhD student Yanxi Liu, trains a vision-to-humanoid retargeting network plus teacher-student PPO controller in IsaacGym, tests transfer in MuJoCo, and deploys the distilled policy on an actual Unitree G1. Section 5.2 reports reproduction of eight tested actions, with representative physical flagger-signaling, pipe-carrying and concrete-block-posture examples in Figure 12. The block example is explicitly posture only because the three-finger hand cannot securely grasp a block. Thirty motions belong to human demonstration collection, not thirty verified physical robot tasks. The 82.45 mm tracking metric is reported in the simulation evaluation, and a quantified real-world trial count or success rate was not established. This is supervised short-horizon whole-body action execution, not demonstrated autonomous wall construction, dexterous manipulation or open-site deployment.",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current university sources verify an active Syracuse research group and PhD supervision. No primary source checked explicitly offers an external-master eight-week summer visit or remote internship. The general university Student Intern mechanism is conditional administrative feasibility and is not a lab invitation; opportunity points remain zero.",
+      "sourceIds": [
+        "s1",
+        "s8"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct perception-to-action and RL humanoid methods plus intent-aware HRI.",
+      "physical": "Current Syracuse-directed full-paper physical G1 deployment, with posture-only and qualitative-evaluation limitations explicit.",
+      "shortVisit": "No applicable external-master short-visit invitation verified.",
+      "freshness": "Current 2026 full paper, faculty event and group news."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "events.syracuse.edu / source 1",
+        "url": "https://events.syracuse.edu/event/cee-seminar-towards-safer-and-smarter-robot-assisted-operations-in-the-built-environment-dr-yizhi-liu",
+        "summary": "Official August 28, 2026 event verifies current Assistant Professor in CEE, construction robotics and HRI research.",
+        "verifiedAt": "2026-10-01T06:42:19Z"
+      },
+      {
+        "id": "s2",
+        "label": "ecs.syracuse.edu / source 2",
+        "url": "https://ecs.syracuse.edu/faculty-staff/yizhi-liu",
+        "summary": "Official current faculty directory endpoint; page body currently provides little detail, so exact title is corroborated by the official 2026 seminar.",
+        "verifiedAt": "2026-10-01T06:42:19Z"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/pdf/2608.01600",
+        "summary": "Full publisher-formatted 2026 paper: learned retargeting, teacher-student PPO, actual G1 transfer, eight actions, simulation-specific MPJPE, Figure 12 posture-only block caveat and short-horizon limitations.",
+        "verifiedAt": "2026-10-01T06:42:19Z"
+      },
+      {
+        "id": "s4",
+        "label": "doi.org / source 4",
+        "url": "https://doi.org/10.1016/j.cacaie.2026.100107",
+        "summary": "Primary journal publication with Syracuse-only authors and Yizhi Liu credited for supervision, methodology, funding and conceptualization.",
+        "verifiedAt": "2026-10-01T06:42:19Z"
+      },
+      {
+        "id": "s5",
+        "label": "ecs.syracuse.edu / source 5",
+        "url": "https://ecs.syracuse.edu/?p=41284",
+        "summary": "July 24, 2026 official group news confirms current PI/student lineage and robot. Its thirty-task wording is narrowed using the full paper.",
+        "verifiedAt": "2026-10-01T06:42:19Z"
+      },
+      {
+        "id": "s6",
+        "label": "onlinelibrary.wiley.com / source 6",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1111/mice.13129",
+        "summary": "Earlier 2024 intention-aware learned-perception/UR5e collaboration paper provides methodological continuity; not relabeled as current Syracuse-owned apparatus.",
+        "verifiedAt": "2026-10-01T06:42:19Z"
+      },
+      {
+        "id": "s7",
+        "label": "par.nsf.gov / source 7",
+        "url": "https://par.nsf.gov/servlets/purl/10517153",
+        "summary": "Primary author affiliation explicitly pairs Yizhi Liu, Syracuse Assistant Professor and yliu580@syr.edu.",
+        "verifiedAt": "2026-10-01T06:42:19Z"
+      },
+      {
+        "id": "s8",
+        "label": "experience.syracuse.edu / source 8",
+        "url": "https://experience.syracuse.edu/intercultural-collective/center-for-international-services/scholars",
+        "summary": "Current official conditional Student Intern route, funding evidence, 32-hour training, departmental paperwork and at least eight-week processing lead; not a lab opening.",
+        "verifiedAt": "2026-10-01T06:42:19Z"
+      }
+    ],
+    "unknowns": [
+      "Summer 2027 availability, an eight-week project, funding, remote participation and access to the G1 must be agreed with the mentor; no offer is claimed.",
+      "Current Syracuse guidance permits a J-1 Student Intern route for a student pursuing a degree at a postsecondary institution outside the United States, with a degree-related training plan, at least 32 hours per week, English evidence, insurance, a department invitation and DS-7002. Individual eligibility still needs university approval.",
+      "The current policy allows paid or unpaid internships and independent financial support documented by bank statement or sponsor letter. It lists $1,200 per month plus $500 per accompanying dependent as a minimum, not a complete 2027 living-cost quote or a stipend.",
+      "University guidance says to plan at least eight weeks for visa-and-arrival processing; this is a lead time, not evidence of an eight-week minimum visit. Minimum appointment duration and current internal fees remain unverified.",
+      "Physical evaluation is limited to short motions. The press story’s thirty-task language is broader than the full paper and is not adopted. Quantitative simulation accuracy is not relabeled as hardware accuracy.",
+      "This Syracuse civil-engineering faculty member is distinct from same-name information-systems researchers. The public email is corroborated by author affiliations in primary publications.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#syracuse)"
+    ],
+    "publicEmail": "yliu580@syr.edu"
+  }
+]

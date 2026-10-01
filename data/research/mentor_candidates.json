@@ -73,6 +73,7 @@
     "batches/embodied-031.json",
     "batches/embodied-032.json",
     "batches/embodied-033.json",
+    "batches/embodied-034.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -5259,6 +5260,33 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-033.json",
       "detailPage": "batches/embodied-033.md#karthik-desingh"
+    },
+    {
+      "id": "ji-zhang",
+      "name": "Ji Zhang",
+      "aliases": [],
+      "school": "Carnegie Mellon University",
+      "title": "Research faculty / Senior Systems Scientist",
+      "homepage": "https://frc.ri.cmu.edu/~zhangji/",
+      "batch": "embodied-034",
+      "discoveredAt": "2026-10-01T01:21:59Z",
+      "verifiedAt": "2026-10-01T01:24:28Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Vision-language navigation",
+        "Semantic scene representations",
+        "Autonomous exploration",
+        "SLAM",
+        "Cross-embodiment robot systems"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-034.json",
+      "detailPage": "batches/embodied-034.md#ji-zhang"
     },
     {
       "id": "henny-admoni",

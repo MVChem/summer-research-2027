@@ -70,3 +70,7 @@ python scripts/test_research_ledger.py
 ## 可选研究机构方向
 
 [研究机构延伸线索](adjacent_leads.md) 单独记录非大学教师主名单的研究科学家。其发现/核查时间与来源照常保留，不计入主名单人数，不与主排序混排或作分数等同。
+
+## 任职类别
+
+主名单包含官方大学目录明确列为 faculty 的研究人员，保留准确的 Research Professor、Systems Scientist 等任职标签，不将这些职称改写成 Assistant/Associate/Full Professor。大学 faculty 分类、研究指导经历与具体访客接收权限是不同事项；后者仍需另行确认。独立研究机构、未核实大学 faculty 任命的线索另列，不混排。

@@ -1,0 +1,109 @@
+[
+  {
+    "id": "ji-zhang",
+    "name": "Ji Zhang",
+    "aliases": [],
+    "school": "Carnegie Mellon University",
+    "homepage": "https://frc.ri.cmu.edu/~zhangji/",
+    "title": "Research faculty / Senior Systems Scientist",
+    "department": "Robotics Institute; Field Robotics Center",
+    "batch": "embodied-034",
+    "discoveredAt": "2026-10-01T01:21:59Z",
+    "verifiedAt": "2026-10-01T01:24:28Z",
+    "researchAreas": [
+      "Vision-language navigation",
+      "Semantic scene representations",
+      "Autonomous exploration",
+      "SLAM",
+      "Cross-embodiment robot systems"
+    ],
+    "fitReason": "SysNav (March 2026) integrates a vision-language model for semantic room-level decisions with geometric exploration and robot-specific motion control. This is a concrete foundation-model deployment direction within an established robot-autonomy group.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "SysNav deploys on a custom wheeled robot, Unitree Go2 and Unitree G1, with panoramic RGB and Livox Mid-360 LiDAR. The full paper reports 190 physical episodes, split into 78 qualitative and 112 quantitative trials. The author repository explicitly identifies Ji Zhang’s CMU group as project lead, so this is more than a coauthor-only hardware link.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The inspected personal and official group pages provide professional contact and current students/affiliates but no explicit short external-master’s visitor invitation. Prior visitor participation is only precedent. No summer 2027 route is established and the opportunity score remains zero.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong foundation-model semantic navigation, with less direct manipulation emphasis.",
+      "physical": "Detailed real cross-embodiment trials and direct project-lead attribution.",
+      "shortVisit": "No faculty-level external short-visit invitation verified; past hosting is not current availability.",
+      "freshness": "Dated March 2026 primary paper and current maintained robot implementation."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.ri.cmu.edu / source 1",
+        "url": "https://www.ri.cmu.edu/ri-faculty/ji-zhang/",
+        "summary": "Direct official Senior Systems Scientist, current faculty profile, lab affiliation and public email.",
+        "verifiedAt": "2026-10-01T01:24:28Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "frc.ri.cmu.edu / source 2",
+        "url": "https://frc.ri.cmu.edu/~zhangji/",
+        "summary": "Primary professional homepage and earlier Systems Scientist wording; research scope and contact, no explicit external visit offer.",
+        "verifiedAt": "2026-10-01T01:24:28Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2603.06914v1",
+        "summary": "March 6, 2026 full primary SysNav manuscript: deployed platforms, sensors, physical episode split and VLM/control separation.",
+        "verifiedAt": "2026-10-01T01:24:28Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "cmu-vln.github.io / source 4",
+        "url": "https://cmu-vln.github.io/",
+        "summary": "Author project provides robot execution examples and revised recording-subset statistics.",
+        "verifiedAt": "2026-10-01T01:24:28Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "github.com / source 5",
+        "url": "https://github.com/zwandering/SysNav",
+        "summary": "Author implementation explicitly credits Ji Zhang’s CMU group as project lead and separates physical robot configurations.",
+        "verifiedAt": "2026-10-01T01:24:28Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Official Robotics Institute faculty-category profile and named advisees establish university faculty scope. Exact Systems Scientist rank is preserved; independent visitor-host authority remains unverified.",
+      "Use Senior Systems Scientist from the current RI faculty directory. The personal and engineering pages retain Systems Scientist wording. Do not relabel the role as Assistant Professor.",
+      "SysNav uses Gemini for high-level decisions and classical planning with built-in Unitree locomotion control; it is not a newly trained end-to-end locomotion policy. Hardware has both cameras and LiDAR.",
+      "The 190 physical episodes include qualitative examples; they are not all quantitative comparison trials. The project’s revised path-length statistics cover only 78 complete recordings. The G1 hardware is credited to an external provider, so ownership should not be inferred.",
+      "The existing CMU institutional supplement supports an overseas-degree Student Intern route with host approval and possible personal funding. That policy does not establish individual faculty capacity, a precise eight-week appointment or 2027 costs.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "zhangji@andrew.cmu.edu",
+    "appointmentCategory": "Official Robotics Institute faculty category; exact scientist appointment retained"
+  }
+]

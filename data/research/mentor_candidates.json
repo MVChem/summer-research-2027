@@ -1335,7 +1335,7 @@
       "homepage": "https://irislab.tech/",
       "batch": "control-005",
       "discoveredAt": "2026-09-30T22:00:21Z",
-      "verifiedAt": "2026-09-30T22:01:01Z",
+      "verifiedAt": "2026-10-01T14:43:43Z",
       "scores": {
         "fit": 40,
         "physical": 25,
@@ -7196,11 +7196,11 @@
       "homepage": "https://jiachenli94.github.io/",
       "batch": "embodied-006",
       "discoveredAt": "2026-09-30T22:02:43Z",
-      "verifiedAt": "2026-09-30T22:06:50Z",
+      "verifiedAt": "2026-10-01T14:43:05Z",
       "scores": {
         "fit": 38,
         "physical": 25,
-        "shortVisit": 8,
+        "shortVisit": 10,
         "freshness": 15
       },
       "researchAreas": [

@@ -31,11 +31,12 @@
 
 <a id="ucla-lab-inquiry-dates-2027"></a>
 
-## UCLA · 两个实验室的暑期问询 / 优先审阅日期
+## UCLA · 三个实验室的暑期问询 / 优先审阅日期
 
-这些是实验室公布的问询或优先审阅时间，不是已获接收、资助或学校任命。约八周只是初步参考；两组尚未核实具体访问长度。学校材料、访问类别及入境手续可能需要更早办理，不能只按实验室日期倒推。
+这些是实验室公布的问询或优先审阅时间，不是已获接收、资助或学校任命。约八周只是初步参考；三组尚未确认统一的具体访问长度。学校材料、访问类别及入境手续可能需要更早办理，不能只按实验室日期倒推。
 
+- **Chen Tang / TAMS：按现行年度规则，2027-03-01前交暑研表单**。来源核查2026-10-01T13:43:15Z：[当前加入页面](https://chentangmark.github.io/lab/join/)明确外校硕士/本科可询问现场或远程合作，并列每年3月1日暑研表单规则；2027-03-01是年度规则的对应日期，不是独立发布的2027名额。链接表单只读取要求邮箱的首屏，后续问题未查看；旧Berkeley页脚与当前UCLA链接并存，不能据此宣布无后续时长/资助条件。官方任职生效日为2025-11-01。[完整记录](batches/control-118.md#chen-tang)
 - **Shahriar Talebi / GLACIER：按现行年度规则，2027-04-01前邮件询问**。来源核查2026-10-01T12:46:34Z：[当前招募页](https://shahriarta.github.io/prospective-students/)在硕士/本科段落明确说明，非UCLA学生如想做暑期研究，应在目标年份4月1日前联系。2027-04-01是把这条年度规则用于2027的对应日期，不是另行发布的2027正式项目公告。当前VLA安全方法以仿真为证据，未核实真实机器人执行。[完整记录](batches/control-111.md#shahriar-talebi)
 - **Kyle T. Yoshida / MOHALA：Summer2027优先截止2027-05-01**。机会页核查2026-10-01T12:53:16Z；表单补充核查2026-10-01T13:23:59Z：[当前机会页](https://www.mohalalab.org/opportunities)明确欢迎全球本科与硕士研究申请，接收取决于空间、资金、容量及项目需要。此日期是优先截止。[已完整读取的公开表单](https://docs.google.com/forms/d/e/1FAIpQLSeCeV21VKoS_qMpmSczt8RAub7gcQS8soGOwdFTVXQJx116Rg/viewform?usp=send_form)强烈偏好**超过1个quarter**；降低较短访问的首联优先级，但不把它改成硬性最低期限或精确月数。部分控件似乎禁用但无关闭文字，提交就绪状态未测试；较短安排、实际接收和硕士资助仍未知。远程说明仅明确覆盖非UCLA高中/本科，不能自动用于硕士。当前神经软驱动器建模还不是学习控制执行。[完整记录](batches/hri-100.md#kyle-t-yoshida)
 
-两人均有官方2025-07-01 AP任职记录，见[AP优先视图](ap_priority.md)。[UCLA VGR规则](eligibility_notes.md#ucla-vgr)的研究生类别与资金来源冲突仍须院系/Dashew确认；实验室邀请不替代校方批准。
+Talebi与Yoshida均有官方2025-07-01 AP任职记录，Tang为2025-11-01，见[AP优先视图](ap_priority.md)。[UCLA VGR规则](eligibility_notes.md#ucla-vgr)的研究生类别与资金来源冲突仍须院系/Dashew确认；实验室邀请不替代校方批准。

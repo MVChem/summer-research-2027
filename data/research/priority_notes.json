@@ -2100,7 +2100,7 @@
         ]
       },
       "display": "首个列明AP为UCR2024；现GT任职已确认，转校起始日未核实",
-      "caveat": "GT已到岗而非确定新首次任职；网页07/2026版权不是入职日期。现场/远程intern及访问学者表单仍在，资金/2027日期仅PhD明确。",
+      "caveat": "GT现任转校、具体到岗日未知；完整非GT/MS表单，现场/远程；时长首项3个月但有Other，非硬性最短期；现场通常限F1/J1或无需签证，自费选项不是校方批准；交表后无需另发邮件",
       "sources": [
         {
           "id": "later-h1",
@@ -3096,6 +3096,355 @@
           "evidence": "Official current Assistant Professor, professional email, human-centered robotics/AI research and August 2025 joining after Michigan PhD."
         }
       ]
+    },
+    "na-du": {
+      "appointmentStart": {
+        "year": 2021,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "h1"
+        ],
+        "evidence": "Official current profile directly states September 2021 joining.",
+        "appointmentType": "current-institution-start",
+        "month": 9
+      },
+      "display": "2021-09（官方）",
+      "caveat": "较早AP；原访客询问和研究分数保持，入职时间不是2027容量证明",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://www.sci.pitt.edu/people/na-du",
+          "observedAt": "2026-10-01T14:31:33Z",
+          "kind": "official-university",
+          "evidence": "Current official profile explicitly dates Department of Informatics and Networked Systems joining to September 2021, immediately following Michigan PhD; current Assistant Professor confirmed."
+        }
+      ]
+    },
+    "patricia-alves-oliveira": {
+      "appointmentStart": {
+        "year": 2024,
+        "precision": "day",
+        "status": "current",
+        "sourceIds": [
+          "h1"
+        ],
+        "evidence": "Official Regents appointment record explicitly gives January 1, 2024 start.",
+        "appointmentType": "current-institution-start",
+        "month": 1,
+        "day": 1
+      },
+      "display": "2024-01-01（Regents正式记录）",
+      "caveat": "初始任期文件写至2027-05-31，当前仍官方在任；不能据此推断离职/暑期关闭，续任和实际主办容量需确认",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://regents.umich.edu/files/meetings/02-24/2024-02-V-2.pdf",
+          "observedAt": "2026-10-01T14:32:16Z",
+          "kind": "official-university",
+          "evidence": "Full official February 2024 administratively approved appointment list gives Assistant Professor of Robotics, January 1, 2024–May 31, 2027. Web text fully read; separate local download returned 403, no bypass."
+        },
+        {
+          "id": "h2",
+          "url": "https://robotics.umich.edu/people/faculty/patricia-alves-oliveira/",
+          "observedAt": "2026-10-01T14:31:33Z",
+          "kind": "official-university",
+          "evidence": "Current official Robotics Assistant Professor profile confirms ongoing Michigan faculty status."
+        },
+        {
+          "id": "h3",
+          "url": "https://patricialvesoliveira.com/",
+          "observedAt": "2026-10-01T14:31:49Z",
+          "kind": "first-person-indexed",
+          "evidence": "First-person January 2024 start corroborates the official date; prior Amazon UX and UW postdoc roles are not prior faculty appointments."
+        }
+      ]
+    },
+    "tesca-fitzgerald": {
+      "appointmentStart": {
+        "year": 2022,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "h1"
+        ],
+        "evidence": "Official new-faculty poster and its date legend establish July 2022.",
+        "appointmentType": "current-institution-start",
+        "month": 7
+      },
+      "display": "2022-07（官方新教师poster及图例）",
+      "caveat": "较早AP；正式Yale访问类别仍需核实，未改变访客证据分",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://fas.yale.edu/documents/new-fas-faculty-2022-23",
+          "observedAt": "2026-10-01T14:33:31Z",
+          "kind": "official-university",
+          "evidence": "Official 2022–23 poster lists Tesca Fitzgerald without a dagger; footnote says all unmarked faculty began July 2022. Full text and rendered page visually verified."
+        },
+        {
+          "id": "h2",
+          "url": "https://engineering.yale.edu/research-and-faculty/faculty-directory/tesca-fitzgerald",
+          "observedAt": "2026-10-01T14:31:07Z",
+          "kind": "official-university-indexed",
+          "evidence": "Current official directory confirms Assistant Professor of Computer Science."
+        }
+      ]
+    },
+    "jundi-liu": {
+      "appointmentStart": {
+        "year": 2023,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "h1"
+        ],
+        "evidence": "Official Spring 2023 newsletter announces fall arrival; university-hosted CV corroborates 2023 start.",
+        "appointmentType": "current-institution-start"
+      },
+      "display": "2023（官方newsletter及大学托管CV索引）",
+      "caveat": "直接文件提取被拒，索引限定明确；未把个人ORCID日期细化为官方日；仿真方法及访客分保持",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://www.imse.iastate.edu/files/2023/06/IMSE-Newsletter_2022-2023-web.pdf",
+          "observedAt": "2026-10-01T14:33:31Z",
+          "kind": "official-university-indexed",
+          "evidence": "Indexed official Spring 2023 chair newsletter announces Jundi Liu among new fall faculty. Direct retrieval returned request-rejected; indexed-only limitation retained."
+        },
+        {
+          "id": "h2",
+          "url": "https://www.engineering.iastate.edu/people/files/2024/08/Liu_CV_2023-24.pdf",
+          "observedAt": "2026-10-01T14:33:31Z",
+          "kind": "official-hosted-cv-indexed",
+          "evidence": "Complete indexed employment section of university-hosted CV gives Iowa State Assistant Professor 2023–present and Michigan postdoc 2022–2023. Direct retrieval rejected."
+        },
+        {
+          "id": "h3",
+          "url": "https://catalog.iastate.edu/faculty/",
+          "observedAt": "2026-10-01T14:31:33Z",
+          "kind": "official-university-indexed",
+          "evidence": "Current official catalog lists Jundi Liu as Assistant Professor of Industrial and Manufacturing Systems Engineering."
+        }
+      ]
+    },
+    "preeya-khanna": {
+      "appointmentStart": {
+        "year": 2023,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "h1"
+        ],
+        "evidence": "Official dated 2023 new-faculty article supports year; separate lab CV gives July 2023 as first-person detail.",
+        "appointmentType": "current-institution-start"
+      },
+      "display": "2023（官方）；7月仅本人CV",
+      "caveat": "较早AP、历史弱真机备选；完整访客询问与资金/日期未知状态保持",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://cdss.berkeley.edu/news/cdss-welcomes-seven-new-faculty-college-community",
+          "observedAt": "2026-10-01T14:33:31Z",
+          "kind": "official-university",
+          "evidence": "Official September 12, 2023 new-faculty article identifies Khanna in the incoming fall cohort. Article date independently read from public HTML byline."
+        },
+        {
+          "id": "h2",
+          "url": "https://cdss.berkeley.edu/research/news?page=5",
+          "observedAt": "2026-10-01T14:33:15Z",
+          "kind": "official-university",
+          "evidence": "Official news index independently labels the exact new-faculty article September 12, 2023."
+        },
+        {
+          "id": "h3",
+          "url": "https://neuroscience.berkeley.edu/people/preeya-khanna",
+          "observedAt": "2026-10-01T14:33:15Z",
+          "kind": "official-university",
+          "evidence": "Current official profile: Assistant Professor of Neuroscience, Neuroscience and EECS departments."
+        },
+        {
+          "id": "h4",
+          "url": "https://neuralengatberkeley.github.io/team/preeya_cv_4_2025.pdf",
+          "observedAt": "2026-10-01T14:31:49Z",
+          "kind": "first-person-lab-cv",
+          "evidence": "Full first-person April 2025 CV states Berkeley Assistant Professor July 2023–present after UCSF postdoc May 2018–June 2023. Month has first-person provenance, not independently official institutional confirmation."
+        }
+      ]
+    },
+    "alexandra-ion": {
+      "appointmentStart": {
+        "precision": "unknown",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "h1",
+          "h2",
+          "h3",
+          "h4"
+        ]
+      },
+      "display": "本人CV2021-01；官方2020聘用群体及2021在任",
+      "caveat": "群体年份不同于到岗生效日；准确官方有效日未核，列较早/日期未定AP",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://alexandraion.com/assets/Curriculum-Vitae_Alexandra-Ion.pdf",
+          "observedAt": "2026-10-01T14:42:15Z",
+          "evidence": "Full current CV explicitly gives Assistant Professor January 2021–present and ETH postdoc through November 2020.",
+          "kind": "first-person-cv"
+        },
+        {
+          "id": "h2",
+          "url": "https://scsdean-preview.cs.cmu.edu/new-faculty/2020.html",
+          "observedAt": "2026-10-01T14:41:50Z",
+          "evidence": "Official 2020 new-hire list includes Ion; this hiring cohort is not the same as an exact effective start date.",
+          "kind": "official-university"
+        },
+        {
+          "id": "h3",
+          "url": "https://www.cs.cmu.edu/partnerships/events/new-faculty/introductionseries2020",
+          "observedAt": "2026-10-01T14:40:26Z",
+          "evidence": "Official April 15, 2021 introduction identifies current Assistant Professor after ETH postdoc.",
+          "kind": "official-university"
+        },
+        {
+          "id": "h4",
+          "url": "https://hcii.cmu.edu/people/alexandra-ion",
+          "observedAt": "2026-10-01T14:41:12Z",
+          "evidence": "Current official Assistant Professor and interim undergraduate-program director confirmed.",
+          "kind": "official-university"
+        }
+      ],
+      "reportedAppointmentStart": {
+        "year": 2021,
+        "month": 1,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "h1"
+        ],
+        "evidence": "Current personal CV explicitly gives January 2021. Independent official exact effective date remains unverified; official hiring cohort is labeled 2020."
+      }
+    },
+    "mingmin-zhao": {
+      "appointmentStart": {
+        "year": 2022,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "h1"
+        ],
+        "evidence": "Official February 20, 2023 spotlight explicitly describes joining the preceding fall; Fall 2022, no month inferred.",
+        "appointmentType": "current-institution-start"
+      },
+      "display": "2022秋（官方2023-02特写回溯）",
+      "caveat": "较早AP；真实机器人上采集与离线学习推断仍分开，物理18不变",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://blog.cis.upenn.edu/page/2/",
+          "observedAt": "2026-10-01T14:40:37Z",
+          "evidence": "Official February 20, 2023 spotlight says he joined CIS/ESE this past fall, establishing Fall 2022. Full blog text read; direct article link failed.",
+          "kind": "official-university"
+        },
+        {
+          "id": "h2",
+          "url": "https://www.cis.upenn.edu/~mingminz/",
+          "observedAt": "2026-10-01T14:41:12Z",
+          "evidence": "Current university-hosted Assistant Professor page confirms primary CIS and secondary ESE appointment.",
+          "kind": "university-hosted-first-person"
+        }
+      ]
+    },
+    "ken-nakagaki": {
+      "appointmentStart": {
+        "year": 2022,
+        "month": 1,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "Official appointment announcement gives January 2022; current profile confirms 2022 joining.",
+        "appointmentType": "current-institution-start"
+      },
+      "display": "2022-01（官方预告与当前目录）",
+      "caveat": "较早AP，未因2026访问询问而当作新入职；当前访客条件仍另核",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://cs.uchicago.edu/news/new-faculty-2022/",
+          "observedAt": "2026-10-01T14:40:11Z",
+          "evidence": "Full official September 2021 announcement explicitly gives January 2022 Assistant Professor start.",
+          "kind": "official-university"
+        },
+        {
+          "id": "h2",
+          "url": "https://computerscience.uchicago.edu/people/ken-nakagaki/",
+          "observedAt": "2026-10-01T14:41:39Z",
+          "evidence": "Current official profile corroborates 2022 joining and Assistant Professor of Computer Science after MIT doctoral research.",
+          "kind": "official-university"
+        }
+      ]
+    },
+    "pooyan-fazli": {
+      "appointmentStart": {
+        "precision": "unknown",
+        "status": "current",
+        "appointmentType": "institution-move",
+        "sourceIds": [
+          "h1",
+          "h2",
+          "h3"
+        ]
+      },
+      "display": "ASU2022–23聘用群体；此前Cleveland State AP2015秋",
+      "caveat": "明确已有更早faculty经历；ASU具体生效年月未核，不归入首次新AP",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://www.asu.edu/sites/default/files/2023-10/new-faculty-members-2022-2023-nov-10.pdf",
+          "observedAt": "2026-10-01T14:40:58Z",
+          "evidence": "Indexed official 2022–2023 New Faculty Members volume identifies Fazli as Assistant Professor. Exact calendar year/month not explicit in inspected passage; full web retrieval exceeded size limit, ordinary download returned 403, no bypass.",
+          "kind": "official-university-indexed"
+        },
+        {
+          "id": "h2",
+          "url": "https://asu.elsevierpure.com/en/persons/pooyan-fazli/",
+          "observedAt": "2026-10-01T14:42:15Z",
+          "evidence": "Current university research portal confirms Assistant Professor of Arts, Media and Engineering.",
+          "kind": "official-university"
+        },
+        {
+          "id": "h3",
+          "url": "https://innovation.csuohio.edu/research/news/email/newsletter/volume3-issue4.html",
+          "observedAt": "2026-10-01T14:41:12Z",
+          "evidence": "Official April 2016 newsletter explicitly dates Cleveland State EECS Assistant Professor joining to Fall 2015 after postdocs. This is prior faculty experience, not ASU start.",
+          "kind": "official-university"
+        }
+      ],
+      "appointmentStartWindow": {
+        "academicYear": "2022–2023",
+        "sourceIds": [
+          "h1"
+        ],
+        "status": "current",
+        "evidence": "Official new-faculty cohort only; exact effective ASU calendar-year/month remains unresolved in this bounded screen."
+      },
+      "priorFacultyAppointments": [
+        {
+          "institution": "Cleveland State University",
+          "title": "Assistant Professor of Electrical Engineering and Computer Science",
+          "year": 2015,
+          "precision": "year",
+          "season": "fall",
+          "sourceIds": [
+            "h3"
+          ]
+        }
+      ]
     }
   },
   "constraints": [
@@ -3736,6 +4085,21 @@
         {
           "url": "https://www.media.mit.edu/groups/biomechatronics/frequently-asked-questions/",
           "evidence": "Live formal domestic/international visiting-student invitation, administrator contact, institution/fellowship/program funding condition and separate absence of volunteer/intern program."
+        }
+      ]
+    },
+    {
+      "key": "jiachen-li-form-duration-and-visa-scope",
+      "candidateId": "jiachen-li",
+      "name": "Jiachen Li",
+      "kind": "capacity-or-role",
+      "scope": "Current TASL form duration options and typical onsite visa screening",
+      "summary": "时长列3/6/9/12+个月但有Other，不定为硬性最低；现场通常不接收F1/J1以外签证，另有无需签证；实际学校分类和资金另审",
+      "observedAt": "2026-10-01T14:43:05Z",
+      "sources": [
+        {
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSe73aWKsTxAaEzzmPJBDvZIAsqfxEmIrj7s9-ib_1aYZ_2CFQ/viewform?usp=send_form",
+          "evidence": "Complete current form with these specific options; no submission made."
         }
       ]
     }

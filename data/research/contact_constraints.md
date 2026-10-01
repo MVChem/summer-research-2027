@@ -220,3 +220,9 @@
 - **正式Visiting Student仍可询问；另外不设volunteer/intern项目，机构/奖学金/项目支持必要，不宣称个人存款即可或所有访客关闭**
 - 核查：2026-10-01T11:33:48Z · [来源1](https://www.media.mit.edu/groups/biomechatronics/frequently-asked-questions/)
 
+### Jiachen Li（新增候选）
+
+- 适用范围：Current TASL form duration options and typical onsite visa screening
+- **时长列3/6/9/12+个月但有Other，不定为硬性最低；现场通常不接收F1/J1以外签证，另有无需签证；实际学校分类和资金另审**
+- 核查：2026-10-01T14:43:05Z · [来源1](https://docs.google.com/forms/d/e/1FAIpQLSe73aWKsTxAaEzzmPJBDvZIAsqfxEmIrj7s9-ib_1aYZ_2CFQ/viewform?usp=send_form)
+

@@ -9,7 +9,7 @@
     "department": "School for Engineering of Matter, Transport and Energy; Mechanical and Aerospace Engineering",
     "batch": "control-005",
     "discoveredAt": "2026-09-30T22:00:21Z",
-    "verifiedAt": "2026-09-30T22:01:01Z",
+    "verifiedAt": "2026-10-01T14:43:43Z",
     "researchAreas": [
       "contact-rich robot learning",
       "dexterous manipulation",
@@ -31,14 +31,10 @@
     },
     "shortVisit": {
       "status": "inquiry-only",
-      "summary": "The joining page, last updated August 28, 2026, explicitly invites research interns working remotely or in person, depending on project fit and availability, via a form. Duration is unspecified. The separate 2026 SURI program is closed and its 2027 cycle is unpublished.",
+      "summary": "First visible page of current IRIS dedicated Research Intern Application asks arbitrary current university and degree/year with an explicit M.S. Robotics example. Modes are remote, in person or either. It asks free-text commitment time and offers dexterous-manipulation directions in physics/data generation,3D perception and robot/world-model/VLA learning. The separate current join-page ASU-local MS/UG section does not define this independent intern channel.",
       "sourceIds": [
-        "s1",
-        "s2",
-        "s3",
-        "s4",
-        "s5",
-        "s6"
+        "s7",
+        "s8"
       ]
     },
     "scores": {
@@ -101,11 +97,30 @@
         "summary": "Historical closed2026 program lists Jin; no2027 availability established.",
         "verifiedAt": "2026-09-30T22:01:01Z",
         "retrieval": "full official page opened"
+      },
+      {
+        "id": "s7",
+        "label": "Later direct intern inquiry source r1",
+        "url": "https://irislab.tech/joining/",
+        "summary": "Independent onsite/remote intern invitation, distinct from degree intake.",
+        "verifiedAt": "2026-10-01T14:42:06Z",
+        "retrieval": "complete-primary-page"
+      },
+      {
+        "id": "s8",
+        "label": "Later direct intern inquiry source r2",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSc3AxUzqR31BMwMrDc0mQJFKxMrVdVGwSOldSx2n-i844muGA/viewform",
+        "summary": "First visible page of current IRIS dedicated Research Intern Application asks arbitrary current university and degree/year with an explicit M.S. Robotics example. Modes are remote, in person or either. It asks free-text commitment time and offers dexterous-manipulation directions in physics/data generation,3D perception and robot/world-model/VLA learning. The separate current join-page ASU-local MS/UG section does not define this independent intern channel.",
+        "verifiedAt": "2026-10-01T14:43:43Z",
+        "retrieval": "first-page-only-live-cloud-browser-form"
       }
     ],
     "unknowns": [
       "Current intern invitation does not establish eight-week availability, funding, international eligibility, or acceptance. PhD openings starting as early as Spring2027 are separate from internships.",
-      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "This is a paginated form, not a complete-form verification. First page requires CV/transcript and other fields before Next; no information was entered and no later conditional pages were inspected. Later duration/funding/eligibility constraints therefore remain unknown.",
+      "Commitment example says Summer2026 May–August and10hours/week; it is an example, not a2027 slot, fixed minimum or work-authority rule.",
+      "No funding, immigration sponsorship, visitor acceptance or2027 capacity is guaranteed."
     ],
     "publicEmail": "wjin@asu.edu"
   },

@@ -125,3 +125,29 @@ Allison Okamura 的 [CHARM 个人页](https://charm.stanford.edu/Main/AllisonOka
 核查：2026-09-30T23:24:00Z。[中央 J-1 Scholar 规则](https://www.umass.edu/global-affairs/international-students-scholars/immigration/j1-scholars) 明确个人资金至多 25%，完全个人资金不符合此公布路径。Short-Term Scholar 为 1 天至 6 个月，但八周时长匹配不能代替硕士访问身份批准。[院系办理指引](https://www.umass.edu/global-affairs/international-students-scholars/departments/j1-scholars/requests) 要求原校学生提供在读证明，建议提前 3–4 个月、至少预留 90 天，并履行研究合规及访问协议。
 
 具体硕士任命名称、财力最低数和处理费的链接文件需登录，本轮未读取；不使用 Lowell 金额替代。独立 Student Intern sponsorship 未获核实。[在访规则](https://www.umass.edu/global-affairs/international-students-scholars/immigration/j1-scholars/status) 要求至少 60% 线下及正式报到，不能据此认定全远程可行。
+
+<a id="harvard-seas"></a>
+
+## Harvard · SEAS Fellow 通常至少三个月
+
+核查：2026-09-30T23:43:58Z。[SEAS Fellow](https://seas.harvard.edu/office-faculty-affairs/research-appointments/research-appointment-categories/fellow) 明确包括持有本科学位的外校研究生，需导师支持，但通常最低三个月。八周短于该标准；例外或其他获批任命未验证，不将此写成全 Harvard 禁令。[FAS Fellow 手册](https://academic-appointments.fas.harvard.edu/chapter-13b) 允许自费无薪 Fellow，列 2025 年 7 月 1 日起每月 3,500 美元 J-1 支持额；学校、任命与 2027 金额须重查，必须付薪的工作不能以指导名义改为无薪。
+
+[HIO sponsorship](https://www.hio.harvard.edu/visas-immigration/administrators/sponsorship) 要求先有学术任命，至少提前三个月请求；文件制作阶段不等于完整办理时间。[Student Intern 类别](https://www.hio.harvard.edu/visas-immigration/scholar-student-intern/j-1-intern) 可包含在国外继续攻读学位者，但最长十二个月的签证规则不覆盖 SEAS 任命的三个月最低要求。导师名额、八周例外及总成本均未确认。
+
+<a id="northwestern"></a>
+
+## Northwestern · 硕士 Intern 材料存在冲突
+
+核查：2026-09-30T23:20:58Z。[Visiting Predoctoral Fellow](https://www.tgs.northwestern.edu/about/our-community/for-staff/visiting-predoctoral-fellows.html) 明确面向外校博士在读，硕士身份不能自动使用。独立 [J-1 Student Intern 材料](https://www.northwestern.edu/international/international-scholars/j1-exchange-visitors/j-1-student-intern-student-supplement_-updated-11_2022.pdf) 的 2022 年学生表列 MA/PhD；但仍在当前流程中链接的 [2025 年 11 月院系清单](https://www.northwestern.edu/international/host-departments/j1-visas/j1-department-request-11_20251.pdf) 写 current undergraduate，硕士适用性须 OISS 与主办学院澄清。
+
+[Intern 规则](https://www.northwestern.edu/international/international-scholars/j1-exchange-visitors/visa-compliance-and-requirements/additional-requirements-for-j-1-student-interns.html) 接受个人资金、要求国外在读且返校完成学位、至少每周 32 小时；[类别表](https://www.northwestern.edu/international/international-scholars/j1-exchange-visitors/j1-visa-types.html) 列 1 天至 12 个月。时长允许八周，不代表大学任命已批准。[现行财力基准](https://www.northwestern.edu/international/international-scholars/j1-exchange-visitors/visa-compliance-and-requirements/) 每月 2,470 美元，不含健康保险；[当前中央处理费](https://www.northwestern.edu/international/host-departments/compare-visa-types-fees-processing-times/) 360 美元，与旧表 325 美元有差异。McCormick 的校内处理费由主办方支付规则及保险、实际费用须共同确认，不能将旧网页数额视为 2027 报价。上述资金规则不能消除硕士类别冲突。
+
+<a id="northeastern"></a>
+
+## Northeastern · Visiting Student 需多数外部资助
+
+核查：2026-09-30T23:48:24Z。[中央 OGS 财力页](https://international.northeastern.edu/ogs/exchange-visitor-program/j-1-scholars/financial-requirements-for-j-1-scholars/) 要求 Visiting Students 超过 50% 的支持来自学校、原机构或其他非个人/家庭来源；其数值示例恰为一半，边界需 OGS 澄清，不能据此把完全个人自费视为可行。现列每年 28,000 美元、每月约 2,333 美元财力证明，并非完整生活预算或大学账单；2027 再核实。
+
+[工程学院访问页](https://coe.northeastern.edu/about/exchange/) 明确包括在读硕士，需导师、原机构函件和正式流程，估计完整提交至抵达需 5–7 个月。[中央新访客指引](https://international.northeastern.edu/ogs/exchange-visitor-program/j-1-scholars/information-for-new-j-1-scholars/) 列 Student Non-Degree 为 3 周至 2 年，要求至少提前四个月启动；具体院系任命及注册另须满足。不能将当前硕士改称 Scholar 以规避该学生资金条件。
+
+仍公开的 [路由表](https://provost.northeastern.edu/wp-content/uploads/2025/08/Exchange-Visitor-Program-Proposal-and-Routing-Process-Form.pdf) 内部修订于 2020 年，列每月 1/15 日开始、学生最长一年与每周 20 小时；这些与中央分类及当前流程的差异应确认，不拼接成新的强制规则，也不套用其他学校 Student Intern 的 32 小时规定。学校规则不证明 2027 导师名额。

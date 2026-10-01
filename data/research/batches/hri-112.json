@@ -1,0 +1,151 @@
+[
+  {
+    "id": "yunus-alapan",
+    "name": "Yunus Alapan",
+    "aliases": [],
+    "school": "University of Wisconsin–Madison",
+    "homepage": "https://biointegratedroboticslab.engr.wisc.edu/",
+    "title": "Assistant Professor of Mechanical Engineering",
+    "department": "Mechanical Engineering; Biomedical Engineering affiliation; Bio-integrated Robotics Lab",
+    "batch": "hri-112",
+    "discoveredAt": "2026-10-01T14:14:23Z",
+    "verifiedAt": "2026-10-01T14:15:36Z",
+    "researchAreas": [
+      "Neural-surrogate robot co-design",
+      "Quality-diversity optimization",
+      "Magnetic soft microrobots",
+      "Morphology and magnetization optimization"
+    ],
+    "fitReason": "Recent Assistant Professor and computational soft-robot co-design backup. A full neural design method with explicit supervisory contribution is verified; actual fabricated soft robots do not establish an online learned control policy.",
+    "physicalEvidence": {
+      "status": "unverified",
+      "summary": "The full March 2025 study couples MAP-Elites search with a six-hidden-layer neural surrogate and CPPN morphology encoding. Simulated candidates guide shape/magnetization design, after which fabricated magnetic soft robots jump and traverse under predefined external fields. The learned component optimizes the design offline; field-control learning is explicitly a future extension. Alapan contributed study design, analysis and supervision. This Max Planck-centered collaboration is not evidence of current UW-owned learned-control apparatus, so physical score is 0 despite real material/robot experiments.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9"
+      ]
+    },
+    "shortVisit": {
+      "status": "precedent-only",
+      "summary": "No current explicit external-master research-visitor, summer or remote opportunity was found on inspected faculty/lab pages. The official roster records prior undergraduate summer interns from other universities, which is useful history but not a current outside-master invitation.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9"
+      ]
+    },
+    "scores": {
+      "fit": 35,
+      "physical": 0,
+      "shortVisit": 0,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "Verified neural-surrogate and evolutionary design of soft robot morphology and behavior.",
+      "physical": "Offline co-design with fixed external-field actuation; no executed learned controller verified.",
+      "shortVisit": "Past undergraduate visits and institution policy do not establish a current outside-master route.",
+      "freshness": "Full 2025 method; 2026 teaching and publicity do not alone justify a higher method-freshness score."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.wisc.edu / source 1",
+        "url": "https://engineering.wisc.edu/directory/profile/yunus-alapan/",
+        "summary": "Current official Mechanical Engineering Assistant Professor, BME affiliation, professional email and current graduate research courses.",
+        "verifiedAt": "2026-10-01T14:15:36Z"
+      },
+      {
+        "id": "s2",
+        "label": "engineering.wisc.edu / source 2",
+        "url": "https://engineering.wisc.edu/wp-content/uploads/2024/05/ME_newsletter-spring-2024.pdf",
+        "summary": "Official Spring 2024 departmental newsletter page 4 explicitly states March 2024 Assistant Professor joining.",
+        "verifiedAt": "2026-10-01T14:15:36Z"
+      },
+      {
+        "id": "s3",
+        "label": "biointegratedroboticslab.engr.wisc.edu / source 3",
+        "url": "https://biointegratedroboticslab.engr.wisc.edu/",
+        "summary": "Current PI-directed bio-integrated robotics group and research scope; no separate outside-master offer.",
+        "verifiedAt": "2026-10-01T14:15:09Z"
+      },
+      {
+        "id": "s4",
+        "label": "www.nature.com / source 4",
+        "url": "https://www.nature.com/articles/s41467-025-58091-z",
+        "summary": "Full March 2025 neural-surrogate/MAP-Elites design method, fixed external-field physical tests, Max Planck collaboration and explicit Alapan supervision contribution.",
+        "verifiedAt": "2026-10-01T14:15:21Z"
+      },
+      {
+        "id": "s5",
+        "label": "biointegratedroboticslab.engr.wisc.edu / source 5",
+        "url": "https://biointegratedroboticslab.engr.wisc.edu/team/",
+        "summary": "Official roster lists previous outside-university undergraduate summer interns. Precedent is not a current master’s invitation.",
+        "verifiedAt": "2026-10-01T14:15:36Z"
+      },
+      {
+        "id": "s6",
+        "label": "ifss.wisc.edu / source 6",
+        "url": "https://ifss.wisc.edu/j-1-scholars/",
+        "summary": "Reused central completed-bachelor’s scholar pathway, campus presence and insurance; exact foreign-master classification unresolved.",
+        "verifiedAt": "2026-10-01T00:19:41Z"
+      },
+      {
+        "id": "s7",
+        "label": "ifss.wisc.edu / source 7",
+        "url": "https://ifss.wisc.edu/host-department-toolkit/",
+        "summary": "Reused one-week to six-month Short-Term Scholar duration, formal appointment and supervisor availability requirements.",
+        "verifiedAt": "2026-10-01T00:19:41Z"
+      },
+      {
+        "id": "s8",
+        "label": "terradotta.wisc.edu / source 8",
+        "url": "https://terradotta.wisc.edu/_customtags/ct_FileRetrieve.cfm?File_ID=89920",
+        "summary": "Reused July 2026 scholar funding table accepts personal bank evidence and totals $2,431/month including insurance component; actual 2027 billing must be confirmed.",
+        "verifiedAt": "2026-10-01T00:19:41Z"
+      },
+      {
+        "id": "s9",
+        "label": "hr.engr.wisc.edu / source 9",
+        "url": "https://hr.engr.wisc.edu/administrators-supervisors/international-appointments/",
+        "summary": "Reused Engineering four-month planning guidance and honorary appointment workflow; no individual admission implied.",
+        "verifiedAt": "2026-10-01T00:19:41Z"
+      }
+    ],
+    "unknowns": [
+      "This is a neural robot-design backup, not a verified learned-action-policy lab record. Physical demonstrations are real but externally actuated using predefined fields.",
+      "A suitable CS-oriented simulation/design project, Summer 2027 supervision, duration, outside-master eligibility, funding, remote arrangements and current equipment access require confirmation.",
+      "Clinical or patient-contact research eligibility is not established; do not infer clinical access from the biomedical research agenda.",
+      "UW–Madison feasibility reused from 2026-10-01T00:19:41Z: completed-bachelor’s cases can be reviewed under scholar rules and Short-Term Scholar permits one week to six months; the exact academic/immigration category for a current external master’s student still needs host and IFSS approval.",
+      "Scholar-only funding guidance accepts personal bank evidence and currently totals $2,431/month including a $182 insurance component. SHIP may be billed half-yearly or annually; actual short-visit and 2027 charges require confirmation.",
+      "Central initiation is at least three months ahead, Engineering at least four months. The supervisor must be in Madison throughout, including summer; primarily campus-based work and at most 40% remote authorization are separate from any fully remote arrangement.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor review](../eligibility_notes.md#wisconsin-madison); sources retain the original policy-observation times."
+    ],
+    "publicEmail": "alapan@wisc.edu",
+    "appointmentStart": {
+      "year": 2024,
+      "month": 3,
+      "precision": "month",
+      "status": "current",
+      "sourceIds": [
+        "s2"
+      ],
+      "evidence": "Official Spring 2024 Mechanical Engineering newsletter page 4 explicitly states March 2024 joining as Assistant Professor.",
+      "appointmentType": "unresolved"
+    },
+    "candidateTier": "计算机器人共设计备选；学习驱动动作未核"
+  }
+]

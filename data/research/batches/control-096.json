@@ -1,0 +1,227 @@
+[
+  {
+    "id": "tae-myung-huh",
+    "name": "Tae Myung Huh",
+    "aliases": [
+      "Taemyung Huh",
+      "Tae-Myung Huh"
+    ],
+    "school": "University of California, Santa Cruz",
+    "homepage": "https://tml.engineering.ucsc.edu/",
+    "title": "Assistant Professor",
+    "department": "Electrical and Computer Engineering; Tactile Manipulation Lab",
+    "batch": "control-096",
+    "discoveredAt": "2026-10-01T10:46:38Z",
+    "verifiedAt": "2026-10-01T11:00:43Z",
+    "researchAreas": [
+      "Learned grasp perception and haptic manipulation",
+      "Soft robotic sensing",
+      "Data-driven tactile sensing"
+    ],
+    "fitReason": "Current manipulation PI with verified learned-vision-guided physical picking in an older Berkeley collaboration and current UCSC tactile-sensing research; current local learned-action evidence remains limited.",
+    "physicalEvidence": {
+      "status": "Older collaborative learned-perception-to-action; current local hardware verified separately without new learned control",
+      "summary": "The complete September 2023 Smart Suction Cup paper uses GQCNN learned grasp-quality proposals from depth data to seed actual UR10 bin picking; subsequent pressure-based haptic corrections are model-based. Nineteen adversarial objects and 1316 autonomous attempts establish execution. Huh is already UCSC-affiliated, but the apparatus belongs to the Berkeley collaboration, so UCSC access is not inferred. July 2026 PinFT independently demonstrates current UCSC Franka Research3 manipulation, but initial arm placement is manual and gripper width/motions are prescribed; polynomial sensor calibration and force monitoring do not establish a learned action policy. The 2025 Strain in Sound gradient-boosting study is sensor/strain estimation, not robot execution.",
+      "sourceIds": [
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The lab join page distinguishes PhD, MS and postdoctoral intake; its MS item is a January 2023 lab-setup assistant role, not a current external-master invitation. UCSC has announced an outside-graduate eight-week summer 2027 ISRP, but Huh is not identified in the catalog inspected. Institution feasibility alone earns no lab short-visit points.",
+      "sourceIds": [
+        "s2",
+        "s7",
+        "s8"
+      ]
+    },
+    "scores": {
+      "fit": 33,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantive learned grasp perception and tactile regression, while principal haptic control remains classical.",
+      "physical": "Verified older collaborative actual learned-perception-guided manipulation; newer local hardware is not upgraded to current learned control.",
+      "shortVisit": "No explicit lab external visitor route; university program does not identify this PI.",
+      "freshness": "Dated July 10, 2026 current-UCSC manipulation-sensor paper, explicitly separated from older learned execution."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "campusdirectory.ucsc.edu / source 1",
+        "url": "https://campusdirectory.ucsc.edu/cd_detail?uid=thuh",
+        "summary": "Current official assistant professor, regular-faculty status and public email.",
+        "verifiedAt": "2026-10-01T11:00:35Z",
+        "retrieval": "Direct primary/official source via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "tml.engineering.ucsc.edu / source 2",
+        "url": "https://tml.engineering.ucsc.edu/joinus/",
+        "summary": "Full lab recruitment page: degree intake and dated 2023 MS lab-setup task; no external-master short-visit offer.",
+        "verifiedAt": "2026-10-01T10:48:55Z",
+        "retrieval": "Public primary HTML downloaded and read locally"
+      },
+      {
+        "id": "s3",
+        "label": "tml.engineering.ucsc.edu / source 3",
+        "url": "https://tml.engineering.ucsc.edu/publication/",
+        "summary": "Current lab publication list, including 2025 sensor-learning paper.",
+        "verifiedAt": "2026-10-01T10:48:55Z",
+        "retrieval": "Public primary HTML downloaded and read locally"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2309.07360v1",
+        "summary": "Full first 2023 paper verifies GQCNN-seeded real UR10 picking and classical haptic correction; collaboration provenance qualified.",
+        "verifiedAt": "2026-10-01T11:00:35Z",
+        "retrieval": "Direct primary/official source via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2607.10000v1",
+        "summary": "Complete July 10, 2026 current-UCSC PinFT paper: actual FR3 gripper sensing, manual positioning and scripted motions rather than learned feedback control.",
+        "verifiedAt": "2026-10-01T11:00:43Z",
+        "retrieval": "Direct primary/official source via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2604.20017v1",
+        "summary": "Full 2025 RoboSoft strain-sensing paper repostedApril 2026; gradient boosting is sensor estimation, with mannequin evaluation.",
+        "verifiedAt": "2026-10-01T10:48:55Z",
+        "retrieval": "Direct primary/official source via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "global.ucsc.edu / source 7",
+        "url": "https://global.ucsc.edu/visiting-students/isrp/isrp-how-to-apply/",
+        "summary": "Live 2027 eight-week institution program; no mentor-specific offer.",
+        "verifiedAt": "2026-10-01T10:56:03Z",
+        "retrieval": "Live cloud-browser visible page"
+      },
+      {
+        "id": "s8",
+        "label": "ucsc-isrp.softr.app / source 8",
+        "url": "https://ucsc-isrp.softr.app/",
+        "summary": "Catalog checked and still shows 2025–26 projects; Huh participation not established.",
+        "verifiedAt": "2026-10-01T10:57:00Z",
+        "retrieval": "Live cloud-browser visible page"
+      }
+    ],
+    "unknowns": [
+      "Previously reviewed UCSC conditions apply. Outside-degree masters can use a degree-linked Student Intern process with home approval, continued enrollment, return to complete the degree and at least32h/week. Published 2027 ISRP timing is compatible, but its partner-university wording, competitive project selection and current catalog uncertainty require checking. Personal funds are permitted subject to documentation; current principal threshold is$2200/month and the program/living fees are additional planning considerations. Lab capacity, visitor hardware access, funding and remote arrangement are unknown.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: First precisely preserved source-observation time; earlier incidental lead time and source are unavailable and were not reconstructed.",
+      "[Institutional visitor rules](../eligibility_notes.md#uc-santa-cruz)",
+      "[Institutional visitor review](../eligibility_notes.md#uc-santa-cruz); sources retain the original policy-observation times."
+    ],
+    "discoveryTimestampNote": "First precisely preserved source-observation time; earlier incidental lead time and source are unavailable and were not reconstructed.",
+    "publicEmail": "thuh@ucsc.edu"
+  },
+  {
+    "id": "shinjiro-sueda",
+    "name": "Shinjiro Sueda",
+    "aliases": [
+      "Shinjiro Sueda (Texas A&M)"
+    ],
+    "school": "Texas A&M University",
+    "homepage": "https://people.engr.tamu.edu/sueda/index.html",
+    "title": "Associate Professor",
+    "department": "Computer Science and Engineering; Aggie Graphics Group",
+    "batch": "control-096",
+    "discoveredAt": "2026-10-01T10:47:13Z",
+    "verifiedAt": "2026-10-01T11:00:43Z",
+    "researchAreas": [
+      "Physics-based robotic assembly",
+      "Reinforcement learning for contact-rich insertion",
+      "Differentiable and learned simulation"
+    ],
+    "fitReason": "Current US faculty coauthor of verified RL-controlled physical dual-arm assembly, with a broader physics-based simulation and computational fabrication program.",
+    "physicalEvidence": {
+      "status": "2025 collaborator-hardware physical RL; no verified Texas A&M local platform or visitor access",
+      "summary": "The complete 2025 Fabrica paper combines assembly sequence/grasp/motion planning with PPO-trained residual part-pose actions passed to task-space impedance control on two real Franka Panda arms. Simulation training is in Isaac Gym; physical operation uses calibrated bases, predefined pickup/assembly regions and custom pickup fixtures. The headline80% is successful assembly steps, not whole-assembly completion. Manual interventions remain, and the core insertion policy relies on joint encoders rather than external force/vision feedback. The acknowledgment places Panda support in MIT’s Adelson lab; Sueda is a Texas A&M coauthor, without verified local TAMU apparatus or direct lead-student supervision. Physical credit is therefore collaborative.",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "precedent-only",
+      "summary": "Current faculty homepage lists enrolled students and a2018 PhD visitor, which is historical precedent only. No current external-master, eight-week, remote or funded-visitor invitation was verified. The 2026 learned-PDE paper confirms ongoing research activity but is not additional robot execution.",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "scores": {
+      "fit": 34,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Concrete robot-assembly RL contribution within a primarily simulation/graphics program.",
+      "physical": "Verified real dual-arm execution, but collaborative MIT apparatus with no current TAMU physical-group ownership evidence.",
+      "shortVisit": "No current external short-visit invitation; historical PhD visitor is not a master offer.",
+      "freshness": "Explicit June 2026 learned-simulation publication; physical assembly evidence remains 2025."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.tamu.edu / source 1",
+        "url": "https://engineering.tamu.edu/cse/profiles/sueda-shinjiro.html",
+        "summary": "Current official associate-professor role and contact.",
+        "verifiedAt": "2026-10-01T11:00:35Z",
+        "retrieval": "Direct primary/official source via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "people.engr.tamu.edu / source 2",
+        "url": "https://people.engr.tamu.edu/sueda/index.html",
+        "summary": "Current group roster,2018 doctoral visitor and explicitly datedJune 2026 learned-multigrid research.",
+        "verifiedAt": "2026-10-01T11:00:43Z",
+        "retrieval": "Direct primary/official source via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "fabrica.csail.mit.edu / source 3",
+        "url": "https://fabrica.csail.mit.edu/",
+        "summary": "Primary project and coauthor attribution for CoRL 2025 robotic assembly.",
+        "verifiedAt": "2026-10-01T11:00:43Z",
+        "retrieval": "Direct primary/official source via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "fabrica.csail.mit.edu / source 4",
+        "url": "https://fabrica.csail.mit.edu/static/pdf/paper.pdf",
+        "summary": "Full primary paper and appendices verify physical PPO insertion, deployment limitations and MIT apparatus acknowledgment.",
+        "verifiedAt": "2026-10-01T10:51:28Z",
+        "retrieval": "Public primary PDF downloaded; complete pdftotext read locally"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/abs/2506.05168",
+        "summary": "First 2025 paper record; publication timing does not imply a later new experiment.",
+        "verifiedAt": "2026-10-01T10:51:28Z",
+        "retrieval": "Direct primary/official source via web.run"
+      }
+    ],
+    "unknowns": [
+      "Previously reviewed Texas A&M conditions apply. Current Student Intern policy includes overseas undergraduate/master degree students for 3weeks–12months, degree relevance, at least32h/week and return to complete the degree. The current$2000/month proof threshold can use personal/family funds within12months, plus required insurance and documentation. A host department must sponsor the request, obtain HR/compliance approval and bear its$350 operational fee.2027 costs, host willingness, exact dates, lab access and any stipend remain unconfirmed.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: First precisely preserved source-observation time; earlier incidental lead time is unavailable and was not reconstructed.",
+      "[Institutional visitor rules](../eligibility_notes.md#texas-am)",
+      "[Institutional visitor review](../eligibility_notes.md#texas-am); sources retain the original policy-observation times."
+    ],
+    "discoveryTimestampNote": "First precisely preserved source-observation time; earlier incidental lead time is unavailable and was not reconstructed.",
+    "publicEmail": "sueda@tamu.edu"
+  }
+]

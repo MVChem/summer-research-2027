@@ -1,0 +1,155 @@
+[
+  {
+    "id": "yangming-shi",
+    "name": "Yangming Shi",
+    "aliases": [],
+    "school": "Colorado School of Mines",
+    "homepage": "https://shiyangming.com/",
+    "title": "Assistant Professor",
+    "department": "Civil and Environmental Engineering; Robotics Program; Yangming Research Group",
+    "batch": "embodied-101",
+    "discoveredAt": "2026-10-01T13:58:51Z",
+    "verifiedAt": "2026-10-01T14:12:37Z",
+    "researchAreas": [
+      "Human-to-robot skill transfer",
+      "Diffusion imitation learning",
+      "Learned robot perception and online trajectory refinement",
+      "Quadruped navigation",
+      "Human-centered construction robotics"
+    ],
+    "fitReason": "Substantive current robot-learning option spanning human-video skill transfer to diffusion policies and robust learned perception for quadruped navigation. The lab has current Robotics PhD advising and2026 robot-method publications. It is a2023 faculty move rather than a first-time2025–26 AP, so secondary to the freshest hires.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Current directed-lab25, limited-demo scope. Full CVPR2026 MEIS workshop paper §4.5 explicitly implements its perception framework on Unitree Go2 with onboard NVIDIA Jetson Orin and RealSense D435i. ORB-SLAM3, YOLOv8 pedestrian segmentation, learned PPT trajectory prediction and online multi-expert residual refinement feed FMM/local-search planning; velocity commands drive Go2 via its high-level SDK. Laboratory trials send the robot toward fixed targets while a person approaches at varying speeds. Both authors are Mines, and Qi Yin is a current Robotics PhD in Shi’s group. Hardware trial count and numerical collision/success result are not given. Separate2025 UniPrototype full §IV-D reports real FR3 diffusion-imitation experiments, but that Mines/Northeastern collaboration’s hardware site is unresolved and is not the basis for current-local25.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Visitor0. The live group people page invites interested researchers generically, but no external-master visit category, summer2027 slot, duration or funding offer is verified. A January 2022 visiting undergraduate from Argentina was at the former Alabama host, not current Mines/master eligibility. Local Mines MS/UG research and former Alabama MS appointments are not external short-visit offers.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct human-video diffusion imitation and current learned quadruped perception; focused robot-AI fit despite broader civil/HRI agenda.",
+      "physical": "Full2026 Mines-only paper explicitly deploys onboard learned perception/prediction in actual Go2 navigation; current student linkage verified. Limited-demo scope and absence of physical numerical trial results explicit.",
+      "shortVisit": "No current outside-master or short-visitor invitation verified; general institution mechanism and old foreign undergraduate visit do not earn lab opportunity points.",
+      "freshness": "Full2026 workshop robot-method paper plus current 2026 lab and advising corroboration."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.mines.edu / source 1",
+        "url": "https://www.mines.edu/about/faculty-directory/profiles/yangming-shi.html",
+        "summary": "Current Mines CEE Assistant Professor, Robotics affiliation, public professional email and link to lab.",
+        "verifiedAt": "2026-10-01T14:07:51Z",
+        "retrieval": "complete-primary-page-or-paper"
+      },
+      {
+        "id": "s2",
+        "label": "shiyangming.com / source 2",
+        "url": "https://shiyangming.com/",
+        "summary": "Dated news lists August 2023 Mines AP move and August 2021 Alabama AP start;2026 lab activity. January 2022 visiting undergraduate is historical former-host precedent only.",
+        "verifiedAt": "2026-10-01T14:07:51Z",
+        "retrieval": "complete-primary-page-or-paper"
+      },
+      {
+        "id": "s3",
+        "label": "shiyangming.com / source 3",
+        "url": "https://shiyangming.com/people/",
+        "summary": "Full public HTML verifies current Robotics PhD Qi Yin in Shi group, plus current MS/UG mentoring. Generic contact invitation does not specify outside-master visitors.",
+        "verifiedAt": "2026-10-01T14:10:31Z",
+        "retrieval": "complete-primary-page-or-paper"
+      },
+      {
+        "id": "s4",
+        "label": "openaccess.thecvf.com / source 4",
+        "url": "https://openaccess.thecvf.com/content/CVPR2026W/MEIS/papers/Yin_Mitigating_Multi-Module_Errors_for_Reliable_Navigation_in_Dynamic_Environments_via_CVPRW_2026_paper.pdf",
+        "summary": "Full publisher PDF downloaded and extracted. §3 methods: YOLOv8/PPT and online refinement; §4.5 real Go2 onboard Orin/D435i execution through SDK in dynamic-person laboratory tasks. Prior section benchmark metrics are separate.",
+        "verifiedAt": "2026-10-01T14:12:21Z",
+        "retrieval": "complete-primary-page-or-paper"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2509.23021v1",
+        "summary": "Full2025 UniPrototype learns temporal skill prototypes and conditions diffusion actions; §IV-D actual FR3 four tasks24trials each. Joint Mines/Northeastern authors, site unresolved.",
+        "verifiedAt": "2026-10-01T14:08:19Z",
+        "retrieval": "complete-primary-page-or-paper"
+      },
+      {
+        "id": "s6",
+        "label": "shiyangming.com / source 6",
+        "url": "https://shiyangming.com/research/",
+        "summary": "Current robot learning/navigation research list and2026 work; several future/placeholder items explicitly excluded from completed-evidence claims.",
+        "verifiedAt": "2026-10-01T14:10:31Z",
+        "retrieval": "complete-primary-page-or-paper"
+      },
+      {
+        "id": "s7",
+        "label": "helpcenter.mines.edu / source 7",
+        "url": "https://helpcenter.mines.edu/TDClient/2657/maps/KB/Article/146738/Contingent-Connected-Appointments-How-To-Start-a-Job-Requisition-for-a-Contingent-Connected-Worker-t",
+        "summary": "Reused published Mines review: unpaid Contingent Visiting Scholar includes graduate students at other institutions; host-led appointment, compliance and background check.",
+        "verifiedAt": "2026-09-30T22:45:09Z",
+        "retrieval": "complete-primary-page-or-paper"
+      },
+      {
+        "id": "s8",
+        "label": "global.mines.edu / source 8",
+        "url": "https://global.mines.edu/international-scholar-services/application-procedures-for-j-1-exchange-visitors-and-their-host-departments/",
+        "summary": "Reused published Mines review:4–6month preparation, current$3,000/month requirement and permitted documented personal/family funds; final ISSS approval required.",
+        "verifiedAt": "2026-09-30T22:45:09Z",
+        "retrieval": "complete-primary-page-or-paper"
+      }
+    ],
+    "unknowns": [
+      "August 2023 Mines arrival follows August 2021 Alabama AP service; current-institution recency must not be represented as first faculty appointment.",
+      "CVPR2026 source is a workshop paper, not the main conference. Its88.5% trajectory and59.9% localization improvements are dataset metrics, not physical Go2 success rates. Laboratory execution is explicit but limited and not quantitatively detailed.",
+      "The current stack combines learned perception/prediction with online conformal-style residual updates and classical FMM/local search. Do not describe the entire Go2 controller as end-to-end neural locomotion or a VLA.",
+      "UniPrototype supplies additional2025 actual FR3 learning evidence with shared/unresolved hardware site. Its paper describes four evaluation tasks while the figure caption illustrates five; avoid overprecise performance marketing or treating all illustrated tasks as separately evaluated.",
+      "FastVLA and LowDiff entries on the lab page retain placeholder arXiv/code links; do not claim completed results from those titles.",
+      "The current ConRobo-Nav2026 proceedings page’s download link returned an unrelated GPR-Former PDF. No execution claim relies on that mismatched file.",
+      "No PI commitment, summer2027 capacity, remote arrangement, funding or hardware access is established.",
+      "Mines institutional evidence observed2026-09-30T22:45:09Z: external graduate students can fall within unpaid Contingent Visiting Scholar, host starts appointment, with ISSS/export-control/background review. J1 host preparation4–6months; current minimum$3,000/month and documented personal/family funds permitted. Exact2027 category, fees, insurance, duration and self-funding approval remain individual determinations; remote work outsideUS needs separate approval.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: Earliest precisely retained primary author-name observation; an earlier untimed name-only lead was not reconstructed.",
+      "[Institutional visitor review](../eligibility_notes.md#colorado-mines); sources retain the original policy-observation times."
+    ],
+    "discoveryTimestampNote": "Earliest precisely retained primary author-name observation; an earlier untimed name-only lead was not reconstructed.",
+    "publicEmail": "yangming.shi@mines.edu",
+    "appointmentStart": {
+      "year": 2023,
+      "month": 8,
+      "precision": "month",
+      "status": "current",
+      "appointmentType": "institution-move",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ],
+      "evidence": "Current Mines appointment independently verified by official directory; first-person lab history explicitly gives August2023 Mines start and prior August2021 University of Alabama AP start. This is an institution move, not first faculty service. Official2023 new-faculty cohort is indexed corroboration only and not needed for exact month."
+    }
+  }
+]

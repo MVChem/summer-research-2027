@@ -1,0 +1,157 @@
+[
+  {
+    "id": "rachael-bevill-burns",
+    "name": "Rachael Bevill Burns",
+    "aliases": [
+      "Rachael Burns",
+      "Rachael B. Burns",
+      "Rachael Bevill"
+    ],
+    "school": "University of Tennessee, Knoxville",
+    "homepage": "https://stari.labs.utk.edu/",
+    "title": "Assistant Professor of Electrical Engineering and Computer Science",
+    "department": "Electrical Engineering and Computer Science; STARI Lab",
+    "batch": "hri-116",
+    "discoveredAt": "2026-10-01T05:59:09Z",
+    "verifiedAt": "2026-10-01T14:49:11Z",
+    "researchAreas": [
+      "Social tactile perception",
+      "Convolutional touch recognition",
+      "Socially assistive robotics",
+      "Affective human-robot interaction"
+    ],
+    "fitReason": "Recent Assistant Professor with a substantive neural tactile-perception method and current doctoral/graduate research team. This is a lower-physical-confidence embodied-perception backup; software, tactile time-series modeling and interaction evaluation fit better than an assumed learned motor-control project.",
+    "physicalEvidence": {
+      "status": "unverified",
+      "summary": "HERA uses two CNN stages to detect and classify contacts on sixteen body regions, then updates a second-order affect model. The learned inference runs on an external computer. Its live demonstration uses a real sensor-covered NAO held in a constant seated pose, while a separate monitor animates the affective response. Physical movement driven by the model remains future work. The paper’s classifier evaluations use recorded signals and real-time playback; the live demonstration is distinct. This is prior Max Planck apparatus, not verified learned actuation or current UTK hardware access. Physical score remains 0.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The current STARI homepage invites general contact about joining the team; the official roster has doctoral and graduate researchers. Neither specifies an outside-degree visitor/intern category, duration, remote option, funding or Summer 2027 availability. This general contact text is not scored as a visitor invitation.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 0,
+      "shortVisit": 0,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "Strong learned tactile perception and assistive interaction with a current research group.",
+      "physical": "Real sensing and screen response do not verify learned robot motor execution.",
+      "shortVisit": "General team contact has no explicit outside-visitor invitation.",
+      "freshness": "Completed neural technical anchor was published in December 2025; the 2026 issue label and current title alone do not raise freshness."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "eecs.utk.edu / source 1",
+        "url": "https://eecs.utk.edu/people/rachael-burns/",
+        "summary": "Official current Assistant Professor, professional email and intelligent touch/affective robot agenda.",
+        "verifiedAt": "2026-10-01T14:48:05Z"
+      },
+      {
+        "id": "s2",
+        "label": "institute-tue.ellis.eu / source 2",
+        "url": "https://institute-tue.ellis.eu/person/rburns",
+        "summary": "Official institute profile gives January 2025 UTK Assistant Professor start after February 2024 doctorate.",
+        "verifiedAt": "2026-10-01T14:48:05Z"
+      },
+      {
+        "id": "s3",
+        "label": "eecs.utk.edu / source 3",
+        "url": "https://eecs.utk.edu/eecs-welcomes-new-faculty-members/",
+        "summary": "Full October 21, 2024 university announcement places Burns in the 2024–25 cohort and describes the forthcoming spring arrival; does not state January.",
+        "verifiedAt": "2026-10-01T14:48:42Z"
+      },
+      {
+        "id": "s4",
+        "label": "xplorestaging.ieee.org / source 4",
+        "url": "https://xplorestaging.ieee.org/document/11313518/",
+        "summary": "Complete indexed methods sections freshly retrieved: two-stage CNN, training/playback evaluation, constant-pose live NAO and separate affect monitor. Publication December 23, 2025; issue April–June 2026. Direct open failed, so current retrieval is indexed full technical sections, consistent with the earlier saved full-method review.",
+        "verifiedAt": "2026-10-01T14:49:11Z",
+        "retrieval": "indexed-full-method-sections; direct-open-failed"
+      },
+      {
+        "id": "s5",
+        "label": "stari.labs.utk.edu / source 5",
+        "url": "https://stari.labs.utk.edu/publications/",
+        "summary": "Current official bibliography verifies equal first authorship of December 2025 HERA article. March 2026 psychotherapy robot work is listed but is not independently counted as learned actuation.",
+        "verifiedAt": "2026-10-01T14:48:05Z"
+      },
+      {
+        "id": "s6",
+        "label": "stari.labs.utk.edu / source 6",
+        "url": "https://stari.labs.utk.edu/",
+        "summary": "Current official lab and broad team-contact invitation, without an external-master visitor category.",
+        "verifiedAt": "2026-10-01T14:48:42Z"
+      },
+      {
+        "id": "s7",
+        "label": "stari.labs.utk.edu / source 7",
+        "url": "https://stari.labs.utk.edu/team/",
+        "summary": "Current doctoral and graduate research roster establishes an active research group, not visitor eligibility.",
+        "verifiedAt": "2026-10-01T14:48:42Z"
+      },
+      {
+        "id": "s8",
+        "label": "utkisss.atlassian.net / source 8",
+        "url": "https://utkisss.atlassian.net/wiki/spaces/IPFP/pages/1910767617/Understanding+J-1+Exchange+Visitors",
+        "summary": "Reused institution-linked guide: Student Intern home-degree requirement, Short-Term Scholar bachelor’s qualification, personal funds, support, host fee and processing.",
+        "verifiedAt": "2026-09-30T22:30:02Z"
+      },
+      {
+        "id": "s9",
+        "label": "international.utk.edu / source 9",
+        "url": "https://international.utk.edu/exchange-visitors/",
+        "summary": "Reused official overview with category and self-funding guidance; its older Student Intern host-fee statement differs from the newer guide.",
+        "verifiedAt": "2026-09-30T22:30:02Z"
+      }
+    ],
+    "unknowns": [
+      "January 2025 is explicit at an official research-institute profile; UTK independently verifies only its 2024–25 hiring cohort and spring arrival.",
+      "No explicit no-visitors or no-summer restriction was found, but no applicable external-master invitation was verified either.",
+      "Existing UTK policy permits a Student Intern route tied to a home-university graduation requirement and a separate Short-Term Scholar route requiring a bachelor’s degree. ISSS must select and approve the category.",
+      "Reused guidance allows personal savings and lists $2,433/month support and a 2–3 month processing recommendation. The $200 host-fee guidance conflicts with an older no-host-cost Student Intern overview; the visitor cannot be asked to reimburse the newer host fee. Confirm the category, 2027 amounts, insurance and research-security review.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: Preserved first precisely retained primary faculty observation; later verification did not create a new discovery time.",
+      "[Institutional visitor review](../eligibility_notes.md#tennessee-knoxville); sources retain the original policy-observation times."
+    ],
+    "discoveryTimestampNote": "Preserved first precisely retained primary faculty observation; later verification did not create a new discovery time.",
+    "publicEmail": "rbburns@utk.edu",
+    "appointmentStart": {
+      "year": 2025,
+      "month": 1,
+      "precision": "month",
+      "status": "current",
+      "sourceIds": [
+        "s2",
+        "s3"
+      ],
+      "evidence": "Official ELLIS Institute profile explicitly states January 2025 joining. UTK’s October 2024 faculty announcement independently places Burns in the 2024–25 cohort and describes her upcoming spring arrival, without stating the month.",
+      "appointmentType": "unresolved"
+    },
+    "candidateTier": "触觉/情感感知方法备选；学习机器人动作未核"
+  }
+]

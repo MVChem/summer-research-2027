@@ -104,8 +104,10 @@
     "batches/control-093.json",
     "batches/control-094.json",
     "batches/control-095.json",
+    "batches/control-096.json",
     "batches/control-097.json",
     "batches/control-101.json",
+    "batches/control-103.json",
     "batches/control-106.json",
     "batches/control-107.json",
     "batches/control-108.json",
@@ -116,6 +118,7 @@
     "batches/control-114.json",
     "batches/control-116.json",
     "batches/control-118.json",
+    "batches/control-119.json",
     "batches/control-120.json",
     "batches/control-121.json",
     "batches/embodied-001.json",
@@ -213,6 +216,7 @@
     "batches/embodied-097.json",
     "batches/embodied-098.json",
     "batches/embodied-100.json",
+    "batches/embodied-101.json",
     "batches/embodied-102.json",
     "batches/embodied-103.json",
     "batches/hri-001.json",
@@ -320,9 +324,11 @@
     "batches/hri-109.json",
     "batches/hri-110.json",
     "batches/hri-111.json",
+    "batches/hri-112.json",
     "batches/hri-113.json",
     "batches/hri-114.json",
-    "batches/hri-115.json"
+    "batches/hri-115.json",
+    "batches/hri-116.json"
   ],
   "candidates": [
     {
@@ -5540,6 +5546,67 @@
       "detailPage": "batches/control-095.md#xuan-wang"
     },
     {
+      "id": "tae-myung-huh",
+      "name": "Tae Myung Huh",
+      "aliases": [
+        "Taemyung Huh",
+        "Tae-Myung Huh"
+      ],
+      "school": "University of California, Santa Cruz",
+      "title": "Assistant Professor",
+      "homepage": "https://tml.engineering.ucsc.edu/",
+      "batch": "control-096",
+      "discoveredAt": "2026-10-01T10:46:38Z",
+      "verifiedAt": "2026-10-01T11:00:43Z",
+      "scores": {
+        "fit": 33,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Learned grasp perception and haptic manipulation",
+        "Soft robotic sensing",
+        "Data-driven tactile sensing"
+      ],
+      "discoveryTimestampNote": "First precisely preserved source-observation time; earlier incidental lead time and source are unavailable and were not reconstructed.",
+      "physicalEvidenceStatus": "Older collaborative learned-perception-to-action; current local hardware verified separately without new learned control",
+      "physicalEvidenceLabel": "受限真机证据：Older collaborative learned-perception-to-action; current local hardware verified separately without new learned control",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-096.json",
+      "detailPage": "batches/control-096.md#tae-myung-huh"
+    },
+    {
+      "id": "shinjiro-sueda",
+      "name": "Shinjiro Sueda",
+      "aliases": [
+        "Shinjiro Sueda (Texas A&M)"
+      ],
+      "school": "Texas A&M University",
+      "title": "Associate Professor",
+      "homepage": "https://people.engr.tamu.edu/sueda/index.html",
+      "batch": "control-096",
+      "discoveredAt": "2026-10-01T10:47:13Z",
+      "verifiedAt": "2026-10-01T11:00:43Z",
+      "scores": {
+        "fit": 34,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Physics-based robotic assembly",
+        "Reinforcement learning for contact-rich insertion",
+        "Differentiable and learned simulation"
+      ],
+      "discoveryTimestampNote": "First precisely preserved source-observation time; earlier incidental lead time is unavailable and was not reconstructed.",
+      "physicalEvidenceStatus": "2025 collaborator-hardware physical RL; no verified Texas A&M local platform or visitor access",
+      "physicalEvidenceLabel": "受限真机证据：2025 collaborator-hardware physical RL; no verified Texas A&M local platform or visitor access",
+      "shortVisitStatus": "precedent-only",
+      "recordFile": "batches/control-096.json",
+      "detailPage": "batches/control-096.md#shinjiro-sueda"
+    },
+    {
       "id": "xianlian-zhou",
       "name": "Xianlian Zhou",
       "aliases": [
@@ -5655,6 +5722,35 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-101.json",
       "detailPage": "batches/control-101.md#yaobin-chen"
+    },
+    {
+      "id": "constantinos-chamzas",
+      "name": "Constantinos Chamzas",
+      "aliases": [],
+      "school": "Worcester Polytechnic Institute",
+      "title": "Assistant Professor; ELPIS Lab Director",
+      "homepage": "https://cchamzas.com/",
+      "batch": "control-103",
+      "discoveredAt": "2026-10-01T11:40:37Z",
+      "verifiedAt": "2026-10-01T11:49:45Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Active robot learning",
+        "Residual physics dynamics",
+        "Uncertainty-aware manipulation planning",
+        "Visual task and motion planning"
+      ],
+      "discoveryTimestampNote": "Earliest precisely retained conference-list author/project observation; dedicated official faculty verification followed.",
+      "physicalEvidenceStatus": "Verified current WPI own-group UR 10 learned-dynamics manipulation;2025 first hardware and 2026 revision separated",
+      "physicalEvidenceLabel": "受限真机证据：Verified current WPI own-group UR 10 learned-dynamics manipulation;2025 first hardware and 2026 revision separated",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-103.json",
+      "detailPage": "batches/control-103.md#constantinos-chamzas"
     },
     {
       "id": "xiaofan-yu",
@@ -6076,6 +6172,33 @@
       "shortVisitStatus": "inquiry-only",
       "recordFile": "batches/control-118.json",
       "detailPage": "batches/control-118.md#chen-tang"
+    },
+    {
+      "id": "yin-bao",
+      "name": "Yin Bao",
+      "aliases": [],
+      "school": "University of Delaware",
+      "title": "Assistant Professor",
+      "homepage": "https://ag-cypher.github.io/website/",
+      "batch": "control-119",
+      "discoveredAt": "2026-10-01T13:54:46Z",
+      "verifiedAt": "2026-10-01T14:00:05Z",
+      "scores": {
+        "fit": 34,
+        "physical": 23,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Agricultural robot perception and manipulation",
+        "Deep learning for field robotics",
+        "Robot-assisted plant phenotyping"
+      ],
+      "physicalEvidenceStatus": "Current own-advised university project with named trained perception and physical fruit handling; project-report evidence, physical 23",
+      "physicalEvidenceLabel": "受限真机证据：Current own-advised university project with named trained perception and physical fruit handling; project-report evidence, physical 23",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-119.json",
+      "detailPage": "batches/control-119.md#yin-bao"
     },
     {
       "id": "brady-moon",
@@ -11033,6 +11156,34 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-100.json",
       "detailPage": "batches/embodied-100.md#victoria-preston"
+    },
+    {
+      "id": "yangming-shi",
+      "name": "Yangming Shi",
+      "aliases": [],
+      "school": "Colorado School of Mines",
+      "title": "Assistant Professor",
+      "homepage": "https://shiyangming.com/",
+      "batch": "embodied-101",
+      "discoveredAt": "2026-10-01T13:58:51Z",
+      "verifiedAt": "2026-10-01T14:12:37Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-to-robot skill transfer",
+        "Diffusion imitation learning",
+        "Learned robot perception and online trajectory refinement",
+        "Quadruped navigation",
+        "Human-centered construction robotics"
+      ],
+      "discoveryTimestampNote": "Earliest precisely retained primary author-name observation; an earlier untimed name-only lead was not reconstructed.",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-101.json",
+      "detailPage": "batches/embodied-101.md#yangming-shi"
     },
     {
       "id": "xiwei-xuan",
@@ -16362,6 +16513,35 @@
       "detailPage": "batches/hri-111.md#jaylin-herskovitz"
     },
     {
+      "id": "yunus-alapan",
+      "name": "Yunus Alapan",
+      "aliases": [],
+      "school": "University of Wisconsin–Madison",
+      "title": "Assistant Professor of Mechanical Engineering",
+      "homepage": "https://biointegratedroboticslab.engr.wisc.edu/",
+      "batch": "hri-112",
+      "discoveredAt": "2026-10-01T14:14:23Z",
+      "verifiedAt": "2026-10-01T14:15:36Z",
+      "scores": {
+        "fit": 35,
+        "physical": 0,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Neural-surrogate robot co-design",
+        "Quality-diversity optimization",
+        "Magnetic soft microrobots",
+        "Morphology and magnetization optimization"
+      ],
+      "candidateTier": "计算机器人共设计备选；学习驱动动作未核",
+      "physicalEvidenceStatus": "unverified",
+      "physicalEvidenceLabel": "真机待核实",
+      "shortVisitStatus": "precedent-only",
+      "recordFile": "batches/hri-112.json",
+      "detailPage": "batches/hri-112.md#yunus-alapan"
+    },
+    {
       "id": "randi-williams",
       "name": "Randi Williams",
       "aliases": [
@@ -16454,6 +16634,40 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-115.json",
       "detailPage": "batches/hri-115.md#francis-baek"
+    },
+    {
+      "id": "rachael-bevill-burns",
+      "name": "Rachael Bevill Burns",
+      "aliases": [
+        "Rachael Burns",
+        "Rachael B. Burns",
+        "Rachael Bevill"
+      ],
+      "school": "University of Tennessee, Knoxville",
+      "title": "Assistant Professor of Electrical Engineering and Computer Science",
+      "homepage": "https://stari.labs.utk.edu/",
+      "batch": "hri-116",
+      "discoveredAt": "2026-10-01T05:59:09Z",
+      "verifiedAt": "2026-10-01T14:49:11Z",
+      "scores": {
+        "fit": 37,
+        "physical": 0,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Social tactile perception",
+        "Convolutional touch recognition",
+        "Socially assistive robotics",
+        "Affective human-robot interaction"
+      ],
+      "discoveryTimestampNote": "Preserved first precisely retained primary faculty observation; later verification did not create a new discovery time.",
+      "candidateTier": "触觉/情感感知方法备选；学习机器人动作未核",
+      "physicalEvidenceStatus": "unverified",
+      "physicalEvidenceLabel": "真机待核实",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-116.json",
+      "detailPage": "batches/hri-116.md#rachael-bevill-burns"
     }
   ]
 }

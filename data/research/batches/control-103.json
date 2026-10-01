@@ -1,0 +1,124 @@
+[
+  {
+    "id": "constantinos-chamzas",
+    "name": "Constantinos Chamzas",
+    "aliases": [],
+    "school": "Worcester Polytechnic Institute",
+    "homepage": "https://cchamzas.com/",
+    "title": "Assistant Professor; ELPIS Lab Director",
+    "department": "Robotics Engineering; affiliated Computer Science",
+    "batch": "control-103",
+    "discoveredAt": "2026-10-01T11:40:37Z",
+    "verifiedAt": "2026-10-01T11:49:45Z",
+    "researchAreas": [
+      "Active robot learning",
+      "Residual physics dynamics",
+      "Uncertainty-aware manipulation planning",
+      "Visual task and motion planning"
+    ],
+    "fitReason": "Strong core robot-learning prospect with current own-PhD-led physical manipulation and explicitly continuing 2026 learning/planning projects.",
+    "physicalEvidence": {
+      "status": "Verified current WPI own-group UR 10 learned-dynamics manipulation;2025 first hardware and 2026 revision separated",
+      "summary": "ActivePusher combines neural residual dynamics with neural-tangent-kernel uncertainty to select informative pushes and bias an SST kinodynamic planner toward reliable actions. The full 2026 revision runs an actual six-DOF UR10 on cracker-box/mustard-bottle tasks, with FoundationPose and an end-effector RealSense D435 for object pose. Data collection uses an automatic pushing reset; the real planning experiment solves 20 randomly generated problems once, distinct from the larger simulation trials. It reports open-loop pushing and a separate replanning evaluation. Planar quasi-static motion, oriented-box approximations and sticking contact limit generality. The June 2025 first version already had physical pushing, but used LangSAM/template perception and one real learning object; do not treat the 2026 revision as first deployment or blend these implementations. Current lab roster identifies both lead authors as his PhD students.",
+      "sourceIds": [
+        "s2",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current join page recruits PhD degree applicants and separately WPI master’s students, typically after the Fall RBE 550 course. The lab form is linked from the WPI-student sections; no external-master eligibility is inferred from it. A public first-person 2026 fellowship post offers to host a visiting PhD student under a specific Greek-researcher programme, which does not establish a master’s route. Eight-week summer 2027 intake, funding and remote participation remain unknown.",
+      "sourceIds": [
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct active robot learning, learned dynamics and uncertainty-aware physical manipulation.",
+      "physical": "Current own-Ph D-led WPI UR10 study with complete physical acquisition/planning methods, distinct from simulation.",
+      "shortVisit": "WPI-local master’s degree and programme-specific visiting Ph D routes do not establish external-master access.",
+      "freshness": "Explicit September 2026 lab research acceptances and current expanded2026 paper, without relabeling first2025 hardware as new."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.wpi.edu / source 1",
+        "url": "https://www.wpi.edu/people/faculty/cchamzas",
+        "summary": "Current official Assistant Professor, Robotics Engineering/CS affiliation, lab and public email.",
+        "verifiedAt": "2026-10-01T11:49:45Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "elpislab.org / source 2",
+        "url": "https://elpislab.org/people/",
+        "summary": "Current Zhong/Golestaneh Ph D status and PI-directed learning/manipulation research.",
+        "verifiedAt": "2026-10-01T11:49:45Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "elpislab.org / source 3",
+        "url": "https://elpislab.org/",
+        "summary": "Explicit September 2026 research acceptances and humanoid-planning support; current own-group activity.",
+        "verifiedAt": "2026-10-01T11:49:45Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "elpislab.org / source 4",
+        "url": "https://elpislab.org/join/",
+        "summary": "Ph D degree recruitment and WPI-only master’s section/course prerequisite; no external-master offer.",
+        "verifiedAt": "2026-10-01T11:49:45Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "www.linkedin.com / source 5",
+        "url": "https://www.linkedin.com/posts/constantinos-chamzas-33606284_greeks-in-ai-activity-7464778953556193281-Hs8k",
+        "summary": "First-person programme-specific visiting Ph D interest, not applicable by itself to an external master’s visit.",
+        "verifiedAt": "2026-10-01T11:49:45Z",
+        "retrieval": "Primary author-post text via indexed web.run result"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2506.04646v1",
+        "summary": "June 2025 first version already contains actual UR10 learned pushing; earlier perception implementation differs.",
+        "verifiedAt": "2026-10-01T11:49:45Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "elpislab.org / source 7",
+        "url": "https://elpislab.org/assets/pdf/zhong2026activepusheractivelearningplanning.pdf",
+        "summary": "Complete current author-hosted conference paper: actual UR10 FoundationPose setup,20-real-problem evaluation and planar/contact limits.",
+        "verifiedAt": "2026-10-01T11:49:45Z",
+        "retrieval": "Full primary PDF via web.run; matching arXivv3 PDF downloaded and inspected with pdftotext"
+      },
+      {
+        "id": "s8",
+        "label": "arxiv.org / source 8",
+        "url": "https://arxiv.org/html/2506.04646v3",
+        "summary": "Full revised primary methods distinguish two real objects, open-loop plans and separate closed-loop replanning.",
+        "verifiedAt": "2026-10-01T11:49:45Z",
+        "retrieval": "Direct official/primary source via web.run"
+      }
+    ],
+    "unknowns": [
+      "Previously reviewed WPI conditions apply. Formal Visiting Graduate Student/Scholar appointments require faculty sponsorship and a Provost appointment letter. International House determines whether an external master’s visit uses non-degree or scholar status; old 2015/2019 forms cannot establish 2027 duration/support rules. Current pages accept personal financial documents, but full self-funding approval, eight-week eligibility, fees, insurance and lead time still require confirmation.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor review](../eligibility_notes.md#wpi); sources retain the original policy-observation times."
+    ],
+    "publicEmail": "cchamzas@wpi.edu",
+    "discoveryTimestampNote": "Earliest precisely retained conference-list author/project observation; dedicated official faculty verification followed."
+  }
+]

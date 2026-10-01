@@ -3474,6 +3474,197 @@
           "evidence": "Current public recruitment document explicitly has no short-term positions and considers well-matched visitors only for at least6months. Separate green-highlighted Spring/Fall2027 funded openings are PhD positions. Full relevant pages viewed14:31:48–14:33:35 without editing, applying or submitting."
         }
       ]
+    },
+    "yin-bao": {
+      "appointmentStart": {
+        "year": 2023,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "s2",
+          "s3"
+        ],
+        "evidence": "Official DSI biography confirms Delaware arrival in 2023 after Auburn AP since 2019. Author CV adds September 2023, but only independently corroborated year is encoded.",
+        "appointmentType": "institution-move"
+      },
+      "display": "2023",
+      "caveat": "2023转入Delaware；此前Auburn AP2019起。当前YOLO果实机器人有项目/指导证据但无完整试验指标；访客未知",
+      "sources": [
+        {
+          "id": "s2",
+          "url": "https://dsi.udel.edu/faculty/",
+          "observedAt": "2026-10-01T14:00:05Z",
+          "evidence": "Official indexed biography independently confirms Delaware arrival in 2023 after Auburn Assistant Professor since 2019; direct page returned a gateway error."
+        },
+        {
+          "id": "s3",
+          "url": "https://ag-cypher.github.io/website/assets/img/research_data/info/Curriculum%20Vitae_Yin%20Bao%2020251028.pdf",
+          "observedAt": "2026-10-01T14:00:05Z",
+          "evidence": "Full author CV dates Delaware joint appointment September 2023 and prior Auburn AP August 2019–August 2023."
+        }
+      ]
+    },
+    "yangming-shi": {
+      "appointmentStart": {
+        "year": 2023,
+        "month": 8,
+        "precision": "month",
+        "status": "current",
+        "appointmentType": "institution-move",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "evidence": "Current Mines appointment independently verified by official directory; first-person lab history explicitly gives August2023 Mines start and prior August2021 University of Alabama AP start. This is an institution move, not first faculty service. Official2023 new-faculty cohort is indexed corroboration only and not needed for exact month."
+      },
+      "display": "2023-08",
+      "caveat": "2023-08 Mines为本人日期，此前Alabama AP2021-08，明确转校；当前Go2学习感知导航有限演示，访客未知",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.mines.edu/about/faculty-directory/profiles/yangming-shi.html",
+          "observedAt": "2026-10-01T14:07:51Z",
+          "evidence": "Current Mines CEE Assistant Professor, Robotics affiliation, public professional email and link to lab."
+        },
+        {
+          "id": "s2",
+          "url": "https://shiyangming.com/",
+          "observedAt": "2026-10-01T14:07:51Z",
+          "evidence": "Dated news lists August 2023 Mines AP move and August 2021 Alabama AP start;2026 lab activity. January 2022 visiting undergraduate is historical former-host precedent only."
+        }
+      ]
+    },
+    "yunus-alapan": {
+      "appointmentStart": {
+        "year": 2024,
+        "month": 3,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "s2"
+        ],
+        "evidence": "Official Spring 2024 Mechanical Engineering newsletter page 4 explicitly states March 2024 joining as Assistant Professor.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2024-03",
+      "caveat": "2024-03官方新AP；神经离线软机器人共设计，实体按固定外场驱动，无学习动作执行；访客未知",
+      "sources": [
+        {
+          "id": "s2",
+          "url": "https://engineering.wisc.edu/wp-content/uploads/2024/05/ME_newsletter-spring-2024.pdf",
+          "observedAt": "2026-10-01T14:15:36Z",
+          "evidence": "Official Spring 2024 departmental newsletter page 4 explicitly states March 2024 Assistant Professor joining."
+        }
+      ]
+    },
+    "rachael-bevill-burns": {
+      "appointmentStart": {
+        "year": 2025,
+        "month": 1,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "s2",
+          "s3"
+        ],
+        "evidence": "Official ELLIS Institute profile explicitly states January 2025 joining. UTK’s October 2024 faculty announcement independently places Burns in the 2024–25 cohort and describes her upcoming spring arrival, without stating the month.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2025-01",
+      "caveat": "2025-01为ELLIS明确日期，UTK只给群体/春季；真实NAO保持坐姿、屏幕回应，无学习动作执行；访客未知",
+      "sources": [
+        {
+          "id": "s2",
+          "url": "https://institute-tue.ellis.eu/person/rburns",
+          "observedAt": "2026-10-01T14:48:05Z",
+          "evidence": "Official institute profile gives January 2025 UTK Assistant Professor start after February 2024 doctorate."
+        },
+        {
+          "id": "s3",
+          "url": "https://eecs.utk.edu/eecs-welcomes-new-faculty-members/",
+          "observedAt": "2026-10-01T14:48:42Z",
+          "evidence": "Full October 21, 2024 university announcement places Burns in the 2024–25 cohort and describes the forthcoming spring arrival; does not state January."
+        }
+      ]
+    },
+    "tae-myung-huh": {
+      "appointmentStart": {
+        "year": 2023,
+        "month": 1,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "University-site CV explicitly gives January 2023 UCSC Assistant Professor start and Berkeley postdoctoral work July 2020–December 2022.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2023-01（大学托管CV；2022文章是招聘群体）",
+      "caveat": "A 2022 new-faculty cohort article announced the hire before the actual January 2023 start; do not use the article year as the appointment date.",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://bpb-us-e1.wpmucdn.com/sites.ucsc.edu/dist/2/1491/files/2024/08/CV-TaemyungHuh_2024Aug.pdf",
+          "evidence": "Full August 2024 university-hosted CV, first-page appointment table.",
+          "observedAt": "2026-10-01T14:56:53Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://engineering.ucsc.edu/news/baskin-engineering-welcomes-new-faculty-2022/",
+          "evidence": "Official 2022 cohort announcement says he joins from Berkeley postdoctoral work; indexed relevant text, direct fetch ordinary internal error.",
+          "observedAt": "2026-10-01T14:56:53Z"
+        },
+        {
+          "id": "h3",
+          "url": "https://campusdirectory.ucsc.edu/cd_detail?uid=thuh",
+          "evidence": "Current regular-faculty Assistant Professor role; preserve original source observation.",
+          "observedAt": "2026-10-01T11:00:35Z"
+        }
+      ]
+    },
+    "constantinos-chamzas": {
+      "appointmentStart": {
+        "year": 2023,
+        "month": 7,
+        "precision": "day",
+        "status": "current",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "WPI official new-employee announcement explicitly labels July 1, 2023 as the hire date; CV confirms July 2023 after Rice PhD.",
+        "day": 1,
+        "appointmentType": "first-faculty-as-described"
+      },
+      "display": "2023-07-01（官方Hire Date表）",
+      "caveat": "The September 7, 2023 announcement date is not the hire date; July 1 is explicit in the table.",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://www.wpi.edu/news/announcements/welcome-our-new-employees-july-2023",
+          "evidence": "Direct full WPI official Hire Date table lists 7/1/2023, Assistant Professor, Robotics Engineering.",
+          "observedAt": "2026-10-01T14:56:53Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://cchamzas.com/assets/pdf/cv_cchamzas.pdf",
+          "evidence": "Full PI CV gives July 2023 Assistant Professor, preceded by Rice graduate research and research internships.",
+          "observedAt": "2026-10-01T14:56:53Z"
+        },
+        {
+          "id": "h3",
+          "url": "https://engineering.rice.edu/news/constantinos-chamzas-looks-teach-research-robotics-worcester-polytechnic",
+          "evidence": "June 8, 2023 official Rice interview identifies accepted first AP position following his 2023 PhD.",
+          "observedAt": "2026-10-01T14:56:53Z"
+        },
+        {
+          "id": "h4",
+          "url": "https://www.wpi.edu/people/faculty/cchamzas",
+          "evidence": "Current university AP affiliation; preserve original observation.",
+          "observedAt": "2026-10-01T11:49:45Z"
+        }
+      ]
     }
   },
   "constraints": [

@@ -1,0 +1,132 @@
+[
+  {
+    "id": "yin-bao",
+    "name": "Yin Bao",
+    "aliases": [],
+    "school": "University of Delaware",
+    "homepage": "https://ag-cypher.github.io/website/",
+    "title": "Assistant Professor",
+    "department": "Plant and Soil Sciences; Mechanical Engineering; Ag-CyPhER Lab",
+    "batch": "control-119",
+    "discoveredAt": "2026-10-01T13:54:46Z",
+    "verifiedAt": "2026-10-01T14:00:05Z",
+    "researchAreas": [
+      "Agricultural robot perception and manipulation",
+      "Deep learning for field robotics",
+      "Robot-assisted plant phenotyping"
+    ],
+    "fitReason": "Active agricultural robotics lab with current supervised graduate projects connecting trained perception to real fruit handling. The 2023 Delaware arrival was an institution move after an Auburn faculty appointment, not a first-career hire.",
+    "physicalEvidence": {
+      "status": "Current own-advised university project with named trained perception and physical fruit handling; project-report evidence, physical 23",
+      "summary": "University and competition-organizer accounts verify the 2026 UD Blue Hens vision-guided watermelon system. YOLO-based detection is integrated with an Amiga-mounted arm, compliant vacuum gripper and vine-cutting mechanism to locate, grip and transfer melons. Bao is a named advisor; several named builders are current lab graduate researchers. This establishes a current directed physical project, but no full methods paper, trial count, intervention rate or unattended field reliability was verified. The report does not establish learned low-level motion control.",
+      "sourceIds": [
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current graduate and robotics-MS supervision is independently visible. No explicit external-master visitor invitation or summer 2027 opening was verified. Envision is an undergraduate program with older 2025 dates, so its listing is not counted as an applicable offer.",
+      "sourceIds": [
+        "s6",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 34,
+      "physical": 23,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Applied trained robot perception and real manipulation; broader plant-sensing portfolio rather than a control/RL-specialist lab.",
+      "physical": "Current local directed student hardware with named YOLO integration, conservatively below full-methods maximum.",
+      "shortVisit": "Current degree advising and undergraduate summer mentoring do not establish an external-master visit offer.",
+      "freshness": "Dated May/June 2026 completed project and current 2026 graduate roster."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.udel.edu / source 1",
+        "url": "https://www.udel.edu/academics/colleges/canr/departments/plant-and-soil-sciences/faculty-staff/yin-bao/",
+        "summary": "Current official Assistant Professor of Digital Agriculture and public university email.",
+        "verifiedAt": "2026-10-01T14:00:05Z",
+        "retrieval": "Direct primary source via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "dsi.udel.edu / source 2",
+        "url": "https://dsi.udel.edu/faculty/",
+        "summary": "Official indexed biography independently confirms Delaware arrival in 2023 after Auburn Assistant Professor since 2019; direct page returned a gateway error.",
+        "verifiedAt": "2026-10-01T14:00:05Z",
+        "retrieval": "Primary university indexed text; direct retrieval unavailable"
+      },
+      {
+        "id": "s3",
+        "label": "ag-cypher.github.io / source 3",
+        "url": "https://ag-cypher.github.io/website/assets/img/research_data/info/Curriculum%20Vitae_Yin%20Bao%2020251028.pdf",
+        "summary": "Full author CV dates Delaware joint appointment September 2023 and prior Auburn AP August 2019–August 2023.",
+        "verifiedAt": "2026-10-01T14:00:05Z",
+        "retrieval": "Direct primary source via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "me.udel.edu / source 4",
+        "url": "https://me.udel.edu/2026/06/09/ud-blue-hens-win-excellence-in-ai-award-at-2026-farm-robotics-challenge/",
+        "summary": "June 2026 university account verifies Bao-led team and actual Amiga-mounted watermelon pick-and-place project.",
+        "verifiedAt": "2026-10-01T14:00:05Z",
+        "retrieval": "Direct primary source via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "ucanr.edu / source 5",
+        "url": "https://ucanr.edu/blog/anr-news-releases/article/frc-winners-2026",
+        "summary": "May 22, 2026 competition organizer explicitly identifies YOLO vision, compliant vacuum end-effector and vine-cutting mechanism on Amiga for locating, gripping and transferring melons; names Bao and his students.",
+        "verifiedAt": "2026-10-01T14:00:05Z",
+        "retrieval": "Direct primary source via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "ag-cypher.github.io / source 6",
+        "url": "https://ag-cypher.github.io/website/",
+        "summary": "Current graduate roster matches several project participants and gives the current joint departments, research areas and equipment; no explicit outside-master visitor offer.",
+        "verifiedAt": "2026-10-01T14:00:05Z",
+        "retrieval": "Direct primary source via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "www.udel.edu / source 7",
+        "url": "https://www.udel.edu/academics/colleges/canr/current-students/current-undergrad/careers-and-internships/envision/",
+        "summary": "Envision lists Bao as mentor but is an undergraduate program; displayed 10-week summer dates are 2025, not a 2027 external-master opportunity.",
+        "verifiedAt": "2026-10-01T14:00:05Z",
+        "retrieval": "Direct primary source via web.run"
+      },
+      {
+        "id": "s8",
+        "label": "www.udel.edu / source 8",
+        "url": "https://www.udel.edu/academics/colleges/canr/news/2024/april/meet-our-new-faculty-yin-bao/",
+        "summary": "First precisely retained primary individual profile encountered April 2024 new-faculty article.",
+        "verifiedAt": "2026-10-01T14:00:05Z",
+        "retrieval": "Direct primary source via web.run"
+      }
+    ],
+    "unknowns": [
+      "Previously reviewed Delaware institutional conditions: the J-1 Student Intern pathway includes foreign degree-enrolled students, subject to degree relevance, faculty sponsorship, at least three weeks and 32 hours weekly, and return-to-study requirements. Paid and unpaid placements can exist. Scholar personal-funding guidance and published monthly minimum must not be assumed to apply unchanged to Student Interns; current category, budget, fees, insurance and lead time require host/ISSS confirmation.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor review](../eligibility_notes.md#delaware); sources retain the original policy-observation times."
+    ],
+    "publicEmail": "yinbao@udel.edu",
+    "appointmentStart": {
+      "year": 2023,
+      "precision": "year",
+      "status": "current",
+      "sourceIds": [
+        "s2",
+        "s3"
+      ],
+      "evidence": "Official DSI biography confirms Delaware arrival in 2023 after Auburn AP since 2019. Author CV adds September 2023, but only independently corroborated year is encoded.",
+      "appointmentType": "institution-move"
+    }
+  }
+]

@@ -13,7 +13,6 @@ ROOT = Path(__file__).resolve().parents[1]
 LEDGER = ROOT / "data/research/mentor_candidates.json"
 RANKED = ROOT / "data/research/ranked_candidates.md"
 CAPS = {"fit": 40, "physical": 25, "shortVisit": 20, "freshness": 15}
-EXCLUDED = {"tianyizhou", "deviparikh"}
 BASELINE_ALIASES = {"jasonjanghochoi", "yangruiboding", "robinding", "kiantebrantley", "tomaslozanoperez"}
 
 
@@ -44,7 +43,7 @@ def validate(data):
     assert hashlib.sha256(canonical).hexdigest() == data["baseline"]["canonicalJsonSha256"], "Original 200 changed"
     old = baseline["contacts"]
     assert len(old) == data["baseline"]["count"] == 200
-    names = {name_key(row["name"]) for row in old} | BASELINE_ALIASES | EXCLUDED
+    names = {name_key(row["name"]) for row in old} | BASELINE_ALIASES
     urls = {url_key(row["homepage"]) for row in old if row.get("homepage")}
     ids = set()
     required = {"id", "name", "aliases", "school", "homepage", "title", "batch", "discoveredAt", "verifiedAt", "researchAreas", "fitReason", "physicalEvidence", "shortVisit", "scores", "scoreReasons", "sources", "unknowns"}
@@ -76,8 +75,31 @@ def validate(data):
             score = row["scores"][field]
             assert isinstance(score, int) and not isinstance(score, bool) and 0 <= score <= cap
             assert isinstance(row["scoreReasons"][field], str) and row["scoreReasons"][field].strip()
-        if row["shortVisit"]["status"] in {"unknown", "incompatible", "degree-only", "long-term-only"}:
+        status = row["shortVisit"]["status"].split(" · ", 1)[0]
+        if status in {"unknown", "incompatible", "degree-only", "long-term-only", "precedent-only", "stale-2022-inquiry; current route unverified"}:
             assert row["scores"]["shortVisit"] == 0, "Unknown/incompatible short-visit opportunity must score 0"
+
+
+def validate_addenda(addenda, baseline_meta):
+    """Later observations must never become backfilled baseline discovery dates."""
+    baseline = json.loads((ROOT / baseline_meta["path"]).read_text())["contacts"]
+    by_id = {row["id"]: row for row in baseline}
+    assert addenda["baselineCommit"] == baseline_meta["commit"]
+    assert addenda["originalRecordsModified"] is False
+    seen = set()
+    for event in addenda["events"]:
+        assert event["baselineId"] in by_id, "Unknown baseline identity"
+        assert name_key(event["name"]) == name_key(by_id[event["baselineId"]]["name"])
+        assert "discoveredAt" not in event, "Do not backfill baseline discovery dates"
+        assert event["eventType"] == "later-public-source-verification-not-discovery"
+        timestamp(event["observedAt"])
+        identity = (event["baselineId"], event["observedAt"])
+        assert identity not in seen, "Duplicate baseline observation"
+        seen.add(identity)
+        assert event["finding"] and event["sources"]
+        for source in event["sources"]:
+            url_key(source["url"])
+            assert source["evidence"] and source["retrieval"]
 
 
 def cell(value):
@@ -167,6 +189,9 @@ def main():
     group.add_argument("--check", action="store_true")
     args = parser.parse_args()
     data = json.loads(LEDGER.read_text())
+    addenda_path = LEDGER.parent / "baseline_addenda.json"
+    if addenda_path.exists():
+        validate_addenda(json.loads(addenda_path.read_text()), data["baseline"])
     if data["schemaVersion"] == 1:
         validate(data)
         outputs = {RANKED: render(data)}

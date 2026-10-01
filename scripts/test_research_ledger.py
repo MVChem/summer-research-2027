@@ -32,6 +32,35 @@ class ResearchLedgerTests(unittest.TestCase):
         with self.assertRaises(AssertionError):
             ledger.validate(data)
 
+    def test_qualified_unknown_opportunity_cannot_score(self):
+        data = copy.deepcopy(self.full)
+        data["candidates"][0]["shortVisit"]["status"] = "unknown · future host unconfirmed"
+        data["candidates"][0]["scores"]["shortVisit"] = 1
+        with self.assertRaises(AssertionError):
+            ledger.validate(data)
+
+    def test_baseline_addenda_are_later_observations(self):
+        addenda = json.loads((ledger.LEDGER.parent / "baseline_addenda.json").read_text())
+        ledger.validate_addenda(addenda, self.index["baseline"])
+
+    def test_baseline_addenda_cannot_backfill_discovery(self):
+        addenda = json.loads((ledger.LEDGER.parent / "baseline_addenda.json").read_text())
+        addenda["events"][0]["discoveredAt"] = addenda["events"][0]["observedAt"]
+        with self.assertRaises(AssertionError):
+            ledger.validate_addenda(addenda, self.index["baseline"])
+
+    def test_baseline_addenda_require_known_identity(self):
+        addenda = json.loads((ledger.LEDGER.parent / "baseline_addenda.json").read_text())
+        addenda["events"][0]["baselineId"] = 999999
+        with self.assertRaises(AssertionError):
+            ledger.validate_addenda(addenda, self.index["baseline"])
+
+    def test_baseline_addenda_cannot_claim_modified_records(self):
+        addenda = json.loads((ledger.LEDGER.parent / "baseline_addenda.json").read_text())
+        addenda["originalRecordsModified"] = True
+        with self.assertRaises(AssertionError):
+            ledger.validate_addenda(addenda, self.index["baseline"])
+
     def test_future_discovery_rejected(self):
         data = copy.deepcopy(self.full)
         data["candidates"][0]["discoveredAt"] = "2999-01-01T00:00:00Z"

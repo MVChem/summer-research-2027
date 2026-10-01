@@ -1,0 +1,115 @@
+[
+  {
+    "id": "h-harry-asada",
+    "name": "H. Harry Asada",
+    "aliases": [
+      "Harry Asada",
+      "Haruhiko Harry Asada"
+    ],
+    "school": "Massachusetts Institute of Technology",
+    "homepage": "https://darbelofflab.mit.edu/",
+    "title": "Ford Professor of Engineering; Professor of Mechanical Engineering",
+    "department": "Mechanical Engineering; d'Arbeloff Laboratory",
+    "batch": "control-036",
+    "discoveredAt": "2026-10-01T01:49:58Z",
+    "verifiedAt": "2026-10-01T01:51:47Z",
+    "researchAreas": [
+      "Deep Koopman dynamics models",
+      "Contact-rich manipulation",
+      "Model predictive control",
+      "Human-assistive robots"
+    ],
+    "fitReason": "Concrete connection between neural dynamics representations and physical contact-rich manipulation, alongside a long-running robot systems lab.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Primary contact-dynamics paper (November 2025 preprint; accepted Nature Communications April 13, 2026) uses a Deep Koopman Network to learn lifting observables for convex MPC and executes dynamic pushing/shoving with a real UR5e. Neural training data come from modeled nonlinear dynamics, with friction fitted to physical-system data. The rimless-wheel locomotion portion is simulation; measured 5.2 ms mean runtimes are simulated runs, not a blanket hardware timing guarantee.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current faculty/lab pages establish advising and a visiting-engineer roster, but no applicable current external-master's short-visit invitation was verified. General MIT Visiting Student rules and historical visitors do not establish an Asada summer opening.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Neural learned dynamics plus contact-rich physical control; broader lab also includes non-ML mechanisms.",
+      "physical": "Named real UR5e executing deep-Koopman-based MPC, with lab authorship/advising evidence and explicit simulation boundaries.",
+      "shortVisit": "No current external-master's visit invitation; visiting-engineer precedent and MIT central rules do not earn points.",
+      "freshness": "2026 publisher acceptance, university seminar and lab publication activity; original experiment preprint remains dated 2025."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "meche.mit.edu / source 1",
+        "url": "https://meche.mit.edu/people/faculty/asada@mit.edu",
+        "summary": "Current official Ford Professor, Mechanical Engineering, public email and lab link.",
+        "verifiedAt": "2026-10-01T01:51:47Z",
+        "retrieval": "Direct official HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "darbelofflab.mit.edu / source 2",
+        "url": "https://darbelofflab.mit.edu/people2/",
+        "summary": "Official lab identifies Asada director and Jasmine Terrones as a PhD candidate working on Koopman applications; visiting-engineer roster is not an open student call.",
+        "verifiedAt": "2026-10-01T01:51:47Z",
+        "retrieval": "Official indexed page via web.run; live page fetch failed"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/pdf/2511.06515",
+        "summary": "Primary full PDF: UR5e physical dynamic pushing, Deep Koopman Network learned observables, modeled training data, physical friction calibration. Figs. 5–6 and Methods distinguish actual manipulation from simulated wheel and timing results.",
+        "verifiedAt": "2026-10-01T01:51:47Z",
+        "retrieval": "Direct primary PDF parsed by web.run"
+      },
+      {
+        "id": "s4",
+        "label": "www.nature.com / source 4",
+        "url": "https://www.nature.com/articles/s41467-026-72485-7_reference.pdf",
+        "summary": "Publisher article-in-press confirms same paper and April 13, 2026 acceptance; do not infer a new 2026 experiment date.",
+        "verifiedAt": "2026-10-01T01:51:47Z",
+        "retrieval": "Primary publisher indexed PDF excerpt; direct fetch encountered Nature identity-provider redirect"
+      },
+      {
+        "id": "s5",
+        "label": "me.jhu.edu / source 5",
+        "url": "https://me.jhu.edu/event/grad-seminar-dr-harry-asada-from-massachusetts-institute-of-technology-2/",
+        "summary": "April 16, 2026 official seminar confirms active contact-rich Koopman-control research and MIT lab directorship.",
+        "verifiedAt": "2026-10-01T01:51:47Z",
+        "retrieval": "Official indexed page via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "darbelofflab.mit.edu / source 6",
+        "url": "https://darbelofflab.mit.edu/robotics-publications/",
+        "summary": "Official publication list includes 2026 adaptive robot guidance alongside Koopman/contact/hardware work.",
+        "verifiedAt": "2026-10-01T01:51:47Z",
+        "retrieval": "Official indexed page via web.run"
+      }
+    ],
+    "unknowns": [
+      "Existing MIT institutional supplement applies: formal faculty invitation and student classification, outside degree enrollment, minimum three weeks, funding restrictions and costs. Full personal funding is not assumed permitted. Eight-week availability, project scope and remote collaboration remain unknown. Some lab pages were only readable through their official indexed versions.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "asada@mit.edu"
+  }
+]

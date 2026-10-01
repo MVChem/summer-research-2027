@@ -1,0 +1,142 @@
+[
+  {
+    "id": "mengxue-hou",
+    "name": "Mengxue Hou",
+    "aliases": [],
+    "school": "University of Notre Dame",
+    "homepage": "https://www.mengxuehou.com/",
+    "title": "Assistant Professor",
+    "department": "Electrical Engineering; Robotics and Autonomy Research Lab",
+    "batch": "control-035",
+    "discoveredAt": "2026-10-01T01:43:51Z",
+    "verifiedAt": "2026-10-01T01:48:10Z",
+    "researchAreas": [
+      "Underwater robot learning",
+      "Uncertainty-aware perception",
+      "Belief-space planning",
+      "Human-robot and multi-agent autonomy"
+    ],
+    "fitReason": "Strong AI-and-control overlap spanning learned underwater manipulation, probabilistic perception, and robotic planning under uncertainty.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Coauthor of AquaBot (October 2024 preprint, ICRA 2025): a real QYSEA FIFISH V-EVO with gripper executes behavior-cloned visuomotor policies and surrogate-guided speed optimization for grasping, sorting and mannequin retrieval in a pool. Compute is tethered/offboard; external cameras assist localization/reset and PID handles sorting navigation. This is collaboration-level evidence, not confirmed current ND-owned AquaBot equipment. ND separately documents its own MUR field robot, but May 2026 reporting explicitly places the uncertainty-aware 3DGS evaluation in HoloOcean and field transfer as ongoing.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current official Join Us page specifies Notre Dame undergraduates, prospective PhD admission and postdocs. No explicit external-master's short-visit invitation. A former visitor's 2025 on-site undergraduate research precedent does not establish a current opening or master's eligibility.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct learned manipulation and uncertainty-aware control/perception alignment.",
+      "physical": "Named physically executed learned robot via collaboration; current own-lab learning deployment not independently confirmed.",
+      "shortVisit": "Published degree/postdoc recruitment and historical undergraduate visitor do not establish current external-master's visit.",
+      "freshness": "Direct 2026 official lab publications and dated August 2026 primary video metadata confirm active methods; the actual AquaBot hardware evidence remains dated 2024/2025."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.nd.edu / source 1",
+        "url": "https://engineering.nd.edu/faculty/mengxue-hou/",
+        "summary": "Current university Assistant Professor, department, public email and lab link.",
+        "verifiedAt": "2026-10-01T01:48:10Z",
+        "retrieval": "Direct official HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "sites.nd.edu / source 2",
+        "url": "https://sites.nd.edu/roarlab/people/",
+        "summary": "Current official ROAR lab members/PI context.",
+        "verifiedAt": "2026-10-01T01:48:10Z",
+        "retrieval": "Direct official HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "sites.nd.edu / source 3",
+        "url": "https://sites.nd.edu/roarlab/join-us/",
+        "summary": "Published recruitment is local undergraduate, PhD and postdoctoral; no external-master's visitor category.",
+        "verifiedAt": "2026-10-01T01:48:10Z",
+        "retrieval": "Direct official HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2410.18969v1",
+        "summary": "AquaBot primary physical platform and behavior-cloning/self-optimization experiments; offboard computation, external localization and separate PID sorting navigation.",
+        "verifiedAt": "2026-10-01T01:48:10Z",
+        "retrieval": "Direct primary full-text HTML via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "aquabot.cs.columbia.edu / source 5",
+        "url": "https://aquabot.cs.columbia.edu/",
+        "summary": "University-hosted project links Hou as Notre Dame coauthor and provides real-robot task demonstrations.",
+        "verifiedAt": "2026-10-01T01:48:10Z",
+        "retrieval": "Direct primary project HTML via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "sites.nd.edu / source 6",
+        "url": "https://sites.nd.edu/roarlab/publications/",
+        "summary": "Confirms AquaBot ICRA 2025 and active 2026 planning/sensing research.",
+        "verifiedAt": "2026-10-01T01:48:10Z",
+        "retrieval": "Direct official HTML via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "engineering.nd.edu / source 7",
+        "url": "https://engineering.nd.edu/news/lost-at-sea-no-more-new-ai-platform-helps-underwater-robots-get-their-bearings/",
+        "summary": "May 8, 2026 official story identifies current own-lab MUR and HoloOcean evaluation; transfer of the new AI navigation approach to the field remains ongoing.",
+        "verifiedAt": "2026-10-01T01:48:10Z",
+        "retrieval": "Direct official HTML via web.run"
+      },
+      {
+        "id": "s8",
+        "label": "www.youtube.com / source 8",
+        "url": "https://www.youtube.com/watch?v=4PYggrua6Ts",
+        "summary": "ND ROAR Lab BayesGS video, August 10, 2026, directly linked from university lab. Full description discusses probabilistic 3DGS trajectory risk; video frames did not load, so no new hardware claim based on it.",
+        "verifiedAt": "2026-10-01T01:48:10Z",
+        "retrieval": "Direct rendered official-lab video metadata/description in cloud browser; playback unavailable"
+      },
+      {
+        "id": "s9",
+        "label": "shengzhegan.online / source 9",
+        "url": "https://shengzhegan.online/",
+        "summary": "Researcher reports on-site ND ROAR undergraduate internship beginning July 2025; historical precedent only.",
+        "verifiedAt": "2026-10-01T01:48:10Z",
+        "retrieval": "Researcher indexed page via web.run"
+      }
+    ],
+    "unknowns": [
+      "Reuse the separately verified Notre Dame Research Visitor/Student Intern policy, including its conflicting posted funding amounts, without claiming acceptance. Duration, specific title, funding and remote work require host/ISSA confirmation. August 10, 2026 BayesGS lab video metadata/description was directly read, but playback buffered without viewable robot frames; it is evidence of current method activity, not independently verified new physical deployment.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "mhou@nd.edu"
+  }
+]

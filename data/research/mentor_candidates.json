@@ -43,6 +43,11 @@
     "batches/control-032.json",
     "batches/control-033.json",
     "batches/control-034.json",
+    "batches/control-035.json",
+    "batches/control-036.json",
+    "batches/control-037.json",
+    "batches/control-038.json",
+    "batches/control-039.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -2627,6 +2632,169 @@
       "shortVisitStatus": "dated-live-inquiry · 页面2021文本，2027未确认",
       "recordFile": "batches/control-034.json",
       "detailPage": "batches/control-034.md#yu-gu"
+    },
+    {
+      "id": "mengxue-hou",
+      "name": "Mengxue Hou",
+      "aliases": [],
+      "school": "University of Notre Dame",
+      "title": "Assistant Professor",
+      "homepage": "https://www.mengxuehou.com/",
+      "batch": "control-035",
+      "discoveredAt": "2026-10-01T01:43:51Z",
+      "verifiedAt": "2026-10-01T01:48:10Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Underwater robot learning",
+        "Uncertainty-aware perception",
+        "Belief-space planning",
+        "Human-robot and multi-agent autonomy"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-035.json",
+      "detailPage": "batches/control-035.md#mengxue-hou"
+    },
+    {
+      "id": "h-harry-asada",
+      "name": "H. Harry Asada",
+      "aliases": [
+        "Harry Asada",
+        "Haruhiko Harry Asada"
+      ],
+      "school": "Massachusetts Institute of Technology",
+      "title": "Ford Professor of Engineering; Professor of Mechanical Engineering",
+      "homepage": "https://darbelofflab.mit.edu/",
+      "batch": "control-036",
+      "discoveredAt": "2026-10-01T01:49:58Z",
+      "verifiedAt": "2026-10-01T01:51:47Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Deep Koopman dynamics models",
+        "Contact-rich manipulation",
+        "Model predictive control",
+        "Human-assistive robots"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-036.json",
+      "detailPage": "batches/control-036.md#h-harry-asada"
+    },
+    {
+      "id": "joel-w-burdick",
+      "name": "Joel W. Burdick",
+      "aliases": [
+        "Joel Burdick"
+      ],
+      "school": "California Institute of Technology",
+      "title": "Richard L. and Dorothy M. Hayman Professor of Mechanical Engineering and Bioengineering; JPL Research Scientist",
+      "homepage": "https://robotics.caltech.edu/",
+      "batch": "control-037",
+      "discoveredAt": "2026-10-01T01:50:13Z",
+      "verifiedAt": "2026-10-01T01:54:35Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Safe diffusion planning",
+        "Learning-based robot control",
+        "Uncertainty-aware autonomy",
+        "Robotic manipulation"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-037.json",
+      "detailPage": "batches/control-037.md#joel-w-burdick"
+    },
+    {
+      "id": "ersin-das",
+      "name": "Ersin Daş",
+      "aliases": [
+        "Ersin Das"
+      ],
+      "school": "Illinois Institute of Technology",
+      "title": "Assistant Professor; Director, Robust Control Lab",
+      "homepage": "https://ersindas.github.io/",
+      "batch": "control-037",
+      "discoveredAt": "2026-10-01T01:53:12Z",
+      "verifiedAt": "2026-10-01T01:54:35Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Safe diffusion planning",
+        "Learning-based robot control",
+        "Uncertainty-aware autonomy",
+        "Robotic manipulation"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-037.json",
+      "detailPage": "batches/control-037.md#ersin-das"
+    },
+    {
+      "id": "sertac-karaman",
+      "name": "Sertac Karaman",
+      "aliases": [],
+      "school": "Massachusetts Institute of Technology",
+      "title": "Professor; Director, Autonomy & Embedded Robotics Accelerated (AERA) and Low-Energy Autonomy and Navigation (LEAN)",
+      "homepage": "https://aeroastro.mit.edu/people/sertac-karaman/",
+      "batch": "control-038",
+      "discoveredAt": "2026-10-01T01:56:18Z",
+      "verifiedAt": "2026-10-01T02:04:27Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Reinforcement learning for physical flight",
+        "Multi-fidelity Bayesian optimization",
+        "Robot motion planning",
+        "Uncertainty-aware autonomous systems"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-038.json",
+      "detailPage": "batches/control-038.md#sertac-karaman"
+    },
+    {
+      "id": "sayan-mitra",
+      "name": "Sayan Mitra",
+      "aliases": [],
+      "school": "University of Illinois Urbana-Champaign",
+      "title": "Professor; John Bardeen Faculty Scholar; Director, Center for Autonomy",
+      "homepage": "https://mitras.ece.illinois.edu/",
+      "batch": "control-039",
+      "discoveredAt": "2026-10-01T02:06:25Z",
+      "verifiedAt": "2026-10-01T02:07:11Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Safe learning-enabled autonomy",
+        "Learned visual robot control",
+        "Formal verification",
+        "Generative robot policies"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-039.json",
+      "detailPage": "batches/control-039.md#sayan-mitra"
     },
     {
       "id": "tom-silver",

@@ -1,0 +1,216 @@
+[
+  {
+    "id": "joel-w-burdick",
+    "name": "Joel W. Burdick",
+    "aliases": [
+      "Joel Burdick"
+    ],
+    "school": "California Institute of Technology",
+    "homepage": "https://robotics.caltech.edu/",
+    "title": "Richard L. and Dorothy M. Hayman Professor of Mechanical Engineering and Bioengineering; JPL Research Scientist",
+    "department": "Mechanical and Civil Engineering; Bioengineering",
+    "batch": "control-037",
+    "discoveredAt": "2026-10-01T01:50:13Z",
+    "verifiedAt": "2026-10-01T01:54:35Z",
+    "researchAreas": [
+      "Safe diffusion planning",
+      "Learning-based robot control",
+      "Uncertainty-aware autonomy",
+      "Robotic manipulation"
+    ],
+    "fitReason": "Direct generative-model planning with control-barrier/MPC safeguards, supported by actual physical manipulator execution and broader autonomous robot experiments.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "July 12, 2026 D-SafeMPC validates simulation-trained diffusion planning on a physical Franka using CBF/CLF guidance and MPC refinement. Full paper Section V-A specifies static obstacles on hardware, dynamic obstacles in simulation, and relative dynamics factor 0.05. This narrower evidence takes precedence over the author project page's broader dynamic-hardware wording. Hardware location/ownership is not established, so this is collaboration-level evidence.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The old university robotics wiki lists visiting graduate students, but the roster is stale and has no current open call. No 2027 external-master's inquiry invitation verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Current safe generative planning and robot control are a strong match.",
+      "physical": "Named real Franka deployment in a multi-institutional collaboration; current host-lab ownership unconfirmed.",
+      "shortVisit": "No applicable external-master's short-visit call verified.",
+      "freshness": "Direct July 2026 technical paper and current official faculty affiliation."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "mede.caltech.edu / source 1",
+        "url": "https://mede.caltech.edu/people/jburdick",
+        "summary": "Current official endowed professor and JPL research-scientist titles; official research links.",
+        "verifiedAt": "2026-10-01T01:54:35Z",
+        "retrieval": "Direct official HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "robotics.caltech.edu / source 2",
+        "url": "https://robotics.caltech.edu/wiki/index.php/People",
+        "summary": "Historical group and visitor roster; not current recruitment proof.",
+        "verifiedAt": "2026-10-01T01:54:35Z",
+        "retrieval": "Direct university lab HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2607.10842v1",
+        "summary": "July 12, 2026 D-SafeMPC: physical static-obstacle Franka deployment, simulated dynamic obstacles, slowed relative dynamics factor 0.05.",
+        "verifiedAt": "2026-10-01T01:54:35Z",
+        "retrieval": "Direct primary full-text HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "erdisayar.github.io / source 4",
+        "url": "https://erdisayar.github.io/publications/d_safempc/",
+        "summary": "Author project describes broader dynamic-hardware tests; preserved as a source discrepancy, not adopted over full-paper scope.",
+        "verifiedAt": "2026-10-01T01:54:35Z",
+        "retrieval": "Direct author project HTML via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/pdf/2507.06574",
+        "summary": "July 2025 AI Space Cortex: neural/LLM-assisted sampling and recovery on JPL OWLAT lander-manipulator testbed; collaboration and testbed context, not spaceflight.",
+        "verifiedAt": "2026-10-01T01:54:35Z",
+        "retrieval": "Direct primary full PDF via web.run"
+      }
+    ],
+    "unknowns": [
+      "Reuse Caltech VSR institutional policy without assuming a lab offer, eight-week capacity or permitted funding classification. Current faculty profile and recent paper establish Caltech role; JPL collaborator experiments do not imply JPL visitor access. D-SafeMPC is limited slow static-obstacle hardware evidence, not a universal safety guarantee.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "jburdick@caltech.edu"
+  },
+  {
+    "id": "ersin-das",
+    "name": "Ersin Daş",
+    "aliases": [
+      "Ersin Das"
+    ],
+    "school": "Illinois Institute of Technology",
+    "homepage": "https://ersindas.github.io/",
+    "title": "Assistant Professor; Director, Robust Control Lab",
+    "department": "Mechanical, Materials, and Aerospace Engineering; Robust Control Lab",
+    "batch": "control-037",
+    "discoveredAt": "2026-10-01T01:53:12Z",
+    "verifiedAt": "2026-10-01T01:54:35Z",
+    "researchAreas": [
+      "Safe diffusion planning",
+      "Learning-based robot control",
+      "Uncertainty-aware autonomy",
+      "Robotic manipulation"
+    ],
+    "fitReason": "Direct generative-model planning with control-barrier/MPC safeguards, supported by actual physical manipulator execution and broader autonomous robot experiments.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "July 12, 2026 D-SafeMPC validates simulation-trained diffusion planning on a physical Franka using CBF/CLF guidance and MPC refinement. Full paper Section V-A specifies static obstacles on hardware, dynamic obstacles in simulation, and relative dynamics factor 0.05. This narrower evidence takes precedence over the author project page's broader dynamic-hardware wording. Hardware location/ownership is not established, so this is collaboration-level evidence.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current personal/research pages document lab leadership and recent research, but no explicit external-master's short-visit invitation was found. Former Caltech postdoctoral work is research evidence, not a current Caltech hosting role.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Current safe generative planning and robot control are a strong match.",
+      "physical": "Named real Franka deployment in a multi-institutional collaboration; current host-lab ownership unconfirmed.",
+      "shortVisit": "No applicable external-master's short-visit call verified.",
+      "freshness": "Direct July 2026 technical paper and current official faculty affiliation."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.iit.edu / source 1",
+        "url": "https://www.iit.edu/directory/people/ersin-das",
+        "summary": "Official current faculty directory, Assistant Professor, department, public email and personal-page link.",
+        "verifiedAt": "2026-10-01T01:54:35Z",
+        "retrieval": "Direct official HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "ersindas.github.io / source 2",
+        "url": "https://ersindas.github.io/",
+        "summary": "Current Robust Control Lab director; January 1, 2026 start; page updated August 31, 2026.",
+        "verifiedAt": "2026-10-01T01:54:35Z",
+        "retrieval": "Direct university-linked personal HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "ersindas.github.io / source 3",
+        "url": "https://ersindas.github.io/publications/",
+        "summary": "Confirms IROS 2026 D-SafeMPC and ongoing safe robot control research; no visitor recruitment call.",
+        "verifiedAt": "2026-10-01T01:54:35Z",
+        "retrieval": "Direct university-linked personal HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2607.10842v1",
+        "summary": "July 12, 2026 D-SafeMPC: physical static-obstacle Franka deployment, simulated dynamic obstacles, slowed relative dynamics factor 0.05.",
+        "verifiedAt": "2026-10-01T01:54:35Z",
+        "retrieval": "Direct primary full-text HTML via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "erdisayar.github.io / source 5",
+        "url": "https://erdisayar.github.io/publications/d_safempc/",
+        "summary": "Author project describes broader dynamic-hardware tests; preserved as a source discrepancy, not adopted over full-paper scope.",
+        "verifiedAt": "2026-10-01T01:54:35Z",
+        "retrieval": "Direct author project HTML via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/pdf/2507.06574",
+        "summary": "July 2025 AI Space Cortex: neural/LLM-assisted sampling and recovery on JPL OWLAT lander-manipulator testbed; collaboration and testbed context, not spaceflight.",
+        "verifiedAt": "2026-10-01T01:54:35Z",
+        "retrieval": "Direct primary full PDF via web.run"
+      }
+    ],
+    "unknowns": [
+      "Joined Illinois Tech January 1, 2026 according to current homepage (updated August 31, 2026), corroborated by university directory. Current Illinois Tech external-master's visitor title, duration, funding and lab equipment availability are unverified. Do not transfer Caltech policy to Illinois Tech.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "edas2@illinoistech.edu"
+  }
+]

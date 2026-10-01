@@ -69,6 +69,7 @@
     "batches/control-058.json",
     "batches/control-059.json",
     "batches/control-060.json",
+    "batches/control-061.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -3606,6 +3607,60 @@
       "shortVisitStatus": "precedent-only",
       "recordFile": "batches/control-060.json",
       "detailPage": "batches/control-060.md#john-t-wen"
+    },
+    {
+      "id": "ransalu-senanayake",
+      "name": "Ransalu Senanayake",
+      "aliases": [],
+      "school": "Arizona State University",
+      "title": "Assistant Professor; LENS Lab Principal Investigator",
+      "homepage": "https://ransml.github.io/lens-lab/",
+      "batch": "control-061",
+      "discoveredAt": "2026-10-01T04:44:05Z",
+      "verifiedAt": "2026-10-01T04:48:33Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Robust visuomotor policies",
+        "Bayesian optimization for robot learning",
+        "Robot failure diagnosis",
+        "Reinforcement learning",
+        "Vision-language-action models"
+      ],
+      "shortVisitStatus": "inquiry-only · explicitly unfunded",
+      "recordFile": "batches/control-061.json",
+      "detailPage": "batches/control-061.md#ransalu-senanayake"
+    },
+    {
+      "id": "nicola-bezzo",
+      "name": "Nicola Bezzo",
+      "aliases": [],
+      "school": "University of Virginia",
+      "title": "Associate Professor; Autonomous Mobile Robots Lab Director",
+      "homepage": "https://www.bezzorobotics.com/",
+      "batch": "control-061",
+      "discoveredAt": "2026-10-01T04:43:58Z",
+      "verifiedAt": "2026-10-01T04:49:51Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Safe robot reinforcement learning",
+        "Adaptive control barrier functions",
+        "Autonomous navigation",
+        "Robot resilience",
+        "Multi-robot inference"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-061.json",
+      "detailPage": "batches/control-061.md#nicola-bezzo"
     },
     {
       "id": "tom-silver",

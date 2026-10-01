@@ -156,6 +156,7 @@
     "batches/embodied-068.json",
     "batches/embodied-069.json",
     "batches/embodied-070.json",
+    "batches/embodied-071.json",
     "batches/embodied-075.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
@@ -8552,6 +8553,65 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-070.json",
       "detailPage": "batches/embodied-070.md#eric-jing-du"
+    },
+    {
+      "id": "abhinav-shrivastava",
+      "name": "Abhinav Shrivastava",
+      "aliases": [],
+      "school": "University of Maryland, College Park",
+      "title": "Associate Professor",
+      "homepage": "https://abhinavsh.info/",
+      "batch": "embodied-071",
+      "discoveredAt": "2026-10-01T03:18:57Z",
+      "verifiedAt": "2026-10-01T06:42:22Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Vision-language robot planning",
+        "Scene-graph reasoning",
+        "Learning-based robot perception",
+        "Long-horizon manipulation",
+        "Computer vision"
+      ],
+      "shortVisitStatus": "unknown · PhD招募暂停；访客状态未明",
+      "recordFile": "batches/embodied-071.json",
+      "detailPage": "batches/embodied-071.md#abhinav-shrivastava"
+    },
+    {
+      "id": "jingwei-sun",
+      "name": "Jingwei Sun",
+      "aliases": [
+        "Jingwei (Jared) Sun",
+        "Jared Sun"
+      ],
+      "school": "University of Florida",
+      "title": "Assistant Professor",
+      "homepage": "https://jingwei-sun.com/",
+      "batch": "embodied-071",
+      "discoveredAt": "2026-10-01T05:28:47Z",
+      "verifiedAt": "2026-10-01T06:41:50Z",
+      "scores": {
+        "fit": 37,
+        "physical": 0,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Efficient vision-language-action inference",
+        "Foundation models and agents",
+        "Latent feature prediction",
+        "Robust and personalized AI systems"
+      ],
+      "candidateTier": "Robotics-AI methods backup; learned physical execution unverified",
+      "physicalEvidenceStatus": "simulation-only",
+      "physicalEvidenceLabel": "仅仿真；真机待核实",
+      "shortVisitStatus": "unknown · generic intern inquiry；外校短访条件未明确",
+      "recordFile": "batches/embodied-071.json",
+      "detailPage": "batches/embodied-071.md#jingwei-sun"
     },
     {
       "id": "pratyusha-sharma",

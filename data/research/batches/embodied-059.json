@@ -1,0 +1,101 @@
+[
+  {
+    "id": "qi-zhu",
+    "name": "Qi Zhu",
+    "aliases": [],
+    "school": "Northwestern University",
+    "homepage": "https://nu-ideas-lab.github.io/",
+    "title": "Professor",
+    "department": "Electrical and Computer Engineering; Computer Science (courtesy)",
+    "batch": "embodied-059",
+    "discoveredAt": "2026-10-01T04:38:47Z",
+    "verifiedAt": "2026-10-01T04:43:18Z",
+    "researchAreas": [
+      "Foundation-model-driven embodied systems",
+      "Video-to-action manipulation",
+      "VLA memory and reliability",
+      "Safe and robust reinforcement learning"
+    ],
+    "fitReason": "Strong CS-facing match for foundation-model reasoning, policy memory and trustworthy robot execution; recent manipulation papers complement his broader cyber-physical-systems and verification agenda.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "EmboAlign (March 2026) executes VLM-constrained video-generated plans on a Dobot Nova2 across six tasks, with ten trials each. HyMeS (August 2026) steers a learned SO-101 policy using executable memory: three physical tasks, 35 trials per method. Its real-robot comparison shares demonstrations and policy weights; memory code is frozen at evaluation. These are physical executions, separate from its larger simulated RoboMemArena results.",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "precedent-only",
+      "summary": "The current lab invites interested students/researchers to email a CV and research interests. It lists former external visitors, but neither statement explicitly establishes a current visiting-intern opening, external-master’s eligibility or an eight-week summer place.",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 40,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct foundation-model manipulation, memory and dependable embodied-system methods.",
+      "physical": "Actual learned/model-driven robot execution in recent collaborations; current local hardware ownership remains unclear.",
+      "shortVisit": "General interest invitation and past visitors do not verify current external short-term intake.",
+      "freshness": "Current official title, September 2026 roster and two full 2026 papers."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.mccormick.northwestern.edu / source 1",
+        "url": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhu-qi.html",
+        "summary": "Full official faculty profile verifies current title, contact, foundation-model research agenda and 2026 publications.",
+        "verifiedAt": "2026-10-01T04:43:18Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "nu-ideas-lab.github.io / source 2",
+        "url": "https://nu-ideas-lab.github.io/",
+        "summary": "Full current IDEAS Lab homepage identifies Northwestern and its trustworthy intelligent-systems focus.",
+        "verifiedAt": "2026-10-01T04:43:18Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "nu-ideas-lab.github.io / source 3",
+        "url": "https://nu-ideas-lab.github.io/group/",
+        "summary": "Full group page, updated September 3, 2026: current student identities, former visitors and general email/CV invitation.",
+        "verifiedAt": "2026-10-01T04:43:18Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2603.05757v1",
+        "summary": "Full primary EmboAlign paper; methods and Section IV confirm model-generated actions on physical Dobot and the trial protocol.",
+        "verifiedAt": "2026-10-01T04:43:18Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2608.09410v1",
+        "summary": "Full primary HyMeS paper; experimental methods separate simulation from real SO-101 execution, fixed-policy comparisons and frozen memory code.",
+        "verifiedAt": "2026-10-01T04:43:18Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Current university directory confirms full Professor, rather than older Associate Professor or UC Riverside titles. Public professional email is qzhu@northwestern.edu.",
+      "Physical papers are current coauthored collaborations involving his listed students, with Northwestern/Stanford and, for HyMeS, Minnesota affiliations. Hardware location, independent lab inventory and visitor access are unresolved; physical score is conservatively capped at 20.",
+      "EmboAlign uses inference-time planning/optimization, not new task-specific policy training. HyMeS performs learned motor execution with memory steering, but its selected benchmark protocol and limited hardware tasks do not demonstrate arbitrary long-horizon robustness.",
+      "Reuse the Northwestern institutional audit: Visiting Predoctoral Fellow requires doctoral enrollment. Student Intern materials include MA/PhD and an eight-week-compatible duration, but the linked department checklist says current undergraduate. OISS/McCormick must resolve this conflict and the actual appointment; personal-funding acceptance alone does not resolve eligibility.",
+      "2027 capacity, exact duration, remote participation, financial support, home-degree relationship, appointment and immigration approvals remain unconfirmed. Former visitor precedent and general joining language receive zero short-visit points.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Northwestern institutional visitor rules](../eligibility_notes.md#northwestern)"
+    ],
+    "publicEmail": "qzhu@northwestern.edu"
+  }
+]

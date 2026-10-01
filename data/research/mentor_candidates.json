@@ -128,6 +128,7 @@
     "batches/embodied-056.json",
     "batches/embodied-057.json",
     "batches/embodied-058.json",
+    "batches/embodied-059.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -7122,6 +7123,32 @@
       "shortVisitStatus": "unknown · program-specific region and year limits",
       "recordFile": "batches/embodied-058.json",
       "detailPage": "batches/embodied-058.md#stephen-tu"
+    },
+    {
+      "id": "qi-zhu",
+      "name": "Qi Zhu",
+      "aliases": [],
+      "school": "Northwestern University",
+      "title": "Professor",
+      "homepage": "https://nu-ideas-lab.github.io/",
+      "batch": "embodied-059",
+      "discoveredAt": "2026-10-01T04:38:47Z",
+      "verifiedAt": "2026-10-01T04:43:18Z",
+      "scores": {
+        "fit": 40,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Foundation-model-driven embodied systems",
+        "Video-to-action manipulation",
+        "VLA memory and reliability",
+        "Safe and robust reinforcement learning"
+      ],
+      "shortVisitStatus": "precedent-only",
+      "recordFile": "batches/embodied-059.json",
+      "detailPage": "batches/embodied-059.md#qi-zhu"
     },
     {
       "id": "henny-admoni",

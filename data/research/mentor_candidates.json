@@ -81,6 +81,7 @@
     "batches/control-070.json",
     "batches/control-071.json",
     "batches/control-072.json",
+    "batches/control-073.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -4272,6 +4273,62 @@
       "shortVisitStatus": "degree-only · dated SURI 2026",
       "recordFile": "batches/control-072.json",
       "detailPage": "batches/control-072.md#xi-yu"
+    },
+    {
+      "id": "soumik-sarkar",
+      "name": "Soumik Sarkar",
+      "aliases": [],
+      "school": "Iowa State University",
+      "title": "Professor; Director, Translational AI Center; Associate Director, AI Institute for Resilient Agriculture",
+      "homepage": "https://sites.google.com/view/scslab-isu/home",
+      "batch": "control-073",
+      "discoveredAt": "2026-10-01T06:19:55Z",
+      "verifiedAt": "2026-10-01T06:23:07Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Robot reinforcement learning",
+        "Sim-to-real visual manipulation",
+        "Safe learning-enabled control",
+        "Agricultural robotics",
+        "Autonomous perception"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-073.json",
+      "detailPage": "batches/control-073.md#soumik-sarkar"
+    },
+    {
+      "id": "pappu-kumar-yadav",
+      "name": "Pappu Kumar Yadav",
+      "aliases": [
+        "Pappu Yadav"
+      ],
+      "school": "South Dakota State University",
+      "title": "Assistant Professor of Precision Agriculture AI Engineering; Principal Investigator, Machine Vision and Optical Sensor Laboratory",
+      "homepage": "https://www.sdstate.edu/directory/pappu-yadav",
+      "batch": "control-073",
+      "discoveredAt": "2026-10-01T06:20:33Z",
+      "verifiedAt": "2026-10-01T06:23:07Z",
+      "scores": {
+        "fit": 37,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Learning-enabled agricultural robotics",
+        "Embedded computer vision",
+        "Precision spraying",
+        "Robot perception",
+        "Crop monitoring"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-073.json",
+      "detailPage": "batches/control-073.md#pappu-kumar-yadav"
     },
     {
       "id": "tom-silver",

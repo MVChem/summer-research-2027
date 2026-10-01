@@ -1,0 +1,215 @@
+[
+  {
+    "id": "soumik-sarkar",
+    "name": "Soumik Sarkar",
+    "aliases": [],
+    "school": "Iowa State University",
+    "homepage": "https://sites.google.com/view/scslab-isu/home",
+    "title": "Professor; Director, Translational AI Center; Associate Director, AI Institute for Resilient Agriculture",
+    "department": "Mechanical Engineering; Computer Science",
+    "batch": "control-073",
+    "discoveredAt": "2026-10-01T06:19:55Z",
+    "verifiedAt": "2026-10-01T06:23:07Z",
+    "researchAreas": [
+      "Robot reinforcement learning",
+      "Sim-to-real visual manipulation",
+      "Safe learning-enabled control",
+      "Agricultural robotics",
+      "Autonomous perception"
+    ],
+    "fitReason": "Substantive deep RL and multimodal perception drive actual manipulation, with safe cyber-physical decision-making as a broader research theme.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Find the Fruit (May 2025 primary preprint) deploys a PPO policy from Isaac Lab on a physical six-DOF MyBuddy280 arm with RealSense RGB-D sensing and ROS2. It manipulates foliage to expose an occluded target in 180 trials across four off-the-shelf artificial plants, rather than harvesting live fruit in a field. Learned high-level kinematic actions feed a conventional servo-position controller with current/torque limits. The physical best-case 86.7% result is one plant condition; the bushy out-of-distribution plant achieved 28.9%. Training-only privileged target masks are removed at deployment. The current SCS lab roster independently lists lead author Nitesh Subedi working on dual-arm/drone RL under Sarkar, establishing current directed-group linkage. Separate foundation-embedding navigation and crop datasets are not assumed to be additional physical deployments.",
+      "sourceIds": [
+        "s1",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current applicable external-master short-visit invitation verified on the inspected lab home/team and official faculty sources. Current lab students, general center collaboration and degree advising are not visitor offers.",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct deep RL/multimodal visuomotor manipulation with robust-learning and agricultural autonomy relevance.",
+      "physical": "Actual current directed-group robot control with explicit artificial-plant and task limits.",
+      "shortVisit": "No applicable short-visit invitation established.",
+      "freshness": "2025 detailed physical primary paper and 2026 current faculty/research confirmation."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "sites.google.com / source 1",
+        "url": "https://sites.google.com/view/scslab-isu/team-contact",
+        "summary": "Current professor/center roles, official public email and direct current student linkage for Nitesh Subedi.",
+        "verifiedAt": "2026-10-01T06:23:07Z",
+        "retrieval": "Direct primary/official HTML or PDF via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "sites.google.com / source 2",
+        "url": "https://sites.google.com/view/scslab-isu/home",
+        "summary": "Primary lab research scope and leadership; no general external visitor invitation in inspected text.",
+        "verifiedAt": "2026-10-01T06:23:07Z",
+        "retrieval": "Direct primary/official HTML or PDF via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "catalog.iastate.edu / source 3",
+        "url": "https://catalog.iastate.edu/faculty/",
+        "summary": "Current university catalog identifies Professor of Mechanical Engineering and TrAC Director; older associate titles superseded.",
+        "verifiedAt": "2026-10-01T06:23:07Z",
+        "retrieval": "Official university catalog indexed text via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2505.16547v1",
+        "summary": "Full primary PPO/MyBuddy deployment methods,180 physical artificial-plant trials, fixed-camera setup and failure/privileged-mask limitations.",
+        "verifiedAt": "2026-10-01T06:23:07Z",
+        "retrieval": "Direct primary/official HTML or PDF via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "research.iastate.edu / source 5",
+        "url": "https://research.iastate.edu/2026/07/27/six-projects-selected-for-funding-from-spring-2026-leveraging-ai-to-advance-life-sciences-and-agriculture-rir/",
+        "summary": "Dated July 2026 official current professor/TrAC identity and ongoing agricultural-AI activity; grant plans are not additional robot execution.",
+        "verifiedAt": "2026-10-01T06:23:07Z",
+        "retrieval": "Dated official university article indexed text via web.run"
+      }
+    ],
+    "unknowns": [
+      "Reuse Iowa State eligibility notes: degree-linked Student Intern can accommodate outside graduate students and three-week to twelve-month research, but the departmental intern program requires prior Provost approval. Current FY 2027 support guidance applies only through July 2027; August 2027 amount is not verified. Personal bank support can be documented where the approved category permits it. Host acceptance, eight-week project scope, appointments and laboratory access remain unconfirmed. Current professor title supersedes older associate-professor pages.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#iowa-state)"
+    ],
+    "publicEmail": "soumiks@iastate.edu"
+  },
+  {
+    "id": "pappu-kumar-yadav",
+    "name": "Pappu Kumar Yadav",
+    "aliases": [
+      "Pappu Yadav"
+    ],
+    "school": "South Dakota State University",
+    "homepage": "https://www.sdstate.edu/directory/pappu-yadav",
+    "title": "Assistant Professor of Precision Agriculture AI Engineering; Principal Investigator, Machine Vision and Optical Sensor Laboratory",
+    "department": "Agricultural and Biosystems Engineering",
+    "batch": "control-073",
+    "discoveredAt": "2026-10-01T06:20:33Z",
+    "verifiedAt": "2026-10-01T06:23:07Z",
+    "researchAreas": [
+      "Learning-enabled agricultural robotics",
+      "Embedded computer vision",
+      "Precision spraying",
+      "Robot perception",
+      "Crop monitoring"
+    ],
+    "fitReason": "Concrete neural perception-to-actuation work on a mobile agricultural platform; broader sensing research also supports practical agricultural autonomy.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "July 2025 primary preprint executes YOLO11 detection/segmentation on a Jetson Orin Nano mounted on a Farm-ng Amiga, using estimated canopy area to command microcontroller-controlled spray valves. Physical indoor trials use 15 potted hibiscus plants as weed proxies and water-sensitive paper to evaluate actual spraying. Outdoor soybean/corn trials and additional weed species remain future work. This is learned perception coupled to selective actuation; the study does not establish a learned driving policy or completed autonomous field weed management. Reported component/dataset numbers are internally inconsistent across sections, so no precise performance or platform-dimension claim is relied upon. The PI’s lab site independently lists the same see-and-spray project and paper coauthors/alumni, while the central university directory confirms the current SDSU appointment. Prior Florida work is not needed as the hardware basis.",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current explicit external-master short-visitor invitation found on the inspected primary lab and official faculty pages. Lab project descriptions and student/alumni membership are not offers.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong applied neural perception and robot actuation, with broader crop-sensing rather than generalist robot-policy focus.",
+      "physical": "Actual locally attributable Amiga sprayer execution; indoor proxy plants and no claimed field autonomy.",
+      "shortVisit": "No applicable lab-level external-master short-visitor invitation.",
+      "freshness": "Full 2025 physical preprint and live 2026 university/lab project records."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.sdstate.edu / source 1",
+        "url": "https://www.sdstate.edu/directory/pappu-yadav",
+        "summary": "Official current assistant-professor/precision-agriculture AI role and public contact.",
+        "verifiedAt": "2026-10-01T06:23:07Z",
+        "retrieval": "Direct primary/official HTML or PDF via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "mvoslab.com / source 2",
+        "url": "https://mvoslab.com/pi",
+        "summary": "Primary group page names Pappu Kumar Yadav as PI, independently resolving the full-name alias and 2023-current SDSU affiliation.",
+        "verifiedAt": "2026-10-01T06:23:07Z",
+        "retrieval": "Direct primary/official HTML or PDF via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "mvoslab.com / source 3",
+        "url": "https://mvoslab.com/people",
+        "summary": "Group roster/alumni independently includes sprayer-paper collaborators, including Inayat Rasool, Amee Parmar and Rikesh Budhathoki. Alumni not called current students.",
+        "verifiedAt": "2026-10-01T06:23:07Z",
+        "retrieval": "Direct primary/official HTML or PDF via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "mvoslab.com / source 4",
+        "url": "https://mvoslab.com/research",
+        "summary": "Primary current lab project list explicitly includes robotic see-and-spray; institution-policy disclaimer preserved.",
+        "verifiedAt": "2026-10-01T06:23:07Z",
+        "retrieval": "Direct primary/official HTML or PDF via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2507.05432v1",
+        "summary": "Full primary neural perception-to-spray pipeline, real indoor hibiscus/proxy trials, hardware components and future field-validation limits.",
+        "verifiedAt": "2026-10-01T06:23:07Z",
+        "retrieval": "Direct primary/official HTML or PDF via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "www.sdstate.edu / source 6",
+        "url": "https://www.sdstate.edu/university-policies-procedures/policy-232-visiting-scholars",
+        "summary": "Institutional visitor approval framework; no lab offer or automatic external-master eligibility.",
+        "verifiedAt": "2026-10-01T06:23:07Z",
+        "retrieval": "Direct primary/official HTML or PDF via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "www.sdstate.edu / source 7",
+        "url": "https://www.sdstate.edu/international-student-scholar-engagement/faculty-scholars-j-1-holders",
+        "summary": "Current international office category guidance, detailed InsideState link; exact external-master/funding route unresolved.",
+        "verifiedAt": "2026-10-01T06:23:07Z",
+        "retrieval": "Direct primary/official HTML or PDF via web.run"
+      }
+    ],
+    "unknowns": [
+      "New South Dakota State feasibility supplement applies, distinct from San Diego State. Policy2:32 requires complete sponsor/unit/international/Provost approval for an eight-week laboratory visit. Public sources do not resolve external-master appointment category, full personal-funding eligibility, current minimum support, lead time or 2027 capacity. Internal detailed procedures were not retrieved. The lab website is a PI/group site that explicitly disclaims being the university’s official policy voice; use central university pages for appointment and sponsorship rules.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#south-dakota-state)"
+    ],
+    "publicEmail": "Pappu.Yadav@sdstate.edu"
+  }
+]

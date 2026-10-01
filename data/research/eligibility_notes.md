@@ -952,3 +952,11 @@ Sources: [Guides and Forms](https://www.lamar.edu/international-education/intern
 核查：2026-10-01T06:13:43Z。[官方访问学者页面](https://globalportal.georgiasouthern.edu/index.cfm?FuseAction=Abroad.ViewLink&Link_ID=369F38B2-AB00-B81C-F0D7569B7BB7AF8A&Parent_ID=6528E5E3-B9F0-0090-C9EB0D889F9391E6) 列 Professor、Research Scholar、Short-term Scholar 和有限的 Student 类别，但没有直接确认外校在读硕士进行八周研究适用哪一类。[主办申请说明](https://globalportal.georgiasouthern.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11238) 已在实时浏览器核实：由校内部门发起，依次经过 OGE、院系、Dean、Provost 批准，之后才签发 DS-2019；须提交正式邀请、CV、英语能力和财力材料。
 
 页面当前列单人每月至少 1,450 美元、每位随行家属另加 700 美元，并要求覆盖旅行、生活和保险。这不是 2027 年费用保证，也不是完整的八周预算。[官方邀请模板](https://globalportal.georgiasouthern.edu/_customtags/ct_FileRetrieve.cfm?File_ID=060277724F71017607030C72721F70070B091B087208046B740602010173720A0F06707672770306) 包含无薪 Guest Researcher 与访问者自付费用条款，但不构成对具体资金来源或申请人的批准；模板中的办公及网络等服务有待主办方选定，不能承诺实验室访问权。外校硕士任命资格、最短时长、办理周期、行政费用、远程安排及导师 2027 年容量均未知。勿与 Georgia State 的政策混用。
+
+<a id="south-dakota-state"></a>
+
+## South Dakota State · 实验室访问须完整审批，硕士类别与财力未定
+
+核查：2026-10-01T06:22:24Z。与 San Diego State 不同。[Policy 2:32](https://www.sdstate.edu/university-policies-procedures/policy-232-visiting-scholars)要求八周或涉及实验室操作的访问完成访客审批，由接收单位启动、Provost 最终批准；短时参观不授权研究或操作设备。访客不构成员工，但此定义不等于允许任意签证类别完全自费。政策未明确外校在读硕士资格。
+
+[国际学者入口](https://www.sdstate.edu/international-student-scholar-engagement/faculty-scholars-j-1-holders)提供 research/short-term scholar 支持，并提及 intern；详细流程链接至 InsideState。未核实独立 Student Intern 条件、当前最低财力、八周接收或完整个人出资许可，须由接收单位及 International Student and Scholar Engagement 确定。[保险页](https://www.sdstate.edu/international-student-scholar-engagement/j-1-health-insurance)的约每月六美元仅指已参加州雇员保险者的补充保障，不能用作访客完整保费。相关页面的监管提示措辞不一致，不据此作法律状态判断；2027 类别、资金、保险、提前期和实验室准入均待确认。

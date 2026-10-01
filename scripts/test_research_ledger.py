@@ -324,5 +324,44 @@ class ResearchLedgerTests(unittest.TestCase):
         self.assertEqual(row["scores"]["physical"], 12)
 
 
+    def test_priority_overlay_preserves_all_records_and_scores(self):
+        notes = ledger.priority_notes()
+        ledger.validate_priority_notes(notes, self.full)
+        before = copy.deepcopy(self.full)
+        rows = ledger.ranked_rows(self.full)
+        self.assertEqual({r['id'] for r in rows}, {r['id'] for r in self.full['candidates']})
+        self.assertEqual(self.full, before)
+
+    def test_unknown_ap_start_is_not_recent(self):
+        row = copy.deepcopy(self.full['candidates'][0])
+        row['title'] = 'Assistant Professor'
+        self.assertEqual(ledger.priority_tier(row, {'appointments':{}, 'constraints':[]}), 3)
+
+    def test_explicit_closed_route_overrides_new_ap_status(self):
+        row = copy.deepcopy(self.full['candidates'][0]); row['title'] = 'Assistant Professor'
+        notes = {'appointments':{row['id']:{'appointmentStart':{'year':2026,'status':'current'}}},
+                 'constraints':[{'candidateId':row['id'],'kind':'no-summer-interns'}]}
+        self.assertEqual(ledger.priority_tier(row, notes), 7)
+
+    def test_preference_is_not_minimum_or_closure(self):
+        row = next(r for r in self.full['candidates'] if r['id'] == 'dhruv-shah')
+        self.assertEqual(ledger.priority_tier(row, ledger.priority_notes()), 5)
+        self.assertEqual(row['scores']['shortVisit'], 10)
+        text = ledger.render_contact_constraints(ledger.priority_notes())
+        self.assertIn('时长偏好或常态，不是硬性禁令', text)
+
+    def test_incoming_year_without_month_is_not_before_summer(self):
+        row = copy.deepcopy(self.full['candidates'][0]); row['title'] = 'Incoming Assistant Professor'
+        notes = {'appointments':{row['id']:{'appointmentStart':{'year':2027,'status':'incoming'}}}, 'constraints':[]}
+        self.assertEqual(ledger.priority_tier(row, notes), 2)
+        notes['appointments'][row['id']]['appointmentStart']['month'] = 1
+        self.assertEqual(ledger.priority_tier(row, notes), 1)
+
+    def test_priority_notes_reject_unknown_identity(self):
+        notes = copy.deepcopy(ledger.priority_notes())
+        notes['appointments']['not-a-record'] = next(iter(notes['appointments'].values()))
+        with self.assertRaises(AssertionError): ledger.validate_priority_notes(notes, self.full)
+
+
 if __name__ == "__main__":
     unittest.main()

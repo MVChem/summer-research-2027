@@ -1,0 +1,506 @@
+{
+  "schemaVersion": 1,
+  "preferenceDate": "2026-10-01",
+  "scope": "Source-backed priority overlay. Research scores and discovery timestamps are unchanged. Initial hire-date subset is incomplete; missing dates are unknown, not negative evidence.",
+  "recentAppointmentWorkingConvention": "2024 onward, plus explicit incoming starts before June 2027. This is an adjustable sorting convention, not an age proxy or acceptance estimate.",
+  "appointments": {
+    "neel-p-bhatt": {
+      "appointmentStart": {
+        "year": 2026,
+        "precision": "year",
+        "season": "Fall",
+        "display": "Fall 2026; first-person homepage says August 2026",
+        "status": "current",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "Official department page explicitly says he joined the Systems Engineering team in Fall2026. Personal news narrows to August; no exact day."
+      },
+      "display": "Fall 2026; first-person homepage says August 2026",
+      "caveat": "2026秋已到岗；有2027访客/实习邮件入口，时长、资金、主办类别和UTD设备仍待确认",
+      "sources": [
+        {
+          "url": "https://syse.utdallas.edu/ourteam/staff/neel-p-bhatt/",
+          "observedAt": "2026-10-01T12:09:13Z",
+          "evidence": "Current Assistant Professor and explicit Fall2026 team arrival; complete direct HTML read after web extraction was unavailable."
+        },
+        {
+          "url": "https://neel1302.github.io/",
+          "observedAt": "2026-10-01T12:12:56Z",
+          "evidence": "Current role; author news says August2026 appointment; full openings section separately welcomes visiting students/interns and specifies application contents. Top banner explicitly includes Summer2027 while lower section still says Fall2026/Spring2027."
+        }
+      ]
+    },
+    "tom-silver": {
+      "appointmentStart": {
+        "year": 2025,
+        "precision": "year",
+        "season": "Fall",
+        "display": "Fall 2025",
+        "status": "current",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "Department hire story explicitly says joined faculty in2025; lab news reports accepted position starting Fall2025. October2 publication is not hire day."
+      },
+      "display": "Fall 2025",
+      "caveat": "外校研究生可经VSRC询问；仅现场，按完整日历月安排；需提前4–6个月准备",
+      "sources": [
+        {
+          "url": "https://ece.princeton.edu/news/tom-silver-joins-princeton-faculty-expertise-robot-planning-and-learning",
+          "observedAt": "2026-10-01T12:07:50Z",
+          "evidence": "Department story explicitly states joined Princeton faculty in2025."
+        },
+        {
+          "url": "https://prpl-group.com/",
+          "observedAt": "2026-10-01T12:09:31Z",
+          "evidence": "Lab timeline says Fall2025 start; graduate students from other institutions may inquire via VSRC, with no remote internships."
+        }
+      ]
+    },
+    "thomas-a-berrueta": {
+      "appointmentStart": {
+        "year": 2026,
+        "month": 11,
+        "day": 1,
+        "precision": "day",
+        "display": "November 1, 2026",
+        "status": "incoming",
+        "sourceIds": [
+          "h1"
+        ],
+        "evidence": "Official Stanford ME page gives the exact incoming start and says PAL opens November2026."
+      },
+      "display": "November 1, 2026",
+      "caveat": "2026-11-01拟到岗；访客表单先填再邮件；仅首屏已读，后续条件与新实验室准备未核",
+      "sources": [
+        {
+          "url": "https://me.stanford.edu/people/thomas-berrueta",
+          "observedAt": "2026-10-01T12:07:59Z",
+          "evidence": "Exact incoming AP start November1,2026, and PAL opening November2026."
+        },
+        {
+          "url": "https://pal.stanford.edu/join.html",
+          "observedAt": "2026-10-01T12:09:13Z",
+          "evidence": "Separate visiting-researcher category alongside postdocs and current Stanford students; fellowship list is for PhD/postdoc funding, not visitor award."
+        },
+        {
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSfj0tdvD6Zxct-pXrqa1XtyC-DuPnI16Y3d9SRIQ86asmvbqw/viewform",
+          "observedAt": "2026-10-01T12:10:06Z",
+          "evidence": "Initial public form page includes Visiting Researcher role and form-first then email instructions. Later pages unread; no input/upload/submission. Exact URL checked12:13:06Z."
+        }
+      ]
+    },
+    "homanga-bharadhwaj": {
+      "appointmentStart": {
+        "year": 2026,
+        "precision": "year",
+        "display": "2026 new-faculty cohort; exact start month/day unconfirmed",
+        "status": "current",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "July30,2026 department announcement names him among this academic year’s new tenure-track AP hires; current faculty profile says joined full-time. August B3 website launch is not appointment date."
+      },
+      "display": "2026 new-faculty cohort; exact start month/day unconfirmed",
+      "caveat": "2026已到岗；外校短访类别明确，但表单链接仍缺失；可先向PI确认入口",
+      "sources": [
+        {
+          "url": "https://www.cs.jhu.edu/news/johns-hopkins-computer-science-welcomes-six-new-tenure-track-faculty/",
+          "observedAt": "2026-10-01T12:10:53Z",
+          "evidence": "Full official story names him among seven new tenure-track CS assistant professors this academic year. URL says six but visible title/body seven."
+        },
+        {
+          "url": "https://www.cs.jhu.edu/faculty/homanga-bharadhwaj/",
+          "observedAt": "2026-10-01T12:07:50Z",
+          "evidence": "Current CS AP and statement he joined Johns Hopkins full-time after Meta."
+        },
+        {
+          "url": "http://b3.cs.jhu.edu/",
+          "observedAt": "2026-10-01T12:12:15Z",
+          "evidence": "Complete HTTP page recovered using the exact lab link from author homepage. August2026 is website-launch news; separate visitor section still has no configured Google Form. Earlier HTTPS attempts failed."
+        }
+      ]
+    },
+    "dhruv-shah": {
+      "appointmentStart": {
+        "year": 2026,
+        "precision": "year",
+        "display": "2026; exact month/day unconfirmed",
+        "status": "current",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "September2026 CV gives Princeton AP2026–present, corroborated by the April6,2026 department hire story. Article publication is not start day."
+      },
+      "display": "2026; exact month/day unconfirmed",
+      "caveat": "2026已到岗；Masters可选，但通常偏好至少6个月，较短安排需确认",
+      "sources": [
+        {
+          "url": "https://dhruvshah.me/docs/cv.pdf",
+          "observedAt": "2026-10-01T12:09:44Z",
+          "evidence": "Downloaded complete ten-page CV; appointment block and September2026 update visually checked on page1: Princeton2026–present."
+        },
+        {
+          "url": "https://ece.princeton.edu/node/10221",
+          "observedAt": "2026-10-01T12:07:50Z",
+          "evidence": "Official university profile says he has joined as ECE AP; April6 publication corroborates current appointment."
+        },
+        {
+          "url": "https://prism.robotics.princeton.edu/contact",
+          "observedAt": "2026-10-01T12:09:31Z",
+          "evidence": "Dedicated non-Princeton short-term visitor route, separate from current-Princeton student forms."
+        },
+        {
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLScgkMi3nEuGibkb4uexKnXtDZT2Vmg_yoPGxEQYAZTPUshrsQ/viewform",
+          "observedAt": "2026-10-01T12:10:06Z",
+          "evidence": "Initial form page explicitly prefers visits >=6months and includes Masters status. Later pages were not inspected and no identifying fields/checks/uploads/submission were entered. Exact URL checked12:13:06Z."
+        }
+      ]
+    },
+    "haozhi-qi": {
+      "appointmentStart": {
+        "year": 2027,
+        "month": 1,
+        "precision": "month",
+        "display": "January 2027",
+        "status": "incoming",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "Official new-faculty announcement explicitly says Computer Science, starting January2027; author page retains incoming and Amazon role."
+      },
+      "display": "January 2027",
+      "caveat": "2027-01拟到岗；目前只核实PhD招募，外校访客路线和新实验室准备未知",
+      "sources": [
+        {
+          "url": "https://physicalsciences.uchicago.edu/news/article/introducing-new-faculty-PSD-26-27/",
+          "observedAt": "2026-10-01T12:07:59Z",
+          "evidence": "Direct university announcement explicitly specifies January2027 AP start."
+        },
+        {
+          "url": "https://haozhi.io/",
+          "observedAt": "2026-10-01T12:10:38Z",
+          "evidence": "Incoming UChicago AP, current Amazon FAR technical-staff role, PhD-only application instructions; no external visitor invitation."
+        }
+      ]
+    },
+    "david-m-chan": {
+      "appointmentStart": {
+        "year": 2027,
+        "month": 1,
+        "precision": "month",
+        "display": "January 2027, first-person announcement",
+        "status": "incoming",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "Author explicitly announces January2027 start. Official CML faculty roster confirms name/CS association but has no date; date is not independently university-issued."
+      },
+      "display": "January 2027, first-person announcement",
+      "caveat": "本人公告2027-01拟到岗，官方名单未注明日期；目前只核实PhD/本校学生招募",
+      "sources": [
+        {
+          "url": "https://iridescent.io/",
+          "observedAt": "2026-10-01T12:07:59Z",
+          "evidence": "First-person incoming CS AP and January2027 start, not yet current role."
+        },
+        {
+          "url": "https://cml.ics.uci.edu/faculty/",
+          "observedAt": "2026-10-01T12:12:36Z",
+          "evidence": "Official roster names David Chan under Computer Science; no start date or independent proof he has arrived."
+        },
+        {
+          "url": "https://iridescent.io/students/",
+          "observedAt": "2026-10-01T12:09:31Z",
+          "evidence": "Full recruitment page covers degree applicants and already-UCI students, no external visitor section."
+        }
+      ]
+    },
+    "yaqi-xie": {
+      "appointmentStart": {},
+      "display": "Adjunct已列名；常规AP入职时间未定",
+      "caveat": "官方当前为Adjunct；常规AP仍写incoming且起始日期未知；实习询问不等于主办权限",
+      "sources": [
+        {
+          "url": "https://ece.illinois.edu/about/directory/adjuncts/yaqixie",
+          "observedAt": "2026-10-01T12:09:31Z",
+          "evidence": "Complete official HTML shows ADJ ASST PROF and Illinois email; no start date."
+        },
+        {
+          "url": "https://yaqi-xie.me/",
+          "observedAt": "2026-10-01T12:08:55Z",
+          "evidence": "Explicit incoming UIUC ECE AP/CS-affiliate announcement plus current CMU postdoctoral role; interns welcomed; no appointment start."
+        }
+      ]
+    }
+  },
+  "constraints": [
+    {
+      "key": "baseline-46-no-visitors",
+      "baselineId": 46,
+      "name": "Shubham Tulsiani",
+      "kind": "no-visitors",
+      "scope": "当前短期实习/访客",
+      "summary": "当前明确没有短期实习或访客位置；未注明适用年份，不能推断为永久关闭",
+      "observedAt": "2026-10-01T00:42:48Z",
+      "sources": [
+        {
+          "url": "https://shubhtuls.github.io/",
+          "retrieval": "direct-primary-page",
+          "evidence": "Research Group prospective-student FAQ explicitly addresses interns/visitors and says no short-term positions at this time."
+        }
+      ]
+    },
+    {
+      "key": "baseline-102-no-summer-interns",
+      "baselineId": 102,
+      "name": "Chelsea Finn",
+      "kind": "no-summer-interns",
+      "scope": "外校访问申请；表单含Masters",
+      "summary": "明确不接收暑期实习生；另有一般至少6个月的偏好，两者不应混为同一条最短时长规则",
+      "observedAt": "2026-10-01T11:36:42Z",
+      "sources": [
+        {
+          "url": "https://irislab.stanford.edu/contact.html",
+          "retrieval": "direct-primary-page and direct-HTML full text",
+          "evidence": "Current Outside of Stanford section links the exact visitor form, separately from local Stanford undergraduate/MS and postdoc forms. Full form read in cloud browser11:36:42Z; no inputs or submission."
+        },
+        {
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSf7ylPCsuQjZTAngLVVym9Os_EXrg8lHOZeDXm5XA6OfBmpzg/viewform?usp=send_form",
+          "retrieval": "direct-primary-cloud-browser",
+          "evidence": "Full current primary source, with applicable visiting-student wording verified."
+        }
+      ]
+    },
+    {
+      "key": "baseline-101-no-summer-interns",
+      "baselineId": 101,
+      "name": "Sergey Levine",
+      "kind": "no-summer-interns",
+      "scope": "非Berkeley访问研究者",
+      "summary": "明确不接收暑期实习生；一般偏好9个月，每年仅约1–2位且多为PhD，不据此推断绝对禁止硕士",
+      "observedAt": "2026-10-01T11:38:47Z",
+      "sources": [
+        {
+          "url": "https://rail.eecs.berkeley.edu/contact.html",
+          "retrieval": "direct-primary-page",
+          "evidence": "Full live contact page separates visitors from local-student and degree-admissions routes."
+        },
+        {
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLScdgQplFqrnVqhX42gzHctg1TGgmNy9GcHRuqZM2uJGzIRoXg/viewform?usp=sf_link",
+          "retrieval": "direct-primary-cloud-browser",
+          "evidence": "Complete visible form read2026-10-01T11:38:25Z; academic-status and duration/summer text verified. No inputs or submission."
+        }
+      ]
+    },
+    {
+      "key": "baseline-108-minimum-duration",
+      "baselineId": 108,
+      "name": "Deepak Pathak",
+      "kind": "minimum-duration",
+      "scope": "外校访客；表单含MS",
+      "summary": "只考虑可持续至少6个月的访客；这是明确条件",
+      "observedAt": "2026-10-01T10:27:38Z",
+      "sources": [
+        {
+          "url": "https://www.cs.cmu.edu/~dpathak/",
+          "retrieval": "direct-primary-page",
+          "evidence": "Full current Raj Reddy Associate Professor homepage points applicants in non-PhD capacities to this form followed by a short email without documents."
+        },
+        {
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLScqAvv1zxr1oP059gu8cXhF-2nLW1DgjQCVhWWI3fAX2Wgsug/viewform",
+          "retrieval": "direct-primary-page-via-cloud-browser",
+          "evidence": "Directly read in cloud browser10:27:28Z, URL confirmed10:27:38Z: external-CMU option, MS category and six-month minimum for visitors. No entries, upload or submission."
+        }
+      ],
+      "months": 6
+    },
+    {
+      "key": "baseline-92-minimum-duration",
+      "baselineId": 92,
+      "name": "Jiajun Wu",
+      "kind": "minimum-duration",
+      "scope": "Visiting graduate students",
+      "summary": "明确要求访问研究生至少6个月；不要与本校学生每周工时混淆",
+      "observedAt": "2026-10-01T11:36:42Z",
+      "sources": [
+        {
+          "url": "https://jiajunwu.com/",
+          "retrieval": "direct-primary-page",
+          "evidence": "Full current primary source, with applicable visiting-student wording verified."
+        }
+      ],
+      "months": 6
+    },
+    {
+      "key": "baseline-97-minimum-duration",
+      "baselineId": 97,
+      "name": "Katerina Fragkiadaki",
+      "kind": "minimum-duration",
+      "scope": "非CMU访客；表单含Masters",
+      "summary": "只考虑可持续至少6个月的访客；经费选项不等于奖助承诺",
+      "observedAt": "2026-10-01T11:44:33Z",
+      "sources": [
+        {
+          "url": "https://www.cs.cmu.edu/~katef/",
+          "retrieval": "direct-primary-page",
+          "evidence": "Full current homepage directs non-PhD group inquiries to the exact linked form, then a short email without documents."
+        },
+        {
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSfmaoCGWe0X0gVVRMZSylxiiAvg2Mayz0EqESXHD1WfPEs9nA/viewform?usp=publish-editor",
+          "retrieval": "direct-primary-cloud-browser",
+          "evidence": "Complete form read11:44:33Z; outside-CMU eligibility, Master category, six-month visitor condition and funding choices verified. No inputs, uploads or submission."
+        }
+      ],
+      "months": 6
+    },
+    {
+      "key": "baseline-121-minimum-duration",
+      "baselineId": 121,
+      "name": "Erdem Biyik",
+      "kind": "minimum-duration",
+      "scope": "自费实习路线",
+      "summary": "明确至少10周；与三个月条件分开显示，远程只列为极少数例外",
+      "observedAt": "2026-09-30T22:49:43Z",
+      "sources": [
+        {
+          "url": "https://ebiyik.github.io/prospective/",
+          "retrieval": "direct-primary-page",
+          "evidence": "Non-USC student section separates official paid programs (dated2026), self-funded internships expected at least ten weeks, and exceptional remote work."
+        }
+      ],
+      "months": 2.3
+    },
+    {
+      "key": "baseline-28-duration-preference",
+      "baselineId": 28,
+      "name": "Minchen Li",
+      "kind": "duration-preference",
+      "scope": "外校访问",
+      "summary": "通常6–12个月，这是常态而非已核实硬性最短时长；独立暑期链接是10周本科项目",
+      "observedAt": "2026-09-30T22:43:36Z",
+      "sources": [
+        {
+          "url": "https://www.cs.cmu.edu/~minchenl/",
+          "retrieval": "direct-primary-page",
+          "evidence": "Opportunities section gives usual six-to-twelve-month visitor length and separate summer-program link."
+        },
+        {
+          "url": "https://www.csd.cmu.edu/academics/bachelors/summer-research-internship-in-computer-science",
+          "retrieval": "direct-primary-page",
+          "evidence": "Program explicitly undergraduate, ten weeks, 2026 application closed."
+        }
+      ],
+      "months": 6
+    },
+    {
+      "key": "baseline-93-duration-preference",
+      "baselineId": 93,
+      "name": "Jeannette Bohg",
+      "kind": "duration-preference",
+      "scope": "非Stanford访问研究者；表单含Masters/Summer",
+      "summary": "通常偏好至少6个月；是偏好，不是暑期禁招或硬性最低期限",
+      "observedAt": "2026-10-01T11:11:23Z",
+      "sources": [
+        {
+          "url": "https://iprl.stanford.edu/",
+          "retrieval": "direct-primary-page",
+          "evidence": "Full current lab page has separate non-Stanford visiting researcher link and dated September2026 research news."
+        },
+        {
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSf5n4XGyOBaK_Oe752wbenMgOjYnEmDY-uAWC48DNNdNJX5Kg/viewform?usp=send_form",
+          "retrieval": "direct-primary-cloud-browser",
+          "evidence": "Complete visible form read2026-10-01T11:10:55Z: Masters category, affiliation, Summer start, desired start/end dates, six-month general preference, CV and advisor details. Read-only; no inputs or submission."
+        },
+        {
+          "url": "https://profiles.stanford.edu/jeannette-bohg",
+          "retrieval": "direct-primary-page",
+          "evidence": "Full official profile Academic Appointments lists Associate Professor of CS. Its older narrative still says Assistant Professor; use structured appointment."
+        }
+      ],
+      "months": 6
+    },
+    {
+      "key": "baseline-104-duration-preference",
+      "baselineId": 104,
+      "name": "Dorsa Sadigh",
+      "kind": "duration-preference",
+      "scope": "非Stanford访问研究者；表单含Masters",
+      "summary": "通常偏好至少6个月；未查到同一表单的暑期禁止条款",
+      "observedAt": "2026-10-01T11:38:47Z",
+      "sources": [
+        {
+          "url": "https://iliad.stanford.edu/contact/",
+          "retrieval": "direct-primary-page",
+          "evidence": "Full live contact page separates visitors from local-student and degree-admissions routes."
+        },
+        {
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSe_NGPAiG_CdlzOhbrfUliSb5YdUVKMjtYJZFRoqcY4NzqXpg/viewform?usp=send_form",
+          "retrieval": "direct-primary-cloud-browser",
+          "evidence": "Complete visible form read2026-10-01T11:38:47Z; academic-status and duration/summer text verified. No inputs or submission."
+        }
+      ],
+      "months": 6
+    },
+    {
+      "key": "baseline-127-local-students-only",
+      "baselineId": 127,
+      "name": "Abhishek Gupta",
+      "kind": "local-students-only",
+      "scope": "WEIRD学生研究入口",
+      "summary": "当前研究入口限定已在UW的学生；参观实验室不等于外校研究任命",
+      "observedAt": "2026-10-01T10:27:38Z",
+      "sources": [
+        {
+          "url": "https://weirdlab.cs.washington.edu/",
+          "retrieval": "direct-primary-page",
+          "evidence": "Full lab contact section: current-UW-student-only research route; separate PhD, postdoc and lab-tour instructions."
+        },
+        {
+          "url": "https://homes.cs.washington.edu/~abhgupta/",
+          "retrieval": "direct-primary-page",
+          "evidence": "Full current UW assistant-professor homepage and independent PhD/postdoc/local-undergraduate instructions."
+        }
+      ]
+    },
+    {
+      "key": "dhruv-shah-six-month-preference",
+      "candidateId": "dhruv-shah",
+      "name": "Dhruv Shah",
+      "kind": "duration-preference",
+      "months": 6,
+      "scope": "非Princeton访问申请；首屏含Masters",
+      "summary": "通常偏好至少6个月；降为后续联系，不是硬性最低期限或暑期关闭。只读了公开首屏，后续条件未知",
+      "observedAt": "2026-10-01T12:10:06Z",
+      "sources": [
+        {
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLScgkMi3nEuGibkb4uexKnXtDZT2Vmg_yoPGxEQYAZTPUshrsQ/viewform",
+          "evidence": "Public first page explicitly generally prefers visits of at least six months and includes Masters status."
+        }
+      ]
+    },
+    {
+      "key": "morency-four-month-preference",
+      "candidateId": "louis-philippe-morency",
+      "name": "Louis-Philippe Morency",
+      "kind": "duration-preference",
+      "months": 4,
+      "scope": "研究访客；偶尔暑期实习例外",
+      "summary": "通常偏好至少4个月，名额很少且当前没有资助的访客岗位；偶尔接收暑期实习，可按FAQ在1月询问，不是全面暑期关闭",
+      "observedAt": "2026-10-01T11:37:16Z",
+      "sources": [
+        {
+          "url": "https://multicomp.cs.cmu.edu/faq/visitors/",
+          "evidence": "Complete FAQ distinguishes four-month preference, occasional summer exceptions, no currently funded positions and January inquiry guidance."
+        }
+      ]
+    }
+  ]
+}

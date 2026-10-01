@@ -181,8 +181,133 @@ def cell(value):
     return str(value).replace("|", "\\|").replace("\n", " ")
 
 
+PRIORITY_LABELS = {
+    0: "近期已到岗 AP（2024起）", 1: "暑期前明确拟到岗 AP", 2: "拟到岗/职级时点待核 AP",
+    3: "其他 AP；入职年待核或较早", 4: "其他教师与研究导师", 5: "较长访问偏好；降低首联优先级",
+    6: "明确至少三个月；降低首联优先级", 7: "当前明确暂停相关访问/暑期入口",
+}
+
+
+def priority_notes():
+    path = LEDGER.parent / "priority_notes.json"
+    return json.loads(path.read_text()) if path.exists() else {"appointments": {}, "constraints": []}
+
+
+def is_assistant_professor(row):
+    return bool(re.search(r"\bassistant professor\b", row["title"].split(";")[0], re.I))
+
+
+def priority_tier(row, notes):
+    constraints = [x for x in notes.get("constraints", []) if x.get("candidateId") == row["id"]]
+    if any(x["kind"] in {"no-summer-interns", "no-visitors"} for x in constraints):
+        return 7
+    if any(x["kind"] == "minimum-duration" and x.get("months", 0) >= 3 for x in constraints):
+        return 6
+    if any(x["kind"] == "duration-preference" and x.get("months", 0) >= 3 for x in constraints):
+        return 5
+    if not is_assistant_professor(row):
+        return 4
+    start = notes.get("appointments", {}).get(row["id"], {}).get("appointmentStart", {})
+    if start.get("status") == "current" and start.get("year", 0) >= 2024:
+        return 0
+    if start.get("status") == "incoming":
+        year, month = start.get("year"), start.get("month")
+        if year and (year < 2027 or (year == 2027 and month and month < 6)):
+            return 1
+        return 2
+    if re.search(r"incoming|adjunct", row["title"], re.I):
+        return 2
+    return 3
+
+
+def priority_key(row, notes):
+    return (priority_tier(row, notes), -row["scores"]["fit"], -row["scores"]["physical"],
+            -sum(row["scores"].values()), row["discoveredAt"], row["name"])
+
+
 def ranked_rows(data):
-    return sorted(data["candidates"], key=lambda r: (-sum(r["scores"].values()), -r["scores"]["fit"], -r["scores"]["physical"], r["discoveredAt"], r["name"]))
+    notes = priority_notes()
+    if not notes.get("appointments"):
+        return sorted(data["candidates"], key=lambda r: (-sum(r["scores"].values()), -r["scores"]["fit"], -r["scores"]["physical"], r["discoveredAt"], r["name"]))
+    return sorted(data["candidates"], key=lambda row: priority_key(row, notes))
+
+
+def validate_priority_notes(notes, data):
+    assert notes["schemaVersion"] == 1
+    rows = {row["id"]: row for row in data["candidates"]}
+    baseline = {row["id"]: row for row in json.loads((ROOT / data["baseline"]["path"]).read_text())["contacts"]}
+    for identity, entry in notes["appointments"].items():
+        assert identity in rows and is_assistant_professor(rows[identity]), "Unknown or non-AP priority identity"
+        assert entry["display"] and entry["sources"]
+        for source in entry["sources"]:
+            url_key(source["url"]); timestamp(source["observedAt"]); assert source["evidence"]
+        start = entry.get("appointmentStart", {})
+        if start:
+            assert start["status"] in {"current", "incoming", "unresolved"}
+            assert start["precision"] in {"year", "month", "day", "academic-year", "unknown"}
+            if start["precision"] not in {"unknown"}:
+                assert isinstance(start["year"], int) and 1900 <= start["year"] <= 2100
+            if start["precision"] in {"month", "day"}: assert 1 <= start["month"] <= 12
+            if start["precision"] == "day": assert 1 <= start["day"] <= 31
+    seen = set()
+    for entry in notes["constraints"]:
+        assert entry["key"] not in seen; seen.add(entry["key"])
+        assert entry["kind"] in {"minimum-duration", "duration-preference", "no-summer-interns", "no-visitors", "local-students-only", "capacity-or-role"}
+        assert entry["scope"] and entry["summary"] and entry["sources"]
+        assert ("candidateId" in entry) != ("baselineId" in entry)
+        target = rows[entry["candidateId"]] if "candidateId" in entry else baseline[entry["baselineId"]]
+        assert name_key(entry["name"]) == name_key(target["name"])
+        timestamp(entry["observedAt"])
+        for source in entry["sources"]: url_key(source["url"]); assert source["evidence"]
+        assert "discoveredAt" not in entry
+
+
+def render_ap_priority(data, notes):
+    rows = [r for r in ranked_rows(data) if is_assistant_professor(r)]
+    lines = ["# 新进 Assistant Professor 优先看", "", "[全部候选：最新偏好排序](ranked_candidates.md) · [明确限制与暑期关闭](contact_constraints.md) · [访问问询入口](visitor_inquiries.md) · [评分说明](README.md)", "",
+             f"当前新增记录中有 **{len(rows)} 位**以公开准确职级列出的 AP；这里只核实了一部分入职日期，日期未知不等于资历较老。", "",
+             "约八周是初步参考，未说明时长不会被排除。先看近期已到岗 AP，再看暑期前有明确任职日期的 AP；其他 AP 仍保留。明确至少三个月及较长访问偏好降序，硬性最短时长与偏好分开；明确不接收暑期/访客优先标记。", "",
+             "工作排序暂以 **2024年起**作为约近两三年的范围，并单列2027暑期前已公告入职者；这是可调整的整理约定，不是年龄判断、用户硬性年限或接收概率。各层内部先按研究匹配，再按真机证据及原总分。原四项分数和发现时间均未改写。", ""]
+    for tier, label in PRIORITY_LABELS.items():
+        subset = [r for r in rows if priority_tier(r, notes) == tier]
+        if not subset: continue
+        lines += [f"## {label}（{len(subset)}）", "", "| 导师 / 学校 | 准确任职与入职证据 | 原分数：匹配/真机/访问/新鲜 | 访问与时点提醒 |", "|---|---|---|---|"]
+        for r in subset:
+            entry = notes["appointments"].get(r["id"], {})
+            sources = " ".join(f"[核查来源{i+1}]({x['url']})" for i,x in enumerate(entry.get("sources", [])))
+            start = entry.get("display", "任职起始时间尚未单独核实")
+            restrictions = [x["summary"] for x in notes["constraints"] if x.get("candidateId") == r["id"]]
+            warning = "；".join(restrictions) or entry.get("caveat", "")
+            evidence = physical_evidence_label(r)
+            if evidence: warning += ("；" if warning else "") + evidence
+            if not warning: warning = "时长、2027容量、经费与主办批准另核"
+            scores = "/".join(str(r["scores"][k]) for k in CAPS)
+            lines.append(f"| [{cell(r['name'])}](batches/{r['batch']}.md#{r['id']}) · {cell(r['school'])} | {cell(r['title'])}；**{cell(start)}** {sources} | {sum(r['scores'].values())}（{scores}） | **{cell(warning)}**；{cell(r['shortVisit']['status'])} |")
+        lines.append("")
+    lines += ["## 日期核查口径", "", "职级与研究来源见逐人详情；新的入职时间核查单独记录于 priority_notes.json，不把本次排序修改伪装成全套来源重查。日精度仅用于来源明确给出日的情况；新闻发布日期不自动等于入职日。", ""]
+    for identity, entry in notes["appointments"].items():
+        row = next(r for r in data["candidates"] if r["id"] == identity)
+        for src in entry["sources"]:
+            lines.append(f"- {cell(row['name'])}：[来源]({src['url']}) · {src['evidence']}（核查 {src['observedAt']}）")
+    return "\n".join(lines) + "\n"
+
+
+def render_contact_constraints(notes):
+    labels = [("no-summer-interns", "明确不接收暑期实习"), ("no-visitors", "当前明确暂停相关访客入口"),
+              ("minimum-duration", "明确最短时长"), ("duration-preference", "时长偏好或常态，不是硬性禁令"),
+              ("local-students-only", "明确仅面向本校的研究入口"), ("capacity-or-role", "容量或任职提醒")]
+    lines = ["# 访问与暑期限制 · 单独核对", "", "[新进 AP 优先看](ap_priority.md) · [全部候选](ranked_candidates.md) · [旧名单后续观察](baseline_addenda.md)", "",
+             "这里只写已读取的明确限制，按对应人群和项目解释。未列出不代表开放；关闭学位招生不等于关闭访客。未注明时长也不代表可接受任何长度。约八周仅作初步参考，明确至少三个月或长期偏好会降低首联优先级。", "",
+             "以下是来源观察时点的状态，不把未注明适用年份的措辞断言为永久禁令或专门的2027决定。旧200条只增加后续观察，不改原记录、不补造发现时间。", ""]
+    for kind, heading in labels:
+        entries = [x for x in notes["constraints"] if x["kind"] == kind]
+        if not entries: continue
+        lines += ["## " + heading, ""]
+        for x in entries:
+            origin = "原名单 #" + str(x["baselineId"]) if "baselineId" in x else "新增候选"
+            sources = " · ".join(f"[来源{i+1}]({s['url']})" for i,s in enumerate(x["sources"]))
+            lines += [f"### {x['name']}（{origin}）", "", f"- 适用范围：{x['scope']}", f"- **{x['summary']}**", f"- 核查：{x['observedAt']} · {sources}", ""]
+    return "\n".join(lines) + "\n"
 
 
 def render(data):
@@ -246,13 +371,14 @@ def compact_index(data, record_files):
 
 
 def render_compact(data):
-    lines = ["# 新发现导师候选 · 排序", "", "[字段与评分说明](README.md) · [结构化索引](mentor_candidates.json) · [机构访问规则](eligibility_notes.md)", "", f"新增 **{len(data['candidates'])} 位**；原有 200 位保持不变。所有时间为 UTC。点击导师姓名查看完整证据、来源、评分理由和未确认事项。", "", "总分 = 匹配 40 + 真机 25 + 短访 20 + 新鲜度 15。括号内为四项分数。研究优先级不是录取概率；没有联系导师或发送邮件。学校路径、一般询问入口与导师实际接收是不同事项。", "", "| 排序 | 导师 / 学校（完整资料） | 总分（四项） | 访问证据状态 | 首次发现 UTC | 最后核查 UTC |", "|---:|---|---|---|---|---|"]
+    lines = ["# 新发现导师候选 · 排序", "", "[新进 AP 优先看](ap_priority.md) · [明确限制与暑期关闭](contact_constraints.md) · [字段与评分说明](README.md) · [结构化索引](mentor_candidates.json) · [机构访问规则](eligibility_notes.md)", "", f"新增 **{len(data['candidates'])} 位**；原有 200 位保持不变。所有时间为 UTC。点击导师姓名查看完整证据、来源、评分理由和未确认事项。", "", "排序已按2026-10-01的新偏好调整：先看经核实近期入职的 AP；其他 AP、教授和明确长期条件分别排序。2024起是可调整的近两三年工作范围；约八周不再是硬筛选。各层先按研究匹配，再看真机及原总分。原总分 = 匹配40 + 真机25 + 短访20 + 新鲜度15，保留作证据对照，不是接收概率；未改原评分或发现时间。", "", "| 排序 | 导师 / 学校（完整资料） | 总分（四项） | 访问证据状态 | 首次发现 UTC | 最后核查 UTC |", "|---:|---|---|---|---|---|"]
     for index, row in enumerate(ranked_rows(data), 1):
         scores = "/".join(str(row["scores"][key]) for key in CAPS)
         detail = f"batches/{row['batch']}.md#{row['id']}"
         discovery = row["discoveredAt"] + (" †" if row.get("discoveryTimestampNote") else "")
         evidence_label = physical_evidence_label(row)
-        evidence_note = f" · **{cell(evidence_label)}**" if evidence_label else ""
+        evidence_note = f" · **{PRIORITY_LABELS[priority_tier(row, priority_notes())]}**"
+        evidence_note += f" · **{cell(evidence_label)}**" if evidence_label else ""
         if row.get("appointmentTimingLabel"):
             evidence_note += f" · **{cell(row['appointmentTimingLabel'])}**"
         lines.append(f"| {index} | [{cell(row['name'])}]({detail}) · {cell(row['school'])}{evidence_note} | {sum(row['scores'].values())} ({scores}) | {cell(row['shortVisit']['status'])} | {discovery} | {row['verifiedAt']} |")
@@ -377,6 +503,12 @@ def main():
         inquiry_notes = json.loads(inquiry_notes_path.read_text())
         validate_inquiry_notes(inquiry_notes, data)
         outputs[LEDGER.parent / "visitor_inquiries.md"] = render_inquiries(data, inquiry_notes)
+    priority_path = LEDGER.parent / "priority_notes.json"
+    if priority_path.exists():
+        notes = json.loads(priority_path.read_text())
+        validate_priority_notes(notes, data)
+        outputs[LEDGER.parent / "ap_priority.md"] = render_ap_priority(data, notes)
+        outputs[LEDGER.parent / "contact_constraints.md"] = render_contact_constraints(notes)
     for path, expected in outputs.items():
         if args.write:
             path.write_text(expected)

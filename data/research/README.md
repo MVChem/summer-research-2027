@@ -81,6 +81,8 @@ python scripts/test_research_ledger.py
 
 主名单包含官方大学目录明确列为 faculty 的研究人员，保留准确的 Research Professor、Systems Scientist 等任职标签，不将这些职称改写成 Assistant/Associate/Full Professor。大学 faculty 分类、研究指导经历与具体访客接收权限是不同事项；后者仍需另行确认。官方授予学位的联合研究生项目 faculty 也可纳入，例如 MIT-WHOI；须保留实际 WHOI 主聘、驻地和访问手续，不写作 MIT 校区任职。独立研究机构且未核实这类学术 faculty 身份的线索仍另列，不混排。延伸线索转入主名单时，在同一独立提交中替换为迁移指针，保留首次发现时间并避免重复计数。
 
+Research Assistant Professor 与 Assistant Research Professor 均属研究轨，在浏览优先级中列入“其他教师与研究导师”，不混入常规新AP层。准确职称、研究/指导证据仍保留；日期或招募事实不因显示分层而改变。明确最短时长同时记录数值月份，以保证限制实际影响排序。
+
 ### 后续读取失败与链接校验
 
 可选 `verificationAttempts` 单独记录后续读取尝试的 UTC `attemptedAt`、`sourceIds` 与 `outcome`。失败尝试不重写首次发现时间，也不冒充成功来源核查；具体限制同时列于详情的未确认事项。校验器检查尝试的时间和来源引用，并验证详情页到机构说明的显式锚点，避免规则链接失效。

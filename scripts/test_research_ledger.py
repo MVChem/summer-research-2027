@@ -440,6 +440,22 @@ class ResearchLedgerTests(unittest.TestCase):
         self.assertEqual(ledger.priority_tier(row, {'appointments':{},'constraints':[]}), 4.5)
 
 
+    def test_research_faculty_titles_are_not_regular_new_aps(self):
+        row = copy.deepcopy(self.full['candidates'][0])
+        for title in ['Research Assistant Professor', 'Assistant Research Professor', 'Research Assistant Professor of Robotics']:
+            with self.subTest(title=title):
+                row['title'] = title
+                self.assertFalse(ledger.is_assistant_professor(row))
+                self.assertEqual(ledger.priority_tier(row, {'appointments':{},'constraints':[]}), 4)
+        row['title'] = 'Assistant Professor; Research Affiliate'
+        self.assertTrue(ledger.is_assistant_professor(row))
+
+    def test_minimum_duration_requires_machine_readable_months(self):
+        notes = copy.deepcopy(ledger.priority_notes())
+        entry = next(x for x in notes['constraints'] if x['kind']=='minimum-duration')
+        del entry['months']
+        with self.assertRaises(AssertionError): ledger.validate_priority_notes(notes, self.full)
+
     def test_reviewed_same_name_identity_is_visible_and_distinct(self):
         row = next(r for r in self.full['candidates'] if r['id'] == 'cheng-zhang-tamu')
         ledger.validate(self.full)

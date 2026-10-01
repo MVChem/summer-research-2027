@@ -231,7 +231,8 @@ def priority_notes():
 def is_assistant_professor(row):
     title = row["title"].split(";")[0]
     teaching = re.search(r"\b(?:assistant teaching|teaching assistant|teaching) professor\b", title, re.I)
-    return bool(re.search(r"\bassistant professor\b", title, re.I)) and not teaching
+    research = re.search(r"\b(?:research assistant|assistant research) professor\b", title, re.I)
+    return bool(re.search(r"\bassistant professor\b", title, re.I)) and not teaching and not research
 
 
 def priority_tier(row, notes):
@@ -299,6 +300,8 @@ def validate_priority_notes(notes, data):
         assert entry["key"] not in seen; seen.add(entry["key"])
         assert entry["kind"] in {"minimum-duration", "duration-preference", "no-summer-interns", "no-visitors", "local-students-only", "capacity-or-role"}
         assert entry["scope"] and entry["summary"] and entry["sources"]
+        if entry["kind"] == "minimum-duration":
+            assert isinstance(entry.get("months"), (int, float)) and entry["months"] > 0, "Minimum duration requires numeric months for priority sorting"
         if "longDurationPreference" in entry:
             assert entry["kind"] == "duration-preference" and isinstance(entry["longDurationPreference"], bool)
         assert sum(key in entry for key in ("candidateId", "baselineId", "catalogueIdentity")) == 1

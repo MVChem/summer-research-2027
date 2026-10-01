@@ -2,7 +2,7 @@
 
 [全部候选：最新偏好排序](ranked_candidates.md) · [原有名单AP后续核查](baseline_ap.md) · [明确限制与暑期关闭](contact_constraints.md) · [访问问询入口](visitor_inquiries.md) · [评分说明](README.md)
 
-当前新增记录中有 **268 位**以公开准确职级列出的 AP；这里只核实了一部分入职日期，日期未知不等于资历较老。
+当前新增记录中有 **266 位**以公开准确职级列出的 AP；这里只核实了一部分入职日期，日期未知不等于资历较老。
 
 约八周是初步参考，未说明时长不会被排除。先看近期已到岗 AP，再看暑期前有明确任职日期的 AP；其他 AP 仍保留。明确至少三个月及较长访问偏好降序，硬性最短时长与偏好分开；明确不接收暑期/访客优先标记。
 
@@ -108,7 +108,7 @@
 | [Chenfeng Xu](batches/embodied-003.md#chenfeng-xu) · The University of Texas at Austin | Assistant Professor (faculty directory also uses incoming in biography)；**任职起始时间尚未单独核实**  | 73（39/20/0/14） | **时长、2027容量、经费与主办批准另核**；unknown |
 | [Karthik Mahadevan](batches/hri-003.md#karthik-mahadevan) · Massachusetts Institute of Technology (current postdoc); University of Texas at Austin (incoming Spring 2027) | Incoming Assistant Professor; current MIT postdoctoral researcher；**任职起始时间尚未单独核实**  | 73（38/20/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |
 
-## 其他 AP；较早任职、转校或入职年待核（178）
+## 其他 AP；较早任职、转校或入职年待核（176）
 
 | 导师 / 学校 | 准确任职与入职证据 | 原分数：匹配/真机/访问/新鲜 | 访问与时点提醒 |
 |---|---|---|---|
@@ -157,7 +157,6 @@
 | [Somil Bansal](batches/control-001.md#somil-bansal) · Stanford University | Assistant Professor；**2024-10-01转入Stanford；此前USC AP2021秋** [核查来源1](https://news.stanford.edu/stories/2024/11/report-of-the-president-academic-council-professoriate-appointments) [核查来源2](https://profiles.stanford.edu/somil-bansal) [核查来源3](https://viterbi.usc.edu/calendar/?date=03%2F04%2F2021&event_type=2) | 87（39/23/10/15） | **转校非首次faculty，保持已有访客询问和全部研究分数；日期不是2027容量承诺**；inquiry-only |
 | [Minghan Wei](batches/control-080.md#minghan-wei) · Florida Atlantic University | Assistant Professor; SIMA Lab lead；**任职起始时间尚未单独核实**  | 77（39/23/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |
 | [Yi Ding](batches/hri-107.md#yi-ding) · University of Texas at Dallas | Assistant Professor of Computer Science；**2023** [核查来源1](https://profiles.utdallas.edu/index.php/yi.ding) | 84（39/20/10/15） | **官方2023 AP，列次级；当前intern/visitor询问明确，既往硕士实习仅作先例；UR7e来自合作项目，场地与2027时长/资金未定；受限真机证据：historical-or-indirect**；inquiry-only |
-| [Kaylene Stocking](batches/embodied-009.md#kaylene-stocking) · Toyota Technological Institute at Chicago | Research Assistant Professor；**任职起始时间尚未单独核实**  | 79（39/20/5/15） | **时长、2027容量、经费与主办批准另核**；inquiry-only · 通常12–15周，8周未确认 |
 | [Haimin Hu](batches/control-002.md#haimin-hu) · Johns Hopkins University | Assistant Professor；**任职起始时间尚未单独核实**  | 74（39/20/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |
 | [Kunal Garg](batches/control-005.md#kunal-garg) · Arizona State University | Assistant Professor；**任职起始时间尚未单独核实**  | 74（39/20/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |
 | [Cristian-Ioan Vasile](batches/control-020.md#cristian-ioan-vasile) · Lehigh University | Assistant Professor; Explainable Robotics Lab lead；**任职起始时间尚未单独核实**  | 74（39/20/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |
@@ -196,7 +195,6 @@
 | [Lirong Xiang](batches/embodied-030.md#lirong-xiang) · Cornell University | Assistant Professor；**任职起始时间尚未单独核实**  | 78（38/20/5/15） | **时长、2027容量、经费与主办批准另核**；conditional-inquiry · 要求正式交流或fellowship |
 | [Qianqian (Quinn) Wang](batches/embodied-032.md#qianqian-quinn-wang) · Harvard University | Assistant Professor of Computer Science; Kempner Institute Investigator；**任职起始时间尚未单独核实**  | 78（38/20/5/15） | **时长、2027容量、经费与主办批准另核**；conditional-inquiry · SEAS通常至少3个月，8周未确认 |
 | [David Fridovich-Keil](batches/control-001.md#david-fridovich-keil) · University of Texas at Austin | Assistant Professor；**任职起始时间尚未单独核实**  | 73（38/20/0/15） | **时长、2027容量、经费与主办批准另核**；undergraduate-only |
-| [Liangyan Gui](batches/embodied-004.md#liangyan-gui) · University of Illinois Urbana-Champaign | Research Assistant Professor；**任职起始时间尚未单独核实**  | 73（38/20/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |
 | [Robin Walters](batches/embodied-004.md#robin-walters) · Northeastern University | Assistant Professor；**任职起始时间尚未单独核实**  | 73（38/20/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |
 | [Zhi Zheng](batches/hri-007.md#zhi-zheng) · University of Notre Dame | Assistant Professor；**任职起始时间尚未单独核实**  | 73（38/20/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |
 | [Xiao Liang](batches/embodied-092.md#xiao-liang) · Texas A&M University | Assistant Professor；**2024-01转入TAMU；此前Buffalo Research AP2018/AP2020起** [核查来源1](https://engineering.tamu.edu/civil/profiles/liang-xiao.html) [核查来源2](https://xlab.eng.buffalo.edu/research.html) [核查来源3](https://xlab.eng.buffalo.edu/biography.html) | 73（38/20/0/15） | **这是转校，不是首次新任AP；共享UR5e设备，外校访客未知**；unknown |

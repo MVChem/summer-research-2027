@@ -199,7 +199,8 @@
     "batches/hri-060.json",
     "batches/hri-061.json",
     "batches/hri-062.json",
-    "batches/hri-063.json"
+    "batches/hri-063.json",
+    "batches/hri-064.json"
   ],
   "candidates": [
     {
@@ -11217,6 +11218,36 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-063.json",
       "detailPage": "batches/hri-063.md#safinah-ali"
+    },
+    {
+      "id": "joseph-e-michaelis",
+      "name": "Joseph E. Michaelis",
+      "aliases": [
+        "Joseph Michaelis",
+        "Joe Michaelis"
+      ],
+      "school": "University of Illinois Chicago",
+      "title": "Associate Professor",
+      "homepage": "https://cs.uic.edu/profiles/michaelis-joseph/",
+      "batch": "hri-064",
+      "discoveredAt": "2026-10-01T05:30:03Z",
+      "verifiedAt": "2026-10-01T05:32:23Z",
+      "scores": {
+        "fit": 35,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-robot interaction",
+        "Vision-language models for contextual assistance",
+        "Social and educational robotics",
+        "Human-centered AI",
+        "Long-term robot interaction"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-064.json",
+      "detailPage": "batches/hri-064.md#joseph-e-michaelis"
     }
   ]
 }

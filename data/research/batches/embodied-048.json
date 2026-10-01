@@ -1,0 +1,116 @@
+[
+  {
+    "id": "feng-han",
+    "name": "Feng Han",
+    "aliases": [],
+    "school": "New York Institute of Technology",
+    "homepage": "https://sites.google.com/view/fenghan-homepage",
+    "title": "Assistant Professor",
+    "department": "Mechanical Engineering, College of Engineering and Computing Sciences; Old Westbury / Long Island campus",
+    "batch": "embodied-048",
+    "discoveredAt": "2026-10-01T02:45:59Z",
+    "verifiedAt": "2026-10-01T02:50:30Z",
+    "researchAreas": [
+      "Data-efficient robot dynamics learning",
+      "Gaussian-process control",
+      "Underactuated robots",
+      "Hybrid physics and machine learning"
+    ],
+    "fitReason": "A useful broader robot-learning lead because the current lab explicitly offers graduate summer research internships. Its strongest methods overlap is data-efficient dynamics and control, rather than foundation-model manipulation.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The university-hosted abstract of the 2025 IROS active-data-selection paper reports learned GP control on a three-link robot arm, in fully actuated and underactuated modes. The full paper was not retrieved. A separately inspected December 2023 manuscript verifies real Quanser rotary-pendulum and three-link inverted-pendulum GP control at Rutgers. Current NYIT RAIL lists a LimX TRON 1, small six-DOF arm and mini-Segway, but learned deployment on those current platforms is not independently established.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only · 海外研究访问类别未确认",
+      "summary": "The full live RAIL Join Us page explicitly includes graduate students in an Internship and Visiting Students section, covering academic semesters and winter/summer breaks, with inquiries directed to Han. Separate master’s course-project instructions are not used as the visitor route. Exact duration, overseas-student sponsorship, funding and summer 2027 places are unspecified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 34,
+      "physical": 20,
+      "shortVisit": 8,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "Strong data-efficient robot-learning/control fit, narrower than VLA/foundation-model manipulation.",
+      "physical": "Detailed older Rutgers learned hardware plus a 2025 official experiment abstract; current NYIT learned platform deployment not verified.",
+      "shortVisit": "Direct explicit graduate summer intern/visitor inquiry route, but duration and overseas applicant eligibility unspecified.",
+      "freshness": "2025 physical research abstract plus a specific 2026 project; current publication page otherwise stale, so freshness conservatively10."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.nyit.edu / source 1",
+        "url": "https://www.nyit.edu/bio/feng-han/",
+        "summary": "Direct official current Assistant Professor, 2024 start, Long Island professional contact and specific 2026 research project.",
+        "verifiedAt": "2026-10-01T02:50:30Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "sites.google.com / source 2",
+        "url": "https://sites.google.com/view/fenghan-homepage",
+        "summary": "Current RAIL affiliation at NYIT Old Westbury; university directory links this lab.",
+        "verifiedAt": "2026-10-01T02:50:30Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "sites.google.com / source 3",
+        "url": "https://sites.google.com/view/fenghan-homepage/join-us",
+        "summary": "Full public HTML retrieved with curl: explicit graduate interns/visiting students over winter/summer breaks.",
+        "verifiedAt": "2026-10-01T02:50:30Z",
+        "retrieval": "direct-public-html-curl"
+      },
+      {
+        "id": "s4",
+        "label": "sites.google.com / source 4",
+        "url": "https://sites.google.com/view/fenghan-homepage/research/platforms",
+        "summary": "Full public HTML lists current TRON1, six-DOF arm and mini-Segway platforms; no executed learned policy asserted.",
+        "verifiedAt": "2026-10-01T02:50:30Z",
+        "retrieval": "direct-public-html-curl"
+      },
+      {
+        "id": "s5",
+        "label": "www.researchwithrutgers.org / source 5",
+        "url": "https://www.researchwithrutgers.org/en/publications/active-training-data-selection-for-gaussian-process-based-robot-d/",
+        "summary": "Full official institutional bibliographic page and abstract for October 2025 IROS GP dynamics/control; full paper not retrieved.",
+        "verifiedAt": "2026-10-01T02:50:30Z",
+        "retrieval": "direct-primary-institutional-abstract"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2312.10155v1",
+        "summary": "Full December 2023 primary manuscript, actual GP-controlled pendulum experiments, Rutgers affiliation; not current-NYIT hardware.",
+        "verifiedAt": "2026-10-01T02:50:30Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Do not conflate this NYIT mechanical-engineering faculty member with same-name researchers elsewhere. Official current university profile places him at Long Island and records a 2024 start.",
+      "Most detailed physical evidence predates the NYIT appointment. Physical points are capped at 20; the 2025 evidence is an official abstract, not a full experiment audit. Model-density approximation error is not a task-success rate.",
+      "The current university page lists a 2026 Machine Learning-Based Control of Underactuated Robots under Impact Disturbance grant. This supports an active research direction, not a completed 2026 hardware result.",
+      "NYIT’s international research appointment category, overseas-master’s eligibility, eight-week approval and acceptance of sole personal funding remain unresolved. Generic degree admission and full-time employee immigration policies cannot establish this visitor’s pathway.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "fhan03@nyit.edu"
+  }
+]

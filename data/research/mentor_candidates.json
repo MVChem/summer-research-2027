@@ -105,6 +105,7 @@
     "batches/embodied-045.json",
     "batches/embodied-046.json",
     "batches/embodied-047.json",
+    "batches/embodied-048.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -6284,6 +6285,32 @@
       "shortVisitStatus": "unknown · SEAS通常至少三个月",
       "recordFile": "batches/embodied-047.json",
       "detailPage": "batches/embodied-047.md#heng-yang"
+    },
+    {
+      "id": "feng-han",
+      "name": "Feng Han",
+      "aliases": [],
+      "school": "New York Institute of Technology",
+      "title": "Assistant Professor",
+      "homepage": "https://sites.google.com/view/fenghan-homepage",
+      "batch": "embodied-048",
+      "discoveredAt": "2026-10-01T02:45:59Z",
+      "verifiedAt": "2026-10-01T02:50:30Z",
+      "scores": {
+        "fit": 34,
+        "physical": 20,
+        "shortVisit": 8,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Data-efficient robot dynamics learning",
+        "Gaussian-process control",
+        "Underactuated robots",
+        "Hybrid physics and machine learning"
+      ],
+      "shortVisitStatus": "inquiry-only · 海外研究访问类别未确认",
+      "recordFile": "batches/embodied-048.json",
+      "detailPage": "batches/embodied-048.md#feng-han"
     },
     {
       "id": "henny-admoni",

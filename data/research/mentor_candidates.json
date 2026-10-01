@@ -72,6 +72,7 @@
     "batches/embodied-030.json",
     "batches/embodied-031.json",
     "batches/embodied-032.json",
+    "batches/embodied-033.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -5230,6 +5231,33 @@
       "shortVisitStatus": "conditional-inquiry · SEAS通常至少3个月，8周未确认",
       "recordFile": "batches/embodied-032.json",
       "detailPage": "batches/embodied-032.md#qianqian-quinn-wang"
+    },
+    {
+      "id": "karthik-desingh",
+      "name": "Karthik Desingh",
+      "aliases": [],
+      "school": "University of Minnesota, Twin Cities",
+      "title": "Assistant Professor",
+      "homepage": "https://karthikdesingh.com/",
+      "batch": "embodied-033",
+      "discoveredAt": "2026-10-01T01:18:38Z",
+      "verifiedAt": "2026-10-01T01:21:16Z",
+      "scores": {
+        "fit": 40,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "World models for VLA deployment",
+        "Visual-force manipulation",
+        "Imitation learning",
+        "Object-centric navigation",
+        "Robot perception"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-033.json",
+      "detailPage": "batches/embodied-033.md#karthik-desingh"
     },
     {
       "id": "henny-admoni",

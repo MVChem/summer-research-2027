@@ -1,0 +1,137 @@
+[
+  {
+    "id": "karthik-desingh",
+    "name": "Karthik Desingh",
+    "aliases": [],
+    "school": "University of Minnesota, Twin Cities",
+    "homepage": "https://karthikdesingh.com/",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "batch": "embodied-033",
+    "discoveredAt": "2026-10-01T01:18:38Z",
+    "verifiedAt": "2026-10-01T01:21:16Z",
+    "researchAreas": [
+      "World models for VLA deployment",
+      "Visual-force manipulation",
+      "Imitation learning",
+      "Object-centric navigation",
+      "Robot perception"
+    ],
+    "fitReason": "The current RPM Lab combines directly relevant physical policy learning with learned perception. July 2026 DreamSteer ranks imagined action outcomes to improve a frozen pi0 policy without deployment-time finetuning; a separate 2026 study learns object-relative positioning on Spot.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "DreamSteer tests a real Franka Panda with Robotiq gripper and RealSense L515 cameras, with 20 trials per task. It is a Meta collaboration, and its specific hardware ownership is not established. Separately, the current RPM/Minnesota team deploys a learned RGB-only category-level navigation policy on an actual Boston Dynamics Spot; the paper explicitly acknowledges Minnesota experimental facilities. AugInsert (August 2025 revision) also validates visual-force policies on dual UR5e arms.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The inspected vacancies page describes research for already enrolled University of Minnesota master’s and undergraduate students. Its summer-capacity warning refers specifically to summer 2025. No external-master’s short visit or summer 2027 invitation is established, so no visit points are awarded.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "scores": {
+      "fit": 40,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct match to VLA world models, manipulation policy robustness and visual imitation.",
+      "physical": "Detailed current-group real Spot deployment plus manipulation experiments; Meta collaborative hardware is distinguished from established campus evidence.",
+      "shortVisit": "No current external short-visit invitation found; local degree-student intake and old capacity statements receive no credit.",
+      "freshness": "Specific July 2026 VLA study and February 2026 physical-navigation revision."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "cse.umn.edu / source 1",
+        "url": "https://cse.umn.edu/cs/karthik-desingh",
+        "summary": "Current official Assistant Professor and robot perception/manipulation research profile.",
+        "verifiedAt": "2026-10-01T01:21:16Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "karthikdesingh.com / source 2",
+        "url": "https://karthikdesingh.com/",
+        "summary": "Primary current affiliation and public obfuscated email kdesingh(At)umn(dot)edu.",
+        "verifiedAt": "2026-10-01T01:21:16Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "rpm-lab.github.io / source 3",
+        "url": "https://rpm-lab.github.io/publications/",
+        "summary": "Current lab lists DreamSteer, 2026 last-meter navigation, and AugInsert.",
+        "verifiedAt": "2026-10-01T01:21:16Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "rpm-lab.github.io / source 4",
+        "url": "https://rpm-lab.github.io/vacancies",
+        "summary": "Direct intake page restricts listed master’s/undergraduate research to current UMN students; summer-capacity warning is dated 2025.",
+        "verifiedAt": "2026-10-01T01:21:16Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2607.02865v1",
+        "summary": "July 3, 2026 DreamSteer primary paper: real Panda protocol, frozen VLA steering, latency and instruction-following definition.",
+        "verifiedAt": "2026-10-01T01:21:16Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2512.11173v2",
+        "summary": "February 15, 2026 revision: actual Spot policy rollouts, separate RGB inference and AprilTag ground truth, Minnesota facility acknowledgement.",
+        "verifiedAt": "2026-10-01T01:21:16Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s7",
+        "label": "rpm-lab-umn.github.io / source 7",
+        "url": "https://rpm-lab-umn.github.io/category-level-last-meter-nav/",
+        "summary": "Current group author project and physical Spot navigation demonstrations.",
+        "verifiedAt": "2026-10-01T01:21:16Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s8",
+        "label": "arxiv.org / source 8",
+        "url": "https://arxiv.org/pdf/2410.14968",
+        "summary": "August 1, 2025 AugInsert revision: dual UR5e setup and bounded real-world visual-force policy experiments.",
+        "verifiedAt": "2026-10-01T01:21:16Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "DreamSteer requires approximately 13 seconds per steering decision in the reported implementation; it should not be called real-time seamless control. Its instruction-following metric is contact with or attempted grasp of the correct object, not complete pick-and-place success.",
+      "The Spot policy uses RGB during learned execution; AprilTags and built-in localization supply demonstration and evaluation ground truth. Its numeric translation threshold is 0.3 meters, not centimeter-level accuracy.",
+      "AugInsert’s robot policy acts in two alignment dimensions; a compliant arm completes insertion after alignment. Its extensive augmentation studies are mainly simulation, with smaller real-robot validation.",
+      "The published local-student research terms and historical summer 2025 capacity statement neither prove an external route nor prohibit summer 2027 visitors.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "kdesingh@umn.edu"
+  }
+]

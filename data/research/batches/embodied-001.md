@@ -36,19 +36,20 @@
 - 方向：Robot foundation models；Reinforcement learning；Navigation；Humanoid robotics
 - 匹配理由：Large-scale learning, continual improvement, and foundation-model deployment directly match embodied-AI interests.
 - 真机证据（public-hardware-evidence）：Princeton’s April 6, 2026 profile retrospectively describes physical racing-robot experiments conducted during Berkeley research, alongside the current robot-learning agenda. These prior experiments do not confirm the new Princeton lab’s current robot inventory or visitor access.
-- 短访证据（inquiry-only）：PRISM’s contact page offers a specific form for non-Princeton students interested in short-term visits.
-- 首次发现：2026-09-30T21:21:32Z；最后核查：2026-09-30T21:36:49Z
+- 短访证据（inquiry-only）：PRISM’s contact page offers a dedicated form for non-Princeton short-term visitors. The actual public first page includes Masters status and generally prefers visits of at least six months. This is a duration preference, not an absolute minimum or a no-summer statement; shorter arrangements, funding and 2027 capacity remain unconfirmed.
+- 首次发现：2026-09-30T21:21:32Z；最后核查：2026-10-01T12:10:06Z
 - 当前总分：85/100；评分依据：
   - fit 40/40：Exact foundation-model and real-world robot learning fit.
   - physical 20/25：Verified physical racing-robot research is retrospective Berkeley work; current Princeton hardware allocation is not independently established.
   - shortVisit 10/20：Explicit short-term external visitor route, duration and individual eligibility unspecified.
   - freshness 15/15：2026 university profile and current lab/contact pages.
-- 未确认事项：Form is an inquiry route, without stated duration, funding, degree-specific eligibility or a 2027 slot. Princeton undergraduate/MS research form is separately restricted to current/admitted students.；Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals must be confirmed. Self-funding alone does not establish eligibility.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.
+- 未确认事项：The form generally prefers visits of at least six months; shorter arrangements are uncertain and receive lower practical contact priority. Only its public first page was inspected. Masters status is present, but later eligibility fields, funding and summer 2027 capacity remain unverified. Princeton-local student recruitment is separate.；Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals must be confirmed. Self-funding alone does not establish eligibility.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.
 - 来源：
   - [ece.princeton.edu / source 1](https://ece.princeton.edu/people/shahd)：Current assistant professorship and foundation-model/RL research.（核查 2026-09-30T21:28:42Z）
   - [prism.robotics.princeton.edu / source 2](https://prism.robotics.princeton.edu/members)：PI role and explicit university email.（核查 2026-09-30T21:28:42Z）
   - [prism.robotics.princeton.edu / source 3](https://prism.robotics.princeton.edu/contact)：Dedicated prospective short-term visitor form for non-Princeton students.（核查 2026-09-30T21:28:42Z）
   - [ece.princeton.edu / source 4](https://ece.princeton.edu/node/10221)：April 6, 2026 university profile: retrospective Berkeley physical racing-robot work and current research agenda, not a current Princeton hardware inventory.（核查 2026-09-30T21:36:49Z）
+  - [PRISM prospective visitor form, public first page](https://docs.google.com/forms/d/e/1FAIpQLScgkMi3nEuGibkb4uexKnXtDZT2Vmg_yoPGxEQYAZTPUshrsQ/viewform?usp=send_form)：The live public first page generally prefers visits of at least six months and includes Masters status. This is a preference, not a hard minimum or summer prohibition. Later form pages were not inspected; no fields were entered or submitted.（核查 2026-10-01T12:10:06Z）
 
 <a id="daniel-seita"></a>
 

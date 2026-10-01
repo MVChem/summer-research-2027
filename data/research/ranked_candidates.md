@@ -36,7 +36,7 @@
 | 26 | [Matthew R. Walter](batches/hri-009.md#matthew-r-walter) · Toyota Technological Institute at Chicago (TTIC) | 85 (40/25/5/15) | inquiry-only · 通常12–15周，8周未确认 | 2026-09-30T22:29:04Z | 2026-09-30T22:31:06Z |
 | 27 | [Bolei Zhou](batches/embodied-014.md#bolei-zhou) · University of California, Los Angeles | 85 (40/25/5/15) | inquiry-only · 当前链接的2025指南，待确认 | 2026-09-30T23:11:08Z | 2026-09-30T23:13:58Z |
 | 28 | [Yufeng (Kevin) Chen](batches/control-046.md#yufeng-kevin-chen) · Massachusetts Institute of Technology | 85 (40/25/5/15) | inquiry-only · 仅外部fellowship例外 | 2026-10-01T02:37:16Z | 2026-10-01T02:38:38Z |
-| 29 | [Dhruv Shah](batches/embodied-001.md#dhruv-shah) · Princeton University | 85 (40/20/10/15) | inquiry-only | 2026-09-30T21:21:32Z | 2026-09-30T21:36:49Z |
+| 29 | [Dhruv Shah](batches/embodied-001.md#dhruv-shah) · Princeton University | 85 (40/20/10/15) | inquiry-only | 2026-09-30T21:21:32Z | 2026-10-01T12:10:06Z |
 | 30 | [H. Eric Tseng](batches/control-086.md#h-eric-tseng) · University of Texas at Arlington · **受限真机证据：Current UTA lab-linked learned humanoid execution verified; joint CMU collaboration** | 85 (39/23/8/15) | inquiry-only · 明确短访入口；不提供无薪志愿岗位 | 2026-10-01T09:46:39Z | 2026-10-01T09:59:03Z |
 | 31 | [Jingjin Yu](batches/hri-029.md#jingjin-yu) · Rutgers University–New Brunswick | 85 (37/25/8/15) | inquiry-only · 自费资格需Rutgers确认 | 2026-10-01T01:19:24Z | 2026-10-01T01:21:28Z |
 | 32 | [Ken Nakagaki](batches/hri-038.md#ken-nakagaki) · University of Chicago | 85 (37/25/8/15) | inquiry-only · NDVS资金与类别待确认 | 2026-10-01T02:11:44Z | 2026-10-01T02:16:55Z |

@@ -97,7 +97,7 @@
     "department": "Electrical and Computer Engineering",
     "batch": "embodied-001",
     "discoveredAt": "2026-09-30T21:21:32Z",
-    "verifiedAt": "2026-09-30T21:36:49Z",
+    "verifiedAt": "2026-10-01T12:10:06Z",
     "researchAreas": [
       "Robot foundation models",
       "Reinforcement learning",
@@ -117,12 +117,10 @@
     },
     "shortVisit": {
       "status": "inquiry-only",
-      "summary": "PRISM’s contact page offers a specific form for non-Princeton students interested in short-term visits.",
+      "summary": "PRISM’s contact page offers a dedicated form for non-Princeton short-term visitors. The actual public first page includes Masters status and generally prefers visits of at least six months. This is a duration preference, not an absolute minimum or a no-summer statement; shorter arrangements, funding and 2027 capacity remain unconfirmed.",
       "sourceIds": [
-        "s1",
-        "s2",
         "s3",
-        "s4"
+        "s5"
       ]
     },
     "scores": {
@@ -165,10 +163,17 @@
         "url": "https://ece.princeton.edu/node/10221",
         "summary": "April 6, 2026 university profile: retrospective Berkeley physical racing-robot work and current research agenda, not a current Princeton hardware inventory.",
         "verifiedAt": "2026-09-30T21:36:49Z"
+      },
+      {
+        "id": "s5",
+        "label": "PRISM prospective visitor form, public first page",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLScgkMi3nEuGibkb4uexKnXtDZT2Vmg_yoPGxEQYAZTPUshrsQ/viewform?usp=send_form",
+        "summary": "The live public first page generally prefers visits of at least six months and includes Masters status. This is a preference, not a hard minimum or summer prohibition. Later form pages were not inspected; no fields were entered or submitted.",
+        "verifiedAt": "2026-10-01T12:10:06Z"
       }
     ],
     "unknowns": [
-      "Form is an inquiry route, without stated duration, funding, degree-specific eligibility or a 2027 slot. Princeton undergraduate/MS research form is separately restricted to current/admitted students.",
+      "The form generally prefers visits of at least six months; shorter arrangements are uncertain and receive lower practical contact priority. Only its public first page was inspected. Masters status is present, but later eligibility fields, funding and summer 2027 capacity remain unverified. Princeton-local student recruitment is separate.",
       "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals must be confirmed. Self-funding alone does not establish eligibility.",
       "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
     ],

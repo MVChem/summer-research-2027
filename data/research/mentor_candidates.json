@@ -86,6 +86,7 @@
     "batches/control-075.json",
     "batches/control-076.json",
     "batches/control-077.json",
+    "batches/control-078.json",
     "batches/control-081.json",
     "batches/control-086.json",
     "batches/embodied-001.json",
@@ -4590,6 +4591,64 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-077.json",
       "detailPage": "batches/control-077.md#jennie-si"
+    },
+    {
+      "id": "kimon-p-valavanis",
+      "name": "Kimon P. Valavanis",
+      "aliases": [
+        "Kimon Valavanis"
+      ],
+      "school": "University of Denver",
+      "title": "John Evans Professor; Professor; Founding Director, Unmanned Systems Research Institute",
+      "homepage": "https://ritchieschool.du.edu/about/people/kimon-p-valavanis",
+      "batch": "control-078",
+      "discoveredAt": "2026-10-01T06:46:37Z",
+      "verifiedAt": "2026-10-01T06:49:15Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Embedded reinforcement learning for UAVs",
+        "Learning-enabled flight control",
+        "Unmanned systems",
+        "Robust robotic autonomy"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-078.json",
+      "detailPage": "batches/control-078.md#kimon-p-valavanis"
+    },
+    {
+      "id": "matthew-j-rutherford",
+      "name": "Matthew J. Rutherford",
+      "aliases": [
+        "Matt J. Rutherford",
+        "Matt Rutherford",
+        "Matthew Rutherford"
+      ],
+      "school": "University of Denver",
+      "title": "Associate Professor; Deputy Director, Unmanned Systems Research Institute",
+      "homepage": "https://ritchieschool.du.edu/about/people/matt-j-rutherford",
+      "batch": "control-078",
+      "discoveredAt": "2026-10-01T06:46:37Z",
+      "verifiedAt": "2026-10-01T06:49:15Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Embedded reinforcement learning for UAVs",
+        "Learning-enabled flight control",
+        "Unmanned systems",
+        "Robust robotic autonomy"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-078.json",
+      "detailPage": "batches/control-078.md#matthew-j-rutherford"
     },
     {
       "id": "sihong-he",

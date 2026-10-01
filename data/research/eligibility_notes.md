@@ -1013,3 +1013,11 @@ Sources: [Guides and Forms](https://www.lamar.edu/international-education/intern
 申请包规定访问 3 周至 12 个月，每周至少 32 小时；因此约 8 周的提议在公布时长范围内，但不证明导师愿意接收。个人资金、主校支持或 UofL 薪酬均可作为财力来源，当前最低证明为每月 1,200 美元；不等于完整 2027 预算或学校资助承诺。需要英语证明、主校支持函、保险、报到及期末评估。患者接触、航空等活动受限制，具体机器人任务需主办方审查，不能推定境外全远程适用。
 
 申请包费用字段彼此矛盾：正文新申请/延期写 250/150 美元，收费栏写 200 美元，另一延期段写 100 美元。因此费用、2027 标准、保险报价、付款责任和办理提前量均列为待确认。
+
+<a id="denver"></a>
+
+## Denver · Intern 通道存在，硕士及自费细节未定
+
+核查：2026-10-01T06:49:15Z。[ISSS规则](https://internationalization.du.edu/isss/international-faculty-staff-visitors/j-1)有海外在读、专业相关Student Intern（至多一年）和1天至6个月Short-Term Scholar。须至少提前90天；非雇员先获Special Community Member身份，再由ISSS核定类别，满足英语/资金与指定清单保险要求。完全个人资金、最低支持额、硕士具体适用条件及2027费用仍未知。
+
+[部门办理指南](https://internationalization.du.edu/sites/default/files/2025-08/J-1-isss-portal-scholar-guide-departments.pdf)显示分阶段审批，后续材料在认证门户内，未访问。[2026–27目录中的免学费Scholar](https://bulletin.du.edu/graduate/admission-and-enrollment-policies/admission-status/visiting-scholars/)专指外校教师的博士后层次学习，不能套用到外校硕士。没有导师接收或暑期名额承诺。

@@ -1,0 +1,125 @@
+[
+  {
+    "id": "david-saldana",
+    "name": "David Saldaña",
+    "aliases": [
+      "David Saldana"
+    ],
+    "school": "Lehigh University",
+    "homepage": "https://swarmslab.com/",
+    "title": "Associate Professor; SwarmsLab Director",
+    "department": "Computer Science and Engineering",
+    "batch": "control-022",
+    "discoveredAt": "2026-10-01T00:01:03Z",
+    "verifiedAt": "2026-10-01T00:05:19Z",
+    "researchAreas": [
+      "multimodal intent inference",
+      "probabilistic robot control",
+      "aerial robotics",
+      "robot swarms",
+      "adaptive aerial manipulation"
+    ],
+    "fitReason": "Concrete probabilistic reasoning and human-guided motion learning on compliant aerial hardware, alongside multi-robot autonomy and control.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "HINT-Blimp (September22,2026) uses a physical SBlimp: Crazyflie2.1 with tilted rotors attached to a helium Mylar balloon. OptiTrack supplies localization, Crazyswarm/Crazyradio transmits velocity commands, and workstation NumPy particle filtering combines pushes with Vosk-decoded speech. Five participants perform300 trials; combined input succeeds86% within at most five interactions. Gesture processing is implemented but not evaluated separately; prior-robustness experiments are simulation. Current SwarmsLab PhD student Subhadeep Koley is first author.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current external short-visit invitation verified on official faculty, lab home, contact or team pages. The roster lists a former MSc research assistant/visiting scholar and prior undergraduate visitors, which are precedent only and earn no current-route credit.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong multimodal probabilistic intent inference and aerial autonomy; less focused on large learned policies.",
+      "physical": "Named real platform, sensor/control pipeline and trial protocol with current lab first author.",
+      "shortVisit": "Only historical visitors and generic contact found; institutional policy does not establish lab opening.",
+      "freshness": "September2026 full hardware preprint, current university role and current group roster."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.lehigh.edu / source 1",
+        "url": "https://engineering.lehigh.edu/faculty/david-saldana",
+        "summary": "Official current Associate Professor, CSE; university email alias das819@lehigh.edu.",
+        "verifiedAt": "2026-10-01T00:05:19Z",
+        "retrieval": "direct official HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "swarmslab.com / source 2",
+        "url": "https://swarmslab.com/",
+        "summary": "Lab director and current physical robot projects; public saldana@lehigh.edu.",
+        "verifiedAt": "2026-10-01T00:05:19Z",
+        "retrieval": "direct lab HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "swarmslab.com / source 3",
+        "url": "https://swarmslab.com/elements/team/",
+        "summary": "Current PhD first author Subhadeep Koley; older MSc and undergraduate visitors only precedent.",
+        "verifiedAt": "2026-10-01T00:05:19Z",
+        "retrieval": "direct lab HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "swarmslab.com / source 4",
+        "url": "https://swarmslab.com/elements/location/",
+        "summary": "Generic email/location, no specific external visitor recruitment.",
+        "verifiedAt": "2026-10-01T00:05:19Z",
+        "retrieval": "direct lab HTML via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/abs/2609.27154",
+        "summary": "September22,2026 HINT-Blimp preprint explicitly under review ICRA2027.",
+        "verifiedAt": "2026-10-01T00:05:19Z",
+        "retrieval": "direct primary metadata via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2609.27154v1",
+        "summary": "SectionV actual SBlimp architecture and five-person300-trial study; pushes/speech evaluated, gestures not separately; prior sensitivity in simulation.",
+        "verifiedAt": "2026-10-01T00:05:19Z",
+        "retrieval": "direct full author preprint HTML via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "provost.lehigh.edu / source 7",
+        "url": "https://provost.lehigh.edu/collaborating-academic-visitors/collaborating-academic-visitors-policy",
+        "summary": "Separate institutional CAV Graduate Fellow route for external graduate researchers; no faculty-specific opportunity inference.",
+        "verifiedAt": "2026-10-01T00:05:19Z",
+        "retrieval": "direct official HTML in Lehigh supplement verified2026-09-30T23:56:51Z"
+      }
+    ],
+    "unknowns": [
+      "Exact eight-week host capacity, funding and remote arrangement unknown. Lehigh CAV Graduate Fellow policy is separate from mentor acceptance, with international category/funding approval unresolved. Official university page now says Associate Professor; older lab biography retains Assistant. HINT-Blimp is under review at ICRA2027, not accepted. It estimates finite candidate-goal intent with a particle filter; do not call it an LLM/VLA policy or fully onboard inference. Human knows obstacles.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "saldana@lehigh.edu"
+  }
+]

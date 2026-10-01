@@ -30,6 +30,7 @@
     "batches/control-019.json",
     "batches/control-020.json",
     "batches/control-021.json",
+    "batches/control-022.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -2113,6 +2114,35 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-021.json",
       "detailPage": "batches/control-021.md#lantao-liu"
+    },
+    {
+      "id": "david-saldana",
+      "name": "David Saldaña",
+      "aliases": [
+        "David Saldana"
+      ],
+      "school": "Lehigh University",
+      "title": "Associate Professor; SwarmsLab Director",
+      "homepage": "https://swarmslab.com/",
+      "batch": "control-022",
+      "discoveredAt": "2026-10-01T00:01:03Z",
+      "verifiedAt": "2026-10-01T00:05:19Z",
+      "scores": {
+        "fit": 37,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "multimodal intent inference",
+        "probabilistic robot control",
+        "aerial robotics",
+        "robot swarms",
+        "adaptive aerial manipulation"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-022.json",
+      "detailPage": "batches/control-022.md#david-saldana"
     },
     {
       "id": "tom-silver",

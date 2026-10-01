@@ -62,6 +62,7 @@
     "batches/control-051.json",
     "batches/control-052.json",
     "batches/control-053.json",
+    "batches/control-054.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -3297,6 +3298,33 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-053.json",
       "detailPage": "batches/control-053.md#bahare-kiumarsi"
+    },
+    {
+      "id": "arash-adel",
+      "name": "Arash Adel",
+      "aliases": [],
+      "school": "Princeton University",
+      "title": "Assistant Professor; Director, Adel Research Group",
+      "homepage": "https://www.adelresearchgroup.org/team/arashadel",
+      "batch": "control-054",
+      "discoveredAt": "2026-10-01T03:10:19Z",
+      "verifiedAt": "2026-10-01T03:11:08Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Diffusion policies",
+        "Contact-rich robotic manipulation",
+        "Adaptive control",
+        "Sim-to-real transfer",
+        "Human–robot collaborative construction"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-054.json",
+      "detailPage": "batches/control-054.md#arash-adel"
     },
     {
       "id": "tom-silver",

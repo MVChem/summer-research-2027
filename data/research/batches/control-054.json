@@ -1,0 +1,93 @@
+[
+  {
+    "id": "arash-adel",
+    "name": "Arash Adel",
+    "aliases": [],
+    "school": "Princeton University",
+    "homepage": "https://www.adelresearchgroup.org/team/arashadel",
+    "title": "Assistant Professor; Director, Adel Research Group",
+    "department": "School of Architecture; Core Faculty, Princeton Robotics; Associated Faculty, Computer Science",
+    "batch": "control-054",
+    "discoveredAt": "2026-10-01T03:10:19Z",
+    "verifiedAt": "2026-10-01T03:11:08Z",
+    "researchAreas": [
+      "Diffusion policies",
+      "Contact-rich robotic manipulation",
+      "Adaptive control",
+      "Sim-to-real transfer",
+      "Human–robot collaborative construction"
+    ],
+    "fitReason": "Strong substantive AI and physical-robot fit despite an Architecture appointment: simulation-trained diffusion policies, force-aware adaptive execution and full-scale contact-rich assembly are central current research methods.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "August 2026 primary study trains diffusion policies in Isaac Sim and deploys them on a physical six-axis UR20 with flange force/torque sensing and a custom pneumatic parallel gripper, handling combined payloads of 6–15.2 kg. It tests timber joinery, pipe fitting and sequential full-scale truss assembly. An L1-inspired adaptive controller corrects predicted actions online. Zero-shot means no task-specific policy fine-tuning with physical demonstrations; online adaptive correction remains active. Sequential assembly uses separately trained subtask policies, not one general-purpose construction policy.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current ARG team page advertises postdoctoral roles and Architecture PhD admissions with December 30, 2026 deadline. It does not publish an external master’s short-visitor route. Princeton’s current robotics seminar listing confirms Assistant Professor, core robotics and associated CS roles; the team roster names the two lead researchers of the 2026 physical study.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct diffusion policy learning and adaptive sim-to-real contact-rich manipulation.",
+      "physical": "Current Princeton-led study with named ARG researchers and actual UR20 full-scale assembly.",
+      "shortVisit": "Reviewed current intake is PhD and postdoctoral recruitment; no external master’s visitor invitation.",
+      "freshness": "August 2026 primary physical study and current dated2026 recruitment/seminar evidence."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "robotics.princeton.edu / source 1",
+        "url": "https://robotics.princeton.edu/events/2026/arash",
+        "summary": "Current official Princeton Robotics event lists academic roles and learning/adaptive assembly research. October 2, 2026 talk is still upcoming at verification.",
+        "verifiedAt": "2026-10-01T03:11:08Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "www.adelresearchgroup.org / source 2",
+        "url": "https://www.adelresearchgroup.org/team/arashadel",
+        "summary": "Lab director profile, Princeton roles and public institutional email.",
+        "verifiedAt": "2026-10-01T03:11:08Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "www.adelresearchgroup.org / source 3",
+        "url": "https://www.adelresearchgroup.org/team",
+        "summary": "Current ARG team lists Roman Ibrahimov and Salma Mozaffari. Intake covers postdoctoral and PhD positions, with December 30, 2026 PhD deadline; no external summer visitor invitation.",
+        "verifiedAt": "2026-10-01T03:11:08Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2608.22100v1",
+        "summary": "August 22, 2026 primary full text confirms UR20 experiments, diffusion policy and online adaptive corrections; full-scale sequence uses separate subtask policies.",
+        "verifiedAt": "2026-10-01T03:11:08Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      }
+    ],
+    "unknowns": [
+      "Architecture PhD admissions and postdoctoral vacancies do not establish external-master’s summer eligibility or funding. Existing Princeton institutional visitor policy is relevant only after a host accepts an appropriate project. Actual duration, faculty availability, visitor classification, support and laboratory training require confirmation. October 2, 2026 seminar is scheduled, not already completed.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "arash.adel@princeton.edu"
+  }
+]

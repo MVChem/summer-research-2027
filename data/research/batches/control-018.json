@@ -1,0 +1,147 @@
+[
+  {
+    "id": "jonathan-p-how",
+    "name": "Jonathan P. How",
+    "aliases": [
+      "Jonathan How"
+    ],
+    "school": "Massachusetts Institute of Technology",
+    "homepage": "https://www.mit.edu/~jhow/",
+    "title": "Ford Professor of Engineering; Director, Aerospace Controls Laboratory",
+    "department": "Aeronautics and Astronautics",
+    "batch": "control-018",
+    "discoveredAt": "2026-09-30T23:45:32Z",
+    "verifiedAt": "2026-09-30T23:47:45Z",
+    "researchAreas": [
+      "learning-based robot control",
+      "neural traversability representations",
+      "robust multi-agent planning",
+      "risk-aware navigation",
+      "model predictive control"
+    ],
+    "fitReason": "Direct overlap between machine learning, uncertainty-aware control and deployed ground/aerial robotics. TRAIL couples learned terrain representation with executable trajectory optimization.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "TRAIL, revised February 27, 2026 and listed by ACL as RA-L 2026, runs learned camera/LiDAR terrain estimation and planning on an AgileX Scout Mini with ZED 2i and Ouster OS1-32. Training uses Clearpath Husky A300 data. Section V separately reports physical short-route tests and a roughly 370-meter field route; simulation-only diagnostic studies are explicitly separate. The paper has MIT authors and is listed by How’s current lab. No exclusive equipment ownership is inferred.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Checked faculty homepage, official AeroAstro profile, ACL home, people and contact pages. Generic contact information and current MIT master’s students do not establish a current external short-visit invitation. No such invitation was verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong learning/control/navigation fit with an explicit real-system method.",
+      "physical": "Detailed 2026 MIT/ACL paper validates named actual ground robots, sensors and field tests; current lab publication confirms group connection.",
+      "shortVisit": "No explicit current external visitor invitation verified.",
+      "freshness": "February 2026 manuscript update, 2026 RA-L lab listing and current official faculty/lab pages."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "aeroastro.mit.edu / source 1",
+        "url": "https://aeroastro.mit.edu/people/jonathan-p-how/",
+        "summary": "Official current title, department, lab leadership, email and robust planning/learning focus. Header and biography agree on Ford Professor; lower historic appointments table is stale.",
+        "verifiedAt": "2026-09-30T23:47:45Z",
+        "retrieval": "direct official/author HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "www.mit.edu / source 2",
+        "url": "https://www.mit.edu/~jhow/",
+        "summary": "Personal MIT page dates Ford professorship from July 2025; public email and featured learning/control projects.",
+        "verifiedAt": "2026-09-30T23:47:45Z",
+        "retrieval": "direct official/author HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "acl.mit.edu / source 3",
+        "url": "https://acl.mit.edu/",
+        "summary": "Current lab research explicitly includes machine learning, reinforcement learning, robust/adaptive control and autonomous vehicles.",
+        "verifiedAt": "2026-09-30T23:47:45Z",
+        "retrieval": "direct official/author HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "acl.mit.edu / source 4",
+        "url": "https://acl.mit.edu/publications/",
+        "summary": "Lists TRAIL as IEEE RA-L 11(6), 7126–7133, 2026, DOI 10.1109/LRA.2026.3685928.",
+        "verifiedAt": "2026-09-30T23:47:45Z",
+        "retrieval": "direct official/author HTML via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/abs/2511.18183",
+        "summary": "Author and revision record: original November 22, 2025; latest February 27, 2026.",
+        "verifiedAt": "2026-09-30T23:47:45Z",
+        "retrieval": "direct official/author HTML via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2511.18183v3",
+        "summary": "Methods and Section V: DINOv2/PointPillars-based implicit terrain fields, physical Scout Mini deployment using Husky training data; field tests distinct from simulation.",
+        "verifiedAt": "2026-09-30T23:47:45Z",
+        "retrieval": "direct official/author HTML via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "acl.mit.edu / source 7",
+        "url": "https://acl.mit.edu/people/",
+        "summary": "Current group includes graduate students; Yixuan Jia listed as alumnus. This roster is not visitor recruitment.",
+        "verifiedAt": "2026-09-30T23:47:45Z",
+        "retrieval": "direct official/author HTML via web.run"
+      },
+      {
+        "id": "s8",
+        "label": "acl.mit.edu / source 8",
+        "url": "https://acl.mit.edu/contact/",
+        "summary": "Generic inquiry form/email only, with no dedicated current short-visitor invitation. Form not submitted.",
+        "verifiedAt": "2026-09-30T23:47:45Z",
+        "retrieval": "direct official/author HTML via web.run"
+      },
+      {
+        "id": "s9",
+        "label": "iso.mit.edu / source 9",
+        "url": "https://iso.mit.edu/getting-started/visiting-students-faq/",
+        "summary": "Institutional policy verified separately at 2026-09-30T23:09:41Z: overseas degree students, faculty invitation, 51% nonpersonal funding, 90-day complete-document lead. No automatic scholar substitute.",
+        "verifiedAt": "2026-09-30T23:47:45Z",
+        "retrieval": "direct official HTML via web.run in prior MIT supplement; prior timestamp preserved"
+      }
+    ],
+    "unknowns": [
+      "Exact eight-week availability, project and host support unknown. MIT’s verified Visiting Student route requires faculty invitation, formal appointment and at least 51% nonpersonal funding; complete ISO documents normally need 90 days. General MIT policy does not prove this lab will host. Current title is Ford Professor, corroborated by homepage’s July 2025 start; an old positions-held section still says Maclaurin. Lab lists TRAIL first author Yixuan Jia among alumni, so a current-student claim is not made.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: First primary-source discovery in this verification pass; the name had been reserved earlier without a recorded timestamp."
+    ],
+    "discoveryTimestampNote": "First primary-source discovery in this verification pass; the name had been reserved earlier without a recorded timestamp.",
+    "publicEmail": "jhow@mit.edu"
+  }
+]

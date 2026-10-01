@@ -26,6 +26,7 @@
     "batches/control-015.json",
     "batches/control-016.json",
     "batches/control-017.json",
+    "batches/control-018.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -1989,6 +1990,35 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-017.json",
       "detailPage": "batches/control-017.md#rohan-chandra"
+    },
+    {
+      "id": "jonathan-p-how",
+      "name": "Jonathan P. How",
+      "aliases": [
+        "Jonathan How"
+      ],
+      "school": "Massachusetts Institute of Technology",
+      "title": "Ford Professor of Engineering; Director, Aerospace Controls Laboratory",
+      "homepage": "https://www.mit.edu/~jhow/",
+      "batch": "control-018",
+      "discoveredAt": "2026-09-30T23:45:32Z",
+      "verifiedAt": "2026-09-30T23:47:45Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "learning-based robot control",
+        "neural traversability representations",
+        "robust multi-agent planning",
+        "risk-aware navigation",
+        "model predictive control"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-018.json",
+      "detailPage": "batches/control-018.md#jonathan-p-how"
     },
     {
       "id": "tom-silver",

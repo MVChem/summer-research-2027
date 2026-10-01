@@ -1,0 +1,115 @@
+[
+  {
+    "id": "vince-kurtz",
+    "name": "Vince Kurtz",
+    "aliases": [
+      "Vincent Kurtz"
+    ],
+    "school": "DePaul University",
+    "homepage": "https://vincekurtz.github.io/",
+    "title": "Assistant Professor",
+    "department": "School of Computing, Jarvis College of Computing and Digital Media",
+    "batch": "control-050",
+    "discoveredAt": "2026-10-01T02:40:24Z",
+    "verifiedAt": "2026-10-01T02:48:34Z",
+    "researchAreas": [
+      "Generative robot control",
+      "Safe diffusion policies",
+      "Model predictive control",
+      "Contact-rich robotics",
+      "Robot simulation"
+    ],
+    "fitReason": "Strong algorithmic match in generative predictive control and risk-aware learned navigation, with real prior-institution robot collaboration. New DePaul lab access and short-visitor capacity need separate confirmation.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "June 2025 Risk-Guided Diffusion validates learned NoMaD navigation with physics-based traversability guidance on a NeBula Spot at JPL’s Mars Yard; Carter results are simulated. Real-world hazards/failures remain nonzero, so the abstract’s safety language is not a universal guarantee. Kurtz was a Caltech coauthor then; this does not establish DePaul ownership or access. The 2026 ICRA Generative Predictive Control paper explicitly leaves hardware validation to future work, so it is not treated as a physical flow-policy experiment.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current personal page and DePaul robotics faculty listing confirm Assistant Professor, starting January 2026. Detailed intake advertises a Fall2027 PhD position and research for currently enrolled DePaul master’s/undergraduate students. It does not offer an external master’s short visit.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct generative control and risk-guided learned navigation, with a strong computational focus.",
+      "physical": "Verified JPL Spot trials as prior Caltech collaborator; current DePaul hardware not established.",
+      "shortVisit": "Published master’s intake restricted to current DePaul students, plus PhD admissions; no external visitor invitation.",
+      "freshness": "Current2026 DePaul appointment and July 2026 primary flow-matching methods; physical navigation is correctly dated2025."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.depaul.edu / source 1",
+        "url": "https://www.depaul.edu/academics/programs/bs-in-robotics",
+        "summary": "Official university robotics faculty listing identifies Vince Kurtz as Assistant Professor, School of Computing.",
+        "verifiedAt": "2026-10-01T02:48:34Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "vincekurtz.github.io / source 2",
+        "url": "https://vincekurtz.github.io/",
+        "summary": "Current DePaul role, January 2026 start, July 2026 research activity and prior Caltech/TRI roles.",
+        "verifiedAt": "2026-10-01T02:48:34Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "vincekurtz.github.io / source 3",
+        "url": "https://vincekurtz.github.io/prospective_students/",
+        "summary": "Fall2027 PhD recruitment and currently enrolled DePaul undergraduate/master’s research; public email.",
+        "verifiedAt": "2026-10-01T02:48:34Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2506.17601v1",
+        "summary": "PrimaryJune2025 full text: actual JPL NeBula Spot hazard trials, simulated Carter separate, Caltech author affiliation and residual physical failures.",
+        "verifiedAt": "2026-10-01T02:48:34Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/pdf/2502.13406.pdf",
+        "summary": "Generative Predictive Control full text explicitly says hardware validation is future work, despite ICRA2026 listing.",
+        "verifiedAt": "2026-10-01T02:48:34Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/pdf/2607.04513",
+        "summary": "July 2026 primary constrained flow-matching methods paper supports current methodological activity, not physical deployment.",
+        "verifiedAt": "2026-10-01T02:48:34Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      }
+    ],
+    "unknowns": [
+      "Do not interpret Fall2027 PhD funding as summer2027 research funding or local DePaul master’s intake as external eligibility. Current laboratory equipment, supervision, visitor appointment, support and duration are unverified. Prior Caltech/JPL collaborations do not confer access to those facilities.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "vkurtz1@depaul.edu"
+  }
+]

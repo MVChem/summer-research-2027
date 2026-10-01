@@ -58,6 +58,8 @@
     "batches/control-047.json",
     "batches/control-048.json",
     "batches/control-049.json",
+    "batches/control-050.json",
+    "batches/control-051.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -3150,6 +3152,61 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-049.json",
       "detailPage": "batches/control-049.md#kaveh-akbari-hamed"
+    },
+    {
+      "id": "vince-kurtz",
+      "name": "Vince Kurtz",
+      "aliases": [
+        "Vincent Kurtz"
+      ],
+      "school": "DePaul University",
+      "title": "Assistant Professor",
+      "homepage": "https://vincekurtz.github.io/",
+      "batch": "control-050",
+      "discoveredAt": "2026-10-01T02:40:24Z",
+      "verifiedAt": "2026-10-01T02:48:34Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Generative robot control",
+        "Safe diffusion policies",
+        "Model predictive control",
+        "Contact-rich robotics",
+        "Robot simulation"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-050.json",
+      "detailPage": "batches/control-050.md#vince-kurtz"
+    },
+    {
+      "id": "bowen-weng",
+      "name": "Bowen Weng",
+      "aliases": [],
+      "school": "Iowa State University",
+      "title": "Assistant Professor",
+      "homepage": "https://www.cs.iastate.edu/people/bowen-weng",
+      "batch": "control-051",
+      "discoveredAt": "2026-10-01T02:42:28Z",
+      "verifiedAt": "2026-10-01T02:53:44Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Safety evaluation of learned robots",
+        "Sim-to-real performance certification",
+        "Humanoid systems",
+        "Autonomous-system testing"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-051.json",
+      "detailPage": "batches/control-051.md#bowen-weng"
     },
     {
       "id": "tom-silver",

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "bowen-weng",
+    "name": "Bowen Weng",
+    "aliases": [],
+    "school": "Iowa State University",
+    "homepage": "https://www.cs.iastate.edu/people/bowen-weng",
+    "title": "Assistant Professor",
+    "department": "Department of Computer Science",
+    "batch": "control-051",
+    "discoveredAt": "2026-10-01T02:42:28Z",
+    "verifiedAt": "2026-10-01T02:53:44Z",
+    "researchAreas": [
+      "Safety evaluation of learned robots",
+      "Sim-to-real performance certification",
+      "Humanoid systems",
+      "Autonomous-system testing"
+    ],
+    "fitReason": "Strong match for statistical assurance and evaluation of learned physical robot policies, with current local humanoid experiments. Policy certification is the main computational contribution; it should not be described as learning a new end-to-end controller.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "August 2026 Betting for Sim-to-Real Performance Certificates reports live Unitree G1 command-tracking tests using GR00T WholeBodyControl. Its mobile-manipulator and quadruped cases replay existing test outcomes rather than rerun hardware. The separate August 2026 football study uses a G1 and Dex3-1 hand, RL-based GR00T lower-body control, optimized upper-body trajectories and lookup-table MPC follow-through. Online MPC was too slow; the actual throwing method is hybrid rather than an end-to-end learned throwing policy. Official Spring 2026 reporting confirms Weng’s local graduate research team, two humanoids and a quadruped.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current official faculty page verifies the position and public email. No external short-visitor invitation was found in the reviewed primary sources. The presence of graduate researchers does not establish an available summer placement.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct learned-policy assurance, simulator-to-real statistical methods and hybrid humanoid control.",
+      "physical": "Current Iowa State G1 experiments with named local graduate researchers and official laboratory hardware confirmation.",
+      "shortVisit": "No verified current external visitor invitation or compatible short program.",
+      "freshness": "Two August 2026 primary studies and Spring 2026 university laboratory reporting."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.cs.iastate.edu / source 1",
+        "url": "https://www.cs.iastate.edu/people/bowen-weng",
+        "summary": "Current Assistant Professor of Computer Science; public email. Publications widget errors, so research claims use separate primary sources.",
+        "verifiedAt": "2026-10-01T02:53:44Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "iowastater.iastate.edu / source 2",
+        "url": "https://iowastater.iastate.edu/spring-2026/article/iowa-state-graduate-students-get-hands-research-experience-humanoid-robots",
+        "summary": "Official Spring 2026 laboratory and graduate-researcher feature establishes current local robots and supervision.",
+        "verifiedAt": "2026-10-01T02:53:44Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2608.21572v1",
+        "summary": "August 21, 2026 primary paper: actual G1 runtime evaluation, simulator-guided statistical certificates; other hardware cases use replayed datasets.",
+        "verifiedAt": "2026-10-01T02:53:44Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2608.16642v1",
+        "summary": "August 17, 2026 primary paper: actual G1 football throws, GR00T leg controller and offline lookup-table MPC; online MPC infeasible at the required rate.",
+        "verifiedAt": "2026-10-01T02:53:44Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "github.com / source 5",
+        "url": "https://github.com/NVlabs/GR00T-WholeBodyControl",
+        "summary": "Official NVIDIA implementation specifies decoupled WBC uses RL for the lower body and inverse kinematics for upper body. Used only to characterize the controller incorporated by Weng’s studies.",
+        "verifiedAt": "2026-10-01T02:53:44Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      }
+    ],
+    "unknowns": [
+      "Eight-week availability, external master’s eligibility, appointment, funding, access and institutional approval all require confirmation. Do not equate ordinary degree supervision or public code availability with visiting-student acceptance.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "bweng@iastate.edu"
+  }
+]

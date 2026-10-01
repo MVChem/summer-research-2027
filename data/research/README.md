@@ -74,3 +74,7 @@ python scripts/test_research_ledger.py
 ## 任职类别
 
 主名单包含官方大学目录明确列为 faculty 的研究人员，保留准确的 Research Professor、Systems Scientist 等任职标签，不将这些职称改写成 Assistant/Associate/Full Professor。大学 faculty 分类、研究指导经历与具体访客接收权限是不同事项；后者仍需另行确认。独立研究机构、未核实大学 faculty 任命的线索另列，不混排。
+
+### 后续读取失败与链接校验
+
+可选 `verificationAttempts` 单独记录后续读取尝试的 UTC `attemptedAt`、`sourceIds` 与 `outcome`。失败尝试不重写首次发现时间，也不冒充成功来源核查；具体限制同时列于详情的未确认事项。校验器检查尝试的时间和来源引用，并验证详情页到机构说明的显式锚点，避免规则链接失效。

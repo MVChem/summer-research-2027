@@ -73,6 +73,29 @@ class ResearchLedgerTests(unittest.TestCase):
         with self.assertRaises(AssertionError):
             ledger.validate(data)
 
+    def test_existing_policy_references_resolve(self):
+        ledger.validate_policy_references(self.full)
+
+    def test_unknown_policy_anchor_rejected(self):
+        data = copy.deepcopy(self.full)
+        data["candidates"][0]["unknowns"].append("[Policy](../eligibility_notes.md#missing-test-policy)")
+        with self.assertRaises(AssertionError):
+            ledger.validate_policy_references(data)
+
+    def test_future_retrieval_attempt_rejected(self):
+        data = copy.deepcopy(self.full)
+        row = data["candidates"][0]
+        row["verificationAttempts"] = [{"attemptedAt": "2999-01-01T00:00:00Z", "sourceIds": [row["sources"][0]["id"]], "outcome": "live-retrieval-failed"}]
+        with self.assertRaises(AssertionError):
+            ledger.validate(data)
+
+    def test_retrieval_attempt_cannot_claim_verification(self):
+        data = copy.deepcopy(self.full)
+        row = data["candidates"][0]
+        row["verificationAttempts"] = [{"attemptedAt": row["verifiedAt"], "verifiedAt": row["verifiedAt"], "sourceIds": [row["sources"][0]["id"]], "outcome": "live-retrieval-failed"}]
+        with self.assertRaises(AssertionError):
+            ledger.validate(data)
+
     def test_every_summary_links_to_its_full_record(self):
         full_by_id = {row["id"]: row for row in self.full["candidates"]}
         for summary in self.index["candidates"]:

@@ -66,6 +66,12 @@ def validate(data):
             source_ids.add(source["id"])
             url_key(source["url"])
             assert timestamp(source["verifiedAt"]) <= timestamp(row["verifiedAt"])
+        for attempt in row.get("verificationAttempts", []):
+            assert {"attemptedAt", "sourceIds", "outcome"} <= attempt.keys()
+            assert timestamp(row["discoveredAt"]) <= timestamp(attempt["attemptedAt"])
+            assert attempt["sourceIds"] and set(attempt["sourceIds"]) <= source_ids
+            assert isinstance(attempt["outcome"], str) and attempt["outcome"].strip()
+            assert "verifiedAt" not in attempt, "A retrieval attempt is not a successful verification timestamp"
         for field in ("physicalEvidence", "shortVisit"):
             evidence = row[field]
             assert {"status", "summary", "sourceIds"} <= evidence.keys()
@@ -78,6 +84,17 @@ def validate(data):
         status = row["shortVisit"]["status"].split(" · ", 1)[0]
         if status in {"unknown", "incompatible", "degree-only", "long-term-only", "precedent-only", "stale-2022-inquiry; current route unverified"}:
             assert row["scores"]["shortVisit"] == 0, "Unknown/incompatible short-visit opportunity must score 0"
+
+
+
+def validate_policy_references(data):
+    """Ensure relative policy citations from detail pages reach explicit anchors."""
+    policy = (ROOT / "data/research/eligibility_notes.md").read_text()
+    anchors = set(re.findall(r'<a id="([^"]+)"', policy))
+    for row in data["candidates"]:
+        encoded = json.dumps(row, ensure_ascii=False)
+        for anchor in re.findall(r"\]\(\.\./eligibility_notes\.md#([a-z0-9-]+)\)", encoded):
+            assert anchor in anchors, f"Missing policy anchor {anchor}: {row['name']}"
 
 
 def validate_addenda(addenda, baseline_meta):
@@ -198,6 +215,7 @@ def main():
     else:
         full, record_files, batches = load_shards(data)
         validate(full)
+        validate_policy_references(full)
         expected_index = compact_index(full, record_files)
         outputs = {LEDGER: json.dumps(expected_index, ensure_ascii=False, indent=2) + "\n", RANKED: render_compact(full)}
         outputs.update({ROOT / f"data/research/batches/{batch}.md": render_batch(batch, rows) for batch, rows in batches.items()})

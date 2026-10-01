@@ -1,0 +1,230 @@
+[
+  {
+    "id": "zachary-sunberg",
+    "name": "Zachary Sunberg",
+    "aliases": [
+      "Zachary N. Sunberg",
+      "Zachary Nolan Sunberg"
+    ],
+    "school": "University of Colorado Boulder",
+    "homepage": "https://www.colorado.edu/aerospace/zachary-sunberg",
+    "title": "Assistant Professor (current university directory and CV; a2026 paper biography says Associate Professor)",
+    "department": "Ann and H. J. Smead Aerospace Engineering Sciences; Computer Science by courtesy",
+    "batch": "control-030",
+    "discoveredAt": "2026-10-01T01:11:26Z",
+    "verifiedAt": "2026-10-01T01:14:01Z",
+    "researchAreas": [
+      "Decision making under uncertainty",
+      "POMDP planning",
+      "Safe autonomous systems",
+      "Learning-enabled humanoids",
+      "Multi-agent planning"
+    ],
+    "fitReason": "Strong AI/control foundation with a newly verified physical humanoid project. A useful fit for uncertainty-aware autonomy and integration of learned and model-based control, rather than only simulated POMDP benchmarks.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "August21,2026 GOLEM deploys ALMI adversarial-RL standing on a real Unitree H1-2 and demonstrates push recovery. Learned YOLO-World perception supports visual-servoed picking of already-loosened battery screws. Walking tests use the vendor controller; ALMI walking was unreliable. Language-memory tests are simulated. ADCL's current roster lists first author Max Conway, tying this collaborative hardware work to Sunberg's group.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current lab lists prior visiting scholars and a Vanderbilt doctoral visitor for summer2025, but no current external-master's visitor or summer2027 invitation was verified. Historical summer presence earns no opportunity points.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong uncertainty-aware autonomy plus current learned physical-control integration.",
+      "physical": "Physical learned H1-2 controller with current own-group first author, although collaborative access remains to confirm.",
+      "shortVisit": "Visitor precedent only; no current relevant invitation.",
+      "freshness": "August2026 technical evidence, current lab roster and direct current official profile; title discrepancy preserved."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.colorado.edu / source 1",
+        "url": "https://www.colorado.edu/aerospace/zachary-sunberg",
+        "summary": "Current faculty affiliation, displayed Assistant Professor and public email.",
+        "verifiedAt": "2026-10-01T01:14:01Z",
+        "retrieval": "Direct official HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "zachary.sunberg.net / source 2",
+        "url": "https://zachary.sunberg.net/cv/cv.pdf",
+        "summary": "Faculty-linked CV retains Assistant Professor and CS courtesy appointment.",
+        "verifiedAt": "2026-10-01T01:14:01Z",
+        "retrieval": "Direct author CV PDF text via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "www.cu-adcl.org / source 3",
+        "url": "https://www.cu-adcl.org/research/",
+        "summary": "AI/uncertainty/POMDP and hardware research orientation.",
+        "verifiedAt": "2026-10-01T01:14:01Z",
+        "retrieval": "Direct faculty-linked lab HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "www.cu-adcl.org / source 4",
+        "url": "https://www.cu-adcl.org/people/",
+        "summary": "Current student Max Conway; historical summer2025 visitor and visiting-scholar alumni, not active opening.",
+        "verifiedAt": "2026-10-01T01:14:01Z",
+        "retrieval": "Direct faculty-linked lab HTML via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2608.21550v1",
+        "summary": "GOLEM full-text sectionsIII–IV separate actual learned standing/manipulation from simulated memory and vendor walking.",
+        "verifiedAt": "2026-10-01T01:14:01Z",
+        "retrieval": "Direct primary author full-text HTML via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "journals.sagepub.com / source 6",
+        "url": "https://journals.sagepub.com/doi/abs/10.1177/00187208261457703",
+        "summary": "June6,2026 author biography calls Sunberg Associate Professor, conflicting with current official directory/CV.",
+        "verifiedAt": "2026-10-01T01:14:01Z",
+        "retrieval": "Official publisher indexed text via web search"
+      }
+    ],
+    "unknowns": [
+      "Use the separately verified CU Boulder institutional policies; host acceptance, eight-week project, external-master's status and funding remain unknown. Current official department, lab and CV retain Assistant Professor, whereas a June2026 journal biography says Associate Professor; title should be reconciled before contact. Collaborating Correll has moved to Notre Dame, so hardware access and supervision at Boulder require confirmation.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "zachary.sunberg@colorado.edu"
+  },
+  {
+    "id": "nikolaus-correll",
+    "name": "Nikolaus Correll",
+    "aliases": [
+      "Nikolaus J. Correll",
+      "Nicolaus Correll"
+    ],
+    "school": "University of Notre Dame",
+    "homepage": "https://ame.nd.edu/faculty/nikolaus-correll/",
+    "title": "Viola D. Hank Professor; Director, Physical AI and Robotics Initiative",
+    "department": "Aerospace and Mechanical Engineering",
+    "batch": "control-030",
+    "discoveredAt": "2026-10-01T01:12:36Z",
+    "verifiedAt": "2026-10-01T01:14:01Z",
+    "researchAreas": [
+      "Robot manipulation learning",
+      "Humanoid control",
+      "Vision-language robotic systems",
+      "Robotic materials",
+      "Force-aware manipulation"
+    ],
+    "fitReason": "Direct embodied-AI, learned perception/control and real manipulation focus. The newly established Notre Dame group offers relevant research directions, while the lab move makes local hardware and short-visit readiness important unknowns.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Corresponding coauthor of the August2026 GOLEM Unitree H1-2 humanoid study. Its real battery manipulation and learned balancing are substantial physical evidence; the work spans the Boulder-to-Notre-Dame transition, and the reviewed sources do not establish that the tested robot is now at Notre Dame. The current lab distinguishes Notre Dame students from continuing Boulder students.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Notre Dame's Fall2026 STRAND XLeRobot project lists undergraduate and graduate research-for-credit participation,12+ hours/week, and work to reproduce the platform at Notre Dame. It does not explicitly invite external master’s visitors or summer2027 interns. Earlier visitors in the Boulder roster are precedent only.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong learned manipulation and humanoid methods; substantial systems emphasis.",
+      "physical": "Recent actual hardware but transition/collaboration evidence; current Notre Dame ownership/access not verified.",
+      "shortVisit": "Local research-for-credit and prior visitors do not establish current external short visits.",
+      "freshness": "August2026 technical and institutional evidence; current Notre Dame directory and lab roster."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "ame.nd.edu / source 1",
+        "url": "https://ame.nd.edu/faculty/nikolaus-correll/",
+        "summary": "Current endowed Notre Dame AME professorship, PAIR leadership, email and physical-AI research.",
+        "verifiedAt": "2026-10-01T01:14:01Z",
+        "retrieval": "Direct official faculty HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "cse.nd.edu / source 2",
+        "url": "https://cse.nd.edu/events/toward-dexterous-mobile-manipulation/",
+        "summary": "August27,2026 official seminar explicitly says joined Notre Dame in Fall2026 after Boulder.",
+        "verifiedAt": "2026-10-01T01:14:01Z",
+        "retrieval": "Direct official HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "nd-pair.github.io / source 3",
+        "url": "https://nd-pair.github.io/correll/",
+        "summary": "Current lab research: perception/learning/force control, manipulation, materials and humanoids.",
+        "verifiedAt": "2026-10-01T01:14:01Z",
+        "retrieval": "Direct university-linked lab HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "nd-pair.github.io / source 4",
+        "url": "https://nd-pair.github.io/correll/people.html",
+        "summary": "Separates Notre Dame students from Boulder group; prior visitors are historical, not current intake.",
+        "verifiedAt": "2026-10-01T01:14:01Z",
+        "retrieval": "Direct university-linked lab HTML via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2608.21550v1",
+        "summary": "Primary physical humanoid project and corresponding authorship; access at new institution not established.",
+        "verifiedAt": "2026-10-01T01:14:01Z",
+        "retrieval": "Direct primary author full-text HTML via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "strand.nd.edu / source 6",
+        "url": "https://strand.nd.edu/projects/ame-xlerobot-contributing-open-source-robotic-mobile-manipulator",
+        "summary": "Fall2026 research-for-credit platform project, local replication goal,12+ hours/week; not an external visitor offer.",
+        "verifiedAt": "2026-10-01T01:14:01Z",
+        "retrieval": "Official university indexed full text via web search; direct web open returned403, not treated as directly read"
+      }
+    ],
+    "unknowns": [
+      "Current Notre Dame appointment and Fall2026 move are explicitly confirmed despite stale Boulder faculty pages. The exact summer2027 host site, local robot access, external-master's appointment, funding and eight-week duration remain unknown. Do not apply CU Boulder policy to the new Notre Dame appointment. Research-for-credit participation is not evidence of an external visitor program.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "ncorrell@nd.edu"
+  }
+]

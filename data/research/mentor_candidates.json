@@ -38,6 +38,7 @@
     "batches/control-027.json",
     "batches/control-028.json",
     "batches/control-029.json",
+    "batches/control-030.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -2383,6 +2384,66 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-029.json",
       "detailPage": "batches/control-029.md#jundong-liu"
+    },
+    {
+      "id": "zachary-sunberg",
+      "name": "Zachary Sunberg",
+      "aliases": [
+        "Zachary N. Sunberg",
+        "Zachary Nolan Sunberg"
+      ],
+      "school": "University of Colorado Boulder",
+      "title": "Assistant Professor (current university directory and CV; a2026 paper biography says Associate Professor)",
+      "homepage": "https://www.colorado.edu/aerospace/zachary-sunberg",
+      "batch": "control-030",
+      "discoveredAt": "2026-10-01T01:11:26Z",
+      "verifiedAt": "2026-10-01T01:14:01Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Decision making under uncertainty",
+        "POMDP planning",
+        "Safe autonomous systems",
+        "Learning-enabled humanoids",
+        "Multi-agent planning"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-030.json",
+      "detailPage": "batches/control-030.md#zachary-sunberg"
+    },
+    {
+      "id": "nikolaus-correll",
+      "name": "Nikolaus Correll",
+      "aliases": [
+        "Nikolaus J. Correll",
+        "Nicolaus Correll"
+      ],
+      "school": "University of Notre Dame",
+      "title": "Viola D. Hank Professor; Director, Physical AI and Robotics Initiative",
+      "homepage": "https://ame.nd.edu/faculty/nikolaus-correll/",
+      "batch": "control-030",
+      "discoveredAt": "2026-10-01T01:12:36Z",
+      "verifiedAt": "2026-10-01T01:14:01Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Robot manipulation learning",
+        "Humanoid control",
+        "Vision-language robotic systems",
+        "Robotic materials",
+        "Force-aware manipulation"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-030.json",
+      "detailPage": "batches/control-030.md#nikolaus-correll"
     },
     {
       "id": "tom-silver",

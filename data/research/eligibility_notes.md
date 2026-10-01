@@ -935,3 +935,12 @@ Sources: [Guides and Forms](https://www.lamar.edu/international-education/intern
 - [Incoming Exchange](https://www.csuci.edu/academics/international/admissions/incoming-exchange.html)是合作院校课程交换，要求原学校国际办公室提名、财力和英语材料。这不是已确认的单独研究实习类别。
 - 尚未核实适用于外校硕士的研究任命／Student Intern 路径、自费规则、最低财力、费用、保险、提前量或远程形式。须由导师及国际办公室确认；没有找到公开路径不等于所有个别访问均被禁止。
 - Bahareh Abbasi 的本校 Sawyer／GPT-4o 项目是 2024 SURF 原型，发表于 2025 本科研究刊物；合作的 Baxter 强化学习实验已出现在 2024 预印本，不能因 2026 再次发布就称为新实验。
+
+<a id="cincinnati"></a>
+## Cincinnati · 需确认获批项目，J-1 Intern 可用个人资金
+
+核查：2026-10-01T05:56:37Z。[UC International 的 J-1 Intern 页面](https://www.uc.edu/about/international/visa/faculty/intern.html) 涵盖境外高校在读学生，要求学籍/学位材料、原校推荐、英语证明、DS-7002 计划与保险；当前最低支持额为每月 2,000 美元，允许个人/家庭资金。这是财力证明门槛，不是奖学金或完整预算，2027 金额须复核。页面同时出现毕业十二个月内与返回原学位项目的措辞，因此保留其 J-1 Intern 名称，不自行等同于 Student Intern 子类别。
+
+[研究办公室 FAQ](https://research.uc.edu/international-collaboration/international-engagement---nsf-faqs) 明确要求非学位研究生访问参加 UC-approved program；尚未核实可用于外校硕士短期科研的具体获批项目。[主办流程](https://www.uc.edu/about/international/hire.html) 要求所有国际访客进入 iBearcatsGlobal，详细院系流程在内部 Bearcats Landing。八周研究、确切身份、主办批准、经费材料和处理时长仍需 UC International／院系确认。[学者流程](https://research.uc.edu/navigation/for-researchers/visiting-scholars) 还涉及研究安全、正式协议与校园权限；其按时长列签证的简表不能单独决定研究访问应使用何种签证。
+
+[2027 Visiting Scholar Grant](https://www.international.uc.edu/partners/collaboration/visiting-scholars.html) 面向指定伙伴机构的全职教师／职员，不能作为外校硕士暑研资助或截止日期。以上机构规则不增加导师机会分，也不代表实验室有名额。

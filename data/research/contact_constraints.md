@@ -84,6 +84,20 @@
 - **当前没有非USC的MS/本科研究岗位；仅针对该类别，不泛化到全部访客或永久/2027禁令；访问PhD先例不能替代硕士资格**
 - 核查：2026-10-01T13:34:36Z · [来源1](https://usclaser.github.io/join/) · [来源2](https://viterbi.usc.edu/directory/faculty/Albee/Keenan)
 
+### Steven H. Collins（限制目录；未计入新增排名）
+
+- 公开任职：Associate Professor of Mechanical Engineering; Bioengineering by courtesy · Stanford University · [主页](https://biomechatronics.stanford.edu/people/steve-collins)
+- 适用范围：General lab visitor inquiries; separate Stanford degree-enrolled master’s route
+- **一般不接收访客且无访客资助；保留generally限定，不说无任何例外。本校MS需Stanford在读及秋季到校，不是外校暑研通道**
+- 核查：2026-10-01T04:48:43Z · [来源1](https://biomechatronics.stanford.edu/join) · [来源2](https://biomechatronics.stanford.edu/people/steve-collins)
+
+### Yaoyao Liu（限制目录；未计入新增排名）
+
+- 公开任职：Assistant Professor, School of Information Sciences and Coordinated Science Laboratory · University of Illinois Urbana-Champaign · [主页](https://yaoyaoliu.web.illinois.edu/)
+- 适用范围：Current CVML group Postdocs, Research Assistants, and Visiting Students section
+- **当前CVML页面单列不招visiting students、RA和postdoc；Fall2027学位招募不覆盖此类。未公布重新开放时间，不推断永久关闭**
+- 核查：2026-10-01T15:22:53Z · [来源1](https://vision.ischool.illinois.edu/openings/) · [来源2](https://ischool.illinois.edu/people/yaoyao-liu)
+
 ## 明确最短时长
 
 ### Deepak Pathak（原名单 #108）
@@ -231,4 +245,38 @@
 - 适用范围：Current TASL form duration options and typical onsite visa screening
 - **时长列3/6/9/12+个月但有Other，不定为硬性最低；现场通常不接收F1/J1以外签证，另有无需签证；实际学校分类和资金另审**
 - 核查：2026-10-01T14:43:05Z · [来源1](https://docs.google.com/forms/d/e/1FAIpQLSe73aWKsTxAaEzzmPJBDvZIAsqfxEmIrj7s9-ib_1aYZ_2CFQ/viewform?usp=send_form)
+
+### Robert D. Gregg IV（限制目录；未计入新增排名）
+
+- 公开任职：Professor of Robotics · University of Michigan–Ann Arbor · [主页](https://robotics.umich.edu/people/faculty/robert-gregg/)
+- 适用范围：International student internships requiring PI visa sponsorship
+- **明确不能赞助国际学生internship签证；无薪MS/本科研究文本不能覆盖该限制。不是所有访客禁令，不判断任何个人资格**
+- 核查：2026-10-01T04:49:31Z · [来源1](https://locolab.robotics.umich.edu/contact.html) · [来源2](https://robotics.umich.edu/people/faculty/robert-gregg/)
+
+### Robin R. Murphy（限制目录；未计入新增排名）
+
+- 公开任职：Professor Emeritus · Texas A&M University · [主页](https://people.engr.tamu.edu/robin.r.murphy/index.html)
+- 适用范围：New graduate students and postdocs after retirement
+- **2025-05退休后不接收新graduate学生或postdoc，仍从事野外研究；没有另行核实所有短期访客均被禁止**
+- 核查：2026-10-01T06:56:57Z · [来源1](https://people.engr.tamu.edu/robin.r.murphy/index.html) · [来源2](https://engineering.tamu.edu/cse/research/areas/robotics-human-robot-interaction.html)
+
+### Ravi Balasubramanian（限制目录；未计入新增排名）
+
+- 公开任职：Associate Professor · Oregon State University · [主页](https://engineering.oregonstate.edu/about/people/ravi-balasubramanian)
+- 适用范围：Official faculty-profile new-student acceptance badge; visitor applicability not specified
+- **官方档案标注不接收新学生；未说明访问研究/暑期实习适用性，不能把badge泛化为所有访客拒绝**
+- 核查：2026-10-01T05:58:30Z · [来源1](https://engineering.oregonstate.edu/about/people/ravi-balasubramanian)
+
+### Amy Pavel（限制目录；未计入新增排名）
+
+- 公开任职：Assistant Professor of Electrical Engineering and Computer Sciences · University of California, Berkeley · [主页](https://www.amypavel.com/)
+- 适用范围：External undergraduate or post-undergraduate interns; postdoc/visiting-faculty inquiry is separate
+- **当前external undergraduate/post-undergraduate intern无容量；postdoc/visiting faculty可条件性询问。FAQ未另定义外校graduate visiting student，不作所有硕士访客禁令**
+- 核查：2026-10-01T15:39:11Z · [来源1](https://engineering.berkeley.edu/news/2025/08/berkeley-engineering-welcomes-eleven-new-faculty-members/) · [来源2](https://docs.google.com/document/u/4/d/e/2PACX-1vSsB-lcy4Syh1TUVGyWECn9u2wD5BzrEIilDGroVR9Ct82z0EU6ZTpfcMM69JHlIG2930X1yVFKtbHg/pub)
+
+### Kris Hauser（原名单 #146）
+
+- 适用范围：Current UIUC leave and broad new-student intake statement
+- **当前UIUC休假、在Samsung Research America任职，明确暂不接收新学生；没有结束日期或已核实访客例外，不推断永久离职或Summer2027关闭**
+- 核查：2026-10-01T16:03:48Z · [来源1](https://kkhauser.web.illinois.edu/) · [来源2](https://grainger.illinois.edu/about/directory/faculty/kkhauser) · [来源3](https://events.seas.harvard.edu/event/robotics-seminar-series-kris-hauser-modeling-and-reasoning-about-stuff)
 

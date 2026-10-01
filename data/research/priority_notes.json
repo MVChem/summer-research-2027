@@ -3639,7 +3639,7 @@
         "appointmentType": "first-faculty-as-described"
       },
       "display": "2023-07-01（官方Hire Date表）",
-      "caveat": "The September 7, 2023 announcement date is not the hire date; July 1 is explicit in the table.",
+      "caveat": "The September 7, 2023 announcement date is not the hire date; July 1 is explicit in the table. 已公布MS通道限WPI；单独PhD项目已于2026-06-15截止，外校硕士访问仍未核。",
       "sources": [
         {
           "id": "h1",
@@ -3664,6 +3664,12 @@
           "url": "https://www.wpi.edu/people/faculty/cchamzas",
           "evidence": "Current university AP affiliation; preserve original observation.",
           "observedAt": "2026-10-01T11:49:45Z"
+        },
+        {
+          "id": "route-deadline-2026",
+          "url": "https://www.linkedin.com/posts/constantinos-chamzas-33606284_greeks-in-ai-activity-7464778953556193281-Hs8k",
+          "observedAt": "2026-10-01T16:48:52Z",
+          "evidence": "The complete first-person post embeds a programme for doctoral researchers based at Greek universities/research centers, with visits up to six months and an explicit June15,2026 deadline. It is a dated, closed2026 programme-specific hosting offer, not a current2027 outside-master invitation."
         }
       ]
     }
@@ -4337,6 +4343,184 @@
         {
           "url": "https://docs.google.com/document/d/1CGNidaVyv7eNTsphIewjxNKlgeKSbwAN0EJdyCZMyxE/edit?tab=t.0",
           "evidence": "Current public recruitment document explicitly has no short-term positions and considers well-matched visitors only for at least6months. Separate Spring/Fall 2027 openings are PhD positions; no funding statement was established. Full relevant pages viewed14:31:48–14:33:35 without editing, applying or submitting."
+        }
+      ]
+    },
+    {
+      "key": "steven-collins-qualified-visitor-rule",
+      "name": "Steven H. Collins",
+      "catalogueIdentity": {
+        "name": "Steven H. Collins",
+        "title": "Associate Professor of Mechanical Engineering; Bioengineering by courtesy",
+        "institution": "Stanford University",
+        "homepage": "https://biomechatronics.stanford.edu/people/steve-collins"
+      },
+      "kind": "no-visitors",
+      "scope": "General lab visitor inquiries; separate Stanford degree-enrolled master’s route",
+      "summary": "一般不接收访客且无访客资助；保留generally限定，不说无任何例外。本校MS需Stanford在读及秋季到校，不是外校暑研通道",
+      "observedAt": "2026-10-01T04:48:43Z",
+      "sources": [
+        {
+          "url": "https://biomechatronics.stanford.edu/join",
+          "evidence": "Previously fully read current lab restriction, with the qualifying general rule and funding limit.",
+          "observedAt": "2026-10-01T04:48:43Z"
+        },
+        {
+          "url": "https://biomechatronics.stanford.edu/people/steve-collins",
+          "evidence": "Previously checked official lab title and affiliation.",
+          "observedAt": "2026-10-01T04:48:43Z"
+        }
+      ]
+    },
+    {
+      "key": "robert-gregg-intern-visa-limit",
+      "name": "Robert D. Gregg IV",
+      "catalogueIdentity": {
+        "name": "Robert D. Gregg IV",
+        "title": "Professor of Robotics",
+        "institution": "University of Michigan–Ann Arbor",
+        "homepage": "https://robotics.umich.edu/people/faculty/robert-gregg/"
+      },
+      "kind": "capacity-or-role",
+      "scope": "International student internships requiring PI visa sponsorship",
+      "summary": "明确不能赞助国际学生internship签证；无薪MS/本科研究文本不能覆盖该限制。不是所有访客禁令，不判断任何个人资格",
+      "observedAt": "2026-10-01T04:49:31Z",
+      "sources": [
+        {
+          "url": "https://locolab.robotics.umich.edu/contact.html",
+          "evidence": "Previously fully read lab contact page with visa-sponsorship restriction and unpaid research wording.",
+          "observedAt": "2026-10-01T04:49:31Z"
+        },
+        {
+          "url": "https://robotics.umich.edu/people/faculty/robert-gregg/",
+          "evidence": "Previously checked official professor appointment.",
+          "observedAt": "2026-10-01T04:49:31Z"
+        }
+      ]
+    },
+    {
+      "key": "robin-murphy-graduate-intake-after-retirement",
+      "name": "Robin R. Murphy",
+      "catalogueIdentity": {
+        "name": "Robin R. Murphy",
+        "title": "Professor Emeritus",
+        "institution": "Texas A&M University",
+        "homepage": "https://people.engr.tamu.edu/robin.r.murphy/index.html"
+      },
+      "kind": "capacity-or-role",
+      "scope": "New graduate students and postdocs after retirement",
+      "summary": "2025-05退休后不接收新graduate学生或postdoc，仍从事野外研究；没有另行核实所有短期访客均被禁止",
+      "observedAt": "2026-10-01T06:56:57Z",
+      "sources": [
+        {
+          "url": "https://people.engr.tamu.edu/robin.r.murphy/index.html",
+          "evidence": "Previously fully read retirement and new graduate/postdoc intake statement.",
+          "observedAt": "2026-10-01T06:56:57Z"
+        },
+        {
+          "url": "https://engineering.tamu.edu/cse/research/areas/robotics-human-robot-interaction.html",
+          "evidence": "Previously checked official Professor Emeritus listing.",
+          "observedAt": "2026-10-01T06:56:57Z"
+        }
+      ]
+    },
+    {
+      "key": "ravi-balasubramanian-new-student-badge",
+      "name": "Ravi Balasubramanian",
+      "catalogueIdentity": {
+        "name": "Ravi Balasubramanian",
+        "title": "Associate Professor",
+        "institution": "Oregon State University",
+        "homepage": "https://engineering.oregonstate.edu/about/people/ravi-balasubramanian"
+      },
+      "kind": "capacity-or-role",
+      "scope": "Official faculty-profile new-student acceptance badge; visitor applicability not specified",
+      "summary": "官方档案标注不接收新学生；未说明访问研究/暑期实习适用性，不能把badge泛化为所有访客拒绝",
+      "observedAt": "2026-10-01T05:58:30Z",
+      "sources": [
+        {
+          "url": "https://engineering.oregonstate.edu/about/people/ravi-balasubramanian",
+          "evidence": "Previously checked current Associate Professor profile and Not Accepting New Students badge.",
+          "observedAt": "2026-10-01T05:58:30Z"
+        }
+      ]
+    },
+    {
+      "key": "amy-pavel-external-intern-capacity",
+      "name": "Amy Pavel",
+      "catalogueIdentity": {
+        "name": "Amy Pavel",
+        "title": "Assistant Professor of Electrical Engineering and Computer Sciences",
+        "institution": "University of California, Berkeley",
+        "homepage": "https://www.amypavel.com/"
+      },
+      "kind": "capacity-or-role",
+      "scope": "External undergraduate or post-undergraduate interns; postdoc/visiting-faculty inquiry is separate",
+      "summary": "当前external undergraduate/post-undergraduate intern无容量；postdoc/visiting faculty可条件性询问。FAQ未另定义外校graduate visiting student，不作所有硕士访客禁令",
+      "observedAt": "2026-10-01T15:39:11Z",
+      "sources": [
+        {
+          "url": "https://engineering.berkeley.edu/news/2025/08/berkeley-engineering-welcomes-eleven-new-faculty-members/",
+          "evidence": "Official Fall 2025 Berkeley AP arrival and prior UT Austin AP, distinguishing transfer from first appointment.",
+          "observedAt": "2026-10-01T15:39:03Z"
+        },
+        {
+          "url": "https://docs.google.com/document/u/4/d/e/2PACX-1vSsB-lcy4Syh1TUVGyWECn9u2wD5BzrEIilDGroVR9Ct82z0EU6ZTpfcMM69JHlIG2930X1yVFKtbHg/pub",
+          "evidence": "Full live public FAQ for people external to Berkeley, linked by PI homepage. External-intern closure is distinct from local master degree research and postdoc/visiting-faculty route.",
+          "observedAt": "2026-10-01T15:39:11Z"
+        }
+      ]
+    },
+    {
+      "key": "baseline-146-hauser-current-leave-intake",
+      "baselineId": 146,
+      "name": "Kris Hauser",
+      "kind": "capacity-or-role",
+      "scope": "Current UIUC leave and broad new-student intake statement",
+      "summary": "当前UIUC休假、在Samsung Research America任职，明确暂不接收新学生；没有结束日期或已核实访客例外，不推断永久离职或Summer2027关闭",
+      "observedAt": "2026-10-01T16:03:48Z",
+      "sources": [
+        {
+          "url": "https://kkhauser.web.illinois.edu/",
+          "evidence": "Current first-person university-hosted bio states UIUC leave for Samsung Research America; prospective-students section says not accepting new students for now.",
+          "observedAt": "2026-10-01T16:03:48Z"
+        },
+        {
+          "url": "https://grainger.illinois.edu/about/directory/faculty/kkhauser",
+          "evidence": "Current official university Professor listing remains; do not falsely state faculty departure.",
+          "observedAt": "2026-10-01T16:03:31Z"
+        },
+        {
+          "url": "https://events.seas.harvard.edu/event/robotics-seminar-series-kris-hauser-modeling-and-reasoning-about-stuff",
+          "evidence": "Official November14,2025 seminar bio independently describes leave and Samsung leadership; historical corroboration, not2027capacity.",
+          "observedAt": "2026-10-01T16:03:02Z"
+        }
+      ]
+    },
+    {
+      "key": "yaoyao-liu-current-visitor-closure",
+      "name": "Yaoyao Liu",
+      "catalogueIdentity": {
+        "name": "Yaoyao Liu",
+        "title": "Assistant Professor, School of Information Sciences and Coordinated Science Laboratory",
+        "institution": "University of Illinois Urbana-Champaign",
+        "homepage": "https://yaoyaoliu.web.illinois.edu/"
+      },
+      "kind": "no-visitors",
+      "scope": "Current CVML group Postdocs, Research Assistants, and Visiting Students section",
+      "summary": "当前CVML页面单列不招visiting students、RA和postdoc；Fall2027学位招募不覆盖此类。未公布重新开放时间，不推断永久关闭",
+      "observedAt": "2026-10-01T15:22:53Z",
+      "sources": [
+        {
+          "url": "https://vision.ischool.illinois.edu/openings/",
+          "evidence": "Complete current lab openings page has a separate explicit no-visiting-students statement.",
+          "observedAt": "2026-10-01T15:22:53Z"
+        },
+        {
+          "url": "https://ischool.illinois.edu/people/yaoyao-liu",
+          "evidence": "Current official directory confirms Assistant Professor in the School of Information Sciences and an additional Assistant Professor appointment in Coordinated Science Laboratory; public lyy@illinois.edu, homepage and CVML lab linked. Original full role observation preserved from embodied-screening-0527.md; bounded later reconfirmation recorded separately.",
+          "observedAt": "2026-10-01T15:21:55Z",
+          "laterRoleOnlyObservation": "2026-10-01T16:50:34Z"
         }
       ]
     }

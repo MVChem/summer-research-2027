@@ -9,7 +9,7 @@
     "department": "Robotics Engineering; affiliated Computer Science",
     "batch": "control-103",
     "discoveredAt": "2026-10-01T11:40:37Z",
-    "verifiedAt": "2026-10-01T11:49:45Z",
+    "verifiedAt": "2026-10-01T16:48:52Z",
     "researchAreas": [
       "Active robot learning",
       "Residual physics dynamics",
@@ -29,10 +29,11 @@
     },
     "shortVisit": {
       "status": "unknown",
-      "summary": "Current join page recruits PhD degree applicants and separately WPI master’s students, typically after the Fall RBE 550 course. The lab form is linked from the WPI-student sections; no external-master eligibility is inferred from it. A public first-person 2026 fellowship post offers to host a visiting PhD student under a specific Greek-researcher programme, which does not establish a master’s route. Eight-week summer 2027 intake, funding and remote participation remain unknown.",
+      "summary": "Current join page recruits PhD degree applicants and separately WPI master’s students, typically after Fall RBE550. The form is linked from those local-student sections; no outside-master applicability is inferred. A separate dated Bodossaki–Greeks in AI call offered visiting PhD hosting for researchers based at Greek universities/research centers, with visits up to six months and a June15,2026 deadline. That closed2026 programme is not a current2027 outside-master invitation. Duration, funding and remote participation for an external master remain unknown.",
       "sourceIds": [
         "s4",
-        "s5"
+        "s5",
+        "s9"
       ]
     },
     "scores": {
@@ -111,12 +112,21 @@
         "summary": "Full revised primary methods distinguish two real objects, open-loop plans and separate closed-loop replanning.",
         "verifiedAt": "2026-10-01T11:49:45Z",
         "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s9",
+        "label": "Dated Bodossaki–Greeks in AI call, full primary post",
+        "url": "https://www.linkedin.com/posts/constantinos-chamzas-33606284_greeks-in-ai-activity-7464778953556193281-Hs8k",
+        "summary": "The complete first-person post embeds a programme for doctoral researchers based at Greek universities/research centers, with visits up to six months and an explicit June15,2026 deadline. It is a dated, closed2026 programme-specific hosting offer, not a current2027 outside-master invitation.",
+        "verifiedAt": "2026-10-01T16:48:52Z",
+        "retrieval": "Complete primary post; independent source audit"
       }
     ],
     "unknowns": [
       "Previously reviewed WPI conditions apply. Formal Visiting Graduate Student/Scholar appointments require faculty sponsorship and a Provost appointment letter. International House determines whether an external master’s visit uses non-degree or scholar status; old 2015/2019 forms cannot establish 2027 duration/support rules. Current pages accept personal financial documents, but full self-funding approval, eight-week eligibility, fees, insurance and lead time still require confirmation.",
       "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
-      "[Institutional visitor review](../eligibility_notes.md#wpi); sources retain the original policy-observation times."
+      "[Institutional visitor review](../eligibility_notes.md#wpi); sources retain the original policy-observation times.",
+      "The June15,2026 programme deadline and doctoral/home-institution scope are specific to that fellowship; they do not establish a general no-visitors rule or nationality-based eligibility."
     ],
     "publicEmail": "cchamzas@wpi.edu",
     "discoveryTimestampNote": "Earliest precisely retained conference-list author/project observation; dedicated official faculty verification followed."

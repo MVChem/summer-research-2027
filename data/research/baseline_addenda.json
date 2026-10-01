@@ -458,6 +458,33 @@
           "evidence": "Complete public form read: Master, home institution, mode options, start date and1–3/4–6/7–9/10–12/13+ months; undergraduate-only visa caveat. No entries/uploads/submission."
         }
       ]
+    },
+    {
+      "baselineId": 146,
+      "name": "Kris Hauser",
+      "observedAt": "2026-10-01T16:03:48Z",
+      "eventType": "later-public-source-verification-not-discovery",
+      "finding": "Current university-hosted first-person page states he is on leave from UIUC, serving as Head of Robotic Intelligence at Samsung Research America, and not accepting new students for now. The official faculty listing remains. This is a current intake/host-availability restriction without a stated end date, not proof of permanent university departure or an explicit summer2027 ban. Do not recommend a short in-person student visit without later reopening/host confirmation. The current statement is broad new-student wording; a visiting-student exception, return date and summer2027 hosting remain unconfirmed.",
+      "sources": [
+        {
+          "url": "https://kkhauser.web.illinois.edu/",
+          "retrieval": "complete-primary-page",
+          "evidence": "Current first-person university-hosted bio states UIUC leave for Samsung Research America; prospective-students section says not accepting new students for now.",
+          "observedAt": "2026-10-01T16:03:48Z"
+        },
+        {
+          "url": "https://grainger.illinois.edu/about/directory/faculty/kkhauser",
+          "retrieval": "complete-primary-page",
+          "evidence": "Current official university Professor listing remains; do not falsely state faculty departure.",
+          "observedAt": "2026-10-01T16:03:31Z"
+        },
+        {
+          "url": "https://events.seas.harvard.edu/event/robotics-seminar-series-kris-hauser-modeling-and-reasoning-about-stuff",
+          "retrieval": "complete-primary-event-page",
+          "evidence": "Official November14,2025 seminar bio independently describes leave and Samsung leadership; historical corroboration, not2027capacity.",
+          "observedAt": "2026-10-01T16:03:02Z"
+        }
+      ]
     }
   ]
 }

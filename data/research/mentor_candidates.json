@@ -141,6 +141,7 @@
     "batches/embodied-062.json",
     "batches/embodied-063.json",
     "batches/embodied-064.json",
+    "batches/embodied-065.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -7768,6 +7769,61 @@
       "shortVisitStatus": "degree-only",
       "recordFile": "batches/embodied-064.json",
       "detailPage": "batches/embodied-064.md#biwei-huang"
+    },
+    {
+      "id": "cornelia-fermuller",
+      "name": "Cornelia Fermüller",
+      "aliases": [
+        "Cornelia Fermuller"
+      ],
+      "school": "University of Maryland, College Park",
+      "title": "Research Scientist; professional-track faculty and PRG co-lead",
+      "homepage": "https://users.umiacs.umd.edu/~fermulcm/",
+      "batch": "embodied-065",
+      "discoveredAt": "2026-10-01T05:46:31Z",
+      "verifiedAt": "2026-10-01T05:47:38Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-to-robot learning",
+        "Force-aware manipulation",
+        "Active and bio-inspired robot vision",
+        "Multimodal perception-action representations"
+      ],
+      "shortVisitStatus": "degree-only",
+      "recordFile": "batches/embodied-065.json",
+      "detailPage": "batches/embodied-065.md#cornelia-fermuller"
+    },
+    {
+      "id": "kun-zhang",
+      "name": "Kun Zhang",
+      "aliases": [],
+      "school": "Carnegie Mellon University; concurrent visiting appointment at MBZUAI",
+      "title": "Professor at CMU; Visiting Professor of Machine Learning at MBZUAI",
+      "homepage": "https://www.andrew.cmu.edu/user/kunz1/",
+      "batch": "embodied-065",
+      "discoveredAt": "2026-10-01T05:45:03Z",
+      "verifiedAt": "2026-10-01T05:46:53Z",
+      "scores": {
+        "fit": 36,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Causal representation learning",
+        "Embodied world models",
+        "Sim-to-real VLA training",
+        "Transfer learning"
+      ],
+      "discoveryTimestampNote": "This is the first precisely preserved candidate-specific primary discovery (Mirage2Matter search result). An earlier un-timestamped name-only lead appeared during related-author browsing; no exact earlier discovery time is invented.",
+      "shortVisitStatus": "degree-only · concurrent overseas visit",
+      "recordFile": "batches/embodied-065.json",
+      "detailPage": "batches/embodied-065.md#kun-zhang"
     },
     {
       "id": "henny-admoni",

@@ -1,0 +1,235 @@
+[
+  {
+    "id": "cornelia-fermuller",
+    "name": "Cornelia Fermüller",
+    "aliases": [
+      "Cornelia Fermuller"
+    ],
+    "school": "University of Maryland, College Park",
+    "homepage": "https://users.umiacs.umd.edu/~fermulcm/",
+    "title": "Research Scientist; professional-track faculty and PRG co-lead",
+    "department": "University of Maryland Institute for Advanced Computer Studies; Perception and Robotics Group",
+    "batch": "embodied-065",
+    "discoveredAt": "2026-10-01T05:46:31Z",
+    "verifiedAt": "2026-10-01T05:47:38Z",
+    "researchAreas": [
+      "Human-to-robot learning",
+      "Force-aware manipulation",
+      "Active and bio-inspired robot vision",
+      "Multimodal perception-action representations"
+    ],
+    "fitReason": "Strong match for learning robot manipulation from human demonstrations, including force-aware flow-matching policies and active perception. She co-leads Maryland’s Perception and Robotics Group and currently co-advises the first author of ForceBand.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "June 2026 ForceBand trains a flow-matching policy from human video and wrist sEMG-derived forces, then executes pick–squeeze–place behavior on an actual UR5. The nine-object protocol uses 15 human demonstrations per object and ten evaluation trials. Fermüller is a Maryland coauthor; the project includes Amazon FAR and Johns Hopkins, and hardware location is not settled.",
+      "sourceIds": [
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "shortVisit": {
+      "status": "degree-only",
+      "summary": "PRG’s current recruiting page directs prospective degree students to UMD admissions and explicitly scopes listed PhD/master’s/undergraduate projects to admitted students. It gives contact instructions for Fermüller and Aloimonos but no external summer invitation. Current doctoral co-advising is verified independently.",
+      "sourceIds": [
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct learned manipulation and force-rich human-to-robot transfer, alongside active robot vision.",
+      "physical": "Actual UR5 learned execution with a current advisee, but multi-institution apparatus location/access unresolved.",
+      "shortVisit": "Admitted-student opportunities and doctoral advising do not establish an outside-master’s invitation.",
+      "freshness": "Full June 2026 physical study and current university directory/advisee evidence."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "nacs.umd.edu / source 1",
+        "url": "https://nacs.umd.edu/facultyprofile/fermuller/cornelia",
+        "summary": "Full official profile confirms Research Scientist, PRG co-lead, graduate advising and public email; biography retains older Associate Research Scientist wording.",
+        "verifiedAt": "2026-10-01T05:47:38Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "robotics.umd.edu / source 2",
+        "url": "https://robotics.umd.edu/facilities/perception-and-robotics-group",
+        "summary": "Full current university lab page identifies Fermüller alongside Aloimonos with exact Research Scientist title.",
+        "verifiedAt": "2026-10-01T05:47:38Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "www.umiacs.umd.edu / source 3",
+        "url": "https://www.umiacs.umd.edu/news-events/news/fermuller-receives-provosts-excellence-award-professional-track-faculty",
+        "summary": "Official 2019 faculty award documents professional-track faculty status; historical classification, not a new 2026 appointment.",
+        "verifiedAt": "2026-10-01T05:47:38Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "users.umiacs.umd.edu / source 4",
+        "url": "https://users.umiacs.umd.edu/~fermulcm/",
+        "summary": "Full personal university page states current Research Scientist and learning-from-human-manipulation agenda; its news ends in 2023.",
+        "verifiedAt": "2026-10-01T05:47:38Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "www.prg.cs.umd.edu / source 5",
+        "url": "https://www.prg.cs.umd.edu/open-positions",
+        "summary": "Full lab instructions distinguish prospective admissions from projects for admitted students; no external short visitor invitation.",
+        "verifiedAt": "2026-10-01T05:47:38Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2606.26093v1",
+        "summary": "Full ForceBand paper verifies actual UR5 policy execution, evaluation protocol and calibration limitations.",
+        "verifiedAt": "2026-10-01T05:47:38Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s7",
+        "label": "forceband-emg.github.io / source 7",
+        "url": "https://forceband-emg.github.io/",
+        "summary": "Full project verifies Maryland/Amazon/JHU affiliations and physical demonstrations; rendering counters initially read zero and are not scientific results.",
+        "verifiedAt": "2026-10-01T05:47:38Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s8",
+        "label": "botao.me / source 8",
+        "url": "https://botao.me/",
+        "summary": "Full current first-author page explicitly names Fermüller and Aloimonos as UMD advisers, gives current Amazon internship, and lists ForceBand at CoRL 2026.",
+        "verifiedAt": "2026-10-01T05:47:38Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Retain the exact Research Scientist/professional-track faculty role, rather than inventing a tenure-track professor appointment. Her ability to independently sponsor a visiting student must be confirmed with UMD.",
+      "The current recruiting page is admission-focused. It does not establish an eight-week external-master’s slot, Summer 2027 dates, funding or remote participation.",
+      "ForceBand’s force-estimation dataset is distinct from its physical policy experiments. Per-user calibration still needs fingertip force sensors; it is not wholly sensor-free. Its squeeze evaluation includes human assessment rather than a universal quantitative force-accuracy criterion.",
+      "Collaborative hardware is capped at 20. The first author is both her current UMD doctoral advisee and an Amazon FAR intern; this does not establish that an outside visitor could access Amazon or UMD equipment.",
+      "Reuse the Maryland Student Intern note: external graduate students may qualify for degree-related training with host approval. Michael Otte’s separate external-scholarship requirement is lab-specific and must not be assigned to PRG.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#maryland-student-intern)"
+    ],
+    "publicEmail": "fermulcm@umd.edu"
+  },
+  {
+    "id": "kun-zhang",
+    "name": "Kun Zhang",
+    "aliases": [],
+    "school": "Carnegie Mellon University; concurrent visiting appointment at MBZUAI",
+    "homepage": "https://www.andrew.cmu.edu/user/kunz1/",
+    "title": "Professor at CMU; Visiting Professor of Machine Learning at MBZUAI",
+    "department": "Department of Philosophy; Machine Learning Department affiliate",
+    "batch": "embodied-065",
+    "discoveredAt": "2026-10-01T05:45:03Z",
+    "verifiedAt": "2026-10-01T05:46:53Z",
+    "researchAreas": [
+      "Causal representation learning",
+      "Embodied world models",
+      "Sim-to-real VLA training",
+      "Transfer learning"
+    ],
+    "fitReason": "Useful causal/world-model research match through recent physically evaluated VLA simulation-to-real work. His broader agenda is causal discovery and transferable representations rather than an established independent US manipulation lab.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The 2026 Mirage2Matter paper uses reconstructed Gaussian scenes to generate training data for PoSA-VLA, then evaluates the learned policies on a physical AlphaBot 1s with a seven-DoF arm. Actual tasks cover grasping, button pressing and planar pushing/pulling, with 30 trials per task/object. Zhang is a coauthor in a multi-country collaboration; the apparatus is not verified at CMU.",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "degree-only · concurrent overseas visit",
+      "summary": "No external-master’s short-visit invitation was found on the inspected personal or university pages. CMU’s Philosophy Graduate Research Visitors page explicitly targets relevant PhD researchers for a few weeks or a term; that departmental invitation is not evidence of master’s eligibility.",
+      "sourceIds": [
+        "s2",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 36,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct embodied world-model/VLA coauthorship within a broad causal-learning program.",
+      "physical": "Actual physical VLA transfer but multi-country collaboration without verified CMU apparatus.",
+      "shortVisit": "No master’s short-visit offer; departmental visitor invitation is PhD-scoped.",
+      "freshness": "Full 2026 physical preprint and current dual-affiliation official pages."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.cmu.edu / source 1",
+        "url": "https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html",
+        "summary": "Full current official page confirms CMU professor and machine-learning affiliate.",
+        "verifiedAt": "2026-10-01T05:46:53Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "www.andrew.cmu.edu / source 2",
+        "url": "https://www.andrew.cmu.edu/user/kunz1/",
+        "summary": "Full university-hosted personal page explicitly lists CMU professor, MBZUAI visiting professor and public CMU email.",
+        "verifiedAt": "2026-10-01T05:46:53Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "mbzuai.ac.ae / source 3",
+        "url": "https://mbzuai.ac.ae/academics/faculty-directory/kun-zhang",
+        "summary": "Full current directory corroborates concurrent Visiting Professor of Machine Learning role; US summer availability is not stated.",
+        "verifiedAt": "2026-10-01T05:46:53Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2602.00096v1",
+        "summary": "Full Mirage2Matter paper verifies actual AlphaBot 1s VLA deployment and separates synthetic training trajectories from physical trials.",
+        "verifiedAt": "2026-10-01T05:46:53Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/abs/2602.00096",
+        "summary": "Primary submission record confirms the 2026 preprint and author identity; no venue inferred from placeholder template.",
+        "verifiedAt": "2026-10-01T05:46:53Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "www.cmu.edu / source 6",
+        "url": "https://www.cmu.edu/dietrich/philosophy/research/cfe/grad-visits.html",
+        "summary": "Full departmental visitor invitation specifically concerns relevant PhD researchers, not an external-master’s offer.",
+        "verifiedAt": "2026-10-01T05:46:53Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Official CMU and MBZUAI pages support concurrent affiliations. His Summer 2027 physical presence in the United States, Pittsburgh mentoring capacity and local robot access are unconfirmed. Do not silently treat the MBZUAI group or apparatus as a US host.",
+      "Mirage2Matter demonstrates actual learned execution, not just visually plausible simulated interaction. Its physical evidence remains capped at 20 because the collaboration does not establish apparatus ownership or visitor access through Zhang at CMU.",
+      "The preprint contains unfilled conference-template metadata; describe it as a 2026 preprint and do not infer a conference acceptance from the template.",
+      "The Philosophy visitor page invites PhD-level scholars. Reuse CMU’s separately verified Student Intern and Collaborating Visitor notes for possible external-master’s institutional eligibility; neither supplies an individual invitation.",
+      "Eight-week scope, funding, remote participation and Summer 2027 acceptance remain unknown. Do not confuse this causal-ML researcher with the UCSD bioengineering or other same-name academics.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: This is the first precisely preserved candidate-specific primary discovery (Mirage2Matter search result). An earlier un-timestamped name-only lead appeared during related-author browsing; no exact earlier discovery time is invented.",
+      "[Institutional visitor rules](../eligibility_notes.md#cmu-student-intern)"
+    ],
+    "discoveryTimestampNote": "This is the first precisely preserved candidate-specific primary discovery (Mirage2Matter search result). An earlier un-timestamped name-only lead appeared during related-author browsing; no exact earlier discovery time is invented.",
+    "publicEmail": "kunz1@cmu.edu"
+  }
+]

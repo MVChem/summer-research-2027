@@ -1,0 +1,105 @@
+[
+  {
+    "id": "he-helen-huang",
+    "name": "He (Helen) Huang",
+    "aliases": [
+      "He Huang",
+      "Helen Huang"
+    ],
+    "school": "North Carolina State University / University of North Carolina at Chapel Hill",
+    "homepage": "https://nrel.bme.unc.edu/",
+    "title": "Jackson Family Distinguished Professor",
+    "department": "Lampe Joint Department of Biomedical Engineering; NREL based at NC State",
+    "batch": "hri-039",
+    "discoveredAt": "2026-10-01T02:18:24Z",
+    "verifiedAt": "2026-10-01T02:21:06Z",
+    "researchAreas": [
+      "Inverse reinforcement learning",
+      "Human-in-the-loop robot control",
+      "Wearer–robot co-adaptation",
+      "Robotic prostheses",
+      "Neural-machine interfaces"
+    ],
+    "fitReason": "Substantial AI-method overlap beyond rehabilitation hardware: inverse reinforcement learning defines personalized objectives for an RL prosthesis controller using both human and robot states. This supports focused work in reward inference, adaptation or safe control evaluation.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "NC State’s November 2025 primary institutional report describes physical robotic-knee trials with five participants, comparing earlier robot-only RL tuning against bilevel IRL/RL incorporating human hip movement. It identifies the publication date as November 18, 2025, despite later2026 volume listings. A February 2026 report separately verifies a nine-participant, four-day powered-prosthesis study of body-image/motor adaptation; this is not a new RL algorithm. The full bilevel manuscript could not be retrieved, so algorithm/hardware specifics beyond the official report are not asserted.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown · NC State两个月与八周需区分",
+      "summary": "The lab’s current interested-students page recruits PhD applicants and admitted/enrolled NC State ECE/MAE PhD students. It also records completion of a visiting ETH master’s thesis, which is historical precedent only and receives no current-opportunity points. No explicit external-master’s summer inquiry route verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 24,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "38/40: direct inverse-RL/RL personalization and human–robot co-adaptation methods.",
+      "physical": "24/25: detailed official report verifies actual powered-prosthesis experiments, but full bilevel primary manuscript retrieval failed.",
+      "shortVisit": "0/20: historical visiting-master’s completion and current PhD recruitment do not establish a current short visit route.",
+      "freshness": "15/15: substantive February 2026 physical wearer–robot study and current publications; principal IRL/RL experiment is explicitly 2025."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "directory.ncsu.edu / source 1",
+        "url": "https://directory.ncsu.edu/users/hhuang11",
+        "summary": "Full current official directory verifies distinguished title, joint BME, NC State office and public email.",
+        "verifiedAt": "2026-10-01T02:21:06Z"
+      },
+      {
+        "id": "s2",
+        "label": "nrel.bme.unc.edu / source 2",
+        "url": "https://nrel.bme.unc.edu/for-interested-students/",
+        "summary": "Full current lab recruitment page distinguishes PhD intake from the historical visiting ETH master’s thesis completion.",
+        "verifiedAt": "2026-10-01T02:21:06Z"
+      },
+      {
+        "id": "s3",
+        "label": "nrel.bme.unc.edu / source 3",
+        "url": "https://nrel.bme.unc.edu/publications/",
+        "summary": "Current lab publication list explicitly assigns bilevel IRL/RL paper to2025 and identifies distinct2026 studies.",
+        "verifiedAt": "2026-10-01T02:21:06Z"
+      },
+      {
+        "id": "s4",
+        "label": "research.ncsu.edu / source 4",
+        "url": "https://research.ncsu.edu/how-modified-robotic-prosthetics-could-help-address-hip-back-problems-for-amputees/",
+        "summary": "Full November 20, 2025 university report: five real prosthesis-wearer tests, human hip and robotic-knee measurements, bilevel IRL/RL; article publishedNovember18.",
+        "verifiedAt": "2026-10-01T02:21:06Z"
+      },
+      {
+        "id": "s5",
+        "label": "news.ncsu.edu / source 5",
+        "url": "https://news.ncsu.edu/2026/02/perception-of-body-prosthetics/",
+        "summary": "Full February 17, 2026 university report: nine participants practicing with a powered prosthesis over four days; body-image/motor adaptation, not new RL control.",
+        "verifiedAt": "2026-10-01T02:21:06Z"
+      }
+    ],
+    "unknowns": [
+      "Confirm which campus and administrative unit would host the visit; a joint department does not make NC State and UNC visitor policies interchangeable.",
+      "NC State Student Intern policy has a two-month minimum; a fixed eight-week visit is 56 days and needs different dates or a category decision. Existing institutional supplement has the exact sources.",
+      "Clinical activities are excluded under NC State Student Intern rules; patient-related work and human-subject access need explicit institutional approval. A computational/bench project may be more feasible, but is not promised.",
+      "Host capacity, funding, summer presence, approximately eight weeks and project scope remain unknown.",
+      "Five-person proof-of-concept results do not establish long-term clinical benefit. Historical visiting-master’s precedent is not a current vacancy.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "hhuang11@ncsu.edu"
+  }
+]

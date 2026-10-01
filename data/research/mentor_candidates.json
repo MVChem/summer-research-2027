@@ -133,7 +133,8 @@
     "batches/hri-035.json",
     "batches/hri-036.json",
     "batches/hri-037.json",
-    "batches/hri-038.json"
+    "batches/hri-038.json",
+    "batches/hri-039.json"
   ],
   "candidates": [
     {
@@ -8788,6 +8789,36 @@
       "shortVisitStatus": "inquiry-only · NDVS资金与类别待确认",
       "recordFile": "batches/hri-038.json",
       "detailPage": "batches/hri-038.md#ken-nakagaki"
+    },
+    {
+      "id": "he-helen-huang",
+      "name": "He (Helen) Huang",
+      "aliases": [
+        "He Huang",
+        "Helen Huang"
+      ],
+      "school": "North Carolina State University / University of North Carolina at Chapel Hill",
+      "title": "Jackson Family Distinguished Professor",
+      "homepage": "https://nrel.bme.unc.edu/",
+      "batch": "hri-039",
+      "discoveredAt": "2026-10-01T02:18:24Z",
+      "verifiedAt": "2026-10-01T02:21:06Z",
+      "scores": {
+        "fit": 38,
+        "physical": 24,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Inverse reinforcement learning",
+        "Human-in-the-loop robot control",
+        "Wearer–robot co-adaptation",
+        "Robotic prostheses",
+        "Neural-machine interfaces"
+      ],
+      "shortVisitStatus": "unknown · NC State两个月与八周需区分",
+      "recordFile": "batches/hri-039.json",
+      "detailPage": "batches/hri-039.md#he-helen-huang"
     }
   ]
 }

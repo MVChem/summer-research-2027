@@ -9,7 +9,7 @@
     "department": "School of Computing and Augmented Intelligence",
     "batch": "control-061",
     "discoveredAt": "2026-10-01T04:44:05Z",
-    "verifiedAt": "2026-10-01T04:48:33Z",
+    "verifiedAt": "2026-10-01T17:45:20Z",
     "researchAreas": [
       "Robust visuomotor policies",
       "Bayesian optimization for robot learning",
@@ -29,21 +29,22 @@
     },
     "shortVisit": {
       "status": "inquiry-only · explicitly unfunded",
-      "summary": "Current LENS joining page has a separate Visiting Scholars section inviting people outside ASU to express interest through a form, while explicitly saying the lab cannot fund their research or visit. This is a lab-level external inquiry route, distinct from the separate ASU-only MS intake. Eight-week duration, external-master eligibility, physical attendance and summer 2027 availability are not stated.",
+      "summary": "Current outside-ASU visitor form explicitly includes master’s students. The lab cannot host visitors without their own funding. Duration, onsite arrangements, summer 2027 capacity and approved institutional appointment remain unconfirmed.",
       "sourceIds": [
-        "s2"
+        "s7",
+        "s8"
       ]
     },
     "scores": {
       "fit": 39,
       "physical": 25,
-      "shortVisit": 8,
+      "shortVisit": 10,
       "freshness": 15
     },
     "scoreReasons": {
       "fit": "Substantive learned visuomotor adaptation and reliability research in manipulation.",
       "physical": "Named executed ACT robot study with current LENS student authors and explicit LENS affiliation; simulation results kept separate.",
-      "shortVisit": "Explicit lab-level outside-ASU visitor inquiry, but no duration, external-master classification, funding or 2027 confirmation.",
+      "shortVisit": "Complete live form explicitly confirms outside-master-compatible visiting inquiry; duration, sponsorship and actual placement remain unconfirmed.",
       "freshness": "May 18, 2026 RoboMD revision plus current official faculty and lab pages; main clean hardware evidence is October 2025."
     },
     "sources": [
@@ -94,12 +95,29 @@
         "summary": "Version history confirms latest May 18, 2026 revision.",
         "verifiedAt": "2026-10-01T04:48:33Z",
         "retrieval": "Direct official or author-primary HTML via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "Later complete visitor route route_page_20261001",
+        "url": "https://ransml.github.io/lens-lab/joinus.html",
+        "summary": "Separate outside-ASU Visiting Scholars section links the prospective visitor form and says LENS cannot fund visitors.",
+        "verifiedAt": "2026-10-01T17:44:35Z",
+        "retrieval": "Full current primary joining page via web.run"
+      },
+      {
+        "id": "s8",
+        "label": "Later complete visitor route route_form_20261001",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSd03FK99jQUALX2sTZNj6gvFU-lCigGJvA3onAbgWDqEWM-dA/viewform?usp=send_form",
+        "summary": "Prospective Visiting Scholars form explicitly welcomes outside-ASU undergraduate, post-baccalaureate, master’s, PhD, postdoc and faculty inquiries. Visitors must have their own funding. It asks current institution, alignment, cover letter, CV, referees, funding source and visa-assistance need. Reused fields mention desired PhD start and funding years; no minimum duration or PhD enrollment requirement is stated.",
+        "verifiedAt": "2026-10-01T17:45:20Z",
+        "retrieval": "Complete live single-page form read in cloud browser; no entries, uploads or submission"
       }
     ],
     "unknowns": [
-      "No funding commitment; conditional personal funding does not establish admission or sponsorship. Reuse existing ASU category analysis: scholar pathways accept personal financial evidence, Student Non-Degree requires at least 51% non-personal/family support, and exact external-master classification/Student Intern funding remain for ISSC approval. No blanket full-self-funding conclusion. Visitor form failed to load in this check; the invitation itself was directly readable. No form was submitted.",
+      "The earlier form-loading failure is superseded by the later complete form read. Outside-ASU masters are explicitly included, and visitors must arrange their own support; this is not a promise that personal funds meet the university category. ASU scholar pathways accept personal financial evidence, whereas Student Non-Degree requires at least51% non-personal/family support. Exact outside-master classification and financial approval remain with ISSC.",
       "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
-      "[Institutional visitor rules](../eligibility_notes.md#asu-visiting-categories)"
+      "[Institutional visitor rules](../eligibility_notes.md#asu-visiting-categories)",
+      "The complete current form resolves the previous unread-form and unknown master’s-inquiry eligibility caveats. It does not establish a place or funding approval. Reused wording asking about a PhD start date and funding years is not treated as a doctoral-only requirement or a minimum visit duration."
     ],
     "publicEmail": "ransalu@asu.edu"
   },

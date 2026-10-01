@@ -1587,7 +1587,7 @@
       "homepage": "https://www.shreyaskousik.com/",
       "batch": "control-006",
       "discoveredAt": "2026-09-30T22:04:48Z",
-      "verifiedAt": "2026-10-01T17:40:07Z",
+      "verifiedAt": "2026-10-01T17:59:54Z",
       "scores": {
         "fit": 40,
         "physical": 23,
@@ -2229,7 +2229,7 @@
       "homepage": "https://www.rkcosner.com/",
       "batch": "control-016",
       "discoveredAt": "2026-09-30T23:31:29Z",
-      "verifiedAt": "2026-09-30T23:34:18Z",
+      "verifiedAt": "2026-10-01T17:42:42Z",
       "scores": {
         "fit": 40,
         "physical": 25,
@@ -3776,11 +3776,11 @@
       "homepage": "https://ransml.github.io/lens-lab/",
       "batch": "control-061",
       "discoveredAt": "2026-10-01T04:44:05Z",
-      "verifiedAt": "2026-10-01T04:48:33Z",
+      "verifiedAt": "2026-10-01T17:45:20Z",
       "scores": {
         "fit": 39,
         "physical": 25,
-        "shortVisit": 8,
+        "shortVisit": 10,
         "freshness": 15
       },
       "researchAreas": [

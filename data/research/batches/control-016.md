@@ -14,7 +14,7 @@
 - 匹配理由：Directly combines model-based safety with robot reinforcement learning and deployable perception/control. Current Tufts-led humanoid experiments establish a particularly strong learning-plus-hardware match.
 - 真机证据（public-hardware-evidence）：MARCH (June 9, 2026), coauthored by two Tufts researchers, trains a model-guided RL teacher and distills it into a vision/proprioception student. Section 6.2 deploys the student on an actual Unitree G1 using onboard Jetson Orin NX and chest-mounted RealSense D435i at about 50 Hz, traversing four stepping stones. The authors acknowledge hardware repeatability below simulation; no unconditional safety guarantee or benchmark success rate is inferred.
 - 短访证据（unknown）：Current join page directs undergraduate/master's recruiting to Tufts students. Its April 2026 RF/RI flyer explicitly requires current Tufts enrollment. Research Intern roles may span summer, but volunteer Research Affiliate roles are only fall/spring and unavailable in summer. No external visiting-master's application route is verified.
-- 首次发现：2026-09-30T23:31:29Z；最后核查：2026-09-30T23:34:18Z
+- 首次发现：2026-09-30T23:31:29Z；最后核查：2026-10-01T17:42:42Z
 - 当前总分：80/100；评分依据：
   - fit 40/40：Safety-critical learning, model-assisted RL and physical humanoid control directly match the research theme.
   - physical 25/25：Current Tufts-authored work documents actual onboard G1 deployment, not solely prior Caltech collaboration or planned hardware.
@@ -28,4 +28,5 @@
   - [bpb-us-e1.wpmucdn.com / source 4](https://bpb-us-e1.wpmucdn.com/sites.tufts.edu/dist/e/8346/files/2026/04/SPARC_Lab_RF___RI_Opportunities_updated_4_13.pdf)：Two-page university-linked flyer requires current Tufts enrollment; paid/for-credit RI includes summer, volunteer RF does not. Equipment list is explicitly planned.（核查 2026-09-30T23:34:18Z；读取方式 direct university-linked PDF full text via web.run）
   - [arxiv.org / source 5](https://arxiv.org/abs/2606.10288)：June 9, 2026 MARCH preprint, Codrin Crismariu and Ryan K. Cosner authorship.（核查 2026-09-30T23:34:18Z；读取方式 direct author manuscript abstract via web.run）
   - [arxiv.org / source 6](https://arxiv.org/html/2606.10288v1)：Tufts affiliations, model-assisted RL and hardware Section 6.2; limitations explicitly acknowledge less repeatable physical transfer.（核查 2026-09-30T23:34:18Z；读取方式 direct primary manuscript HTML via web.run）
+  - [Later reread of local RF/RI category limits](https://bpb-us-e1.wpmucdn.com/sites.tufts.edu/dist/e/8346/files/2026/04/SPARC_Lab_RF___RI_Opportunities_updated_4_13.pdf)：The flyer requires current Tufts enrollment for both Research Affiliate and Research Intern roles. Volunteer Research Affiliates are available only during spring/fall, not summer. Paid/for-credit Research Intern terms explicitly include summer. The same distinction was already retained by2026-09-30T23:34:18Z; this is a later verification.（核查 2026-10-01T17:42:42Z；读取方式 Full two-page university-linked primary PDF re-read）
 

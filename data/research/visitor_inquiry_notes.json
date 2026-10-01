@@ -9,9 +9,10 @@
       ]
     },
     "ransalu-senanayake": {
-      "note": "明确无资助；ASU访问类别与个人资金适用性未定",
+      "note": "完整outside-ASU/Masters访客表单；必须自备经费，实验室不资助；表单沿用PhD-start/funding-years字段不等于PhD-only或最短期限，ASU类别/财力仍另核",
       "sourceIds": [
-        "s2"
+        "s7",
+        "s8"
       ]
     },
     "animesh-garg": {

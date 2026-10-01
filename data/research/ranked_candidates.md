@@ -10,7 +10,7 @@
 |---:|---|---|---|---|---|
 | 1 | [Mingyu Ding](batches/embodied-002.md#mingyu-ding) · University of North Carolina at Chapel Hill · **近期已到岗 AP（2024起）** | 90 (40/25/10/15) | inquiry-only · 硕士/外校/现场或远程；先表单后邮件 | 2026-09-30T21:32:25Z | 2026-10-01T13:44:20Z |
 | 2 | [Kuan Fang](batches/embodied-023.md#kuan-fang) · Cornell University · **近期已到岗 AP（2024起）** | 90 (40/25/10/15) | inquiry-only | 2026-09-30T23:58:43Z | 2026-10-01T13:56:35Z |
-| 3 | [Ryan K. Cosner](batches/control-016.md#ryan-k-cosner) · Tufts University · **近期已到岗 AP（2024起）** | 80 (40/25/0/15) | unknown | 2026-09-30T23:31:29Z | 2026-09-30T23:34:18Z |
+| 3 | [Ryan K. Cosner](batches/control-016.md#ryan-k-cosner) · Tufts University · **近期已到岗 AP（2024起）** | 80 (40/25/0/15) | unknown | 2026-09-30T23:31:29Z | 2026-10-01T17:42:42Z |
 | 4 | [Preston Culbertson](batches/embodied-022.md#preston-culbertson) · Cornell University · **近期已到岗 AP（2024起）** | 80 (40/25/0/15) | unknown | 2026-09-30T23:51:53Z | 2026-09-30T23:58:03Z |
 | 5 | [Ruohan Zhang](batches/embodied-010.md#ruohan-zhang) · Northwestern University · **近期已到岗 AP（2024起）** | 85 (40/20/10/15) | inquiry-only | 2026-09-30T22:42:58Z | 2026-10-01T14:26:51Z |
 | 6 | [Glen Chou](batches/control-006.md#glen-chou) · Georgia Institute of Technology · **近期已到岗 AP（2024起）** | 75 (40/20/0/15) | unknown | 2026-09-30T22:04:48Z | 2026-09-30T22:08:52Z |
@@ -122,10 +122,10 @@
 | 112 | [Maria Kyrarini](batches/hri-008.md#maria-kyrarini) · Santa Clara University · **其他 AP；较早任职、转校或入职年待核** | 75 (40/20/0/15) | unknown | 2026-09-30T22:23:11Z | 2026-09-30T22:26:44Z |
 | 113 | [Ruoshi Liu](batches/embodied-027.md#ruoshi-liu) · University of Maryland, College Park · **其他 AP；较早任职、转校或入职年待核** | 75 (40/20/0/15) | unknown | 2026-10-01T00:31:06Z | 2026-10-01T00:46:00Z |
 | 114 | [Animesh Garg](batches/embodied-001.md#animesh-garg) · Georgia Institute of Technology · **其他 AP；较早任职、转校或入职年待核** | 89 (39/25/10/15) | inquiry-only | 2026-09-30T21:21:32Z | 2026-09-30T21:36:49Z |
-| 115 | [Negar Mehr](batches/control-001.md#negar-mehr) · University of California, Berkeley · **其他 AP；较早任职、转校或入职年待核** | 87 (39/25/8/15) | inquiry-only | 2026-09-30T21:21:57Z | 2026-09-30T21:24:34Z |
-| 116 | [Tesca Fitzgerald](batches/hri-003.md#tesca-fitzgerald) · Yale University · **其他 AP；较早任职、转校或入职年待核** | 87 (39/25/8/15) | inquiry-only · Yale VAR资助/论文条件 | 2026-09-30T21:36:19Z | 2026-09-30T22:33:54Z |
-| 117 | [Lifeng Zhou](batches/embodied-025.md#lifeng-zhou) · Drexel University · **其他 AP；较早任职、转校或入职年待核** | 87 (39/25/8/15) | inquiry-only | 2026-10-01T00:14:07Z | 2026-10-01T00:15:41Z |
-| 118 | [Ransalu Senanayake](batches/control-061.md#ransalu-senanayake) · Arizona State University · **其他 AP；较早任职、转校或入职年待核** | 87 (39/25/8/15) | inquiry-only · explicitly unfunded | 2026-10-01T04:44:05Z | 2026-10-01T04:48:33Z |
+| 115 | [Ransalu Senanayake](batches/control-061.md#ransalu-senanayake) · Arizona State University · **其他 AP；较早任职、转校或入职年待核** | 89 (39/25/10/15) | inquiry-only · explicitly unfunded | 2026-10-01T04:44:05Z | 2026-10-01T17:45:20Z |
+| 116 | [Negar Mehr](batches/control-001.md#negar-mehr) · University of California, Berkeley · **其他 AP；较早任职、转校或入职年待核** | 87 (39/25/8/15) | inquiry-only | 2026-09-30T21:21:57Z | 2026-09-30T21:24:34Z |
+| 117 | [Tesca Fitzgerald](batches/hri-003.md#tesca-fitzgerald) · Yale University · **其他 AP；较早任职、转校或入职年待核** | 87 (39/25/8/15) | inquiry-only · Yale VAR资助/论文条件 | 2026-09-30T21:36:19Z | 2026-09-30T22:33:54Z |
+| 118 | [Lifeng Zhou](batches/embodied-025.md#lifeng-zhou) · Drexel University · **其他 AP；较早任职、转校或入职年待核** | 87 (39/25/8/15) | inquiry-only | 2026-10-01T00:14:07Z | 2026-10-01T00:15:41Z |
 | 119 | [Xuan Wang](batches/control-095.md#xuan-wang) · George Mason University · **其他 AP；较早任职、转校或入职年待核** · **受限真机证据：Current directed-group collaborative physical RL; manual data collection and autonomous policy trials distinguished** | 87 (39/25/8/15) | inquiry-only · generic intern；GMU不赞助intern身份，硕士类别未定 | 2026-10-01T10:38:48Z | 2026-10-01T10:44:03Z |
 | 120 | [Zhiwen Fan](batches/embodied-023.md#zhiwen-fan) · Texas A&M University · **其他 AP；较早任职、转校或入职年待核** | 84 (39/25/5/15) | conditional-inquiry · intern需US-based，访客范围未明 | 2026-09-30T23:58:43Z | 2026-10-01T00:19:26Z |
 | 121 | [Daniel Seita](batches/embodied-001.md#daniel-seita) · University of Southern California · **其他 AP；较早任职、转校或入职年待核** | 82 (39/25/5/13) | inquiry-only | 2026-09-30T21:21:59Z | 2026-09-30T21:28:42Z |
@@ -607,6 +607,6 @@
 | 597 | [Zhongzheng (Jason) Ren](batches/embodied-003.md#zhongzheng-jason-ren) · University of North Carolina at Chapel Hill · **明确至少三个月；降低首联优先级** | 74 (39/20/0/15) | longer-visit inquiry · generally minimum one semester / four months | 2026-09-30T21:37:18Z | 2026-10-01T15:46:17Z |
 | 598 | [Cheng Zhang](batches/embodied-103.md#cheng-zhang-tamu) · Texas A&M University · **明确至少三个月；降低首联优先级** · **受限真机证据：historical-or-indirect** · **Texas A&M同名导师；不是原名单152 Cornell** | 70 (35/20/0/15) | minimum-6-months · 明确无短期岗位，较长访问仅条件性询问 | 2026-10-01T14:25:03Z † | 2026-10-01T15:02:03Z |
 | 599 | [Xiaofan Yu](batches/control-106.md#xiaofan-yu) · University of California, Merced · **明确至少三个月；降低首联优先级** · **仅仿真；真机待核实** | 55 (32/0/8/15) | inquiry-only · 最低3–6个月；降低短期优先级 | 2026-10-01T11:47:43Z | 2026-10-01T12:07:29Z |
-| 600 | [Shreyas Kousik](batches/control-006.md#shreyas-kousik) · Georgia Institute of Technology · **当前明确暂停相关访问/暑期入口** | 78 (40/23/0/15) | current MS-stage intake closed · visiting students follow stage restrictions | 2026-09-30T22:04:48Z | 2026-10-01T17:40:07Z |
+| 600 | [Shreyas Kousik](batches/control-006.md#shreyas-kousik) · Georgia Institute of Technology · **当前明确暂停相关访问/暑期入口** | 78 (40/23/0/15) | current MS-stage intake closed · visiting students follow stage restrictions | 2026-09-30T22:04:48Z | 2026-10-01T17:59:54Z |
 
 † 时间口径例外：此条使用首次可精确保留的来源观察/核查记录时间，不能断言为最早遇到该线索的时刻。未重建更早时间；原值保持不变，具体限制见详情和索引的 discoveryTimestampNote。

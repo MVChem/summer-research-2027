@@ -100,9 +100,9 @@
 
 ### Shreyas Kousik（新增候选）
 
-- 适用范围：Current new MS research intake, including visiting students who are directed to the MS-stage instructions
-- **当前不招MS，visiting students须遵循对应学段规则；不是所有学者/永久/仅暑期禁令。另须已有独立GT行程，无此承诺时不提供签证申请费或stipend**
-- 核查：2026-10-01T17:40:07Z · [来源1](https://robotdangerlab.me.gatech.edu/student-recruitment/)
+- 适用范围：Current MS recruitment; already-committed visiting students are directed to corresponding career-stage rules
+- **当前不招MS；已确定独立GT行程的访客按对应学段规则询问。尚无独立行程时无签证申请费/stipend资金；不是所有访客的先决资格或普遍暑期禁令**
+- 核查：2026-10-01T17:59:54Z · [来源1](https://robotdangerlab.me.gatech.edu/student-recruitment/)
 
 ## 明确最短时长
 
@@ -315,4 +315,10 @@
 - 适用范围：Formal outside-university visiting researchers versus informal volunteering
 - **外校访问可询问但必须走正式校方项目；实验室不资助访客，不允许非正式volunteer，不能概括为所有访客关闭**
 - 核查：2026-10-01T17:36:21Z · [来源1](https://depts.washington.edu/ctrl/join/)
+
+### Ryan K. Cosner（新增候选）
+
+- 适用范围：Only advertised current-Tufts RF/RI roles; summer restriction is RF-specific
+- **两类均须Tufts在读；志愿Research Affiliate无暑期，付费/学分Research Intern明确可暑期。不是全部暑期intern禁招，也未建立外校硕士入口**
+- 核查：2026-10-01T17:42:42Z · [来源1](https://bpb-us-e1.wpmucdn.com/sites.tufts.edu/dist/e/8346/files/2026/04/SPARC_Lab_RF___RI_Opportunities_updated_4_13.pdf)
 

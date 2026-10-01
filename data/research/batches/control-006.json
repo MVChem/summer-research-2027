@@ -89,7 +89,7 @@
     "department": "Mechanical Engineering",
     "batch": "control-006",
     "discoveredAt": "2026-09-30T22:04:48Z",
-    "verifiedAt": "2026-10-01T17:40:07Z",
+    "verifiedAt": "2026-10-01T17:59:54Z",
     "researchAreas": [
       "safe robot learning",
       "reachability-based planning",
@@ -110,9 +110,9 @@
     },
     "shortVisit": {
       "status": "current MS-stage intake closed · visiting students follow stage restrictions",
-      "summary": "The current page is not seeking MS students. Its visiting-student section directs visitors to the corresponding career-stage instructions and requires an independent existing travel commitment to Georgia Tech. Without that commitment it cannot fund visa applications or stipends. This is a current MS-stage restriction, not a universal or permanent visitor ban or a summer-only rule.",
+      "summary": "The visiting-student paragraph is conditional: those already committed to time at Georgia Tech are directed to the corresponding career-stage instructions. For people without a travel commitment independent of the lab, it cannot currently fund visa applications, stipends or similar expenses. Neither sentence establishes a universal prior-travel eligibility rule or promises funding to those already committed. The MS section separately says it is not currently looking for MS students. This is a current MS-stage restriction, not a universal or permanent visitor ban or a summer-only rule.",
       "sourceIds": [
-        "s6"
+        "s7"
       ]
     },
     "scores": {
@@ -124,7 +124,7 @@
     "scoreReasons": {
       "fit": "Direct safe robot learning, learned models, and practical manipulation.",
       "physical": "Own-lab physical prototype plus current collaborative learned-control hardware; limited detail on complete own-lab inventory.",
-      "shortVisit": "Current MS recruitment is closed and visitors are instructed to follow their career-stage restrictions; preserve zero external-master short-visit points. Independent GT travel commitment and funding limitations do not establish an exception.",
+      "shortVisit": "Current MS intake is explicitly closed. Already-committed GT visitors are directed to the relevant career-stage steps; absent an independent travel commitment there is no visa/stipend funding. These conditional statements do not establish an available external-master short visit.",
       "freshness": "Dated February2026 official prototype report and revised2026 robot-learning paper."
     },
     "sources": [
@@ -170,11 +170,19 @@
       },
       {
         "id": "s6",
-        "label": "Current recruitment restrictions, page updated 2026-08-24",
+        "label": "Current recruitment restrictions, page updated 2026-08-24; travel-prerequisite interpretation superseded by s7",
         "url": "https://robotdangerlab.me.gatech.edu/student-recruitment/",
         "summary": "Current MS section says the lab is not looking for MS students. PhD intake is closed for 2026–27 and 2027–28. Undergraduates are also not being sought. Visiting students must already have an independent travel commitment to Georgia Tech and follow the corresponding career-stage instructions; without that independent commitment, the lab cannot fund visa applications or stipends. Postdoc funding is unavailable.",
         "verifiedAt": "2026-10-01T17:40:07Z",
         "retrieval": "Complete live cloud-browser official lab recruitment page"
+      },
+      {
+        "id": "s7",
+        "label": "Later correction of conditional visitor wording",
+        "url": "https://robotdangerlab.me.gatech.edu/student-recruitment/",
+        "summary": "The visiting-student paragraph is conditional: those already committed to time at Georgia Tech are directed to the corresponding career-stage instructions. For people without a travel commitment independent of the lab, it cannot currently fund visa applications, stipends or similar expenses. Neither sentence establishes a universal prior-travel eligibility rule or promises funding to those already committed. The MS section separately says it is not currently looking for MS students.",
+        "verifiedAt": "2026-10-01T17:59:54Z",
+        "retrieval": "Complete live primary recruitment page, independently inspected"
       }
     ],
     "unknowns": [
@@ -182,7 +190,8 @@
       "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
       "The previous lab-retrieval limitation is superseded by the later complete recruitment-page observation; earlier source observations remain retained.",
       "PhD intake is separately closed for2026–27 and2027–28. Already-admitted GT student inquiries are not an outside-master exception. No future reopening date or permanent closure is inferred.",
-      "The volunteer-semester condition is attached to the MS research-for-credit pathway after any reopening; it does not create a currently open informal visitor position."
+      "The volunteer-semester condition is attached to the MS research-for-credit pathway after any reopening; it does not create a currently open informal visitor position.",
+      "The earlier source summary treated independent GT travel as a universal prerequisite; the later complete-page interpretation above supersedes that inference. No funding promise follows merely from already having a travel commitment."
     ],
     "publicEmail": "shreyas.kousik@me.gatech.edu"
   },

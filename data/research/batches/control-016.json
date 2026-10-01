@@ -11,7 +11,7 @@
     "department": "Mechanical Engineering",
     "batch": "control-016",
     "discoveredAt": "2026-09-30T23:31:29Z",
-    "verifiedAt": "2026-09-30T23:34:18Z",
+    "verifiedAt": "2026-10-01T17:42:42Z",
     "researchAreas": [
       "safe robot learning",
       "model-assisted reinforcement learning",
@@ -41,7 +41,8 @@
         "s3",
         "s4",
         "s5",
-        "s6"
+        "s6",
+        "s7"
       ]
     },
     "scores": {
@@ -104,6 +105,14 @@
         "summary": "Tufts affiliations, model-assisted RL and hardware Section 6.2; limitations explicitly acknowledge less repeatable physical transfer.",
         "verifiedAt": "2026-09-30T23:34:18Z",
         "retrieval": "direct primary manuscript HTML via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "Later reread of local RF/RI category limits",
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.tufts.edu/dist/e/8346/files/2026/04/SPARC_Lab_RF___RI_Opportunities_updated_4_13.pdf",
+        "summary": "The flyer requires current Tufts enrollment for both Research Affiliate and Research Intern roles. Volunteer Research Affiliates are available only during spring/fall, not summer. Paid/for-credit Research Intern terms explicitly include summer. The same distinction was already retained by2026-09-30T23:34:18Z; this is a later verification.",
+        "verifiedAt": "2026-10-01T17:42:42Z",
+        "retrieval": "Full two-page university-linked primary PDF re-read"
       }
     ],
     "unknowns": [

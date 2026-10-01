@@ -206,7 +206,8 @@
     "batches/hri-062.json",
     "batches/hri-063.json",
     "batches/hri-064.json",
-    "batches/hri-065.json"
+    "batches/hri-065.json",
+    "batches/hri-066.json"
   ],
   "candidates": [
     {
@@ -11508,6 +11509,36 @@
       "shortVisitStatus": "inquiry-only · live external-degree invitation",
       "recordFile": "batches/hri-065.json",
       "detailPage": "batches/hri-065.md#shanshan-yao"
+    },
+    {
+      "id": "jonathan-francis",
+      "name": "Jonathan Francis",
+      "aliases": [
+        "Jon Francis"
+      ],
+      "school": "Carnegie Mellon University",
+      "title": "Courtesy Faculty; primary appointment: Lead Research Scientist, Bosch Center for Artificial Intelligence",
+      "homepage": "https://www.ri.cmu.edu/ri-people/jonathan-francis/",
+      "batch": "hri-066",
+      "discoveredAt": "2026-10-01T05:45:03Z",
+      "verifiedAt": "2026-10-01T05:48:29Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Robot learning",
+        "Vision-language-action models",
+        "Cross-embodiment deployment",
+        "Contact-rich manipulation",
+        "Multimodal machine learning",
+        "Human-robot collaboration"
+      ],
+      "shortVisitStatus": "degree-only · courtesy role, host authority unknown",
+      "recordFile": "batches/hri-066.json",
+      "detailPage": "batches/hri-066.md#jonathan-francis"
     }
   ]
 }

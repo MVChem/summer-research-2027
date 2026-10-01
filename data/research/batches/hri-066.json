@@ -1,0 +1,140 @@
+[
+  {
+    "id": "jonathan-francis",
+    "name": "Jonathan Francis",
+    "aliases": [
+      "Jon Francis"
+    ],
+    "school": "Carnegie Mellon University",
+    "homepage": "https://www.ri.cmu.edu/ri-people/jonathan-francis/",
+    "title": "Courtesy Faculty; primary appointment: Lead Research Scientist, Bosch Center for Artificial Intelligence",
+    "department": "Robotics Institute; Carnegie Bosch Institute",
+    "batch": "hri-066",
+    "discoveredAt": "2026-10-01T05:45:03Z",
+    "verifiedAt": "2026-10-01T05:48:29Z",
+    "researchAreas": [
+      "Robot learning",
+      "Vision-language-action models",
+      "Cross-embodiment deployment",
+      "Contact-rich manipulation",
+      "Multimodal machine learning",
+      "Human-robot collaboration"
+    ],
+    "fitReason": "Strong applied embodied-AI fit for policy adaptation, evaluation and reusable robot-learning software. The university link is substantive: official CMU pages list active PhD/MS co-advising and a September 2026 thesis co-chair role. His primary research lab and employment are at Bosch, so CMU visitor-host authority, campus availability and the actual mentoring arrangement require confirmation.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The full May 2026 RIO paper reports physical deployment of fine-tuned pi-0.5 policies on xArm7 and bimanual SO-100 arms, GR00T N1.5 on a Unitree G1 for box pickup, Diffusion Policy on dynamic xArm7 tasks, and simulation-trained PPO policies executed on G1 and Booster T1 humanoids. The training section specifies 150 demonstrations for GR00T and 50 for each Diffusion Policy task; the table caption should not be generalized into a claim of 50 demonstrations for every policy. The study distinguishes teleoperation/data collection from autonomous learned rollouts. RIO is deployment infrastructure using existing model families, primarily per-task/per-embodiment fine-tuning, rather than proof of unrestricted cross-robot generalization. First author Pablo Ortega-Kral is explicitly co-advised by Francis on CMU’s current profile. This is a university-industry collaboration; specific visitor access to hardware and a separate Francis-owned CMU lab are unverified.",
+      "sourceIds": [
+        "s2",
+        "s4",
+        "s5",
+        "s9"
+      ]
+    },
+    "shortVisit": {
+      "status": "degree-only · courtesy role, host authority unknown",
+      "summary": "His current RLL collaboration page describes CMU PhD collaboration after admission, current CMU PhD collaboration, Bosch research internships for mature PhD students, and postdoctoral routes. It does not invite external master’s students for a CMU short visit. A 2026 CMU RIO article identifies a Delft master’s student who visited the team, but does not establish Francis as that visitor’s host or advertise another placement.",
+      "sourceIds": [
+        "s7",
+        "s9"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "39/40: direct foundation-policy deployment, adaptation and multimodal robot-learning fit.",
+      "physical": "20/25: full recent physical learned execution and current advisee linkage, conservatively capped for university-industry attribution and unverified individual campus hardware access.",
+      "shortVisit": "0/20: PhD/postdoc and past visitor evidence do not establish an external-master invitation.",
+      "freshness": "15/15: complete 2026 robot experiment, July official reporting and September active mentoring corroboration."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.ri.cmu.edu / source 1",
+        "url": "https://www.ri.cmu.edu/ri-people/jonathan-francis/",
+        "summary": "Official current Courtesy Faculty, home department CBI, with current doctoral and master’s student links.",
+        "verifiedAt": "2026-10-01T05:48:29Z"
+      },
+      {
+        "id": "s2",
+        "label": "www.ri.cmu.edu / source 2",
+        "url": "https://www.ri.cmu.edu/ri-people/pablo-ortega-kral/",
+        "summary": "Current official PhD profile names Jean Oh and Jonathan Francis as advisers; connects RIO’s first author to his mentoring.",
+        "verifiedAt": "2026-10-01T05:48:29Z"
+      },
+      {
+        "id": "s3",
+        "label": "www.ri.cmu.edu / source 3",
+        "url": "https://www.ri.cmu.edu/event/ri-phd-thesis-defense-ingrid-navarro-anaya/",
+        "summary": "September 18, 2026 PhD defense lists Jonathan Francis as co-chair, establishing recent active university mentoring.",
+        "verifiedAt": "2026-10-01T05:48:29Z"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2605.11564v1",
+        "summary": "Complete RIO paper, Section IV-A and Table III, verifies actual learned policy executions, specific training regimes and generalization limits.",
+        "verifiedAt": "2026-10-01T05:48:29Z"
+      },
+      {
+        "id": "s5",
+        "label": "robot-i-o.github.io / source 5",
+        "url": "https://robot-i-o.github.io/",
+        "summary": "Primary RSS 2026 project page and task videos corroborate physical VLA, diffusion and RL deployments.",
+        "verifiedAt": "2026-10-01T05:48:29Z"
+      },
+      {
+        "id": "s6",
+        "label": "jonfranc.com / source 6",
+        "url": "https://jonfranc.com/",
+        "summary": "Current research focus, primary Bosch leadership and CMU courtesy role.",
+        "verifiedAt": "2026-10-01T05:48:29Z"
+      },
+      {
+        "id": "s7",
+        "label": "jonfranc.com / source 7",
+        "url": "https://jonfranc.com/rll.html",
+        "summary": "Current collaboration routes are PhD, mature-PhD industrial internships and postdocs; no external-master CMU visit invitation.",
+        "verifiedAt": "2026-10-01T05:48:29Z"
+      },
+      {
+        "id": "s8",
+        "label": "jonfranc.com / source 8",
+        "url": "https://jonfranc.com/contact.html",
+        "summary": "Public CMU email and distinct Bosch/CMU contact locations.",
+        "verifiedAt": "2026-10-01T05:48:29Z"
+      },
+      {
+        "id": "s9",
+        "label": "www.cmu.edu / source 9",
+        "url": "https://www.cmu.edu/news/stories/archives/2026/july/cmu-researchers-build-missing-infrastructure-to-move-ai-between-robots",
+        "summary": "July 9, 2026 CMU reporting confirms dual role and RIO team including an outside master’s visitor; it does not identify Francis as that visitor’s host.",
+        "verifiedAt": "2026-10-01T05:48:29Z"
+      },
+      {
+        "id": "s10",
+        "label": "www.cmu.edu / source 10",
+        "url": "https://www.cmu.edu/oie/administrators/docs/j-intern-data-form.pdf",
+        "summary": "Existing reviewed June 2026 institutional form includes master’s Student Interns and current Pittsburgh financial-documentation amount.",
+        "verifiedAt": "2026-10-01T05:26:26Z",
+        "retrieval": "Previously fully verified June 2026 institutional PDF reused"
+      }
+    ],
+    "unknowns": [
+      "Use the exact official Courtesy Faculty designation. Do not relabel him as a full-time CMU professor or imply a separately staffed CMU lab under his sole control.",
+      "Primary employment and Robot Learning Lab leadership are at Bosch. An academic inquiry is not a Bosch internship application or offer, and industrial hardware access does not follow from CMU visitor status.",
+      "Official current MS/PhD advising and thesis committee evidence substantiate active mentoring, but approval to independently sponsor an outside university visitor remains unknown.",
+      "Reuse the existing CMU independent Student Intern and Collaborating Visitor review. RISS is an undergraduate program and does not establish external-master eligibility.",
+      "CMU’s June 2026 Student Intern form explicitly includes master’s students and personal/family funding, with Pittsburgh support of $3,253 per month. This is a financial-documentation threshold, not an eight-week cost quote; 2027 terms require reconfirmation.",
+      "Eight-week duration, university host, funding, remote participation, intellectual-property arrangements, project data access and summer 2027 mentor capacity all remain unconfirmed.",
+      "RIO’s supported-hardware list is broader than the platforms actually evaluated. Do not describe every supported robot as experimentally tested or infer zero-shot policy transfer.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[CMU institutional visitor rules](../eligibility_notes.md#cmu-student-intern)"
+    ],
+    "publicEmail": "jmf1@cs.cmu.edu"
+  }
+]

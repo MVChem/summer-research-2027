@@ -687,3 +687,11 @@ Tacoma 补充核查：2026-10-01T01:02:36Z。[SET visiting appointments](https:/
 核查：2026-10-01T02:26:10Z。[Student Intern 页面](https://www.ohio.edu/international-student-scholar-services/scholars/student-intern-visa) 覆盖境外 postsecondary 学位学生，三周至一年、DS-7002 与原校教育目标关联，未限本科；具体硕士类别仍需 ISSS 决定。[Scholar 邀请图表](https://www.ohio.edu/international-student-scholar-services/faculty-staff-resources/invite-j1-scholar) 明确有薪或 self-funded，Short-Term 最长六个月，但这不自动确认 Intern 的全个人资金许可。
 
 [申请流程](https://www.ohio.edu/international-student-scholar-services/faculty-staff-resources/invite-j1-scholar/application) 需部门发起、chair/director 审批；[Intern maintenance](https://www.ohio.edu/international-student-scholar-services/scholars/student-intern-visa/maintain) 将具体资金材料指向 iCats，本次未进入门户。当前短访支持最低数、大学/bench fee、完整提前期未核实，不套用学位课程学费预算。五工作日签证文件处理不是总流程；保险、研究范围、导师及 2027 条件仍待确定。
+
+<a id="uc-riverside"></a>
+
+## UC Riverside · 研究生学术任命与 Scholar 签证分类配合
+
+核查：2026-10-01T02:30:05Z。[现行政策](https://policyking.ucr.edu/home/policy/68c20c43d79486300dff0888) 于 2025-08-21 修订，明确外部研究生的 CWR003 Visiting Student Res Graduate，原校在读/请假、监督教育项目、最长十二个月，须工作前建 UCPath 记录。[APM430](https://academicpersonnel.ucr.edu/sites/default/files/2019-03/apm-430.pdf) 的通常六个月不是最短访期。[当前链接的 2024 年 J-1 表](https://international.ucr.edu/media/2855/download?attachment=) 将本科 Student Intern/Non-Degree 与持学士以上者的 Research/Short-Term Scholar 分开，具体签证分类由 ISS 决定。
+
+无薪表允许访客自付开销；[现行主办页](https://international.ucr.edu/scholars/sponsoring-departments) 列每月 2,000 美元支持证明、Short-Term 服务费 961 美元、orientation 39 美元，适用时 shipping 192 美元，部分/全部费由访问者支付需条件批准。这不是 2027 完整预算。[行前页](https://international.ucr.edu/scholars/pre-departure) 又提原校资助文件，故完全个人资金的证明仍需 ISS 确认；普通 Student 的 51% 外部支持条件不直接覆盖上述 Scholar 路由。完整提前期、保险、项目和导师接收仍未验证。

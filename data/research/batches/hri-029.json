@@ -1,0 +1,109 @@
+[
+  {
+    "id": "jingjin-yu",
+    "name": "Jingjin Yu",
+    "aliases": [],
+    "school": "Rutgers University–New Brunswick",
+    "homepage": "https://jingjinyu.com/",
+    "title": "Associate Professor; Interim Graduate Program Director",
+    "department": "Computer Science",
+    "batch": "hri-029",
+    "discoveredAt": "2026-10-01T01:19:24Z",
+    "verifiedAt": "2026-10-01T01:21:28Z",
+    "researchAreas": [
+      "Robot perception and manipulation",
+      "Learning-based metric depth for grasping",
+      "Multi-robot motion planning",
+      "Combinatorial task and motion planning"
+    ],
+    "fitReason": "Strong robot-perception/physical-AI fit through foundation-model depth estimation for actual grasping, alongside algorithmic planning. Best suited to a bounded perception-to-manipulation or planning/perception integration project rather than social HRI.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "IROS 2025 MOMA uses a Depth Anything model (including LoRA fine-tuning for transparent objects), one-shot metric alignment, and a physical UR5e with Robotiq two-finger or vacuum grippers. After one RGB-D calibration scene, the depth sensor is disabled for the monocular-model method; experiments cover opaque/transparent tabletop and bin picks. September 24, 2026 ST-pRRTC separately demonstrates a physical UR5e among two, three and five moving Crazyflies. That latter method is GPU-parallel classical planning with prescribed obstacle trajectories and synchronized preplanned execution, not a learned policy or online replanning.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only · 自费资格需Rutgers确认",
+      "summary": "Live ARC-L homepage invites motivated prospective undergraduate and graduate researchers, explicitly including summer volunteers, by email with resume/transcripts and research interests. No summer2027 capacity, eight-week duration, overseas-master’s appointment or stipend is promised.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 25,
+      "shortVisit": 8,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "37/40: substantive learned robot perception and physical manipulation; broader work is classical planning rather than primarily HRI/VLA.",
+      "physical": "25/25: directly documented current-host physical grasping and 2026 arm/drone demonstrations.",
+      "shortVisit": "8/20: explicit summer volunteer inquiry including graduates, but duration/international eligibility/funding approval are unresolved.",
+      "freshness": "15/15: substantive September 2026 physical primary paper, with clearly separated 2025 learning evidence."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.cs.rutgers.edu / source 1",
+        "url": "https://www.cs.rutgers.edu/people/professors/details/jingjin-yu",
+        "summary": "Current official faculty directory verifies Associate Professor, interim graduate program leadership and CS affiliation.",
+        "verifiedAt": "2026-10-01T01:21:28Z"
+      },
+      {
+        "id": "s2",
+        "label": "jingjinyu.com / source 2",
+        "url": "https://jingjinyu.com/",
+        "summary": "Faculty/lab homepage verifies public email, robotics/AI research areas and explicit summer-volunteer invitation including prospective graduate students.",
+        "verifiedAt": "2026-10-01T01:21:28Z"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2506.17110v1",
+        "summary": "Full primary MOMA paper, June 20, 2025, §V-F specifies UR5e, Robotiq/vacuum grasping, opaque/transparent objects and one-scene calibration before disabling depth sensor; model adaptation details in §V.",
+        "verifiedAt": "2026-10-01T01:21:28Z"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2609.30533v1",
+        "summary": "Full September 24, 2026 primary paper, §VI-E, verifies physical UR5e/Crazyflie demonstrations with preplanned trajectories and explicitly no online replanning.",
+        "verifiedAt": "2026-10-01T01:21:28Z"
+      },
+      {
+        "id": "s5",
+        "label": "global.rutgers.edu / source 5",
+        "url": "https://global.rutgers.edu/visa-types",
+        "summary": "Live central guidance lists J-1 categories and a broad 25% personal-funding cap.",
+        "verifiedAt": "2026-10-01T01:21:28Z"
+      },
+      {
+        "id": "s6",
+        "label": "global.rutgers.edu / source 6",
+        "url": "https://global.rutgers.edu/short-term-non-degree",
+        "summary": "Separate official Student Intern page explicitly includes graduate students, paid/unpaid 3-week–12-month internships, and personal/family funds; it does not expressly waive the broad funding cap.",
+        "verifiedAt": "2026-10-01T01:21:28Z"
+      }
+    ],
+    "unknowns": [
+      "A lab volunteer invitation does not approve immigration sponsorship or wholly personal funding.",
+      "Rutgers live broad J-1 guidance caps personal funds at 25%, while the separate Student Intern instructions name personal/family funding without explicitly resolving that cap. Fully personal funding is therefore not verified acceptable.",
+      "The central Student Intern category covers currently overseas-enrolled graduate students and 3-week–12-month visits, requiring home-degree contribution and return; actual faculty admission and formal host process remain necessary.",
+      "Public funding/fee amounts and internship work-hour wording require category-specific confirmation; do not treat ordinary volunteering as an informal tourist-visa route.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "jingjin.yu@cs.rutgers.edu"
+  }
+]

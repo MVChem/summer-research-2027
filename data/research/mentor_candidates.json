@@ -100,7 +100,8 @@
     "batches/hri-025.json",
     "batches/hri-026.json",
     "batches/hri-027.json",
-    "batches/hri-028.json"
+    "batches/hri-028.json",
+    "batches/hri-029.json"
   ],
   "candidates": [
     {
@@ -7762,6 +7763,32 @@
       "shortVisitStatus": "restricted-inquiry · 不主动招访客，仅特殊匹配询问",
       "recordFile": "batches/hri-028.json",
       "detailPage": "batches/hri-028.md#mike-hagenow"
+    },
+    {
+      "id": "jingjin-yu",
+      "name": "Jingjin Yu",
+      "aliases": [],
+      "school": "Rutgers University–New Brunswick",
+      "title": "Associate Professor; Interim Graduate Program Director",
+      "homepage": "https://jingjinyu.com/",
+      "batch": "hri-029",
+      "discoveredAt": "2026-10-01T01:19:24Z",
+      "verifiedAt": "2026-10-01T01:21:28Z",
+      "scores": {
+        "fit": 37,
+        "physical": 25,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Robot perception and manipulation",
+        "Learning-based metric depth for grasping",
+        "Multi-robot motion planning",
+        "Combinatorial task and motion planning"
+      ],
+      "shortVisitStatus": "inquiry-only · 自费资格需Rutgers确认",
+      "recordFile": "batches/hri-029.json",
+      "detailPage": "batches/hri-029.md#jingjin-yu"
     }
   ]
 }

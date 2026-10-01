@@ -180,6 +180,44 @@ class ResearchLedgerTests(unittest.TestCase):
         with self.assertRaises(AssertionError):
             ledger.validate(data)
 
+    def test_unverified_physical_evidence_is_visible(self):
+        data = copy.deepcopy(self.full)
+        row = data["candidates"][0]
+        row["physicalEvidence"]["status"] = "unverified"
+        row["scores"]["physical"] = 0
+        summary = ledger.compact_index(data, self.paths)["candidates"][0]
+        self.assertEqual(summary["physicalEvidenceStatus"], "unverified")
+        self.assertEqual(summary["physicalEvidenceLabel"], "真机待核实")
+        self.assertIn("**真机待核实**", ledger.render_compact(data))
+        self.assertEqual(row["scores"]["physical"], 0)
+
+    def test_simulation_only_label_is_explicit(self):
+        row = copy.deepcopy(self.full["candidates"][0])
+        row["physicalEvidence"]["status"] = "simulation-only"
+        row["scores"]["physical"] = 0
+        self.assertEqual(ledger.physical_evidence_label(row), "仅仿真；真机待核实")
+
+    def test_weak_historical_evidence_is_not_promoted(self):
+        row = copy.deepcopy(self.full["candidates"][0])
+        row["physicalEvidence"]["status"] = "historical-or-indirect"
+        row["scores"]["physical"] = 10
+        self.assertEqual(ledger.physical_evidence_label(row), "弱/历史真机线索")
+        self.assertEqual(row["scores"]["physical"], 10)
+
+    def test_verified_hardware_has_no_backup_label(self):
+        row = copy.deepcopy(self.full["candidates"][0])
+        row["physicalEvidence"]["status"] = "public-hardware-evidence"
+        row["scores"]["physical"] = 25
+        self.assertIsNone(ledger.physical_evidence_label(row))
+
+    def test_simulation_cannot_receive_physical_points(self):
+        data = copy.deepcopy(self.full)
+        row = data["candidates"][0]
+        row["physicalEvidence"]["status"] = "simulation-only"
+        row["scores"]["physical"] = 10
+        with self.assertRaises(AssertionError):
+            ledger.validate(data)
+
 
 if __name__ == "__main__":
     unittest.main()

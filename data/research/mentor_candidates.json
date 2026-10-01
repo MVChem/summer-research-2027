@@ -1633,6 +1633,8 @@
         "language-conditioned aircraft prediction",
         "reinforcement learning for spacecraft"
       ],
+      "physicalEvidenceStatus": "real-world-data-only; no robot deployment",
+      "physicalEvidenceLabel": "真机待核实",
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-006.json",
       "detailPage": "batches/control-006.md#sarah-h-q-li"
@@ -11193,6 +11195,8 @@
         "Multimodal embodied sensing",
         "Acoustic and visual scene representations"
       ],
+      "physicalEvidenceStatus": "robot-collected-data; online-learned-deployment-unverified",
+      "physicalEvidenceLabel": "机器人采集数据；在线学习部署未核实",
       "shortVisitStatus": "inquiry-only",
       "recordFile": "batches/hri-048.json",
       "detailPage": "batches/hri-048.md#mingmin-zhao"

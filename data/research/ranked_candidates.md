@@ -339,7 +339,7 @@
 | 329 | [Cornelia Fermüller](batches/embodied-065.md#cornelia-fermuller) · University of Maryland, College Park | 73 (38/20/0/15) | degree-only | 2026-10-01T05:46:31Z | 2026-10-01T06:21:26Z |
 | 330 | [Kira Barton](batches/control-070.md#kira-barton) · University of Michigan, Ann Arbor | 73 (38/20/0/15) | unknown | 2026-10-01T05:58:13Z † | 2026-10-01T06:05:33Z |
 | 331 | [Michael S. Ryoo](batches/embodied-003.md#michael-s-ryoo) · Stony Brook University | 73 (37/24/0/12) | unknown | 2026-09-30T21:39:12Z | 2026-09-30T21:42:30Z |
-| 332 | [Mingmin Zhao](batches/hri-048.md#mingmin-zhao) · University of Pennsylvania | 73 (37/18/8/10) | inquiry-only | 2026-10-01T03:16:27Z | 2026-10-01T03:24:30Z |
+| 332 | [Mingmin Zhao](batches/hri-048.md#mingmin-zhao) · University of Pennsylvania · **机器人采集数据；在线学习部署未核实** | 73 (37/18/8/10) | inquiry-only | 2026-10-01T03:16:27Z | 2026-10-01T03:24:30Z |
 | 333 | [Wendy Ju](batches/hri-003.md#wendy-ju) · Cornell University, Cornell Tech | 73 (34/24/0/15) | unknown | 2026-09-30T21:37:06Z | 2026-09-30T21:42:22Z |
 | 334 | [Sam Kriegman](batches/embodied-005.md#sam-kriegman) · Northwestern University | 73 (33/25/0/15) | unknown | 2026-09-30T21:54:38Z | 2026-09-30T21:59:27Z |
 | 335 | [Pooyan Fazli](batches/hri-005.md#pooyan-fazli) · Arizona State University | 73 (32/18/8/15) | inquiry-only | 2026-09-30T21:55:07Z | 2026-09-30T21:58:49Z |
@@ -439,6 +439,6 @@
 | 429 | [Hee Rin Lee](batches/hri-005.md#hee-rin-lee) · Michigan State University | 63 (33/20/0/10) | unknown | 2026-09-30T21:54:45Z | 2026-09-30T22:00:03Z |
 | 430 | [Francesco Borrelli](batches/control-004.md#francesco-borrelli) · University of California, Berkeley | 62 (37/20/0/5) | unknown | 2026-09-30T21:42:36Z | 2026-09-30T21:47:35Z |
 | 431 | [Cagdas D. Onal](batches/embodied-007.md#cagdas-d-onal) · Worcester Polytechnic Institute | 62 (32/20/0/10) | unknown | 2026-09-30T22:13:28Z | 2026-09-30T22:18:19Z |
-| 432 | [Sarah H. Q. Li](batches/control-006.md#sarah-h-q-li) · Georgia Institute of Technology | 49 (34/0/0/15) | unknown | 2026-09-30T22:04:58Z | 2026-09-30T22:08:52Z |
+| 432 | [Sarah H. Q. Li](batches/control-006.md#sarah-h-q-li) · Georgia Institute of Technology · **真机待核实** | 49 (34/0/0/15) | unknown | 2026-09-30T22:04:58Z | 2026-09-30T22:08:52Z |
 
 † 时间口径例外：此条使用首次可精确保留的来源观察/核查记录时间，不能断言为最早遇到该线索的时刻。未重建更早时间；原值保持不变，具体限制见详情和索引的 discoveryTimestampNote。

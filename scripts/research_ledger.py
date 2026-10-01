@@ -109,6 +109,8 @@ def validate(data):
             score = row["scores"][field]
             assert isinstance(score, int) and not isinstance(score, bool) and 0 <= score <= cap
             assert isinstance(row["scoreReasons"][field], str) and row["scoreReasons"][field].strip()
+        if row["physicalEvidence"]["status"] in {"simulation-only", "unverified", "no-verified-robot-deployment", "real-world-data-only; no robot deployment"}:
+            assert row["scores"]["physical"] == 0, "Unverified or simulation-only robot evidence must score 0"
         status = row["shortVisit"]["status"].split(" · ", 1)[0]
         if status in {"unknown", "incompatible", "degree-only", "long-term-only", "precedent-only", "remote-only-inquiry", "stale-2022-inquiry; current route unverified"}:
             assert row["scores"]["shortVisit"] == 0, "Unknown/incompatible short-visit opportunity must score 0"
@@ -174,6 +176,20 @@ def render(data):
     return "\n".join(lines) + "\n"
 
 
+def physical_evidence_label(row):
+    """Expose limited evidence without re-scoring or inventing hardware access."""
+    status = row["physicalEvidence"]["status"]
+    if status == "robot-collected-data; online-learned-deployment-unverified":
+        return "机器人采集数据；在线学习部署未核实"
+    if row["scores"]["physical"] == 0:
+        return "仅仿真；真机待核实" if status == "simulation-only" else "真机待核实"
+    if row["scores"]["physical"] <= 12:
+        return "弱/历史真机线索"
+    if status != "public-hardware-evidence":
+        return "受限真机证据：" + status
+    return None
+
+
 def compact_index(data, record_files):
     keys = ("id", "name", "aliases", "school", "title", "homepage", "batch", "discoveredAt", "verifiedAt", "scores", "researchAreas")
     rows = []
@@ -181,6 +197,10 @@ def compact_index(data, record_files):
         summary = {key: row[key] for key in keys}
         if row.get("discoveryTimestampNote"):
             summary["discoveryTimestampNote"] = row["discoveryTimestampNote"]
+        evidence_label = physical_evidence_label(row)
+        if evidence_label:
+            summary["physicalEvidenceStatus"] = row["physicalEvidence"]["status"]
+            summary["physicalEvidenceLabel"] = evidence_label
         summary["shortVisitStatus"] = row["shortVisit"]["status"]
         summary["recordFile"] = f"batches/{row['batch']}.json"
         summary["detailPage"] = f"batches/{row['batch']}.md#{row['id']}"
@@ -194,7 +214,9 @@ def render_compact(data):
         scores = "/".join(str(row["scores"][key]) for key in CAPS)
         detail = f"batches/{row['batch']}.md#{row['id']}"
         discovery = row["discoveredAt"] + (" †" if row.get("discoveryTimestampNote") else "")
-        lines.append(f"| {index} | [{cell(row['name'])}]({detail}) · {cell(row['school'])} | {sum(row['scores'].values())} ({scores}) | {cell(row['shortVisit']['status'])} | {discovery} | {row['verifiedAt']} |")
+        evidence_label = physical_evidence_label(row)
+        evidence_note = f" · **{cell(evidence_label)}**" if evidence_label else ""
+        lines.append(f"| {index} | [{cell(row['name'])}]({detail}) · {cell(row['school'])}{evidence_note} | {sum(row['scores'].values())} ({scores}) | {cell(row['shortVisit']['status'])} | {discovery} | {row['verifiedAt']} |")
     if any(row.get("discoveryTimestampNote") for row in data["candidates"]):
         lines += ["", "† 时间口径例外：此条使用首次可精确保留的来源观察/核查记录时间，不能断言为最早遇到该线索的时刻。未重建更早时间；原值保持不变，具体限制见详情和索引的 discoveryTimestampNote。"]
     return "\n".join(lines) + "\n"

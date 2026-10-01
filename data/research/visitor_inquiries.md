@@ -2,11 +2,11 @@
 
 [全部候选与总分排序](ranked_candidates.md) · [原始索引](mentor_candidates.json) · [机构规则](eligibility_notes.md) · [原200位后续补充](baseline_addenda.md)
 
-从现有记录筛出 **103 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。
+从现有记录筛出 **105 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。
 
 本页按研究匹配分优先，其次真机、短访、新鲜度及发现时间；不把一般询问、学校制度或个人自费能力当成已获资格。所有人的主办类别、八周安排、2027容量、经费和设备访问都需确认。具体奖学金要求、无资助、时间不匹配、任职时点及证据限制优先看下列加粗提示，再读完整资料。
 
-## 访问/短期研究问询线索（现场安排仍须确认） · 93 条
+## 访问/短期研究问询线索（现场安排仍须确认） · 95 条
 
 | 导师 / 机构 | 匹配 / 真机 / 短访 | 已知限制与证据状态 | 直接来源 / 机构规则 | 记录核查 UTC |
 |---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Yongxin Chen](batches/control-006.md#yongxin-chen) · Georgia Institute of Technology | 39/20/8 | **公开问询入口；详细资格与期限未定** | [s2](https://yongxin.ae.gatech.edu/) | 2026-09-30T22:08:52Z |
 | [Carmen Amo Alonso](batches/control-081.md#carmen-amo-alonso) · University of California, Berkeley | 39/20/8 | **2027待入职、月份未知；夏季主办权限未确认；受限真机证据：Verified real learned robot at prior host; Berkeley hardware access unverified** | [s3](https://controllableai.org/join.html) [规则](eligibility_notes.md#berkeley-vsr) | 2026-10-01T07:07:38Z |
 | [Jiatao Gu](batches/embodied-093.md#jiatao-gu) · University of Pennsylvania | 39/20/8 | **官方2025-07-01任职；访客表单仍有旧施工说明，未列硕士/时长/经费；共享真机49步开环，不保证本组设备访问** | [s1](https://archives.upenn.edu/wp-content/uploads/2025/09/20250228tr.pdf) [s3](https://jiataogu.me/) [s4](https://jiataogu.me/team/) [s5](https://docs.google.com/forms/d/e/1FAIpQLSc4bpBa2m0m3wFse8n8cL1_ClEWL5KVONW8SwrywUa63725aQ/viewform?usp=send_form) [s6](https://arxiv.org/html/2606.03943v1) [规则](eligibility_notes.md#penn) | 2026-10-01T12:30:15Z |
+| [Jun Gao](batches/embodied-094.md#jun-gao) · University of Michigan–Ann Arbor | 39/20/8 | **官方2026-01与本人CV2025-08入职冲突；独立访客邀请在大学托管页面，硕士/时长/经费未知；Franka为合作平台** | [s1](https://midas.umich.edu/directory/jun-gao/) [s2](https://news.engin.umich.edu/2025/08/strengthening-research-and-education-with-new-michigan-engineering-faculty-hires/) [s3](https://j-lab.ai/pdf/jungao_cv.pdf) [s4](https://www.cs.toronto.edu/~jungao/students.html) [s5](https://arxiv.org/html/2606.02551v1) [s6](https://www.zhaoningwang.com/AFUN/) [规则](eligibility_notes.md#michigan-ann-arbor) | 2026-10-01T12:39:50Z |
 | [Homanga Bharadhwaj](batches/control-002.md#homanga-bharadhwaj) · Johns Hopkins University | 39/20/5 | **非JHU短期访客入口；表单故障，当前替代联络办法见详情** | [s2](https://b3.cs.jhu.edu/) | 2026-09-30T21:56:57Z |
 | [Kaylene Stocking](batches/embodied-009.md#kaylene-stocking) · Toyota Technological Institute at Chicago | 39/20/5 | **通常12–15周；八周未确认；经TTIC项目联系** | [s3](https://ttic.edu/ripl/) [s4](https://www.ttic.edu/visiting-student/) [s5](https://ttic.edu/news/) | 2026-09-30T22:44:51Z |
 | [Xusheng Luo](batches/embodied-011.md#xusheng-luo) · North Carolina State University | 39/20/5 | **公开问询入口；详细资格与期限未定** | [s3](https://xushengluo92.github.io/prospective.html) | 2026-09-30T22:50:54Z |
@@ -98,6 +99,7 @@
 | [Jundi Liu](batches/hri-080.md#jundi-liu) · Iowa State University | 34/0/10 | **独立访问研究生入口，取决于匹配和资金；仅仿真方法，2027/八周未定；仅仿真；真机待核实** | [s3](https://jundiliu.me/openings/) [规则](eligibility_notes.md#iowa-state) | 2026-10-01T10:03:27Z |
 | [Zishen Wan](batches/embodied-091.md#zishen-wan) · Columbia University | 34/0/8 | **2026到岗月份来源有冲突，仅保留年份；访客/远程询问明确，VLA计算方法仅仿真，Columbia资金需至少51%机构支持；仅仿真；真机待核实** | [s1](https://www.cs.columbia.edu/2026/zishen-wan-brings-ai-native-computing-research-to-columbia/) [s2](https://www.engineering.columbia.edu/about/news/welcoming-our-new-faculty) [s3](https://zishenwan.github.io/) [s4](https://wan-research-group.github.io/join.html) [s5](https://arxiv.org/html/2601.14140v1) [规则](eligibility_notes.md#columbia) | 2026-10-01T12:11:28Z |
 | [Andrew Spielberg](batches/embodied-090.md#andrew-spielberg) · Carnegie Mellon University | 34/0/8 | **现有周期性实习询问；12–14周仅为2026历史岗位，非通用最低期限；新AP起始年有冲突，真机学习执行未核；真机待核实** | [s2](https://loci.ece.cmu.edu/) [s3](https://arxiv.org/html/2402.01086v2) [s4](https://www.linkedin.com/posts/andrew-spielberg-82073926a_summer-intern-college-of-engineering-activity-7430676195081625601-eVFr) [s5](https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Summer-Intern---College-of-Engineering---Electrical-and-Computer-Engineering_2024173) [s6](https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofelectricalandcomputerengineering/) [规则](eligibility_notes.md#cmu-student-intern) | 2026-10-01T12:07:44Z |
+| [Ferdous Alam](batches/embodied-092.md#ferdous-alam) · Georgia Institute of Technology | 32/20/8 | **2026-01到岗；访客无本组资助，需自带fellowship讨论；公开页面内容已核但显示空白，外校硕士类别另核；旧制造试验非当前GT机器人** | [s1](https://robotics.gatech.edu/node/119) [s4](https://inferencelab.io/blog-docs/news/news_2) [s5](https://inferencelab.io/_next/static/chunks/app/blog-docs/news/news_2/page-5f65a6e74f0bc2df.js) [s6](https://par.nsf.gov/servlets/purl/10578459) [规则](eligibility_notes.md#georgia-tech-student-intern) | 2026-10-01T12:18:00Z |
 | [Allison Okamura](batches/hri-001.md#allison-okamura) · Stanford University | 32/20/5 | **须自备支持、方向匹配及有空位；学校资金分类另批** | [s2](https://charm.stanford.edu/Main/AllisonOkamura) [s3](https://charm.stanford.edu/Main/PastLabMeetings) | 2026-09-30T21:37:40Z |
 | [Pooyan Fazli](batches/hri-005.md#pooyan-fazli) · Arizona State University | 32/18/8 | **公开问询入口；详细资格与期限未定** | [s2](https://pooyanfazli.com/) | 2026-09-30T21:58:49Z |
 | [Nadir Weibel](batches/hri-087.md#nadir-weibel) · University of California San Diego | 32/0/10 | **空间AI/人机AI备选，机器人执行未核；外校短访均志愿/自筹，需正式VGS审批；真机待核实** | [s3](https://hxi.ucsd.edu/faq/join-us/) [s8](https://www.grad.ucsd.edu/financial/non-uc-visiting-grads/index.html) [规则](eligibility_notes.md#uc-san-diego) | 2026-10-01T11:04:36Z |

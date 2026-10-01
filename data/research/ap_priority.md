@@ -2,24 +2,29 @@
 
 [全部候选：最新偏好排序](ranked_candidates.md) · [明确限制与暑期关闭](contact_constraints.md) · [访问问询入口](visitor_inquiries.md) · [评分说明](README.md)
 
-当前新增记录中有 **209 位**以公开准确职级列出的 AP；这里只核实了一部分入职日期，日期未知不等于资历较老。
+当前新增记录中有 **215 位**以公开准确职级列出的 AP；这里只核实了一部分入职日期，日期未知不等于资历较老。
 
 约八周是初步参考，未说明时长不会被排除。先看近期已到岗 AP，再看暑期前有明确任职日期的 AP；其他 AP 仍保留。明确至少三个月及较长访问偏好降序，硬性最短时长与偏好分开；明确不接收暑期/访客优先标记。
 
 工作排序暂以 **2024年起**作为约近两三年的范围，并单列2027暑期前已公告入职者；这是可调整的整理约定，不是年龄判断、用户硬性年限或接收概率。各层内部先按研究匹配，再按真机证据及原总分。原四项分数和发现时间均未改写。
 
-## 近期已到岗 AP（2024起）（8）
+## 近期已到岗 AP（2024起）（13）
 
 | 导师 / 学校 | 准确任职与入职证据 | 原分数：匹配/真机/访问/新鲜 | 访问与时点提醒 |
 |---|---|---|---|
 | [Jiatao Gu](batches/embodied-093.md#jiatao-gu) · University of Pennsylvania | Assistant Professor, Standing Faculty Tenure Track；**2025-07-01** [核查来源1](https://archives.upenn.edu/wp-content/uploads/2025/09/20250228tr.pdf) [核查来源2](https://ai.upenn.edu/ideas-generative-ai-symposium) | 82（39/20/8/15） | **官方2025-07-01任职；访客表单仍有旧施工说明，未列硕士/时长/经费；共享真机49步开环，不保证本组设备访问**；inquiry-only |
+| [Jun Gao](batches/embodied-094.md#jun-gao) · University of Michigan–Ann Arbor | Assistant Professor；**2025–2026区间；官方2026-01-01 vs本人CV2025-08** [核查来源1](https://midas.umich.edu/directory/jun-gao/) [核查来源2](https://news.engin.umich.edu/2025/08/strengthening-research-and-education-with-new-michigan-engineering-faculty-hires/) [核查来源3](https://j-lab.ai/pdf/jungao_cv.pdf) | 82（39/20/8/15） | **确切起始日期有冲突，未断言首次faculty；外校硕士访客条件未定**；inquiry-only |
 | [Homanga Bharadhwaj](batches/control-002.md#homanga-bharadhwaj) · Johns Hopkins University | Assistant Professor；**2026 new-faculty cohort; exact start month/day unconfirmed** [核查来源1](https://www.cs.jhu.edu/news/johns-hopkins-computer-science-welcomes-six-new-tenure-track-faculty/) [核查来源2](https://www.cs.jhu.edu/faculty/homanga-bharadhwaj/) [核查来源3](http://b3.cs.jhu.edu/) | 79（39/20/5/15） | **2026已到岗；外校短访类别明确，但表单链接仍缺失；可先向PI确认入口**；inquiry-only |
 | [Mingyo Seo](batches/control-107.md#mingyo-seo) · University of Central Florida | Assistant Professor (joined fall 2026)；**2026秋（官方新教师公告；具体日未定）** [核查来源1](https://www.ece.ucf.edu/two-faculty-join-ece-department-for-fall-2026/) | 72（39/20/0/13） | **当前校园设备、2027容量、访客条件仍待确认；未声明首次faculty任职；受限真机证据：Verified prior-UT-Austin learned Panda/GR1 execution; physical20 cap; current UCF hardware unknown**；unknown · 无明确邀请或拒绝；时长未知 |
+| [Hiroyasu Tsukamoto](batches/control-108.md#hiroyasu-tsukamoto) · University of Illinois Urbana-Champaign | Assistant Professor (joined fall 2024); concurrent KAIST Visiting Professor；**2024秋常规AP；此前2023–24同校Adjunct AP** [核查来源1](https://aerospace.illinois.edu/directory/profile/hiroyasu) [核查来源2](https://aerospace.illinois.edu/news/73325) | 78（38/25/0/15） | **特定日本学生May–August实习已关闭，不扩大为全球访客禁令；一般MS询问和外校MS先例均未获访客分**；precedent-only · 特定暑期项目已关闭；未核实一般访客入口 |
 | [Neel P. Bhatt](batches/control-013.md#neel-p-bhatt) · University of Texas at Dallas | Assistant Professor；**Fall 2026; first-person homepage says August 2026** [核查来源1](https://syse.utdallas.edu/ourteam/staff/neel-p-bhatt/) [核查来源2](https://neel1302.github.io/) | 83（38/20/10/15） | **2026秋已到岗；有2027访客/实习邮件入口，时长、资金、主办类别和UTD设备仍待确认**；inquiry-only |
+| [Vittorio Giammarino](batches/control-109.md#vittorio-giammarino) · University of South Florida | Assistant Professor (joined August 2026); LEA Lab Director；**2026（官方）；8月（本人），CV所列首次faculty** [核查来源1](https://www.usf.edu/engineering/imse/faculty-hire2023.aspx) [核查来源2](https://vittoriogiammarino.github.io/) [核查来源3](https://vittoriogiammarino.github.io/cv/) | 73（38/20/0/15） | **现有MS/UG研究入口仅限USF本校，不等于全部访客拒绝；USF要求机构主资助，个人仅补充；受限真机证据：Verified May2026 prior-Purdue learned UR5e execution; physical20; current USF hardware unknown**；degree-only · 当前MS/UG段落仅限USF本校 |
 | [Tom Silver](batches/embodied-001.md#tom-silver) · Princeton University | Assistant Professor；**Fall 2025** [核查来源1](https://ece.princeton.edu/news/tom-silver-joins-princeton-faculty-expertise-robot-planning-and-learning) [核查来源2](https://prpl-group.com/) | 94（37/25/17/15） | **外校研究生可经VSRC询问；仅现场，按完整日历月安排；需提前4–6个月准备**；inquiry-only |
+| [Ramesh Bahadur Bist](batches/control-108.md#ramesh-bahadur-bist) · North Carolina State University | Assistant Professor (joined summer 2025)；**2025夏（官方；具体月日未定）** [核查来源1](https://magazine.cals.ncsu.edu/code-to-coop/) | 69（36/18/0/15） | **作者报告G1执行，完整论文与视频动作未核；138次演示与605次论文协议分开；访客未知；受限真机证据：Limited primary-author report of current learned G1 execution; physical18; full protocol and visual playback unverified**；unknown · 真机仅作者描述；完整协议及视频动作未核 |
 | [Yujia Zheng](batches/embodied-090.md#yujia-zheng) · University of Illinois Urbana-Champaign | Assistant Professor；**2026–27 cohort; first-person Fall2026 start** [核查来源1](https://stat.illinois.edu/news/2026-08-11/department-statistics-welcomes-three-new-assistant-professors) [核查来源2](https://stat.illinois.edu/directory/profile/yujiaz) [核查来源3](https://yjzheng.com/) [核查来源4](https://www.linkedin.com/posts/yjzheng_yujia-zheng-activity-7464366840400617472-WzvT) | 59（36/0/8/15） | **2026–27新AP；当前公开访客/实习询问；世界模型仅仿真，外校硕士类别、时长及经费未定；仅仿真；真机待核实**；inquiry-only |
 | [Kitae Kim](batches/embodied-091.md#kitae-kim) · North Carolina State University | Assistant Professor；**2026** [核查来源1](https://engr.ncsu.edu/faculty-development/faculty-communities/new-faculty-cohort-2026/) [核查来源2](https://kimkt0408.github.io/) | 76（35/20/8/13） | **官方2026新AP；独立访客询问入口；一年要求仅对本校MS/UG，外校时长未定；硬件为Purdue旧合作且完整技术论文未读取**；inquiry-only |
 | [Zishen Wan](batches/embodied-091.md#zishen-wan) · Columbia University | Assistant Professor；**2026** [核查来源1](https://www.cs.columbia.edu/2026/zishen-wan-brings-ai-native-computing-research-to-columbia/) [核查来源2](https://www.engineering.columbia.edu/about/news/welcoming-our-new-faculty) [核查来源3](https://zishenwan.github.io/) | 57（34/0/8/15） | **2026到岗月份来源有冲突，仅保留年份；访客/远程询问明确，VLA计算方法仅仿真，Columbia资金需至少51%机构支持；仅仿真；真机待核实**；inquiry-only |
+| [Ferdous Alam](batches/embodied-092.md#ferdous-alam) · Georgia Institute of Technology | Assistant Professor；**2026-01** [核查来源1](https://robotics.gatech.edu/node/119) [核查来源2](https://www.me.gatech.edu/news/faculty-spotlight-assistant-professor-ferdous-alam) | 73（32/20/8/13） | **2026-01到岗；访客无本组资助，需自带fellowship讨论；公开页面内容已核但显示空白，外校硕士类别另核；旧制造试验非当前GT机器人**；inquiry-only |
 
 ## 暑期前明确拟到岗 AP（3）
 
@@ -38,7 +43,7 @@
 | [Chenfeng Xu](batches/embodied-003.md#chenfeng-xu) · The University of Texas at Austin | Assistant Professor (faculty directory also uses incoming in biography)；**任职起始时间尚未单独核实**  | 73（39/20/0/14） | **时长、2027容量、经费与主办批准另核**；unknown |
 | [Karthik Mahadevan](batches/hri-003.md#karthik-mahadevan) · Massachusetts Institute of Technology (current postdoc); University of Texas at Austin (incoming Spring 2027) | Incoming Assistant Professor; current MIT postdoctoral researcher；**任职起始时间尚未单独核实**  | 73（38/20/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |
 
-## 其他 AP；较早任职、转校或入职年待核（192）
+## 其他 AP；较早任职、转校或入职年待核（193）
 
 | 导师 / 学校 | 准确任职与入职证据 | 原分数：匹配/真机/访问/新鲜 | 访问与时点提醒 |
 |---|---|---|---|
@@ -140,6 +145,7 @@
 | [Robin Walters](batches/embodied-004.md#robin-walters) · Northeastern University | Assistant Professor；**任职起始时间尚未单独核实**  | 73（38/20/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |
 | [Zhi Zheng](batches/hri-007.md#zhi-zheng) · University of Notre Dame | Assistant Professor；**任职起始时间尚未单独核实**  | 73（38/20/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |
 | [Zhiyu Huang](batches/embodied-012.md#zhiyu-huang) · North Carolina State University | Assistant Professor；**任职起始时间尚未单独核实**  | 73（38/20/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |
+| [Xiao Liang](batches/embodied-092.md#xiao-liang) · Texas A&M University | Assistant Professor；**2024-01转入TAMU；此前Buffalo Research AP2018/AP2020起** [核查来源1](https://engineering.tamu.edu/civil/profiles/liang-xiao.html) [核查来源2](https://xlab.eng.buffalo.edu/research.html) [核查来源3](https://xlab.eng.buffalo.edu/biography.html) | 73（38/20/0/15） | **这是转校，不是首次新任AP；共享UR5e设备，外校访客未知**；unknown |
 | [Daniel Bruder](batches/control-084.md#daniel-bruder) · University of Michigan–Ann Arbor | Assistant Professor；**任职起始时间尚未单独核实**  | 73（38/20/0/15） | **受限真机证据：Prior-host or collaborative learned robot verified; current-site learned execution unverified**；unknown · 当前不征集具体项目；仅未来兴趣登记 |
 | [Yaxin Hu](batches/hri-027.md#yaxin-hu) · William & Mary | Assistant Professor；**任职起始时间尚未单独核实**  | 73（38/20/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |
 | [Tamás G. Molnár](batches/control-085.md#tamas-g-molnar) · Cleveland State University | Assistant Professor；**任职起始时间尚未单独核实**  | 73（38/20/0/15） | **受限真机证据：Prior collaborative learned tracked-robot verified; current Cleveland execution unverified**；unknown |
@@ -289,3 +295,17 @@
 - Zishen Wan：[来源](https://www.cs.columbia.edu/2026/zishen-wan-brings-ai-native-computing-research-to-columbia/) · Full official current role and joined this fall2026; embodied/world-model computing agenda and active teaching.（核查 2026-10-01T12:11:28Z）
 - Zishen Wan：[来源](https://www.engineering.columbia.edu/about/news/welcoming-our-new-faculty) · Full official welcome places CS AP start in September 2026.（核查 2026-10-01T12:11:28Z）
 - Zishen Wan：[来源](https://zishenwan.github.io/) · Full current first-person role, August 2026 start/news, public contact and research/publication list.（核查 2026-10-01T12:11:28Z）
+- Jun Gao：[来源](https://midas.umich.edu/directory/jun-gao/) · Current official directory establishes Michigan ECE Assistant Professor in Ann Arbor, 3D generative AI and vision/graphics research.（核查 2026-10-01T12:39:50Z）
+- Jun Gao：[来源](https://news.engin.umich.edu/2025/08/strengthening-research-and-education-with-new-michigan-engineering-faculty-hires/) · Official 2025 cohort says January 1, 2026 start; conflicts with personal CV August 2025. Current title independently verified, exact appointment unresolved.（核查 2026-10-01T12:39:50Z）
+- Jun Gao：[来源](https://j-lab.ai/pdf/jungao_cv.pdf) · Full seven-page current CV: August 2025–present Michigan AP, NVIDIA role, and AFUN/OSCAR authorship. Conflicting start date preserved.（核查 2026-10-01T12:39:50Z）
+- Ramesh Bahadur Bist：[来源](https://magazine.cals.ncsu.edu/code-to-coop/) · August 25, 2026 university article verifies summer2025 arrival, AIR graduate team and Howl apparatus. Egg retrieval remains future development.（核查 2026-10-01T12:23:32Z）
+- Hiroyasu Tsukamoto：[来源](https://aerospace.illinois.edu/directory/profile/hiroyasu) · Current official Assistant Professor2024–present, adjunct2023–24, concurrent KAIST visiting role2026– and public email.（核查 2026-10-01T12:23:32Z）
+- Hiroyasu Tsukamoto：[来源](https://aerospace.illinois.edu/news/73325) · January 24, 2025 university article independently identifies the fall2024 faculty arrival; historical Caltech experiment is clearly captioned.（核查 2026-10-01T12:23:32Z）
+- Vittorio Giammarino：[来源](https://www.usf.edu/engineering/imse/faculty-hire2023.aspx) · The page URL retains2023, but its clearly labeled2026 section identifies the new hire and previous Purdue postdoc.（核查 2026-10-01T12:27:32Z）
+- Vittorio Giammarino：[来源](https://vittoriogiammarino.github.io/) · Current lab director, August 2026 arrival and scoped recruiting: PhD2027; masters/undergraduates under Current USF Students.（核查 2026-10-01T12:27:32Z）
+- Vittorio Giammarino：[来源](https://vittoriogiammarino.github.io/cv/) · Published academic timeline lists USF AP2026– and Purdue postdoc2024–26 after BU PhD2024, supporting first faculty role as reported.（核查 2026-10-01T12:27:32Z）
+- Ferdous Alam：[来源](https://robotics.gatech.edu/node/119) · Full official current Assistant Professor, January 2026 appointment and public contact.（核查 2026-10-01T12:18:00Z）
+- Ferdous Alam：[来源](https://www.me.gatech.edu/news/faculty-spotlight-assistant-professor-ferdous-alam) · Full January 12, 2026 official interview links3D foundation models, robotics and embodied engineering.（核查 2026-10-01T12:18:00Z）
+- Xiao Liang：[来源](https://engineering.tamu.edu/civil/profiles/liang-xiao.html) · Full current Assistant Professor/ME affiliate and public contact.（核查 2026-10-01T12:18:00Z）
+- Xiao Liang：[来源](https://xlab.eng.buffalo.edu/research.html) · University-hosted November 2023 notice announces team relocation to Texas A&M in January 2024; old PhD/postdoc intake is not a visitor invitation.（核查 2026-10-01T12:18:00Z）
+- Xiao Liang：[来源](https://xlab.eng.buffalo.edu/biography.html) · Historical university-hosted appointments: Buffalo AP fromNovember2020 and Research AP2018–2020; stale present ending is not current host.（核查 2026-10-01T12:18:00Z）

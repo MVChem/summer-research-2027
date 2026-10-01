@@ -1,0 +1,130 @@
+[
+  {
+    "id": "jun-gao",
+    "name": "Jun Gao",
+    "aliases": [],
+    "school": "University of Michigan–Ann Arbor",
+    "homepage": "https://j-lab.ai/",
+    "title": "Assistant Professor",
+    "department": "Electrical and Computer Engineering, EECS; 3D generative AI group",
+    "batch": "embodied-094",
+    "discoveredAt": "2026-10-01T12:32:02Z",
+    "verifiedAt": "2026-10-01T12:39:50Z",
+    "researchAreas": [
+      "Affordance foundation models and language-grounded manipulation",
+      "3D generative AI and spatial representations",
+      "Robot action-conditioned world models"
+    ],
+    "fitReason": "Strong recent-AP embodied foundation-model fit. AFUN connects language and RGB-D perception to functional contact regions and executable post-contact motion; OSCAR supplies a complementary robot world-model direction. AFUN authorship is cross-verified in his current CV and the author project, avoiding Jun Gao namesakes.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Shared collaborative physical20. AFUN Section5.4 verifies a Franka Research3 and two calibrated RealSenseD435 cameras executing four tasks: screwdriver pickup, pot-lid removal, drawer opening and microwave opening. The learned mask/3D spline is combined with AnyGrasp and downstream execution. Exact host site and independent Michigan rig ownership are unverified; do not equate shared coauthorship with guaranteed local visitor access.",
+      "sourceIds": [
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "Full institution-hosted guidance has a separate prospective interns/visiting-students invitation, alongside distinct local Michigan and degree-applicant sections. It requests CV, transcript and research background. Generic visitor8: no external-master level, summer2027 capacity, duration, funding or remote arrangement is specified. The personal-domain copy could not be fully fetched in this pass; the Toronto-hosted primary mirror was read directly.",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 8,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct language/3D affordance-to-action and robot world-model fit.",
+      "physical": "Full recent real Franka execution; collaborative site/ownership unresolved.",
+      "shortVisit": "Separate generic visiting/intern inquiry, exact outside-master terms unknown.",
+      "freshness": "Full June 2026 robot experiment and current official role."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "midas.umich.edu / source 1",
+        "url": "https://midas.umich.edu/directory/jun-gao/",
+        "summary": "Current official directory establishes Michigan ECE Assistant Professor in Ann Arbor, 3D generative AI and vision/graphics research.",
+        "verifiedAt": "2026-10-01T12:39:50Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "news.engin.umich.edu / source 2",
+        "url": "https://news.engin.umich.edu/2025/08/strengthening-research-and-education-with-new-michigan-engineering-faculty-hires/",
+        "summary": "Official 2025 cohort says January 1, 2026 start; conflicts with personal CV August 2025. Current title independently verified, exact appointment unresolved.",
+        "verifiedAt": "2026-10-01T12:39:50Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "j-lab.ai / source 3",
+        "url": "https://j-lab.ai/pdf/jungao_cv.pdf",
+        "summary": "Full seven-page current CV: August 2025–present Michigan AP, NVIDIA role, and AFUN/OSCAR authorship. Conflicting start date preserved.",
+        "verifiedAt": "2026-10-01T12:39:50Z",
+        "retrieval": "direct-primary-pdf"
+      },
+      {
+        "id": "s4",
+        "label": "www.cs.toronto.edu / source 4",
+        "url": "https://www.cs.toronto.edu/~jungao/students.html",
+        "summary": "Full university-hosted prospective-student guidance: a separate interns/visiting-students section invites CV, transcript and background; distinct from current UMichigan-student section.",
+        "verifiedAt": "2026-10-01T12:39:50Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2606.02551v1",
+        "summary": "Full June 1, 2026 AFUN: Section 5.4 executes learned functional-mask and spline-motion predictions on Franka Research 3; Appendix A gives unseen-object failure and safety limitations.",
+        "verifiedAt": "2026-10-01T12:39:50Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "www.zhaoningwang.com / source 6",
+        "url": "https://www.zhaoningwang.com/AFUN/",
+        "summary": "Full author project links Jun Gao to his Toronto homepage, explicitly attributes Michigan/NVIDIA, identifies UCSD collaborators and separate real-robot demonstrations.",
+        "verifiedAt": "2026-10-01T12:39:50Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s7",
+        "label": "j-lab.ai / source 7",
+        "url": "https://j-lab.ai/",
+        "summary": "Full personal homepage provides public Toronto professional email and current 2026 research; top biography retains future-joining language, so official directory controls current role.",
+        "verifiedAt": "2026-10-01T12:39:50Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Current official Michigan role is confirmed, despite stale future-joining prose on the personal home. NVIDIA and former Toronto contact are not separate university hosting offers.",
+      "Appointment date conflicts across official cohort and personal CV. Retain unresolved exact date rather than assert a first-ever faculty start or choose a convenient month. The displayed range preserves rather than resolves the conflicting dates.",
+      "AFUN is an affordance component with downstream grasping/execution, not a standalone general robot policy. Completely unfamiliar object motions remain a failure mode. Real-demo trial count is not specified in the retrieved section, so reported success percentages are not generalized.",
+      "Full AFUN source distinguishes training data, simulation benchmarks and actual execution. OSCAR virtual rollout correlations are not additional physical experiments. Michigan/UCSD collaborative hardware is capped20 until site/access is established.",
+      "Generic visiting-student invitation is distinct from local degree intake but does not expressly guarantee external-master eligibility. Roughly eight weeks, funding, onsite/remote mode and2027 supervision must be confirmed.",
+      "Reuse published michigan-ann-arbor policy: Covered Visitors explicitly includes outside graduate students with non-public resource access of at least14days. Unit onboarding, research agreements and applicable screening remain required; institutional scope is not a visa category or lab offer.",
+      "Existing Michigan scholar-funding supplement uses September 2026–August 2027 support proof of$4000/month, with$308.72 insurance deducted in its example. Personal/family support is possible under that scholar document, but the International Center must decide the exact outside-master category and applicable fees; do not assume Student Intern approval.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#michigan-ann-arbor)"
+    ],
+    "publicEmail": "jungao@cs.toronto.edu",
+    "appointmentStart": {
+      "year": 2025,
+      "endYear": 2026,
+      "precision": "range",
+      "status": "current",
+      "appointmentType": "unresolved",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ],
+      "evidence": "Current official MIDAS role confirmed. Official engineering cohort: Starting January 1, 2026. Personal current CV: University of Michigan Aug. 2025 - Present, Assistant Professor. The range preserves this conflict; exact contractual/on-campus date and first-faculty status remain unresolved."
+    }
+  }
+]

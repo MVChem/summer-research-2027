@@ -479,6 +479,198 @@
           "evidence": "Full current first-person role, August 2026 start/news, public contact and research/publication list."
         }
       ]
+    },
+    "jun-gao": {
+      "appointmentStart": {
+        "year": 2025,
+        "endYear": 2026,
+        "precision": "range",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ],
+        "evidence": "Current official MIDAS role confirmed. Official engineering cohort: Starting January 1, 2026. Personal current CV: University of Michigan Aug. 2025 - Present, Assistant Professor. The range preserves this conflict; exact contractual/on-campus date and first-faculty status remain unresolved."
+      },
+      "display": "2025–2026区间；官方2026-01-01 vs本人CV2025-08",
+      "caveat": "确切起始日期有冲突，未断言首次faculty；外校硕士访客条件未定",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://midas.umich.edu/directory/jun-gao/",
+          "observedAt": "2026-10-01T12:39:50Z",
+          "evidence": "Current official directory establishes Michigan ECE Assistant Professor in Ann Arbor, 3D generative AI and vision/graphics research."
+        },
+        {
+          "id": "s2",
+          "url": "https://news.engin.umich.edu/2025/08/strengthening-research-and-education-with-new-michigan-engineering-faculty-hires/",
+          "observedAt": "2026-10-01T12:39:50Z",
+          "evidence": "Official 2025 cohort says January 1, 2026 start; conflicts with personal CV August 2025. Current title independently verified, exact appointment unresolved."
+        },
+        {
+          "id": "s3",
+          "url": "https://j-lab.ai/pdf/jungao_cv.pdf",
+          "observedAt": "2026-10-01T12:39:50Z",
+          "evidence": "Full seven-page current CV: August 2025–present Michigan AP, NVIDIA role, and AFUN/OSCAR authorship. Conflicting start date preserved."
+        }
+      ]
+    },
+    "ramesh-bahadur-bist": {
+      "appointmentStart": {
+        "year": 2025,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "s2"
+        ],
+        "evidence": "Official August25,2026 CALS article states he joined NC State in summer2025; no exact day/month asserted.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2025夏（官方；具体月日未定）",
+      "caveat": "作者报告G1执行，完整论文与视频动作未核；138次演示与605次论文协议分开；访客未知",
+      "sources": [
+        {
+          "id": "s2",
+          "url": "https://magazine.cals.ncsu.edu/code-to-coop/",
+          "observedAt": "2026-10-01T12:23:32Z",
+          "evidence": "August 25, 2026 university article verifies summer2025 arrival, AIR graduate team and Howl apparatus. Egg retrieval remains future development."
+        }
+      ]
+    },
+    "hiroyasu-tsukamoto": {
+      "appointmentStart": {
+        "year": 2024,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "evidence": "Official profile lists Assistant Professor2024–present after Adjunct Assistant Professor2023–24; January24,2025 university news says joined the previous fall.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2024秋常规AP；此前2023–24同校Adjunct AP",
+      "caveat": "特定日本学生May–August实习已关闭，不扩大为全球访客禁令；一般MS询问和外校MS先例均未获访客分",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://aerospace.illinois.edu/directory/profile/hiroyasu",
+          "observedAt": "2026-10-01T12:23:32Z",
+          "evidence": "Current official Assistant Professor2024–present, adjunct2023–24, concurrent KAIST visiting role2026– and public email."
+        },
+        {
+          "id": "s2",
+          "url": "https://aerospace.illinois.edu/news/73325",
+          "observedAt": "2026-10-01T12:23:32Z",
+          "evidence": "January 24, 2025 university article independently identifies the fall2024 faculty arrival; historical Caltech experiment is clearly captioned."
+        }
+      ]
+    },
+    "vittorio-giammarino": {
+      "appointmentStart": {
+        "year": 2026,
+        "month": 8,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "s2",
+          "s3",
+          "s4"
+        ],
+        "evidence": "Official USF hiring page independently verifies2026 arrival from Purdue postdoc; author homepage specifiesAugust2026 and published CV lists it as the first faculty appointment after PhD/postdoc.",
+        "appointmentType": "first-faculty"
+      },
+      "display": "2026（官方）；8月（本人），CV所列首次faculty",
+      "caveat": "现有MS/UG研究入口仅限USF本校，不等于全部访客拒绝；USF要求机构主资助，个人仅补充",
+      "sources": [
+        {
+          "id": "s2",
+          "url": "https://www.usf.edu/engineering/imse/faculty-hire2023.aspx",
+          "observedAt": "2026-10-01T12:27:32Z",
+          "evidence": "The page URL retains2023, but its clearly labeled2026 section identifies the new hire and previous Purdue postdoc."
+        },
+        {
+          "id": "s3",
+          "url": "https://vittoriogiammarino.github.io/",
+          "observedAt": "2026-10-01T12:27:32Z",
+          "evidence": "Current lab director, August 2026 arrival and scoped recruiting: PhD2027; masters/undergraduates under Current USF Students."
+        },
+        {
+          "id": "s4",
+          "url": "https://vittoriogiammarino.github.io/cv/",
+          "observedAt": "2026-10-01T12:27:32Z",
+          "evidence": "Published academic timeline lists USF AP2026– and Purdue postdoc2024–26 after BU PhD2024, supporting first faculty role as reported."
+        }
+      ]
+    },
+    "ferdous-alam": {
+      "appointmentStart": {
+        "year": 2026,
+        "month": 1,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "evidence": "Current official Robotics profile explicitly states January2026 start; January12,2026 Woodruff new-faculty interview corroborates arrival.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2026-01",
+      "caveat": "2026-01到岗；访客无本组资助，需自带fellowship讨论；公开页面内容已核但显示空白，外校硕士类别另核；旧制造试验非当前GT机器人",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://robotics.gatech.edu/node/119",
+          "observedAt": "2026-10-01T12:18:00Z",
+          "evidence": "Full official current Assistant Professor, January 2026 appointment and public contact."
+        },
+        {
+          "id": "s2",
+          "url": "https://www.me.gatech.edu/news/faculty-spotlight-assistant-professor-ferdous-alam",
+          "observedAt": "2026-10-01T12:18:00Z",
+          "evidence": "Full January 12, 2026 official interview links3D foundation models, robotics and embodied engineering."
+        }
+      ]
+    },
+    "xiao-liang": {
+      "appointmentStart": {
+        "year": 2024,
+        "month": 1,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ],
+        "evidence": "University-hosted former-lab November2023 announcement states January2024 relocation to Texas A&M; current university directory and2024/2026 papers confirm current appointment. Transfer, not first faculty job.",
+        "appointmentType": "institution-move"
+      },
+      "display": "2024-01转入TAMU；此前Buffalo Research AP2018/AP2020起",
+      "caveat": "这是转校，不是首次新任AP；共享UR5e设备，外校访客未知",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://engineering.tamu.edu/civil/profiles/liang-xiao.html",
+          "observedAt": "2026-10-01T12:18:00Z",
+          "evidence": "Full current Assistant Professor/ME affiliate and public contact."
+        },
+        {
+          "id": "s2",
+          "url": "https://xlab.eng.buffalo.edu/research.html",
+          "observedAt": "2026-10-01T12:18:00Z",
+          "evidence": "University-hosted November 2023 notice announces team relocation to Texas A&M in January 2024; old PhD/postdoc intake is not a visitor invitation."
+        },
+        {
+          "id": "s3",
+          "url": "https://xlab.eng.buffalo.edu/biography.html",
+          "observedAt": "2026-10-01T12:18:00Z",
+          "evidence": "Historical university-hosted appointments: Buffalo AP fromNovember2020 and Research AP2018–2020; stale present ending is not current host."
+        }
+      ]
     }
   },
   "constraints": [

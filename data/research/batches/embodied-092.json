@@ -1,0 +1,242 @@
+[
+  {
+    "id": "ferdous-alam",
+    "name": "Ferdous Alam",
+    "aliases": [
+      "Md Ferdous Alam",
+      "Md. Ferdous Alam"
+    ],
+    "school": "Georgia Institute of Technology",
+    "homepage": "https://inferencelab.io/",
+    "title": "Assistant Professor",
+    "department": "George W. Woodruff School of Mechanical Engineering; Inference Lab",
+    "batch": "embodied-092",
+    "discoveredAt": "2026-10-01T02:56:13Z",
+    "verifiedAt": "2026-10-01T12:18:00Z",
+    "researchAreas": [
+      "Embodied manufacturing intelligence",
+      "Learning-based autonomous fabrication",
+      "3D shape and CAD foundation models",
+      "Physics-guided engineering AI"
+    ],
+    "fitReason": "Verified January 2026 new AP with a substantive physical-AI manufacturing history and current3D/robotic-engineering agenda. Prior supervised-learning-guided automated manufacturing is verified in a newly retrieved full paper. Current lab visitor discussion is conditional on support and does not promise2027 capacity.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Prior-host physical20: full 2024 AMSPnC paper verifies a real Ultimaker S5, motorized transport and ultrasonic-testing system. Polynomial regression trained on144 physical experiments across48 designs informs differential-evolution selection;45 independently fabricated/tested validation artifacts follow. This is learned design-to-physical-manufacturing execution, not only a simulation or a dataset. It is an Ohio State/Michigan-era automated fabrication testbed, not current Georgia Tech robot apparatus, neural VLA control or dexterous arm deployment.",
+      "sourceIds": [
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "Published recruiting text has a distinct postdoctoral/visiting-researcher section: no current lab funding for these visitors, with own fellowship support welcomed for discussion. Live page still renders blank in both web extraction and cloud browser. The same text was newly verified in the current public JavaScript content bundle directly referenced by that exact page, corroborating the indexed primary text; this is not described as a rendered live form. Generic conditional visitor8; outside-master classification, personal-only support, duration and2027 capacity unknown.",
+      "sourceIds": [
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 32,
+      "physical": 20,
+      "shortVisit": 8,
+      "freshness": 13
+    },
+    "scoreReasons": {
+      "fit": "Embodied/3D engineering and learned autonomous fabrication, less directly VLA/manipulation than core candidates.",
+      "physical": "Real learning-informed fabrication validation at prior host; no current Georgia Tech robot execution.",
+      "shortVisit": "Conditional published visiting-researcher/fellowship inquiry; page-rendering and outside-master caveats retained.",
+      "freshness": "Current2026 new lab and appointment/recruitment; detailed physical study2024."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "robotics.gatech.edu / source 1",
+        "url": "https://robotics.gatech.edu/node/119",
+        "summary": "Full official current Assistant Professor, January 2026 appointment and public contact.",
+        "verifiedAt": "2026-10-01T12:18:00Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "www.me.gatech.edu / source 2",
+        "url": "https://www.me.gatech.edu/news/faculty-spotlight-assistant-professor-ferdous-alam",
+        "summary": "Full January 12, 2026 official interview links3D foundation models, robotics and embodied engineering.",
+        "verifiedAt": "2026-10-01T12:18:00Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "inferencelab.io / source 3",
+        "url": "https://inferencelab.io/",
+        "summary": "Full current lab/publication inventory, August 2026 student arrival and current embodied-manufacturing agenda.",
+        "verifiedAt": "2026-10-01T12:18:00Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "inferencelab.io / source 4",
+        "url": "https://inferencelab.io/blog-docs/news/news_2",
+        "summary": "Indexed primary full recruiting text; direct page and cloud browser remain blank. Current exact-page referenced content bundle independently corroborates conditional visitor/fellowship section.",
+        "verifiedAt": "2026-10-01T12:18:00Z",
+        "retrieval": "indexed-primary-plus-live-public-source-asset"
+      },
+      {
+        "id": "s5",
+        "label": "inferencelab.io / source 5",
+        "url": "https://inferencelab.io/_next/static/chunks/app/blog-docs/news/news_2/page-5f65a6e74f0bc2df.js",
+        "summary": "Public script URL extracted from live page HTML, read without execution: contains complete published visiting-researcher, no-host-funding and fellowship inquiry wording.",
+        "verifiedAt": "2026-10-01T12:18:00Z",
+        "retrieval": "direct-public-page-content-asset"
+      },
+      {
+        "id": "s6",
+        "label": "par.nsf.gov / source 6",
+        "url": "https://par.nsf.gov/servlets/purl/10578459",
+        "summary": "Full2024 author manuscript: Sections3–5, learned polynomial-regression design selection and actual automated manufacturing/validation; Figure3 visually checked.",
+        "verifiedAt": "2026-10-01T12:18:00Z",
+        "retrieval": "direct-primary-pdf"
+      }
+    ],
+    "unknowns": [
+      "The complete2024 primary PDF was newly downloaded from NSF PAR, text-read and its apparatus figure visually checked. It lists Alam at Ohio State; publication dates January 12, 2024 online/March 2024 issue, despite lab list grouping it as2023.",
+      "The physically validated learner is polynomial regression plus optimization, not a neural foundation policy. Three desired performance specifications were tested, with only two meeting the desired behavior; do not claim universal autonomous success.",
+      "Full current university interview links3D shape/foundation methods to robotic precision engineering, but current 2026 Georgia Tech learned robot execution is not independently established.",
+      "Visitor text is conditional and explicitly unfunded at the host. It mentions own fellowship, not an assurance that personal savings alone suffice. The separate local Georgia Tech MS/UG section is not outside visitor eligibility.",
+      "The public recruiting page has a rendering defect in the research tools; current served page-source content is verified, but exact intake status should be reconfirmed before relying on it. No form was filled, no message sent and no funding promise inferred.",
+      "Reuse georgia-tech-student-intern policy: outside enrolled graduate students can be sponsored for degree-related research with return to home study, at least32hours/week and up to12months. Personal/department support is institutionally possible, current minimum$1800/month, but the lab’s conditional fellowship preference and actual host approval remain separate.",
+      "2027 project scope, mentor availability, period, financial documentation, insurance and university costs remain unknown.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: Uses the precisely retained earlier source-observation time, preserved during subsequent verification.",
+      "[Institutional visitor rules](../eligibility_notes.md#georgia-tech-student-intern)"
+    ],
+    "discoveryTimestampNote": "Uses the precisely retained earlier source-observation time, preserved during subsequent verification.",
+    "publicEmail": "ferdous@gatech.edu",
+    "appointmentStart": {
+      "year": 2026,
+      "month": 1,
+      "precision": "month",
+      "status": "current",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ],
+      "evidence": "Current official Robotics profile explicitly states January2026 start; January12,2026 Woodruff new-faculty interview corroborates arrival.",
+      "appointmentType": "unresolved"
+    }
+  },
+  {
+    "id": "xiao-liang",
+    "name": "Xiao Liang",
+    "aliases": [],
+    "school": "Texas A&M University",
+    "homepage": "https://sites.google.com/view/rise-tamu",
+    "title": "Assistant Professor",
+    "department": "Zachry Civil and Environmental Engineering; Mechanical Engineering affiliate; RISE Lab",
+    "batch": "embodied-092",
+    "discoveredAt": "2026-10-01T00:12:21Z",
+    "verifiedAt": "2026-10-01T12:18:00Z",
+    "researchAreas": [
+      "Vision-language-action robot disassembly",
+      "Learning-based industrial manipulation",
+      "Human-robot collaboration",
+      "Robotic sensing and structural inspection"
+    ],
+    "fitReason": "Recent current-campus AP transfer with direct2026 VLA execution on real hardware. SELF-VLA combines fine-tuned learned approach/recovery with explicit contact-rich skill execution for disassembly. No external visitor invitation is inferred.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Shared/current-institution physical20. Full March 2026 SELF-VLA describes actual UR5e, Robotiq2F-85 and two-camera execution for CPU/RAM extraction. Learned VLA planner/corrector invoke a predefined-waypoint skill library with automatic failure detection/recovery. All authors are Texas A&M; test rig is shared with Minghui Zheng’s group, and Liang’s independent ownership/access is unverified. The fixture simplifies desktop disassembly to a tabletop task; no general industrial autonomy claim.",
+      "sourceIds": [
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The current RISE homepage and official directory give professional contact but no outside-master visitor invitation. Historical2023 recruiting notice advertised2024 PhD/postdoc positions, not short visitors. Visitor0 and summer2027 supervision/funding unknown; university formal pathway alone is not a lab offer.",
+      "sourceIds": [
+        "s2",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct modern VLA/contact-rich robot execution and recovery, with shared-rig and civil-research caveats.",
+      "physical": "Verified actual2026 hardware; independent apparatus ownership/access unknown.",
+      "shortVisit": "No explicit external research-visitor route located.",
+      "freshness": "Full March 2026 robot study and current role/lab."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.tamu.edu / source 1",
+        "url": "https://engineering.tamu.edu/civil/profiles/liang-xiao.html",
+        "summary": "Full current Assistant Professor/ME affiliate and public contact.",
+        "verifiedAt": "2026-10-01T12:18:00Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "xlab.eng.buffalo.edu / source 2",
+        "url": "https://xlab.eng.buffalo.edu/research.html",
+        "summary": "University-hosted November 2023 notice announces team relocation to Texas A&M in January 2024; old PhD/postdoc intake is not a visitor invitation.",
+        "verifiedAt": "2026-10-01T12:18:00Z",
+        "retrieval": "direct-university-hosted-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "xlab.eng.buffalo.edu / source 3",
+        "url": "https://xlab.eng.buffalo.edu/biography.html",
+        "summary": "Historical university-hosted appointments: Buffalo AP fromNovember2020 and Research AP2018–2020; stale present ending is not current host.",
+        "verifiedAt": "2026-10-01T12:18:00Z",
+        "retrieval": "direct-university-hosted-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "sites.google.com / source 4",
+        "url": "https://sites.google.com/view/rise-tamu",
+        "summary": "Full current RISE PI and research agenda, with no outside-master invitation.",
+        "verifiedAt": "2026-10-01T12:18:00Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2603.11080v1",
+        "summary": "Full March 2026 SELF-VLA methods/experiment/results: actual UR5e/Robotiq rig, VLA approach/recovery plus engineered skills, fixture-limited20trial tasks.",
+        "verifiedAt": "2026-10-01T12:18:00Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Current Texas A&M appointment began with a January 2024 lab relocation announcement. Earlier university-hosted biography records Buffalo Assistant Professor fromNovember2020 and Research Assistant Professor fromSeptember2018. Do not portray him as a first-time2024 AP or infer age/acceptance probability.",
+      "SELF-VLA is a hybrid learned/engineered system, not a pure end-to-end model. Final success includes complete extraction and placement; each task/configuration has20trials and results vary greatly by backbone.",
+      "The demonstration fixture repositions CPU/RAM sockets outside cramped computer cases. Generalization to unseen orientations remains a reported weakness; no broad household/manufacturing reliability claim.",
+      "Liang is a current coauthor and faculty collaborator, while rig videos are hosted by Minghui Zheng’s lab. Physical20 preserves shared-ownership limits; separate lab hosting authority and robot access require confirmation.",
+      "Unknown outside visitor route remains unknown, not a prohibition or a local-degree invitation transferred to outsiders. No minimum duration stated for a visitor in the inspected material.",
+      "Reuse Texas A&M policy: host-requested unpaid affiliated graduate research and degree-related Student Intern categories may be possible; academic visitor and immigration classifications are separate. Current minimum$2000/month and personal/family sources can apply to short visits, but department approvals, required fees, insurance and2027 support must be confirmed.",
+      "His broader civil/inspection research is not all robot learning. Contact-rich disassembly, VLA recovery or multimodal robotic sensing would be the focused project match.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: Uses the precisely retained earlier source-observation time, preserved during subsequent verification.",
+      "[Institutional visitor rules](../eligibility_notes.md#texas-am)"
+    ],
+    "discoveryTimestampNote": "Uses the precisely retained earlier source-observation time, preserved during subsequent verification.",
+    "publicEmail": "xliang@tamu.edu",
+    "appointmentStart": {
+      "year": 2024,
+      "month": 1,
+      "precision": "month",
+      "status": "current",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ],
+      "evidence": "University-hosted former-lab November2023 announcement states January2024 relocation to Texas A&M; current university directory and2024/2026 papers confirm current appointment. Transfer, not first faculty job.",
+      "appointmentType": "institution-move"
+    }
+  }
+]

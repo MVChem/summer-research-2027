@@ -105,6 +105,8 @@
     "batches/control-095.json",
     "batches/control-106.json",
     "batches/control-107.json",
+    "batches/control-108.json",
+    "batches/control-109.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -192,7 +194,9 @@
     "batches/embodied-085.json",
     "batches/embodied-090.json",
     "batches/embodied-091.json",
+    "batches/embodied-092.json",
     "batches/embodied-093.json",
+    "batches/embodied-094.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -5534,6 +5538,94 @@
       "detailPage": "batches/control-107.md#mingyo-seo"
     },
     {
+      "id": "ramesh-bahadur-bist",
+      "name": "Ramesh Bahadur Bist",
+      "aliases": [
+        "Ramesh Bist",
+        "Ramesh B. Bist",
+        "Ramesh B Bist"
+      ],
+      "school": "North Carolina State University",
+      "title": "Assistant Professor (joined summer 2025)",
+      "homepage": "https://bae.ncsu.edu/people/ramesh-bist/",
+      "batch": "control-108",
+      "discoveredAt": "2026-10-01T12:17:00Z",
+      "verifiedAt": "2026-10-01T12:23:32Z",
+      "scores": {
+        "fit": 36,
+        "physical": 18,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Vision-language-action humanoid manipulation",
+        "Agricultural robot learning",
+        "Imitation learning for produce handling",
+        "Livestock perception and autonomous systems"
+      ],
+      "physicalEvidenceStatus": "Limited primary-author report of current learned G1 execution; physical18; full protocol and visual playback unverified",
+      "physicalEvidenceLabel": "受限真机证据：Limited primary-author report of current learned G1 execution; physical18; full protocol and visual playback unverified",
+      "shortVisitStatus": "unknown · 真机仅作者描述；完整协议及视频动作未核",
+      "recordFile": "batches/control-108.json",
+      "detailPage": "batches/control-108.md#ramesh-bahadur-bist"
+    },
+    {
+      "id": "hiroyasu-tsukamoto",
+      "name": "Hiroyasu Tsukamoto",
+      "aliases": [
+        "Tsukamoto Hiroyasu"
+      ],
+      "school": "University of Illinois Urbana-Champaign",
+      "title": "Assistant Professor (joined fall 2024); concurrent KAIST Visiting Professor",
+      "homepage": "https://aerospace.illinois.edu/directory/profile/hiroyasu",
+      "batch": "control-108",
+      "discoveredAt": "2026-10-01T12:20:19Z",
+      "verifiedAt": "2026-10-01T12:23:32Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Learning-based nonlinear robot control",
+        "Conformal uncertainty and safety",
+        "Neural Koopman dynamics",
+        "Aerial and spacecraft autonomy"
+      ],
+      "shortVisitStatus": "precedent-only · 特定暑期项目已关闭；未核实一般访客入口",
+      "recordFile": "batches/control-108.json",
+      "detailPage": "batches/control-108.md#hiroyasu-tsukamoto"
+    },
+    {
+      "id": "vittorio-giammarino",
+      "name": "Vittorio Giammarino",
+      "aliases": [],
+      "school": "University of South Florida",
+      "title": "Assistant Professor (joined August 2026); LEA Lab Director",
+      "homepage": "https://vittoriogiammarino.github.io/",
+      "batch": "control-109",
+      "discoveredAt": "2026-10-01T12:26:29Z",
+      "verifiedAt": "2026-10-01T12:27:32Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Physics-informed reinforcement learning",
+        "Contact-rich manipulation",
+        "Hierarchical goal-conditioned policy learning",
+        "Formal methods and robust robot imitation"
+      ],
+      "physicalEvidenceStatus": "Verified May2026 prior-Purdue learned UR5e execution; physical20; current USF hardware unknown",
+      "physicalEvidenceLabel": "受限真机证据：Verified May2026 prior-Purdue learned UR5e execution; physical20; current USF hardware unknown",
+      "shortVisitStatus": "degree-only · 当前MS/UG段落仅限USF本校",
+      "recordFile": "batches/control-109.json",
+      "detailPage": "batches/control-109.md#vittorio-giammarino"
+    },
+    {
       "id": "tom-silver",
       "name": "Tom Silver",
       "aliases": [],
@@ -10140,6 +10232,63 @@
       "detailPage": "batches/embodied-091.md#zishen-wan"
     },
     {
+      "id": "ferdous-alam",
+      "name": "Ferdous Alam",
+      "aliases": [
+        "Md Ferdous Alam",
+        "Md. Ferdous Alam"
+      ],
+      "school": "Georgia Institute of Technology",
+      "title": "Assistant Professor",
+      "homepage": "https://inferencelab.io/",
+      "batch": "embodied-092",
+      "discoveredAt": "2026-10-01T02:56:13Z",
+      "verifiedAt": "2026-10-01T12:18:00Z",
+      "scores": {
+        "fit": 32,
+        "physical": 20,
+        "shortVisit": 8,
+        "freshness": 13
+      },
+      "researchAreas": [
+        "Embodied manufacturing intelligence",
+        "Learning-based autonomous fabrication",
+        "3D shape and CAD foundation models",
+        "Physics-guided engineering AI"
+      ],
+      "discoveryTimestampNote": "Uses the precisely retained earlier source-observation time, preserved during subsequent verification.",
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/embodied-092.json",
+      "detailPage": "batches/embodied-092.md#ferdous-alam"
+    },
+    {
+      "id": "xiao-liang",
+      "name": "Xiao Liang",
+      "aliases": [],
+      "school": "Texas A&M University",
+      "title": "Assistant Professor",
+      "homepage": "https://sites.google.com/view/rise-tamu",
+      "batch": "embodied-092",
+      "discoveredAt": "2026-10-01T00:12:21Z",
+      "verifiedAt": "2026-10-01T12:18:00Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Vision-language-action robot disassembly",
+        "Learning-based industrial manipulation",
+        "Human-robot collaboration",
+        "Robotic sensing and structural inspection"
+      ],
+      "discoveryTimestampNote": "Uses the precisely retained earlier source-observation time, preserved during subsequent verification.",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-092.json",
+      "detailPage": "batches/embodied-092.md#xiao-liang"
+    },
+    {
       "id": "jiatao-gu",
       "name": "Jiatao Gu",
       "aliases": [
@@ -10166,6 +10315,31 @@
       "shortVisitStatus": "inquiry-only",
       "recordFile": "batches/embodied-093.json",
       "detailPage": "batches/embodied-093.md#jiatao-gu"
+    },
+    {
+      "id": "jun-gao",
+      "name": "Jun Gao",
+      "aliases": [],
+      "school": "University of Michigan–Ann Arbor",
+      "title": "Assistant Professor",
+      "homepage": "https://j-lab.ai/",
+      "batch": "embodied-094",
+      "discoveredAt": "2026-10-01T12:32:02Z",
+      "verifiedAt": "2026-10-01T12:39:50Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Affordance foundation models and language-grounded manipulation",
+        "3D generative AI and spatial representations",
+        "Robot action-conditioned world models"
+      ],
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/embodied-094.json",
+      "detailPage": "batches/embodied-094.md#jun-gao"
     },
     {
       "id": "henny-admoni",

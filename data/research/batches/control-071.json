@@ -9,7 +9,7 @@
     "department": "School of Computing and Augmented Intelligence",
     "batch": "control-071",
     "discoveredAt": "2026-09-30T23:30:24Z",
-    "verifiedAt": "2026-10-01T06:11:26Z",
+    "verifiedAt": "2026-10-01T11:41:25Z",
     "researchAreas": [
       "Sim-to-real reinforcement learning",
       "Learning from demonstration",
@@ -107,9 +107,17 @@
         "id": "s8",
         "label": "proceedings.iclr.cc / source 8",
         "url": "https://proceedings.iclr.cc/paper_files/paper/2026/file/3d57b2c9e75aa0fd11d8ab3abde6615c-Paper-Conference.pdf",
-        "summary": "Earlier peer verification found Found-adapt’s physical hardware remains future work; retained as simulation-only context, not the basis of promotion.",
+        "summary": "The previously inspected Found-adapt primary paper places physical hardware in future work; retained as simulation-only context, not evidence of physical deployment.",
         "verifiedAt": "2026-10-01T00:46:00Z",
-        "retrieval": "Previously verified primary full PDF in preserved embodied exclusion record, checked 2026-10-01T00:46:00Z"
+        "retrieval": "Previously reviewed full primary PDF, checked 2026-10-01T00:46:00Z; not freshly reopened in this update"
+      },
+      {
+        "id": "s9",
+        "label": "Current official ASU lab-linked CV",
+        "url": "https://labs.engineering.asu.edu/hw/sites/g/files/litvpz6146/files/2026-09/CV_website.pdf",
+        "summary": "Complete current lab-linked CV confirms ASU Assistant Professor since August 2023 and hua.wei@asu.edu. The prior s2 URL returned 404 during a later check; its original observation remains preserved.",
+        "verifiedAt": "2026-10-01T11:41:25Z",
+        "retrieval": "Full official PDF successfully fetched after request began 11:38:46Z; rendered first page checked at 11:41:25Z"
       }
     ],
     "unknowns": [
@@ -119,6 +127,15 @@
       "[ASU institutional visitor rules](../eligibility_notes.md#asu-visiting-categories)"
     ],
     "discoveryTimestampNote": "First precisely preserved screening time; earlier preliminary lead time is unavailable and was not reconstructed.",
-    "publicEmail": "hua.wei@asu.edu"
+    "publicEmail": "hua.wei@asu.edu",
+    "verificationAttempts": [
+      {
+        "attemptedAt": "2026-10-01T11:36:45Z",
+        "sourceIds": [
+          "s2"
+        ],
+        "outcome": "Request start time, truncated to whole seconds from the preserved log; old CV URL returned HTTP 404 Not Found. Response time was not separately recorded. Original source verification was not rewritten; current CV is added as s9."
+      }
+    ]
   }
 ]

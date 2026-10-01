@@ -48,7 +48,7 @@
 | 38 | [Jiefeng Sun](batches/control-014.md#jiefeng-sun) · Arizona State University | 84 (34/25/10/15) | inquiry-only | 2026-09-30T23:18:10Z | 2026-09-30T23:20:06Z |
 | 39 | [Dan Ding](batches/hri-005.md#dan-ding) · University of Pittsburgh | 83 (38/25/5/15) | inquiry-only | 2026-09-30T21:54:45Z | 2026-09-30T22:58:28Z |
 | 40 | [Yu Gu](batches/control-034.md#yu-gu) · West Virginia University | 83 (38/25/5/15) | dated-live-inquiry · 页面2021文本，2027未确认 | 2026-10-01T01:34:26Z | 2026-10-01T01:39:31Z |
-| 41 | [Hua Wei](batches/control-071.md#hua-wei) · Arizona State University | 83 (38/22/8/15) | inquiry-only · self-funded, ASU category unresolved | 2026-09-30T23:30:24Z † | 2026-10-01T06:11:26Z |
+| 41 | [Hua Wei](batches/control-071.md#hua-wei) · Arizona State University | 83 (38/22/8/15) | inquiry-only · self-funded, ASU category unresolved | 2026-09-30T23:30:24Z † | 2026-10-01T11:41:25Z |
 | 42 | [Neel P. Bhatt](batches/control-013.md#neel-p-bhatt) · University of Texas at Dallas | 83 (38/20/10/15) | inquiry-only | 2026-09-30T22:50:06Z | 2026-09-30T22:55:17Z |
 | 43 | [Na Du](batches/hri-013.md#na-du) · University of Pittsburgh | 83 (38/20/10/15) | inquiry-only | 2026-09-30T23:02:43Z | 2026-09-30T23:08:39Z |
 | 44 | [Thomas A. Berrueta](batches/control-009.md#thomas-a-berrueta) · Stanford University (announced appointment starts November 1, 2026) | 82 (40/20/8/14) | inquiry-only · 2026-11-01拟入职 | 2026-09-30T22:33:42Z | 2026-09-30T22:35:56Z |

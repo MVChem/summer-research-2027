@@ -48,7 +48,7 @@
 | [Yu She](batches/embodied-002.md#yu-she) · Purdue University | 38/25/7 | **公开问询入口；详细资格与期限未定** | [s3](https://www.purduemars.com/prospective-students) | 2026-09-30T21:55:32Z |
 | [Dan Ding](batches/hri-005.md#dan-ding) · University of Pittsburgh | 38/25/5 | **公开问询入口；详细资格与期限未定** | [s4](https://www.shrs.pitt.edu/academics/rst/) | 2026-09-30T22:58:28Z |
 | [Yu Gu](batches/control-034.md#yu-gu) · West Virginia University | 38/25/5 | **当前可读访客入口标注2021；2027接收须重新确认** | [s3](https://yugu.faculty.wvu.edu/join-us) | 2026-10-01T01:39:31Z |
-| [Hua Wei](batches/control-071.md#hua-wei) · Arizona State University | 38/22/8 | **实验室欢迎自费访客；ASU类别/资金规则仍须核定** | [s3](https://labs.engineering.asu.edu/hw/prospective-students) [s4](https://labs.engineering.asu.edu/hw/) [规则](eligibility_notes.md#asu-visiting-categories) | 2026-10-01T06:11:26Z |
+| [Hua Wei](batches/control-071.md#hua-wei) · Arizona State University | 38/22/8 | **实验室欢迎自费访客；ASU类别/资金规则仍须核定** | [s3](https://labs.engineering.asu.edu/hw/prospective-students) [s4](https://labs.engineering.asu.edu/hw/) [规则](eligibility_notes.md#asu-visiting-categories) | 2026-10-01T11:41:25Z |
 | [Neel P. Bhatt](batches/control-013.md#neel-p-bhatt) · University of Texas at Dallas | 38/20/10 | **公开问询入口；详细资格与期限未定** | [s2](https://neel1302.github.io/) | 2026-09-30T22:55:17Z |
 | [Na Du](batches/hri-013.md#na-du) · University of Pittsburgh | 38/20/10 | **公开问询入口；详细资格与期限未定** | [s2](https://nadu-pitt.github.io/prospective_students) | 2026-09-30T23:08:39Z |
 | [Shan Lin](batches/embodied-007.md#shan-lin) · Arizona State University | 38/20/9 | **公开问询入口；详细资格与期限未定** | [s2](https://marginlab.github.io/opportunities) | 2026-09-30T22:45:56Z |

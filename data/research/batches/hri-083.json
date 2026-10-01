@@ -1,0 +1,166 @@
+[
+  {
+    "id": "matthew-johnson",
+    "name": "Matthew Johnson",
+    "aliases": [
+      "Matt Johnson",
+      "Matthew Johnson (IHMC/UWF)"
+    ],
+    "school": "University of West Florida / Florida Institute for Human & Machine Cognition",
+    "homepage": "https://www.ihmc.us/groups/mjohnson/",
+    "title": "Research Scientist, dual UWF/IHMC ISR appointment; IHMC coordinator for the joint ISR PhD program",
+    "department": "Intelligent Systems and Robotics joint doctoral program; IHMC Human-Machine Teaming",
+    "batch": "hri-083",
+    "discoveredAt": "2026-10-01T10:24:05Z",
+    "verifiedAt": "2026-10-01T10:35:59Z",
+    "researchAreas": [
+      "Human-machine teaming",
+      "Multi-agent reinforcement learning",
+      "Macro-action planning",
+      "Human-robot interaction",
+      "Team scalability and human supervision"
+    ],
+    "fitReason": "A university-linked HRI mentor with official UWF ISR faculty listing, independently confirmed dual appointment, and directed human-machine teaming work. His robot-AI evidence includes event-driven reinforcement learning transferred to actual aerial robots. The host is in Pensacola and institutional affiliation must not be confused with a guaranteed UWF-sponsored IHMC visit. Official UWF repository records independently identify Johnson as co-chair of a 2025 ISR PhD dissertation, supporting degree-program advising without implying conventional tenure status or visitor-host authority.",
+    "physicalEvidence": {
+      "status": "historical-or-indirect",
+      "summary": "The complete author-uploaded 2023 CTF paper uses PPO-based macro-action selection on actual IHMC WASP UAVs in a bounded capture-the-flag game. Trained strategies select high-level actions; low-level flight and safety routines are conventionally engineered. Table 2 reports eight wins and two ties in ten hardware trials, despite a conflicting 90% statement in the prose. The first author dates this project to May–August 2021, so hardware is historical. The full 2025 fan-out paper instead evaluates simulated robots in a JavaScript escape-room task. The February 2026 equipment grant describes planned acquisitions, not newly completed learned execution.",
+      "sourceIds": [
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "incompatible · 当前3–9个月；旧暑期至少9周且需工作许可",
+      "summary": "No approximately eight-week Summer 2027 placement or remote offer was verified. The applicable-looking IHMC self-directed internship explicitly accepts visiting/master-thesis work but requires three to nine months and is unpaid. The expired 2025 paid summer software call accepted graduate students but required at least nine weeks and US work authorization. Current 2026 detailed calls require institutional sign-in. These are practical longer-route leads, not eight-week availability evidence; short-visit score remains zero.",
+      "sourceIds": [
+        "s8",
+        "s9",
+        "s10"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong human-machine teaming, multi-agent RL and high-level robot decision methods.",
+      "physical": "Actual learned macro-action execution is verified, but the first author dates the project to 2021 and only ten hardware trials are reported.",
+      "shortVisit": "Published routes require longer stays; no approximately eight-week exception, 2027 offer or international sponsorship is confirmed.",
+      "freshness": "Current university-linked appointment and 2025–2026 research activity, with older deployment dates kept explicit."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "uwf.edu / source 1",
+        "url": "https://uwf.edu/intelligent-systems-and-robotics/faculty/ihmc-research-scientists/dr-matthew-johnson.html",
+        "summary": "Direct official ISR faculty listing identifies Research Scientist, IHMC department, Pensacola and professional contact.",
+        "verifiedAt": "2026-10-01T10:31:24Z"
+      },
+      {
+        "id": "s2",
+        "label": "news.uwf.edu / source 2",
+        "url": "https://news.uwf.edu/uwf-ihmc-awarded-775k-onr-grant-to-support-isr-research/",
+        "summary": "Official February 18, 2026 statement confirms Johnson and Griffin dual IHMC/UWF appointments and participation in the ISR program. Equipment purchase is future-directed.",
+        "verifiedAt": "2026-10-01T10:31:24Z"
+      },
+      {
+        "id": "s3",
+        "label": "www.ihmc.us / source 3",
+        "url": "https://www.ihmc.us/groups/mjohnson/",
+        "summary": "Current official lab biography identifies directed human-machine teaming research and coordination of the UWF/IHMC doctoral program. Hardware-transfer project videos are linked; exact faculty-title ambiguity retained.",
+        "verifiedAt": "2026-10-01T10:31:24Z"
+      },
+      {
+        "id": "s4",
+        "label": "www.ihmc.us / source 4",
+        "url": "https://www.ihmc.us/matthew-johnsons-publications/",
+        "summary": "Official author bibliography links the complete CTF paper and current 2025–2026 HRI/human-machine research.",
+        "verifiedAt": "2026-10-01T10:31:24Z"
+      },
+      {
+        "id": "s5",
+        "label": "www.researchgate.net / source 5",
+        "url": "https://www.researchgate.net/publication/374661539_Multi-agent_Reinforcement_Learning_for_Unmanned_Aerial_Vehicle_Capture-The-Flag_Game_Behavior",
+        "summary": "Primary manuscript uploaded by Matthew Johnson and directly linked from his official bibliography. Full method and Table 2 verify real learned macro-action execution, small sample, classical flight routines and prose/table discrepancy.",
+        "verifiedAt": "2026-10-01T10:31:24Z"
+      },
+      {
+        "id": "s6",
+        "label": "tobiasjacob.com / source 6",
+        "url": "https://tobiasjacob.com/de/",
+        "summary": "First author’s project history dates drone CTF work to May 17–August 13, 2021, establishing older hardware chronology rather than equating the 2023 manuscript upload with new experiments.",
+        "verifiedAt": "2026-10-01T10:31:24Z"
+      },
+      {
+        "id": "s7",
+        "label": "faculty.cs.byu.edu / source 7",
+        "url": "https://faculty.cs.byu.edu/~mike/mikeg/papers/Fan-Out_Revisited_The_Impact_of_the_Human_Element_on_Scalability_of_Human_Multi-Robot_Teams.pdf",
+        "summary": "Full author-hosted 2025 ICRA paper uses a simulated escape-room human/multi-robot task, not additional physical learned deployment.",
+        "verifiedAt": "2026-10-01T10:31:24Z"
+      },
+      {
+        "id": "s8",
+        "label": "www.ihmc.us / source 8",
+        "url": "https://www.ihmc.us/self-directed-study-internship/",
+        "summary": "Institutional source reused from the 10:25:47 UTC policy check: visitors and master-thesis work, unpaid, three-to-nine-month duration; no eight-week exception.",
+        "verifiedAt": "2026-10-01T10:25:47Z",
+        "retrieval": "Reused earlier institution-specific review; restricted content was not accessed"
+      },
+      {
+        "id": "s9",
+        "label": "www.ihmc.us / source 9",
+        "url": "https://www.ihmc.us/summer-2025-software-engineering-internship/",
+        "summary": "Same prior policy check: expired paid graduate-eligible summer call required at least nine weeks and US work authorization; not a 2027 offer.",
+        "verifiedAt": "2026-10-01T10:25:47Z",
+        "retrieval": "Reused earlier institution-specific review; restricted content was not accessed"
+      },
+      {
+        "id": "s10",
+        "label": "ncca.ihmc.org / source 10",
+        "url": "https://ncca.ihmc.org/opportunities/",
+        "summary": "Same prior policy check: 2026 index exists but detailed linked calls redirect to institutional sign-in; unseen eligibility is unknown.",
+        "verifiedAt": "2026-10-01T10:25:47Z",
+        "retrieval": "Reused earlier institution-specific review; restricted content was not accessed"
+      },
+      {
+        "id": "s11",
+        "label": "uwf.edu / source 11",
+        "url": "https://uwf.edu/student-affairs/departments/global-engagement/faculty-services/",
+        "summary": "Same prior policy check: public scholar request lead time is at least 90 days; detailed form permission-restricted and not accessed.",
+        "verifiedAt": "2026-10-01T10:25:47Z",
+        "retrieval": "Reused earlier institution-specific review; restricted content was not accessed"
+      },
+      {
+        "id": "s12",
+        "label": "uwf.edu / source 12",
+        "url": "https://uwf.edu/academic-affairs/departments/research-administration-engagement/research-integrity-compliance/international-collaborations-and-travel/",
+        "summary": "Same prior policy check: institutional international-research review; no automatic approval of this visitor or transfer of sponsorship to IHMC.",
+        "verifiedAt": "2026-10-01T10:25:47Z",
+        "retrieval": "Reused earlier institution-specific review; restricted content was not accessed"
+      },
+      {
+        "id": "s13",
+        "label": "UWF Libraries: completed ISR doctoral co-supervision",
+        "url": "https://ircommons.uwf.edu/esploro/outputs/doctoral/A-Predictive-Model-for-Understanding-and/99381563233106600",
+        "summary": "Official 2025 ISR PhD record lists Matthew Johnson and Hakki Erhan Sevil as Committee Co-Chairs. This corroborates academic mentoring beyond a generic institute-staff biography.",
+        "verifiedAt": "2026-10-01T10:35:59Z",
+        "retrieval": "Full official repository record directly read"
+      }
+    ],
+    "unknowns": [
+      "Exact role is conservatively taken from the official UWF Research Scientist profile and February 2026 dual-appointment statement. The IHMC biography also uses “UWF Director of Research Professor”; that ambiguous phrase is not silently promoted to a conventional tenured professorship.",
+      "IHMC and UWF are separate legal hosts. Confirm where the work occurs, which entity appoints and supervises the visitor, and who can sponsor any required immigration category.",
+      "Previously verified institutional guidance is reused from 2026-10-01T10:25:47Z. Current self-directed duration is three to nine months; the historical paid summer minimum was nine weeks. Any approximately eight-week exception is unverified.",
+      "Public UWF scholar guidance requires a departmental request at least 90 days ahead. Restricted detailed forms were not accessed. External-master classification, sponsor, personal-funding allowance, support minimum, charges and insurance remain unknown.",
+      "Project-specific research-security/export review and human-subject or flight permissions may apply. No work authorization or access to restricted projects is inferred from an unpaid role or degree-program affiliation.",
+      "Historical UAV testing is small-sample proof of concept. Current robots, funding, faculty capacity and access for an external short visitor require confirmation; the 2026 grant is not an invitation.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#ihmc-uwf)"
+    ],
+    "publicEmail": "mjohnson@ihmc.us"
+  }
+]

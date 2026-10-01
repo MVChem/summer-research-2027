@@ -264,7 +264,8 @@
     "batches/hri-078.json",
     "batches/hri-079.json",
     "batches/hri-080.json",
-    "batches/hri-081.json"
+    "batches/hri-081.json",
+    "batches/hri-083.json"
   ],
   "candidates": [
     {
@@ -14124,6 +14125,38 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-081.json",
       "detailPage": "batches/hri-081.md#zhidong-su"
+    },
+    {
+      "id": "matthew-johnson",
+      "name": "Matthew Johnson",
+      "aliases": [
+        "Matt Johnson",
+        "Matthew Johnson (IHMC/UWF)"
+      ],
+      "school": "University of West Florida / Florida Institute for Human & Machine Cognition",
+      "title": "Research Scientist, dual UWF/IHMC ISR appointment; IHMC coordinator for the joint ISR PhD program",
+      "homepage": "https://www.ihmc.us/groups/mjohnson/",
+      "batch": "hri-083",
+      "discoveredAt": "2026-10-01T10:24:05Z",
+      "verifiedAt": "2026-10-01T10:35:59Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-machine teaming",
+        "Multi-agent reinforcement learning",
+        "Macro-action planning",
+        "Human-robot interaction",
+        "Team scalability and human supervision"
+      ],
+      "physicalEvidenceStatus": "historical-or-indirect",
+      "physicalEvidenceLabel": "受限真机证据：historical-or-indirect",
+      "shortVisitStatus": "incompatible · 当前3–9个月；旧暑期至少9周且需工作许可",
+      "recordFile": "batches/hri-083.json",
+      "detailPage": "batches/hri-083.md#matthew-johnson"
     }
   ]
 }

@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "scope": "Optional research-institute leads; excluded from primary faculty counts and ranking",
+  "candidates": [
+    {
+      "fullName": "Yogesh Girdhar",
+      "aliases": [
+        "Yogi Girdhar",
+        "Yogesh A. Girdhar"
+      ],
+      "institution": "Woods Hole Oceanographic Institution (WHOI)",
+      "department": "Applied Ocean Physics and Engineering; Autonomous Robotics and Perception Laboratory (WARPLab)",
+      "title": "Associate Scientist; WARPLab Principal Investigator",
+      "homepage": "https://warp.whoi.edu/",
+      "scopeCategory": "optional adjacent research-institute scientist; outside primary US-university-faculty roster",
+      "includeInPrimaryRanking": false,
+      "researchAreas": [
+        "robot perception and 3D reconstruction",
+        "multimodal SLAM",
+        "marine autonomous exploration",
+        "machine learning for environmental understanding",
+        "information-guided active sensing"
+      ],
+      "fitReason": "Strong CS/AI and physical-robot intersection in uncertain visual environments: learned depth, DINOv2 features, 3D Gaussian representations and probabilistic exploration. Less aligned with social HRI or manipulation; suitable only if marine embodied perception is an acceptable adjacent direction. WHOI scientist role is not represented as a university faculty appointment.",
+      "physicalRobotEvidence": "ReefMapGS (April 2026) uses actual CUREE autonomous reef surveys with camera, DVL, IMU and pressure sensors, covering 347.3m and 695.5m. It combines learned depth/uncertainty with 3DGS and factor-graph pose refinement; evaluation is workstation-based, not evidence of the entire pipeline controlling the AUV onboard in real time. A separate July 2026 lab report for its Science Robotics study documents autonomous acoustic-visual hotspot seeking in the Caribbean.",
+      "opportunityEvidence": "WARPLab directly invites inquiry and lists Guest Students under Graduates. Current institutional guest route accepts full-time graduate students for two weeks to two years year-round, subject to confirmed staff-scientist sponsor, home-advisor agreement and approvals. No specific 2027 slot or funding is promised.",
+      "opportunityStatus": "inquiry route only; summer 2027 unconfirmed; optional adjacent institution",
+      "eligibilityCaveats": [
+        "Separate optional group: research-institute scientist, with no current university faculty host appointment verified. Do not merge into the primary faculty count or ranking.",
+        "Eight weeks fits the academic guest duration. Home-university educational objectives, host availability and approvals must align.",
+        "Guest agreement permits no financial compensation, but wholly personal funding for the approved immigration category remains unconfirmed; monthly threshold, fees and visa lead time need Foreign National Advisor confirmation.",
+        "Guest students arrange room/board and insurance; summer institutional housing is very limited.",
+        "Field deployment or boat/diving access is project-specific and not guaranteed by a guest appointment.",
+        "2026 undergraduate Summer Student Fellowship projects are not used as evidence that an enrolled master’s student qualifies for that separate program."
+      ],
+      "publicEmail": "yogi@whoi.edu",
+      "sources": [
+        {
+          "url": "https://www.whoi.edu/what-we-do/understand/departments-centers-labs/aope/aope-people/scientific-staff/",
+          "evidence": "Current official AOPE directory lists Yogesh Girdhar as Associate Scientist."
+        },
+        {
+          "url": "https://warp.whoi.edu/about/",
+          "evidence": "WARPLab PI, marine robotics, machine learning and exploration; past McGill MS guest student is historical precedent only."
+        },
+        {
+          "url": "https://warp.whoi.edu/prospective-students/",
+          "evidence": "Direct lab inquiry invitation, public yogi@whoi.edu, and Guest Students link specifically under Graduates."
+        },
+        {
+          "url": "https://arxiv.org/html/2604.11992v1",
+          "evidence": "April 2026 ReefMapGS: actual CUREE surveys at Tektite and Yawzi, 347.3m and 695.5m; DINOv2 uncertainty and fine-tuned DepthAnythingV2 with multimodal SLAM/3DGS. Reconstruction experiments run on workstation GPU, not proven onboard online control."
+        },
+        {
+          "url": "https://warp.whoi.edu/autonomous-seeking-and-mapping-coral-reef-biodiversity-hotspots-with-a-multimodal-auv/",
+          "evidence": "July 14, 2026 author/lab report for Science Robotics study: AUV uses passive acoustics and visual sensing plus generative reef model to seek and map a biological hotspot in Caribbean field case."
+        },
+        {
+          "url": "https://www.whoi.edu/what-we-do/educate/gueststudent/",
+          "evidence": "Year-round full-time external graduate and undergraduate research guest appointments, two weeks to two years, staff-scientist sponsor required; regular working hours, own room/board and insurance, limited summer housing."
+        },
+        {
+          "url": "https://www.whoi.edu/what-we-do/educate/gueststudent/gueststudent-admissions/",
+          "evidence": "Graduate students eligible; sponsor first, home-advisor agreement, CV and application; rolling applications."
+        },
+        {
+          "url": "https://www.whoi.edu/wp-content/uploads/2025/04/GS-agreement_fillable.pdf",
+          "evidence": "Graduate checkbox and home-advisor/WHOI sponsor/Foreign National Advisor/department/dean signatures; educational and mentoring plan; separate no-compensation options for home/external source and WHOI. This does not independently approve all-personal immigration funding."
+        },
+        {
+          "url": "https://website.whoi.edu/internationalcommittee/faq/",
+          "evidence": "WHOI Foreign National Office verifies sponsor, appropriate appointment and full-duration funding, and oversees J-1 sponsorship; exact personal-funding threshold/category not established."
+        }
+      ],
+      "discoveredAt": "2026-10-01T00:55:42Z",
+      "verifiedAt": "2026-10-01T00:58:56Z",
+      "scoringMode": "unranked-adjacent; not comparable to the primary faculty ranking"
+    }
+  ]
+}

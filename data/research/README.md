@@ -66,3 +66,7 @@ python scripts/test_research_ledger.py
 ## v1 → v2 迁移
 
 迁移前检查点：[6c6e9877edf10b0b11dafc6294e761176a1fa902](https://github.com/MVChem/summer-research-2027/commit/6c6e9877edf10b0b11dafc6294e761176a1fa902)。110 条完整记录按稳定键逐字段比较一致，没有删除来源、改写首次发现时间或修改原 200 位。需要撤销格式迁移时，可对对应迁移 commit 使用 git revert；已有历史仍可直接查看。
+
+## 可选研究机构方向
+
+[研究机构延伸线索](adjacent_leads.md) 单独记录非大学教师主名单的研究科学家。其发现/核查时间与来源照常保留，不计入主名单人数，不与主排序混排或作分数等同。

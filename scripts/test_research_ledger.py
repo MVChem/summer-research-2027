@@ -290,6 +290,13 @@ class ResearchLedgerTests(unittest.TestCase):
         self.assertEqual(ledger.physical_evidence_label(row), "弱/历史真机线索")
         self.assertEqual(row["scores"]["physical"], 10)
 
+    def test_embedded_perception_does_not_imply_actuation(self):
+        row = copy.deepcopy(self.full["candidates"][0])
+        row["physicalEvidence"]["status"] = "embedded-perception-only; actuation-unverified"
+        row["scores"]["physical"] = 10
+        self.assertEqual(ledger.physical_evidence_label(row), "仅嵌入式感知；机器人执行未核")
+        self.assertEqual(row["scores"]["physical"], 10)
+
     def test_verified_hardware_has_no_backup_label(self):
         row = copy.deepcopy(self.full["candidates"][0])
         row["physicalEvidence"]["status"] = "public-hardware-evidence"

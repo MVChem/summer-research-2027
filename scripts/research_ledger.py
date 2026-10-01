@@ -207,6 +207,8 @@ def render(data):
 def physical_evidence_label(row):
     """Expose limited evidence without re-scoring or inventing hardware access."""
     status = row["physicalEvidence"]["status"]
+    if status == "embedded-perception-only; actuation-unverified":
+        return "仅嵌入式感知；机器人执行未核"
     if status == "robot-collected-data; online-learned-deployment-unverified":
         return "机器人采集数据；在线学习部署未核实"
     if status == "AI相关 · 真机待核实":

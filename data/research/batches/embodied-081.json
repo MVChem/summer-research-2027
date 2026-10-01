@@ -1,0 +1,141 @@
+[
+  {
+    "id": "ross-greer",
+    "name": "Ross Greer",
+    "aliases": [],
+    "school": "University of California, Merced",
+    "homepage": "https://rossgreer.com/",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering; Mi3 Laboratory",
+    "batch": "embodied-081",
+    "discoveredAt": "2026-10-01T10:14:05Z",
+    "verifiedAt": "2026-10-01T10:21:01Z",
+    "researchAreas": [
+      "Vision-language driving and trajectory planning",
+      "Robot perception",
+      "Human-robot communication",
+      "Open-world autonomous-system safety"
+    ],
+    "fitReason": "Strong visitor-first embodied-perception and language-conditioned planning match. Current methods combine VLMs with free-form passenger instructions and YOLO/CLIP perception with temporally stable road-hazard reasoning. Suitable as a lower-physical-confidence research backup; not verified as a current end-to-end learned vehicle-control placement.",
+    "physicalEvidence": {
+      "status": "embedded-perception-only; actuation-unverified",
+      "summary": "Physical10 for limited current embedded perception, not closed-loop robot policy execution. Full June 2026 work-zone paper deploys YOLO/CLIP and temporal state estimation on a Jetson Nano/RealSense inside a vehicle, around15FPS; OCR is separately evaluated on AGX Orin. Its output is work-zone/speed awareness, with downstream actuation explicitly separate. Current university reporting confirms a local autonomous RoboRacer but does not identify a learned controller. Full February 2026 OpenEMMA/doScenes work is offline trajectory prediction on nuScenes logs, not real driving execution.",
+      "sourceIds": [
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only · 访客需自筹支持；八周与类别未定",
+      "summary": "Full current prospective-members page explicitly welcomes researchers from other institutions for short or long visits, expects visitors to be self-funded, and requests CV plus research interests. The official university awards page independently identifies Tonko Bossen as an actual visiting MS student from Aalborg, spending a semester in Mi3. This is a usable inquiry route, not an eight-week 2027 acceptance. Visitor10.",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 10,
+      "shortVisit": 10,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct VLM planning, robot perception and human instruction methods.",
+      "physical": "Actual onboard neural perception, but no verified learned closed-loop robot actuation.",
+      "shortVisit": "Current short outside-visitor invitation plus real MS precedent; exact 2027 eight-week terms unknown.",
+      "freshness": "Current official faculty/lab pages and full 2026 papers."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "eecs.ucmerced.edu / source 1",
+        "url": "https://eecs.ucmerced.edu/content/ross-greer",
+        "summary": "Full official current assistant-professor appointment, institutional email and research scope.",
+        "verifiedAt": "2026-10-01T10:21:01Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "rossgreer.com / source 2",
+        "url": "https://rossgreer.com/",
+        "summary": "Full current personal page, Mi3 leadership, joined 2024 and 2026 research activity.",
+        "verifiedAt": "2026-10-01T10:21:01Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "mi3-lab.github.io / source 3",
+        "url": "https://mi3-lab.github.io/prospective",
+        "summary": "Full distinct outside-institution short/long visiting-researcher section; self-funding expectation and CV/research inquiry. Separate degree-funding and undergraduate-duration rules.",
+        "verifiedAt": "2026-10-01T10:21:01Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "news.ucmerced.edu / source 4",
+        "url": "https://news.ucmerced.edu/grants-accolades-and-awards",
+        "summary": "Full official entries identify Tonko Bossen as visiting Aalborg MS student and semester visitor, with 2025 VLM/navigation research.",
+        "verifiedAt": "2026-10-01T10:21:01Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "mi3-lab.github.io / source 5",
+        "url": "https://mi3-lab.github.io/people",
+        "summary": "Full current graduate/visitor roster and Bossen in alumni; not a new vacancy claim.",
+        "verifiedAt": "2026-10-01T10:21:01Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2602.04184v1",
+        "summary": "Full February 2026 OpenEMMA/doScenes methods, §III offline nuScenes data and slow inference, §IV trajectory-error evaluation; no vehicle execution.",
+        "verifiedAt": "2026-10-01T10:21:01Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s7",
+        "label": "arxiv.org / source 7",
+        "url": "https://arxiv.org/html/2606.08860v1",
+        "summary": "Full June 2026 work-zone system, §IV-D actuation separation, §IV-E actual onboard deployment, §V recorded-data evaluation.",
+        "verifiedAt": "2026-10-01T10:21:01Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s8",
+        "label": "news.ucmerced.edu / source 8",
+        "url": "https://news.ucmerced.edu/news/2026/what-do-driverless-cars-and-building-evacuation-routes-have-common-lab-uc-merced",
+        "summary": "Full July 8, 2026 official report of local RoboRacer and separate vehicle-camera alerts; no sufficiently specific learned-controller attribution.",
+        "verifiedAt": "2026-10-01T10:21:01Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s9",
+        "label": "mi3-lab.github.io / source 9",
+        "url": "https://mi3-lab.github.io/publications",
+        "summary": "Full current 2026 publication attribution and broader VLM/robot-perception agenda.",
+        "verifiedAt": "2026-10-01T10:21:01Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Current official UC Merced EECS directory and first-person page confirm Assistant Professor and rossgreer@ucmerced.edu; personal news states joined 2024. No faculty identity inference from names or photos.",
+      "The graduate-degree section currently excludes PhD applicants needing lab funding and routes MS/PhD applicants through Graduate Division. The separate visiting-researcher section is the relevant route; its self-funding expectation is not university immigration approval.",
+      "The one-year minimum applies to UC Merced undergraduate researchers, not the distinct outside-visitor section. Neither an eight-week minimum/maximum nor summer 2027 dates, remote format or mentoring capacity is promised.",
+      "The 2025 Aalborg visitor spent a semester; it is not an eight-week precedent. Current alumni status is consistent with a completed visit, not a current vacancy.",
+      "The February 2026 VLA paper operates entirely on nuScenes/doScenes data. Its10-step predictions and measured ADE are open-loop; around20minutes per clip is not real-time control. Closed-loop safety and recovery remain unverified.",
+      "The June 2026 work-zone system explicitly separates perception from actuation. Recorded-data performance and onboard deployment do not establish automatic speed enforcement or learned navigation. Physical10 is limited hardware/perception credit, not robot-policy validation; the news RoboRacer cannot fill the missing method link.",
+      "Reuse uc-merced institution notes: Visitor (Graduate Student) covers outside-UC enrolled students, normally six months or less with no published minimum; appointment and OIA visa category require host approval. Current notes list$2000/month funds and a three-month initial lead, plus department-paid processing charges. Personal funds appear in current forms but final eligibility and 2027 amounts require confirmation.",
+      "No Student Intern category was listed in the reviewed Merced guidance. Do not borrow another UC campus policy or apply the undergraduate non-degree51% funding rule automatically to a graduate scholar. An eight-week project, housing, insurance, fees, research security and actual access remain unresolved.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: First retained primary-source encounter in an official university visitor/award record; dedicated verification followed without replacing this discovery time.",
+      "[Institutional visitor rules](../eligibility_notes.md#uc-merced)"
+    ],
+    "discoveryTimestampNote": "First retained primary-source encounter in an official university visitor/award record; dedicated verification followed without replacing this discovery time.",
+    "publicEmail": "rossgreer@ucmerced.edu",
+    "candidateTier": "Visitor-route and embedded-perception backup; robot actuation unverified"
+  }
+]

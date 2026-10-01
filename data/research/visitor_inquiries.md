@@ -2,11 +2,11 @@
 
 [全部候选与总分排序](ranked_candidates.md) · [原始索引](mentor_candidates.json) · [机构规则](eligibility_notes.md) · [原200位后续补充](baseline_addenda.md)
 
-从现有记录筛出 **87 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。
+从现有记录筛出 **88 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。
 
 本页按研究匹配分优先，其次真机、短访、新鲜度及发现时间；不把一般询问、学校制度或个人自费能力当成已获资格。所有人的主办类别、八周安排、2027容量、经费和设备访问都需确认。具体奖学金要求、无资助、时间不匹配、任职时点及证据限制优先看下列加粗提示，再读完整资料。
 
-## 访问/短期研究问询线索（现场安排仍须确认） · 79 条
+## 访问/短期研究问询线索（现场安排仍须确认） · 80 条
 
 | 导师 / 机构 | 匹配 / 真机 / 短访 | 已知限制与证据状态 | 直接来源 / 机构规则 | 记录核查 UTC |
 |---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Huan Zhang](batches/embodied-028.md#huan-zhang) · University of Illinois Urbana-Champaign | 38/20/8 | **公开问询入口；详细资格与期限未定** | [s2](https://www.huan-zhang.com/index.html) | 2026-10-01T00:56:48Z |
 | [Sijia Liu](batches/embodied-038.md#sijia-liu) · Michigan State University | 38/20/7 | **公开问询入口；详细资格与期限未定** | [s2](https://lsjxjtu.github.io/index.html) [s3](https://www.optml-group.com/) [s4](https://www.optml-group.com/vacancies) | 2026-10-01T01:34:58Z |
 | [Lirong Xiang](batches/embodied-030.md#lirong-xiang) · Cornell University | 38/20/5 | **须正式交流或fellowship项目** | [s2](https://lr-xiang.github.io/lxweb/) [s6](https://cals.cornell.edu/faculty-staff/academic-appointment-procedures/non-tenure-track-rte-reappointment-and-promotion/other-academics/appointment-guidelines) | 2026-10-01T01:05:41Z |
+| [Ross Greer](batches/embodied-081.md#ross-greer) · University of California, Merced | 38/10/10 | **外校短/长访客须自筹支持；学校类别另批；仅嵌入式感知，执行未核；仅嵌入式感知；机器人执行未核** | [s3](https://mi3-lab.github.io/prospective) [s4](https://news.ucmerced.edu/grants-accolades-and-awards) [规则](eligibility_notes.md#uc-merced) | 2026-10-01T10:21:01Z |
 | [Tom Silver](batches/embodied-001.md#tom-silver) · Princeton University | 37/25/17 | **公开问询入口；详细资格与期限未定** | [s2](https://prpl-group.com/) | 2026-09-30T21:28:42Z |
 | [Patrícia Alves-Oliveira](batches/hri-005.md#patricia-alves-oliveira) · University of Michigan | 37/25/10 | **自费暑期访客；偏好相关经验与已有项目构想** | [s2](https://robotdesign.studio/join) [s4](https://robotdesign.studio/) [s6](https://internationalcenter.umich.edu/departments/hosting-j1-exchange-visitor) [s7](https://spg.umich.edu/node/513) | 2026-09-30T21:58:49Z |
 | [Fabrizio Sergi](batches/hri-076.md#fabrizio-sergi) · University of Delaware | 37/25/10 | **明确访问研究生；要求CV及共同署名论文；仅非临床任务另审** | [s2](https://sites.udel.edu/hurolab/huro-people/) [s3](https://sites.udel.edu/hurolab/openings/) [s6](https://www.udel.edu/academics/global/isss/departments/hosting-scholars/j-1-student-intern/) [规则](eligibility_notes.md#delaware) | 2026-10-01T07:18:47Z |

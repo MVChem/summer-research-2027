@@ -1,0 +1,212 @@
+[
+  {
+    "id": "zhaojian-li",
+    "name": "Zhaojian Li",
+    "aliases": [],
+    "school": "Michigan State University",
+    "homepage": "https://www.egr.msu.edu/rival/",
+    "title": "Red Cedar Distinguished Professor; RIVAL director (academic-rank wording differs across current MSU sources)",
+    "department": "Mechanical Engineering; Electrical and Computer Engineering affiliation",
+    "batch": "control-048",
+    "discoveredAt": "2026-10-01T02:40:24Z",
+    "verifiedAt": "2026-10-01T02:46:00Z",
+    "researchAreas": [
+      "Foundation-model robot perception",
+      "Agricultural manipulation",
+      "Robot reinforcement learning",
+      "Learning-based control"
+    ],
+    "fitReason": "Strong current physical-AI fit: vision foundation models guide an actual dual-arm harvester, with a complementary soft-robot RL/control collaboration.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "June 12, 2026 paper validates a custom dual-arm apple harvester with Grounding-DINO detection, fine-tuned EfficientViT-SAM segmentation, RGB-D localization and CBF-constrained arm motion. Two commercial-orchard trials occurred during the 2025 harvest season, comprising 1,738 arm cycles; robot transport between stops is human-operated. Learned perception guides picking, while temporal-logic coordination and low-level trajectory control are not RL. September 2026 MSU reporting confirms the same research program remains active. Separate June 2026 soft-arm PPO triggering is collaborative Mississippi State-led hardware, not evidence of his own MSU soft-arm installation.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current MSU faculty directory and RIVAL site verify the PI role; current institutional reports identify his research team. No explicit external-master’s short-visit invitation was verified. Lab homepage’s main news list ends in 2024, so 2026 activity is sourced independently.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Foundation-model perception is deployed within robot manipulation, plus RL-based control research.",
+      "physical": "Own MSU-led dual-arm field system with named perception and control pipeline, linked to active local research program.",
+      "shortVisit": "No current external visitor route identified on reviewed pages.",
+      "freshness": "June 2026 primary field-system paper and September 2026 institutional update; field tests remain explicitly 2025."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.msu.edu / source 1",
+        "url": "https://engineering.msu.edu/directory/faculty/lizhaoj1",
+        "summary": "Current faculty appointment/contact; header and ECE affiliation use Professor, while bio still says assistant.",
+        "verifiedAt": "2026-10-01T02:44:51Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "www.egr.msu.edu / source 2",
+        "url": "https://www.egr.msu.edu/rival/",
+        "summary": "University-hosted RIVAL PI page, current named professorship and director role; last news entries2024.",
+        "verifiedAt": "2026-10-01T02:44:51Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "trustees.msu.edu / source 3",
+        "url": "https://trustees.msu.edu/meetings/calendar/2026/09/september-11-2026-meeting",
+        "summary": "Dated September 2026 agenda uses Red Cedar Distinguished Associate Professor and presents apple robot.",
+        "verifiedAt": "2026-10-01T02:44:51Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "msutoday.msu.edu / source 4",
+        "url": "https://msutoday.msu.edu/news/2026/09/sept-2026-bot-news-release",
+        "summary": "September 2026 university report confirms ongoing AI-guided apple harvesting research.",
+        "verifiedAt": "2026-10-01T02:46:00Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2606.14089v1",
+        "summary": "June 2026 full text: actual2025 commercial-orchard tests, Grounding-DINO/EfficientViT-SAM-driven dual arms and operator-controlled trailer motion.",
+        "verifiedAt": "2026-10-01T02:44:51Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2606.26048v1",
+        "summary": "June 2026 soft-arm RL triggering collaboration; lead authors and PI at Mississippi State.",
+        "verifiedAt": "2026-10-01T02:44:51Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      }
+    ],
+    "unknowns": [
+      "Reuse the existing Michigan State visitor policy only as an institutional route, with host acceptance, funding, project access and duration still unknown. Official directory uses Red Cedar Distinguished Professor and ECE Professor; the dated September 11, 2026 Board agenda and June 2026 report say Distinguished Associate Professor. Academic rank needs confirmation; appointment and institution are consistent.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "lizhaoj1@msu.edu"
+  },
+  {
+    "id": "xiaobo-tan",
+    "name": "Xiaobo Tan",
+    "aliases": [],
+    "school": "Michigan State University",
+    "homepage": "https://www.egr.msu.edu/~xbtan/sml_index.html",
+    "title": "MSU Research Foundation Distinguished Professor; Richard M. Hong Endowed Chair; Associate Chair for Research; Smart Microsystems Laboratory director",
+    "department": "Electrical and Computer Engineering; Mechanical Engineering affiliation",
+    "batch": "control-048",
+    "discoveredAt": "2026-10-01T02:40:24Z",
+    "verifiedAt": "2026-10-01T02:46:00Z",
+    "researchAreas": [
+      "Soft robot learning and control",
+      "Bioinspired robotics",
+      "Underwater robotics",
+      "Smart materials and sensing"
+    ],
+    "fitReason": "Relevant soft-robot and learned-control collaboration, with a hardware-centered local laboratory. Recent concrete RL deployment is collaborative rather than verified current own-lab execution.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Coauthors June 24, 2026 PPO-triggered DeePC on an actual three-tendon soft arm with Arduino actuation, OptiTrack feedback and host-PC inference. RL chooses optimizer invocation, with 34% fewer hardware optimization calls and retuned penalty settings. First authors and lead PI are at Mississippi State, so this does not verify Tan’s own current arm installation. His MSU SML independently develops physical soft and aquatic robots; September 2025 DiSA-IQL is simulation-only and is not counted as hardware.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current official directory confirms faculty title, lab and contact. The legacy SML site was readable in the cloud browser, including its director statement and 2025 news. Historical external master’s thesis visitors appear on an old roster, but no current short-visit invitation was verified. The frame-based opportunity link did not yield readable recruitment details in this pass.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Genuine RL/physical soft-control overlap, but broad portfolio is primarily soft mechanisms, smart materials and control.",
+      "physical": "Verified recent real RL control is collaborative Mississippi State hardware; local SML hardware exists but newest own-lab learned execution is not established.",
+      "shortVisit": "Historical external visitor examples only, no current applicable invitation.",
+      "freshness": "June 2026 primary experiment and current official faculty/leadership page; legacy lab freshness limitations disclosed."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.msu.edu / source 1",
+        "url": "https://engineering.msu.edu/directory/faculty/xbtan",
+        "summary": "Current official titles, ECE/ME affiliations, SML link and public email.",
+        "verifiedAt": "2026-10-01T02:44:51Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "www.egr.msu.edu / source 2",
+        "url": "https://www.egr.msu.edu/~xbtan/sml_index.html",
+        "summary": "Live cloud browser read establishes director and local soft/aquatic robot lab; latest visible legacy news2025.",
+        "verifiedAt": "2026-10-01T02:44:51Z",
+        "retrieval": "Cloud-browser accessibility read 2026-10-01T02:42:02Z; web.run frame extraction incomplete"
+      },
+      {
+        "id": "s3",
+        "label": "www.egr.msu.edu / source 3",
+        "url": "https://www.egr.msu.edu/~xbtan/SML/people.html",
+        "summary": "Historical master’s thesis exchange visitors only; dated roster is not current opportunity evidence.",
+        "verifiedAt": "2026-10-01T02:44:51Z",
+        "retrieval": "Indexed official roster; age explicitly disclosed"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2606.26048v1",
+        "summary": "June 2026 primary full text verifies collaborative real soft-arm PPO-triggering experiment.",
+        "verifiedAt": "2026-10-01T02:44:51Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/abs/2510.00358",
+        "summary": "DiSA-IQL abstract explicitly reports simulation results; no physical-validation credit.",
+        "verifiedAt": "2026-10-01T02:46:00Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      }
+    ],
+    "unknowns": [
+      "Existing Michigan State visitor rules apply only after a host approves an appropriate appointment. Eight-week suitability, funding, remote options and current local learned-robot project access remain unknown. Historical semester-length exchange visitors are not a present summer route. Stronger fit for soft-robot physical systems than general-purpose foundation-model policies.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "xbtan@msu.edu"
+  }
+]

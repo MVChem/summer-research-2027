@@ -1,0 +1,147 @@
+[
+  {
+    "id": "yufeng-kevin-chen",
+    "name": "Yufeng (Kevin) Chen",
+    "aliases": [
+      "Yufeng Chen",
+      "YuFeng Chen",
+      "Kevin Chen"
+    ],
+    "school": "Massachusetts Institute of Technology",
+    "homepage": "https://smrl.mit.edu/",
+    "title": "NBX Career Development Professor; Associate Professor; Soft and Micro Robotics Laboratory director",
+    "department": "Electrical Engineering and Computer Science",
+    "batch": "control-046",
+    "discoveredAt": "2026-10-01T02:37:16Z",
+    "verifiedAt": "2026-10-01T02:38:38Z",
+    "researchAreas": [
+      "Learning-based microflight control",
+      "Imitation learning",
+      "Reinforcement learning",
+      "Soft microrobotics",
+      "Bioinspired aerial robots"
+    ],
+    "fitReason": "Strong specialized overlap: neural policies trained from robust MPC and PPO-based policies directly control insect-scale physical robots; attractive for algorithm–hardware co-design rather than general-purpose manipulation.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The August 2025 preprint, published in Science Advances December 3, 2025, verifies imitation-learned robust tube MPC on a 750 mg flapping-wing robot, including repeated turns and ten flips in eleven seconds. It uses external Vicon sensing, offboard computation and a power tether; this is not untethered onboard autonomy. A separate RoboSoft 2025 paper deploys behavior-cloned/PPO policies on two physical soft-actuated micro-flyers. February 2026 work demonstrates onboard sensing/computation in a 1.29 g robot with human high-level commands; it supports current hardware activity, not a claim that the earlier learned controller became onboard or power-autonomous.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only · 仅外部fellowship例外",
+      "summary": "The current lab opportunities page says it is not searching for visiting students because of limited funding, but explicitly welcomes discussions with visiting students who have external fellowships. This is a conditional, duration-unspecified inquiry exception. The one-year project preference appears in the currently enrolled MIT-student section; its applicability to external visitors is not established.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9"
+      ]
+    },
+    "scores": {
+      "fit": 40,
+      "physical": 25,
+      "shortVisit": 5,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Both imitation learning and PPO-based control execute on physical robots, with explicit robust-control interaction.",
+      "physical": "Own MIT lab co-leads named physical micro-flyers and current February 2026 experiments; external sensing, computation and power limitations preserved.",
+      "shortVisit": "Five points only for the explicit externally fellowship-funded visitor inquiry exception; no duration or 2027 commitment.",
+      "freshness": "Current faculty/lab pages, April 2026 institutional seminar and February 2026 primary hardware paper; neural-flight experiments correctly dated2025."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.eecs.mit.edu / source 1",
+        "url": "https://www.eecs.mit.edu/people/yufeng-kevin-chen/",
+        "summary": "Official current Associate Professor/NBX title, EECS and public email.",
+        "verifiedAt": "2026-10-01T02:38:38Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "smrl.mit.edu / source 2",
+        "url": "https://smrl.mit.edu/",
+        "summary": "Current PI lab and advising statement, independent projects and research mentoring.",
+        "verifiedAt": "2026-10-01T02:38:38Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "smrl.mit.edu / source 3",
+        "url": "https://smrl.mit.edu/contact/opportunities/",
+        "summary": "No current visiting-student recruitment due to funding; external-fellowship visitors expressly welcome to discuss. Local MIT-student section prefers long-term projects.",
+        "verifiedAt": "2026-10-01T02:38:38Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "smrl.mit.edu / source 4",
+        "url": "https://smrl.mit.edu/publications/",
+        "summary": "Current lab links 2025 learning-control papers and 2026 onboard-sensing study.",
+        "verifiedAt": "2026-10-01T02:38:38Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2508.03043v1",
+        "summary": "Primary August 2025 full text: learned tube MPC, 750 mg robot, actual aerobatics, offboard Vicon/compute/power and safety fallback.",
+        "verifiedAt": "2026-10-01T02:38:38Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "news.mit.edu / source 6",
+        "url": "https://news.mit.edu/2025/mit-engineers-design-aerial-microrobot-fly-like-bumblebee-1203",
+        "summary": "Official December 3, 2025 publication report confirms co-led own-lab flight and limitations.",
+        "verifiedAt": "2026-10-01T02:38:38Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "arxiv.org / source 7",
+        "url": "https://arxiv.org/pdf/2502.12355",
+        "summary": "RoboSoft 2025 primary PDF: modified behavior cloning plus PPO deployed on two actual soft-actuated micro-flyers.",
+        "verifiedAt": "2026-10-01T02:38:38Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s8",
+        "label": "arxiv.org / source 8",
+        "url": "https://arxiv.org/html/2602.08328v1",
+        "summary": "February 9, 2026 primary physical study with onboard sensing/computation and human high-level commands; not conflated with 2025 learned controller.",
+        "verifiedAt": "2026-10-01T02:38:38Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s9",
+        "label": "www.mtl.mit.edu / source 9",
+        "url": "https://www.mtl.mit.edu/events-seminars/seminars/challenges-and-opportunities-insect-scale-autonomous-aerial-robots",
+        "summary": "April 22, 2026 official seminar confirms current Associate Professor and ongoing physical microrobot research.",
+        "verifiedAt": "2026-10-01T02:38:38Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      }
+    ],
+    "unknowns": [
+      "No lab-funded visitor opening is advertised. Personal self-funding is not an external fellowship and is not endorsed by this notice. Existing MIT visiting-student guidance also requires institutional sponsorship and at least 51% nonpersonal/nonfamily funding for the relevant J-1 student route; final appointment/category must be approved. Eight-week duration, fellowship acceptability and project capacity require confirmation. Specialized fabrication and flight training may limit a short project.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "yufengc@mit.edu"
+  }
+]

@@ -54,6 +54,10 @@
     "batches/control-043.json",
     "batches/control-044.json",
     "batches/control-045.json",
+    "batches/control-046.json",
+    "batches/control-047.json",
+    "batches/control-048.json",
+    "batches/control-049.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -3009,6 +3013,142 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-045.json",
       "detailPage": "batches/control-045.md#bin-hu"
+    },
+    {
+      "id": "yufeng-kevin-chen",
+      "name": "Yufeng (Kevin) Chen",
+      "aliases": [
+        "Yufeng Chen",
+        "YuFeng Chen",
+        "Kevin Chen"
+      ],
+      "school": "Massachusetts Institute of Technology",
+      "title": "NBX Career Development Professor; Associate Professor; Soft and Micro Robotics Laboratory director",
+      "homepage": "https://smrl.mit.edu/",
+      "batch": "control-046",
+      "discoveredAt": "2026-10-01T02:37:16Z",
+      "verifiedAt": "2026-10-01T02:38:38Z",
+      "scores": {
+        "fit": 40,
+        "physical": 25,
+        "shortVisit": 5,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Learning-based microflight control",
+        "Imitation learning",
+        "Reinforcement learning",
+        "Soft microrobotics",
+        "Bioinspired aerial robots"
+      ],
+      "shortVisitStatus": "inquiry-only · 仅外部fellowship例外",
+      "recordFile": "batches/control-046.json",
+      "detailPage": "batches/control-046.md#yufeng-kevin-chen"
+    },
+    {
+      "id": "dong-chen",
+      "name": "Dong Chen",
+      "aliases": [],
+      "school": "Mississippi State University",
+      "title": "Assistant Professor",
+      "homepage": "https://dongchen06.github.io/",
+      "batch": "control-047",
+      "discoveredAt": "2026-10-01T02:40:24Z",
+      "verifiedAt": "2026-10-01T02:43:25Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Robot reinforcement learning",
+        "Data-driven predictive control",
+        "Soft robotics",
+        "Agricultural robot perception and manipulation"
+      ],
+      "shortVisitStatus": "remote-only-inquiry · 现场短访未确认",
+      "recordFile": "batches/control-047.json",
+      "detailPage": "batches/control-047.md#dong-chen"
+    },
+    {
+      "id": "zhaojian-li",
+      "name": "Zhaojian Li",
+      "aliases": [],
+      "school": "Michigan State University",
+      "title": "Red Cedar Distinguished Professor; RIVAL director (academic-rank wording differs across current MSU sources)",
+      "homepage": "https://www.egr.msu.edu/rival/",
+      "batch": "control-048",
+      "discoveredAt": "2026-10-01T02:40:24Z",
+      "verifiedAt": "2026-10-01T02:46:00Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Foundation-model robot perception",
+        "Agricultural manipulation",
+        "Robot reinforcement learning",
+        "Learning-based control"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-048.json",
+      "detailPage": "batches/control-048.md#zhaojian-li"
+    },
+    {
+      "id": "xiaobo-tan",
+      "name": "Xiaobo Tan",
+      "aliases": [],
+      "school": "Michigan State University",
+      "title": "MSU Research Foundation Distinguished Professor; Richard M. Hong Endowed Chair; Associate Chair for Research; Smart Microsystems Laboratory director",
+      "homepage": "https://www.egr.msu.edu/~xbtan/sml_index.html",
+      "batch": "control-048",
+      "discoveredAt": "2026-10-01T02:40:24Z",
+      "verifiedAt": "2026-10-01T02:46:00Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Soft robot learning and control",
+        "Bioinspired robotics",
+        "Underwater robotics",
+        "Smart materials and sensing"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-048.json",
+      "detailPage": "batches/control-048.md#xiaobo-tan"
+    },
+    {
+      "id": "kaveh-akbari-hamed",
+      "name": "Kaveh Akbari Hamed",
+      "aliases": [],
+      "school": "Virginia Tech",
+      "title": "Associate Professor; Agile Robots for Control, Optimization, and Learning Lab director",
+      "homepage": "https://arcol.me.vt.edu/",
+      "batch": "control-049",
+      "discoveredAt": "2026-10-01T02:40:24Z",
+      "verifiedAt": "2026-10-01T02:47:23Z",
+      "scores": {
+        "fit": 37,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Safety-critical robot control",
+        "Online human-intent learning",
+        "Quadrupedal locomotion",
+        "Distributed robot coordination",
+        "Model predictive control"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-049.json",
+      "detailPage": "batches/control-049.md#kaveh-akbari-hamed"
     },
     {
       "id": "tom-silver",

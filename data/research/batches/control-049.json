@@ -1,0 +1,113 @@
+[
+  {
+    "id": "kaveh-akbari-hamed",
+    "name": "Kaveh Akbari Hamed",
+    "aliases": [],
+    "school": "Virginia Tech",
+    "homepage": "https://arcol.me.vt.edu/",
+    "title": "Associate Professor; Agile Robots for Control, Optimization, and Learning Lab director",
+    "department": "Mechanical Engineering",
+    "batch": "control-049",
+    "discoveredAt": "2026-10-01T02:40:24Z",
+    "verifiedAt": "2026-10-01T02:47:23Z",
+    "researchAreas": [
+      "Safety-critical robot control",
+      "Online human-intent learning",
+      "Quadrupedal locomotion",
+      "Distributed robot coordination",
+      "Model predictive control"
+    ],
+    "fitReason": "Strong real-legged-systems and safe autonomy fit, with online learned human-intent parameters within shared control. Current portfolio leans model-based control more than foundation-model policy learning.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "September 26, 2025 teleoperator-aware adaptive NMPC paper validates a Unitree Go2 in 48 physical trials with 12 operators navigating ten obstacles. Projected gradient descent updates a Boltzmann human-action model from joystick commands; high-level safety NMPC feeds dynamics-aware MPC and whole-body control. This is online parametric intent learning, not a learned neural locomotion policy. Current ARCOL inventory independently lists two Go2s, three A1s, Kinova arms and motion capture. March 2026 distributed-MPC work supplies fresh physical multi-quadruped research activity, but is not relabeled as ML.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Official faculty and ARCOL pages confirm PI role and current PhD/MS advisees. No current external-master’s short-visit invitation was found in the reviewed pages or focused recruitment search.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Concrete online human-model learning within safe quadruped control, with stronger classical control emphasis than core deep policy learning.",
+      "physical": "Current own-lab named Go2 hardware and detailed physical human-in-loop trials led by current advisees.",
+      "shortVisit": "No explicit external short visitor opening verified.",
+      "freshness": "March 2026 primary distributed-quadruped study and current official lab; intent-learning study remains explicitly 2025."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "me.vt.edu / source 1",
+        "url": "https://me.vt.edu/people/faculty/akbarihamed-kaveh.html",
+        "summary": "Official Associate Professor since2023, ME, public email and linked ARCOL lab.",
+        "verifiedAt": "2026-10-01T02:47:23Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "arcol.me.vt.edu / source 2",
+        "url": "https://arcol.me.vt.edu/",
+        "summary": "Current official ARCOL PI and physical control/learning research mission.",
+        "verifiedAt": "2026-10-01T02:47:23Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "arcol.me.vt.edu / source 3",
+        "url": "https://arcol.me.vt.edu/team.html",
+        "summary": "Current graduate advisees including Ruturaj Sambhus, lead author on shared-control paper.",
+        "verifiedAt": "2026-10-01T02:47:23Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "arcol.me.vt.edu / source 4",
+        "url": "https://arcol.me.vt.edu/equipment.html",
+        "summary": "Own lab inventory: two Go2 Edu-U3 robots, three A1 robots and motion capture.",
+        "verifiedAt": "2026-10-01T02:47:23Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2509.22815v1",
+        "summary": "September 2025 physical Go2 human-in-loop study with online PGD human-model learning,48 trials and12 operators.",
+        "verifiedAt": "2026-10-01T02:47:23Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2603.19170v1",
+        "summary": "March 2026 primary distributed safety MPC for quadrupeds; current physical robotics activity, not ML evidence.",
+        "verifiedAt": "2026-10-01T02:47:23Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      }
+    ],
+    "unknowns": [
+      "Existing Virginia Tech Student Intern policy supports an external-graduate institutional pathway under host sponsorship; this is not individual acceptance. Confirm eight-week project feasibility, training, laboratory access, support and dates. Avoid interpreting the ordinary university Apply/Visit navigation links as lab visitor recruitment.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "kavehakbarihamed@vt.edu"
+  }
+]

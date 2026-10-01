@@ -1,0 +1,244 @@
+[
+  {
+    "id": "yevgeniy-vorobeychik",
+    "name": "Yevgeniy Vorobeychik",
+    "aliases": [
+      "Eugene Vorobeychik"
+    ],
+    "school": "Washington University in St. Louis",
+    "homepage": "https://vorobeychik.com/",
+    "title": "Professor",
+    "department": "Computer Science and Engineering",
+    "batch": "embodied-068",
+    "discoveredAt": "2026-10-01T06:15:53Z",
+    "verifiedAt": "2026-10-01T06:17:56Z",
+    "researchAreas": [
+      "Trustworthy embodied AI",
+      "Conformal language-instructed robot planning",
+      "Safe autonomous systems",
+      "Robust multiagent learning"
+    ],
+    "fitReason": "Relevant safe embodied-agent match through conformal LLM planning and reliability research. His broader group spans security, game theory and AI beyond robotics, so a robot-specific project and collaborator access should be checked.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "CoFineLLM, published at L4DC 2026, demonstrates its finetuned LLM plans on a TurtleBot3 Waffle-Pi with OpenManipulator-X in a miniature urban scene. The full preprint explicitly separates this physical demonstration from its 80 generated out-of-distribution validation scenarios. First author Jun Wang identifies Yiannis Kantaros as his doctoral adviser, so the hardware is treated as collaborative rather than verified independently accessible Vorobeychik-lab equipment.",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown · named program undergraduate-only",
+      "summary": "The official Summer 2026 International Student Research Internship Program names Vorobeychik and trustworthy-autonomy projects, but it requires full-time penultimate-year bachelor’s enrollment abroad. Its November 13, 2025 deadline and ten-week funding terms do not establish a master’s pathway or Summer 2027 opening. No separate current external-master’s invitation was verified.",
+      "sourceIds": [
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong safe LLM robot-planning methods within a broader trustworthy-AI group.",
+      "physical": "Full actual mobile-manipulator demonstration; collaborator-lab hardware access unverified.",
+      "shortVisit": "The named summer program excludes the target master’s level; no alternative lab-specific invitation.",
+      "freshness": "Official 2026 publication and current faculty/program pages."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.washu.edu / source 1",
+        "url": "https://engineering.washu.edu/faculty/Yevgeniy-Vorobeychik.html",
+        "summary": "Full official profile confirms current CSE professor, public contact and broad trustworthy-AI scope.",
+        "verifiedAt": "2026-10-01T06:17:56Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "vorobeychik.com / source 2",
+        "url": "https://vorobeychik.com/",
+        "summary": "Full current first-person page confirms WashU professorship and broader multiagent/security research.",
+        "verifiedAt": "2026-10-01T06:17:56Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2511.06575v1",
+        "summary": "Full methods distinguish real TurtleBot3/OpenManipulator-X demonstration from 80 generated OOD evaluation scenarios.",
+        "verifiedAt": "2026-10-01T06:17:56Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "proceedings.mlr.press / source 4",
+        "url": "https://proceedings.mlr.press/v331/wang26c.html",
+        "summary": "Full primary proceedings page verifies June 17–19, 2026 L4DC publication. Publisher PDF retrieval failed, so detailed methods cite the full arXiv version.",
+        "verifiedAt": "2026-10-01T06:17:56Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "wonggwan.github.io / source 5",
+        "url": "https://wonggwan.github.io/",
+        "summary": "Full first-author homepage confirms 2026 doctorate under Kantaros and CoFineLLM publication; no assumption of Vorobeychik owning that robot.",
+        "verifiedAt": "2026-10-01T06:17:56Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "engineering.washu.edu / source 6",
+        "url": "https://engineering.washu.edu/academics/undergraduate-research/international-student-research-internship-program.html",
+        "summary": "Full program page verifies named 2026 host, explicit penultimate-year bachelor’s-only eligibility and closed 2025 deadline.",
+        "verifiedAt": "2026-10-01T06:17:56Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "No eight-week Summer 2027 place, personal-funding arrangement, remote collaboration or hardware access is confirmed. The advertised undergraduate program does not establish a graduate research-visit route.",
+      "CoFineLLM uses abstract grid-world action primitives and calls for human help when its prediction set is ambiguous; do not describe it as an end-to-end VLA or universal safety guarantee. The reported OOD coverage, help and verification rates are not demonstrated physical task-success percentages.",
+      "Use the professional email in the current university directory. The arXiv HTML author line has an extra trailing e in the email, which is not adopted.",
+      "Reuse the WashU institution note, which separates the external-graduate research appointment and Student Intern category from the particular undergraduate summer program. University-level eligibility does not create a lab offer.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#washington-st-louis)"
+    ],
+    "publicEmail": "yvorobeychik@wustl.edu"
+  },
+  {
+    "id": "hongrui-yu",
+    "name": "Hongrui Yu",
+    "aliases": [],
+    "school": "Virginia Polytechnic Institute and State University",
+    "homepage": "https://sites.google.com/view/hong-rui-yu/home",
+    "title": "Assistant Professor",
+    "department": "Charles E. Via, Jr. Department of Civil and Environmental Engineering; Vecellio Construction Engineering and Management Program",
+    "batch": "embodied-068",
+    "discoveredAt": "2026-10-01T06:17:30Z",
+    "verifiedAt": "2026-10-01T06:31:39Z",
+    "researchAreas": [
+      "Learning for construction robotics",
+      "Language-guided robot interaction",
+      "Multimodal human-robot collaboration",
+      "Hierarchical skill learning"
+    ],
+    "fitReason": "Strong applied embodied-AI match combining construction skill learning, LLM-driven interaction and multimodal perception. Current work includes VLA/HRL benchmarking, but physical evidence must be separated from simulator results and earlier Michigan collaborations.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The full 2025 Generalizable Skill Learning preprint establishes actual industrial-manipulator drywall execution in a Michigan collaboration. LLM-derived elemental actions and learned skill chaining are followed by explicit human approval; approved sequences trigger ROS and programmed Python motion functions (§4.2). This is supervised hybrid execution, not autonomous closed-loop VLA, and is not verified current VT industrial-robot inventory. The separate i3CE interaction paper explicitly reports a Reactor RX200 physical validation on p6, but provides limited action-level detail and leaves expanded physical urban/ROS embodiment to future work on p7; its photo and brief statement are treated as a limited prototype report, not a quantified learned-policy deployment.",
+      "sourceIds": [
+        "s6",
+        "s9"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Reviewed official and personal research pages provide a public professional contact and local graduate-student collaboration, but no current outside-master’s, summer-intern or short-visit invitation was verified. The September 2026 institutional construction-robotics initiative corroborates active Virginia Tech research, not visitor intake.",
+      "sourceIds": [
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct embodied learning, language interaction and construction manipulation, with VLA work currently simulation-based.",
+      "physical": "Verified supervised industrial robot execution in Michigan collaboration; current VT RX200 prototype only briefly reported and not counted as a fully documented learned-policy deployment.",
+      "shortVisit": "No lab-specific current external-master’s short-visit invitation.",
+      "freshness": "2026 publication record/current university initiative plus fully reviewed recent papers."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "cee.vt.edu / source 1",
+        "url": "https://cee.vt.edu/News-Menu/CEE_Article_Cache/cee-new-faculty-fall-2024.html",
+        "summary": "Full official hiring article confirms assistant professorship beginning2024 and prior Michigan research.",
+        "verifiedAt": "2026-10-01T06:31:39Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "made.vt.edu / source 2",
+        "url": "https://made.vt.edu/robotics-autonomy.html",
+        "summary": "Full current official robotics faculty listing includes Yu and her embodied-learning agenda.",
+        "verifiedAt": "2026-10-01T06:31:39Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "eng.vt.edu / source 3",
+        "url": "https://eng.vt.edu/research/major-grants-initiative/ConstructionRobots.html",
+        "summary": "Full official initiative page names Yu with Losey and Akanmu as current construction-robotics faculty champions.",
+        "verifiedAt": "2026-10-01T06:31:39Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "sites.google.com / source 4",
+        "url": "https://sites.google.com/view/hong-rui-yu/home",
+        "summary": "Full current PI site supplies contact and research links, without an external short-visit call.",
+        "verifiedAt": "2026-10-01T06:31:39Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "hyu-bot.github.io / source 5",
+        "url": "https://hyu-bot.github.io/YuResearchPortfolio/research/",
+        "summary": "Full PI portfolio labels simulated HRL separately and names an RX250 demo; exact platform conflicts with RX200 in paper.",
+        "verifiedAt": "2026-10-01T06:31:39Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "mallepallyak.github.io / source 6",
+        "url": "https://mallepallyak.github.io/assets/MultimodalHRI-ASCE-i3CE-2025.pdf",
+        "summary": "Full10-page author PDF: p6 Language Interaction explicitly states RX200 validation; p7 describes expanded physical urban/ROS embodiment as future. Figure8 inspected, but no detailed RX200 execution protocol or physical success rate is supplied.",
+        "verifiedAt": "2026-10-01T06:31:39Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s7",
+        "label": "ascelibrary.org / source 7",
+        "url": "https://ascelibrary.org/doi/10.1061/9780784486436.115",
+        "summary": "Indexed primary publication record gives January 28, 2026 online date for i3CE2025 proceedings; full publisher text unavailable, author PDF used.",
+        "verifiedAt": "2026-10-01T06:31:39Z",
+        "retrieval": "indexed-primary-record"
+      },
+      {
+        "id": "s8",
+        "label": "arxiv.org / source 8",
+        "url": "https://arxiv.org/html/2512.14031v1",
+        "summary": "Full VLA/HRL comparison states all experiments are in MuJoCo; no physical credit.",
+        "verifiedAt": "2026-10-01T06:31:39Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s9",
+        "label": "arxiv.org / source 9",
+        "url": "https://arxiv.org/pdf/2509.02876",
+        "summary": "Full55-page preprint: §4.2 p33 documents human-approved workflow sent via flask_ROS to the actual industrial robot, executing programmed Python micro-actions. Conventional motion planning and manual tool changes/nailing remain; prior/collaborative Michigan apparatus.",
+        "verifiedAt": "2026-10-01T06:31:39Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "No Summer 2027 opening, eight-week acceptance, funding, remote work or visitor access to apparatus is confirmed. A current VT master’s coauthor is not an external-master’s visitor precedent.",
+      "The full interaction paper names Reactor RX200, while the PI portfolio names RX250. Preserve this model discrepancy. The methods establish classifier finetuning and prompted LLM command generation, not verified reinforcement learning from human feedback of a robot policy.",
+      "Classifier accuracy is not robot task success. The interaction paper reports overfitting and degraded skewed-avatar-view performance. Its p6 RX200 validation statement and p7 physical-embodiment future-work wording must both be retained. Physical credit is capped at 20, resting on verified collaborative industrial execution rather than an assumed fully integrated RX200 policy.",
+      "The shared Sample-Efficient Robot Skill Learning VLA/HRL paper explicitly runs all evaluation in MuJoCo (§5.1). Its 60%/100% pickup numbers are simulator results, not real UR5e/Franka execution.",
+      "The full Generalizable Skill Learning paper has a human approve action sequences and uses conventional motion planning. Its industrial manipulator is a Michigan collaboration, not verified current VT KUKA inventory.",
+      "Reuse Virginia Tech’s external-graduate Student Intern note; the institution’s duration and funding rules do not establish a faculty invitation. The individual MLSoC profile currently returns 404; appointment is corroborated by official hiring news, current robotics faculty listing, 2026 initiative and the primary paper.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: First retained primary-source encounter following the HRI worker’s construction-robotics referral; no earlier untimed name-only referral was backdated.",
+      "[Institutional visitor rules](../eligibility_notes.md#virginia-tech-student-intern)"
+    ],
+    "discoveryTimestampNote": "First retained primary-source encounter following the HRI worker’s construction-robotics referral; no earlier untimed name-only referral was backdated.",
+    "publicEmail": "hryu42@vt.edu"
+  }
+]

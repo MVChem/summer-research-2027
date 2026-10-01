@@ -149,6 +149,7 @@
     "batches/embodied-065.json",
     "batches/embodied-066.json",
     "batches/embodied-067.json",
+    "batches/embodied-068.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -8117,6 +8118,61 @@
       "shortVisitStatus": "precedent-only · scholar label, master route unclear",
       "recordFile": "batches/embodied-067.json",
       "detailPage": "batches/embodied-067.md#ilya-kovalenko"
+    },
+    {
+      "id": "yevgeniy-vorobeychik",
+      "name": "Yevgeniy Vorobeychik",
+      "aliases": [
+        "Eugene Vorobeychik"
+      ],
+      "school": "Washington University in St. Louis",
+      "title": "Professor",
+      "homepage": "https://vorobeychik.com/",
+      "batch": "embodied-068",
+      "discoveredAt": "2026-10-01T06:15:53Z",
+      "verifiedAt": "2026-10-01T06:17:56Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Trustworthy embodied AI",
+        "Conformal language-instructed robot planning",
+        "Safe autonomous systems",
+        "Robust multiagent learning"
+      ],
+      "shortVisitStatus": "unknown · named program undergraduate-only",
+      "recordFile": "batches/embodied-068.json",
+      "detailPage": "batches/embodied-068.md#yevgeniy-vorobeychik"
+    },
+    {
+      "id": "hongrui-yu",
+      "name": "Hongrui Yu",
+      "aliases": [],
+      "school": "Virginia Polytechnic Institute and State University",
+      "title": "Assistant Professor",
+      "homepage": "https://sites.google.com/view/hong-rui-yu/home",
+      "batch": "embodied-068",
+      "discoveredAt": "2026-10-01T06:17:30Z",
+      "verifiedAt": "2026-10-01T06:31:39Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Learning for construction robotics",
+        "Language-guided robot interaction",
+        "Multimodal human-robot collaboration",
+        "Hierarchical skill learning"
+      ],
+      "discoveryTimestampNote": "First retained primary-source encounter following the HRI worker’s construction-robotics referral; no earlier untimed name-only referral was backdated.",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-068.json",
+      "detailPage": "batches/embodied-068.md#hongrui-yu"
     },
     {
       "id": "henny-admoni",

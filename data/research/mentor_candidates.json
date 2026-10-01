@@ -72,6 +72,7 @@
     "batches/control-061.json",
     "batches/control-062.json",
     "batches/control-063.json",
+    "batches/control-064.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -3839,6 +3840,36 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-063.json",
       "detailPage": "batches/control-063.md#philip-dames"
+    },
+    {
+      "id": "zheng-chen",
+      "name": "Zheng Chen",
+      "aliases": [
+        "Zheng Chen (University of Houston)",
+        "Zheng Chen (formerly Wichita State University)"
+      ],
+      "school": "University of Houston",
+      "title": "Bill D. Cook Associate Professor; Bio-inspired Robotics and Controls Lab Director",
+      "homepage": "https://brcl.me.uh.edu/",
+      "batch": "control-064",
+      "discoveredAt": "2026-10-01T05:05:29Z",
+      "verifiedAt": "2026-10-01T05:11:12Z",
+      "scores": {
+        "fit": 35,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Learned visual feedback for underwater robots",
+        "Autonomous subsea manipulation",
+        "Machine-learning smart-touch inspection",
+        "Physics-informed learning",
+        "Bio-inspired robotics"
+      ],
+      "shortVisitStatus": "degree-only · dated 2018 recruitment",
+      "recordFile": "batches/control-064.json",
+      "detailPage": "batches/control-064.md#zheng-chen"
     },
     {
       "id": "tom-silver",

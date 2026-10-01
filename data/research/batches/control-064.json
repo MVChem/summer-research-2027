@@ -1,0 +1,91 @@
+[
+  {
+    "id": "zheng-chen",
+    "name": "Zheng Chen",
+    "aliases": [
+      "Zheng Chen (University of Houston)",
+      "Zheng Chen (formerly Wichita State University)"
+    ],
+    "school": "University of Houston",
+    "homepage": "https://brcl.me.uh.edu/",
+    "title": "Bill D. Cook Associate Professor; Bio-inspired Robotics and Controls Lab Director",
+    "department": "Mechanical and Aerospace Engineering",
+    "batch": "control-064",
+    "discoveredAt": "2026-10-01T05:05:29Z",
+    "verifiedAt": "2026-10-01T05:11:12Z",
+    "researchAreas": [
+      "Learned visual feedback for underwater robots",
+      "Autonomous subsea manipulation",
+      "Machine-learning smart-touch inspection",
+      "Physics-informed learning",
+      "Bio-inspired robotics"
+    ],
+    "fitReason": "Applied physical AI through learned perception in actual underwater robot control and learned inspection; narrower subsea systems focus than general-purpose robot learning.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The February 28, 2026 BSEE final report names Chen as PI and reports BlueROV2 with a modified Newton Subsea Gripper. Trained YOLOv8 flange detection and Hough pipeline orientation feed three-stage PID alignment, centering and approach, followed by actual autonomous flange grasping; an example converges near 30 s. Separate PZT-gripper experiments support learned bolt-condition classification. PINN-enhanced localization comparisons are explicitly simulation. This establishes an executed learned-perception/control stack, not just offline image accuracy; offshore pipeline deployment is not verified.",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "degree-only · dated 2018 recruitment",
+      "summary": "The public lab opening is a funded PhD advertisement that can start as early as Spring 2018. Requiring a completed master’s for that PhD does not make it an external-master research-visit invitation. No current external short-visitor offer or summer 2027 capacity verified.",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 35,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantive neural perception and learned inspection integrated into an applied robotic system; control itself is PID.",
+      "physical": "PI-directed report documents named ROV hardware, learned visual feedback and actual autonomous grasping, with simulation separated.",
+      "shortVisit": "Old PhD advertisement is not an applicable external short-visit route.",
+      "freshness": "Dated February 2026 final technical report and current official associate-professor profile."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.mae.uh.edu / source 1",
+        "url": "https://www.mae.uh.edu/faculty/chen-zheng",
+        "summary": "Current endowed associate professor, public email and project PI linkage.",
+        "verifiedAt": "2026-10-01T05:11:12Z",
+        "retrieval": "Direct official HTML or primary PDF via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "brcl.me.uh.edu / source 2",
+        "url": "https://brcl.me.uh.edu/",
+        "summary": "Current Houston lab location; homepage retains older Wichita contact/history and old news.",
+        "verifiedAt": "2026-10-01T05:11:12Z",
+        "retrieval": "Direct official HTML or primary PDF via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "brcl.me.uh.edu / source 3",
+        "url": "https://brcl.me.uh.edu/Openings.html",
+        "summary": "Direct old Spring2018 funded PhD recruitment; no external-master short-visit invitation.",
+        "verifiedAt": "2026-10-01T05:11:12Z",
+        "retrieval": "Direct official HTML or primary PDF via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "www.bsee.gov / source 4",
+        "url": "https://www.bsee.gov/sites/bsee.gov/files/2026-03/TAP%20812%20Robotic%20Assistive%20Smart%20Touch%20Inspection%20Research%20Product.pdf",
+        "summary": "Primary102-page final report, printed pp8–12 and73: physical visual-feedback grasping; pp13–14 PINN localization is simulation. Cover records PI and report limits.",
+        "verifiedAt": "2026-10-01T05:11:12Z",
+        "retrieval": "Full primary PDF text via web.run; screenshot request had cache miss, so no figure-only details are asserted."
+      }
+    ],
+    "unknowns": [
+      "Current official UH appointment supersedes old Wichita references retained on the lab homepage. The BSEE report covers work ending February 2026 and is technically reviewed/released, but explicitly not BSEE peer-reviewed; it is not a 2027 funding commitment. Reuse completed Houston feasibility: department/ISSSO category approval, eight-week plan, full personal funding, current financial minimum and laboratory access remain unresolved. Published September 2026 request fees depend on category and are separate from living costs.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Houston institutional visitor rules](../eligibility_notes.md#houston)"
+    ],
+    "publicEmail": "zchen43@central.uh.edu"
+  }
+]

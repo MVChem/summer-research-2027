@@ -405,18 +405,23 @@
       "name": "Minchen Li",
       "kind": "duration-preference",
       "scope": "外校访问",
-      "summary": "通常6–12个月，这是常态而非已核实硬性最短时长；独立暑期链接是10周本科项目",
-      "observedAt": "2026-09-30T22:43:36Z",
+      "summary": "通常6–12个月，这是常态而非硬性最短期限；一般访问表单要求至少提前3.5个月申请；独立暑期链接是10周本科项目",
+      "observedAt": "2026-10-01T12:00:51Z",
       "sources": [
         {
           "url": "https://www.cs.cmu.edu/~minchenl/",
           "retrieval": "direct-primary-page",
-          "evidence": "Opportunities section gives usual six-to-twelve-month visitor length and separate summer-program link."
+          "evidence": "Full current group/opportunities section: usual6–12-month visits, limited funds; summer internship link; external graduate intern and Oxford MSc visiting-RA precedents with no duration guarantee."
+        },
+        {
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSeqG0YkxoMuFl0hcqr2SyTdWARpZ3TNQPX4iiqfa8uD52i4pw/viewform",
+          "retrieval": "direct-primary-cloud-browser",
+          "evidence": "Complete public form content read, with3.5-month lead-time, dates, funding and visa questions. Some fields were disabled; this is not inferred as a lab closure. No fields entered or submitted."
         },
         {
           "url": "https://www.csd.cmu.edu/academics/bachelors/summer-research-internship-in-computer-science",
           "retrieval": "direct-primary-page",
-          "evidence": "Program explicitly undergraduate, ten weeks, 2026 application closed."
+          "evidence": "Linked program explicitly undergraduate and ten weeks;2026 applications closed,2027 not announced here."
         }
       ],
       "months": 6
@@ -520,6 +525,44 @@
         {
           "url": "https://multicomp.cs.cmu.edu/faq/visitors/",
           "evidence": "Complete FAQ distinguishes four-month preference, occasional summer exceptions, no currently funded positions and January inquiry guidance."
+        }
+      ]
+    },
+    {
+      "key": "baseline-116-minimum-duration",
+      "baselineId": 116,
+      "name": "Yuke Zhu",
+      "kind": "minimum-duration",
+      "scope": "访问研究者与research interns",
+      "summary": "仅列出六个月或更久的长期访问，短期联系优先级较低；没有核实较短例外",
+      "observedAt": "2026-10-01T11:54:06Z",
+      "sources": [
+        {
+          "url": "https://ut-austin-rpl.github.io/opportunities/",
+          "retrieval": "direct-primary-page",
+          "evidence": "Complete current primary text, applicable visitor/leave wording directly verified."
+        }
+      ],
+      "months": 6
+    },
+    {
+      "key": "baseline-105-capacity-or-role",
+      "baselineId": 105,
+      "name": "Anca Dragan",
+      "kind": "capacity-or-role",
+      "scope": "Berkeley现场指导与访问主办",
+      "summary": "本人正在休假并承担DeepMind领导职务；结束时间与2027暑期校园指导未定，未推断永久离校或暑期禁招",
+      "observedAt": "2026-10-01T11:54:06Z",
+      "sources": [
+        {
+          "url": "https://people.eecs.berkeley.edu/~anca/",
+          "retrieval": "direct-primary-page",
+          "evidence": "Complete current primary text, applicable visitor/leave wording directly verified."
+        },
+        {
+          "url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/anca.html",
+          "retrieval": "direct-primary-page",
+          "evidence": "Full official current Associate Professor appointment, distinguished chair and research/teaching details; does not override first-person leave notice."
         }
       ]
     }

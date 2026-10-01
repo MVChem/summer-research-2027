@@ -75,3 +75,51 @@
 核查：2026-10-01T11:46:28Z。[本人主页](https://davheld.github.io/)将[研究兴趣表](https://docs.google.com/forms/d/e/1FAIpQLSd7Bftdy-F4pjHrg6mS_eMd0TTNGbEN2-m2Oh8DC9MbNrX59g/viewform)主要介绍给本科实习申请者，而其硕士段落针对已入学 CMU 学生。完整表单有无 CMU 项目的 visiting researcher 选项及暑期/远程意向，但目前没有本科/硕士经费；外校在读硕士是否可用这一路径需确认。
 
 [链接的公开实验室政策](https://docs.google.com/document/d/1su_EhI4DNCpDPPwssh_g9Z3js7DixCOf6WrDTOgikU4)要求至少一个学期或暑期的投入，无课期间每周至少40小时，通常每周至少四天现场；例外须预先讨论。八周是否满足所称暑期投入、远程许可、项目容量、资金与 CMU 正式访客审批都不能由表单选项推定。没有填写表单、上传材料或接受任何协议。
+
+## ID 133 · Dinesh Jayaraman · 后续问询与限制核查
+
+核查：2026-10-01T11:51:37Z。实际表单允许非Penn机构、硕士一/二年级。PhD学生会按项目筛选协作者，未承诺PI直接指导；时长、经费、2027容量及现场任命另核。
+
+[来源1](https://www.engineering.upenn.edu/~dineshj/) · [来源2](https://docs.google.com/forms/d/e/1FAIpQLScumBuAgqHddeGt6A8suWrdYih89xFYMtxEBSNgY9kiUsdXqA/viewform?usp=send_form)
+
+
+## ID 116 · Yuke Zhu · 后续问询与限制核查
+
+核查：2026-10-01T11:54:06Z。RPL明确只列六个月或更久的长期访问研究者/实习机会，降低短期联系优先级；当前未给较短例外。
+
+[来源1](https://ut-austin-rpl.github.io/opportunities/)
+
+
+## ID 105 · Anca Dragan · 后续问询与限制核查
+
+核查：2026-10-01T11:54:06Z。本人现称从Berkeley休假，领导Google DeepMind相关团队；官方仍保留校内职务。结束日期及2027暑期现场指导未定，不推断永久离校或暑期关闭。
+
+[来源1](https://people.eecs.berkeley.edu/~anca/) · [来源2](https://www2.eecs.berkeley.edu/Faculty/Homepages/anca.html)
+
+
+## ID 6 · Yilun Du · 后续问询与限制核查
+
+核查：2026-10-01T12:00:51Z。实际表单有Masters及外校机构，并把现场/远程访问研究者与Harvard/MIT本校学生分开；有真实问询渠道，时长、经费及接收未定。
+
+[来源1](https://embodied-minds-lab.github.io/contact/) · [来源2](https://docs.google.com/forms/d/e/1FAIpQLSewtWN1KERrXQE-FbRxJSHPRS-cG0kkN92eLPIbLXjr5e329A/viewform)
+
+
+## ID 28 · Minchen Li · 后续问询与限制核查
+
+核查：2026-10-01T12:00:51Z。一般访问需至少提前3.5个月申请；通常6–12个月是常态而非硬性最短期限。另一个暑期链接属于10周本科项目，2026周期已关，不能据此认定硕士适用或2027关闭。
+
+[来源1](https://www.cs.cmu.edu/~minchenl/) · [来源2](https://docs.google.com/forms/d/e/1FAIpQLSeqG0YkxoMuFl0hcqr2SyTdWARpZ3TNQPX4iiqfa8uD52i4pw/viewform) · [来源3](https://www.csd.cmu.edu/academics/bachelors/summer-research-internship-in-computer-science)
+
+
+## ID 25 · Sara Beery · 后续问询与限制核查
+
+核查：2026-10-01T12:03:15Z。Visitor邀请出现在本人主页；表单有硕士与尚未入学选项，却无单独Visitor选项。入口可询问，但外校硕士短访适用性和经费仍须确认。
+
+[来源1](https://beerys.github.io/) · [来源2](https://docs.google.com/forms/d/e/1FAIpQLSeWT5uCEBRO_TkyxW-kjlJkICk04C-dXzDh5U3TMAhoGNtbVg/viewform?usp=send_form)
+
+
+## ID 8 · Zhuang Liu · 后续问询与限制核查
+
+核查：2026-10-01T12:03:58Z。实际表单包含Masters、外校机构、现场/远程与1–3个月时长选项。不能提供现场签证的警告只针对海外本科生，不能泛化到硕士；正式类别、资金和具体接收另核。
+
+[来源1](https://liuzhuang13.github.io/) · [来源2](https://docs.google.com/forms/d/e/1FAIpQLSc6_5Z91ezNM-Ra3ST9S45UaNEdWNeaN_zzsEO7FJYUZrobgQ/viewform?usp=send_form)

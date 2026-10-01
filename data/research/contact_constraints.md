@@ -54,13 +54,19 @@
 - **明确至少10周；与三个月条件分开显示，远程只列为极少数例外**
 - 核查：2026-09-30T22:49:43Z · [来源1](https://ebiyik.github.io/prospective/)
 
+### Yuke Zhu（原名单 #116）
+
+- 适用范围：访问研究者与research interns
+- **仅列出六个月或更久的长期访问，短期联系优先级较低；没有核实较短例外**
+- 核查：2026-10-01T11:54:06Z · [来源1](https://ut-austin-rpl.github.io/opportunities/)
+
 ## 时长偏好或常态，不是硬性禁令
 
 ### Minchen Li（原名单 #28）
 
 - 适用范围：外校访问
-- **通常6–12个月，这是常态而非已核实硬性最短时长；独立暑期链接是10周本科项目**
-- 核查：2026-09-30T22:43:36Z · [来源1](https://www.cs.cmu.edu/~minchenl/) · [来源2](https://www.csd.cmu.edu/academics/bachelors/summer-research-internship-in-computer-science)
+- **通常6–12个月，这是常态而非硬性最短期限；一般访问表单要求至少提前3.5个月申请；独立暑期链接是10周本科项目**
+- 核查：2026-10-01T12:00:51Z · [来源1](https://www.cs.cmu.edu/~minchenl/) · [来源2](https://docs.google.com/forms/d/e/1FAIpQLSeqG0YkxoMuFl0hcqr2SyTdWARpZ3TNQPX4iiqfa8uD52i4pw/viewform) · [来源3](https://www.csd.cmu.edu/academics/bachelors/summer-research-internship-in-computer-science)
 
 ### Jeannette Bohg（原名单 #93）
 
@@ -93,4 +99,12 @@
 - 适用范围：WEIRD学生研究入口
 - **当前研究入口限定已在UW的学生；参观实验室不等于外校研究任命**
 - 核查：2026-10-01T10:27:38Z · [来源1](https://weirdlab.cs.washington.edu/) · [来源2](https://homes.cs.washington.edu/~abhgupta/)
+
+## 容量或任职提醒
+
+### Anca Dragan（原名单 #105）
+
+- 适用范围：Berkeley现场指导与访问主办
+- **本人正在休假并承担DeepMind领导职务；结束时间与2027暑期校园指导未定，未推断永久离校或暑期禁招**
+- 核查：2026-10-01T11:54:06Z · [来源1](https://people.eecs.berkeley.edu/~anca/) · [来源2](https://www2.eecs.berkeley.edu/Faculty/Homepages/anca.html)
 

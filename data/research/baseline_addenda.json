@@ -325,6 +325,139 @@
           "evidence": "Full public lab policy document read11:46:28Z; Time Commitments and Lab interactions sections: semester/summer commitment,40hours/week without classes, onsite4days/week default, exceptions by advance discussion. No agreement was accepted."
         }
       ]
+    },
+    {
+      "baselineId": 133,
+      "name": "Dinesh Jayaraman",
+      "observedAt": "2026-10-01T11:51:37Z",
+      "eventType": "later-public-source-verification-not-discovery",
+      "finding": "The current first-person homepage directs undergraduate and MS research collaborators to an actively linked form. The complete form explicitly asks whether the applicant is at Penn, allows No/outside institution, and lists first- and second-year master’s status. This is a verified outside-master research inquiry channel rather than solely local student intake. The form explains that PhD students review responses for junior collaborators, often near semester starts. It gives no required visit length, summer 2027 capacity, funding or remote terms; absence of a stated minimum is not confirmation of eight-week feasibility.",
+      "sources": [
+        {
+          "url": "https://www.engineering.upenn.edu/~dineshj/",
+          "retrieval": "direct-primary-page and direct-HTML link extraction",
+          "evidence": "Full current page explicitly invites undergraduate/MS research collaboration via the linked form and separately discusses Fall2027 PhD admissions. Current first-person rank is Associate Professor; older CURF page says Assistant."
+        },
+        {
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLScumBuAgqHddeGt6A8suWrdYih89xFYMtxEBSNgY9kiUsdXqA/viewform?usp=send_form",
+          "retrieval": "direct-primary-cloud-browser",
+          "evidence": "Complete form read11:51:37Z: non-Penn choice, Masters1st/2nd-year categories, desired start period, PhD-student review and independent degree-admission caveat. No inputs, upload or submission."
+        }
+      ]
+    },
+    {
+      "baselineId": 116,
+      "name": "Yuke Zhu",
+      "observedAt": "2026-10-01T11:54:06Z",
+      "eventType": "later-public-source-verification-not-discovery",
+      "finding": "The current RPL Opportunities page explicitly advertises only long-term visiting-scholar/research-intern stays of six months or longer. This paragraph is separate from current-UT-student, degree-admissions and postdoc routes. This explicit long-duration opening has lower priority for a shorter summer visit; no shorter exception is stated.",
+      "sources": [
+        {
+          "url": "https://ut-austin-rpl.github.io/opportunities/",
+          "retrieval": "direct-primary-page",
+          "evidence": "Complete current primary text, applicable visitor/leave wording directly verified."
+        }
+      ]
+    },
+    {
+      "baselineId": 105,
+      "name": "Anca Dragan",
+      "observedAt": "2026-10-01T11:54:06Z",
+      "eventType": "later-public-source-verification-not-discovery",
+      "finding": "The current first-person homepage explicitly says Dragan is on leave from UC Berkeley to lead AI Safety and Alignment at Google DeepMind. The official EECS directory retains Associate Professor and active research/teaching information. No leave end date or summer 2027 hosting determination is stated; neither permanent university departure nor automatic summer 2027 closure can be inferred.",
+      "sources": [
+        {
+          "url": "https://people.eecs.berkeley.edu/~anca/",
+          "retrieval": "direct-primary-page",
+          "evidence": "Complete current primary text, applicable visitor/leave wording directly verified."
+        },
+        {
+          "url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/anca.html",
+          "retrieval": "direct-primary-page",
+          "evidence": "Full official current Associate Professor appointment, distinguished chair and research/teaching details; does not override first-person leave notice."
+        }
+      ]
+    },
+    {
+      "baselineId": 6,
+      "name": "Yilun Du",
+      "observedAt": "2026-10-01T12:00:51Z",
+      "eventType": "later-public-source-verification-not-discovery",
+      "finding": "The live linked research-opportunity form includes current Master’s students, arbitrary current institutions, and distinct in-person and remote visiting-researcher roles, separate from current Harvard/MIT student roles. This strengthens the outside-master inquiry route and makes remote inquiry explicitly available. No minimum duration, funding promise, summer 2027 capacity or acceptance of eight weeks is stated.",
+      "sources": [
+        {
+          "url": "https://embodied-minds-lab.github.io/contact/",
+          "retrieval": "direct-primary-page",
+          "evidence": "Full current visiting-researchers section links the form and invites specific project-fit inquiries."
+        },
+        {
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSewtWN1KERrXQE-FbRxJSHPRS-cG0kkN92eLPIbLXjr5e329A/viewform",
+          "retrieval": "direct-primary-cloud-browser",
+          "evidence": "Complete public form read without entering fields; current Master’s option, affiliation, separate visiting and local-student roles, start date and weekly commitment. No submission or file upload."
+        }
+      ]
+    },
+    {
+      "baselineId": 28,
+      "name": "Minchen Li",
+      "observedAt": "2026-10-01T12:00:51Z",
+      "eventType": "later-public-source-verification-not-discovery",
+      "finding": "The regular SIG visiting-researcher form requires application at least3.5 months before the intended start, asks start/end dates, funding and visa needs, and offers self-funded/external-fellowship/host-funded inquiry categories. The homepage says visits usually last6–12 months, not a categorical six-month minimum. However, its separate summer-internship link leads to the CSD ten-week undergraduate program, whose 2026 cycle is closed. That link is not evidence that an outside master’s can use a short summer route.",
+      "sources": [
+        {
+          "url": "https://www.cs.cmu.edu/~minchenl/",
+          "retrieval": "direct-primary-page",
+          "evidence": "Full current group/opportunities section: usual6–12-month visits, limited funds; summer internship link; external graduate intern and Oxford MSc visiting-RA precedents with no duration guarantee."
+        },
+        {
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSeqG0YkxoMuFl0hcqr2SyTdWARpZ3TNQPX4iiqfa8uD52i4pw/viewform",
+          "retrieval": "direct-primary-cloud-browser",
+          "evidence": "Complete public form content read, with3.5-month lead-time, dates, funding and visa questions. Some fields were disabled; this is not inferred as a lab closure. No fields entered or submitted."
+        },
+        {
+          "url": "https://www.csd.cmu.edu/academics/bachelors/summer-research-internship-in-computer-science",
+          "retrieval": "direct-primary-page",
+          "evidence": "Linked program explicitly undergraduate and ten weeks;2026 applications closed,2027 not announced here."
+        }
+      ]
+    },
+    {
+      "baselineId": 25,
+      "name": "Sara Beery",
+      "observedAt": "2026-10-01T12:03:15Z",
+      "eventType": "later-public-source-verification-not-discovery",
+      "finding": "The current homepage explicitly welcomes Visitor inquiries through the interest survey, but the actual form has undergraduate, master’s, PhD and postdoc level options and an admitted-to-MIT yes/no question; it does not contain a separate Visitor choice. The outside visitor inquiry remains genuine, but this is not an explicit short external-master summer invitation.",
+      "sources": [
+        {
+          "url": "https://beerys.github.io/",
+          "retrieval": "direct-primary-live-HTML",
+          "evidence": "Full live homepage joining section retrieved directly; web text copy omitted it. Visitor is in the homepage invitation, not a form option."
+        },
+        {
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSeWT5uCEBRO_TkyxW-kjlJkICk04C-dXzDh5U3TMAhoGNtbVg/viewform?usp=send_form",
+          "retrieval": "direct-primary-cloud-browser",
+          "evidence": "Complete read-only form: master’s level and not-yet-admitted answer, no Visitor choice, dates, duration, funding or remote field. No inputs/submission."
+        }
+      ]
+    },
+    {
+      "baselineId": 8,
+      "name": "Zhuang Liu",
+      "observedAt": "2026-10-01T12:03:58Z",
+      "eventType": "later-public-source-verification-not-discovery",
+      "finding": "The live linked research-intern/visitor form explicitly includes current master’s students, arbitrary home institutions, in-person and remote collaboration options, and a1–3-month duration choice. Thus roughly eight weeks fits a listed inquiry band even though the homepage favors long-term projects. The form’s inability to sponsor in-person visas applies specifically to undergraduates outside the US, not an announced master’s prohibition. Actual master’s immigration category and approval remain unverified.",
+      "sources": [
+        {
+          "url": "https://liuzhuang13.github.io/",
+          "retrieval": "direct-primary-live-HTML",
+          "evidence": "Full live Join Us text: long-term research-intern collaboration and linked form, plus separate Fall2027 PhD recruitment."
+        },
+        {
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSc6_5Z91ezNM-Ra3ST9S45UaNEdWNeaN_zzsEO7FJYUZrobgQ/viewform?usp=send_form",
+          "retrieval": "direct-primary-cloud-browser",
+          "evidence": "Complete public form read: Master, home institution, mode options, start date and1–3/4–6/7–9/10–12/13+ months; undergraduate-only visa caveat. No entries/uploads/submission."
+        }
+      ]
     }
   ]
 }

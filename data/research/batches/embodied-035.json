@@ -1,0 +1,119 @@
+[
+  {
+    "id": "wenshan-wang",
+    "name": "Wenshan Wang",
+    "aliases": [],
+    "school": "Carnegie Mellon University",
+    "homepage": "https://www.ri.cmu.edu/ri-faculty/wenshan-wang/",
+    "title": "Research faculty / Systems Scientist",
+    "department": "Robotics Institute; AirLab",
+    "batch": "embodied-035",
+    "discoveredAt": "2026-10-01T01:23:36Z",
+    "verifiedAt": "2026-10-01T01:26:27Z",
+    "researchAreas": [
+      "Vision-language navigation",
+      "Learned visual navigation",
+      "Foundation-model perception",
+      "Self-supervised off-road autonomy",
+      "Robot learning"
+    ],
+    "fitReason": "IntentNav (June 2026) learns spatially grounded waypoint decisions from human navigation demonstrations and transfers the VLM policy to real robot platforms. Wang also works on semantic scene memory and off-road self-supervised autonomy, giving a strong physical foundation-model systems match.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "IntentNav deploys the same learned checkpoint on a wheeled robot, Unitree Go2 and Unitree G1 across ten real scenes and eight object categories. LiDAR, SLAM, camera observations and a laptop VLM feed robot-specific local control. Separately, CMU’s April 2025 TartanDriver report directly identifies Wang and his AirLab team testing a self-supervised, foundation-model-informed autonomy stack on an actual ATV. The current RI profile lists his named current advisees; the campus hardware is shared rather than asserted to be personally owned.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "AirLab’s current openings page covers central graduate admissions, current CMU students, and staff/postdocs. It does not establish an external-master’s short research visit. Prior interns and affiliates are not evidence of summer 2027 capacity. Opportunity score is zero.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong deployed VLM and learned navigation, with less manipulation emphasis.",
+      "physical": "Current CMU group deployment plus official campus ATV attribution; hardware is shared and not personally owned.",
+      "shortVisit": "No verified faculty-level external short-visit invitation.",
+      "freshness": "Explicit June and August 2026 primary research."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.ri.cmu.edu / source 1",
+        "url": "https://www.ri.cmu.edu/ri-faculty/wenshan-wang/",
+        "summary": "Direct official Systems Scientist appointment, AirLab affiliation, named current advisees and public professional email.",
+        "verifiedAt": "2026-10-01T01:26:27Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "theairlab.org / source 2",
+        "url": "https://theairlab.org/openings/",
+        "summary": "Direct current recruitment categories; no explicit external-master’s summer visitor invitation.",
+        "verifiedAt": "2026-10-01T01:26:27Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2606.08029v1",
+        "summary": "June 2026 IntentNav primary paper: real cross-embodiment deployment, distinct simulation outcomes, sensing and appendix latency protocol.",
+        "verifiedAt": "2026-10-01T01:26:27Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2608.22896v1",
+        "summary": "August 2026 SuperMap collaboration provides related spatio-temporal semantic scene memory research.",
+        "verifiedAt": "2026-10-01T01:26:27Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "www.ri.cmu.edu / source 5",
+        "url": "https://www.ri.cmu.edu/taking-autonomous-driving-off-road/",
+        "summary": "April 22, 2025 official report explicitly identifies Wang in the AirLab TartanDriver team and reports autonomous physical ATV trials.",
+        "verifiedAt": "2026-10-01T01:26:27Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2603.06914v1",
+        "summary": "March 2026 SysNav is an additional current physical VLM navigation collaboration, distinct from ownership of every robot.",
+        "verifiedAt": "2026-10-01T01:26:27Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Official Robotics Institute faculty-category profile and named advisees establish university faculty scope. Exact Systems Scientist rank is preserved; independent visitor-host authority remains unverified.",
+      "Systems Scientist is the current official role; do not invent an Assistant Professor title. The external personal website could not be retrieved in this pass, so the official RI profile is the verified homepage/contact source.",
+      "IntentNav’s physical examples and latency tests are separate from its large simulation benchmark success rates. No overall physical success percentage is claimed here. Its main text gives an approximate 0.8-second policy query, while the detailed 20-episode appendix reports about 1.28-second VLM inference and 1.40-second full decision cycles; avoid an unqualified fixed latency.",
+      "The learned high-level policy remains unchanged across embodiments, while sensing and low-level control are platform-specific. This is not evidence of a newly learned low-level humanoid locomotion controller.",
+      "The existing CMU institutional Student Intern supplement may provide an administrative route, subject to host approval and current requirements; it does not add faculty opportunity credit.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "wenshanw@andrew.cmu.edu",
+    "appointmentCategory": "Official Robotics Institute faculty category; exact scientist appointment retained"
+  }
+]

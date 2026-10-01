@@ -75,6 +75,7 @@
     "batches/embodied-032.json",
     "batches/embodied-033.json",
     "batches/embodied-034.json",
+    "batches/embodied-035.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -5345,6 +5346,33 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-034.json",
       "detailPage": "batches/embodied-034.md#ji-zhang"
+    },
+    {
+      "id": "wenshan-wang",
+      "name": "Wenshan Wang",
+      "aliases": [],
+      "school": "Carnegie Mellon University",
+      "title": "Research faculty / Systems Scientist",
+      "homepage": "https://www.ri.cmu.edu/ri-faculty/wenshan-wang/",
+      "batch": "embodied-035",
+      "discoveredAt": "2026-10-01T01:23:36Z",
+      "verifiedAt": "2026-10-01T01:26:27Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Vision-language navigation",
+        "Learned visual navigation",
+        "Foundation-model perception",
+        "Self-supervised off-road autonomy",
+        "Robot learning"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-035.json",
+      "detailPage": "batches/embodied-035.md#wenshan-wang"
     },
     {
       "id": "henny-admoni",

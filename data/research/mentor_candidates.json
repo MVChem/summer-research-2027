@@ -76,6 +76,7 @@
     "batches/embodied-033.json",
     "batches/embodied-034.json",
     "batches/embodied-035.json",
+    "batches/embodied-036.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -5374,6 +5375,33 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-035.json",
       "detailPage": "batches/embodied-035.md#wenshan-wang"
+    },
+    {
+      "id": "george-a-kantor",
+      "name": "George A. Kantor",
+      "aliases": [],
+      "school": "Carnegie Mellon University",
+      "title": "Research Professor; Associate Director of Education",
+      "homepage": "https://www.ri.cmu.edu/ri-faculty/george-a-kantor/",
+      "batch": "embodied-036",
+      "discoveredAt": "2026-10-01T01:27:20Z",
+      "verifiedAt": "2026-10-01T01:29:12Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Learning from human videos",
+        "Diffusion-policy manipulation",
+        "Vision foundation models",
+        "Agricultural manipulation",
+        "Robot perception"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-036.json",
+      "detailPage": "batches/embodied-036.md#george-a-kantor"
     },
     {
       "id": "henny-admoni",

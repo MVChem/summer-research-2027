@@ -242,6 +242,7 @@
     "batches/hri-072.json",
     "batches/hri-073.json",
     "batches/hri-074.json",
+    "batches/hri-075.json",
     "batches/hri-076.json"
   ],
   "candidates": [
@@ -13119,6 +13120,69 @@
       "shortVisitStatus": "unknown · WHOI制度存在；导师短访意向未核实",
       "recordFile": "batches/hri-074.json",
       "detailPage": "batches/hri-074.md#nare-karapetyan"
+    },
+    {
+      "id": "seth-mccammon",
+      "name": "Seth McCammon",
+      "aliases": [
+        "Seth Mccammon"
+      ],
+      "school": "Woods Hole Oceanographic Institution (WHOI); MIT-WHOI Joint Program",
+      "title": "WHOI Assistant Scientist; MIT-WHOI Joint Program faculty",
+      "homepage": "https://www2.whoi.edu/staff/smccammon/",
+      "batch": "hri-075",
+      "discoveredAt": "2026-10-01T06:59:09Z",
+      "verifiedAt": "2026-10-01T07:12:54Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Marine field robotics",
+        "Active perception and adaptive sampling",
+        "Multimodal probabilistic modeling",
+        "Machine learning for passive acoustic sensing",
+        "Long-term and multi-robot autonomy"
+      ],
+      "discoveryTimestampNote": "This is the earliest precisely retained primary-source observation of the name in the current candidate screen. The name also appeared as a coauthor/team member in previously reviewed WHOI material, but an earlier individual first-observation time was not preserved and is not reconstructed.",
+      "physicalEvidenceStatus": "historical-or-indirect",
+      "physicalEvidenceLabel": "受限真机证据：historical-or-indirect",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-075.json",
+      "detailPage": "batches/hri-075.md#seth-mccammon"
+    },
+    {
+      "id": "richard-camilli",
+      "name": "Richard Camilli",
+      "aliases": [
+        "Rich Camilli"
+      ],
+      "school": "Woods Hole Oceanographic Institution (WHOI); MIT-WHOI Joint Program",
+      "title": "WHOI Senior Scientist; MIT-WHOI Joint Program faculty",
+      "homepage": "https://www.whoi.edu/profile/rcamilli/",
+      "batch": "hri-075",
+      "discoveredAt": "2026-10-01T06:59:09Z",
+      "verifiedAt": "2026-10-01T07:12:54Z",
+      "scores": {
+        "fit": 36,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Underwater shared autonomy",
+        "Human-robot collaboration",
+        "Language grounding for manipulation",
+        "Learned opti-acoustic perception",
+        "Marine robotics"
+      ],
+      "physicalEvidenceStatus": "historical-or-indirect",
+      "physicalEvidenceLabel": "受限真机证据：historical-or-indirect",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-075.json",
+      "detailPage": "batches/hri-075.md#richard-camilli"
     },
     {
       "id": "fabrizio-sergi",

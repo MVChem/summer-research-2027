@@ -113,7 +113,8 @@
     "batches/hri-030.json",
     "batches/hri-031.json",
     "batches/hri-032.json",
-    "batches/hri-033.json"
+    "batches/hri-033.json",
+    "batches/hri-034.json"
   ],
   "candidates": [
     {
@@ -8160,6 +8161,35 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-033.json",
       "detailPage": "batches/hri-033.md#zeynep-temel"
+    },
+    {
+      "id": "nancy-pollard",
+      "name": "Nancy Pollard",
+      "aliases": [
+        "Nancy S. Pollard"
+      ],
+      "school": "Carnegie Mellon University",
+      "title": "Professor",
+      "homepage": "https://www.ri.cmu.edu/ri-faculty/nancy-pollard/",
+      "batch": "hri-034",
+      "discoveredAt": "2026-10-01T01:44:44Z",
+      "verifiedAt": "2026-10-01T01:47:01Z",
+      "scores": {
+        "fit": 37,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Contact-rich human-to-robot demonstration transfer",
+        "Dexterous manipulation",
+        "3D human motion reconstruction",
+        "Soft robot hands",
+        "Tactile feedback and state estimation"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-034.json",
+      "detailPage": "batches/hri-034.md#nancy-pollard"
     }
   ]
 }

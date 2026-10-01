@@ -1,0 +1,298 @@
+[
+  {
+    "id": "yan-yan",
+    "name": "Yan Yan",
+    "aliases": [],
+    "school": "University of Illinois Chicago",
+    "homepage": "https://tomyan555.github.io/index.html",
+    "title": "Associate Professor",
+    "department": "Computer Science",
+    "batch": "embodied-016",
+    "discoveredAt": "2026-09-30T23:11:28Z",
+    "verifiedAt": "2026-09-30T23:22:19Z",
+    "researchAreas": [
+      "Vision-language-action policies",
+      "Efficient robot inference",
+      "Flow-matching manipulation",
+      "Temporal action verification",
+      "Robot policy generalization"
+    ],
+    "fitReason": "REMAC (ICLR2026) improves asynchronous VLA execution via masked action chunking. AutoHorizon (ECCV2026) adapts action execution horizons, while Cue the Flow (CoRL2026) steers a frozen flow policy toward language-grounded delivery targets.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "REMAC’s primary full paper explicitly uses a7DoF Franka Research3 with parallel-jaw gripper and a pi0 backbone on three physical grasp/place tasks,30 trials per method/task. The later TeV project separately lists bottle-to-bag, cup transport and water filling hardware tasks.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current homepage has historical visiting scholars and master’s mentoring, but no explicit current external short-term master’s invitation was found. The linked CVM lab root failed retrieval, so recruitment coverage is incomplete and availability remains unknown.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 40,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct current VLA execution, verification and manipulation-policy research.",
+      "physical": "REMAC hardware is documented in a multi-institution collaboration; current UIC-local platform access is unconfirmed.",
+      "shortVisit": "Historical visitor roster and general faculty contact are not a current short-visit pathway.",
+      "freshness": "Multiple2026 primary policy projects and currentFall2026 faculty activity."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "cs.uic.edu / source 1",
+        "url": "https://cs.uic.edu/profiles/yan-yan/",
+        "summary": "Official current associate professor, CS affiliation and email.",
+        "verifiedAt": "2026-09-30T23:22:19Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "tomyan555.github.io / source 2",
+        "url": "https://tomyan555.github.io/index.html",
+        "summary": "Current Fall2026 teaching, lab members and historical visitors; no current short visitor invitation established.",
+        "verifiedAt": "2026-09-30T23:22:19Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2601.20130v1",
+        "summary": "REMAC full primary paper Section5.2: physical FrankaResearch3/pi0, three tasks,30 trials per method/task and stage-based progress metric.",
+        "verifiedAt": "2026-09-30T23:22:19Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "hatchetproject.github.io / source 4",
+        "url": "https://hatchetproject.github.io/remac-async/",
+        "summary": "Author project identifies ICLR2026 and physical demos.",
+        "verifiedAt": "2026-09-30T23:22:19Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "hatchetproject.github.io / source 5",
+        "url": "https://hatchetproject.github.io/tev/",
+        "summary": "Current primary project identifies equal advising and real bottle/cup/water experiments, separate from LIBERO/RoboTwin simulation.",
+        "verifiedAt": "2026-09-30T23:22:19Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "hatchetproject.github.io / source 6",
+        "url": "https://hatchetproject.github.io/delivery_steer/",
+        "summary": "CoRL2026 primary Cue the Flow project, coauthorship and mobile/tabletop delivery manipulation.",
+        "verifiedAt": "2026-09-30T23:22:19Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Current university is UIC, following a move from Illinois Institute of Technology; prior visitor records do not establish current UIC summer acceptance. Recent physical projects involve Cisco and/or UCLA collaborators, so UIC-local equipment access and supervision must be confirmed. REMAC’s reported stage-based completion progress is not the same metric as full-task binary success.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "yyan55@uic.edu"
+  },
+  {
+    "id": "gregory-j-stein",
+    "name": "Gregory J. Stein",
+    "aliases": [],
+    "school": "George Mason University",
+    "homepage": "https://gjstein.com/",
+    "title": "Assistant Professor",
+    "department": "Computer Science",
+    "batch": "embodied-016",
+    "discoveredAt": "2026-09-30T23:18:00Z",
+    "verifiedAt": "2026-09-30T23:22:19Z",
+    "researchAreas": [
+      "Learning-informed robot planning",
+      "Long-horizon embodied reasoning",
+      "Multi-robot coordination",
+      "Semantic object search",
+      "Planning under uncertainty"
+    ],
+    "fitReason": "Multi-Robot Learning-Informed Task Planning (ICRA2026 per lab) combines learned object-location likelihoods with model-based long-horizon coordination. Its planning abstraction connects embodied search, uncertainty and multi-robot decision making.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The full2026 primary paper evaluates two physical LoCoBots with RGB cameras/GroundingDINO in two household environments. A neural likelihood model trained in ProcTHOR is reused for real object search, alongside lidar-built static maps. Physical tasks are reaching/searching for objects, not verified physical pick-and-place.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current faculty/lab sources and summer high-school ASSIP hosting precedent were found, but no external-master’s short-visit invitation. High-school internship history is not an applicable master’s summer pathway.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong embodied learning-informed planning and uncertainty fit.",
+      "physical": "Explicit physical two-robot deployments with actual perception and transferred learned likelihoods.",
+      "shortVisit": "No current external master’s visit route; unrelated high-school history not scored.",
+      "freshness": "March2026 primary hardware paper and July2026 lab activity."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "cs.gmu.edu / source 1",
+        "url": "https://cs.gmu.edu/people/faculty?page=6",
+        "summary": "Official current CS assistant professor and research area.",
+        "verifiedAt": "2026-09-30T23:22:19Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "gjstein.com / source 2",
+        "url": "https://gjstein.com/",
+        "summary": "CurrentJuly2026 lab news, professional email,ICRA2026 research and historical high-school internship notice.",
+        "verifiedAt": "2026-09-30T23:22:19Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "gjstein.com / source 3",
+        "url": "https://gjstein.com/research/",
+        "summary": "Primary lab explanation of learned planning and embodied object search.",
+        "verifiedAt": "2026-09-30T23:22:19Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2603.20544v1",
+        "summary": "Primary full paper SectionVII identifies two physical LoCoBots, neural model transfer, static maps and reach-object tasks.",
+        "verifiedAt": "2026-09-30T23:22:19Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "This is principally high-level learned planning/search rather than low-level manipulation-policy learning. The physical deployment uses known static maps and predefined container locations; avoid claiming map-free exploration. Sponsored projects may have project-specific access conditions; no individual restriction or clearance inferred.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "gjstein@gmu.edu"
+  },
+  {
+    "id": "luyang-zhao",
+    "name": "Luyang Zhao",
+    "aliases": [],
+    "school": "Clemson University",
+    "homepage": "https://luyangzhao.github.io/",
+    "title": "Assistant Professor",
+    "department": "Electrical and Computer Engineering",
+    "batch": "embodied-016",
+    "discoveredAt": "2026-09-30T23:19:05Z",
+    "verifiedAt": "2026-09-30T23:22:19Z",
+    "researchAreas": [
+      "Multimodal robot state perception",
+      "LLMs for embodied diagnosis",
+      "Soft modular robotics",
+      "Reconfigurable robot learning",
+      "VLA-based manipulation teaching"
+    ],
+    "fitReason": "A June2026 coauthored study combines learned shape reconstruction and a fine-tuned multimodal LLM with sensorized tensegrity hardware. Current SMILE activities also explore VLA manipulation on SO-101 arms, although the latter is reported as course/research-training work rather than a peer-reviewed policy benchmark.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The2026 primary journal study uses a physical six-bar tensegrity structure with24 flexible sensors. LSTM-based shape reconstruction and multimodal LoRA-adapted language modeling support state monitoring and fault diagnosis. This is learned sensing/diagnosis, not demonstrated autonomous learned locomotion or grasping.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current personal/lab pages welcome prospective students generally, but no explicit current external-master’s eight-week or remote-intern invitation was verified. Third-party recruitment lists are not used to establish such a route.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 35,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Concrete recent multimodal embodied sensing, but narrower than deployed generalist manipulation.",
+      "physical": "The physical learned-sensing study retains prior Dartmouth affiliation and international collaboration; current Clemson-local setup is unconfirmed.",
+      "shortVisit": "General student welcome, no verified short external-master’s invitation.",
+      "freshness": "June2026 primary learned-sensing paper and active2026 lab/course record."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.clemson.edu / source 1",
+        "url": "https://www.clemson.edu/cecas/departments/ece/faculty_staff/faculty/luyzhao.html",
+        "summary": "Official current ECE assistant professor,August2025 start and public email.",
+        "verifiedAt": "2026-09-30T23:22:19Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "luyangzhao.github.io / source 2",
+        "url": "https://luyangzhao.github.io/",
+        "summary": "Current research scope,June2026 paper andApril2026 SO-101/VLA course-project completion report.",
+        "verifiedAt": "2026-09-30T23:22:19Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "smile-robotics-lab.github.io / source 3",
+        "url": "https://smile-robotics-lab.github.io/",
+        "summary": "Current lab and research; no applicable short visitor terms verified.",
+        "verifiedAt": "2026-09-30T23:22:19Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "www.nature.com / source 4",
+        "url": "https://www.nature.com/articles/s41378-026-01322-0",
+        "summary": "Direct primary journal full text,June10,2026: physical24-sensor tensegrity, learned shape reconstruction,LoRA multimodal diagnosis; author contributions include Zhao methodology/software. The DOI redirect failed first, but direct article read returned full content.",
+        "verifiedAt": "2026-09-30T23:22:19Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Current Clemson appointment beganAugust2025. The June2026 paper retains the preceding Dartmouth affiliation and is an international collaboration; current Clemson hardware access for that project is unconfirmed. The official faculty page has a mismatched image-alt label, but visible name/title, email and personal page agree. Focused learning/sensing projects are a closer match than general mechanical design.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "luyangz@clemson.edu"
+  }
+]

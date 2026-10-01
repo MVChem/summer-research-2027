@@ -1,0 +1,266 @@
+[
+  {
+    "id": "inbae-jeong",
+    "name": "Inbae Jeong",
+    "aliases": [],
+    "school": "North Dakota State University",
+    "homepage": "https://inbaejeong.com/",
+    "title": "Assistant Professor; Principal Investigator, Jeong’s Lab",
+    "department": "Mechanical Engineering",
+    "batch": "control-074",
+    "discoveredAt": "2026-10-01T06:25:19Z",
+    "verifiedAt": "2026-10-01T06:32:06Z",
+    "researchAreas": [
+      "Robot reinforcement learning",
+      "Human-aware motion control",
+      "Risk-aware navigation",
+      "Persistent multi-robot autonomy"
+    ],
+    "fitReason": "Robotics and AI are the official faculty focus; current collaborative work couples human-state estimation with learned motion regulation.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "September 2026 construction-robotics workshop paper deploys trust/distraction classification and gated PPO policies on a real Unitree Go2. Eight participants perform information-retrieval or tool-sorting tasks in a controlled construction-like workspace. ROS2 receives learned velocity/separation outputs. This is preliminary physical execution, not active construction-site validation or a proved safety guarantee. The current NDSU coauthor affiliation is verified, but independent ownership of this specific platform by Jeong’s group is unresolved; collaborative hardware score is capped at 20.",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current external-master short-visitor invitation found on the inspected primary lab and university pages. Graduate supervision and research grants are not visitor offers.",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct robotics-AI control and navigation fit.",
+      "physical": "Actual collaborative current-host Go2 evidence; independent lab access/ownership unresolved.",
+      "shortVisit": "No applicable visitor offer verified.",
+      "freshness": "September 2026 physical manuscript and current 2026 faculty/lab confirmation."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.ndsu.edu / source 1",
+        "url": "https://www.ndsu.edu/mechanical-engineering/people",
+        "summary": "Current assistant-professor appointment, robotics/AI scope and email.",
+        "verifiedAt": "2026-10-01T06:32:06Z",
+        "retrieval": "Direct primary/official HTML or PDF via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "inbaejeong.com / source 2",
+        "url": "https://inbaejeong.com/",
+        "summary": "Current PI role and March 2026 energy-aware heterogeneous-fleet project; grant is not itself execution.",
+        "verifiedAt": "2026-10-01T06:32:06Z",
+        "retrieval": "Direct primary/official HTML or PDF via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "construction-robots.github.io / source 3",
+        "url": "https://construction-robots.github.io/papers/iros2026_16.pdf",
+        "summary": "Complete four-page September 2026 workshop manuscript: physical Go2, two PPO policies, eight-person controlled study and preliminary limitations.",
+        "verifiedAt": "2026-10-01T06:32:06Z",
+        "retrieval": "Public workshop-hosted full PDF downloaded and read with pdftotext; web.run PDF extraction failed"
+      }
+    ],
+    "unknowns": [
+      "NDSU’s current Student Intern route explicitly admits undergraduates/bachelor-degree students only; do not apply it to an external master. Its separate Short-Term Scholar route is at most six months with host contact at least 90 days ahead and department/dean/export review. The currently linked 2021 visitor form permits entirely personal funding, but does not establish external-master scholar qualification, current monthly minimum or 2027 capacity. Refer to north-dakota-state feasibility notes. No blanket master exclusion across all categories is inferred.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#north-dakota-state)"
+    ],
+    "publicEmail": "inbae.jeong@ndsu.edu"
+  },
+  {
+    "id": "youjin-jang",
+    "name": "Youjin Jang",
+    "aliases": [],
+    "school": "North Dakota State University",
+    "homepage": "https://sites.google.com/view/smartcl/home",
+    "title": "Associate Professor; Principal Investigator, S2MART Construction Lab",
+    "department": "Civil, Construction and Environmental Engineering",
+    "batch": "control-074",
+    "discoveredAt": "2026-10-01T06:25:19Z",
+    "verifiedAt": "2026-10-01T06:32:06Z",
+    "researchAreas": [
+      "Human-state-aware robot control",
+      "Robot reinforcement learning",
+      "Construction human-robot collaboration",
+      "Multimodal trust estimation"
+    ],
+    "fitReason": "Strong applied robotics-AI fit through learned human-state assessment and PPO control, within a broader construction-safety research program.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The same September 2026 Go2 study uses physiological trust and visual distraction estimates to select PPO motion policies. Its eight-person results are descriptive, with residual close/high-speed motion and no ablation isolating human-state effects from proximity. Jang’s current lab independently reports lead author Hardik Chauhan’s July 2026 dissertation defense on this adaptive robot framework, establishing directed-group linkage. Limited workshop detail and controlled scale justify 23 rather than maximum hardware credit.",
+      "sourceIds": [
+        "s2",
+        "s3"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current external-master short-visitor invitation found on the inspected primary lab and university pages. Graduate supervision and research grants are not visitor offers.",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 23,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantive learned robot control integrated with multimodal human-state modeling.",
+      "physical": "Current directed student/project linkage independently verified; small preliminary workshop experiment.",
+      "shortVisit": "No applicable visitor offer verified.",
+      "freshness": "2026 defended dissertation and September workshop execution."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.ndsu.edu / source 1",
+        "url": "https://www.ndsu.edu/civil-construction-environmental-engineering/people",
+        "summary": "Current associate-professor rank and official email.",
+        "verifiedAt": "2026-10-01T06:32:06Z",
+        "retrieval": "Direct primary/official HTML or PDF via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "sites.google.com / source 2",
+        "url": "https://sites.google.com/view/smartcl/home",
+        "summary": "Independent July 2026 dissertation-defense and2022 student-entry evidence for lead author, plus ongoing group research.",
+        "verifiedAt": "2026-10-01T06:32:06Z",
+        "retrieval": "Direct primary/official HTML or PDF via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "construction-robots.github.io / source 3",
+        "url": "https://construction-robots.github.io/papers/iros2026_16.pdf",
+        "summary": "Complete four-page September 2026 workshop manuscript: physical Go2, two PPO policies, eight-person controlled study and preliminary limitations.",
+        "verifiedAt": "2026-10-01T06:32:06Z",
+        "retrieval": "Public workshop-hosted full PDF downloaded and read with pdftotext; web.run PDF extraction failed"
+      }
+    ],
+    "unknowns": [
+      "NDSU’s current Student Intern route explicitly admits undergraduates/bachelor-degree students only; do not apply it to an external master. Its separate Short-Term Scholar route is at most six months with host contact at least 90 days ahead and department/dean/export review. The currently linked 2021 visitor form permits entirely personal funding, but does not establish external-master scholar qualification, current monthly minimum or 2027 capacity. Refer to north-dakota-state feasibility notes. No blanket master exclusion across all categories is inferred. Current central directory says Associate Professor; older assistant-professor pages are superseded.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#north-dakota-state)"
+    ],
+    "publicEmail": "y.jang@ndsu.edu"
+  },
+  {
+    "id": "christopher-kitts",
+    "name": "Christopher Kitts",
+    "aliases": [
+      "Christopher A. Kitts",
+      "Chris Kitts"
+    ],
+    "school": "Santa Clara University",
+    "homepage": "https://www.scu.edu/engineering/faculty/kitts-christopher/",
+    "title": "William and Janice Terry Professor; Director, Robotic Systems Laboratory; Associate Dean",
+    "department": "Mechanical Engineering",
+    "batch": "control-074",
+    "discoveredAt": "2026-10-01T06:19:55Z",
+    "verifiedAt": "2026-10-01T06:32:06Z",
+    "researchAreas": [
+      "Human-cobot manipulation",
+      "Machine-learning-enabled gesture control",
+      "Multi-robot control",
+      "Field robotics",
+      "Model-based anomaly management"
+    ],
+    "fitReason": "Practical robotics with an executed neural-perception interface for manipulation; core program also includes substantial classical systems/control.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The complete author-hosted ASME IMECE2024 manuscript, carrying2025 publication copyright, executes MediaPipe hand recognition and learned ZED2i skeleton detection through Jetson/ROS to command a physical four-DOF DexArm suction-cup pick-and-place. Point gestures specify goals; fists trigger pick/place. Motion planning remains conventional. UR5/Yaskawa are interface examples, not demonstrated platforms in this experiment. It is an early prototype without a quantitative user study; future voice integration, grasp-orientation and force selection are not credited. The current RSL page independently confirms human-cobot projects, a manipulator workcell and embedded MegaChips collaborators, linking the paper’s industry/university team to Kitts’s directed lab.",
+      "sourceIds": [
+        "s2",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "RSL currently seeks students for capstone/thesis and directed projects and hosts embedded MegaChips visiting scholars. Neither statement establishes a general external-master eight-week invitation, so visitor score remains 0.",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "scores": {
+      "fit": 35,
+      "physical": 23,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Executed learned perception-to-manipulation interface; broader lab is mixed AI/classical field robotics.",
+      "physical": "Real current-lab prototype with independent group linkage; limited experimental depth.",
+      "shortVisit": "Degree/project recruitment and corporate visitor precedent do not establish an external-master offer.",
+      "freshness": "2025 publication and current 2026 lab activity."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.scu.edu / source 1",
+        "url": "https://www.scu.edu/engineering/faculty/kitts-christopher/",
+        "summary": "Current named professorship, lab leadership, associate-dean role and public email.",
+        "verifiedAt": "2026-10-01T06:32:06Z",
+        "retrieval": "Direct primary/official HTML or PDF via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "www.scu.edu / source 2",
+        "url": "https://www.scu.edu/engineering/labs--research/labs/robotic-systems-lab/",
+        "summary": "Current workcell, human-cobot program and embedded MegaChips visiting scholars; student recruitment scope.",
+        "verifiedAt": "2026-10-01T06:32:06Z",
+        "retrieval": "Direct primary/official HTML or PDF via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "www.scu.edu / source 3",
+        "url": "https://www.scu.edu/engineering/labs--research/labs/robotic-systems-lab/research--publications/",
+        "summary": "Independent current research-program linkage to gesture-driven human-cobot manipulation.",
+        "verifiedAt": "2026-10-01T06:32:06Z",
+        "retrieval": "Direct primary/official HTML or PDF via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "sites.google.com / source 4",
+        "url": "https://sites.google.com/view/info-manoj/research",
+        "summary": "Coauthor primary research page linking full assistive-cobot manuscript.",
+        "verifiedAt": "2026-10-01T06:32:06Z",
+        "retrieval": "Direct primary/official HTML or PDF via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "drive.google.com / source 5",
+        "url": "https://drive.google.com/file/d/1ZZX_Rdi3daBG4L_5ROE4MAJHKAbIv9qh/view",
+        "summary": "Complete coauthor-hosted primary manuscript with DexArm/MediaPipe/ZED/ROS methods and prototype limits.",
+        "verifiedAt": "2026-10-01T06:32:06Z",
+        "retrieval": "Public author-linked PDF downloaded via Google Drive public export and read with pdftotext; no login used"
+      },
+      {
+        "id": "s6",
+        "label": "www.scu.edu / source 6",
+        "url": "https://www.scu.edu/media/school-of-engineering/pdfs/deanx27s-office-pdfs/SoE-Funding-Budget-Guidelines-9.5.2024.pdf",
+        "summary": "Separate unpaid School of Engineering affiliate appointment does not provide visa processing; central international-scholar route must be assessed separately.",
+        "verifiedAt": "2026-10-01T06:32:06Z",
+        "retrieval": "Direct primary/official HTML or PDF via web.run"
+      }
+    ],
+    "unknowns": [
+      "Reuse Santa Clara eligibility notes: a Short-Term Scholar route and personal liquid funds are possible, with current $3,000/month support evidence and at least ten-week administrative lead time. Its public student examples concern dissertation-stage PhD researchers; external-master category remains unverified. Corporate embedded visitors are a precedent, not a general offer. The School of Engineering’s separate unpaid affiliate appointment document says visa processing is not provided through that appointment, so it must not replace central Global Engagement sponsorship review. Host capacity, project duration, appointments, insurance and 2027 figures need confirmation.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#santa-clara)"
+    ],
+    "publicEmail": "ckitts@scu.edu"
+  }
+]

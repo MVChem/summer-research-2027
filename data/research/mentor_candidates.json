@@ -82,6 +82,7 @@
     "batches/control-071.json",
     "batches/control-072.json",
     "batches/control-073.json",
+    "batches/control-074.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -4336,6 +4337,88 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-073.json",
       "detailPage": "batches/control-073.md#pappu-kumar-yadav"
+    },
+    {
+      "id": "inbae-jeong",
+      "name": "Inbae Jeong",
+      "aliases": [],
+      "school": "North Dakota State University",
+      "title": "Assistant Professor; Principal Investigator, Jeong’s Lab",
+      "homepage": "https://inbaejeong.com/",
+      "batch": "control-074",
+      "discoveredAt": "2026-10-01T06:25:19Z",
+      "verifiedAt": "2026-10-01T06:32:06Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Robot reinforcement learning",
+        "Human-aware motion control",
+        "Risk-aware navigation",
+        "Persistent multi-robot autonomy"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-074.json",
+      "detailPage": "batches/control-074.md#inbae-jeong"
+    },
+    {
+      "id": "youjin-jang",
+      "name": "Youjin Jang",
+      "aliases": [],
+      "school": "North Dakota State University",
+      "title": "Associate Professor; Principal Investigator, S2MART Construction Lab",
+      "homepage": "https://sites.google.com/view/smartcl/home",
+      "batch": "control-074",
+      "discoveredAt": "2026-10-01T06:25:19Z",
+      "verifiedAt": "2026-10-01T06:32:06Z",
+      "scores": {
+        "fit": 38,
+        "physical": 23,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-state-aware robot control",
+        "Robot reinforcement learning",
+        "Construction human-robot collaboration",
+        "Multimodal trust estimation"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-074.json",
+      "detailPage": "batches/control-074.md#youjin-jang"
+    },
+    {
+      "id": "christopher-kitts",
+      "name": "Christopher Kitts",
+      "aliases": [
+        "Christopher A. Kitts",
+        "Chris Kitts"
+      ],
+      "school": "Santa Clara University",
+      "title": "William and Janice Terry Professor; Director, Robotic Systems Laboratory; Associate Dean",
+      "homepage": "https://www.scu.edu/engineering/faculty/kitts-christopher/",
+      "batch": "control-074",
+      "discoveredAt": "2026-10-01T06:19:55Z",
+      "verifiedAt": "2026-10-01T06:32:06Z",
+      "scores": {
+        "fit": 35,
+        "physical": 23,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-cobot manipulation",
+        "Machine-learning-enabled gesture control",
+        "Multi-robot control",
+        "Field robotics",
+        "Model-based anomaly management"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-074.json",
+      "detailPage": "batches/control-074.md#christopher-kitts"
     },
     {
       "id": "tom-silver",

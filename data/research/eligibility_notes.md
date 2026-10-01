@@ -960,3 +960,11 @@ Sources: [Guides and Forms](https://www.lamar.edu/international-education/intern
 核查：2026-10-01T06:22:24Z。与 San Diego State 不同。[Policy 2:32](https://www.sdstate.edu/university-policies-procedures/policy-232-visiting-scholars)要求八周或涉及实验室操作的访问完成访客审批，由接收单位启动、Provost 最终批准；短时参观不授权研究或操作设备。访客不构成员工，但此定义不等于允许任意签证类别完全自费。政策未明确外校在读硕士资格。
 
 [国际学者入口](https://www.sdstate.edu/international-student-scholar-engagement/faculty-scholars-j-1-holders)提供 research/short-term scholar 支持，并提及 intern；详细流程链接至 InsideState。未核实独立 Student Intern 条件、当前最低财力、八周接收或完整个人出资许可，须由接收单位及 International Student and Scholar Engagement 确定。[保险页](https://www.sdstate.edu/international-student-scholar-engagement/j-1-health-insurance)的约每月六美元仅指已参加州雇员保险者的补充保障，不能用作访客完整保费。相关页面的监管提示措辞不一致，不据此作法律状态判断；2027 类别、资金、保险、提前期和实验室准入均待确认。
+
+<a id="north-dakota-state"></a>
+
+## North Dakota State · Intern 限本科，硕士 Scholar 分类待确认
+
+核查：2026-10-01T06:32:06Z。[当前 Student Intern 页面](https://www.ndsu.edu/facultyaffairs/immigration/j_1_student_interns_undergraduate_students_bachelor_degree_only) 明确限海外在读本科生，不能套用为外校硕士通道。[Scholar 页面](https://www.ndsu.edu/facultyaffairs/immigration/j_1_exchange_visitors_scholarsresearchers) 列有至多六个月的 Short-Term Scholar，并要求院系至少提前90天联系移民办公室、完成出口合规核查；八周符合时长上限，但硕士资格仍待确认。
+
+[当前表单页](https://www.ndsu.edu/facultyaffairs/immigration/immigration_forms/j_1_scholars) 所链接的 [VSVR 表](https://www.ndsu.edu/sites/default/files/fileadmin/facultyaffairs/Immigration/Visiting_Scholar_Visiting_Researcher__VSVR_.pdf) 内部修订日期为2021年，明确有完全个人自费选项，须系/学院及出口合规批准。自费选项不等于已确认硕士任命资格；当前最低资金、完整保险/手续费用及2027名额未知。[非雇员协议](https://www.ndsu.edu/sites/default/files/fileadmin/facultyaffairs/UPSO-VSVRAgree.pdf) 涉及保险、培训、知识产权与签字，尚未接受。旧表保险金额不作为2027预算。

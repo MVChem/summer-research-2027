@@ -1,0 +1,127 @@
+[
+  {
+    "id": "svetlana-lazebnik",
+    "name": "Svetlana Lazebnik",
+    "aliases": [],
+    "school": "University of Illinois Urbana-Champaign",
+    "homepage": "https://slazebni.cs.illinois.edu/",
+    "title": "Professor and Willett Faculty Scholar",
+    "department": "Siebel School of Computing and Data Science",
+    "batch": "embodied-037",
+    "discoveredAt": "2026-10-01T01:30:29Z",
+    "verifiedAt": "2026-10-01T01:32:15Z",
+    "researchAreas": [
+      "Generated-video robotic manipulation",
+      "Vision-language models",
+      "Visual imitation",
+      "Object tracking",
+      "Computer vision"
+    ],
+    "fitReason": "RIGVid directly connects generative video models and VLM filtering to physical manipulation without task-specific robot demonstrations. Her current official research highlights identify this as a group direction; the first author is her 2026 PhD graduate and the project names equal advising.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "RIGVid, revised May 2026 for ICLR, executes on an actual xArm7 with an Orbbec RGB-D camera, and includes ALOHA transfer and bimanual demonstrations. Four main manipulation tasks use ten videos per task/source, with real pose-tracking feedback during execution. The first-author/adviser and official university talk provide direct group linkage rather than coauthorship alone.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No explicit external-master’s short-visit, research-intern or summer 2027 invitation was found on the inspected current homepage and official profile. Professional contact is available; opportunity score remains zero.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct generative-model visual imitation and physical manipulation, inside a broader computer-vision group.",
+      "physical": "Detailed real robot execution with adviser/first-author linkage and official attribution to the group.",
+      "shortVisit": "No current external short-visit recruitment established.",
+      "freshness": "May 2026 physical-paper revision and current August 2026 research page."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "slazebni.cs.illinois.edu / source 1",
+        "url": "https://slazebni.cs.illinois.edu/",
+        "summary": "Current professor page updated August 2026: email, robot manipulation highlights and first-author PhD advising connection.",
+        "verifiedAt": "2026-10-01T01:32:15Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "siebelschool.illinois.edu / source 2",
+        "url": "https://siebelschool.illinois.edu/about/people/all-faculty/department-faculty",
+        "summary": "Direct current faculty roster: Professor and Willett Faculty Scholar.",
+        "verifiedAt": "2026-10-01T01:32:15Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "siebelschool.illinois.edu / source 3",
+        "url": "https://siebelschool.illinois.edu/TAU-UIUC/SvetlanaLazebnik",
+        "summary": "Official talk explicitly describes RIGVid as the group’s recent robot-manipulation work; biography confirms full professor.",
+        "verifiedAt": "2026-10-01T01:32:15Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "rigvid-robot.github.io / source 4",
+        "url": "https://rigvid-robot.github.io/",
+        "summary": "Primary project names equal advising and provides real xArm7/ALOHA execution examples.",
+        "verifiedAt": "2026-10-01T01:32:15Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2507.00990v3",
+        "summary": "Full May 13, 2026 revision: physical setup, four-task evaluation, video filtering, required meshes/depth and closed-loop pose tracking.",
+        "verifiedAt": "2026-10-01T01:32:15Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/abs/2507.00990",
+        "summary": "Primary version history distinguishes July 2025 initial preprint from May 2026 ICLR revision.",
+        "verifiedAt": "2026-10-01T01:32:15Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s7",
+        "label": "arxiv.org / source 7",
+        "url": "https://arxiv.org/html/2603.12120v1",
+        "summary": "March 2026 CRAFT primary hand-design paper; included only as related current physical robotics, not autonomous learned-policy evidence.",
+        "verifiedAt": "2026-10-01T01:32:15Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "RIGVid uses pretrained video generation, VLM filtering, pose tracking and retargeting, not a newly trained end-to-end VLA policy. Its default tracker requires an object mesh obtained from a prior RGB-D object scan, and real initial depth is required. No task demonstrations does not mean no physical sensing or preparation.",
+      "Evaluation starts from fixed task configurations and assesses defined final-state criteria. Pouring success checks spout placement above the plant, not measured water delivery. The four-task result should not be described as unrestricted general manipulation.",
+      "The July 2025 preprint and May 2026 revision dates are kept distinct. CRAFT is additional March 2026 physical-hand research, not necessary evidence of learned autonomous behavior here.",
+      "Existing UIUC policy states the Student Intern category is undergraduate-only. A general scholar route accepts personal support, but the appropriate academic appointment for a currently foreign-enrolled master’s researcher in CS/Engineering remains unverified.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "slazebni@illinois.edu"
+  }
+]

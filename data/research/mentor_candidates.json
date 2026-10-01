@@ -78,6 +78,7 @@
     "batches/embodied-034.json",
     "batches/embodied-035.json",
     "batches/embodied-036.json",
+    "batches/embodied-037.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -5430,6 +5431,33 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-036.json",
       "detailPage": "batches/embodied-036.md#george-a-kantor"
+    },
+    {
+      "id": "svetlana-lazebnik",
+      "name": "Svetlana Lazebnik",
+      "aliases": [],
+      "school": "University of Illinois Urbana-Champaign",
+      "title": "Professor and Willett Faculty Scholar",
+      "homepage": "https://slazebni.cs.illinois.edu/",
+      "batch": "embodied-037",
+      "discoveredAt": "2026-10-01T01:30:29Z",
+      "verifiedAt": "2026-10-01T01:32:15Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Generated-video robotic manipulation",
+        "Vision-language models",
+        "Visual imitation",
+        "Object tracking",
+        "Computer vision"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-037.json",
+      "detailPage": "batches/embodied-037.md#svetlana-lazebnik"
     },
     {
       "id": "henny-admoni",

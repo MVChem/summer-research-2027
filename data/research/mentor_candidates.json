@@ -41,6 +41,7 @@
     "batches/control-030.json",
     "batches/control-031.json",
     "batches/control-032.json",
+    "batches/control-033.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -2567,6 +2568,32 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-032.json",
       "detailPage": "batches/control-032.md#abhisesh-silwal"
+    },
+    {
+      "id": "shaoshuai-mou",
+      "name": "Shaoshuai Mou",
+      "aliases": [],
+      "school": "Purdue University",
+      "title": "Elmer Bruhn Professor of Aeronautics and Astronautics; Co-Director, ICON",
+      "homepage": "https://engineering.purdue.edu/AIMS",
+      "batch": "control-033",
+      "discoveredAt": "2026-10-01T01:30:28Z",
+      "verifiedAt": "2026-10-01T01:35:28Z",
+      "scores": {
+        "fit": 40,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Model-based reinforcement learning",
+        "Deep Koopman dynamics",
+        "Learning-based robot control",
+        "Multi-agent autonomy"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-033.json",
+      "detailPage": "batches/control-033.md#shaoshuai-mou"
     },
     {
       "id": "tom-silver",

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "shaoshuai-mou",
+    "name": "Shaoshuai Mou",
+    "aliases": [],
+    "school": "Purdue University",
+    "homepage": "https://engineering.purdue.edu/AIMS",
+    "title": "Elmer Bruhn Professor of Aeronautics and Astronautics; Co-Director, ICON",
+    "department": "School of Aeronautics and Astronautics; Electrical and Computer Engineering by courtesy",
+    "batch": "control-033",
+    "discoveredAt": "2026-10-01T01:30:28Z",
+    "verifiedAt": "2026-10-01T01:35:28Z",
+    "researchAreas": [
+      "Model-based reinforcement learning",
+      "Deep Koopman dynamics",
+      "Learning-based robot control",
+      "Multi-agent autonomy"
+    ],
+    "fitReason": "Direct overlap with data-efficient robot reinforcement learning, learned dynamics, and control rather than only abstract network optimization.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "April 21, 2026 PGDK-Online paper reports real Kinova arm goal tracking/obstacle avoidance and Unitree Go1 goal-pose tracking. The arm policy is trained in Gazebo before physical deployment; Go1 uses motion capture. First author Wenjian Hao identifies Mou as his current Purdue PhD adviser. Hardware claims are task-specific, not a general autonomous-locomotion or safety guarantee.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Official AAE profile advertises PhD and postdoctoral positions. A separate current Gilbreth project is postdoctoral. Neither establishes an external master's short visit; no current applicable invitation verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 40,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong current learned-dynamics plus actor-critic RL control fit.",
+      "physical": "Two named real platforms in a 2026 paper led by a currently identified advisee; deployment and sensing limitations retained.",
+      "shortVisit": "PhD/postdoc advertisements do not establish an external master's visit.",
+      "freshness": "Direct 2026 full technical paper plus live official faculty and current adviser evidence."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.purdue.edu / source 1",
+        "url": "https://engineering.purdue.edu/Engr/People/ptProfile?resource_id=124981",
+        "summary": "Current central title, AAE and ECE affiliation, West Lafayette campus, public email; page states modified March 4, 2026.",
+        "verifiedAt": "2026-10-01T01:35:28Z",
+        "retrieval": "Direct official HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "engineering.purdue.edu / source 2",
+        "url": "https://engineering.purdue.edu/AAE/people/awards/ptProfile?resource_id=124981",
+        "summary": "Faculty profile states PhD/postdoctoral recruitment, multi-agent learning/control, and lab leadership; modified March 18, 2026.",
+        "verifiedAt": "2026-10-01T01:35:28Z",
+        "retrieval": "Direct official HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "engineering.purdue.edu / source 3",
+        "url": "https://engineering.purdue.edu/AIMS",
+        "summary": "University-hosted AIMS lab and Elmer Bruhn Professor title. News feed contains historical items, not an asserted 2027 opening.",
+        "verifiedAt": "2026-10-01T01:35:28Z",
+        "retrieval": "Direct official HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2604.19980v1",
+        "summary": "April 21, 2026 primary preprint, Section V: actor-critic RL with learned Koopman dynamics, physical arm and Go1. Controlled goal-tracking experiments, simulation-to-hardware arm policy and motion-capture quadruped state; additional hardware safety measures may be required.",
+        "verifiedAt": "2026-10-01T01:35:28Z",
+        "retrieval": "Direct primary full-text HTML via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "www.wenjianhao.com / source 5",
+        "url": "https://www.wenjianhao.com/",
+        "summary": "First author currently identifies himself as Purdue AAE PhD candidate advised by Mou, and highlights the 2026 hardware paper.",
+        "verifiedAt": "2026-10-01T01:35:28Z",
+        "retrieval": "Direct researcher HTML via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "engineering.purdue.edu / source 6",
+        "url": "https://engineering.purdue.edu/AAE/people/Faculty/viewByGroup",
+        "summary": "Indexed official page contains current Professor header and older Associate Professor descriptive sentence; title discrepancy is preserved.",
+        "verifiedAt": "2026-10-01T01:35:28Z",
+        "retrieval": "Official search-index excerpt via web.run"
+      }
+    ],
+    "unknowns": [
+      "Purdue institutional visiting-student/appointment rules are documented separately and do not establish this lab's acceptance, funding, eight-week fit, or remote access. Live Engineering/AAE headers and lab homepage say Elmer Bruhn Professor; some official program and research-area descriptions still say Associate Professor. Exact current central title retained, discrepancy preserved. Paper inconsistently describes the arm as Gen3/Gen3 Lite and 7-/6-DOF; no precise model/DOF assurance inferred.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "mous@purdue.edu"
+  }
+]

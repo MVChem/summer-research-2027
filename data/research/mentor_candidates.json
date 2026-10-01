@@ -79,6 +79,7 @@
     "batches/embodied-035.json",
     "batches/embodied-036.json",
     "batches/embodied-037.json",
+    "batches/embodied-038.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -5459,6 +5460,32 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-037.json",
       "detailPage": "batches/embodied-037.md#svetlana-lazebnik"
+    },
+    {
+      "id": "sijia-liu",
+      "name": "Sijia Liu",
+      "aliases": [],
+      "school": "Michigan State University",
+      "title": "Red Cedar Distinguished Associate Professor",
+      "homepage": "https://lsjxjtu.github.io/index.html",
+      "batch": "embodied-038",
+      "discoveredAt": "2026-10-01T01:33:02Z",
+      "verifiedAt": "2026-10-01T01:34:58Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 7,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Efficient VLA training",
+        "Trustworthy machine learning",
+        "Optimization for foundation models",
+        "Robot policy adaptation"
+      ],
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/embodied-038.json",
+      "detailPage": "batches/embodied-038.md#sijia-liu"
     },
     {
       "id": "henny-admoni",

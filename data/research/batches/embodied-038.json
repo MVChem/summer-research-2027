@@ -1,0 +1,116 @@
+[
+  {
+    "id": "sijia-liu",
+    "name": "Sijia Liu",
+    "aliases": [],
+    "school": "Michigan State University",
+    "homepage": "https://lsjxjtu.github.io/index.html",
+    "title": "Red Cedar Distinguished Associate Professor",
+    "department": "Computer Science and Engineering",
+    "batch": "embodied-038",
+    "discoveredAt": "2026-10-01T01:33:02Z",
+    "verifiedAt": "2026-10-01T01:34:58Z",
+    "researchAreas": [
+      "Efficient VLA training",
+      "Trustworthy machine learning",
+      "Optimization for foundation models",
+      "Robot policy adaptation"
+    ],
+    "fitReason": "Pion (May 2026) studies optimizer design for vision-language-action adaptation and tests pi0.5 on physical manipulation tasks. This is a concrete robot-foundation-model connection within a broader optimization and trustworthy-AI lab, rather than a general robotics keyword.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The full primary paper names a Franka Research 3 in a DROID-style setup with third-person and wrist cameras. pi0.5 is trained from 200 teleoperated trajectories for three grasp-and-place tasks, then evaluated over 30 randomized trials per task/optimizer. The work is a Cisco/MSU/Minnesota collaboration; the inspected evidence does not establish that this arm is available in the MSU lab, so physical evidence is capped at 20.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "The live faculty homepage explicitly invites internship, externship and visiting-student inquiries by email with a resume and transcripts. The lab homepage repeats those categories. Its separate vacancies page discusses PhD positions, so that page supplies no additional summer evidence. Duration, external-master’s details and summer 2027 availability remain unspecified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 7,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct VLA post-training and physical policy validation, though the lab’s overall scope is broader than robotics.",
+      "physical": "Detailed collaborative robot evidence; current MSU equipment access unverified.",
+      "shortVisit": "Live faculty and lab invitation explicitly includes interns and visitors, but no duration or applicant-specific eligibility.",
+      "freshness": "Dated May 2026 physical VLA study and current official appointment/inquiry pages."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.msu.edu / source 1",
+        "url": "https://engineering.msu.edu/directory/faculty/liusiji5",
+        "summary": "Direct official CSE affiliation, Red Cedar distinction and public professional email.",
+        "verifiedAt": "2026-10-01T01:34:58Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "lsjxjtu.github.io / source 2",
+        "url": "https://lsjxjtu.github.io/index.html",
+        "summary": "Direct current Associate Professor rank, July 2025 promotion history, and explicit intern/externship/visiting-student invitation with application materials.",
+        "verifiedAt": "2026-10-01T01:34:58Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "www.optml-group.com / source 3",
+        "url": "https://www.optml-group.com/",
+        "summary": "Lab homepage repeats internship and visiting-student interest.",
+        "verifiedAt": "2026-10-01T01:34:58Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "www.optml-group.com / source 4",
+        "url": "https://www.optml-group.com/vacancies",
+        "summary": "Detailed vacancy page is PhD-focused, distinct from the broader homepage inquiry invitation.",
+        "verifiedAt": "2026-10-01T01:34:58Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2605.19282v1",
+        "summary": "May 19, 2026 primary Pion paper: actual FR3 platform, 200 demonstrations, 30 trials per optimizer/task and physical versus simulated results.",
+        "verifiedAt": "2026-10-01T01:34:58Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "chongyu-fan.netlify.app / source 6",
+        "url": "https://chongyu-fan.netlify.app/posts/pion/",
+        "summary": "Author project corroborates participating MSU/Cisco/Minnesota researchers and physical VLA results.",
+        "verifiedAt": "2026-10-01T01:34:58Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Use Associate Professor as the academic rank from the current personal profile and promotion history. The college directory’s Red Cedar Distinguished Professor label is an honor and is not used to infer promotion to full professor.",
+      "Pion is a preprint with a small three-task physical evaluation. LIBERO/Plus success percentages and LLM mathematical-reasoning results are separate simulation/software experiments, not physical robot outcomes.",
+      "The physical trial comparison holds the dataset and training-step budget fixed. It does not establish universal optimizer superiority or general robot reliability. Current MSU hardware access needs confirmation.",
+      "The existing MSU policy audit supports overseas-enrolled graduate Student Interns and personal funding in principle, with a minimum eight-week application lead time rather than an eight-week minimum stay. It remains subject to faculty/department approval; the July 1, 2027 support threshold increases and insurance details require confirmation.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "liusiji5@msu.edu"
+  }
+]

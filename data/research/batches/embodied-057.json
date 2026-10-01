@@ -9,7 +9,7 @@
     "department": "Electrical and Computer Engineering; School of Computer Science",
     "batch": "embodied-057",
     "discoveredAt": "2026-10-01T04:25:58Z",
-    "verifiedAt": "2026-10-01T04:37:21Z",
+    "verifiedAt": "2026-10-01T06:21:26Z",
     "researchAreas": [
       "Data-centric robot learning",
       "Robot imitation learning",
@@ -84,13 +84,21 @@
         "summary": "Full author project page hosted at UT Austin: faculty co-advising attribution and separate physical-manipulation versus simulation results.",
         "verifiedAt": "2026-10-01T04:26:43Z",
         "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "Official ICLR 2026 proceedings",
+        "url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/033d9e8dbbbc0ad90e59222cf1db0fc2-Abstract-Conference.html",
+        "summary": "Official conference proceedings list DataMIL at ICLR 2026 and its complete author list, resolving the conflicting homepage venue label.",
+        "verifiedAt": "2026-10-01T06:21:26Z",
+        "retrieval": "direct official proceedings page"
       }
     ],
     "unknowns": [
       "CMU’s official ECE directory gives Assistant Professor but its biography retains incoming Spring 2026 wording. The current faculty-authored homepage and CV independently say current CMU Assistant Professor, with a January 2026 start. This is a new 2026 appointment, not still-incoming status.",
       "Physical evidence is capped at 20 for collaborative/prior-affiliation research. CMU-local robotic equipment, visitor hardware access, supervision capacity and whether a summer project can include new physical trials remain unverified.",
       "Reuse the saved CMU institutional audit: the independent Student Intern/Collaborating Visitor route is distinct from RISS, whose restrictions do not supply an external-master’s entry point. Host/department approval, OIE category, advance screening, exact eight-week duration, current financial minimum and self-funding eligibility still require confirmation.",
-      "The faculty homepage labels DataMIL ICML 2026 while the current CV labels it ICLR 2026. This record relies on the unambiguous June 19, 2026 arXiv revision for technical evidence and does not resolve or propagate the inconsistent venue label.",
+      "Official ICLR proceedings confirm DataMIL at ICLR 2026 with Andrew Ilyas among the authors. The faculty homepage’s ICML label conflicts with those proceedings; the June 19, 2026 arXiv revision remains the technical source.",
       "Summer 2027 acceptance, dates, remote arrangement, funding and applicable institutional/immigration approval are unconfirmed. A public startup cofounder role does not by itself establish leave or university-hosting unavailability.",
       "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
       "[CMU institutional visitor rules](../eligibility_notes.md#cmu-student-intern)"

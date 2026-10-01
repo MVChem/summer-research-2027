@@ -37,9 +37,9 @@
 - 任职：Research Scientist; professional-track faculty and PRG co-lead
 - 方向：Human-to-robot learning；Force-aware manipulation；Active and bio-inspired robot vision；Multimodal perception-action representations
 - 匹配理由：Strong match for learning robot manipulation from human demonstrations, including force-aware flow-matching policies and active perception. She co-leads Maryland’s Perception and Robotics Group and currently co-advises the first author of ForceBand.
-- 真机证据（public-hardware-evidence）：June 2026 ForceBand trains a flow-matching policy from human video and wrist sEMG-derived forces, then executes pick–squeeze–place behavior on an actual UR5. The nine-object protocol uses 15 human demonstrations per object and ten evaluation trials. Fermüller is a Maryland coauthor; the project includes Amazon FAR and Johns Hopkins, and hardware location is not settled.
+- 真机证据（public-hardware-evidence）：June 2026 ForceBand trains a flow-matching policy from human video and wrist sEMG-derived forces, then executes pick–squeeze–place behavior on an actual UR5. The nine-object protocol uses 15 human demonstrations per object and ten evaluation trials. Fermüller is a Maryland coauthor; the project includes Amazon FAR and Johns Hopkins, and hardware location is not settled. Robot deployment uses four Paxini fingertip sensors; a 5 N pre-grasp pause precedes PD tracking of learned force targets.
 - 短访证据（degree-only）：PRG’s current recruiting page directs prospective degree students to UMD admissions and explicitly scopes listed PhD/master’s/undergraduate projects to admitted students. It gives contact instructions for Fermüller and Aloimonos but no external summer invitation. Current doctoral co-advising is verified independently.
-- 首次发现：2026-10-01T05:46:31Z；最后核查：2026-10-01T05:47:38Z
+- 首次发现：2026-10-01T05:46:31Z；最后核查：2026-10-01T06:21:26Z
 - 当前总分：73/100；评分依据：
   - fit 38/40：Direct learned manipulation and force-rich human-to-robot transfer, alongside active robot vision.
   - physical 20/25：Actual UR5 learned execution with a current advisee, but multi-institution apparatus location/access unresolved.
@@ -52,7 +52,7 @@
   - [www.umiacs.umd.edu / source 3](https://www.umiacs.umd.edu/news-events/news/fermuller-receives-provosts-excellence-award-professional-track-faculty)：Official 2019 faculty award documents professional-track faculty status; historical classification, not a new 2026 appointment.（核查 2026-10-01T05:47:38Z；读取方式 direct-primary-page）
   - [users.umiacs.umd.edu / source 4](https://users.umiacs.umd.edu/~fermulcm/)：Full personal university page states current Research Scientist and learning-from-human-manipulation agenda; its news ends in 2023.（核查 2026-10-01T05:47:38Z；读取方式 direct-primary-page）
   - [www.prg.cs.umd.edu / source 5](https://www.prg.cs.umd.edu/open-positions)：Full lab instructions distinguish prospective admissions from projects for admitted students; no external short visitor invitation.（核查 2026-10-01T05:47:38Z；读取方式 direct-primary-page）
-  - [arxiv.org / source 6](https://arxiv.org/html/2606.26093v1)：Full ForceBand paper verifies actual UR5 policy execution, evaluation protocol and calibration limitations.（核查 2026-10-01T05:47:38Z；读取方式 direct-primary-page）
+  - [arxiv.org / source 6](https://arxiv.org/html/2606.26093v1)：Full ForceBand paper verifies actual UR5 policy execution, evaluation protocol and calibration limitations. Appendix F specifies robot fingertip sensors, the pre-grasp adjustment and PD force tracking.（核查 2026-10-01T06:21:26Z；读取方式 direct-primary-page）
   - [forceband-emg.github.io / source 7](https://forceband-emg.github.io/)：Full project verifies Maryland/Amazon/JHU affiliations and physical demonstrations; rendering counters initially read zero and are not scientific results.（核查 2026-10-01T05:47:38Z；读取方式 direct-primary-page）
   - [botao.me / source 8](https://botao.me/)：Full current first-author page explicitly names Fermüller and Aloimonos as UMD advisers, gives current Amazon internship, and lists ForceBand at CoRL 2026.（核查 2026-10-01T05:47:38Z；读取方式 direct-primary-page）
 

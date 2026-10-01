@@ -11,7 +11,7 @@
     "department": "University of Maryland Institute for Advanced Computer Studies; Perception and Robotics Group",
     "batch": "embodied-065",
     "discoveredAt": "2026-10-01T05:46:31Z",
-    "verifiedAt": "2026-10-01T05:47:38Z",
+    "verifiedAt": "2026-10-01T06:21:26Z",
     "researchAreas": [
       "Human-to-robot learning",
       "Force-aware manipulation",
@@ -21,7 +21,7 @@
     "fitReason": "Strong match for learning robot manipulation from human demonstrations, including force-aware flow-matching policies and active perception. She co-leads Maryland’s Perception and Robotics Group and currently co-advises the first author of ForceBand.",
     "physicalEvidence": {
       "status": "public-hardware-evidence",
-      "summary": "June 2026 ForceBand trains a flow-matching policy from human video and wrist sEMG-derived forces, then executes pick–squeeze–place behavior on an actual UR5. The nine-object protocol uses 15 human demonstrations per object and ten evaluation trials. Fermüller is a Maryland coauthor; the project includes Amazon FAR and Johns Hopkins, and hardware location is not settled.",
+      "summary": "June 2026 ForceBand trains a flow-matching policy from human video and wrist sEMG-derived forces, then executes pick–squeeze–place behavior on an actual UR5. The nine-object protocol uses 15 human demonstrations per object and ten evaluation trials. Fermüller is a Maryland coauthor; the project includes Amazon FAR and Johns Hopkins, and hardware location is not settled. Robot deployment uses four Paxini fingertip sensors; a 5 N pre-grasp pause precedes PD tracking of learned force targets.",
       "sourceIds": [
         "s6",
         "s7",
@@ -92,8 +92,8 @@
         "id": "s6",
         "label": "arxiv.org / source 6",
         "url": "https://arxiv.org/html/2606.26093v1",
-        "summary": "Full ForceBand paper verifies actual UR5 policy execution, evaluation protocol and calibration limitations.",
-        "verifiedAt": "2026-10-01T05:47:38Z",
+        "summary": "Full ForceBand paper verifies actual UR5 policy execution, evaluation protocol and calibration limitations. Appendix F specifies robot fingertip sensors, the pre-grasp adjustment and PD force tracking.",
+        "verifiedAt": "2026-10-01T06:21:26Z",
         "retrieval": "direct-primary-page"
       },
       {

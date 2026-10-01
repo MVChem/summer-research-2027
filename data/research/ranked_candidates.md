@@ -136,7 +136,7 @@
 | 126 | [Fei Liu](batches/embodied-007.md#fei-liu) · University of Tennessee, Knoxville | 79 (37/20/8/14) | inquiry-only | 2026-09-30T22:07:56Z | 2026-09-30T22:47:41Z |
 | 127 | [Yuzhang Shang](batches/embodied-017.md#yuzhang-shang) · University of Central Florida | 79 (37/20/7/15) | inquiry-only | 2026-09-30T23:19:24Z | 2026-09-30T23:29:02Z |
 | 128 | [Zhengzhong Tu](batches/embodied-022.md#zhengzhong-tu) · Texas A&M University | 79 (37/20/7/15) | inquiry-only | 2026-09-30T23:50:26Z | 2026-09-30T23:58:03Z |
-| 129 | [Andrew Ilyas](batches/embodied-057.md#andrew-ilyas) · Carnegie Mellon University | 79 (37/20/7/15) | inquiry-only | 2026-10-01T04:25:58Z | 2026-10-01T04:37:21Z |
+| 129 | [Andrew Ilyas](batches/embodied-057.md#andrew-ilyas) · Carnegie Mellon University | 79 (37/20/7/15) | inquiry-only | 2026-10-01T04:25:58Z | 2026-10-01T06:21:26Z |
 | 130 | [Shreyas Kousik](batches/control-006.md#shreyas-kousik) · Georgia Institute of Technology | 78 (40/23/0/15) | unknown | 2026-09-30T22:04:48Z | 2026-09-30T22:08:52Z |
 | 131 | [Aaron D. Ames](batches/control-001.md#aaron-d-ames) · California Institute of Technology | 78 (39/25/0/14) | unknown | 2026-09-30T21:21:57Z | 2026-09-30T23:03:09Z |
 | 132 | [Koushil Sreenath](batches/control-001.md#koushil-sreenath) · University of California, Berkeley | 78 (39/25/0/14) | unknown | 2026-09-30T21:22:05Z | 2026-09-30T22:44:23Z |
@@ -331,7 +331,7 @@
 | 321 | [Souma Chowdhury](batches/control-058.md#souma-chowdhury) · University at Buffalo, State University of New York | 73 (38/20/0/15) | unknown | 2026-10-01T04:26:03Z | 2026-10-01T04:37:24Z |
 | 322 | [David M. Chan](batches/embodied-061.md#david-m-chan) · University of California, Irvine (incoming January 2027) | 73 (38/20/0/15) | degree-only · incoming January 2027 | 2026-10-01T04:49:54Z | 2026-10-01T05:04:42Z |
 | 323 | [Gautam Biswas](batches/control-068.md#gautam-biswas) · Vanderbilt University | 73 (38/20/0/15) | precedent-only | 2026-10-01T05:38:44Z † | 2026-10-01T05:46:03Z |
-| 324 | [Cornelia Fermüller](batches/embodied-065.md#cornelia-fermuller) · University of Maryland, College Park | 73 (38/20/0/15) | degree-only | 2026-10-01T05:46:31Z | 2026-10-01T05:47:38Z |
+| 324 | [Cornelia Fermüller](batches/embodied-065.md#cornelia-fermuller) · University of Maryland, College Park | 73 (38/20/0/15) | degree-only | 2026-10-01T05:46:31Z | 2026-10-01T06:21:26Z |
 | 325 | [Kira Barton](batches/control-070.md#kira-barton) · University of Michigan, Ann Arbor | 73 (38/20/0/15) | unknown | 2026-10-01T05:58:13Z † | 2026-10-01T06:05:33Z |
 | 326 | [Michael S. Ryoo](batches/embodied-003.md#michael-s-ryoo) · Stony Brook University | 73 (37/24/0/12) | unknown | 2026-09-30T21:39:12Z | 2026-09-30T21:42:30Z |
 | 327 | [Mingmin Zhao](batches/hri-048.md#mingmin-zhao) · University of Pennsylvania | 73 (37/18/8/10) | inquiry-only | 2026-10-01T03:16:27Z | 2026-10-01T03:24:30Z |

@@ -1,0 +1,103 @@
+[
+  {
+    "id": "lantao-liu",
+    "name": "Lantao Liu",
+    "aliases": [],
+    "school": "Indiana University Bloomington",
+    "homepage": "https://vail-robotics.net/pages/lantaoliu",
+    "title": "Professor; Director of Robotics; Director, Vehicle Autonomy and Intelligence Lab",
+    "department": "Computer Science and Intelligent Systems Engineering, Luddy School",
+    "batch": "control-021",
+    "discoveredAt": "2026-10-01T00:01:03Z",
+    "verifiedAt": "2026-10-01T00:02:26Z",
+    "researchAreas": [
+      "model-based robot learning",
+      "adaptive information objectives",
+      "field robotics",
+      "dynamics learning",
+      "multi-robot planning"
+    ],
+    "fitReason": "Direct current model-based learning and active exploration work on real navigation and manipulation, with broad software-oriented robot autonomy projects.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "May 2026 QOED paper includes real Franka Emika Panda with RealSense D435i/RTX4090 for physical parameter identification and balancing, plus a Clearpath Jackal with OS1-64 LiDAR, D435i and Jetson Orin for learned-dynamics navigation under changed wheel/drag conditions. Section VI separates physical trials from simulation. First author Youwei Yu is a current VAIL PhD student, establishing current group participation; exclusive ownership/site of every collaborative platform is not inferred.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Personal recruitment page invites prospective PhD applicants and specifically Indiana University undergraduate/master’s students. No current external short-visit invitation was verified. Alumni and current master’s memberships do not establish an external summer route.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 40,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct strong model-based RL/dynamics identification/exploration fit across physical embodiments.",
+      "physical": "Detailed named real robots with current lab first-author connection; collaborators do not establish exclusive ownership.",
+      "shortVisit": "Explicit master’s instructions cover local IU students only, with no verified external short-visit route.",
+      "freshness": "May2026 hardware paper and June2026 role update, both verified against current primary pages."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "luddy.iu.edu / source 1",
+        "url": "https://luddy.iu.edu/people/liu-lantao.html",
+        "summary": "Official current Professor, Director of Robotics, VAIL lead and public IU email.",
+        "verifiedAt": "2026-10-01T00:02:26Z",
+        "retrieval": "direct official HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "vail-robotics.net / source 2",
+        "url": "https://vail-robotics.net/pages/lantaoliu",
+        "summary": "June 2026 full-professor announcement, departments and admissions/local-IU master’s recruitment scope.",
+        "verifiedAt": "2026-10-01T00:02:26Z",
+        "retrieval": "direct official-linked personal HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "vail-robotics.net / source 3",
+        "url": "https://vail-robotics.net/pages/people",
+        "summary": "Youwei Yu listed as current PhD student; current group connection to physical-learning paper.",
+        "verifiedAt": "2026-10-01T00:02:26Z",
+        "retrieval": "direct lab HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/abs/2605.12084",
+        "summary": "May12,2026 QOED preprint authors/date; no accepted venue asserted.",
+        "verifiedAt": "2026-10-01T00:02:26Z",
+        "retrieval": "direct primary metadata via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2605.12084v1",
+        "summary": "SectionVI gives actual Panda and Jackal experiments, sensors/computation, learned dynamics and physical-parameter exploration; limitations distinguish physics-parameterized method from general RL.",
+        "verifiedAt": "2026-10-01T00:02:26Z",
+        "retrieval": "direct full author preprint HTML via web.run"
+      }
+    ],
+    "unknowns": [
+      "Eight-week host availability, external-master’s appointment, support and remote option unknown. Full Professor since June 2026 is confirmed by current official directory and personal news; an older AI-center roster still says Associate. QOED is a May 2026 preprint without verified venue acceptance, and relies on a parameterized dynamics model; do not imply universally robust behavior.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "lantao@iu.edu"
+  }
+]

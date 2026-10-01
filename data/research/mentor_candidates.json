@@ -29,6 +29,7 @@
     "batches/control-018.json",
     "batches/control-019.json",
     "batches/control-020.json",
+    "batches/control-021.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -2083,6 +2084,33 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-020.json",
       "detailPage": "batches/control-020.md#cristian-ioan-vasile"
+    },
+    {
+      "id": "lantao-liu",
+      "name": "Lantao Liu",
+      "aliases": [],
+      "school": "Indiana University Bloomington",
+      "title": "Professor; Director of Robotics; Director, Vehicle Autonomy and Intelligence Lab",
+      "homepage": "https://vail-robotics.net/pages/lantaoliu",
+      "batch": "control-021",
+      "discoveredAt": "2026-10-01T00:01:03Z",
+      "verifiedAt": "2026-10-01T00:02:26Z",
+      "scores": {
+        "fit": 40,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "model-based robot learning",
+        "adaptive information objectives",
+        "field robotics",
+        "dynamics learning",
+        "multi-robot planning"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-021.json",
+      "detailPage": "batches/control-021.md#lantao-liu"
     },
     {
       "id": "tom-silver",

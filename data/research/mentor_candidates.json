@@ -90,6 +90,7 @@
     "batches/control-079.json",
     "batches/control-080.json",
     "batches/control-081.json",
+    "batches/control-082.json",
     "batches/control-083.json",
     "batches/control-086.json",
     "batches/embodied-001.json",
@@ -4827,6 +4828,61 @@
       "shortVisitStatus": "inquiry-only · 2027待入职；夏季接收时间未定",
       "recordFile": "batches/control-081.json",
       "detailPage": "batches/control-081.md#carmen-amo-alonso"
+    },
+    {
+      "id": "moble-benedict",
+      "name": "Moble Benedict",
+      "aliases": [],
+      "school": "Texas A&M University",
+      "title": "Professor; Chancellor EDGES Fellow; AVFL director",
+      "homepage": "https://engineering.tamu.edu/aerospace/profiles/mbenedict.html",
+      "batch": "control-082",
+      "discoveredAt": "2026-10-01T07:10:10Z",
+      "verifiedAt": "2026-10-01T07:11:52Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Reinforcement learning for physical flight control",
+        "Adaptive and robust autonomous systems",
+        "Sim-to-real learning",
+        "Learned disturbance estimation"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-082.json",
+      "detailPage": "batches/control-082.md#moble-benedict"
+    },
+    {
+      "id": "dileep-kalathil",
+      "name": "Dileep Kalathil",
+      "aliases": [
+        "Dileep M. Kalathil",
+        "Dileep M Kalathil"
+      ],
+      "school": "Texas A&M University",
+      "title": "Associate Professor; Holleran-Bowman Faculty Fellow; LENS co-director",
+      "homepage": "https://engineering.tamu.edu/electrical/profiles/kalathil-dileep.html",
+      "batch": "control-082",
+      "discoveredAt": "2026-10-01T07:10:10Z",
+      "verifiedAt": "2026-10-01T07:11:52Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Reinforcement learning for physical flight control",
+        "Adaptive and robust autonomous systems",
+        "Sim-to-real learning",
+        "Learned disturbance estimation"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-082.json",
+      "detailPage": "batches/control-082.md#dileep-kalathil"
     },
     {
       "id": "pratik-mukherjee",

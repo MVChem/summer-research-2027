@@ -785,3 +785,27 @@ Tacoma 补充核查：2026-10-01T01:02:36Z。[SET visiting appointments](https:/
 [当前 OISS sponsorship](https://oiss.washu.edu/sponsoring-j-1-scholars/) 允许海外任意学位层级的学位关联 Student Intern，最长十二个月、每周至少 32 小时；比较表对 Intern 不设资金来源限制，而 Student Non-Degree 另需至少 51% 非个人支持。[prospective EV 页](https://oiss.washu.edu/prospective-j-1-scholars/) 也接受个人流动资金证明，因此个人支持可用于经批准的 Intern 类别，不能自动覆盖所有 visitor title。Short-Term Scholar 另要求已获学士，其他 scholar 类别可能要求已获硕士，由 OISS 决定。
 
 当前页面列每月 2,644 或每年 31,720 美元支持证明，保留原文的舍入差异、需重核 2027。建议提前至少三个月，距开始不足六十天不受理；Intern 审查表列十五工作日，另一段写十天，应确认并保守计划。保险、任何大学/部门处理费、学术任命、导师项目和八周接收仍未确定。
+
+<a id="lipscomb"></a>
+
+## Lipscomb · 研究访问分类未验证，修课入口不能替代
+
+核查：2026-10-01T03:29:56Z。[International Student Services](https://lipscomb.edu/admissions/international-admissions/international-student-services) 的现行 F-1/I-20 流程要求全日制 degree-seeking enrollment；[visiting/nondegree admissions](https://lipscomb.edu/admissions/non-traditional-admissions) 也是一学期或更久的修课途径。两者没有建立 research-only 外校硕士任命或八周实验室访问，本次未核实公开 J-1 研究访客/Student Intern 流程；这属于未知，不是访问禁令。
+
+[研究政策入口](https://lipscomb.edu/academics/learning-commons/office-research-and-grants-org) 涉及外部设施使用和批准，但不能据此推断国际任命资格。个人资金认可、研究访客财力最低数、费用、保险和提前期未验证；不把学位项目全年资金证明或保险估值当短访收费。即使导师愿意讨论，仍需学校确认合适任命及身份。
+
+<a id="marshall"></a>
+
+## Marshall · 无薪 Scholar 流程存在，硕士类别和当前资金待确认
+
+核查：2026-10-01T03:31:54Z。[部门 FAQ](https://www.marshall.edu/iss/frequently-asked-questions/faculty-staff-faqs/department-faqs/) 有 Visiting Scholar，非 Marshall 资助者可有原校/政府/个人支持，但须先咨询 dean 与 HR；Short-Term 最长六个月、无最短时限。未明确外校在读硕士的学术资格或学校 Student Intern 路径，时长相容不等于类别获批。
+
+[Scholar FAQ](https://www.marshall.edu/iss/j-1-scholars-faqs/) 在延期回答中列每年 18,000 美元，未标生效日期，不当初次任命或 2027 短访预算。其链接的 [资金说明](https://www.marshall.edu/iss/files/2025/05/Preparing-Financial-Documentation.pdf) 虽路径含 2025，内部实际为 2022 年四月；[较新 2025 年说明](https://www.marshall.edu/international-admissions/files/2025/12/Preparing-Financial-Documentation.pdf) 同样主要面向 I-20/入学。银行自费证据条款不能独立解决在读硕士的研究 Scholar 任命；当前全部个人资金、费用、保险、提前期和主办容量需 ISS/院系审定。
+
+<a id="florida-state"></a>
+
+## Florida State · 九至十二个月办理风险与学校分类审查
+
+核查：2026-10-01T03:36:59Z。[当前 CGE Visiting Scholars](https://cge.fsu.edu/j-1-scholars/visiting-scholars) 包含超过十四天的无薪研究访问，外校研究生学术访问最长十二个月。由导师发起，经 chair、dean 和 RAMP 批准后才能发正式邀请。页面警告，从填完 RAMP 请求到抵达可能需九至十二个月，包含可长达三至六个月的筛查；后续 DS-2019 两至三周及提前六十天提交要求不是完整流程。该估计对 2027 年初夏构成时间风险，但不是固定最短时限。
+
+页面当前不考虑被学校按所引法律认定为特定 foreign principals 的访客；分类须 FSU 决定，不能从国籍、族裔或一般院校名称直接得出个体结论。[J-1 概览](https://cge.fsu.edu/j-1-exchange-visitor-program) 允许外部/个人资金，但在读硕士的具体类别仍需 CGE 选择。当前单人每月 2,322 或每年 27,861 美元是支持证明，保留原表差异并重核 2027，保险和可能的主办 bench fee 另计。[RAMP 页面](https://www.research.fsu.edu/rise/export-controls/ramp-ec/) 还覆盖需使用研究资源的 remote courtesy appointments，远程不自动免审。这些条款只针对 FSU sponsorship，不自动套用 FAMU 或其他佛州大学，也不构成任何个人的法律/接收判断。

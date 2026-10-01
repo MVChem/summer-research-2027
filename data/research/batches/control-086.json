@@ -1,0 +1,128 @@
+[
+  {
+    "id": "h-eric-tseng",
+    "name": "H. Eric Tseng",
+    "aliases": [
+      "Hongtei Eric Tseng",
+      "Hongtei Tseng",
+      "Eric H. Tseng",
+      "H. E. Tseng",
+      "E. H. Tseng"
+    ],
+    "school": "University of Texas at Arlington",
+    "homepage": "https://etaic.github.io/",
+    "title": "Distinguished University Professor; ETAIC Lab Director",
+    "department": "Electrical Engineering; ETAIC Lab",
+    "batch": "control-086",
+    "discoveredAt": "2026-10-01T09:46:39Z",
+    "verifiedAt": "2026-10-01T09:59:03Z",
+    "researchAreas": [
+      "Human-humanoid collaboration",
+      "Multi-agent reinforcement learning",
+      "Learned whole-body control",
+      "Safe and interpretable autonomous systems"
+    ],
+    "fitReason": "Current learned humanoid control and collaborative manipulation, with an explicit short-visitor inquiry route.",
+    "physicalEvidence": {
+      "status": "Current UTA lab-linked learned humanoid execution verified; joint CMU collaboration",
+      "summary": "HALO’s complete May 2026 revision reports real G1 pushing, confined transport and long-object collaboration, five trials per condition. The hardest halting condition still drops the object in 20% of trials. Its stability certificate concerns policy-parameter learning, not unconditional physical safety. The acknowledgement explicitly credits UTA ETAIC experimental resources and John Song for physical deployment; the current lab roster confirms Song and lead author/associate director Hao Zhang. The July 2026 IO-WBC paper separately verifies learned whole-body control and real human-assisted 18 kg tire transport. Physical23 reflects current lab-linked execution within a UTA/CMU collaboration.",
+      "sourceIds": [
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only · 明确短访入口；不提供无薪志愿岗位",
+      "summary": "The live Other Visitors section explicitly invites short-term research visits or internships with CV, brief proposal and funding-source details, separate from PhD admissions. It also expressly says no unpaid volunteer positions. Dates, duration and acceptable paid/external-funded appointment arrangements require confirmation; this is not a funded2027 offer.",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 23,
+      "shortVisit": 8,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantive learned humanoid coordination and whole-body control.",
+      "physical": "Primary deployment acknowledgement plus independent current group linkage establish UTA-directed hardware, with joint-site/project limitations.",
+      "shortVisit": "Explicit short-term inquiry; no-unpaid-volunteer and funding/category conditions remain.",
+      "freshness": "Dated2026 full primary humanoid manuscripts and current lab route."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.uta.edu / source 1",
+        "url": "https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/electrical/faculty-directory",
+        "summary": "Current distinguished university professor and public UTA email.",
+        "verifiedAt": "2026-10-01T09:48:23Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "etaic.github.io / source 2",
+        "url": "https://etaic.github.io/",
+        "summary": "Current ETAIC program and equipment inventory; inventory alone is not execution proof.",
+        "verifiedAt": "2026-10-01T09:48:23Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "etaic.github.io / source 3",
+        "url": "https://etaic.github.io/join/",
+        "summary": "Explicit short-term visitor/intern inquiry and no-unpaid-volunteer restriction.",
+        "verifiedAt": "2026-10-01T09:59:03Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "etaic.github.io / source 4",
+        "url": "https://etaic.github.io/members/",
+        "summary": "Independent current group roles: Tseng PI, Hao Zhang associate director with CMU role, and John Song graduate RA.",
+        "verifiedAt": "2026-10-01T09:48:23Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2603.03741v2",
+        "summary": "FullMay2026 HALO methods, real G1 trials, parameter-space certificate and explicit ETAIC facility/deployment acknowledgement.",
+        "verifiedAt": "2026-10-01T09:48:23Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "haozhang-thu.github.io / source 6",
+        "url": "https://haozhang-thu.github.io/HALO/",
+        "summary": "Author project page presents physical demonstrations and labels ICML2026 Oral; distinct from unrelated HALO VLA papers.",
+        "verifiedAt": "2026-10-01T09:48:23Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "arxiv.org / source 7",
+        "url": "https://arxiv.org/html/2603.03751v2",
+        "summary": "FullJuly2026 IO-WBC methods: RL teacher-student policy and physical cooperative load transport; keeps simulation tables distinct.",
+        "verifiedAt": "2026-10-01T09:48:23Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s8",
+        "label": "etaic.github.io / source 8",
+        "url": "https://etaic.github.io/publications/",
+        "summary": "Current2026 robot-learning publications; older Ford and non-Tseng coauthor papers not used as current PI hardware proof.",
+        "verifiedAt": "2026-10-01T09:48:23Z",
+        "retrieval": "Direct official/primary source via web.run"
+      }
+    ],
+    "unknowns": [
+      "UTA Student Intern covers ongoing outside-US degrees and degree-related research, at least32h/week and up to12months. Institutional permission for paid/unpaid internships does not override this lab’s no-unpaid-volunteer condition. Personal/external support must be discussed with the PI and OIE, not presumed acceptable. The scholar-only $1,467/month amount has no stated effective year and is not an established Intern or2027 budget. Formal invitation follows research-security/export screening. Category, fees, insurance-duration treatment, project access and summer capacity remain unresolved. Ford production-control achievements are historical industry evidence, not current visitor access.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#ut-arlington)"
+    ],
+    "publicEmail": "hongtei.tseng@uta.edu"
+  }
+]

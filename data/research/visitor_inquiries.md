@@ -2,11 +2,11 @@
 
 [全部候选与总分排序](ranked_candidates.md) · [原始索引](mentor_candidates.json) · [机构规则](eligibility_notes.md) · [原200位后续补充](baseline_addenda.md)
 
-从现有记录筛出 **83 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。
+从现有记录筛出 **84 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。
 
 本页按研究匹配分优先，其次真机、短访、新鲜度及发现时间；不把一般询问、学校制度或个人自费能力当成已获资格。所有人的主办类别、八周安排、2027容量、经费和设备访问都需确认。具体奖学金要求、无资助、时间不匹配、任职时点及证据限制优先看下列加粗提示，再读完整资料。
 
-## 访问/短期研究问询线索（现场安排仍须确认） · 76 条
+## 访问/短期研究问询线索（现场安排仍须确认） · 77 条
 
 | 导师 / 机构 | 匹配 / 真机 / 短访 | 已知限制与证据状态 | 直接来源 / 机构规则 | 记录核查 UTC |
 |---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Mike Hagenow](batches/hri-028.md#mike-hagenow) · University of Wisconsin–Madison | 39/25/5 | **不主动招访客；只允许特殊匹配询问** | [s3](https://wisc-rt2.github.io/joinus/) | 2026-10-01T01:18:40Z |
 | [Daniel Seita](batches/embodied-001.md#daniel-seita) · University of Southern California | 39/25/5 | **极少接收；目前无资助；需0.5–1页项目构想** | [s2](https://slurm-lab-usc.github.io/getting_involved/) | 2026-09-30T21:28:42Z |
 | [Somil Bansal](batches/control-001.md#somil-bansal) · Stanford University | 39/23/10 | **公开问询入口；详细资格与期限未定** | [s3](https://smlbansal.github.io/sia-lab/index.html) [s4](https://smlbansal.github.io/sia-lab/joinus.html) | 2026-09-30T21:24:34Z |
+| [H. Eric Tseng](batches/control-086.md#h-eric-tseng) · University of Texas at Arlington | 39/23/8 | **明确短访/intern询问；不提供无薪志愿岗位；需先说明资金安排；受限真机证据：Current UTA lab-linked learned humanoid execution verified; joint CMU collaboration** | [s3](https://etaic.github.io/join/) [规则](eligibility_notes.md#ut-arlington) | 2026-10-01T09:59:03Z |
 | [Yongxin Chen](batches/control-006.md#yongxin-chen) · Georgia Institute of Technology | 39/20/8 | **公开问询入口；详细资格与期限未定** | [s2](https://yongxin.ae.gatech.edu/) | 2026-09-30T22:08:52Z |
 | [Carmen Amo Alonso](batches/control-081.md#carmen-amo-alonso) · University of California, Berkeley | 39/20/8 | **2027待入职、月份未知；夏季主办权限未确认；受限真机证据：Verified real learned robot at prior host; Berkeley hardware access unverified** | [s3](https://controllableai.org/join.html) [规则](eligibility_notes.md#berkeley-vsr) | 2026-10-01T07:07:38Z |
 | [Homanga Bharadhwaj](batches/control-002.md#homanga-bharadhwaj) · Johns Hopkins University | 39/20/5 | **非JHU短期访客入口；表单故障，当前替代联络办法见详情** | [s2](https://b3.cs.jhu.edu/) | 2026-09-30T21:56:57Z |

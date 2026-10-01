@@ -87,6 +87,7 @@
     "batches/control-076.json",
     "batches/control-077.json",
     "batches/control-081.json",
+    "batches/control-086.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -4652,6 +4653,40 @@
       "shortVisitStatus": "inquiry-only · 2027待入职；夏季接收时间未定",
       "recordFile": "batches/control-081.json",
       "detailPage": "batches/control-081.md#carmen-amo-alonso"
+    },
+    {
+      "id": "h-eric-tseng",
+      "name": "H. Eric Tseng",
+      "aliases": [
+        "Hongtei Eric Tseng",
+        "Hongtei Tseng",
+        "Eric H. Tseng",
+        "H. E. Tseng",
+        "E. H. Tseng"
+      ],
+      "school": "University of Texas at Arlington",
+      "title": "Distinguished University Professor; ETAIC Lab Director",
+      "homepage": "https://etaic.github.io/",
+      "batch": "control-086",
+      "discoveredAt": "2026-10-01T09:46:39Z",
+      "verifiedAt": "2026-10-01T09:59:03Z",
+      "scores": {
+        "fit": 39,
+        "physical": 23,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-humanoid collaboration",
+        "Multi-agent reinforcement learning",
+        "Learned whole-body control",
+        "Safe and interpretable autonomous systems"
+      ],
+      "physicalEvidenceStatus": "Current UTA lab-linked learned humanoid execution verified; joint CMU collaboration",
+      "physicalEvidenceLabel": "受限真机证据：Current UTA lab-linked learned humanoid execution verified; joint CMU collaboration",
+      "shortVisitStatus": "inquiry-only · 明确短访入口；不提供无薪志愿岗位",
+      "recordFile": "batches/control-086.json",
+      "detailPage": "batches/control-086.md#h-eric-tseng"
     },
     {
       "id": "tom-silver",

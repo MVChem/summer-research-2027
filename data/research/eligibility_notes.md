@@ -313,3 +313,43 @@ Allison Okamura 的 [CHARM 个人页](https://charm.stanford.edu/Main/AllisonOka
 [最低财力表](https://globalengagement.uga.edu/images/documents/immigration/scholar/J-1_Scholar_Minimum_Monthly_Funding.pdf) 现列单人每月 2,098 美元。2026-07-01 至 2027-06-30 的 [427 美元处理费表](https://globalengagement.uga.edu/images/documents/immigration/information/IS_Fees_Current_Year.pdf) 对 intern/department 付款的表格与部门支付脚注不一致，付款责任待确认；[FY2027 合规费](https://globalengagement.uga.edu/images/documents/immigration/information/ISCF_Amounts_Current_Year.pdf) 在低于 50% UGA 支持时为每年 280 美元，这一比例用于收费分档，不是外部资金资格门槛。七月可能调价，不承诺短访按比例折算。
 
 [2026 年 7 月英语政策](https://globalengagement.uga.edu/images/documents/immigration/scholar/J-1EnglishProficiencyUGA.pdf) 规定测试或合格机构文件，缺少时需指定 J-Check；不能假定普通 PI 交谈即可。另一个 outside-funded scholar 路径的 advanced-degree / PhD-candidacy 门槛不自动由未完成硕士满足。导师名额、身份、完整费用及 2027 要求待确认。
+
+<a id="illinois-urbana-champaign"></a>
+
+## Illinois Urbana-Champaign · Student Intern 仅本科，硕士任命待确认
+
+核查：2026-10-01T00:54:42Z。[中央 J-1 指引](https://isss.illinois.edu/departments/j1/) 将 Student Intern 明确限定为国外本科生，不能当作硕士路径。[一般 J-1 比较](https://isss.illinois.edu/departments/general-information/j1-vs-h1/) 允许无薪、个人资金的 scholar，Short-Term Scholar 最多六个月，但未解决 CS/Engineering 对外校在读硕士的学术任命资格。
+
+中央财力要求现列每月 2,100 美元，近期银行材料及合格翻译；建议提前 2–3 个月。ISSS 费用为校内部门间收费，金额未公开。iSchool 的 advanced-student 访问与较低 1,700 美元措辞是院系特定规则，不转移到 Grainger CS/Engineering。主办方与 [ISSS 分类](https://isss.illinois.edu/departments/general-information/correct-status/)、2027 资金和保险仍须确认。
+
+<a id="michigan-state"></a>
+
+## Michigan State · 2027 年七月资金基准将变化
+
+核查：2026-10-01T00:12:26Z。[Student Intern 流程](https://oiss.isp.msu.edu/immigration1/departments/hosting-j-1-student-interns/) 包括国外在读学位学生，当前链接表含研究生选项，至少每周 32 小时、最长十二个月、至少 60% 线下，须学位关联和结束后返校。完整请求至少提前八周；这是申请提前期，不是访问最短时长。部门目前承担 150 美元办理费。
+
+[资金规则](https://oiss.isp.msu.edu/immigration1/departments/j-1-scholar-funding-requirements/) 允许初次、最多十二个月的完全个人资金支持：2026-07-01 至 2027-06-30 为每月 2,750 美元，2027-07-01 起为每月 2,850 美元。具体跨期/不足月计算由 OISS 确认，非全部旅行预算。[当前 HR 保险页](https://hr.msu.edu/benefits/stu-grad-asst/visiting-scholar-health.html) 与旧 OISS 页面 Aetna/BCN 名称不一致，须确认学校要求的现行计划、费率和证明时点，不假设可用任意外部保险替代。
+
+<a id="stevens"></a>
+
+## Stevens · 外国学位 Student Intern 与 Scholar 资金数不同
+
+核查：2026-10-01T00:40:02Z。[当前 Intern 页面](https://www.stevens.edu/page-basic/initial-j-1-student-intern-request) 及其链接表涵盖国外学位在读，3 周至十二个月、每周至少 32 小时、可有薪/无薪，明确允许完全个人资金且列每月 1,750 美元。页面及展开栏目已直接读取；链接表为 2023 年版，2027 金额仍须重查。导师和院系须批准，原校确认学位目标、学籍及返校，主办导师不能长期离岗或休假。
+
+至少提前三个月启动，7–10 个工作日文件制作不是总办理时间。[另一个 Scholar 页面](https://www.stevens.edu/initial-sponsorship-requests) 列不同资格要求及每月 2,400 美元，不能自动套用到 Intern。当前英语链接转到学位招生页，且保险证明提交时点在不同表中不一致，应由 ISSS/ELC 确认实际分类、测试和保险要求。
+
+<a id="south-florida"></a>
+
+## South Florida · 个人资金仅作补充的限制需核实
+
+核查：2026-10-01T00:51:18Z。[Student Intern 类别](https://www.usf.edu/world/international-services/scholars-and-employees/hs-scholar-categories.aspx) 涵盖国外在读学位学生、最多一年，没有所读页面中的本科限定；具体最短时长和每周小时数未公布。[财力规则](https://www.usf.edu/world/international-services/scholars-and-employees/hs-scholar-costs.aspx) 要求机构、政府或组织作为主要来源，个人资金只能补充，不能作为唯一来源。Intern 共用这一流程/费用链接，本轮未找到例外；具体适用范围和外部份额应由 OIS 确认，不能称为已获支持的完全自费选项。
+
+页面列年费用估算 27,024 美元，其中保险 3,518 美元，不是单独公布的月最低额。[主办规则](https://www.usf.edu/world/international-services/scholars-and-employees/hs-departmental-instructions.aspx) 由部门支付 250 美元；[申请页](https://www.usf.edu/world/international-services/scholars-and-employees/hs-scholar-application.aspx) 建议提前 3–6 个月。另有提前两周到达报到的期望，短期无薪 Intern 是否照用、实际总停留和 2027 金额须确认。
+
+<a id="ut-austin"></a>
+
+## UT Austin · 资金更新按请求日期而非抵达日期
+
+核查：2026-10-01T00:59:38Z。[Student Intern](https://global.utexas.edu/isss/department-resources/hiring/j1-exchange-visitor-interns) 覆盖国外学位在读，要求学位关联、良好学籍及返校完成学位，最长十二个月，须培训计划、原导师说明和校内批准。700 美元处理费可由主办方或 intern 支付；本轮未确证该类别个人资金比例、月门槛、最短时长或每周小时数。
+
+[Scholar 页面](https://global.utexas.edu/isss/department-resources/hiring/j1-exchange-visitor) 接受个人及机构等资金；2026 年 9 月 1 日起发起的请求适用每月 1,834 美元，旧 1,708 美元只用于此前发起的请求，不能按抵达日期套用。此 scholar 规则不自动转移到 Intern。[研究访客任命](https://research.utexas.edu/resources/research-integrity-and-compliance/serving-as-pi/visiting-researchers-and-fellows) 的具体职称指南需校内登录，硕士任命仍未解决；旧 HOP 机构出资措辞与当前资金页需协调。CS 建议国际访问提前 3–4 个月，现行 HR 流程已于 2026 年 6 月改用 Workday，详细分类及 2027 实际费用仍待确认。

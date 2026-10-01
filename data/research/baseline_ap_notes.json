@@ -456,7 +456,7 @@
       "fullName": "Yuchen Cui",
       "institution": "University of California, Los Angeles",
       "currentTitle": "Assistant Professor of Computer Science",
-      "observedAt": "2026-10-01T17:42:08Z",
+      "observedAt": "2026-10-01T18:28:19Z",
       "appointmentStart": {
         "year": 2024,
         "month": 7,
@@ -471,7 +471,7 @@
         "evidence": "The official UCLA engineering new-faculty directory explicitly dates the appointment to July 1, 2024. The complete author CV agrees at month precision and lists preceding Stanford postdoctoral service through June 2024, establishing this as the first listed faculty appointment."
       },
       "routeEvidence": {
-        "verifiedAt": "2026-10-01T17:34:03Z",
+        "verifiedAt": "2026-10-01T18:28:19Z",
         "finding": "The prospective-students page states that master’s students must first be admitted to UCLA. Its separate summer research-intern section is expressly for undergraduates; the local undergraduate form is another distinct route.",
         "caveats": "The undergraduate summer invitation is not an external-master offer. No universal visitor ban is stated. An outside-master research appointment, 2027 dates, funding, duration and remote mode remain unknown.",
         "sourceIds": [
@@ -484,6 +484,12 @@
             "verifiedAt": "2026-10-01T17:34:03Z",
             "retrieval": "direct-primary-page",
             "evidence": "Distinct degree, already-admitted UCLA master’s, local-undergraduate and Summer Undergraduate Research Intern sections; March 1 deadline belongs to the undergraduate internship section."
+          },
+          {
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSdTYjBVRG97gFBJdrrlVbjmRRHZr-IR_w2LOkSrFrr-CatOOw/viewform?usp=send_form",
+            "verifiedAt": "2026-10-01T18:28:19Z",
+            "retrieval": "Complete live public form independently inspected; no input or submission",
+            "evidence": "Form introduction is limited to current UCLA students or non-UCLA undergraduates. Current-program choices are UCLA MS, UCLA undergraduate, and non-UCLA undergraduate; no outside-master choice."
           }
         ]
       },
@@ -540,7 +546,26 @@
             "evidence": "Current lab publication list independently includes Visible Touch and its authors; listed CoRL November 2026 is an accepted future venue, not a completed event."
           }
         ]
-      }
+      },
+      "priorRouteObservations": [
+        {
+          "verifiedAt": "2026-10-01T17:34:03Z",
+          "finding": "The prospective-students page states that master’s students must first be admitted to UCLA. Its separate summer research-intern section is expressly for undergraduates; the local undergraduate form is another distinct route.",
+          "caveats": "The undergraduate summer invitation is not an external-master offer. No universal visitor ban is stated. An outside-master research appointment, 2027 dates, funding, duration and remote mode remain unknown.",
+          "sourceIds": [
+            "s3"
+          ],
+          "sources": [
+            {
+              "id": "s3",
+              "url": "https://yuchencui.cc/prospective_students.html",
+              "verifiedAt": "2026-10-01T17:34:03Z",
+              "retrieval": "direct-primary-page",
+              "evidence": "Distinct degree, already-admitted UCLA master’s, local-undergraduate and Summer Undergraduate Research Intern sections; March 1 deadline belongs to the undergraduate internship section."
+            }
+          ]
+        }
+      ]
     },
     {
       "baselineId": 9,

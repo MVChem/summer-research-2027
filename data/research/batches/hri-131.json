@@ -9,7 +9,7 @@
     "department": "Machine Learning Department; Neuroscience Institute; courtesy Robotics Institute",
     "batch": "hri-131",
     "discoveredAt": "2026-10-01T18:17:51Z",
-    "verifiedAt": "2026-10-01T18:22:55Z",
+    "verifiedAt": "2026-10-01T18:36:06Z",
     "researchAreas": [
       "Tactile robot learning",
       "Dexterous manipulation",
@@ -24,7 +24,8 @@
       "sourceIds": [
         "s4",
         "s5",
-        "s6"
+        "s6",
+        "s12"
       ]
     },
     "shortVisit": {
@@ -42,7 +43,7 @@
     },
     "scoreReasons": {
       "fit": "Direct tactile representation, PPO/DAgger and dexterous embodied-learning methods.",
-      "physical": "A directly advised MSR thesis leads actual2026 learned hand execution; the narrow demonstration and unspecified hardware ownership support22 rather than maximum credit. The student’s June2026 graduation is retained, without claiming ongoing enrollment.",
+      "physical": "A directly advised MSR thesis leads actual2026 learned hand execution; the narrow demonstration and unspecified apparatus ownership support22 rather than maximum credit. Defense was June2026; official MSR completion was August2026, with no ongoing enrollment inferred.",
       "shortVisit": "Local-degree and PhD routes only; remote explicitly unavailable, onsite external visitor unknown.",
       "freshness": "Full June 2026 technical work and verified 2026 direct MSR thesis linkage."
     },
@@ -72,7 +73,7 @@
         "id": "s4",
         "label": "www.ri.cmu.edu / source 4",
         "url": "https://www.ri.cmu.edu/ri-people/trinity-chung/",
-        "summary": "Full official MSR profile explicitly identifies Nayebi as adviser of Tactile Genesis first author Trinity Chung. Current lab news reports her June 2026 defense and graduation.",
+        "summary": "Full official MSR profile identifies Nayebi as adviser of Tactile Genesis first author Trinity Chung. Lab news dates the thesis defense to June2026; the later official completion-date clarification is recorded in s12.",
         "verifiedAt": "2026-10-01T18:22:10Z"
       },
       {
@@ -123,6 +124,14 @@
         "url": "https://www.cmu.edu/collaborating-visitor/faq.html",
         "summary": "Reused visitor screening lead of 30 days or 60 when immigration documents are needed. OIE timing, project restrictions and appointment category remain separate.",
         "verifiedAt": "2026-10-01T00:16:30Z"
+      },
+      {
+        "id": "s12",
+        "label": "Later official defense-versus-completion clarification",
+        "url": "https://www.ri.cmu.edu/ri-people/trinity-chung/",
+        "summary": "The complete official profile explicitly gives MSR Date Completed: August2026. The lab news dates the thesis defense to June2026; these are different milestones. No ongoing enrollment is inferred.",
+        "verifiedAt": "2026-10-01T18:36:06Z",
+        "retrieval": "Complete official profile independently inspected"
       }
     ],
     "unknowns": [
@@ -146,6 +155,15 @@
       ],
       "evidence": "Official SCS 2024 new-faculty roster identifies Assistant Professor. Primary home is MLD, while RI is courtesy; exact effective month/day unverified.",
       "appointmentType": "unresolved"
-    }
+    },
+    "sourceInterpretationHistory": [
+      {
+        "sourceId": "s4",
+        "previousSummary": "Full official MSR profile explicitly identifies Nayebi as adviser of Tactile Genesis first author Trinity Chung. Current lab news reports her June 2026 defense and graduation.",
+        "clarifiedBy": "s12",
+        "clarificationObservedAt": "2026-10-01T18:36:06Z",
+        "reason": "June defense was previously conflated with graduation; official completion is August2026."
+      }
+    ]
   }
 ]

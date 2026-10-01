@@ -12,7 +12,7 @@
     "department": "Electrical and Computer Engineering",
     "batch": "control-136",
     "discoveredAt": "2026-10-01T17:21:57Z",
-    "verifiedAt": "2026-10-01T17:26:36Z",
+    "verifiedAt": "2026-10-01T18:39:59Z",
     "researchAreas": [
       "Lyapunov-based deep neural adaptive control",
       "Safety-critical robotics",
@@ -119,13 +119,22 @@
         "summary": "Current-linked intern page repeats undergraduate scope; aviation/clinical exclusions and preparation requirements, not automatic master’s route.",
         "verifiedAt": "2026-10-01T17:24:10Z",
         "retrieval": "Direct primary HTML via web.run"
+      },
+      {
+        "id": "s10",
+        "label": "Later full official LSU profile recovery",
+        "url": "https://www.lsu.edu/eng/ece/people/faculty/patil.php",
+        "summary": "Complete current official profile confirms Assistant Professor, UF Mechanical Engineering PhD, ARC homepage and professional email. This later recovery corroborates the earlier indexed role observation; the August2026 start month still comes from the PI CV.",
+        "verifiedAt": "2026-10-01T18:39:59Z",
+        "retrieval": "Complete official page read in cloud browser"
       }
     ],
     "unknowns": [
       "LSU’s current StudentIntern guidance explicitly describes overseas undergraduate students. An outside-master visitor must obtain a separately suitable appointment/category; scholar eligibility is not automatic. Scholar guidance permits personal funds with host invitation, department and IFSO approval and lists$1300/month, to reconfirm for2027. ShortTermScholar six-month limit is not an admission guarantee. Aviation/clinical exclusions on the intern route require project-level review. Full preparation, fees, insurance and device access need confirmation.",
       "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
       "[Institutional visitor review](../eligibility_notes.md#louisiana-state-baton-rouge); source-specific observation dates remain unchanged.",
-      "Do not conflate with Omkar Patil affiliated with Nakul Gopalan’s diffusion-policy work. This is Omkar Sudhir Patil, UF/Warren Dixon to LSU, opatil1@lsu.edu."
+      "Do not conflate with Omkar Patil affiliated with Nakul Gopalan’s diffusion-policy work. This is Omkar Sudhir Patil, UF/Warren Dixon to LSU, opatil1@lsu.edu.",
+      "The earlier indexed official role/appointment source was subsequently retrieved as a complete page at2026-10-01T18:39:59Z; old observation dates remain retained."
     ],
     "publicEmail": "opatil1@lsu.edu",
     "appointmentStart": {

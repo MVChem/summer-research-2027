@@ -118,13 +118,14 @@
 - 准确任职：Assistant Professor of Computer Science
 - 任职开始：**2024-07-01（官方）**
 - **MS须先获UCLA录取；独立暑研仅本科，外校硕士访客未知；Visible Touch是真机研究**
-- 任职/时点观察：2026-10-01T17:35:35Z；询问入口核查：2026-10-01T17:34:03Z（分别保留）
+- 任职/时点观察：2026-10-01T17:35:35Z；询问入口核查：2026-10-01T18:28:19Z（分别保留）
 - 任职来源：
   - [来源s1](https://www.samueli.ucla.edu/new-faculty-2023-2026/)：Official entry: Computer Science Assistant Professor; joined July 1, 2024; preceding Stanford postdoc.（核查2026-10-01T17:35:27Z）
   - [来源s2](https://yuchencui.cc/CV.pdf)：Complete six-page author CV: UCLA July 2024–present, Stanford postdoc January 2022–June 2024, earlier doctoral training.（核查2026-10-01T17:35:35Z）
   - [来源s3](https://yuchencui.cc/prospective_students.html)：Distinct degree, already-admitted UCLA master’s, local-undergraduate and Summer Undergraduate Research Intern sections; March 1 deadline belongs to the undergraduate internship section.（核查2026-10-01T17:34:03Z）
 - 询问入口来源：
   - [来源1](https://yuchencui.cc/prospective_students.html)：Distinct degree, already-admitted UCLA master’s, local-undergraduate and Summer Undergraduate Research Intern sections; March 1 deadline belongs to the undergraduate internship section.
+  - [来源2](https://docs.google.com/forms/d/e/1FAIpQLSdTYjBVRG97gFBJdrrlVbjmRRHZr-IR_w2LOkSrFrr-CatOOw/viewform?usp=send_form)：Form introduction is limited to current UCLA students or non-UCLA undergraduates. Current-program choices are UCLA MS, UCLA undergraduate, and non-UCLA undergraduate; no outside-master choice.
 - 后续方法核查（2026-10-01T17:42:08Z）：Visible Touch在UCLA xArm7执行触觉RGB叠加条件的pi0.5，当前作者在组；仅单臂平行夹爪，按子任务计分，充电器插入最好也仅2/30；遥操作采集与学习执行分开。
   - [方法来源m1](https://arxiv.org/html/2609.14156v1)：§4.2, acknowledgments and Appendices E/F establish current-site learned hardware execution, control chain, demonstration/evaluation separation and restricted success metrics.（核查2026-10-01T17:42:08Z）
   - [方法来源m2](https://uril.cs.ucla.edu/people.html)：Current PI and author/student membership listed in the advising linkage.（核查2026-10-01T17:42:02Z）

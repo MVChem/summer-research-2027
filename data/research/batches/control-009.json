@@ -121,7 +121,7 @@
     "department": "Mechanical Engineering",
     "batch": "control-009",
     "discoveredAt": "2026-09-30T22:33:42Z",
-    "verifiedAt": "2026-09-30T22:35:56Z",
+    "verifiedAt": "2026-10-01T18:14:48Z",
     "researchAreas": [
       "Real-time robot learning",
       "Safe reinforcement learning",
@@ -142,13 +142,11 @@
     },
     "shortVisit": {
       "status": "inquiry-only · 2026-11-01拟入职",
-      "summary": "PAL's current Join page explicitly invites visiting researchers to a prospective-member form, separately from postdoctoral and current Stanford UG/master's/co-term categories. No duration, funding or summer2027 commitment. The form itself was not inspected or submitted.",
+      "summary": "The current PAL page and first page of its form separately invite Visiting Researchers. The first page was already verified at12:10:06Z and later corroborated at18:14:48Z. Required personal-contact fields precede later pages, which were not read; no data entered. Exact external-master eligibility, duration, funding and Summer2027 capacity remain unknown. The announced Stanford start remains November1,2026.",
       "sourceIds": [
-        "s1",
-        "s2",
-        "s3",
-        "s4",
-        "s5"
+        "s6",
+        "s7",
+        "s8"
       ]
     },
     "scores": {
@@ -203,11 +201,36 @@
         "summary": "2026 LACE neural GNSS covariance-learning paper; AV-24 autonomous racecar validation.",
         "verifiedAt": "2026-09-30T22:35:56Z",
         "retrieval": "direct web page"
+      },
+      {
+        "id": "s6",
+        "label": "Previously retained first-page form observation",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfj0tdvD6Zxct-pXrqa1XtyC-DuPnI16Y3d9SRIQ86asmvbqw/viewform",
+        "summary": "Initial public form page includes Visiting Researcher role and form-first then email instructions. Later pages unread; no input/upload/submission. Exact URL checked12:13:06Z.",
+        "verifiedAt": "2026-10-01T12:10:06Z",
+        "retrieval": "Previously published partial live-form observation; not a new retrieval"
+      },
+      {
+        "id": "s7",
+        "label": "Later partial-form corroboration route_page_20261001",
+        "url": "https://pal.stanford.edu/join.html",
+        "summary": "Separate visiting-researcher invitation points to the prospective-member form. Current Stanford MS/co-term/undergraduate category is distinct.",
+        "verifiedAt": "2026-10-01T18:13:54Z",
+        "retrieval": "Full current primary page via web.run"
+      },
+      {
+        "id": "s8",
+        "label": "Later partial-form corroboration route_form_20261001",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfj0tdvD6Zxct-pXrqa1XtyC-DuPnI16Y3d9SRIQ86asmvbqw/viewform",
+        "summary": "Position dropdown explicitly separates Visiting Researcher from current/admitted Stanford master/co-term/undergraduate students. Intro asks form first then email, says responses kept on file and individual reply not promised; prospective PhD applicants should wait until admitted. Required first name, last name and email precede Next.",
+        "verifiedAt": "2026-10-01T18:14:48Z",
+        "retrieval": "First page of live paginated form in cloud browser only; no entries or submission"
       }
     ],
     "unknowns": [
       "Not yet a serving Stanford faculty member on verification date: official department page specifies November1,2026 start. External master's fit to the visitor category, duration, costs, project readiness and capacity require confirmation. Stanford's general VSR route does not establish this lab's offer. Listed PhD/postdoc fellowships are not visitor funding promises.",
-      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "The form’s separate Visiting Researcher category and first-page limitation were already verified on2026-10-01 at12:10:06Z. A later18:14:48Z read corroborates that evidence. Required personal contact fields prevented further pages from being read without data entry; no data entered. Exact external-master eligibility, duration, funding and2027 capacity remain unresolved. November1,2026 faculty start is unchanged."
     ],
     "publicEmail": "berrueta@stanford.edu"
   }

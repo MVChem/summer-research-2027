@@ -9,7 +9,7 @@
     "department": "Computer Science; Human-Robot Interaction graduate program",
     "batch": "hri-130",
     "discoveredAt": "2026-10-01T18:12:31Z",
-    "verifiedAt": "2026-10-01T18:14:32Z",
+    "verifiedAt": "2026-10-01T18:39:59Z",
     "researchAreas": [
       "Human-aware robot navigation",
       "Goal and intention recognition",
@@ -109,6 +109,14 @@
         "url": "https://icenter.tufts.edu/coming-to-tufts/visa-certificate/j-1-student-intern-program/",
         "summary": "Reused institutional audit: personal/family support documentation, published $2,900/month proof and insurance. Category, budget and 2027 rules require confirmation; office processing time excludes host and visa steps.",
         "verifiedAt": "2026-09-30T23:45:55Z"
+      },
+      {
+        "id": "s10",
+        "label": "Later full official Tufts appointment article recovery",
+        "url": "https://engineering.tufts.edu/news-events/news/tufts-welcomes-new-faculty-2024",
+        "summary": "Complete September3,2024 official Tufts cohort page confirms new full-time CS Assistant Professor for2024–25. This later recovery corroborates the earlier indexed announcement, without creating an exact appointment month/day or changing prior Bar-Ilan faculty history.",
+        "verifiedAt": "2026-10-01T18:39:59Z",
+        "retrieval": "Complete official page read in cloud browser"
       }
     ],
     "unknowns": [
@@ -119,7 +127,8 @@
       "Tufts Student Intern eligibility and training must be approved by the host, school and International Center. Published duration is 3 weeks–12 months; personal living support does not waive the host/sponsor processing-fee obligation.",
       "Reused financial threshold and institutional rules are conditional and require 2027 confirmation. Any human-facing project also needs appropriate institutional research approvals.",
       "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
-      "[Institutional visitor review](../eligibility_notes.md#tufts-student-intern); source-specific observation dates remain unchanged."
+      "[Institutional visitor review](../eligibility_notes.md#tufts-student-intern); source-specific observation dates remain unchanged.",
+      "The earlier indexed official role/appointment source was subsequently retrieved as a complete page at2026-10-01T18:39:59Z; old observation dates remain retained."
     ],
     "publicEmail": "reuth.mirsky@tufts.edu",
     "appointmentStart": {

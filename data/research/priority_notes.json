@@ -4916,7 +4916,8 @@
         "status": "current",
         "sourceIds": [
           "s1",
-          "s2"
+          "s2",
+          "later-s10"
         ],
         "evidence": "Official LSU current appointment corroborates role; PI-hosted CV gives August2026 after UF research scientist/postdoc. Month is PI-reported, not independently dated in LSU directory.",
         "appointmentType": "unresolved"
@@ -4935,6 +4936,12 @@
           "url": "https://www.omkarsudhirpatil.com/CV%20Files/academic_cv.pdf",
           "observedAt": "2026-10-01T17:22:51Z",
           "evidence": "PI CV dates August 2026 LSUAP after UF research scientist/postdoc, explicitly Omkar Sudhir Patil."
+        },
+        {
+          "id": "later-s10",
+          "url": "https://www.lsu.edu/eng/ece/people/faculty/patil.php",
+          "observedAt": "2026-10-01T18:39:59Z",
+          "evidence": "Complete current official profile confirms Assistant Professor, UF Mechanical Engineering PhD, ARC homepage and professional email. This later recovery corroborates the earlier indexed role observation; the August2026 start month still comes from the PI CV."
         }
       ]
     },
@@ -5060,12 +5067,13 @@
         "precision": "year",
         "status": "current",
         "sourceIds": [
-          "s2"
+          "s2",
+          "later-s10"
         ],
         "evidence": "Official September 2024 new-faculty cohort identifies the 2024–25 Tufts appointment. This is a current-institution move after a prior Bar-Ilan faculty appointment, not first faculty service; exact effective month/day unverified.",
         "appointmentType": "institution-move"
       },
-      "display": "2024（官方索引；此前Bar-Ilan faculty）",
+      "display": "2024（官方报道，后续完整读取）；此前Bar-Ilan faculty",
       "caveat": "明确转校；Jackal真机为协作20，Tufts设备/单独指导不明；一般prospective询问非访客",
       "sources": [
         {
@@ -5073,6 +5081,12 @@
           "url": "https://engineering.tufts.edu/news-events/news/tufts-welcomes-new-faculty-2024",
           "observedAt": "2026-10-01T18:14:32Z",
           "evidence": "Complete indexed official September 3, 2024 cohort identifies a new full-time CS Assistant Professor for 2024–25. Direct article retrieval failed; date evidence remains indexed official text. No month/day inferred."
+        },
+        {
+          "id": "later-s10",
+          "url": "https://engineering.tufts.edu/news-events/news/tufts-welcomes-new-faculty-2024",
+          "observedAt": "2026-10-01T18:39:59Z",
+          "evidence": "Complete September3,2024 official Tufts cohort page confirms new full-time CS Assistant Professor for2024–25. This later recovery corroborates the earlier indexed announcement, without creating an exact appointment month/day or changing prior Bar-Ilan faculty history."
         }
       ]
     },

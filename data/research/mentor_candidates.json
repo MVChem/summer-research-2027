@@ -2043,7 +2043,7 @@
       "homepage": "https://pal.stanford.edu/index.html",
       "batch": "control-009",
       "discoveredAt": "2026-09-30T22:33:42Z",
-      "verifiedAt": "2026-09-30T22:35:56Z",
+      "verifiedAt": "2026-10-01T18:14:48Z",
       "scores": {
         "fit": 40,
         "physical": 20,
@@ -6473,7 +6473,7 @@
       "homepage": "https://www.arclablsu.org/arc-lab",
       "batch": "control-136",
       "discoveredAt": "2026-10-01T17:21:57Z",
-      "verifiedAt": "2026-10-01T17:26:36Z",
+      "verifiedAt": "2026-10-01T18:39:59Z",
       "scores": {
         "fit": 38,
         "physical": 20,
@@ -17280,7 +17280,7 @@
       "homepage": "https://engineering.tufts.edu/cs/people/faculty/reuth-mirsky",
       "batch": "hri-130",
       "discoveredAt": "2026-10-01T18:12:31Z",
-      "verifiedAt": "2026-10-01T18:14:32Z",
+      "verifiedAt": "2026-10-01T18:39:59Z",
       "scores": {
         "fit": 37,
         "physical": 20,
@@ -17309,7 +17309,7 @@
       "homepage": "https://anayebi.github.io/",
       "batch": "hri-131",
       "discoveredAt": "2026-10-01T18:17:51Z",
-      "verifiedAt": "2026-10-01T18:22:55Z",
+      "verifiedAt": "2026-10-01T18:36:06Z",
       "scores": {
         "fit": 38,
         "physical": 22,

@@ -154,7 +154,8 @@
     "batches/hri-041.json",
     "batches/hri-042.json",
     "batches/hri-043.json",
-    "batches/hri-044.json"
+    "batches/hri-044.json",
+    "batches/hri-045.json"
   ],
   "candidates": [
     {
@@ -9447,6 +9448,36 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-044.json",
       "detailPage": "batches/hri-044.md#nirmalya-roy"
+    },
+    {
+      "id": "ramana-kumar-vinjamuri",
+      "name": "Ramana Kumar Vinjamuri",
+      "aliases": [
+        "Ramana Vinjamuri",
+        "R. K. Vinjamuri"
+      ],
+      "school": "University of Maryland, Baltimore County",
+      "title": "Associate Professor of Computer Science and Electrical Engineering",
+      "homepage": "https://vinjamurilab.cs.umbc.edu/",
+      "batch": "hri-045",
+      "discoveredAt": "2026-10-01T02:57:55Z",
+      "verifiedAt": "2026-10-01T03:01:30Z",
+      "scores": {
+        "fit": 35,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-robot interaction",
+        "Visual gesture retargeting",
+        "Motor-synergy representations",
+        "Brain-machine interfaces",
+        "Socially assistive robotics"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-045.json",
+      "detailPage": "batches/hri-045.md#ramana-kumar-vinjamuri"
     }
   ]
 }

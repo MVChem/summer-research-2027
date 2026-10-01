@@ -1,0 +1,113 @@
+[
+  {
+    "id": "ramana-kumar-vinjamuri",
+    "name": "Ramana Kumar Vinjamuri",
+    "aliases": [
+      "Ramana Vinjamuri",
+      "R. K. Vinjamuri"
+    ],
+    "school": "University of Maryland, Baltimore County",
+    "homepage": "https://vinjamurilab.cs.umbc.edu/",
+    "title": "Associate Professor of Computer Science and Electrical Engineering",
+    "department": "Computer Science and Electrical Engineering",
+    "batch": "hri-045",
+    "discoveredAt": "2026-10-01T02:57:55Z",
+    "verifiedAt": "2026-10-01T03:01:30Z",
+    "researchAreas": [
+      "Human-robot interaction",
+      "Visual gesture retargeting",
+      "Motor-synergy representations",
+      "Brain-machine interfaces",
+      "Socially assistive robotics"
+    ],
+    "fitReason": "A computational HRI and assistive-robot option combining pretrained visual perception, compact movement representations and physical humanoid interaction. Stronger in multimodal interface integration and dimensionality reduction than foundation-model policy learning.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The May 4, 2026 SIVAM paper documents MediaPipe pose/hand streams retargeted through inverse kinematics and scaled joint mapping to actual Unitree G1 and Mitra robots. Its five-person technical pilot was conducted February–July 2025; biosignal-driven visuals used prerecorded signals, so it does not establish live affect-adaptive control or clinical benefit. A separate November 24, 2025 Scientific Reports study combines MediaPipe, Gaussian-modeled velocities, PCA synergies and sparse reconstruction, mapping hand postures onto Mitra’s five-DoF hand. That evaluation covers static end postures rather than dynamic sequences and manually adjusts out-of-plane poses. Current lab membership and a December 2025 university report independently establish the group’s physical hands/humanoids and student attribution.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current external-master’s short-visit invitation was verified on the lab or faculty pages. The member list includes a 2019 visiting graduate researcher, but that predates the lab’s August 2020 move from Stevens to UMBC and is historical precedent only.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 35,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "35/40: direct physical HRI, visual retargeting and compact learned motion representations, with a specialized assistive/interface emphasis.",
+      "physical": "25/25: full recent primary hardware studies plus current university and group attribution.",
+      "shortVisit": "0/20: only prior-institution historical graduate visitor precedent.",
+      "freshness": "15/15: substantive May 2026 publication, explicitly distinguished from its February–July 2025 experimental period."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "umbc.edu / source 1",
+        "url": "https://umbc.edu/academics/faculty/ramana-kumar-vinjamuri/",
+        "summary": "Full current official profile verifies tenured Associate Professor, CSEE department, research interests and university email.",
+        "verifiedAt": "2026-10-01T03:01:30Z"
+      },
+      {
+        "id": "s2",
+        "label": "vinjamurilab.cs.umbc.edu / source 2",
+        "url": "https://vinjamurilab.cs.umbc.edu/people.html",
+        "summary": "Full current people page identifies Parthan Olikkal as a current PhD candidate and dates the graduate visitor precedent to 2019.",
+        "verifiedAt": "2026-10-01T03:01:30Z"
+      },
+      {
+        "id": "s3",
+        "label": "vinjamurilab.cs.umbc.edu / source 3",
+        "url": "https://vinjamurilab.cs.umbc.edu/news.html",
+        "summary": "Full lab news dates the move from Stevens to UMBC to August 22, 2020; older visitor experience is not a current UMBC invitation.",
+        "verifiedAt": "2026-10-01T03:01:30Z"
+      },
+      {
+        "id": "s4",
+        "label": "www.frontiersin.org / source 4",
+        "url": "https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2026.1767798/full",
+        "summary": "Full May 4, 2026 SIVAM methods/results verify real robot retargeting, five-person 2025 pilot, prerecorded biosignal visualization and technical/clinical limitations.",
+        "verifiedAt": "2026-10-01T03:01:30Z"
+      },
+      {
+        "id": "s5",
+        "label": "www.nature.com / source 5",
+        "url": "https://www.nature.com/articles/s41598-025-25563-7",
+        "summary": "Full November 24, 2025 primary study verifies PCA/sparse gesture reconstruction, actual Mitra mapping, manual planar adjustment and static-end-posture limitation.",
+        "verifiedAt": "2026-10-01T03:01:30Z"
+      },
+      {
+        "id": "s6",
+        "label": "umbc.edu / source 6",
+        "url": "https://umbc.edu/stories/strange-dance-partners/",
+        "summary": "Full December 15, 2025 university report corroborates current physical Mitra, Unitree and Inspire hand work; its earlier human-performed robot-role dance is kept separate from actual hardware experiments.",
+        "verifiedAt": "2026-10-01T03:01:30Z"
+      }
+    ],
+    "unknowns": [
+      "Reuse the separately documented UMBC policy: Research Scholar requires an already-earned master’s and Faculty/Fellow appointment; the Short-Term Scholar degree threshold is unclear. A continuing master’s student is not automatically eligible.",
+      "UMBC’s $2,200/$2,300 monthly support-page conflict and distinct Student category funding rules remain unresolved. Personal bank statements for a scholar do not establish an eligible self-funded student visit.",
+      "The verified work is technical perception/retargeting and representation learning. It should not be described as validated emotion inference, a clinical treatment, a fully learned motion policy or autonomous dance therapy.",
+      "Summer 2027 capacity, eight-week scope, visitor title, permitted funding and research access require host and institutional confirmation.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "rvinjam1@umbc.edu"
+  }
+]

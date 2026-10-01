@@ -719,3 +719,11 @@ Tacoma 补充核查：2026-10-01T01:02:36Z。[SET visiting appointments](https:/
 核查：2026-10-01T02:46:25Z。[ORC 当前表格入口](https://www.orc.msstate.edu/security/hosted-visitors/ova-visiting-scholar/forms) 链接的 [DS-2019 packet](https://www.international.msstate.edu/sites/www.international.msstate.edu/files/2021-09/DS2019Request.pdf) 覆盖国外 postsecondary 学位 Student Intern，也列学士及经验资历的 Scholar；Short-Term 最长六个月，具体外校硕士类别由主办方决定。仍链接的 [AOP 13.22](https://www.policies.msstate.edu/sites/www.policies.msstate.edu/files/2021-04/1322.pdf) 将学术访问任命通常定为两周至一年、非雇员，可能补充 stipend 不等于保证资助。
 
 2021 路径 packet 明列个人资金、scholar 每月 1,200 美元及部门 100 美元处理费，但没有独立核实的 2026–27 更新；精确类别和当前全自费认可、金额、保险及其他成本必须重确认。主办方先做 Official Visitor Agreement 和审查；[详细 OVA 指引](https://www.orc.msstate.edu/sites/www.orc.msstate.edu/files/inline-files/OVA_DS2019%20Guidlines_12.pdf) 允许不是原校正式雇员的访问学生自行作为 collaborating entity 签署，不能把一般页面的原校签字要求说成无例外。当前入口用 FileSender，旧指引用 Filelocker；至少两个月提前及 3–4 周文件制作不是总签证保证。学校路径不会把仅远程的导师邀请变成现场名额。
+
+<a id="new-york-tech"></a>
+
+## New York Institute of Technology · 实验室邀请已核实，中央路径未明确
+
+核查：2026-10-01T02:51:49Z。[RAIL Join Us](https://sites.google.com/view/fenghan-homepage/join-us) 明确包括研究生及冬/暑期 visiting/intern inquiries，但没有约八周、海外学籍、移民支持或资金承诺。当前 [immigration policy](https://apps.nyit.edu/policies/immigration_policy) 主要面向全职雇佣及相应 HR 审批，不能代替无薪外部研究生的研究访问任命。
+
+[International Student Handbook](https://apps.nyit.edu/policies/collection/international_student_handbook) 主要针对正式在校学生并保留旧式文本；[Visiting Student Course Registration](https://registrations.nyit.edu/admissions/nonmatric_courses) 是修课途径，也不建立实验室研究访问的签证资格。现有公开资料不足以确认具体任命类别、全个人资金、最低支持数、费用、保险或办理提前期；不以雇员或普通学位学费标准替代，也不因未知而推断全面禁止。需导师与 [International Student Support](https://www.nyit.edu/student-life/support/international-student-support/) 确认 Long Island 的实际研究安排，未发出任何联系请求。

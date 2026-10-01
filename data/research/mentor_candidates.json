@@ -116,6 +116,7 @@
     "batches/embodied-050.json",
     "batches/embodied-051.json",
     "batches/embodied-052.json",
+    "batches/embodied-053.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -6658,6 +6659,32 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-052.json",
       "detailPage": "batches/embodied-052.md#yue-chen"
+    },
+    {
+      "id": "jing-zhang",
+      "name": "Jing Zhang",
+      "aliases": [],
+      "school": "New York University",
+      "title": "Faculty Fellow",
+      "homepage": "https://jingz6676.github.io/",
+      "batch": "embodied-053",
+      "discoveredAt": "2026-10-01T03:24:16Z",
+      "verifiedAt": "2026-10-01T03:29:25Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Egocentric manipulation learning",
+        "Visual policy distillation",
+        "Embodied spatial reasoning",
+        "Real-to-sim representations"
+      ],
+      "shortVisitStatus": "unknown · 2027机构与主办权限待确认",
+      "recordFile": "batches/embodied-053.json",
+      "detailPage": "batches/embodied-053.md#jing-zhang"
     },
     {
       "id": "henny-admoni",

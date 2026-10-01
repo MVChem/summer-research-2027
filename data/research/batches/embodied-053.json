@@ -1,0 +1,110 @@
+[
+  {
+    "id": "jing-zhang",
+    "name": "Jing Zhang",
+    "aliases": [],
+    "school": "New York University",
+    "homepage": "https://jingz6676.github.io/",
+    "title": "Faculty Fellow",
+    "department": "Mechanical and Aerospace Engineering; Center for Robotics and Embodied Intelligence",
+    "batch": "embodied-053",
+    "discoveredAt": "2026-10-01T03:24:16Z",
+    "verifiedAt": "2026-10-01T03:29:25Z",
+    "researchAreas": [
+      "Egocentric manipulation learning",
+      "Visual policy distillation",
+      "Embodied spatial reasoning",
+      "Real-to-sim representations"
+    ],
+    "fitReason": "Current embodied-learning research directly connects visual representations with physical robot action. EgoPush is particularly relevant to a CS-oriented research project on partial observability, imitation/distillation, perception-policy interfaces or sim-to-real evaluation.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The September 18, 2026 EgoPush v2 names Zhang a corresponding author and deploys a distilled visual policy on a TurtleBot3 Burger with D435i camera. A Jetson streams to laptop policy inference, which returns velocity commands. Sixty autonomous physical rearrangement trials use controlled or visually cluttered settings, with 41 pose-criterion successes. Physical evidence is capped for collaborative AI4CE apparatus and unverified independent visitor access.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown · 2027机构与主办权限待确认",
+      "summary": "No explicit current external short-visit invitation was found on the current homepage. Teaching, local project advising and prior postdoctoral research leadership establish activity, not summer visitor acceptance.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong contemporary visual robot-learning fit with explicit manipulation policies.",
+      "physical": "Actual autonomous hardware deployment, capped for collaborative lab apparatus and independent access uncertainty.",
+      "shortVisit": "No external short-visit invitation; host authority and summer2027 location remain unknown.",
+      "freshness": "Dated September 2026 faculty announcement and revised primary robot study."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.nyu.edu / source 1",
+        "url": "https://engineering.nyu.edu/news/new-faculty-fellow-jing-zhang-teaching-ai-make-sense-physical-world",
+        "summary": "Full September 15, 2026 university announcement: Faculty Fellow in Mechanical and Aerospace Engineering, current teaching and embodied research.",
+        "verifiedAt": "2026-10-01T03:29:25Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "jingz6676.github.io / source 2",
+        "url": "https://jingz6676.github.io/",
+        "summary": "Full current Faculty Fellow homepage, professional email, job-market notice, internal PI/NSF co-PI self-reports and research inventory; no external visitor invitation.",
+        "verifiedAt": "2026-10-01T03:29:25Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2602.18071v2",
+        "summary": "Full September 18, 2026 primary paper, corresponding authorship and sectionIV-E physical deployment; quantitative main benchmarks separately identified as simulation.",
+        "verifiedAt": "2026-10-01T03:29:25Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "ai4ce.github.io / source 4",
+        "url": "https://ai4ce.github.io/EgoPush/",
+        "summary": "Full author project page links physical examples and research authors; latest paper governs experiment details.",
+        "verifiedAt": "2026-10-01T03:29:25Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "jingz6676.github.io / source 5",
+        "url": "https://jingz6676.github.io/rob6013.html",
+        "summary": "Full Fall2026 Mathematics for Robotics course identifies current instructor and alternate professional email z.jing@nyu.edu.",
+        "verifiedAt": "2026-10-01T03:29:25Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "The September 15, 2026 university announcement explicitly describes joining the faculty as Faculty Fellow. Preserve this exact title; it is not an Assistant Professor appointment. Older CUSP/AI4CE postdoc listings should not override the newer announcement.",
+      "The current homepage also says she is on the faculty/industry job market. Summer 2027 location, continuity of the NYU appointment and independent visitor-host authority therefore need confirmation. The personal page identifies a 2025 internal-grant PI role and an NSF co-PI role; the linked NSF award view returned an empty record, so it was not independently validated there.",
+      "EgoPush hardware uses fixed role/color identities and canonical cube formations. Its headline 87.3 percent student success is simulation, distinct from the physical experiments. Visual distractors were not contacted. This is bounded policy transfer, not general open-world or language-conditioned rearrangement.",
+      "Reuse the NYU institutional supplement: external-student unpaid research affiliations exist, but require a qualifying full-time faculty sponsor and HR approval. This Faculty Fellow’s sponsorship authority, international category and fully personal funding remain unresolved; central flexibility does not establish an individual offer.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "jz6676@nyu.edu",
+    "scopeCategory": "university-research-faculty; exact Faculty Fellow title retained",
+    "publicEmailAlternates": [
+      "z.jing@nyu.edu"
+    ]
+  }
+]

@@ -50,6 +50,7 @@
     "batches/embodied-018.json",
     "batches/embodied-019.json",
     "batches/embodied-020.json",
+    "batches/embodied-021.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -4381,6 +4382,60 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-020.json",
       "detailPage": "batches/embodied-020.md#yanzhi-wang"
+    },
+    {
+      "id": "karthik-dantu",
+      "name": "Karthik Dantu",
+      "aliases": [],
+      "school": "University at Buffalo, State University of New York",
+      "title": "Associate Professor",
+      "homepage": "https://droneslab.github.io/people/dkkarthik/",
+      "batch": "embodied-021",
+      "discoveredAt": "2026-09-30T23:44:08Z",
+      "verifiedAt": "2026-09-30T23:48:21Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Context-aware legged robot learning",
+        "VLM-guided field inspection",
+        "Embodied perception and reasoning",
+        "Terrain adaptation",
+        "Multi-robot systems"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-021.json",
+      "detailPage": "batches/embodied-021.md#karthik-dantu"
+    },
+    {
+      "id": "prashant-doshi",
+      "name": "Prashant Doshi",
+      "aliases": [],
+      "school": "University of Georgia",
+      "title": "UGA Foundation Distinguished Professor of Artificial Intelligence",
+      "homepage": "https://www.cs.uga.edu/directory/people/prashant-doshi",
+      "batch": "embodied-021",
+      "discoveredAt": "2026-09-30T23:44:20Z",
+      "verifiedAt": "2026-09-30T23:48:21Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 13
+      },
+      "researchAreas": [
+        "Inverse reinforcement learning",
+        "Learning from demonstrations",
+        "Human-robot collaboration",
+        "Reward transfer",
+        "Multiagent decision-making"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-021.json",
+      "detailPage": "batches/embodied-021.md#prashant-doshi"
     },
     {
       "id": "henny-admoni",

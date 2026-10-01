@@ -1,0 +1,186 @@
+[
+  {
+    "id": "karthik-dantu",
+    "name": "Karthik Dantu",
+    "aliases": [],
+    "school": "University at Buffalo, State University of New York",
+    "homepage": "https://droneslab.github.io/people/dkkarthik/",
+    "title": "Associate Professor",
+    "department": "Computer Science and Engineering",
+    "batch": "embodied-021",
+    "discoveredAt": "2026-09-30T23:44:08Z",
+    "verifiedAt": "2026-09-30T23:48:21Z",
+    "researchAreas": [
+      "Context-aware legged robot learning",
+      "VLM-guided field inspection",
+      "Embodied perception and reasoning",
+      "Terrain adaptation",
+      "Multi-robot systems"
+    ],
+    "fitReason": "CART learns visual/proprioceptive terrain context to select high-level locomotion commands. VISION combines a web-scale VLM with constrained viewpoint planning for actual language-guided culvert inspection, giving concrete embodied AI projects beyond general SLAM.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The June 2026 CART primary paper evaluates a physical Boston Dynamics Spot with ZED2i and additional IMU across rugged outdoor terrains, seven traversals per method. VISION’s primary project describes an actual Spot with gimballed camera/light in a66 m Erie Canal culvert, autonomously repositioning and re-imaging candidate regions.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The live join page welcomes undergraduate/master’s research conversations subject to current commitments and separately mentions collaborators. It does not explicitly offer external internships or short visits. General master’s research interest is not counted as a short-visit pathway.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong learning-based terrain adaptation and VLM perception-to-action field robotics.",
+      "physical": "Explicit current primary hardware configuration and trial protocol plus infrastructure inspection field deployment.",
+      "shortVisit": "General master’s inquiry without explicit external visitor/intern pathway.",
+      "freshness": "June 2026primaryhardwarestudy andSeptember2026labactivity."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.buffalo.edu / source 1",
+        "url": "https://www.buffalo.edu/ai-data-science/people/ub-affiliated-faculty.host.html/content/shared/www/ai-data-science/faculty/dantu-karthik.detail.research.html",
+        "summary": "Official current associate professor, CSE and public contact.",
+        "verifiedAt": "2026-09-30T23:48:21Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "droneslab.github.io / source 2",
+        "url": "https://droneslab.github.io/",
+        "summary": "Current September 2026 field robot learning activity and CART ISRR 2026 acceptance announcement.",
+        "verifiedAt": "2026-09-30T23:48:21Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "droneslab.github.io / source 3",
+        "url": "https://droneslab.github.io/join/",
+        "summary": "Full live cloud-browser read: general undergraduate/master’s inquiry, project/supervision conditional; no external short-visit terms.",
+        "verifiedAt": "2026-09-30T23:48:21Z",
+        "retrieval": "direct-browser-primary"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2604.14344v2",
+        "summary": "June 1, 2026 full primary paper Section 4.2.2 and Table 1: actual Spot,sevenrealtraversals,high-levelcontrol; simulatedGo2/ANYmalseparated.",
+        "verifiedAt": "2026-09-30T23:48:21Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "droneslab.github.io / source 5",
+        "url": "https://droneslab.github.io/vision/",
+        "summary": "Primary VISION project: actual Spotculvert inspection with VLM, viewpoint planning and field images; September 2025 preprint bibliography.",
+        "verifiedAt": "2026-09-30T23:48:21Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "CART adapts high-level velocity/body-height commands atop Spot’s existing controller; it does not replace the proprietary low-level gait policy. Its Go2/ANYmal experiments are simulation, not additional hardware. VISION expert-agreement measurements assess inspection proposals, not a guaranteed autonomous-task success rate. Exact external-master’s visitor eligibility, local field-site access and 2027 project scope remain unknown.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "kdantu@buffalo.edu"
+  },
+  {
+    "id": "prashant-doshi",
+    "name": "Prashant Doshi",
+    "aliases": [],
+    "school": "University of Georgia",
+    "homepage": "https://www.cs.uga.edu/directory/people/prashant-doshi",
+    "title": "UGA Foundation Distinguished Professor of Artificial Intelligence",
+    "department": "School of Computing; Institute for Artificial Intelligence",
+    "batch": "embodied-021",
+    "discoveredAt": "2026-09-30T23:44:20Z",
+    "verifiedAt": "2026-09-30T23:48:21Z",
+    "researchAreas": [
+      "Inverse reinforcement learning",
+      "Learning from demonstrations",
+      "Human-robot collaboration",
+      "Reward transfer",
+      "Multiagent decision-making"
+    ],
+    "fitReason": "Recent work learns transferable rewards through abstract states (IJCAI 2026 per primary paper record), building on oDec-AIRL for teams where a human joins only when required. This is a focused reward-learning/coordination fit rather than a generalist VLA lab.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The 2024 oDec-AIRL full primary paper includes a six-participant physical table-assembly pilot with a Franka Research 3, RealSense D435, AprilTags and hand tracking. Learned neural policy outputs are exported into a finite-state execution stack; the robot positions parts while humans screw them. Current UGA profile also describes 2025 cobot testing in onion sheds by InversAI, without establishing open visitor access to company sites.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current external-master’s short-visit invitation was verified. The THINC lab homepage failed retrieval, so recruitment coverage is incomplete. UGA’s central visitor framework is a possible administrative route, not a faculty opening.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 13
+    },
+    "scoreReasons": {
+      "fit": "Strong IRL and human-robot decision learning, narrower than foundation-model manipulation.",
+      "physical": "The fully inspected physical IRL pilot dates to 2024 and a MERL internship; current UGA-local hardware is not established.",
+      "shortVisit": "No current external visit invitation; central university policy not scored as mentor capacity.",
+      "freshness": "Active 2026 theoretical/simulation work; best directly checked physical learning paper is 2024."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.cs.uga.edu / source 1",
+        "url": "https://www.cs.uga.edu/directory/people/prashant-doshi",
+        "summary": "Direct official current distinguished professor, public email, IRL scope and 2025 agricultural cobot testing report.",
+        "verifiedAt": "2026-09-30T23:48:21Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "arxiv.org / source 2",
+        "url": "https://arxiv.org/html/2410.01790v1",
+        "summary": "Direct 2024 primary full paper Section IV-B: physical Franka Research 3 table assembly, six participants, learned-policy/FSM execution and MERL study context.",
+        "verifiedAt": "2026-09-30T23:48:21Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/abs/2501.01669",
+        "summary": "Direct current primary record: May 26, 2026 revision, accepted IJCAI 2026; new reward-transfer experiments are Gym/AssistiveGym simulation.",
+        "verifiedAt": "2026-09-30T23:48:21Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "The best fullyverified physical IRL paper here is 2024 and its experiment was performed through a MERL internship; UGA-local hardware/supervision for this project is unknown. The May 2026 reward-transfer paper evaluates Gym/AssistiveGym simulation, not new physical robot experiments. The six-person pilot is not a broad generalist manipulation benchmark. Treat as a secondary research-fit contact until a current hands-on project and feasible visit are established.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "pdoshi@uga.edu"
+  }
+]

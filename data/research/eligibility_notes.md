@@ -290,6 +290,8 @@ CMU 学术任命补充核查：2026-10-01T00:16:30Z。[Collaborating Visitor](ht
 
 [主办流程](https://ois.usc.edu/departments/ds2019-requests-j1-scholars/) 的详细时间线从院系提前 3–4 个月准备、完整请求至少提前两个月开始；页面个别 after/before 措辞不一致，须确认。250 美元 ISD 费经部门支付，不推定为访客收费或总预算。[中央 SURE 页面](https://viterbischool.usc.edu/sure/) 说明 Summer 2026 暂停且未公布恢复时间，资格为满足身份条件的美国院校本科生，不能当作外校硕士暑研入口。此项目暂停不代表所有 USC 访问暂停；Biyik 的至少十周期待仍是独立实验室条件，见基线补充核查。
 
+**新增机构限制（核查 2026-10-01T12:09:13Z）**：[USC 2026 年 1 月 14 日官方通知](https://dcg.usc.edu/2026/01/14/hosting-j-1-scholars-non-degree-and-degree-students-affiliated-with-restricted-party-entities/) 转发 OEC 于 2025 年 11 月 4 日发送的备忘录，要求在启动 J-1 任命前审查当前及以往机构关联；对 OEC 定义的 Restricted Parties 关联者，不得发起或办理首次或延期邀请。范围一般包括 DoD Section 1286、1260H 及 OEC 认定的其他高风险机构。通知仅为备忘录日期时已在办理的延期列出一次、一年的有限例外，并要求不确定的关联交由 OEC 判断。不能仅因有导师邀请、个人资金或短期类别便认为此筛查已通过。具体申请人及机构是否受影响未核实，不据国籍或姓名推断。
+
 <a id="wpi"></a>
 
 ## WPI · 正式研究生访客流程，旧表不能保证当前分类

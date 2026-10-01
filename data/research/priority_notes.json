@@ -3445,6 +3445,35 @@
           ]
         }
       ]
+    },
+    "cheng-zhang-tamu": {
+      "appointmentStart": {
+        "year": 2024,
+        "precision": "year",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "s2",
+          "s4"
+        ],
+        "evidence": "Official new-faculty cohort and current personal recruitment document identify Fall2024 arrival; first-ever faculty appointment is not inferred from preceding CMU postdoc."
+      },
+      "display": "2024秋（官方；Texas A&M，同名非Cornell）",
+      "caveat": "明确没有短期岗位，考虑长期访客至少6个月；合作HAMLET真机，当前TAMU设备/资金/硕士任命未知",
+      "sources": [
+        {
+          "id": "s2",
+          "url": "https://news.engineering.tamu.edu/news/2024/09/09/say-howdy-to-new-computer-science-and-engineering-faculty/",
+          "observedAt": "2026-10-01T14:25:22Z",
+          "evidence": "Official Fall2024 faculty cohort individually identifies Cheng Zhang as new CSE Assistant Professor."
+        },
+        {
+          "id": "s4",
+          "url": "https://docs.google.com/document/d/1CGNidaVyv7eNTsphIewjxNKlgeKSbwAN0EJdyCZMyxE/edit?tab=t.0",
+          "observedAt": "2026-10-01T14:32:57Z",
+          "evidence": "Current public recruitment document explicitly has no short-term positions and considers well-matched visitors only for at least6months. Separate green-highlighted Spring/Fall2027 funded openings are PhD positions. Full relevant pages viewed14:31:48–14:33:35 without editing, applying or submitting."
+        }
+      ]
     }
   },
   "constraints": [
@@ -4100,6 +4129,22 @@
         {
           "url": "https://docs.google.com/forms/d/e/1FAIpQLSe73aWKsTxAaEzzmPJBDvZIAsqfxEmIrj7s9-ib_1aYZ_2CFQ/viewform?usp=send_form",
           "evidence": "Complete current form with these specific options; no submission made."
+        }
+      ]
+    },
+    {
+      "key": "cheng-zhang-tamu-six-month-minimum",
+      "candidateId": "cheng-zhang-tamu",
+      "name": "Cheng Zhang",
+      "kind": "minimum-duration",
+      "months": 6,
+      "scope": "Texas A&M Cheng Zhang lab long-term visitors only; not Cornell namesake",
+      "summary": "当前明确没有short-term positions；匹配的长期访问至少6个月，短访分0、显著后置。不等于所有未来访问拒绝，2027 PhD资助不能转作访学承诺",
+      "observedAt": "2026-10-01T14:32:57Z",
+      "sources": [
+        {
+          "url": "https://docs.google.com/document/d/1CGNidaVyv7eNTsphIewjxNKlgeKSbwAN0EJdyCZMyxE/edit?tab=t.0",
+          "evidence": "Current public recruitment document explicitly has no short-term positions and considers well-matched visitors only for at least6months. Separate green-highlighted Spring/Fall2027 funded openings are PhD positions. Full relevant pages viewed14:31:48–14:33:35 without editing, applying or submitting."
         }
       ]
     }

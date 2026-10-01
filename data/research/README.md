@@ -114,3 +114,7 @@ python scripts/test_research_ledger.py
 `baseline_ap_notes.json`与[原名单AP视图](baseline_ap.md)只记录后续来源观察、准确任职与询问限制。原200数据、原分数和原日期不改，没有新造`discoveredAt`，也不计入新增人数。2023及更早AP仍单列保留；近期转校不自动当作首次faculty任职。
 
 教学轨教师若有已核实的当前研究/研究生指导证据，可保留为其他研究导师；准确Teaching职级在资料中保留，默认排序另列教学轨，不等同于研究/tenure-track新AP。独立研究主办权限、时间、经费与访客容量仍需核实。
+
+### 已核实的完全同名导师
+
+完全同名默认仍触发重复错误。唯一当前已核实的例外为原名单152 Cornell Cheng Zhang与新记录cheng-zhang-tamu：两校官方目录明确给出不同主页、职业邮箱和博士经历。该例外绑定固定候选键、原名单编号、学校、主页及两个官方来源；不能用来放行其他同名记录、重复别名、重复主页或第二个新增副本。完整记录的`sameNameDisambiguation`保存证据，索引和排序明确显示`identityDisambiguationLabel`。原名单资料、评分和时间不变。

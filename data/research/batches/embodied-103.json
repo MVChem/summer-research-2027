@@ -1,0 +1,186 @@
+[
+  {
+    "id": "cheng-zhang-tamu",
+    "name": "Cheng Zhang",
+    "aliases": [],
+    "school": "Texas A&M University",
+    "homepage": "https://czhang0528.github.io/",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering; Visual AI research",
+    "batch": "embodied-103",
+    "discoveredAt": "2026-10-01T14:25:03Z",
+    "verifiedAt": "2026-10-01T14:45:40Z",
+    "researchAreas": [
+      "Physically grounded3D representations",
+      "Human and dynamic-scene modeling",
+      "Imitation and reinforcement learning",
+      "Hybrid learned manipulation and model-based locomotion"
+    ],
+    "fitReason": "Strong3D/spatial learning with a genuine collaborative robot-policy paper; explicitly a substantially lower-priority longer-visit alternative. Current USplat4D models dynamic scenes with uncertainty-aware Gaussian representations. Prior/shared HAMLET combines learned arm manipulation and model-based chassis movement. The current lab refuses short-term positions and only considers well-matched visits of at least6months; the new-AP label must not make this a summer-short-visit recommendation.",
+    "physicalEvidence": {
+      "status": "historical-or-indirect",
+      "summary": "Physical20, prior/shared apparatus. HAMLET2025 uses a four-layer MLP generating five arm-joint velocities, warmed with modified DAgger and refined by PPO, while the chassis remains model-based. Full methods describe actual execution on a self-engineered mobile badminton robot against a serving machine and human players. The author is identified through his exact homepage and CMU affiliation; current TAMU apparatus, directed-student link and visitor access are not established. Current USplat4D is recorded-video scene reconstruction, not new robot execution.",
+      "sourceIds": [
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "minimum-6-months · 明确无短期岗位，较长访问仅条件性询问",
+      "summary": "ShortVisit0 because the current public recruitment document explicitly declines short-term positions and considers only well-matched long-term applicants of at least6months. This is a conditional longer-term inquiry, not a useful roughly8week offer. External-master eligibility, support, remote availability and summer2027 capacity remain unverified. The separate Spring/Fall2027 PhD funding advertisement cannot be transferred to visitors.",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 35,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantive physically grounded3D methods and collaborative hybrid IL/RL robot control, below a current directed robot-policy laboratory match.",
+      "physical": "Full real learned badminton manipulation, capped20 because prior/shared authorship and current host apparatus unresolved.",
+      "shortVisit": "Explicit current no-short-term and at least6months requirement; zero short-visit credit despite conditional longer-term inquiry.",
+      "freshness": "Current2026 ICLR research and current 2027 PhD recruiting; actual execution paper is2025."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.tamu.edu / source 1",
+        "url": "https://engineering.tamu.edu/cse/profiles/zhang-cheng.html",
+        "summary": "Current TAMU CSE Assistant Professor, public chzhang@tamu.edu, OSU PhD2022 and CMU postdoc2022–24; exact homepage distinguishes Cornell namesake.",
+        "verifiedAt": "2026-10-01T14:27:38Z",
+        "retrieval": "complete-primary-page-or-paper"
+      },
+      {
+        "id": "s2",
+        "label": "news.engineering.tamu.edu / source 2",
+        "url": "https://news.engineering.tamu.edu/news/2024/09/09/say-howdy-to-new-computer-science-and-engineering-faculty/",
+        "summary": "Official Fall2024 faculty cohort individually identifies Cheng Zhang as new CSE Assistant Professor.",
+        "verifiedAt": "2026-10-01T14:25:22Z",
+        "retrieval": "complete-primary-page-or-paper"
+      },
+      {
+        "id": "s3",
+        "label": "czhang0528.github.io / source 3",
+        "url": "https://czhang0528.github.io/",
+        "summary": "Current lab agenda: physically grounded representations, human modeling and3D scenes; ICRA2025 HAMLET and ICLR2026 USplat4D; links public recruitment document.",
+        "verifiedAt": "2026-10-01T14:27:07Z",
+        "retrieval": "complete-primary-page-or-paper"
+      },
+      {
+        "id": "s4",
+        "label": "docs.google.com / source 4",
+        "url": "https://docs.google.com/document/d/1CGNidaVyv7eNTsphIewjxNKlgeKSbwAN0EJdyCZMyxE/edit?tab=t.0",
+        "summary": "Current public recruitment document explicitly has no short-term positions and considers well-matched visitors only for at least6months. Separate green-highlighted Spring/Fall2027 funded openings are PhD positions. Full relevant pages viewed14:31:48–14:33:35 without editing, applying or submitting.",
+        "verifiedAt": "2026-10-01T14:32:57Z",
+        "retrieval": "complete-live-cloud-browser-recruitment-document"
+      },
+      {
+        "id": "s5",
+        "label": "dreamstarring.github.io / source 5",
+        "url": "https://dreamstarring.github.io/HAMLET/",
+        "summary": "Primary author/project site links this exact Cheng Zhang homepage and gives his CMU affiliation on the collaborative2025 badminton work. Does not establish TAMU hardware ownership.",
+        "verifiedAt": "2026-10-01T14:27:28Z",
+        "retrieval": "complete-primary-page-or-paper"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2504.17771v2",
+        "summary": "Full2025 HAMLET methods and actual experiments: MLP arm-joint velocity policy trained with modified DAgger then PPO, model-based mobile chassis, real self-engineered badminton robot against machine and humans. No current TAMU site ownership/advising claim.",
+        "verifiedAt": "2026-10-01T14:38:34Z",
+        "retrieval": "complete-primary-page-or-paper"
+      },
+      {
+        "id": "s7",
+        "label": "tamu-visual-ai.github.io / source 7",
+        "url": "https://tamu-visual-ai.github.io/usplat4d/",
+        "summary": "Current TAMU-led USplat4D, ICLR2026; dynamic Gaussian reconstruction and uncertainty-aware motion, not robot execution.",
+        "verifiedAt": "2026-10-01T14:27:28Z",
+        "retrieval": "complete-primary-page-or-paper"
+      },
+      {
+        "id": "s8",
+        "label": "arxiv.org / source 8",
+        "url": "https://arxiv.org/html/2510.12768v2",
+        "summary": "Full USplat4D paper: monocular dynamic-scene Gaussian reconstruction using recorded real videos and synthetic data; physical execution not established.",
+        "verifiedAt": "2026-10-01T14:38:34Z",
+        "retrieval": "complete-primary-page-or-paper"
+      },
+      {
+        "id": "s9",
+        "label": "global.tamu.edu / source 9",
+        "url": "https://global.tamu.edu/isss/scholars-interns/applying-for-status.html",
+        "summary": "Reuse previously verified institutional feasibility: external enrolled BS/MS Student Intern route3weeks–12months, host/category approval. Institution duration does not override lab restriction.",
+        "verifiedAt": "2026-10-01T00:05:01Z",
+        "retrieval": "complete-primary-page-or-paper"
+      },
+      {
+        "id": "s10",
+        "label": "global.tamu.edu / source 10",
+        "url": "https://global.tamu.edu/isss/student-scholar-resources/costs.html",
+        "summary": "Reuse existing TAMU financial note: posted$2000/month and personal/family support possible for visits≤12months; department operational fee and2027 reconfirmation apply.",
+        "verifiedAt": "2026-10-01T00:05:01Z",
+        "retrieval": "complete-primary-page-or-paper"
+      },
+      {
+        "id": "s11",
+        "label": "Official same-name identity comparison: Cornell",
+        "url": "https://infosci.cornell.edu/people/cheng-zhang-0",
+        "summary": "Current Cornell title, cz448@cornell.edu, official link to czhang.org, and Georgia Tech PhD.",
+        "verifiedAt": "2026-10-01T14:45:40Z",
+        "retrieval": "complete-official-primary-page"
+      },
+      {
+        "id": "s12",
+        "label": "Official same-name identity comparison: Texas A&M",
+        "url": "https://engineering.tamu.edu/cse/profiles/zhang-cheng.html",
+        "summary": "Current TAMU CSE AP, chzhang@tamu.edu, official link to czhang0528.github.io, Ohio State2022 PhD and CMU2022–24 postdoc.",
+        "verifiedAt": "2026-10-01T14:45:40Z",
+        "retrieval": "complete-official-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Current explicit no-short-term rule and at least6months minimum substantially reduce practical priority for shorter research stays. The conditional longer-term route does not belong among practical short-visit recommendations.",
+      "This is TAMU CSE Cheng Zhang at czhang0528.github.io and chzhang@tamu.edu, distinct from baseline#152 Cornell Cheng Zhang at czhang.org. Do not merge identities or reuse Cornell equipment/visitor evidence.",
+      "Physical20 is a shared/prior-host study, not proof that the 2024 TAMU lab owns the badminton platform. No current directed-lab hardware or visitor robot access is verified.",
+      "HAMLET uses neural manipulation with model-based chassis control, not a fully learned whole-body policy. Its serving-machine setup has differing position counts in text and figure; no precise aggregate configuration or success statistic is used here.",
+      "USplat4D’s real-world label refers to recorded videos and reconstruction; no current physical execution is inferred.",
+      "Current visitor inquiry document requests a form plus reminder email; neither was submitted or sent. A matching route does not establish outside-master eligibility, funding or acceptance.",
+      "Current2027 PhD openings are degree intake, not funded visitor slots. No onsite/remote exception to the6month visitor minimum was found.",
+      "Previously reviewed TAMU conditions: foreign BS/MS Student Intern category, host/ISSS/HR approval, degree connection and≥32hours/week; published3weeks–12months institutional range does not supersede the lab’s6month minimum.",
+      "Previously posted$2000/month financial proof, personal/family support treatment, department fees, insurance and immigration terms require2027 reconfirmation; no personal self-funding or sponsor promise from this PI.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: Earliest precisely retained primary-cohort search result naming this TAMU Cheng Zhang; full official cohort read14:25:22Z. This is separate from the much earlier Cornell namesake baseline.",
+      "[Texas A&M institutional rules](../eligibility_notes.md#texas-am). Cornell baseline152 has a separate faculty role and separate recruitment conditions; nothing is inferred from one namesake to the other."
+    ],
+    "discoveryTimestampNote": "Earliest precisely retained primary-cohort search result naming this TAMU Cheng Zhang; full official cohort read14:25:22Z. This is separate from the much earlier Cornell namesake baseline.",
+    "publicEmail": "chzhang@tamu.edu",
+    "sameNameDisambiguation": {
+      "baselineId": 152,
+      "baselineSchool": "Cornell",
+      "baselineHomepage": "https://czhang.org/",
+      "sourceIds": [
+        "s11",
+        "s12"
+      ],
+      "verifiedAt": "2026-10-01T14:45:40Z",
+      "rationale": "The complete official Cornell and Texas A&M faculty pages identify distinct professional emails, homepages and doctoral histories. The Cornell baseline and this TAMU candidate are different people; evidence and restrictions do not transfer between them."
+    },
+    "identityDisambiguationLabel": "Texas A&M同名导师；不是原名单152 Cornell",
+    "candidateTier": "长期访问备选；明确至少6个月，非短访优先",
+    "appointmentStart": {
+      "year": 2024,
+      "precision": "year",
+      "status": "current",
+      "appointmentType": "unresolved",
+      "sourceIds": [
+        "s2",
+        "s4"
+      ],
+      "evidence": "Official new-faculty cohort and current personal recruitment document identify Fall2024 arrival; first-ever faculty appointment is not inferred from preceding CMU postdoc."
+    }
+  }
+]

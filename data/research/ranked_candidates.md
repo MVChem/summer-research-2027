@@ -2,7 +2,7 @@
 
 [新进 AP 优先看](ap_priority.md) · [明确限制与暑期关闭](contact_constraints.md) · [字段与评分说明](README.md) · [结构化索引](mentor_candidates.json) · [机构访问规则](eligibility_notes.md)
 
-新增 **579 位**；原有 200 位保持不变。所有时间为 UTC。点击导师姓名查看完整证据、来源、评分理由和未确认事项。
+新增 **580 位**；原有 200 位保持不变。所有时间为 UTC。点击导师姓名查看完整证据、来源、评分理由和未确认事项。
 
 排序已按2026-10-01的新偏好调整：先看经核实近期入职的 AP；其他 AP、教授和明确长期条件分别排序。2024起是可调整的近两三年工作范围；约八周不再是硬筛选。各层先按研究匹配，再看真机及原总分。原总分 = 匹配40 + 真机25 + 短访20 + 新鲜度15，保留作证据对照，不是接收概率；未改原评分或发现时间。
 
@@ -586,6 +586,7 @@
 | 576 | [Dhruv Shah](batches/embodied-001.md#dhruv-shah) · Princeton University · **较长访问偏好；降低首联优先级** | 85 (40/20/10/15) | inquiry-only | 2026-09-30T21:21:32Z | 2026-10-01T12:10:06Z |
 | 577 | [Louis-Philippe Morency](batches/hri-091.md#louis-philippe-morency) · Carnegie Mellon University · **较长访问偏好；降低首联优先级** · **受限真机证据：historical-or-indirect** | 72 (37/20/0/15) | unknown · 偏好≥4月，偶尔summer例外；当前无访问资助 | 2026-10-01T11:19:19Z † | 2026-10-01T11:37:16Z |
 | 578 | [Kyle T. Yoshida](batches/hri-100.md#kyle-t-yoshida) · University of California, Los Angeles · **较长访问偏好；降低首联优先级** · **真机待核实** | 59 (34/0/10/15) | inquiry-only · 强烈偏好超过1个quarter；降低短期优先级 | 2026-10-01T12:41:51Z | 2026-10-01T13:23:59Z |
-| 579 | [Xiaofan Yu](batches/control-106.md#xiaofan-yu) · University of California, Merced · **明确至少三个月；降低首联优先级** · **仅仿真；真机待核实** | 55 (32/0/8/15) | inquiry-only · 最低3–6个月；降低短期优先级 | 2026-10-01T11:47:43Z | 2026-10-01T12:07:29Z |
+| 579 | [Cheng Zhang](batches/embodied-103.md#cheng-zhang-tamu) · Texas A&M University · **明确至少三个月；降低首联优先级** · **受限真机证据：historical-or-indirect** · **Texas A&M同名导师；不是原名单152 Cornell** | 70 (35/20/0/15) | minimum-6-months · 明确无短期岗位，较长访问仅条件性询问 | 2026-10-01T14:25:03Z † | 2026-10-01T14:45:40Z |
+| 580 | [Xiaofan Yu](batches/control-106.md#xiaofan-yu) · University of California, Merced · **明确至少三个月；降低首联优先级** · **仅仿真；真机待核实** | 55 (32/0/8/15) | inquiry-only · 最低3–6个月；降低短期优先级 | 2026-10-01T11:47:43Z | 2026-10-01T12:07:29Z |
 
 † 时间口径例外：此条使用首次可精确保留的来源观察/核查记录时间，不能断言为最早遇到该线索的时刻。未重建更早时间；原值保持不变，具体限制见详情和索引的 discoveryTimestampNote。

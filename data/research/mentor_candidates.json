@@ -214,6 +214,7 @@
     "batches/embodied-098.json",
     "batches/embodied-100.json",
     "batches/embodied-102.json",
+    "batches/embodied-103.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -11066,6 +11067,37 @@
       "shortVisitStatus": "inquiry-only",
       "recordFile": "batches/embodied-102.json",
       "detailPage": "batches/embodied-102.md#xiwei-xuan"
+    },
+    {
+      "id": "cheng-zhang-tamu",
+      "name": "Cheng Zhang",
+      "aliases": [],
+      "school": "Texas A&M University",
+      "title": "Assistant Professor",
+      "homepage": "https://czhang0528.github.io/",
+      "batch": "embodied-103",
+      "discoveredAt": "2026-10-01T14:25:03Z",
+      "verifiedAt": "2026-10-01T14:45:40Z",
+      "scores": {
+        "fit": 35,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Physically grounded3D representations",
+        "Human and dynamic-scene modeling",
+        "Imitation and reinforcement learning",
+        "Hybrid learned manipulation and model-based locomotion"
+      ],
+      "discoveryTimestampNote": "Earliest precisely retained primary-cohort search result naming this TAMU Cheng Zhang; full official cohort read14:25:22Z. This is separate from the much earlier Cornell namesake baseline.",
+      "candidateTier": "长期访问备选；明确至少6个月，非短访优先",
+      "identityDisambiguationLabel": "Texas A&M同名导师；不是原名单152 Cornell",
+      "physicalEvidenceStatus": "historical-or-indirect",
+      "physicalEvidenceLabel": "受限真机证据：historical-or-indirect",
+      "shortVisitStatus": "minimum-6-months · 明确无短期岗位，较长访问仅条件性询问",
+      "recordFile": "batches/embodied-103.json",
+      "detailPage": "batches/embodied-103.md#cheng-zhang-tamu"
     },
     {
       "id": "henny-admoni",

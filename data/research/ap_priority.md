@@ -2,7 +2,7 @@
 
 [全部候选：最新偏好排序](ranked_candidates.md) · [原有名单AP后续核查](baseline_ap.md) · [明确限制与暑期关闭](contact_constraints.md) · [访问问询入口](visitor_inquiries.md) · [评分说明](README.md)
 
-当前新增记录中有 **256 位**以公开准确职级列出的 AP；这里只核实了一部分入职日期，日期未知不等于资历较老。
+当前新增记录中有 **257 位**以公开准确职级列出的 AP；这里只核实了一部分入职日期，日期未知不等于资历较老。
 
 约八周是初步参考，未说明时长不会被排除。先看近期已到岗 AP，再看暑期前有明确任职日期的 AP；其他 AP 仍保留。明确至少三个月及较长访问偏好降序，硬性最短时长与偏好分开；明确不接收暑期/访客优先标记。
 
@@ -288,10 +288,11 @@
 | [Dhruv Shah](batches/embodied-001.md#dhruv-shah) · Princeton University | Assistant Professor；**2026-01（官方任命公告；当前已到岗）** [核查来源1](https://dhruvshah.me/docs/cv.pdf) [核查来源2](https://ece.princeton.edu/node/10221) [核查来源3](https://prism.robotics.princeton.edu/contact) [核查来源4](https://docs.google.com/forms/d/e/1FAIpQLScgkMi3nEuGibkb4uexKnXtDZT2Vmg_yoPGxEQYAZTPUshrsQ/viewform) [核查来源5](https://research.princeton.edu/news/board-approves-22-new-faculty-appointments) [核查来源6](https://ece.princeton.edu/people/shahd) [核查来源7](https://prism.robotics.princeton.edu/contact) | 85（40/20/10/15） | **通常偏好至少6个月；降为后续联系，不是硬性最低期限或暑期关闭。只读了公开首屏，后续条件未知**；inquiry-only |
 | [Kyle T. Yoshida](batches/hri-100.md#kyle-t-yoshida) · University of California, Los Angeles | Assistant Professor of Mechanical and Aerospace Engineering；**2025-07-01** [核查来源1](https://www.samueli.ucla.edu/new-faculty-2023-2026/) [核查来源2](https://samueli.ucla.edu/people/kyle-yoshida/) | 59（34/0/10/15） | **强烈偏好超过1个quarter；这是较长访问偏好，不是硬性最低期限，也不自动等于某个精确月数。Summer2027优先截止仍是2027-05-01，较短安排与接收待确认；真机待核实**；inquiry-only · 强烈偏好超过1个quarter；降低短期优先级 |
 
-## 明确至少三个月；降低首联优先级（1）
+## 明确至少三个月；降低首联优先级（2）
 
 | 导师 / 学校 | 准确任职与入职证据 | 原分数：匹配/真机/访问/新鲜 | 访问与时点提醒 |
 |---|---|---|---|
+| [Cheng Zhang](batches/embodied-103.md#cheng-zhang-tamu) · Texas A&M University | Assistant Professor；**2024秋（官方；Texas A&M，同名非Cornell）** [核查来源1](https://news.engineering.tamu.edu/news/2024/09/09/say-howdy-to-new-computer-science-and-engineering-faculty/) [核查来源2](https://docs.google.com/document/d/1CGNidaVyv7eNTsphIewjxNKlgeKSbwAN0EJdyCZMyxE/edit?tab=t.0) | 70（35/20/0/15） | **当前明确没有short-term positions；匹配的长期访问至少6个月，短访分0、显著后置。不等于所有未来访问拒绝，2027 PhD资助不能转作访学承诺；受限真机证据：historical-or-indirect**；minimum-6-months · 明确无短期岗位，较长访问仅条件性询问 |
 | [Xiaofan Yu](batches/control-106.md#xiaofan-yu) · University of California, Merced | Assistant Professor (tenure-track; joined July 2025)；**2025-07** [核查来源1](https://news.ucmerced.edu/news/2025/new-uc-merced-professor-delves-deep-artificial-intelligence-real-life) [核查来源2](https://yuccalab.ucmerced.edu/) | 55（32/0/8/15） | **明确最低3–6个月，且提前3–6个月申请；自费/外部支持可询问，但主办类别与批准另核；不是暑期关闭；仅仿真；真机待核实**；inquiry-only · 最低3–6个月；降低短期优先级 |
 
 ## 日期核查口径
@@ -549,3 +550,5 @@
 - Pooyan Fazli：[来源](https://www.asu.edu/sites/default/files/2023-10/new-faculty-members-2022-2023-nov-10.pdf) · Indexed official 2022–2023 New Faculty Members volume identifies Fazli as Assistant Professor. Exact calendar year/month not explicit in inspected passage; full web retrieval exceeded size limit, ordinary download returned 403, no bypass.（核查 2026-10-01T14:40:58Z）
 - Pooyan Fazli：[来源](https://asu.elsevierpure.com/en/persons/pooyan-fazli/) · Current university research portal confirms Assistant Professor of Arts, Media and Engineering.（核查 2026-10-01T14:42:15Z）
 - Pooyan Fazli：[来源](https://innovation.csuohio.edu/research/news/email/newsletter/volume3-issue4.html) · Official April 2016 newsletter explicitly dates Cleveland State EECS Assistant Professor joining to Fall 2015 after postdocs. This is prior faculty experience, not ASU start.（核查 2026-10-01T14:41:12Z）
+- Cheng Zhang：[来源](https://news.engineering.tamu.edu/news/2024/09/09/say-howdy-to-new-computer-science-and-engineering-faculty/) · Official Fall2024 faculty cohort individually identifies Cheng Zhang as new CSE Assistant Professor.（核查 2026-10-01T14:25:22Z）
+- Cheng Zhang：[来源](https://docs.google.com/document/d/1CGNidaVyv7eNTsphIewjxNKlgeKSbwAN0EJdyCZMyxE/edit?tab=t.0) · Current public recruitment document explicitly has no short-term positions and considers well-matched visitors only for at least6months. Separate green-highlighted Spring/Fall2027 funded openings are PhD positions. Full relevant pages viewed14:31:48–14:33:35 without editing, applying or submitting.（核查 2026-10-01T14:32:57Z）

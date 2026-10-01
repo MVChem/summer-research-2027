@@ -440,5 +440,34 @@ class ResearchLedgerTests(unittest.TestCase):
         self.assertEqual(ledger.priority_tier(row, {'appointments':{},'constraints':[]}), 4.5)
 
 
+    def test_reviewed_same_name_identity_is_visible_and_distinct(self):
+        row = next(r for r in self.full['candidates'] if r['id'] == 'cheng-zhang-tamu')
+        ledger.validate(self.full)
+        self.assertEqual(row['sameNameDisambiguation']['baselineId'], 152)
+        summary = next(r for r in ledger.compact_index(self.full, self.paths)['candidates'] if r['id'] == row['id'])
+        self.assertEqual(summary['identityDisambiguationLabel'], row['identityDisambiguationLabel'])
+        self.assertIn(row['identityDisambiguationLabel'], ledger.render_compact(self.full))
+
+    def test_same_name_exception_cannot_be_omitted_or_reassigned(self):
+        for mutation in ('omit', 'baseline', 'id', 'homepage', 'school', 'extra-alias', 'source'):
+            data = copy.deepcopy(self.full)
+            row = next(r for r in data['candidates'] if r['id'] == 'cheng-zhang-tamu')
+            if mutation == 'omit': row.pop('sameNameDisambiguation')
+            elif mutation == 'baseline': row['sameNameDisambiguation']['baselineId'] = 151
+            elif mutation == 'id': row['id'] = 'another-cheng-zhang'
+            elif mutation == 'homepage': row['homepage'] = 'https://czhang.org/'
+            elif mutation == 'school': row['school'] = 'Another university'
+            elif mutation == 'extra-alias': row['aliases'].append(data['candidates'][0]['name'])
+            elif mutation == 'source': row['sameNameDisambiguation']['sourceIds'] = ['missing', 'also-missing']
+            with self.subTest(mutation=mutation), self.assertRaises(AssertionError): ledger.validate(data)
+
+    def test_same_name_exception_never_allows_a_second_new_duplicate(self):
+        data = copy.deepcopy(self.full)
+        row = copy.deepcopy(next(r for r in data['candidates'] if r['id'] == 'cheng-zhang-tamu'))
+        row['id'] = 'third-cheng-zhang'
+        data['candidates'].append(row)
+        with self.assertRaises(AssertionError): ledger.validate(data)
+
+
 if __name__ == "__main__":
     unittest.main()

@@ -14,6 +14,17 @@ LEDGER = ROOT / "data/research/mentor_candidates.json"
 RANKED = ROOT / "data/research/ranked_candidates.md"
 CAPS = {"fit": 40, "physical": 25, "shortVisit": 20, "freshness": 15}
 BASELINE_ALIASES = {"jasonjanghochoi", "yangruiboding", "robinding", "kiantebrantley", "tomaslozanoperez"}
+# A source-reviewed exact-name collision, not a general duplicate-name exemption.
+REVIEWED_SAME_NAME_IDENTITIES = {
+    "cheng-zhang-tamu": {
+        "baselineId": 152, "name": "Cheng Zhang", "school": "Texas A&M University",
+        "homepage": "https://czhang0528.github.io/",
+        "officialSources": {
+            "https://infosci.cornell.edu/people/cheng-zhang-0",
+            "https://engineering.tamu.edu/cse/profiles/zhang-cheng.html",
+        },
+    },
+}
 
 
 def name_key(value):
@@ -55,6 +66,25 @@ def timestamp(value):
     return result
 
 
+def validate_same_name_disambiguation(row, old, conflicts):
+    proof = row.get("sameNameDisambiguation")
+    approved = REVIEWED_SAME_NAME_IDENTITIES.get(row["id"])
+    assert proof and approved, "Exact-name collision requires a reviewed identity-specific exception"
+    assert proof["baselineId"] == approved["baselineId"]
+    baseline = next(r for r in old if r["id"] == proof["baselineId"])
+    assert row["name"] == baseline["name"] == approved["name"]
+    assert row["school"] == approved["school"] and row["homepage"] == approved["homepage"]
+    assert proof["baselineHomepage"] == baseline["homepage"]
+    assert proof["baselineSchool"] == baseline["school"]
+    assert conflicts == {name_key(approved["name"])}, "Other duplicate aliases remain prohibited"
+    assert url_key(row["homepage"]) != url_key(baseline["homepage"])
+    sources = {s["id"]: s for s in row["sources"]}
+    assert len(proof["sourceIds"]) == 2 and set(proof["sourceIds"]) <= sources.keys()
+    assert {sources[s]["url"] for s in proof["sourceIds"]} == approved["officialSources"]
+    assert proof["rationale"] and row.get("identityDisambiguationLabel")
+    assert timestamp(proof["verifiedAt"]) <= timestamp(row["verifiedAt"])
+
+
 def validate(data):
     assert data["schemaVersion"] in {1, 2}
     assert data["rubricVersion"] == "fit40-physical25-shortVisit20-freshness15-v1"
@@ -64,6 +94,7 @@ def validate(data):
     old = baseline["contacts"]
     assert len(old) == data["baseline"]["count"] == 200
     names = {name_key(row["name"]) for row in old} | BASELINE_ALIASES
+    new_names = set()
     urls = {url_key(row["homepage"]) for row in old if row.get("homepage")}
     ids = set()
     required = {"id", "name", "aliases", "school", "homepage", "title", "batch", "discoveredAt", "verifiedAt", "researchAreas", "fitReason", "physicalEvidence", "shortVisit", "scores", "scoreReasons", "sources", "unknowns"}
@@ -72,8 +103,12 @@ def validate(data):
         assert row["id"] not in ids and re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", row["id"])
         ids.add(row["id"])
         keys = {name_key(n) for n in [row["name"], *row["aliases"]]}
-        assert not keys & names, f"Duplicate or excluded identity: {row['name']}"
-        names.update(keys)
+        assert not keys & new_names, f"Duplicate new identity: {row['name']}"
+        if keys & names:
+            validate_same_name_disambiguation(row, old, keys & names)
+        else:
+            assert not row.get("sameNameDisambiguation"), "Unexpected identity exception without baseline collision"
+        new_names.update(keys)
         homepage = url_key(row["homepage"])
         assert homepage not in urls, f"Duplicate homepage: {row['name']}"
         urls.add(homepage)
@@ -378,6 +413,8 @@ def compact_index(data, record_files):
             summary["discoveryTimestampNote"] = row["discoveryTimestampNote"]
         if row.get("candidateTier"):
             summary["candidateTier"] = row["candidateTier"]
+        if row.get("identityDisambiguationLabel"):
+            summary["identityDisambiguationLabel"] = row["identityDisambiguationLabel"]
         if row.get("appointmentTimingStatus"):
             summary["appointmentTimingStatus"] = row["appointmentTimingStatus"]
             summary["appointmentTimingLabel"] = row["appointmentTimingLabel"]
@@ -403,6 +440,8 @@ def render_compact(data):
         evidence_note += f" · **{cell(evidence_label)}**" if evidence_label else ""
         if row.get("appointmentTimingLabel"):
             evidence_note += f" · **{cell(row['appointmentTimingLabel'])}**"
+        if row.get("identityDisambiguationLabel"):
+            evidence_note += f" · **{cell(row['identityDisambiguationLabel'])}**"
         lines.append(f"| {index} | [{cell(row['name'])}]({detail}) · {cell(row['school'])}{evidence_note} | {sum(row['scores'].values())} ({scores}) | {cell(row['shortVisit']['status'])} | {discovery} | {row['verifiedAt']} |")
     if any(row.get("discoveryTimestampNote") for row in data["candidates"]):
         lines += ["", "† 时间口径例外：此条使用首次可精确保留的来源观察/核查记录时间，不能断言为最早遇到该线索的时刻。未重建更早时间；原值保持不变，具体限制见详情和索引的 discoveryTimestampNote。"]

@@ -64,6 +64,7 @@
     "batches/control-053.json",
     "batches/control-054.json",
     "batches/control-055.json",
+    "batches/control-056.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -3387,6 +3388,62 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-055.json",
       "detailPage": "batches/control-055.md#joseph-moore"
+    },
+    {
+      "id": "silvia-ferrari",
+      "name": "Silvia Ferrari",
+      "aliases": [],
+      "school": "Cornell University",
+      "title": "Professor; Director, Laboratory for Intelligent Systems and Controls; Associate Dean for Cross-Campus Engineering Research",
+      "homepage": "https://www.duffield.cornell.edu/people/silvia-ferrari/",
+      "batch": "control-056",
+      "discoveredAt": "2026-10-01T03:21:37Z",
+      "verifiedAt": "2026-10-01T03:29:11Z",
+      "scores": {
+        "fit": 37,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Active robot perception",
+        "Neural visual recognition",
+        "Information-driven multi-robot planning",
+        "Distributed task assignment",
+        "Sensorimotor learning and control"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-056.json",
+      "detailPage": "batches/control-056.md#silvia-ferrari"
+    },
+    {
+      "id": "pingping-zhu",
+      "name": "Pingping Zhu",
+      "aliases": [
+        "PingPing Zhu"
+      ],
+      "school": "Marshall University",
+      "title": "Associate Professor; Principal Investigator, Perception Intelligence Networks Group",
+      "homepage": "https://ping-researchlab.github.io/",
+      "batch": "control-056",
+      "discoveredAt": "2026-10-01T03:26:49Z",
+      "verifiedAt": "2026-10-01T03:29:11Z",
+      "scores": {
+        "fit": 35,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Visual perception for robot interaction",
+        "Swarm robotics",
+        "Information-driven control",
+        "Machine learning",
+        "Human–drone interfaces"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-056.json",
+      "detailPage": "batches/control-056.md#pingping-zhu"
     },
     {
       "id": "tom-silver",

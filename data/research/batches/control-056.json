@@ -1,0 +1,208 @@
+[
+  {
+    "id": "silvia-ferrari",
+    "name": "Silvia Ferrari",
+    "aliases": [],
+    "school": "Cornell University",
+    "homepage": "https://www.duffield.cornell.edu/people/silvia-ferrari/",
+    "title": "Professor; Director, Laboratory for Intelligent Systems and Controls; Associate Dean for Cross-Campus Engineering Research",
+    "department": "Mechanical and Aerospace Engineering; Computer Science graduate field (current directory header discrepancy noted)",
+    "batch": "control-056",
+    "discoveredAt": "2026-10-01T03:21:37Z",
+    "verifiedAt": "2026-10-01T03:29:11Z",
+    "researchAreas": [
+      "Active robot perception",
+      "Neural visual recognition",
+      "Information-driven multi-robot planning",
+      "Distributed task assignment",
+      "Sensorimotor learning and control"
+    ],
+    "fitReason": "Strong multi-agent physical AI fit through onboard learned visual recognition, probabilistic state estimation and information-driven planning. The demonstrated assignment/control algorithm is optimization-based, not an RL motor policy.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "June 10, 2026 primary article validates two Husarion ROSBots tracking three human targets in 20 trials. Onboard R-CNN detects people and Re-ID Net associates known target identities from reference images; RGB-D sensing, Kalman filtering, adaptive target assignment and information-gain control drive the robots. Intel Atom processors and WiFi are named. Physical execution uses one assignment/control iteration per step; repeated iterations occur only in simulation. Contributions explicitly identify Ferrari as PI and Cornell researchers as the physical-experiment team.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current external-master’s short-visitor invitation was verified. Current university directory confirms faculty, LISC leadership and graduate-field roles; the lab host returned connection-refused/502 in the cloud browser, so its unread current intake cannot be inferred.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct physical perception, probabilistic inference and coordinated active sensing; less direct than end-to-end policy learning.",
+      "physical": "Named 2026 Cornell robot system with Ferrari explicitly credited as PI and local researchers executing hardware tests.",
+      "shortVisit": "No current external visitor invitation; lab intake page could not be read.",
+      "freshness": "June 2026 primary full paper plus current university faculty evidence."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.duffield.cornell.edu / source 1",
+        "url": "https://www.duffield.cornell.edu/people/silvia-ferrari/",
+        "summary": "Current faculty, LISC director, public email; internal endowed-title/unit mismatch explicitly retained.",
+        "verifiedAt": "2026-10-01T03:29:11Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "bowers.cornell.edu / source 2",
+        "url": "https://bowers.cornell.edu/directory/index",
+        "summary": "Current Bowers directory lists Silvia Ferrari as Professor of Mechanical and Aerospace Engineering in the CS faculty directory.",
+        "verifiedAt": "2026-10-01T03:29:11Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "link.springer.com / source 3",
+        "url": "https://link.springer.com/article/10.1007/s10514-026-10249-4",
+        "summary": "2026 physical ROSBot experiments with onboard R-CNN and Re-ID, local Cornell experimental authors; Ferrari explicitly PI. No learned motor policy claimed.",
+        "verifiedAt": "2026-10-01T03:29:11Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "lisc.mae.cornell.edu / source 4",
+        "url": "https://lisc.mae.cornell.edu/",
+        "summary": "Current lab intake could not be retrieved; no negative recruitment conclusion inferred.",
+        "verifiedAt": "2026-10-01T03:29:11Z",
+        "retrieval": "Full live retrieval failed: HTTP 502 / connection refused; no recruiting terms verified"
+      }
+    ],
+    "unknowns": [
+      "Cornell’s separately verified visitor mechanisms do not establish individual acceptance or an eight-week project. Current Duffield page header lists Samuel B. Eckert Professor and CEE/ECE, while its biography and Bowers directory identify MAE Professor/John Brancaccio title. Plain Professor is retained rather than choosing an unverified endowed title or asserting a unit move. Confirm home unit and Ithaca/Cornell Tech work site. This paper’s known-participant tracking is an experimental perception/planning study, not a claim of unrestricted real-world identity recognition.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: discoveredAt denotes the earliest preserved timestamped source observation. No precise earlier discovery time is asserted."
+    ],
+    "discoveryTimestampNote": "discoveredAt denotes the earliest preserved timestamped source observation. No precise earlier discovery time is asserted.",
+    "publicEmail": "ferrari@cornell.edu"
+  },
+  {
+    "id": "pingping-zhu",
+    "name": "Pingping Zhu",
+    "aliases": [
+      "PingPing Zhu"
+    ],
+    "school": "Marshall University",
+    "homepage": "https://ping-researchlab.github.io/",
+    "title": "Associate Professor; Principal Investigator, Perception Intelligence Networks Group",
+    "department": "Biomedical and Electrical Engineering; Computer Science",
+    "batch": "control-056",
+    "discoveredAt": "2026-10-01T03:26:49Z",
+    "verifiedAt": "2026-10-01T03:29:11Z",
+    "researchAreas": [
+      "Visual perception for robot interaction",
+      "Swarm robotics",
+      "Information-driven control",
+      "Machine learning",
+      "Human–drone interfaces"
+    ],
+    "fitReason": "Concrete local ML-perception-to-flight integration and active collaborative multi-robot research. Current hardware evidence centers on perception/interaction integration and planning, not newly trained end-to-end RL.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "May/June 2025 primary study physically tests a Crazyflie2.1 with Flow Deck V2, Multi-Ranger and AI-Deck at Marshall. MediaPipe learned hand landmarks run on a ground laptop; geometric gesture rules map them to flight commands. Range-threshold avoidance is hand-coded and video streams from the drone, so the method is not an onboard learned flight policy. Zhu is credited for supervision, resources and project administration. Separately, the June 2026 Cornell-led ROSBot paper is collaborative hardware and does not establish Marshall ownership of those ground robots.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current PiNG joining page advertises PhD and MS research assistant positions; MS funding language is ordinary degree recruitment, not an explicit external short visit. The undergraduate section lists US citizenship. That scoped undergraduate condition is not generalized to graduate students or all lab projects. Team roster names current MS/PhD advisees and the Crazyflie study’s first author.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 35,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantive robot perception/control integration and collaborative active sensing; narrower learning-method novelty than generalist policy labs.",
+      "physical": "Named actual local Crazyflie setup and supervisor/resource credits, with matching current lab student roster; Cornell ROSBots separately collaborative.",
+      "shortVisit": "No explicit current external summer visitor route. PhD/MS assistantships do not establish short-visit eligibility.",
+      "freshness": "June 2026 physical multi-robot coauthorship and current faculty/roster, while local drone publication remains2025."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.marshall.edu / source 1",
+        "url": "https://www.marshall.edu/cecs/profile/dr-pingping-zhu/",
+        "summary": "Official current Associate heading, departments and public email; older Assistant bio distinguished.",
+        "verifiedAt": "2026-10-01T03:29:11Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "ping-researchlab.github.io / source 2",
+        "url": "https://ping-researchlab.github.io/team/",
+        "summary": "Current PI and graduate advisees, including first author Ben Taylor.",
+        "verifiedAt": "2026-10-01T03:29:11Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "ping-researchlab.github.io / source 3",
+        "url": "https://ping-researchlab.github.io/join_us/",
+        "summary": "PhD/MS degree-RA openings, undergraduate citizenship condition; no external short visitor invitation.",
+        "verifiedAt": "2026-10-01T03:29:11Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "www.preprints.org / source 4",
+        "url": "https://www.preprints.org/manuscript/202505.1473",
+        "summary": "Author-primary full text May 2025: actual Crazyflie trials, laptop MediaPipe landmarks, geometric command classification and hand-coded avoidance.",
+        "verifiedAt": "2026-10-01T03:29:11Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "www.mdpi.com / source 5",
+        "url": "https://www.mdpi.com/2076-3417/15/13/7340",
+        "summary": "Publisher indexed full text identifies June 30, 2025 peer-reviewed version and Zhu supervision/resources; direct page retrieval failed.",
+        "verifiedAt": "2026-10-01T03:29:11Z",
+        "retrieval": "Publisher search-index extract via web.run; direct main/html retrieval failed; author preprint directly read"
+      },
+      {
+        "id": "s6",
+        "label": "link.springer.com / source 6",
+        "url": "https://link.springer.com/article/10.1007/s10514-026-10249-4",
+        "summary": "June 2026 Cornell-led physical study includes Zhu as coauthor; contribution statement does not attribute physical experiments to him or Marshall.",
+        "verifiedAt": "2026-10-01T03:29:11Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      }
+    ],
+    "unknowns": [
+      "Current official profile heading says Associate Professor while biography still says Assistant; heading retained. No current external-master’s visitor mechanism, eight-week availability or self-funded permission has been verified for this PI. International eligibility and project access require separate host/institution review. Avoid confusing degree-RA stipend wording with visitor funding.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "zhup@marshall.edu"
+  }
+]

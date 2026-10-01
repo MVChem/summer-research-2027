@@ -1,0 +1,135 @@
+[
+  {
+    "id": "deva-ramanan",
+    "name": "Deva Ramanan",
+    "aliases": [],
+    "school": "Carnegie Mellon University",
+    "homepage": "https://www.cs.cmu.edu/~deva/",
+    "title": "Professor",
+    "department": "Robotics Institute",
+    "batch": "embodied-062",
+    "discoveredAt": "2026-10-01T05:11:17Z",
+    "verifiedAt": "2026-10-01T05:20:34Z",
+    "researchAreas": [
+      "World-action models",
+      "Few-shot VLA adaptation",
+      "Multimodal robot learning",
+      "Memory-aware visuomotor policies"
+    ],
+    "fitReason": "Strong foundation-model-to-action match: recent work connects selective VLA finetuning, learning from actionless human demonstrations, and multimodal predictive robot policies. His wider group also studies perception and 3D reconstruction, so propose a specifically manipulation-focused project.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "September 2026 ModAR reports learned execution with bimanual YAM arms on cup stacking, towel folding and object placement/drawer closure, with 30 rollouts per task and method/data mixture. Ramanan is a coauthor in the all-CMU collaboration. Earlier Robotic Steering performs actual Franka Panda VLA rollouts across five manipulation tasks, rather than merely testing recorded robot data. Hardware access under his own supervision is not established.",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "precedent-only",
+      "summary": "The current faculty page lists students and historical visitors, but no explicit external-master’s summer or short-term visitor invitation was verified. A current CMU master’s student identifies Ramanan as adviser; this demonstrates master’s supervision, not external summer eligibility.",
+      "sourceIds": [
+        "s2",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 40,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct VLA adaptation and predictive multimodal robot-policy work.",
+      "physical": "Multiple actual executions, but collaborative apparatus without direct ownership/access confirmation.",
+      "shortVisit": "No explicit external visitor or short-summer invitation.",
+      "freshness": "Full September 2026 physical study and current official faculty page."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "csd.cmu.edu / source 1",
+        "url": "https://csd.cmu.edu/people/faculty/deva-ramanan",
+        "summary": "Full official directory confirms current Professor, Robotics Institute, and public university email.",
+        "verifiedAt": "2026-10-01T05:20:34Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "www.cs.cmu.edu / source 2",
+        "url": "https://www.cs.cmu.edu/~deva/",
+        "summary": "Full current faculty page includes Fall 2026 teaching, group and historical visitors; public alternate professional email deva@cs.cmu.edu.",
+        "verifiedAt": "2026-10-01T05:20:34Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2609.17524v1",
+        "summary": "Full September 15, 2026 ModAR paper: actual bimanual hardware, physical protocol in IV-A/IV-D/IV-E, distinct simulation results, and discrete-label limitations.",
+        "verifiedAt": "2026-10-01T05:20:34Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "adamhung60.github.io / source 4",
+        "url": "https://adamhung60.github.io/ModAR/",
+        "summary": "Full project page corroborates all-CMU authorship, physical demonstrations and actionless-data experiments.",
+        "verifiedAt": "2026-10-01T05:20:34Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "adamhung60.github.io / source 5",
+        "url": "https://adamhung60.github.io/",
+        "summary": "Current author page identifies Ichnowski, not Ramanan, as the first author’s PhD adviser; do not infer exclusive group equipment.",
+        "verifiedAt": "2026-10-01T05:20:34Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2511.22697v1",
+        "summary": "Full Robotic Steering paper, robot setup and appendix: selective VLA adaptation and actual Panda rollouts; only one embodiment tested.",
+        "verifiedAt": "2026-10-01T05:20:34Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s7",
+        "label": "chancharikmitra.github.io / source 7",
+        "url": "https://chancharikmitra.github.io/",
+        "summary": "Full researcher page identifies a CMU master’s student advised by Ramanan; not evidence of external recruitment.",
+        "verifiedAt": "2026-10-01T05:20:34Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s8",
+        "label": "remembench-prism.github.io / source 8",
+        "url": "https://remembench-prism.github.io/",
+        "summary": "Full PRISM project distinguishes actual wash-and-return rollouts from simulated memory benchmarks; supplementary context only.",
+        "verifiedAt": "2026-10-01T05:20:34Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s9",
+        "label": "shahrutav.github.io / source 9",
+        "url": "https://shahrutav.github.io/",
+        "summary": "Full coauthor publication page lists PRISM and Ramanan at an RSS 2026 workshop; linked Drive paper was not fully retrieved and is not used for detailed hardware claims.",
+        "verifiedAt": "2026-10-01T05:20:34Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "No Summer 2027 opening, eight-week agreement, remote arrangement, funding or mentoring capacity is confirmed. Historical visitors and current degree students are not a current visiting-student offer.",
+      "Keep physical evidence at 20: ModAR is a current CMU collaboration with Jeffrey Ichnowski; its first author explicitly names Ichnowski as adviser. The inspected sources do not allocate the apparatus or visitor access to Ramanan’s own group. Robotic Steering is a multi-institution collaboration.",
+      "ModAR uses discrete task identifiers, not open-ended language commands. Its human videos supervise future observations, while robot demonstrations provide action supervision. The frequently repeated 75% versus 72% comparison is simulation, not the three physical tasks.",
+      "Robotic Steering is restricted to one Franka embodiment. Its small-task few-shot findings do not establish general multi-embodiment performance.",
+      "Reuse the existing CMU Student Intern and Collaborating Visitor notes. The independent OIE route may accommodate degree students enrolled abroad with personal or external support, subject to host approval. RISS is not a master’s route; institutional policy does not supply a lab opening.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[CMU institutional visitor rules](../eligibility_notes.md#cmu-student-intern)"
+    ],
+    "publicEmail": "deva@andrew.cmu.edu"
+  }
+]

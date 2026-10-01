@@ -1,0 +1,102 @@
+[
+  {
+    "id": "jiangen-he",
+    "name": "Jiangen He",
+    "aliases": [],
+    "school": "University of Tennessee, Knoxville",
+    "homepage": "https://jiangen.cci.utk.edu/",
+    "title": "Assistant Professor",
+    "department": "School of Information Sciences; College of Communication and Information",
+    "batch": "hri-024",
+    "discoveredAt": "2026-10-01T00:07:54Z",
+    "verifiedAt": "2026-10-01T00:13:39Z",
+    "researchAreas": [
+      "Human-AI interaction",
+      "Conversational social robotics",
+      "LLM-mediated interaction design",
+      "Human-robot evaluation",
+      "Information visualization"
+    ],
+    "fitReason": "Good software-centered HRI match for real-time LLM integration, robot conversation and empirical interaction design. This is an applied social-robotics opportunity rather than a broad learned-manipulation or robot-perception group; a clearly scoped technical contribution would matter.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The full January 2026 primary interview-coach papers describe a physical Misty II in a UTK usability lab, connected through React/Node.js and WebRTC to a realtime language model. Prompts guide speech and nonverbal actuation, including nodding; researchers monitor without intervening in autonomous dialogue. Eight adults complete iterative interactions. The longer paper explicitly says automatic multimodal anxiety inference was not implemented: the deployed system responds to user-selected/opt-in feedback, while its more adaptive framework is future work.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The official March 2026 university feature documents internal student mentoring and a prior summer assistantship involving a recent UTK graduate, including remote contribution. No current external-master's visitor invitation, eight-week opening or summer 2027 intake was verified on the inspected faculty/research pages. A past internal summer project does not establish an open external or remote program.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 35,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "direct conversational AI and physically embodied HRI, but narrower control/perception learning scope.",
+      "physical": "named actuated Misty, explicit software pipeline and local human study.",
+      "shortVisit": "prior internal summer assistance only.",
+      "freshness": "January 2026 primary manuscripts and March 2026 university corroboration. Provisional evidence-fit score, not acceptance probability or prestige."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "cci.utk.edu / source 1",
+        "url": "https://cci.utk.edu/sis/about/directory/jiangen-he/",
+        "summary": "Full current official directory verifies Assistant Professor at UTK Information Sciences and AI/human-interaction research.",
+        "verifiedAt": "2026-10-01T00:13:39Z"
+      },
+      {
+        "id": "s2",
+        "label": "jiangen.cci.utk.edu / source 2",
+        "url": "https://jiangen.cci.utk.edu/",
+        "summary": "Current university-hosted faculty homepage confirms role and public email.",
+        "verifiedAt": "2026-10-01T00:13:39Z"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2601.10824v1",
+        "summary": "Full January 15, 2026 primary short paper, Section 2: physical Misty II, realtime model integration, speech/gesture behaviors and eight-adult evaluation. University confirms HRI Companion 2026 publication.",
+        "verifiedAt": "2026-10-01T00:13:39Z"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2601.15600v1",
+        "summary": "January 22, 2026 full primary manuscript, Sections 3 and 9: specific robot/software stack, autonomous monitored dialogue and limitations; automatic multimodal anxiety recognition is explicitly future work.",
+        "verifiedAt": "2026-10-01T00:13:39Z"
+      },
+      {
+        "id": "s5",
+        "label": "cci.utk.edu / source 5",
+        "url": "https://cci.utk.edu/blog/2026/03/10/a-student-led-project-with-real-impact-the-future-of-human-robot-interaction/",
+        "summary": "Full official March 10, 2026 feature corroborates local iLab physical work and internal summer assistantship; distinguishes separate virtual-prototype studies.",
+        "verifiedAt": "2026-10-01T00:13:39Z"
+      }
+    ],
+    "unknowns": [
+      "Duration, international visiting-student classification, PI availability, stipend and wholly personal-funding eligibility remain unknown.",
+      "This small interview-practice study is not proof of clinical treatment efficacy, improved objective interview performance, or authorization for a visitor to conduct health-related human-subject work.",
+      "The short and longer manuscripts differ in exact model naming and session-duration wording; this record does not resolve those implementation details or repeat effect-size claims.",
+      "The implemented system does not automatically infer anxiety or train a new robot control policy. Its adaptive-design framework must not be presented as a deployed emotion-recognition system.",
+      "The separate robot-color studies use virtual prototypes and are not counted as physical evidence.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "jiangen@utk.edu"
+  }
+]

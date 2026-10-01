@@ -78,7 +78,8 @@
     "batches/hri-020.json",
     "batches/hri-021.json",
     "batches/hri-022.json",
-    "batches/hri-023.json"
+    "batches/hri-023.json",
+    "batches/hri-024.json"
   ],
   "candidates": [
     {
@@ -7053,6 +7054,33 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-023.json",
       "detailPage": "batches/hri-023.md#tsung-chi-lin"
+    },
+    {
+      "id": "jiangen-he",
+      "name": "Jiangen He",
+      "aliases": [],
+      "school": "University of Tennessee, Knoxville",
+      "title": "Assistant Professor",
+      "homepage": "https://jiangen.cci.utk.edu/",
+      "batch": "hri-024",
+      "discoveredAt": "2026-10-01T00:07:54Z",
+      "verifiedAt": "2026-10-01T00:13:39Z",
+      "scores": {
+        "fit": 35,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-AI interaction",
+        "Conversational social robotics",
+        "LLM-mediated interaction design",
+        "Human-robot evaluation",
+        "Information visualization"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-024.json",
+      "detailPage": "batches/hri-024.md#jiangen-he"
     }
   ]
 }

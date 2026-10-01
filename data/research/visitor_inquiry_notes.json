@@ -208,9 +208,10 @@
       ]
     },
     "nick-cheney": {
-      "note": "访客单独申请类别；2025–26暂停记录已注明Fall2026恢复；资金类别未定",
+      "note": "学位相关Non-Degree需过半非个人资金；DS-2019至少提前10周申请",
       "sourceIds": [
-        "s2"
+        "s2",
+        "s6"
       ]
     },
     "preeya-khanna": {

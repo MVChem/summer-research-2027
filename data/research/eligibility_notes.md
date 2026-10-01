@@ -977,7 +977,7 @@ Sources: [Guides and Forms](https://www.lamar.edu/international-education/intern
 
 [主办J-1规则](https://www.uvm.edu/oie/uvm-departments-hosting-j-1-exchange-visitors) 明确涵盖未由UVM资助的访问研究生，列Short-Term Scholar1天至6个月等类别，当前生活支持基准每月2,500美元、接受访问者银行证明，但页面提醒将涨价。要求至少提前8周拿到移民文件，因此应更早启动，而非保证8周内办完。
 
-具体硕士签证类别仍须OIE核定：[单独的学生签证比较页](https://www.uvm.edu/oie/comparing-f-1-and-j-1-visas) 对J-1学生要求至少51%非个人资金。不能将Scholar银行证明规则直接当作本次硕士可完全自费，也不能反向把学生比例一概套到Scholar。导师接收、2027金额和八周项目安排均未确认。
+补充核查：2026-10-01T09:49:44Z。[同一OIE主办页](https://www.uvm.edu/oie/uvm-departments-hosting-j-1-exchange-visitors)明确把海外学位相关研究、GRAD902/903放在Student Non-Degree类别（3周–2年），要求**过半费用来自非个人资金**。Student Intern另列3周–12个月；不能自行改用该类别绕开条件，须OIE批准。DS-2019须至少提前10周申请，入境文件须至少提前8周到手。导师接收与2027费用仍未确认。
 
 <a id="whoi"></a>
 ## WHOI / MIT-WHOI Joint Program · WHOI 驻地的联合研究生项目导师

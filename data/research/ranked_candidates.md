@@ -459,7 +459,7 @@
 | 449 | [Cagdas D. Onal](batches/embodied-007.md#cagdas-d-onal) · Worcester Polytechnic Institute | 62 (32/20/0/10) | unknown | 2026-09-30T22:13:28Z | 2026-09-30T22:18:19Z |
 | 450 | [Jorge I. Poveda](batches/control-076.md#jorge-i-poveda) · University of California, San Diego · **AI相关 · 真机待核实** | 60 (37/0/8/15) | inquiry-only · generic visiting scholar；八周与2027名额未定 | 2026-09-30T23:54:56Z | 2026-10-01T07:21:28Z |
 | 451 | [Sihong He](batches/control-081.md#sihong-he) · University of Texas at Arlington · **AI相关 · 真机待核实** | 60 (37/0/8/15) | inquiry-only · 页面标注2024；2027名额未核实 | 2026-10-01T05:07:07Z | 2026-10-01T07:07:38Z |
-| 452 | [Nick Cheney](batches/control-075.md#nick-cheney) · University of Vermont · **AI相关 · 真机待核实** | 60 (37/0/8/15) | inquiry-only · 外部访问意向；八周与2027名额未定 | 2026-10-01T06:34:16Z † | 2026-10-01T06:37:33Z |
+| 452 | [Nick Cheney](batches/control-075.md#nick-cheney) · University of Vermont · **AI相关 · 真机待核实** | 60 (37/0/8/15) | inquiry-only · UVM学位相关Non-Degree需过半非个人资金 | 2026-10-01T06:34:16Z † | 2026-10-01T09:49:44Z |
 | 453 | [Preeya Khanna](batches/hri-071.md#preeya-khanna) · University of California, Berkeley · **弱/历史真机线索** | 60 (30/10/10/10) | inquiry-only · historical physical-evidence backup | 2026-10-01T03:26:24Z † | 2026-10-01T06:33:21Z |
 | 454 | [Shan Zuo](batches/control-075.md#shan-zuo) · University of Connecticut · **AI相关 · 真机待核实** | 59 (36/0/8/15) | inquiry-only · 外部访问意向；八周与2027名额未定 | 2026-10-01T01:24:05Z † | 2026-10-01T06:37:33Z |
 | 455 | [Jingwei Sun](batches/embodied-071.md#jingwei-sun) · University of Florida · **仅仿真；真机待核实** | 52 (37/0/0/15) | unknown · generic intern inquiry；外校短访条件未明确 | 2026-10-01T05:28:47Z | 2026-10-01T06:41:50Z |

@@ -4474,7 +4474,7 @@
       "homepage": "https://www.uvm.edu/cems/cs/profile/nick-cheney",
       "batch": "control-075",
       "discoveredAt": "2026-10-01T06:34:16Z",
-      "verifiedAt": "2026-10-01T06:37:33Z",
+      "verifiedAt": "2026-10-01T09:49:44Z",
       "scores": {
         "fit": 37,
         "physical": 0,
@@ -4492,7 +4492,7 @@
       "candidateTier": "Robotics-AI visitor backup; current learned hardware unverified",
       "physicalEvidenceStatus": "AI相关 · 真机待核实",
       "physicalEvidenceLabel": "AI相关 · 真机待核实",
-      "shortVisitStatus": "inquiry-only · 外部访问意向；八周与2027名额未定",
+      "shortVisitStatus": "inquiry-only · UVM学位相关Non-Degree需过半非个人资金",
       "recordFile": "batches/control-075.json",
       "detailPage": "batches/control-075.md#nick-cheney"
     },
@@ -8457,7 +8457,7 @@
         "Multimodal human-robot collaboration",
         "Hierarchical skill learning"
       ],
-      "discoveryTimestampNote": "First retained primary-source encounter following the HRI worker’s construction-robotics referral; no earlier untimed name-only referral was backdated.",
+      "discoveryTimestampNote": "First retained primary-source encounter; an earlier untimed name-only lead was not backdated.",
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-068.json",
       "detailPage": "batches/embodied-068.md#hongrui-yu"

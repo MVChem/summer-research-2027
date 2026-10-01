@@ -235,10 +235,10 @@
       "The full Generalizable Skill Learning paper has a human approve action sequences and uses conventional motion planning. Its industrial manipulator is a Michigan collaboration, not verified current VT KUKA inventory.",
       "Reuse Virginia Tech’s external-graduate Student Intern note; the institution’s duration and funding rules do not establish a faculty invitation. The individual MLSoC profile currently returns 404; appointment is corroborated by official hiring news, current robotics faculty listing, 2026 initiative and the primary paper.",
       "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
-      "Timestamp scope: First retained primary-source encounter following the HRI worker’s construction-robotics referral; no earlier untimed name-only referral was backdated.",
+      "Timestamp scope: First retained primary-source encounter; an earlier untimed name-only lead was not backdated.",
       "[Institutional visitor rules](../eligibility_notes.md#virginia-tech-student-intern)"
     ],
-    "discoveryTimestampNote": "First retained primary-source encounter following the HRI worker’s construction-robotics referral; no earlier untimed name-only referral was backdated.",
+    "discoveryTimestampNote": "First retained primary-source encounter; an earlier untimed name-only lead was not backdated.",
     "publicEmail": "hryu42@vt.edu"
   }
 ]

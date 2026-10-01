@@ -48,6 +48,7 @@
     "batches/embodied-017.json",
     "batches/embodied-018.json",
     "batches/embodied-019.json",
+    "batches/embodied-020.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -4297,6 +4298,60 @@
       "shortVisitStatus": "inquiry-only",
       "recordFile": "batches/embodied-019.json",
       "detailPage": "batches/embodied-019.md#zezhou-cheng"
+    },
+    {
+      "id": "geng-yuan",
+      "name": "Geng Yuan",
+      "aliases": [],
+      "school": "University of Georgia",
+      "title": "Assistant Professor",
+      "homepage": "https://yuan-geng.com/",
+      "batch": "embodied-020",
+      "discoveredAt": "2026-09-30T23:39:49Z",
+      "verifiedAt": "2026-09-30T23:43:11Z",
+      "scores": {
+        "fit": 36,
+        "physical": 20,
+        "shortVisit": 5,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Efficient robot foundation models",
+        "World-action model quantization",
+        "Model compression",
+        "Energy-efficient AI systems",
+        "Hardware-software co-design"
+      ],
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/embodied-020.json",
+      "detailPage": "batches/embodied-020.md#geng-yuan"
+    },
+    {
+      "id": "yanzhi-wang",
+      "name": "Yanzhi Wang",
+      "aliases": [],
+      "school": "Northeastern University",
+      "title": "Professor",
+      "homepage": "https://www.yanzhiwang.com/",
+      "batch": "embodied-020",
+      "discoveredAt": "2026-09-30T23:39:49Z",
+      "verifiedAt": "2026-09-30T23:43:11Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Robotic foundation models",
+        "World-action models",
+        "Efficient embodied AI",
+        "Real-time policy inference",
+        "Mixed-precision robot learning systems"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-020.json",
+      "detailPage": "batches/embodied-020.md#yanzhi-wang"
     },
     {
       "id": "henny-admoni",

@@ -1,0 +1,190 @@
+[
+  {
+    "id": "geng-yuan",
+    "name": "Geng Yuan",
+    "aliases": [],
+    "school": "University of Georgia",
+    "homepage": "https://yuan-geng.com/",
+    "title": "Assistant Professor",
+    "department": "School of Computing, Computer Science",
+    "batch": "embodied-020",
+    "discoveredAt": "2026-09-30T23:39:49Z",
+    "verifiedAt": "2026-09-30T23:43:11Z",
+    "researchAreas": [
+      "Efficient robot foundation models",
+      "World-action model quantization",
+      "Model compression",
+      "Energy-efficient AI systems",
+      "Hardware-software co-design"
+    ],
+    "fitReason": "Q-WAM protects action-sensitive activation subspaces when compressing world-action models, giving a concrete manipulation-policy deployment direction within Yuan’s broader efficient-AI systems program.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Q-WAM (September27,2026 preprint) evaluates quantized policies on a Unitree G1 with parallel-jaw grippers and a bimanual UR3, each with four cameras. The five tasks include sorting/classification, cleaning, drawer manipulation and stacking,25 physical trials per task. Real inference uses an RTX5090. These are actual policy-driven actions, separate from RoboTwin2.0 simulation.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "His live primary homepage, fully read in the cloud browser after the web reader returned only an SEO link, invites PhD/master’s students and interns to send CV and transcripts. This is a generic internship inquiry route; it does not specify external-master’s short-visit terms.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 36,
+      "physical": 20,
+      "shortVisit": 5,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Concrete action-sensitive robot-model compression project; overall research is broaderAI systems.",
+      "physical": "Q-WAM hardware is a university/EmbodyX collaboration; current UGA-local platforms and visitor access are unverified.",
+      "shortVisit": "Generic live internship/master’s inquiry invitation, no external eligibility or duration terms.",
+      "freshness": "September27,2026 physical-policy preprint, current official role and2026lab activity."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "computing.uga.edu / source 1",
+        "url": "https://computing.uga.edu/directory/people/geng-yuan",
+        "summary": "Official current assistant professor of computer science, institutional email and AI-systems scope.",
+        "verifiedAt": "2026-09-30T23:43:11Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "yuan-geng.com / source 2",
+        "url": "https://yuan-geng.com/",
+        "summary": "Live rendered primary homepage confirms UGA sinceAugust2023, current2026 student activity and explicit PhD/master’s/intern inquiry invitation.",
+        "verifiedAt": "2026-09-30T23:43:11Z",
+        "retrieval": "direct-browser-primary"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2609.33269v1",
+        "summary": "Primary full paper names Yuan with UGA affiliation; Section5 andAppendixB.3 establish actualG1/UR3 manipulation and mixed-precision scope.",
+        "verifiedAt": "2026-09-30T23:43:11Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "The paper is a new preprint, not verified peer-reviewed acceptance. Its near-full-precision success claim applies to simulation: hardware success remains below the full-precision baselines. Four-bit computation applies to selected blocks with16-bit protected branches, not every system component. The joint university/EmbodyX study does not by itself establish local visitor access to every robot.",
+      "The primary home page and current university directory establish the UGA appointment, but the robot study includes Northeastern and EmbodyX collaborators. UGA-local hardware, daily supervision, eight-week on-campus visit, remote work and funding rules remain unconfirmed.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "geng.yuan@uga.edu"
+  },
+  {
+    "id": "yanzhi-wang",
+    "name": "Yanzhi Wang",
+    "aliases": [],
+    "school": "Northeastern University",
+    "homepage": "https://www.yanzhiwang.com/",
+    "title": "Professor",
+    "department": "Electrical and Computer Engineering; courtesy Khoury College appointment",
+    "batch": "embodied-020",
+    "discoveredAt": "2026-09-30T23:39:49Z",
+    "verifiedAt": "2026-09-30T23:43:11Z",
+    "researchAreas": [
+      "Robotic foundation models",
+      "World-action models",
+      "Efficient embodied AI",
+      "Real-time policy inference",
+      "Mixed-precision robot learning systems"
+    ],
+    "fitReason": "Current primary research explicitly covers embodiedAI, robot foundation models and world modeling. Q-WAM provides a recent action-sensitive model-compression method with actual humanoid and bimanual manipulation deployments.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Q-WAM (September27,2026 preprint) evaluates quantized policies on a Unitree G1 with parallel-jaw grippers and a bimanual UR3, each with four cameras. The five tasks include sorting/classification, cleaning, drawer manipulation and stacking,25 physical trials per task. Real inference uses an RTX5090. These are actual policy-driven actions, separate from RoboTwin2.0 simulation.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The current homepage and teaching/group page show active researchers and past visiting students, but no explicit current external short-visit invitation was verified. Historical visiting-student records receive no opportunity points.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Directly aligned current robot foundation/world-action models and deployment efficiency.",
+      "physical": "Q-WAM hardware is shared with university/EmbodyX collaborators; current Northeastern-local visitor access is unverified.",
+      "shortVisit": "No current explicit external visitor route found; historical visitors not scored.",
+      "freshness": "Current2026–27 catalog andSeptember27,2026 primary robot-model study."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "catalog.northeastern.edu / source 1",
+        "url": "https://catalog.northeastern.edu/general-information/faculty/",
+        "summary": "Direct2026–27 official catalog confirms YanzhiWang as Professor,ECE.",
+        "verifiedAt": "2026-09-30T23:43:11Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "www.yanzhiwang.com / source 2",
+        "url": "https://www.yanzhiwang.com/",
+        "summary": "Direct primary homepage publishes contact, embodiedAI/robot-world-model focus and simultaneousEmbodyX role.",
+        "verifiedAt": "2026-09-30T23:43:11Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "www.yanzhiwang.com / source 3",
+        "url": "https://www.yanzhiwang.com/teaching.html",
+        "summary": "Direct current lab/student/teaching page contains historical visitor records, not a current invitation.",
+        "verifiedAt": "2026-09-30T23:43:11Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2609.33269v1",
+        "summary": "Direct primaryQ-WAM paper identifies Northeastern affiliation and five realG1/UR3 tasks with25trials each.",
+        "verifiedAt": "2026-09-30T23:43:11Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "coe.northeastern.edu / source 5",
+        "url": "https://coe.northeastern.edu/people/wang-yanzhi/",
+        "summary": "Official indexed profile corroborates Professor,ECE and alternate public email yanz.wang@northeastern.edu; live web and browser reads failed502/timeout, not claimed fully read.",
+        "verifiedAt": "2026-09-30T23:43:11Z",
+        "retrieval": "indexed-primary-excerpt"
+      }
+    ],
+    "unknowns": [
+      "The paper is a new preprint, not verified peer-reviewed acceptance. Its near-full-precision success claim applies to simulation: hardware success remains below the full-precision baselines. Four-bit computation applies to selected blocks with16-bit protected branches, not every system component. The joint university/EmbodyX study does not by itself establish local visitor access to every robot.",
+      "Simultaneous EmbodyX co-founder/chief-scientist role is publicly disclosed. Confirm that any proposed summer project is a university-hosted appointment with university-accessible equipment, rather than assuming company research facilities are available. The2026–27 university catalog says Professor; an older courtesy-profile biography still says Associate Professor. Current institutional title follows the catalog and primary homepage.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Northeastern Visiting Student funding and lead-time conditions require review; wholly personal funding is not supported by the current published route. [Institutional note](../eligibility_notes.md#northeastern)"
+    ],
+    "publicEmail": "yanzhiwang@northeastern.edu",
+    "alternatePublicEmail": "yanz.wang@northeastern.edu"
+  }
+]

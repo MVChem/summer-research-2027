@@ -1,0 +1,156 @@
+[
+  {
+    "id": "lingfeng-tao",
+    "name": "Lingfeng Tao",
+    "aliases": [],
+    "school": "Kennesaw State University",
+    "homepage": "https://facultyweb.kennesaw.edu/ltao2/",
+    "title": "Assistant Professor of Robotics and Mechatronics Engineering",
+    "department": "Robotics and Mechatronics Engineering; Intelligent Dexterity (InDex) Lab, Marietta campus",
+    "batch": "embodied-098",
+    "discoveredAt": "2026-10-01T13:15:39Z",
+    "verifiedAt": "2026-10-01T13:23:15Z",
+    "researchAreas": [
+      "Deep reinforcement learning for dexterous in-hand manipulation",
+      "Sim-to-real and sensing reduction",
+      "Visuotactile representation and diffusion-policy manipulation"
+    ],
+    "fitReason": "Strong robot-learning and dexterous-control match with a recent AP move. CSR trains PPO while progressively replacing privileged tactile features using a deep random generator,then deploys the learned policy on a physical Allegro hand. Current2026 work continues risk-aware in-hand learning and visuotactile/diffusion manipulation; newest full hardware methods are not independently verified.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Prior/shared physical20. Full CSR §§IV–V verifies actual16DoF Allegro block reorientation around the Z-axis,using ROS joint measurements and webcam ArUco object-pose tracking. The paper is a September 2023 preprint of ICRA2024 with Oklahoma State/Mines/GAC affiliations; exact apparatus site and currentKSUaccess are unresolved. Real performance depends strongly on control frequency and falls below simulation. EFOLD/Bi-Hap human interfaces and DexPour/Risk-PER simulation are not additional physicalrobot evidence.",
+      "sourceIds": [
+        "s4",
+        "s6",
+        "s8"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Visitor0. Public recruiting located is for Fall2026 PhD/degree-RA positions,not an externalmaster visit. Formal KSU StudentIntern eligibility can include overseas enrolled graduate students,but faculty acceptance,project,dates,duration and resources remain unknown. The personaldomain timedout/502,so no negative visitor policy is inferred from that unavailable page.",
+      "sourceIds": [
+        "s1",
+        "s9"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct learned dexterity,sim-to-real and currentvisuotactile methods.",
+      "physical": "Full old CSR verifies realAllegro execution;prior/sharedsite capped20.",
+      "shortVisit": "Only degreeintake confirmed,no specificexternalvisitor invitation.",
+      "freshness": "Dated January 2026 officialresearch report,June 2026 journalarticle metadata and currentofficialIROS2026publicationlist;notnewphysicaldate."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "facultyweb.kennesaw.edu / source 1",
+        "url": "https://facultyweb.kennesaw.edu/ltao2/",
+        "summary": "Current official Assistant Professor of Robotics and Mechatronics, public email and robot-learning research agenda.",
+        "verifiedAt": "2026-10-01T13:20:34Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "www.kennesaw.edu / source 2",
+        "url": "https://www.kennesaw.edu/news/stories/2026/researcher-seeks-help-robots-more-human.php",
+        "summary": "Full January 27, 2026 report says he joined in August, establishing August 2025; current Marietta lab development and learned dexterous-control agenda. Not a visitor offer.",
+        "verifiedAt": "2026-10-01T13:20:34Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "news.okstate.edu / source 3",
+        "url": "https://news.okstate.edu/articles/communications/2023/regents_approve_personnel_actions_april23",
+        "summary": "Official2023 appointment approval lists Lingfeng Tao as Assistant Professor of Engineering Technology; previousfaculty role, so2025 is a move.",
+        "verifiedAt": "2026-10-01T13:23:15Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/pdf/2309.07350",
+        "summary": "Full2023preprint of ICRA2024 CSR paper: PPO/DRG learned policy runs on real16DoF Allegro for block rotation; §§IV–V specify ROS,ArUco webcam and real results. Prior Oklahoma/Mines/GAC collaboration.",
+        "verifiedAt": "2026-10-01T13:20:34Z",
+        "retrieval": "direct-primary-full-paper"
+      },
+      {
+        "id": "s5",
+        "label": "facultyweb.kennesaw.edu / source 5",
+        "url": "https://facultyweb.kennesaw.edu/ltao2/publications.php",
+        "summary": "Full current official publication list includes June 2026 Risk-PER and IROS2026 visuotactile/diffusion methods. New titles do not establish current hardware.",
+        "verifiedAt": "2026-10-01T13:20:34Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "par.nsf.gov / source 6",
+        "url": "https://par.nsf.gov/servlets/purl/10608651",
+        "summary": "Full author manuscript EFOLD,IROS2024: actual human camera/IMU input controls a virtual Shadow hand; conclusion explicitly leaves physical robot-hand experiments to future work.",
+        "verifiedAt": "2026-10-01T13:20:34Z",
+        "retrieval": "direct-primary-full-paper-download"
+      },
+      {
+        "id": "s7",
+        "label": "pubmed.ncbi.nlm.nih.gov / source 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42356605/",
+        "summary": "Publisher-supplied abstract and metadata identify June 7, 2026 Risk-PER as DDPG on simulated Allegro block/egg tasks; used for dated current research and simulation scope only,not physicalcredit. Direct fullopen returned empty and PMC fulltext verification challenge; no full-method credit from this2026 article.",
+        "verifiedAt": "2026-10-01T13:20:34Z",
+        "retrieval": "primary-article-metadata-and-abstract-in-search"
+      },
+      {
+        "id": "s8",
+        "label": "fangxm.me / source 8",
+        "url": "https://fangxm.me/files/DexPour_IROS2025.pdf",
+        "summary": "Full coauthor-hosted DexPour: hierarchicalRL and sphere-proxy fluids evaluated in simulation; physical deployment remains prospective.",
+        "verifiedAt": "2026-10-01T13:20:34Z",
+        "retrieval": "direct-primary-full-paper"
+      },
+      {
+        "id": "s9",
+        "label": "www.linkedin.com / source 9",
+        "url": "https://www.linkedin.com/posts/lingfeng-tao-787928137_im-looking-for-%F0%9D%97%A3%F0%9D%97%B5%F0%9D%97%97-%F0%9D%97%A6%F0%9D%98%81%F0%9D%98%82%F0%9D%97%B1%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%98%80-activity-7405670265021493249-cn7J",
+        "summary": "First-person recruiting post is specifically funded Fall2026 PhD/graduate-degree RA with June 1deadline; no external short-master visitor offer.",
+        "verifiedAt": "2026-10-01T13:23:15Z",
+        "retrieval": "direct-first-person-public-post"
+      },
+      {
+        "id": "s10",
+        "label": "campus.kennesaw.edu / source 10",
+        "url": "https://campus.kennesaw.edu/current-students/academics/global-education/international-student-scholar-services/j-1/student-interns.php",
+        "summary": "Full KSU external-degree StudentIntern process,3weeks–1year,on-campus32–40h/week; mandatory-pay sentence conflicts with linked unpaid guidance. See separate verifiedinstitution supplement.",
+        "verifiedAt": "2026-10-01T13:20:34Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "2025 Kennesaw arrival followed Oklahoma State Assistant Professor service beginning2023; do not label first-timeAP or rely on stale Oklahoma contact details.",
+      "Physicalcredit is older/prior-host and scoped to marker-tracked block reorientation. No currentKSUrobot access,VLA deployment or general object-grasping benchmark is promised.",
+      "Full EFOLD manuscript controls a virtual Shadow hand from real human sensors; DexPour is simulated liquid pouring;2026 Risk-PER is explicitly MuJoCo. Do not convert their real-world motivation or hardwarepictures into execution evidence.",
+      "PhD funding/postingdeadline is not externalmaster or summer2027 placement availability. No explicit no-visitors statement found.",
+      "Reuse kennesaw-state institution note: overseasdegree StudentIntern3weeks–1year,on-campus32–40h/week,returnto degree,faculty/chair/ISSS approval. Graduateform and personal/familyfinances are listed,but webpage mandatory-pay language conflicts with linked unpaidtemplates. HR/ISSS mustresolve unpaidhosting before self-funding is treatedas feasible.",
+      "Linked application lists$2000/month and$150fee with legacy instructions;2027 financialrequirements,insurance,charges and up-to3monthprocessing needrecheck. No campusinternhousing. Remote collaboration wouldneedseparateagreement outside this on-campuscategory.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: First precisely retained individual lead was a secondary recruiting index; later official role/publication checks establish identity. The index is not evidence of a visitor offer.",
+      "[Institutional visitor rules](../eligibility_notes.md#kennesaw-state)"
+    ],
+    "discoveryTimestampNote": "First precisely retained individual lead was a secondary recruiting index; later official role/publication checks establish identity. The index is not evidence of a visitor offer.",
+    "publicEmail": "ltao2@kennesaw.edu",
+    "appointmentStart": {
+      "year": 2025,
+      "month": 8,
+      "precision": "month",
+      "status": "current",
+      "appointmentType": "institution-move",
+      "sourceIds": [
+        "s2",
+        "s3"
+      ],
+      "evidence": "January2026 official report dates Kennesaw arrival to the preceding August; Oklahoma State officially approved his Assistant Professor appointment in2023. This is a recent institutional move,not firstfacultyservice."
+    }
+  }
+]

@@ -2,13 +2,13 @@
 
 [全部候选：最新偏好排序](ranked_candidates.md) · [原有名单AP后续核查](baseline_ap.md) · [明确限制与暑期关闭](contact_constraints.md) · [访问问询入口](visitor_inquiries.md) · [评分说明](README.md)
 
-当前新增记录中有 **237 位**以公开准确职级列出的 AP；这里只核实了一部分入职日期，日期未知不等于资历较老。
+当前新增记录中有 **241 位**以公开准确职级列出的 AP；这里只核实了一部分入职日期，日期未知不等于资历较老。
 
 约八周是初步参考，未说明时长不会被排除。先看近期已到岗 AP，再看暑期前有明确任职日期的 AP；其他 AP 仍保留。明确至少三个月及较长访问偏好降序，硬性最短时长与偏好分开；明确不接收暑期/访客优先标记。
 
 工作排序暂以 **2024年起**作为约近两三年的范围，并单列2027暑期前已公告入职者；这是可调整的整理约定，不是年龄判断、用户硬性年限或接收概率。各层内部先按研究匹配，再按真机证据及原总分。原四项分数和发现时间均未改写。
 
-## 近期已到岗 AP（2024起）（37）
+## 近期已到岗 AP（2024起）（39）
 
 | 导师 / 学校 | 准确任职与入职证据 | 原分数：匹配/真机/访问/新鲜 | 访问与时点提醒 |
 |---|---|---|---|
@@ -23,6 +23,7 @@
 | [Mingyo Seo](batches/control-107.md#mingyo-seo) · University of Central Florida | Assistant Professor (joined fall 2026)；**2026秋（官方新教师公告；具体日未定）** [核查来源1](https://www.ece.ucf.edu/two-faculty-join-ece-department-for-fall-2026/) | 72（39/20/0/13） | **当前校园设备、2027容量、访客条件仍待确认；未声明首次faculty任职；受限真机证据：Verified prior-UT-Austin learned Panda/GR1 execution; physical20 cap; current UCF hardware unknown**；unknown · 无明确邀请或拒绝；时长未知 |
 | [Hiroyasu Tsukamoto](batches/control-108.md#hiroyasu-tsukamoto) · University of Illinois Urbana-Champaign | Assistant Professor (joined fall 2024); concurrent KAIST Visiting Professor；**2024秋常规AP；此前2023–24同校Adjunct AP** [核查来源1](https://aerospace.illinois.edu/directory/profile/hiroyasu) [核查来源2](https://aerospace.illinois.edu/news/73325) | 78（38/25/0/15） | **特定日本学生May–August实习已关闭，不扩大为全球访客禁令；一般MS询问和外校MS先例均未获访客分**；precedent-only · 特定暑期项目已关闭；未核实一般访客入口 |
 | [Neel P. Bhatt](batches/control-013.md#neel-p-bhatt) · University of Texas at Dallas | Assistant Professor；**Fall 2026; first-person homepage says August 2026** [核查来源1](https://syse.utdallas.edu/ourteam/staff/neel-p-bhatt/) [核查来源2](https://neel1302.github.io/) | 83（38/20/10/15） | **2026秋已到岗；有2027访客/实习邮件入口，时长、资金、主办类别和UTD设备仍待确认**；inquiry-only |
+| [Chen Tang](batches/control-118.md#chen-tang) · University of California, Los Angeles | Assistant Professor；**2025-11-01** [核查来源1](https://www.samueli.ucla.edu/new-faculty-2023-2026/) | 83（38/20/10/15） | **官方2025-11-01到岗；外校硕士可谈现场/远程，暑研按年度规则3月1日前交表；表单仅首屏已读、旧Berkeley页脚保留，后续时长/资金条件未知；受限真机证据：Current same-university collaborative learned Go2 navigation; shared physical 20**；inquiry-only |
 | [Yaxin Hu](batches/hri-027.md#yaxin-hu) · William & Mary | Assistant Professor；**2026** [核查来源1](https://cdsp.wm.edu/computerscience/about/news/cs@wm-welcomes-two-new-faculty.php) [核查来源2](https://catalog.wm.edu/officersofinstruction/) | 73（38/20/0/15） | **当前Fall2026/Spring/Fall2027是学位/组内招募；外校短访入口及新校设备未核**；unknown |
 | [Vittorio Giammarino](batches/control-109.md#vittorio-giammarino) · University of South Florida | Assistant Professor (joined August 2026); LEA Lab Director；**2026（官方）；8月（本人），CV所列首次faculty** [核查来源1](https://www.usf.edu/engineering/imse/faculty-hire2023.aspx) [核查来源2](https://vittoriogiammarino.github.io/) [核查来源3](https://vittoriogiammarino.github.io/cv/) | 73（38/20/0/15） | **现有MS/UG研究入口仅限USF本校，不等于全部访客拒绝；USF要求机构主资助，个人仅补充；受限真机证据：Verified May2026 prior-Purdue learned UR5e execution; physical20; current USF hardware unknown**；degree-only · 当前MS/UG段落仅限USF本校 |
 | [Tom Silver](batches/embodied-001.md#tom-silver) · Princeton University | Assistant Professor；**Fall 2025** [核查来源1](https://ece.princeton.edu/news/tom-silver-joins-princeton-faculty-expertise-robot-planning-and-learning) [核查来源2](https://prpl-group.com/) | 94（37/25/17/15） | **外校研究生可经VSRC询问；仅现场，按完整日历月安排；需提前4–6个月准备**；inquiry-only |
@@ -30,6 +31,7 @@
 | [Frederike Dümbgen](batches/control-113.md#frederike-dumbgen) · Carnegie Mellon University | Assistant Professor (2026 new-faculty cohort)；**2026（官方新教师记录；仅本人另报1月）** [核查来源1](https://engineering.cmu.edu/faculty-staff/professional-development/center-faculty-success/new-faculty-directory/index.html) [核查来源2](https://www.meche.engineering.cmu.edu/directory/bios/d%C3%BCmbgen-frederike.html) | 72（37/20/0/15） | **真实Crazyflie神经控制为CMU/Dartmouth合作；10/10完成包含一次触地恢复，不是无碰撞保证；一般MS询问未证明外校访客；受限真机证据：Actual learned onboard aerial control; current-advising collaboration, apparatus-site uncertainty; physical20**；unknown |
 | [Alexander (Sasha) Davydov](batches/control-111.md#alexander-sasha-davydov) · Rice University | Assistant Professor (July 1, 2025–)；**2025-07-01** [核查来源1](https://profiles.rice.edu/faculty/sasha-davydov) [核查来源2](https://engineering.rice.edu/news/rices-school-engineering-and-computing-welcomes-new-faculty) [核查来源3](https://davydovalexander.github.io/) | 70（37/20/0/13） | **2025-07-01新任；真实车辆实验在TRI且最早2024版本已有；Rice车辆和外校硕士访客未知；受限真机证据：Verified prior-TRI actual learned vehicle control, first preprint2024; physical20; Rice hardware unknown**；unknown |
 | [Md Tanzil Shahria](batches/hri-088.md#md-tanzil-shahria) · Lakeland University | Assistant Professor of Computer Science；**2026秋（官方新教师公告；具体月日未知）** [核查来源1](https://lakeland.edu/post/lakeland-university-welcomes-two-new-faculty-2026-08-17) | 67（37/20/0/10） | **前UWM视觉引导xArm6；Lakeland现有设备/外校硕士任命与当前邮箱均未核实，不沿用旧校邮件；受限真机证据：historical-or-indirect**；unknown |
+| [Lindsay Sanneman](batches/hri-107.md#lindsay-sanneman) · Arizona State University | Assistant Professor of Computer Science and Engineering；**2024–25官方新教师 cohort；2025-01为本人声明** [核查来源1](https://news.engineering.asu.edu/welcome/lindsay-sanneman/) [核查来源2](https://www.lindsaysanneman.com/home) | 67（37/20/0/10） | **旧MIT Baxter学习证据，当前ASU硬件未核；正式官方月份未定，当前邮箱未确认；一般学生招募不等于外校短访；受限真机证据：historical-or-indirect**；unknown |
 | [Serena Booth](batches/hri-103.md#serena-booth) · Brown University | Assistant Professor of Computer Science；**2025秋（2024官方预告；当前目录已确认）** [核查来源1](https://cs.brown.edu/people/faculty/sbooth3/) [核查来源2](https://cs.brown.edu/news/2024/11/08/serena-booth-joins-brown-cs-as-assistant-professor/) | 52（37/0/0/15） | **RLHF方法仅网格世界仿真；只核实PhD/postdoc招募，未见独立外校硕士访问入口；仅仿真；真机待核实**；unknown |
 | [Tsung-Chi Lin](batches/hri-023.md#tsung-chi-lin) · New Jersey Institute of Technology | Assistant Professor of Computer Science；**2025** [核查来源1](https://www.njit.edu/facultyaffairs/2025-new-faculty-research-showcase) | 76（36/25/0/15） | **MS/UG一般招募和2026外校访客先例；未核实当前独立短访入口，NJIT资金条件另核**；unknown |
 | [Yayun Du](batches/hri-014.md#yayun-du) · Vanderbilt University | Assistant Professor；**2024** [核查来源1](https://www.vanderbilt.edu/faculty-affairs/2024-new-faculty/) | 81（36/20/10/15） | **有明确短/长期访客询问；具体长度、外校硕士资格和2027资金未定；旧UCLA设备不等于当前Vanderbilt资源**；inquiry-only · 当前真机资源未确认 |
@@ -67,7 +69,7 @@
 | [Chenfeng Xu](batches/embodied-003.md#chenfeng-xu) · The University of Texas at Austin | Assistant Professor (faculty directory also uses incoming in biography)；**任职起始时间尚未单独核实**  | 73（39/20/0/14） | **时长、2027容量、经费与主办批准另核**；unknown |
 | [Karthik Mahadevan](batches/hri-003.md#karthik-mahadevan) · Massachusetts Institute of Technology (current postdoc); University of Texas at Austin (incoming Spring 2027) | Incoming Assistant Professor; current MIT postdoctoral researcher；**任职起始时间尚未单独核实**  | 73（38/20/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |
 
-## 其他 AP；较早任职、转校或入职年待核（190）
+## 其他 AP；较早任职、转校或入职年待核（192）
 
 | 导师 / 学校 | 准确任职与入职证据 | 原分数：匹配/真机/访问/新鲜 | 访问与时点提醒 |
 |---|---|---|---|
@@ -121,6 +123,7 @@
 | [Anushri Dixit](batches/control-004.md#anushri-dixit) · University of California, Los Angeles | Assistant Professor；**任职起始时间尚未单独核实**  | 78（39/25/0/14） | **时长、2027容量、经费与主办批准另核**；unknown |
 | [Somil Bansal](batches/control-001.md#somil-bansal) · Stanford University | Assistant Professor；**任职起始时间尚未单独核实**  | 87（39/23/10/15） | **时长、2027容量、经费与主办批准另核**；inquiry-only |
 | [Minghan Wei](batches/control-080.md#minghan-wei) · Florida Atlantic University | Assistant Professor; SIMA Lab lead；**任职起始时间尚未单独核实**  | 77（39/23/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |
+| [Yi Ding](batches/hri-107.md#yi-ding) · University of Texas at Dallas | Assistant Professor of Computer Science；**2023** [核查来源1](https://profiles.utdallas.edu/index.php/yi.ding) | 84（39/20/10/15） | **官方2023 AP，列次级；当前intern/visitor询问明确，既往硕士实习仅作先例；UR7e来自合作项目，场地与2027时长/资金未定；受限真机证据：historical-or-indirect**；inquiry-only |
 | [Kaylene Stocking](batches/embodied-009.md#kaylene-stocking) · Toyota Technological Institute at Chicago | Research Assistant Professor；**任职起始时间尚未单独核实**  | 79（39/20/5/15） | **时长、2027容量、经费与主办批准另核**；inquiry-only · 通常12–15周，8周未确认 |
 | [Xusheng Luo](batches/embodied-011.md#xusheng-luo) · North Carolina State University | Assistant Professor；**任职起始时间尚未单独核实**  | 79（39/20/5/15） | **时长、2027容量、经费与主办批准另核**；inquiry-only |
 | [Haimin Hu](batches/control-002.md#haimin-hu) · Johns Hopkins University | Assistant Professor；**任职起始时间尚未单独核实**  | 74（39/20/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |
@@ -140,6 +143,7 @@
 | [Kathleen Candon](batches/hri-061.md#kathleen-candon) · Skidmore College | Assistant Professor of Computer Science；**任职起始时间尚未单独核实**  | 74（39/20/0/15） | **时长、2027容量、经费与主办批准另核**；unknown · internal Skidmore summer program only |
 | [Biwei Huang](batches/embodied-064.md#biwei-huang) · University of California San Diego | Assistant Professor；**任职起始时间尚未单独核实**  | 74（39/20/0/15） | **时长、2027容量、经费与主办批准另核**；degree-only |
 | [Xi Yu](batches/control-072.md#xi-yu) · Arizona State University | Assistant Professor; AMASS Laboratory；**任职起始时间尚未单独核实**  | 74（39/20/0/15） | **时长、2027容量、经费与主办批准另核**；degree-only · dated SURI 2026 |
+| [Lingfeng Tao](batches/embodied-098.md#lingfeng-tao) · Kennesaw State University | Assistant Professor of Robotics and Mechatronics Engineering；**2025-08转入KSU；此前Oklahoma State AP2023** [核查来源1](https://www.kennesaw.edu/news/stories/2026/researcher-seeks-help-robots-more-human.php) [核查来源2](https://news.okstate.edu/articles/communications/2023/regents_approve_personnel_actions_april23) | 74（39/20/0/15） | **转校非首次faculty；实际Allegro来自旧合作，后续方法多为仿真；未核访客邀请，KSU有薪/无薪规则冲突**；unknown |
 | [Ranjay Krishna](batches/embodied-003.md#ranjay-krishna) · University of Washington | Assistant Professor；**任职起始时间尚未单独核实**  | 73（39/20/0/14） | **时长、2027容量、经费与主办批准另核**；unknown |
 | [Lu Gan](batches/control-006.md#lu-gan) · Georgia Institute of Technology | Assistant Professor；**任职起始时间尚未单独核实**  | 69（39/20/0/10） | **时长、2027容量、经费与主办批准另核**；unknown |
 | [Michelle Zhao](batches/hri-062.md#michelle-zhao) · Indiana University Bloomington | Assistant Professor of Computer Science；**任职起始时间尚未单独核实**  | 69（39/20/0/10） | **时长、2027容量、经费与主办批准另核**；degree-only · current IU students |
@@ -385,3 +389,9 @@
 - Yan Zeng：[来源](https://www.yan-zeng.com/team) · Full current academic history: Vanderbilt2026, FSU2024–2026; graduate/master advising is not outside-visitor evidence.（核查 2026-10-01T12:45:34Z）
 - Mingyu Ding：[来源](https://cs.unc.edu/news-article/unc-cs-announces-new-chair-7-new-faculty-additions/) · Dated official 2024 cohort announces Mingyu Ding among Assistant Professors; current role independently confirmed.（核查 2026-10-01T13:36:55Z）
 - Mingyu Ding：[来源](https://cs.unc.edu/person/mingyu-ding/) · Current official Assistant Professor of Computer Science profile.（核查 2026-10-01T13:36:55Z）
+- Chen Tang：[来源](https://www.samueli.ucla.edu/new-faculty-2023-2026/) · Official exact November 1, 2025 start in Civil and Environmental Engineering after UT Austin postdoc.（核查 2026-10-01T13:43:15Z）
+- Yi Ding：[来源](https://profiles.utdallas.edu/index.php/yi.ding) · Official current Assistant Professor, CS affiliation, linked personal site and 2023–present appointment.（核查 2026-10-01T13:35:26Z）
+- Lindsay Sanneman：[来源](https://news.engineering.asu.edu/welcome/lindsay-sanneman/) · Official 2024–25 new-faculty profile, research scope and spring teaching plan; employment month not specified.（核查 2026-10-01T13:34:37Z）
+- Lindsay Sanneman：[来源](https://www.lindsaysanneman.com/home) · First-person January 2025 start and generic student recruitment, prior MIT role.（核查 2026-10-01T13:35:26Z）
+- Lingfeng Tao：[来源](https://www.kennesaw.edu/news/stories/2026/researcher-seeks-help-robots-more-human.php) · Full January 27, 2026 report says he joined in August, establishing August 2025; current Marietta lab development and learned dexterous-control agenda. Not a visitor offer.（核查 2026-10-01T13:20:34Z）
+- Lingfeng Tao：[来源](https://news.okstate.edu/articles/communications/2023/regents_approve_personnel_actions_april23) · Official2023 appointment approval lists Lingfeng Tao as Assistant Professor of Engineering Technology; previousfaculty role, so2025 is a move.（核查 2026-10-01T13:23:15Z）

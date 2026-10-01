@@ -2,11 +2,11 @@
 
 [新AP优先视图](ap_priority.md) · [全部候选偏好排序](ranked_candidates.md) · [原名单AP后续核查](baseline_ap.md) · [原始索引](mentor_candidates.json) · [机构规则](eligibility_notes.md) · [原200位后续补充](baseline_addenda.md)
 
-从现有记录筛出 **112 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。
+从现有记录筛出 **114 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。
 
 本页各类入口内按已核实任职与限制分层：新AP优先，明确长时段偏好/最低期限靠后；同层按研究匹配、真机、短访、新鲜度及发现时间。约八周不是硬筛选；不把一般询问、学校制度或个人自费能力当成已获资格。所有人的主办类别、具体时长、2027容量、经费和设备访问都需确认。具体奖学金要求、无资助、时间不匹配、任职时点及证据限制优先看下列加粗提示，再读完整资料。
 
-## 访问/短期研究问询线索（现场安排仍须确认） · 102 条
+## 访问/短期研究问询线索（现场安排仍须确认） · 104 条
 
 | 导师 / 机构 | 匹配 / 真机 / 短访 | 已知限制与证据状态 | 直接来源 / 机构规则 | 记录核查 UTC |
 |---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Jun Gao](batches/embodied-094.md#jun-gao) · University of Michigan–Ann Arbor | 39/20/8 | **官方2026-01与本人CV2025-08入职冲突；独立访客邀请在大学托管页面，硕士/时长/经费未知；Franka为合作平台** | [s1](https://midas.umich.edu/directory/jun-gao/) [s2](https://news.engin.umich.edu/2025/08/strengthening-research-and-education-with-new-michigan-engineering-faculty-hires/) [s3](https://j-lab.ai/pdf/jungao_cv.pdf) [s4](https://www.cs.toronto.edu/~jungao/students.html) [s5](https://arxiv.org/html/2606.02551v1) [s6](https://www.zhaoningwang.com/AFUN/) [规则](eligibility_notes.md#michigan-ann-arbor) | 2026-10-01T12:39:50Z |
 | [Homanga Bharadhwaj](batches/control-002.md#homanga-bharadhwaj) · Johns Hopkins University | 39/20/5 | **非JHU短期访客入口；表单故障，当前替代联络办法见详情** | [s2](https://b3.cs.jhu.edu/) | 2026-09-30T21:56:57Z |
 | [Neel P. Bhatt](batches/control-013.md#neel-p-bhatt) · University of Texas at Dallas | 38/20/10 | **公开问询入口；详细资格与期限未定** | [s2](https://neel1302.github.io/) | 2026-09-30T22:55:17Z |
+| [Chen Tang](batches/control-118.md#chen-tang) · University of California, Los Angeles | 38/20/10 | **官方2025-11-01到岗；外校硕士可谈现场/远程，暑研按年度规则3月1日前交表；表单仅首屏已读、旧Berkeley页脚保留，后续时长/资金条件未知；受限真机证据：Current same-university collaborative learned Go2 navigation; shared physical 20** | [s1](https://www.samueli.ucla.edu/new-faculty-2023-2026/) [s3](https://chentangmark.github.io/lab/join/) [s4](https://arxiv.org/html/2602.02459v1) [s8](https://docs.google.com/forms/d/e/1FAIpQLScDJI7xuXjnaC-SRex2ZEWvLVZBpClWqQUPAwTjnmmXdbSDfQ/viewform) [规则](eligibility_notes.md#ucla-vgr) | 2026-10-01T13:46:58Z |
 | [Tom Silver](batches/embodied-001.md#tom-silver) · Princeton University | 37/25/17 | **公开问询入口；详细资格与期限未定** | [s2](https://prpl-group.com/) | 2026-09-30T21:28:42Z |
 | [Yayun Du](batches/hri-014.md#yayun-du) · Vanderbilt University | 36/20/10 | **inquiry-only · 当前真机资源未确认** | [s2](https://duyayun.github.io/opportunity.html) | 2026-09-30T23:14:47Z |
 | [Feng Liu](batches/hri-097.md#feng-liu) · Drexel University | 36/0/10 | **2024秋新AP；有独立硕士项目实习询问，10–12周只是例子；硕士远程未明确、可能无薪；空间人类动作方法备选，无机器人执行；真机待核实** | [s1](https://drexel.edu/cci/about/directory/L/Liu-Feng/) [s2](https://drexel.edu/cci/news/2024/September/new-faculty-join-cci/) [s3](https://liufeng2915.github.io/) [s4](https://vilab-group.com/) [s5](https://arxiv.org/html/2603.26938v1) [规则](eligibility_notes.md#drexel) | 2026-10-01T12:21:29Z |
@@ -39,6 +40,7 @@
 | [Zhiwen Fan](batches/embodied-023.md#zhiwen-fan) · Texas A&M University | 39/25/5 | **intern要求US-based；是否限制海外visitor未定，不推断国籍** | [s2](https://phai-lab.github.io/) [s3](https://phai-lab.github.io/opening.html) | 2026-10-01T00:19:26Z |
 | [Daniel Seita](batches/embodied-001.md#daniel-seita) · University of Southern California | 39/25/5 | **极少接收；目前无资助；需0.5–1页项目构想** | [s2](https://slurm-lab-usc.github.io/getting_involved/) | 2026-09-30T21:28:42Z |
 | [Somil Bansal](batches/control-001.md#somil-bansal) · Stanford University | 39/23/10 | **公开问询入口；详细资格与期限未定** | [s3](https://smlbansal.github.io/sia-lab/index.html) [s4](https://smlbansal.github.io/sia-lab/joinus.html) | 2026-09-30T21:24:34Z |
+| [Yi Ding](batches/hri-107.md#yi-ding) · University of Texas at Dallas | 39/20/10 | **官方2023 AP，列次级；当前intern/visitor询问明确，既往硕士实习仅作先例；UR7e来自合作项目，场地与2027时长/资金未定；受限真机证据：historical-or-indirect** | [s1](https://profiles.utdallas.edu/index.php/yi.ding) [s2](https://yi-ding.me/) [s4](https://arxiv.org/html/2604.11351v1) [s5](https://yi-ding.me/group/) [规则](eligibility_notes.md#ut-dallas) | 2026-10-01T13:37:30Z |
 | [Kaylene Stocking](batches/embodied-009.md#kaylene-stocking) · Toyota Technological Institute at Chicago | 39/20/5 | **通常12–15周；八周未确认；经TTIC项目联系** | [s3](https://ttic.edu/ripl/) [s4](https://www.ttic.edu/visiting-student/) [s5](https://ttic.edu/news/) | 2026-09-30T22:44:51Z |
 | [Xusheng Luo](batches/embodied-011.md#xusheng-luo) · North Carolina State University | 39/20/5 | **公开问询入口；详细资格与期限未定** | [s3](https://xushengluo92.github.io/prospective.html) | 2026-09-30T22:50:54Z |
 | [Jiachen Li](batches/embodied-006.md#jiachen-li) · Georgia Institute of Technology | 38/25/8 | **公开问询入口；详细资格与期限未定** | [s3](https://tasl-lab.github.io/join/) | 2026-09-30T22:06:50Z |

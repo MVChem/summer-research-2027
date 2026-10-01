@@ -112,6 +112,7 @@
     "batches/control-111.json",
     "batches/control-113.json",
     "batches/control-114.json",
+    "batches/control-118.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -205,6 +206,7 @@
     "batches/embodied-095.json",
     "batches/embodied-096.json",
     "batches/embodied-097.json",
+    "batches/embodied-098.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -302,7 +304,8 @@
     "batches/hri-099.json",
     "batches/hri-100.json",
     "batches/hri-101.json",
-    "batches/hri-103.json"
+    "batches/hri-103.json",
+    "batches/hri-107.json"
   ],
   "candidates": [
     {
@@ -5909,6 +5912,34 @@
       "detailPage": "batches/control-114.md#wei-wang"
     },
     {
+      "id": "chen-tang",
+      "name": "Chen Tang",
+      "aliases": [],
+      "school": "University of California, Los Angeles",
+      "title": "Assistant Professor",
+      "homepage": "https://chentangmark.github.io/",
+      "batch": "control-118",
+      "discoveredAt": "2026-10-01T13:40:31Z",
+      "verifiedAt": "2026-10-01T13:46:58Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 10,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Vision-language-action navigation",
+        "Safe robot learning and control",
+        "Human-centered autonomy",
+        "Reinforcement and imitation learning"
+      ],
+      "physicalEvidenceStatus": "Current same-university collaborative learned Go2 navigation; shared physical 20",
+      "physicalEvidenceLabel": "受限真机证据：Current same-university collaborative learned Go2 navigation; shared physical 20",
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/control-118.json",
+      "detailPage": "batches/control-118.md#chen-tang"
+    },
+    {
       "id": "tom-silver",
       "name": "Tom Silver",
       "aliases": [],
@@ -10745,6 +10776,32 @@
       "shortVisitStatus": "inquiry-only",
       "recordFile": "batches/embodied-097.json",
       "detailPage": "batches/embodied-097.md#sotirios-d-nousias"
+    },
+    {
+      "id": "lingfeng-tao",
+      "name": "Lingfeng Tao",
+      "aliases": [],
+      "school": "Kennesaw State University",
+      "title": "Assistant Professor of Robotics and Mechatronics Engineering",
+      "homepage": "https://facultyweb.kennesaw.edu/ltao2/",
+      "batch": "embodied-098",
+      "discoveredAt": "2026-10-01T13:15:39Z",
+      "verifiedAt": "2026-10-01T13:23:15Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Deep reinforcement learning for dexterous in-hand manipulation",
+        "Sim-to-real and sensing reduction",
+        "Visuotactile representation and diffusion-policy manipulation"
+      ],
+      "discoveryTimestampNote": "First precisely retained individual lead was a secondary recruiting index; later official role/publication checks establish identity. The index is not evidence of a visitor offer.",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-098.json",
+      "detailPage": "batches/embodied-098.md#lingfeng-tao"
     },
     {
       "id": "henny-admoni",
@@ -15698,6 +15755,62 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-103.json",
       "detailPage": "batches/hri-103.md#serena-booth"
+    },
+    {
+      "id": "yi-ding",
+      "name": "Yi Ding",
+      "aliases": [],
+      "school": "University of Texas at Dallas",
+      "title": "Assistant Professor of Computer Science",
+      "homepage": "https://yi-ding.me/",
+      "batch": "hri-107",
+      "discoveredAt": "2026-10-01T13:29:32Z",
+      "verifiedAt": "2026-10-01T13:37:30Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 10,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "World models for robot learning",
+        "Imitation learning and recovery data",
+        "Vision-language-action policies",
+        "Embodied and multimodal sensing"
+      ],
+      "physicalEvidenceStatus": "historical-or-indirect",
+      "physicalEvidenceLabel": "受限真机证据：historical-or-indirect",
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/hri-107.json",
+      "detailPage": "batches/hri-107.md#yi-ding"
+    },
+    {
+      "id": "lindsay-sanneman",
+      "name": "Lindsay Sanneman",
+      "aliases": [],
+      "school": "Arizona State University",
+      "title": "Assistant Professor of Computer Science and Engineering",
+      "homepage": "https://www.lindsaysanneman.com/home",
+      "batch": "hri-107",
+      "discoveredAt": "2026-10-01T13:34:09Z",
+      "verifiedAt": "2026-10-01T13:39:13Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Human-robot learning and collaboration",
+        "Explainable AI and reward alignment",
+        "Human-centered robot autonomy",
+        "VR-mediated demonstrations"
+      ],
+      "physicalEvidenceStatus": "historical-or-indirect",
+      "physicalEvidenceLabel": "受限真机证据：historical-or-indirect",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-107.json",
+      "detailPage": "batches/hri-107.md#lindsay-sanneman"
     }
   ]
 }

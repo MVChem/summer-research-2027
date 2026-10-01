@@ -1150,3 +1150,15 @@ Part II第5页允许全额个人资金，但要求境外大学/研究机构关�
 
 核查 2026-10-01T12:27:59Z。[官方学者访问流程](https://international.appstate.edu/international-scholars) 要求导师/系与 ISSSO 先审查类别和资格，至少提前三个月准备。可提交个人或私人资助证明；资金总额、费用及保险报价须个别确认。指定学者类别强制 GeoBlue，不接受替代保险。短期学者类别最长六个月，但没有明确外校硕士实习条款；禁止以此流程在 App State 全日制入学不等于禁止在本校继续攻读学位。不能据此推定访问录取或导师名额。
 
+
+<a id="kennesaw-state"></a>
+## Kennesaw State · 境外在读研究生有正式 Student Intern 路径；无薪规则须书面澄清
+
+核查2026-10-01T13:20:34Z。[现行 Student Intern 页面](https://campus.kennesaw.edu/current-students/academics/global-education/international-student-scholar-services/j-1/student-interns.php)面向境外大学在读学生，要求项目符合原学位目标、由导师安排，32–40小时/周、校内活动，时长3周至1年。约八周落在制度范围，但不代表导师接收；该路径不支持以远程活动替代校内要求。
+
+[官方申请包](https://campus.kennesaw.edu/current-students/academics/global-education/international-student-scholar-services/j-1/docs/student-intern-process-and-application-form.docx)有 Graduate 类别，要求访问后继续完成原学位，并列个人/家庭等资金来源、每月2,000美元财力证明、150美元申请费及最长约3个月办理提示。文件含旧系统/费用说明，2027金额与流程须重新确认。
+
+重要冲突：网页活动规则写必须按HR标准支付、至少7.25美元/小时；同页链接的[教职工流程](https://campus.kennesaw.edu/current-students/academics/global-education/international-student-scholar-services/j-1/docs/j-1-student-intern-process-for-faculty-host.docx)和[无薪邀请模板](https://campus.kennesaw.edu/current-students/academics/global-education/international-student-scholar-services/j-1/docs/non-paid-student-intern-invitation-letter.docx)却明确列无薪安排。因此个人资金有表格依据，但无薪任职是否可用、当前最低金额、HR/ISSS及院系批准必须书面核实，不能宣称自费已获准。学校不提供该类实习生校内住宿。
+
+[Scholar 类别](https://campus.kennesaw.edu/current-students/academics/global-education/international-student-scholar-services/j-1/basics.php)另要求已获硕士或本科学位加充分相关经验，由ISSS确定类别；在读硕士不应自动视为符合此替代类别。
+

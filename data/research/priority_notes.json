@@ -1458,6 +1458,112 @@
           "evidence": "Current official Assistant Professor of Computer Science profile."
         }
       ]
+    },
+    "chen-tang": {
+      "appointmentStart": {
+        "year": 2025,
+        "month": 11,
+        "day": 1,
+        "precision": "day",
+        "status": "current",
+        "sourceIds": [
+          "s1"
+        ],
+        "evidence": "Official UCLA 2023–2026 faculty cohort lists Start Date: Nov. 1, 2025, previously a UT Austin postdoc.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2025-11-01",
+      "caveat": "官方2025-11-01到岗；外校硕士可谈现场/远程，暑研按年度规则3月1日前交表；表单仅首屏已读、旧Berkeley页脚保留，后续时长/资金条件未知",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.samueli.ucla.edu/new-faculty-2023-2026/",
+          "observedAt": "2026-10-01T13:43:15Z",
+          "evidence": "Official exact November 1, 2025 start in Civil and Environmental Engineering after UT Austin postdoc."
+        }
+      ]
+    },
+    "yi-ding": {
+      "appointmentStart": {
+        "year": 2023,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "s1"
+        ],
+        "evidence": "Official UT Dallas appointments section states Assistant Professor, 2023–present. This is outside the verified 2024–26 new-hire priority band.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2023",
+      "caveat": "官方2023 AP，列次级；当前intern/visitor询问明确，既往硕士实习仅作先例；UR7e来自合作项目，场地与2027时长/资金未定",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://profiles.utdallas.edu/index.php/yi.ding",
+          "observedAt": "2026-10-01T13:35:26Z",
+          "evidence": "Official current Assistant Professor, CS affiliation, linked personal site and 2023–present appointment."
+        }
+      ]
+    },
+    "lindsay-sanneman": {
+      "appointmentStart": {
+        "year": 2025,
+        "month": 1,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "s2",
+          "s3"
+        ],
+        "evidence": "January 2025 is explicitly first-person reported on the PI homepage. Official university sources independently verify membership in the 2024–25 new-faculty cohort and planned spring teaching, but do not independently specify the employment month; keep that provenance distinction.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2024–25官方新教师 cohort；2025-01为本人声明",
+      "caveat": "旧MIT Baxter学习证据，当前ASU硬件未核；正式官方月份未定，当前邮箱未确认；一般学生招募不等于外校短访",
+      "sources": [
+        {
+          "id": "s2",
+          "url": "https://news.engineering.asu.edu/welcome/lindsay-sanneman/",
+          "observedAt": "2026-10-01T13:34:37Z",
+          "evidence": "Official 2024–25 new-faculty profile, research scope and spring teaching plan; employment month not specified."
+        },
+        {
+          "id": "s3",
+          "url": "https://www.lindsaysanneman.com/home",
+          "observedAt": "2026-10-01T13:35:26Z",
+          "evidence": "First-person January 2025 start and generic student recruitment, prior MIT role."
+        }
+      ]
+    },
+    "lingfeng-tao": {
+      "appointmentStart": {
+        "year": 2025,
+        "month": 8,
+        "precision": "month",
+        "status": "current",
+        "appointmentType": "institution-move",
+        "sourceIds": [
+          "s2",
+          "s3"
+        ],
+        "evidence": "January2026 official report dates Kennesaw arrival to the preceding August; Oklahoma State officially approved his Assistant Professor appointment in2023. This is a recent institutional move,not firstfacultyservice."
+      },
+      "display": "2025-08转入KSU；此前Oklahoma State AP2023",
+      "caveat": "转校非首次faculty；实际Allegro来自旧合作，后续方法多为仿真；未核访客邀请，KSU有薪/无薪规则冲突",
+      "sources": [
+        {
+          "id": "s2",
+          "url": "https://www.kennesaw.edu/news/stories/2026/researcher-seeks-help-robots-more-human.php",
+          "observedAt": "2026-10-01T13:20:34Z",
+          "evidence": "Full January 27, 2026 report says he joined in August, establishing August 2025; current Marietta lab development and learned dexterous-control agenda. Not a visitor offer."
+        },
+        {
+          "id": "s3",
+          "url": "https://news.okstate.edu/articles/communications/2023/regents_approve_personnel_actions_april23",
+          "observedAt": "2026-10-01T13:23:15Z",
+          "evidence": "Official2023 appointment approval lists Lingfeng Tao as Assistant Professor of Engineering Technology; previousfaculty role, so2025 is a move."
+        }
+      ]
     }
   },
   "constraints": [

@@ -108,7 +108,8 @@
     "batches/hri-028.json",
     "batches/hri-029.json",
     "batches/hri-030.json",
-    "batches/hri-031.json"
+    "batches/hri-031.json",
+    "batches/hri-032.json"
   ],
   "candidates": [
     {
@@ -8018,6 +8019,35 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-031.json",
       "detailPage": "batches/hri-031.md#pranav-bhounsule"
+    },
+    {
+      "id": "katia-sycara",
+      "name": "Katia Sycara",
+      "aliases": [
+        "Katia P. Sycara"
+      ],
+      "school": "Carnegie Mellon University",
+      "title": "Edward Fredkin Research Professor; Associate Director of Faculty",
+      "homepage": "https://www.ri.cmu.edu/ri-faculty/katia-sycara/",
+      "batch": "hri-032",
+      "discoveredAt": "2026-10-01T01:35:53Z",
+      "verifiedAt": "2026-10-01T01:38:52Z",
+      "scores": {
+        "fit": 38,
+        "physical": 24,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human–robot teaming",
+        "Multi-agent reinforcement learning",
+        "3D spatial reasoning",
+        "Vision-language robot planning",
+        "Human-autonomy collaboration"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-032.json",
+      "detailPage": "batches/hri-032.md#katia-sycara"
     }
   ]
 }

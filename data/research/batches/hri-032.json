@@ -1,0 +1,103 @@
+[
+  {
+    "id": "katia-sycara",
+    "name": "Katia Sycara",
+    "aliases": [
+      "Katia P. Sycara"
+    ],
+    "school": "Carnegie Mellon University",
+    "homepage": "https://www.ri.cmu.edu/ri-faculty/katia-sycara/",
+    "title": "Edward Fredkin Research Professor; Associate Director of Faculty",
+    "department": "Robotics Institute, School of Computer Science",
+    "batch": "hri-032",
+    "discoveredAt": "2026-10-01T01:35:53Z",
+    "verifiedAt": "2026-10-01T01:38:52Z",
+    "researchAreas": [
+      "Human–robot teaming",
+      "Multi-agent reinforcement learning",
+      "3D spatial reasoning",
+      "Vision-language robot planning",
+      "Human-autonomy collaboration"
+    ],
+    "fitReason": "Combines human–robot collaboration and multi-agent AI with current vision-language/3D spatial methods. A focused spatial grounding or robot decision-making study is a plausible research fit, without implying a current visitor opening.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The March 1, 2026 pySpatial primary paper and ICLR 2026 project demonstrate an actual Unitree Go1 navigating a two-room, 50-square-meter laboratory from sparse images toward a target object. MLLM-generated Python invokes reconstruction, pose recovery and novel-view tools. Crucially, the high-level position plan is manually converted into timed velocity targets for the robot controller; this is physical plan execution, not fully autonomous end-to-end closed-loop navigation.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current RI faculty and lab pages establish an active group with graduate researchers and public contact details. Neither the reviewed faculty homepage nor the lab pages provide a specific external short-visit invitation. Historical visitors or RISS mentor precedent do not establish external-master’s eligibility or summer 2027 availability.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 24,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "38/40: strong HRI, multi-agent learning and 3D grounded reasoning overlap.",
+      "physical": "24/25: directly documented current Go1 execution, limited by manual command conversion and qualitative evaluation.",
+      "shortVisit": "0/20: no explicit current external visiting route verified.",
+      "freshness": "15/15: substantive March 2026 primary physical-robot study."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.ri.cmu.edu / source 1",
+        "url": "https://www.ri.cmu.edu/ri-faculty/katia-sycara/",
+        "summary": "Current institutional profile verifies faculty title, department, public email, HRI/multi-agent research and current graduate researchers.",
+        "verifiedAt": "2026-10-01T01:38:52Z"
+      },
+      {
+        "id": "s2",
+        "label": "arxiv.org / source 2",
+        "url": "https://arxiv.org/html/2603.00905v1",
+        "summary": "Full March 2026 primary manuscript §4.4 verifies actual Go1 execution and explicitly discloses manual conversion from high-level position commands to temporal velocity targets.",
+        "verifiedAt": "2026-10-01T01:38:52Z"
+      },
+      {
+        "id": "s3",
+        "label": "pyspatial.github.io / source 3",
+        "url": "https://pyspatial.github.io/",
+        "summary": "Author-controlled ICLR 2026 project corroborates coauthorship, method and quadruped application.",
+        "verifiedAt": "2026-10-01T01:38:52Z"
+      },
+      {
+        "id": "s4",
+        "label": "www.ri.cmu.edu / source 4",
+        "url": "https://www.ri.cmu.edu/robotics-groups/advanced-agent-robotics-technology-lab/",
+        "summary": "Current university group page lists Sycara as head and current researchers; no external short-visit invitation.",
+        "verifiedAt": "2026-10-01T01:38:52Z"
+      },
+      {
+        "id": "s5",
+        "label": "www.cs.cmu.edu / source 5",
+        "url": "https://www.cs.cmu.edu/~sycara/",
+        "summary": "Faculty-hosted homepage describes research and contact; older project entries are not treated as new research or current visiting availability.",
+        "verifiedAt": "2026-10-01T01:38:52Z"
+      }
+    ],
+    "unknowns": [
+      "Research Professor is the verified university faculty title; do not change it to a tenure-line rank.",
+      "The robot demonstration uses a manual command-conversion step and qualitative navigation evidence.",
+      "Host capacity, approximately eight weeks, current equipment access, summer presence, appointment and funding remain unconfirmed.",
+      "CMU institutional visitor policies do not establish a lab-specific invitation, and undergraduate program eligibility must not be generalized to master’s visitors.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "sycara@andrew.cmu.edu"
+  }
+]

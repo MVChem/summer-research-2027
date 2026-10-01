@@ -81,6 +81,7 @@
     "batches/embodied-036.json",
     "batches/embodied-037.json",
     "batches/embodied-038.json",
+    "batches/embodied-039.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -5514,6 +5515,34 @@
       "shortVisitStatus": "inquiry-only",
       "recordFile": "batches/embodied-038.json",
       "detailPage": "batches/embodied-038.md#sijia-liu"
+    },
+    {
+      "id": "ibrahim-volkan-isler",
+      "name": "Ibrahim Volkan Isler",
+      "aliases": [
+        "Volkan Isler"
+      ],
+      "school": "The University of Texas at Austin",
+      "title": "Professor",
+      "homepage": "https://www.cs.utexas.edu/~isler/",
+      "batch": "embodied-039",
+      "discoveredAt": "2026-10-01T01:33:02Z",
+      "verifiedAt": "2026-10-01T01:41:35Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Learned motion planning",
+        "Perception-action coupling",
+        "Robot manipulation",
+        "Agricultural and home robotics"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-039.json",
+      "detailPage": "batches/embodied-039.md#ibrahim-volkan-isler"
     },
     {
       "id": "henny-admoni",

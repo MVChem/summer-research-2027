@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ibrahim-volkan-isler",
+    "name": "Ibrahim Volkan Isler",
+    "aliases": [
+      "Volkan Isler"
+    ],
+    "school": "The University of Texas at Austin",
+    "homepage": "https://www.cs.utexas.edu/~isler/",
+    "title": "Professor",
+    "department": "Computer Science",
+    "batch": "embodied-039",
+    "discoveredAt": "2026-10-01T01:33:02Z",
+    "verifiedAt": "2026-10-01T01:41:35Z",
+    "researchAreas": [
+      "Learned motion planning",
+      "Perception-action coupling",
+      "Robot manipulation",
+      "Agricultural and home robotics"
+    ],
+    "fitReason": "C-Free-Uniform learns map-conditioned trajectory distributions and integrates them with physical navigation control. This offers a concrete neural planning project for a CS researcher, while the broader group also studies manipulation and active perception.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The October 2025 C-Free-Uniform paper reports a custom 1/5-scale Ackermann robot with RPLIDAR S2, Jetson AGX Orin and Vicon state estimation. A U-Net/MLP learned sampler runs inside a 10 Hz controller; the physical test uses ten trials per controller/budget in a constrained indoor course. The current lab page names its authors as Isler’s PhD students. Both UT and Minnesota appear in the paper, and the inspected sources do not settle where the experimental robot is now available, so physical credit is capped at 20.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current explicit external summer-intern or visiting-master’s invitation was found on the inspected faculty and lab pages. An invitation to discuss research and historical international visitors do not establish a current short-visit opening.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct learned planning and physical navigation, with a broader algorithmic robotics emphasis rather than a dedicated VLA lab.",
+      "physical": "Detailed current-group hardware experiments, but access at the new UT campus is not explicitly established.",
+      "shortVisit": "No current external short-visit invitation; historical visitors supply no opportunity points.",
+      "freshness": "Explicit April 2026 research preprint and current UT appointment, while learned physical sampler evidence is honestly dated 2025."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.cs.utexas.edu / source 1",
+        "url": "https://www.cs.utexas.edu/people/faculty-researchers/volkan-isler",
+        "summary": "Direct current Professor appointment, CS affiliation, lab and public professional email.",
+        "verifiedAt": "2026-10-01T01:41:35Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "www.cs.utexas.edu / source 2",
+        "url": "https://www.cs.utexas.edu/~isler/",
+        "summary": "Current research areas and ICRA 2026 listing for C-Free-Uniform; no dedicated visitor invitation.",
+        "verifiedAt": "2026-10-01T01:41:35Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "www.cs.utexas.edu / source 3",
+        "url": "https://www.cs.utexas.edu/~isler/isler-cv.pdf",
+        "summary": "CV revised April 27, 2026 confirms UT appointment from 2025 and prior Minnesota appointment through 2024.",
+        "verifiedAt": "2026-10-01T01:41:35Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "rsn.cs.utexas.edu / source 4",
+        "url": "https://rsn.cs.utexas.edu/",
+        "summary": "Lab explicitly states it is now part of UT Austin CS and Texas Robotics.",
+        "verifiedAt": "2026-10-01T01:41:35Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "rsn.cs.utexas.edu / source 5",
+        "url": "https://rsn.cs.utexas.edu/people.html",
+        "summary": "Current students include C-Free-Uniform authors. Historical visitor list does not establish current availability.",
+        "verifiedAt": "2026-10-01T01:41:35Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2510.16905v1",
+        "summary": "October 19, 2025 primary learned sampler study; Section VI distinguishes simulation results from the actual Ackermann robot protocol.",
+        "verifiedAt": "2026-10-01T01:41:35Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s7",
+        "label": "arxiv.org / source 7",
+        "url": "https://arxiv.org/html/2604.12149v1",
+        "summary": "April 13, 2026 UGE-MPC primary paper; actual vehicle tests with five trials per method, stochastic optimization rather than learned control.",
+        "verifiedAt": "2026-10-01T01:41:35Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "The current appointment is UT Austin, not the former Minnesota role. Current official faculty profile and April 2026 CV agree.",
+      "The C-Free-Uniform preprint is dated October 2025 despite the current homepage listing ICRA 2026. Its headline 57.4 versus 33.0 percent result is simulation. Physical tests are a small fixed indoor course; motion capture supplies state estimation.",
+      "The April 2026 UGE-MPC paper supplies fresh research activity and another actual 1/5-scale vehicle experiment. Its method is stochastic optimization rather than a newly learned policy. Five trials per method showed no significant performance gap over log-MPPI; it is not evidence of universal superiority.",
+      "The existing UT Austin institutional audit supports a possible overseas-degree Student Intern pathway, but the exact foreign-master’s appointment, Student Intern personal-funding rule and eight-week classification remain unresolved. The separate scholar personal-funding rule must not be transferred automatically. CS recommends three to four months of international preparation.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "isler@cs.utexas.edu"
+  }
+]

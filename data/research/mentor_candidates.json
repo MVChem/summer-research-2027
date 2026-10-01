@@ -112,6 +112,7 @@
     "batches/embodied-048.json",
     "batches/embodied-049.json",
     "batches/embodied-050.json",
+    "batches/embodied-051.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -6514,6 +6515,35 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-050.json",
       "detailPage": "batches/embodied-050.md#ryan-l-truby"
+    },
+    {
+      "id": "junyi-geng",
+      "name": "Junyi Geng",
+      "aliases": [
+        "Junyi (Jenny) Geng",
+        "Jenny Geng"
+      ],
+      "school": "The Pennsylvania State University",
+      "title": "Assistant Professor",
+      "homepage": "https://ari-psu.github.io/",
+      "batch": "embodied-051",
+      "discoveredAt": "2026-10-01T03:09:16Z",
+      "verifiedAt": "2026-10-01T03:12:19Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Aerial manipulation",
+        "Diffusion-policy imitation learning",
+        "Embodied perception and whole-body control",
+        "Learning-based robot planning"
+      ],
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/embodied-051.json",
+      "detailPage": "batches/embodied-051.md#junyi-geng"
     },
     {
       "id": "henny-admoni",

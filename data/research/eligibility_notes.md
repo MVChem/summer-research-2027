@@ -1069,3 +1069,19 @@ Part II第5页允许全额个人资金，但要求境外大学/研究机构关�
 核查：2026-10-01T10:03:47Z。[ISS 规则](https://international-students.uark.edu/preparing-to-arrive/regulations.php) 明确包含国外在读本科或研究生：项目须服务原学位、结束后返校完成学位，每周至少32小时，列示时长3周至1年。须院系接收、训练计划、原校/主办方核验、英语、保险及财力证明；Student Intern 至少预留30天办理，另加邀请审批和签证时间。**临床岗位及患者接触/照护被排除**，医疗机器人应先核定非临床研究边界。
 
 [校规206.8](https://policies.uark.edu/fayetteville-policies/vcri/2068.php) 要求导师发起、系/学院及研究合规审核，可能另有出口管制与知识产权安排；[当前办理入口](https://rsic.uark.edu/other/visitingscholars.php) 不等于导师名额。八周在一般时长范围内，但2027接收、项目资格、全额个人资金能否使用及当前财力金额未确认。同页 Academic Training 的金额不能套用于首次研究访问，Short-Term Scholar 六个月上限也不等于自动获批。
+
+<a id="oklahoma-state-short-scholar"></a>
+
+## Oklahoma State · 短期研究生访问优先确认 Scholar 分类
+
+核查：2026-10-01T10:09:15Z。[现行 ISS 分类页](https://iss.okstate.edu/immigration/visiting-scholars) 将 Student Intern 描述为原校要求实习的本科生，不能直接套用于外校硕士。[现行表单索引](https://iss.okstate.edu/forms) 仍链接的 [2024 办理指南](https://iss.okstate.edu/site-files/doc/bringingj12024.pdf) 则说明 Short-Term Scholar 可面向已持本科学位、通常正在攻读更高学位的研究/教学访问者，最长六个月。八周在这一上限内，但实际资格和分类须由接收部门及 ISS 确定。
+
+指南要求明确导师、预先获部门批准、列明费用承担的邀请函及部门提交的 DS-2019 材料；允许个人、外部、学校或混合资金覆盖全程，要求英语能力及合规保险。建议至少预留两个月办理，不保证签证进度。该 2024 指南列每月 $1,700 支持底线、Scholar 申请 $200、Intern 申请 $350；均需复核 2027 标准，且不能视作总成本。[另一官方页面](https://iss.okstate.edu/employment/j1-scholars) 还提到 $100 登记费，是否另计或已更新未解决，不擅自相加。导师短访名额、具体项目、经费、保险费用和远程安排仍待确认。
+
+<a id="csu-pueblo-research-visitor"></a>
+
+## CSU Pueblo · 外校硕士短期研究资格待核实
+
+核查：2026-10-01T10:09:15Z。[2026–2027 校历说明](https://catalog.csupueblo.edu/special-academic-programs-and-services/student-and-exchange-visitor-program/) 确认 CSU Pueblo 支持 J 类国际学生及学者，并指向 Center for Student Support & Advocacy；这不是外校硕士八周研究访问的具体接收规则。其 CPT/OPT 说明面向已在本校就读的学生，不能当作新访客入口。[现行国际事务页面](https://www.csupueblo.edu/center-for-student-support-and-advocacy/international-programs/immigration/index.html) 提及 visiting scholars 服务，但未核实此类短访的任命、身份、最低时长、自费、保险、收费或提前量。
+
+这是 Pueblo 校区，不套用 Fort Collins 的 CSU 规则。须先由具体导师和该校负责国际访问的部门确认资格、项目与资源；[Discovery Scholars](https://www.csupueblo.edu/discovery-scholars/index.html) 是本校学年研究项目，不能据此声称外校硕士可参加暑研。制度细节和导师名额均未确认，保留 opportunity 0。

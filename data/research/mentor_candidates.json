@@ -260,7 +260,8 @@
     "batches/hri-077.json",
     "batches/hri-078.json",
     "batches/hri-079.json",
-    "batches/hri-080.json"
+    "batches/hri-080.json",
+    "batches/hri-081.json"
   ],
   "candidates": [
     {
@@ -13939,6 +13940,64 @@
       "shortVisitStatus": "inquiry-only · 独立外部访问研究生入口；2027与经费未定",
       "recordFile": "batches/hri-080.json",
       "detailPage": "batches/hri-080.md#jundi-liu"
+    },
+    {
+      "id": "weihua-sheng",
+      "name": "Weihua Sheng",
+      "aliases": [],
+      "school": "Oklahoma State University",
+      "title": "Professor; Earl & Carolyn Glimp Professorship for ECE",
+      "homepage": "https://ceat.okstate.edu/ece/faculty/weihua-sheng",
+      "batch": "hri-081",
+      "discoveredAt": "2026-10-01T10:06:01Z",
+      "verifiedAt": "2026-10-01T10:10:44Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-robot interaction",
+        "DQN dialogue adaptation",
+        "Large-language-model user simulation",
+        "CNN audiovisual context recognition",
+        "Assistive social robots"
+      ],
+      "physicalEvidenceStatus": "historical-or-indirect",
+      "physicalEvidenceLabel": "受限真机证据：historical-or-indirect",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-081.json",
+      "detailPage": "batches/hri-081.md#weihua-sheng"
+    },
+    {
+      "id": "zhidong-su",
+      "name": "Zhidong Su",
+      "aliases": [],
+      "school": "Colorado State University Pueblo",
+      "title": "Assistant Professor",
+      "homepage": "https://www.csupueblo.edu/profile/zhidong-su/index.html",
+      "batch": "hri-081",
+      "discoveredAt": "2026-10-01T10:06:26Z",
+      "verifiedAt": "2026-10-01T10:10:44Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-robot interaction",
+        "DQN dialogue adaptation",
+        "Large-language-model user simulation",
+        "CNN audiovisual context recognition",
+        "Assistive social robots"
+      ],
+      "physicalEvidenceStatus": "historical-or-indirect",
+      "physicalEvidenceLabel": "受限真机证据：historical-or-indirect",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-081.json",
+      "detailPage": "batches/hri-081.md#zhidong-su"
     }
   ]
 }

@@ -1,0 +1,227 @@
+[
+  {
+    "id": "weihua-sheng",
+    "name": "Weihua Sheng",
+    "aliases": [],
+    "school": "Oklahoma State University",
+    "homepage": "https://ceat.okstate.edu/ece/faculty/weihua-sheng",
+    "title": "Professor; Earl & Carolyn Glimp Professorship for ECE",
+    "department": "School of Electrical and Computer Engineering; Advanced Sensing, Computation and Control Laboratory",
+    "batch": "hri-081",
+    "discoveredAt": "2026-10-01T10:06:01Z",
+    "verifiedAt": "2026-10-01T10:10:44Z",
+    "researchAreas": [
+      "Human-robot interaction",
+      "DQN dialogue adaptation",
+      "Large-language-model user simulation",
+      "CNN audiovisual context recognition",
+      "Assistive social robots"
+    ],
+    "fitReason": "Strong algorithmic HRI fit: context-sensitive companion robots, learned dialogue adaptation and personalized assistance. The current official ECE directory verifies Professor and the named professorship, superseding the older ASCC opportunities page’s Associate Professor wording. Official student news independently identifies first author Zhidong Su as his doctoral advisee.",
+    "physicalEvidence": {
+      "status": "historical-or-indirect",
+      "summary": "Full ICRA 2024 ChatAdp demonstrates the ASCC companion robot with CNN scene/sound recognition, DQN dialogue and an LLM-based user simulator. Five participants interacted in the apartment-like testbed. Tablet-selected context and played activity sounds staged parts of the test. The reported 92% is simulated evaluation after user feedback, not physical-task success. The two adaptation “days” fit an approximately 20-minute participant session. No learned navigation or manipulation is established. The 2026 CACAS paper reports further real-user testing, but its full latest methods were not retrieved.",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The official ASCC opportunity page recruits PhD research assistants starting Fall 2019 and local graduate teaching assistants. Its stale dates and degree-specific requirements are not an outside-master short-visit invitation. No separate current visitor, remote or summer 2027 offer was verified.",
+      "sourceIds": [
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct machine-learning methods for adaptive embodied dialogue and assistive HRI.",
+      "physical": "Older actual robot study is verified, with staged testing and quantitative-evaluation limits.",
+      "shortVisit": "No applicable lab-specific outside-master visitor invitation verified.",
+      "freshness": "Current university role and recent 2025–2026 publication/project activity; hardware chronology remains explicit."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "ceat.okstate.edu / source 1",
+        "url": "https://ceat.okstate.edu/ece/faculty",
+        "summary": "Directly read current official ECE roster: Professor, Earl & Carolyn Glimp Professorship for ECE and public email.",
+        "verifiedAt": "2026-10-01T10:10:44Z"
+      },
+      {
+        "id": "s2",
+        "label": "ceat.okstate.edu / source 2",
+        "url": "https://ceat.okstate.edu/ece/faculty/weihua-sheng",
+        "summary": "Official profile independently corroborates current title, contact and social-robotics interests; direct individual-page retrieval was intermittent.",
+        "verifiedAt": "2026-10-01T10:10:44Z"
+      },
+      {
+        "id": "s3",
+        "label": "ceat.okstate.edu / source 3",
+        "url": "https://ceat.okstate.edu/ece/students/outstanding-students",
+        "summary": "Official 2024 student honor identifies Sheng as Zhidong Su’s PhD advisor, supporting direct project lineage.",
+        "verifiedAt": "2026-10-01T10:10:44Z"
+      },
+      {
+        "id": "s4",
+        "label": "par.nsf.gov / source 4",
+        "url": "https://par.nsf.gov/servlets/purl/10514607",
+        "summary": "Full ICRA 2024 ChatAdp article inspected, including Fig. 3 and Section IV; actual robot interactions, staged context and separate simulated quantitative evaluation.",
+        "verifiedAt": "2026-10-01T10:10:44Z"
+      },
+      {
+        "id": "s5",
+        "label": "www.sciencedirect.com / source 5",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0921889025003045",
+        "summary": "2026 RAS CACAS primary abstract and section snippets: learned context/dialogue adaptation and real-user evaluation. Full latest-paper methods were unavailable, so no additional hardware-score increase.",
+        "verifiedAt": "2026-10-01T10:10:44Z",
+        "retrieval": "Primary abstract and section snippets only; full latest methods unavailable"
+      },
+      {
+        "id": "s6",
+        "label": "ceat.okstate.edu / source 6",
+        "url": "https://ceat.okstate.edu/ece/research/ascc-lab/contact-us",
+        "summary": "Stale Fall 2019 PhD recruitment and local graduate teaching positions; no external-master visit invitation.",
+        "verifiedAt": "2026-10-01T10:10:44Z"
+      },
+      {
+        "id": "s7",
+        "label": "iss.okstate.edu / source 7",
+        "url": "https://iss.okstate.edu/immigration/visiting-scholars",
+        "summary": "Current official categories distinguish undergraduate Student Intern from graduate-qualified scholar routes.",
+        "verifiedAt": "2026-10-01T10:09:15Z",
+        "retrieval": "Direct official institutional-policy review; not a mentor invitation"
+      },
+      {
+        "id": "s8",
+        "label": "iss.okstate.edu / source 8",
+        "url": "https://iss.okstate.edu/site-files/doc/bringingj12024.pdf",
+        "summary": "Current-linked 2024 guide explicitly covers bachelor’s-qualified advanced-degree researchers, up to six-month Short-Term Scholar, personal/mixed funding and department-led approval.",
+        "verifiedAt": "2026-10-01T10:09:15Z",
+        "retrieval": "Direct official institutional-policy review; not a mentor invitation"
+      }
+    ],
+    "unknowns": [
+      "Current lab research direction is verified, but current apparatus availability, research access and capacity for a short external-master project must be confirmed.",
+      "Oklahoma State’s public Student Intern summary is undergraduate-specific. For a bachelor’s-qualified graduate researcher, the separate Short-Term Scholar route may be relevant; ISS must determine eligibility and activities.",
+      "The current-linked 2024 guide allows research/teaching Short-Term Scholars for up to six months, requires department approval, a supervisor and a cost-specific invitation, and permits personal or mixed funding. No host acceptance follows automatically.",
+      "The guide’s $1,700/month support minimum, application fees and suggested two-month lead time are dated guidance, not guaranteed 2027 amounts or processing. Insurance and other costs are separate; confirm current fees, including an unresolved older registration-fee reference.",
+      "The latest CACAS abstract is not a substitute for its unseen experimental details. Retain the older-hardware cap and separate physical interaction from simulated evaluation.",
+      "No older-adult clinical efficacy, patient access, medication-management authorization or unsupervised clinical use is implied by the research prototype.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#oklahoma-state-short-scholar)"
+    ],
+    "publicEmail": "weihua.sheng@okstate.edu"
+  },
+  {
+    "id": "zhidong-su",
+    "name": "Zhidong Su",
+    "aliases": [],
+    "school": "Colorado State University Pueblo",
+    "homepage": "https://www.csupueblo.edu/profile/zhidong-su/index.html",
+    "title": "Assistant Professor",
+    "department": "School of Engineering",
+    "batch": "hri-081",
+    "discoveredAt": "2026-10-01T10:06:26Z",
+    "verifiedAt": "2026-10-01T10:10:44Z",
+    "researchAreas": [
+      "Human-robot interaction",
+      "DQN dialogue adaptation",
+      "Large-language-model user simulation",
+      "CNN audiovisual context recognition",
+      "Assistive social robots"
+    ],
+    "fitReason": "Current independent CSU Pueblo faculty member since 2024, with first-author adaptive social-robot learning and a current local AI-Assisted Proactive Companion Robot project. Particularly relevant to multimodal context recognition, language-based user modeling and human feedback. Do not confuse Pueblo with CSU Fort Collins.",
+    "physicalEvidence": {
+      "status": "historical-or-indirect",
+      "summary": "First author of the fully inspected 2024 ChatAdp physical companion-robot study conducted at prior Oklahoma State. It combines learned perception and adaptive dialogue, with staged context and simulated quantitative evaluation. This establishes hands-on prior-site experience, not current Pueblo-owned hardware. The local Discovery Scholars project now proposes home-observation data collection and AI-assisted support decisions; it does not yet prove a completed new local learned controller.",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current official Discovery Scholars listing names Su as faculty mentor for an AI companion-robot project, within the local academic-year program. It does not invite external master’s summer visitors. No lab-specific visiting, remote, eight-week or summer 2027 offer was found.",
+      "sourceIds": [
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct machine-learning methods for adaptive embodied dialogue and assistive HRI.",
+      "physical": "Older actual robot study is verified, with staged testing and quantitative-evaluation limits.",
+      "shortVisit": "No applicable lab-specific outside-master visitor invitation verified.",
+      "freshness": "Current university role and recent 2025–2026 publication/project activity; hardware chronology remains explicit."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.csupueblo.edu / source 1",
+        "url": "https://www.csupueblo.edu/profile/zhidong-su/index.html",
+        "summary": "Direct current official Assistant Professor in School of Engineering, public zhidong.su@csupueblo.edu.",
+        "verifiedAt": "2026-10-01T10:10:44Z"
+      },
+      {
+        "id": "s2",
+        "label": "catalog.csupueblo.edu / source 2",
+        "url": "https://catalog.csupueblo.edu/faculty/",
+        "summary": "Current faculty catalog records Su’s Assistant Professor appointment from 2024 and Oklahoma State PhD.",
+        "verifiedAt": "2026-10-01T10:10:44Z"
+      },
+      {
+        "id": "s3",
+        "label": "par.nsf.gov / source 3",
+        "url": "https://par.nsf.gov/servlets/purl/10514607",
+        "summary": "Full ICRA 2024 ChatAdp article inspected, including Fig. 3 and Section IV; actual robot interactions, staged context and separate simulated quantitative evaluation.",
+        "verifiedAt": "2026-10-01T10:10:44Z"
+      },
+      {
+        "id": "s4",
+        "label": "www.sciencedirect.com / source 4",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0921889025003045",
+        "summary": "2026 RAS CACAS primary abstract and section snippets: learned context/dialogue adaptation and real-user evaluation. Full latest-paper methods were unavailable, so no additional hardware-score increase.",
+        "verifiedAt": "2026-10-01T10:10:44Z",
+        "retrieval": "Primary abstract and section snippets only; full latest methods unavailable"
+      },
+      {
+        "id": "s5",
+        "label": "www.csupueblo.edu / source 5",
+        "url": "https://www.csupueblo.edu/discovery-scholars/index.html",
+        "summary": "Current official Su-directed AI-Assisted Proactive Companion Robot project: household activity dataset and rule-based/AI comparison; academic-year local program, not an outside-master invitation.",
+        "verifiedAt": "2026-10-01T10:10:44Z"
+      },
+      {
+        "id": "s6",
+        "label": "catalog.csupueblo.edu / source 6",
+        "url": "https://catalog.csupueblo.edu/special-academic-programs-and-services/student-and-exchange-visitor-program/",
+        "summary": "2026–2027 catalog, updated June 2026, recognizes J students/scholars but gives no verified eight-week outside-master research procedure.",
+        "verifiedAt": "2026-10-01T10:09:15Z",
+        "retrieval": "Direct official institutional-policy review; not a mentor invitation"
+      }
+    ],
+    "unknowns": [
+      "The physical study was performed at Oklahoma State before the current faculty appointment. Current CSU Pueblo robot availability, independent project scope and equipment access remain unverified.",
+      "CSU Pueblo’s June 2026 catalog acknowledges J-status students and scholars and directs them to the Center for Student Support & Advocacy. A specific outside-master short-research appointment process was not verified.",
+      "Visa/appointment category, eight-week eligibility, self-funding, minimum support, fees, insurance and processing lead time remain unknown. A host and the appropriate Pueblo international office must resolve them.",
+      "CSU Fort Collins policies must not be substituted for CSU Pueblo. Local F-1 CPT/OPT and degree-admission rules do not establish eligibility for an incoming external research visitor.",
+      "Discovery Scholars is local academic-year research, not an external-master summer program. Its planned dataset and rule-based/AI comparison are evidence of current direction, not completed learned physical execution.",
+      "Assistive dialogue research does not imply clinical efficacy, access to patients, or authorization to deliver medical advice or medication services.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#csu-pueblo-research-visitor)"
+    ],
+    "publicEmail": "zhidong.su@csupueblo.edu"
+  }
+]

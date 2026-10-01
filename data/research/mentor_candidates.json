@@ -54,6 +54,7 @@
     "batches/embodied-020.json",
     "batches/embodied-021.json",
     "batches/embodied-022.json",
+    "batches/embodied-023.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -4579,6 +4580,60 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-022.json",
       "detailPage": "batches/embodied-022.md#preston-culbertson"
+    },
+    {
+      "id": "kuan-fang",
+      "name": "Kuan Fang",
+      "aliases": [],
+      "school": "Cornell University",
+      "title": "Assistant Professor",
+      "homepage": "https://kuanfang.github.io/",
+      "batch": "embodied-023",
+      "discoveredAt": "2026-09-30T23:58:43Z",
+      "verifiedAt": "2026-10-01T00:03:16Z",
+      "scores": {
+        "fit": 40,
+        "physical": 25,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Generalizable robot learning",
+        "Cross-embodiment manipulation",
+        "Robotic foundation models",
+        "Visuomotor learning",
+        "Learning from human video"
+      ],
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/embodied-023.json",
+      "detailPage": "batches/embodied-023.md#kuan-fang"
+    },
+    {
+      "id": "zhiwen-fan",
+      "name": "Zhiwen Fan",
+      "aliases": [],
+      "school": "Texas A&M University",
+      "title": "Assistant Professor",
+      "homepage": "https://phai-lab.github.io/",
+      "batch": "embodied-023",
+      "discoveredAt": "2026-09-30T23:58:43Z",
+      "verifiedAt": "2026-10-01T00:19:26Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 5,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Robot policy editing",
+        "Trustworthy embodied AI",
+        "Vision-language-action models",
+        "Spatial foundation models",
+        "Multimodal perception"
+      ],
+      "shortVisitStatus": "conditional-inquiry · intern需US-based，访客范围未明",
+      "recordFile": "batches/embodied-023.json",
+      "detailPage": "batches/embodied-023.md#zhiwen-fan"
     },
     {
       "id": "henny-admoni",

@@ -175,7 +175,8 @@
     "batches/hri-049.json",
     "batches/hri-050.json",
     "batches/hri-051.json",
-    "batches/hri-052.json"
+    "batches/hri-052.json",
+    "batches/hri-053.json"
   ],
   "candidates": [
     {
@@ -10166,6 +10167,33 @@
       "shortVisitStatus": "inquiry-only · student appointment category unresolved",
       "recordFile": "batches/hri-052.json",
       "detailPage": "batches/hri-052.md#jun-nishida"
+    },
+    {
+      "id": "jong-hoon-kim",
+      "name": "Jong-Hoon Kim",
+      "aliases": [],
+      "school": "Kent State University",
+      "title": "Associate Professor",
+      "homepage": "https://www.cs.kent.edu/~jkim/",
+      "batch": "hri-053",
+      "discoveredAt": "2026-10-01T04:26:05Z",
+      "verifiedAt": "2026-10-01T04:27:25Z",
+      "scores": {
+        "fit": 36,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Video imitation for humanoids",
+        "Learned expressive locomotion",
+        "Human-robot interaction",
+        "Multimodal conversational robots",
+        "Telepresence robotics"
+      ],
+      "shortVisitStatus": "precedent-only",
+      "recordFile": "batches/hri-053.json",
+      "detailPage": "batches/hri-053.md#jong-hoon-kim"
     }
   ]
 }

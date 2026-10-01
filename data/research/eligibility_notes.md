@@ -809,3 +809,14 @@ Tacoma 补充核查：2026-10-01T01:02:36Z。[SET visiting appointments](https:/
 核查：2026-10-01T03:36:59Z。[当前 CGE Visiting Scholars](https://cge.fsu.edu/j-1-scholars/visiting-scholars) 包含超过十四天的无薪研究访问，外校研究生学术访问最长十二个月。由导师发起，经 chair、dean 和 RAMP 批准后才能发正式邀请。页面警告，从填完 RAMP 请求到抵达可能需九至十二个月，包含可长达三至六个月的筛查；后续 DS-2019 两至三周及提前六十天提交要求不是完整流程。该估计对 2027 年初夏构成时间风险，但不是固定最短时限。
 
 页面当前不考虑被学校按所引法律认定为特定 foreign principals 的访客；分类须 FSU 决定，不能从国籍、族裔或一般院校名称直接得出个体结论。[J-1 概览](https://cge.fsu.edu/j-1-exchange-visitor-program) 允许外部/个人资金，但在读硕士的具体类别仍需 CGE 选择。当前单人每月 2,322 或每年 27,861 美元是支持证明，保留原表差异并重核 2027，保险和可能的主办 bench fee 另计。[RAMP 页面](https://www.research.fsu.edu/rise/export-controls/ramp-ec/) 还覆盖需使用研究资源的 remote courtesy appointments，远程不自动免审。这些条款只针对 FSU sponsorship，不自动套用 FAMU 或其他佛州大学，也不构成任何个人的法律/接收判断。
+
+<a id="kent-state"></a>
+## Kent State · Student position 限制与研究生访问类别待核定
+
+2026-10-01 核查。Kent State University（Ohio）的当前 Scholar 主办页面要求院系发起 sponsorship，并为不受雇的研究访问安排相应任命；同时明确 student positions（如 Research Assistant）不适用其 Professor / Scholar / Short-Term Scholar 文件。这不能直接推导为所有海外在读学生一律不可访问，但外校硕士的研究任命必须由 ISSS 单独确认。
+
+页面链接的 2024-09-06 Scholar Guide 规定 Research Scholar 至少持有学士学位，研究学者通常至少三周，Short-Term Scholar 最长六个月，并列出每月至少 $1,400 的财力证明。该数值属于有日期的学者指南，不能当作 2027 已确认预算，也不证明未定学生类别可完全个人出资。
+
+另有 exchange / visiting-student 修课路径，研究生可逐案参加，但须承担适用学费和费用；它不能替代约八周、纯研究访问的正式批准。当前未核实独立 Student Intern 或等效研究生科研访问类别。任命、研究职责、学位关联、时长、资金来源、保险与费用均应由院系和 ISSS 协同确认。实验室的既往或当前硕士访客名单只作先例，不提升短访机会分数。
+
+Sources: [Hosting a Visiting Scholar](https://www.kent.edu/globaleducation/hosting-visiting-scholar); [Scholar Request Guide, 2024-09-06](https://www-s3-live.kent.edu/s3fs-root/s3fs-public/file/Scholar%20Request%20Guide%2020240906_1.pdf?VersionId=1I6UI5Tn11Esk6xx6zyFOK7T8ORWDLjZ); [Exchange and Visiting Student Programs](https://www.kent.edu/globaleducation/exchange-and-visiting-student-programs)

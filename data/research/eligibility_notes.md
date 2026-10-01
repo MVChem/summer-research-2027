@@ -65,7 +65,7 @@ Allison Okamura 的 [CHARM 个人页](https://charm.stanford.edu/Main/AllisonOka
 
 核查：2026-09-30T22:26:52Z。[OIE 类别说明](https://www.cmu.edu/oie/pre-arrival-and-settling-in/scholars/instructions/j1-exchange/index.html) 允许在美国以外大学攻读学位的 Student Intern，最长 12 个月，可有薪或无薪，并可使用个人或外部支持；这与上文 RISS 的本科生限制是不同路径。[申请流程](https://www.cmu.edu/oie/pre-arrival-and-settling-in/scholars/instructions/j1-exchange/application-process.html) 从导师、院系确认研究、时长及资金开始，再提交 OIE。已核查页面没有明确最低时长，八周安排仍需确认。
 
-[Student Intern Data Form](https://www.cmu.edu/oie/administrators/docs/j-intern-data-form.pdf) 的 2025 年 4 月版索引文本列 Pittsburgh 每月 3,015 美元支持额及个人资金材料；该 PDF 本次完整读取失败，因此金额为有日期的待复核信息，不是 2027 年报价或学校收费。当前类别与流程页已直接读取。
+财力表更新核查（2026-10-01T05:26:26Z）：现已完整读取并目视核对 [J-1 Student Intern Data Form](https://www.cmu.edu/oie/administrators/docs/j-intern-data-form.pdf) 的 **2026 年 6 月版**。表格明确列 Masters，Pittsburgh 校区最低支持额为 **每月 3,253 美元／每年 39,036 美元**，替代此前仅索引到的 2025 年 4 月每月 3,015 美元。允许个人银行材料；家庭支持另需家属签字说明及银行材料，文件须为英文、提交前六个月内，并列持有人及美元等值可用资金。若按两个整月估算，支持证明为 6,506 美元；这是算术示例，不是八周精确折算或学校收费。资金须覆盖整段访问，2027 金额、保险、实际费用及个人安排仍待 OIE／主办方确认。表格交院系协调员，不由学生直接交 OIE。
 
 CMU 学术任命补充核查：2026-10-01T00:16:30Z。[Collaborating Visitor](https://www.cmu.edu/collaborating-visitor/) 包括外校学生、无薪 interns 和部分自我支持的学者，是研究访问/筛查分类，不是新签证类别。主办方须事前批准，自 2025-06-30 起使用新的内部在线系统。[FAQ](https://www.cmu.edu/collaborating-visitor/faq.html) 要求提前三十天、需移民文件时六十天；筛查不提供签证支持，OIE 另行办理。FAQ 旧表格描述不能替代更新的线上流程；CMU 补充付款可能改变任命性质。
 

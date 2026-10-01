@@ -63,6 +63,7 @@
     "batches/embodied-024.json",
     "batches/embodied-025.json",
     "batches/embodied-026.json",
+    "batches/embodied-027.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -4888,6 +4889,33 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-026.json",
       "detailPage": "batches/embodied-026.md#quan-khanh-luu"
+    },
+    {
+      "id": "ruoshi-liu",
+      "name": "Ruoshi Liu",
+      "aliases": [],
+      "school": "University of Maryland, College Park",
+      "title": "Assistant Professor",
+      "homepage": "https://ruoshiliu.github.io/",
+      "batch": "embodied-027",
+      "discoveredAt": "2026-10-01T00:31:06Z",
+      "verifiedAt": "2026-10-01T00:46:00Z",
+      "scores": {
+        "fit": 40,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Foundation models for robot manipulation",
+        "Video-conditioned robot policies",
+        "Learning from human demonstrations",
+        "Multimodal force-aware learning",
+        "World models"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-027.json",
+      "detailPage": "batches/embodied-027.md#ruoshi-liu"
     },
     {
       "id": "henny-admoni",

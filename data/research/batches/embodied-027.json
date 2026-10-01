@@ -1,0 +1,104 @@
+[
+  {
+    "id": "ruoshi-liu",
+    "name": "Ruoshi Liu",
+    "aliases": [],
+    "school": "University of Maryland, College Park",
+    "homepage": "https://ruoshiliu.github.io/",
+    "title": "Assistant Professor",
+    "department": "Computer Science; UMIACS and Center for Automation Research",
+    "batch": "embodied-027",
+    "discoveredAt": "2026-10-01T00:31:06Z",
+    "verifiedAt": "2026-10-01T00:46:00Z",
+    "researchAreas": [
+      "Foundation models for robot manipulation",
+      "Video-conditioned robot policies",
+      "Learning from human demonstrations",
+      "Multimodal force-aware learning",
+      "World models"
+    ],
+    "fitReason": "A direct connection from generative video and geometric perception to physical manipulation policies. The current lab explicitly focuses on machine-learning and foundation-model approaches to manipulation, with an August 2026 UMD start verified.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "June 2026 ForceBand, coauthored by Liu, deploys a learned flow-matching force/motion policy on a real UR-5 with Robotiq gripper and added fingertip force sensors. It uses 15 human demonstrations per object and 10 physical trials per object. The separate Video Policy study reports five real tabletop tasks, three-camera sensing, impedance execution and 10 rollouts per task/condition.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current official and personal pages recruit PhD applicants and already-enrolled UMD students. A visiting PhD student is listed, but this is hosting precedent, not a current external-master’s or short-visit invitation. Availability for summer 2027 remains unknown.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 40,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct foundation/video-model manipulation-policy research fit.",
+      "physical": "Two documented real-robot learning studies, capped for prior-institution/collaborative equipment rather than current UMD ownership.",
+      "shortVisit": "Published recruiting is degree/local; visitor precedent receives no points.",
+      "freshness": "June2026 physical ForceBand paper and verified August2026 current appointment."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.cs.umd.edu / source 1",
+        "url": "https://www.cs.umd.edu/people/ruoshi",
+        "summary": "Direct current official Assistant Professor, CS/UMIACS/Cfar, email and PhD recruiting scope.",
+        "verifiedAt": "2026-10-01T00:46:00Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "ruoshiliu.github.io / source 2",
+        "url": "https://ruoshiliu.github.io/",
+        "summary": "Current UMD appointment from August 2026, manipulation/foundation-model research, current-UMD intake and visiting-PhD precedent.",
+        "verifiedAt": "2026-10-01T00:46:00Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2606.26093v1",
+        "summary": "June 24, 2026 ForceBand primary paper confirms Liu coauthorship and actual force-aware UR-5 policy execution.",
+        "verifiedAt": "2026-10-01T00:46:00Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2508.00795v1",
+        "summary": "August 1, 2025 primary Video Policy paper: five physical tasks,10-rollout protocol, three-camera setup and execution limitations.",
+        "verifiedAt": "2026-10-01T00:46:00Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "videopolicy.cs.columbia.edu / source 5",
+        "url": "https://videopolicy.cs.columbia.edu/",
+        "summary": "Official project separates actual robot execution from generated videos; collaboration attributed to Columbia/TRI.",
+        "verifiedAt": "2026-10-01T00:46:00Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "The verified hardware work is collaborative and largely predates the August 2026 UMD lab start; current UMD ownership/access is unconfirmed, so physical points are capped at 20. The homepage labels Video Policy as 2026, but the checked primary preprint was submitted August 1, 2025; it is not counted as a newly performed 2026 study. ForceBand includes a fixed pre-grasp stabilization stage and a feedback force controller, not an entirely unconstrained human-video-only policy. General UMD visitor procedures do not imply lab acceptance.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "ruoshi@umd.edu"
+  }
+]

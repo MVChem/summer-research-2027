@@ -25,6 +25,7 @@
     "batches/control-014.json",
     "batches/control-015.json",
     "batches/control-016.json",
+    "batches/control-017.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -1959,6 +1960,33 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-016.json",
       "detailPage": "batches/control-016.md#ryan-k-cosner"
+    },
+    {
+      "id": "rohan-chandra",
+      "name": "Rohan Chandra",
+      "aliases": [],
+      "school": "University of Virginia",
+      "title": "Assistant Professor",
+      "homepage": "https://cral-uva.github.io/",
+      "batch": "control-017",
+      "discoveredAt": "2026-09-30T23:31:39Z",
+      "verifiedAt": "2026-09-30T23:37:07Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "robot navigation foundation models",
+        "safe learning and control",
+        "multi-robot autonomy",
+        "human-aware navigation",
+        "vision-language models for navigation"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-017.json",
+      "detailPage": "batches/control-017.md#rohan-chandra"
     },
     {
       "id": "tom-silver",

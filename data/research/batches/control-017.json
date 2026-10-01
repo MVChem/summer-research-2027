@@ -1,0 +1,133 @@
+[
+  {
+    "id": "rohan-chandra",
+    "name": "Rohan Chandra",
+    "aliases": [],
+    "school": "University of Virginia",
+    "homepage": "https://cral-uva.github.io/",
+    "title": "Assistant Professor",
+    "department": "Computer Science",
+    "batch": "control-017",
+    "discoveredAt": "2026-09-30T23:31:39Z",
+    "verifiedAt": "2026-09-30T23:37:07Z",
+    "researchAreas": [
+      "robot navigation foundation models",
+      "safe learning and control",
+      "multi-robot autonomy",
+      "human-aware navigation",
+      "vision-language models for navigation"
+    ],
+    "fitReason": "Strong connection between learned visual navigation, formal safety and multi-agent interaction, with current UVA robot deployment and publicly documented technical evaluation.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Stereo4DWalker (IROS 2026, manuscript revised September 14) is a UVA collaboration including Chandra and his current graduate students. A transformer using stereo/depth/motion features predicts waypoints for a real Clearpath Jackal J100 with ZED 2i. Models run on a remote GPU server, with ROS 2 low-level execution. The physical evaluation uses 14 trials for each of three motion types; reported overall success is 66.7% zero-shot and 73.8% after fine-tuning. Offline arrival metrics are separate. The source establishes participation/current-group access, not exclusive equipment ownership.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current external short-visit invitation was verified on the checked official faculty, current lab home, PI biography and team pages. Faculty activity, alumni outcomes and generic professional email are not treated as a visitor application route.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Learned real visual navigation, multi-agent decision-making and safety-control methods closely align.",
+      "physical": "Current UVA study with Chandra's listed graduate students and named physical Jackal deployment, separately from simulation-only safety studies.",
+      "shortVisit": "No current external inquiry invitation or duration-compatible visitor offer verified.",
+      "freshness": "September 2026 manuscript revision with physical experiments, current UVA lab updates and current team affiliation."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.virginia.edu / source 1",
+        "url": "https://engineering.virginia.edu/faculty/rohan-chandra",
+        "summary": "Official current UVA Assistant Professor of CS, CRAL leadership and research scope.",
+        "verifiedAt": "2026-09-30T23:37:07Z",
+        "retrieval": "direct official HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "cral-uva.github.io / source 2",
+        "url": "https://cral-uva.github.io/people/rohan_chandra/index.html",
+        "summary": "Current affiliation and public UVA professional email; UT Austin postdoc ended in 2024.",
+        "verifiedAt": "2026-09-30T23:37:07Z",
+        "retrieval": "direct official-linked author HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "cral-uva.github.io / source 3",
+        "url": "https://cral-uva.github.io/",
+        "summary": "Current September 2026 lab updates and research directions; no external visitor recruitment text.",
+        "verifiedAt": "2026-09-30T23:37:07Z",
+        "retrieval": "direct author HTML via web.run and cloud browser"
+      },
+      {
+        "id": "s4",
+        "label": "cral-uva.github.io / source 4",
+        "url": "https://cral-uva.github.io/people/",
+        "summary": "Jeffrey Chen and Vignesh Rajagopal listed as current graduate students, connecting Stereo4DWalker coauthors to the current lab.",
+        "verifiedAt": "2026-09-30T23:37:07Z",
+        "retrieval": "direct cloud-browser author team page at 2026-09-30T23:36:36Z"
+      },
+      {
+        "id": "s5",
+        "label": "www.cs.virginia.edu / source 5",
+        "url": "https://www.cs.virginia.edu/~tsx4zn/stereowalk/",
+        "summary": "University-hosted project confirms named physical robot/camera, distinction between 42-trial real tests and offline benchmark, and Chandra participation.",
+        "verifiedAt": "2026-09-30T23:37:07Z",
+        "retrieval": "direct primary project HTML via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/abs/2512.10956",
+        "summary": "Official author manuscript lists September 14, 2026 revision and acceptance to IROS 2026.",
+        "verifiedAt": "2026-09-30T23:37:07Z",
+        "retrieval": "direct primary abstract via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "arxiv.org / source 7",
+        "url": "https://arxiv.org/html/2512.10956v2",
+        "summary": "Sections V-A/V-B detail actual robot deployment, offboard model inference and test definition; Fig. 4 distinguishes zero-shot and fine-tuned results.",
+        "verifiedAt": "2026-09-30T23:37:07Z",
+        "retrieval": "direct primary manuscript HTML via web.run"
+      },
+      {
+        "id": "s8",
+        "label": "arxiv.org / source 8",
+        "url": "https://arxiv.org/html/2603.21142v1",
+        "summary": "AlphaAdj is a relevant VLM/CBF method, but its experiment section explicitly uses simulation; not counted as hardware.",
+        "verifiedAt": "2026-09-30T23:37:07Z",
+        "retrieval": "direct primary manuscript HTML via web.run"
+      }
+    ],
+    "unknowns": [
+      "Eight-week availability, outside-master's appointment, financial support and remote participation remain unknown. Old personal UT Austin page is historical; use current UVA lab and email. AlphaAdj and GameChat are explicitly simulation evaluations and were not used as physical evidence. No acceptance or research-placement probability is inferred from the fit score.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "rohanchandra@virginia.edu"
+  }
+]

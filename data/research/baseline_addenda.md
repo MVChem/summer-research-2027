@@ -49,3 +49,29 @@
 ## ID 93 · Jeannette Bohg · 外校访客入口，通常偏好六个月
 
 核查：2026-10-01T11:11:23Z。[IPRL 主页](https://iprl.stanford.edu/)为 non-Stanford visiting researchers 提供[独立表单](https://docs.google.com/forms/d/e/1FAIpQLSf5n4XGyOBaK_Oe752wbenMgOjYnEmDY-uAWC48DNNdNJX5Kg/viewform?usp=send_form)，已完整读取其中 Masters、Summer 和预期日期选项。页面通常偏好至少六个月；这是偏好，不是已明确的绝对最低期限。约八周需得到较短访问安排的明确同意，Summer 选项本身不是2027接收承诺。表单未填写或提交。[官方任职字段](https://profiles.stanford.edu/jeannette-bohg)列 Associate Professor，旧叙述仍有 Assistant wording；以任职字段为准。另需履行 Stanford VSR 的主办、资金、保险及费用要求。
+
+## ID 92 · Jiajun Wu · 访问研究生最低六个月
+
+核查：2026-10-01T11:36:42Z。[本人主页](https://jiajunwu.com/)将本校 MS/本科研究安排与外部访问研究生分开，后者明确规定最低六个月。约八周不满足这个已发布最低时长；未发现较短访问例外。学校 VSR 制度或表单存在不能覆盖实验室条件，未来如条件改变再按新来源核查。
+
+## ID 102 · Chelsea Finn · 不接受 summer interns，另有六个月偏好
+
+核查：2026-10-01T11:36:42Z。[IRIS 的外校联系入口](https://irislab.stanford.edu/contact.html)链接的[完整公开访客表单](https://docs.google.com/forms/d/e/1FAIpQLSf7ylPCsuQjZTAngLVVym9Os_EXrg8lHOZeDXm5XA6OfBmpzg/viewform?usp=send_form)包含 Masters 状态，通常偏好至少六个月，并且另行明确表示不接受 summer interns。六个月是一般偏好，summer-intern 限制则是明确表述；没有核实约八周暑期例外，也不把当前未标年份的表述扩大为永久关闭。
+
+## ID 101 · Sergey Levine · 极少访客、通常偏好九个月，未接收暑期实习
+
+核查：2026-10-01T11:38:47Z。[RAIL 外校访客入口](https://rail.eecs.berkeley.edu/contact.html)与[完整公开表单](https://docs.google.com/forms/d/e/1FAIpQLScdgQplFqrnVqhX42gzHctg1TGgmNy9GcHRuqZM2uJGzIRoXg/viewform?usp=sf_link)说明每年约一两名访客，几乎均为在读博士，通常偏好至少九个月，并明确不接受 summer interns。表单有 undergraduate/masters 合并选项，不等于外校硕士已获接收，也不能把页面“short-term visitor”标题当作八周可行。容量、一般偏好和明确暑期限制各自保留，不把“几乎都是博士”改成绝对硕士禁令。
+
+## ID 104 · Dorsa Sadigh · 访客表单可询问硕士，六个月为偏好
+
+核查：2026-10-01T11:38:47Z。[ILIAD 外校访客入口](https://iliad.stanford.edu/contact/)及[完整表单](https://docs.google.com/forms/d/e/1FAIpQLSe_NGPAiG_CdlzOhbrfUliSb5YdUVKMjtYJZFRoqcY4NzqXpg/viewform?usp=send_form)包含 Masters 和预期起止日期，通常偏好至少六个月。这里没有核实绝对暑期禁止；不要借用其他实验室的更严限制。约八周的较短安排、2027容量、资金及正式 VSR 仍需明确同意。
+
+## ID 97 · Katerina Fragkiadaki · 仅考虑可访问六个月或更久者
+
+核查：2026-10-01T11:44:33Z。[本人主页](https://www.cs.cmu.edu/~katef/)链接的[完整研究组表单](https://docs.google.com/forms/d/e/1FAIpQLSfmaoCGWe0X0gVVRMZSylxiiAvg2Mayz0EqESXHD1WfPEs9nA/viewform?usp=publish-editor)明确包含 non-CMU 和 Master 选项，但只考虑可访问六个月或更久的访客。这是条件，不是一般偏好；未核实约八周例外。自费/fellowship 选项是问询字段，不是经费承诺或身份批准。
+
+## ID 96 · David Held · 表单具备访客选项，外校硕士适用性仍须确认
+
+核查：2026-10-01T11:46:28Z。[本人主页](https://davheld.github.io/)将[研究兴趣表](https://docs.google.com/forms/d/e/1FAIpQLSd7Bftdy-F4pjHrg6mS_eMd0TTNGbEN2-m2Oh8DC9MbNrX59g/viewform)主要介绍给本科实习申请者，而其硕士段落针对已入学 CMU 学生。完整表单有无 CMU 项目的 visiting researcher 选项及暑期/远程意向，但目前没有本科/硕士经费；外校在读硕士是否可用这一路径需确认。
+
+[链接的公开实验室政策](https://docs.google.com/document/d/1su_EhI4DNCpDPPwssh_g9Z3js7DixCOf6WrDTOgikU4)要求至少一个学期或暑期的投入，无课期间每周至少40小时，通常每周至少四天现场；例外须预先讨论。八周是否满足所称暑期投入、远程许可、项目容量、资金与 CMU 正式访客审批都不能由表单选项推定。没有填写表单、上传材料或接受任何协议。

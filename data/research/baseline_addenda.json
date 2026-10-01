@@ -211,6 +211,120 @@
           "evidence": "Full official profile Academic Appointments lists Associate Professor of CS. Its older narrative still says Assistant Professor; use structured appointment."
         }
       ]
+    },
+    {
+      "baselineId": 92,
+      "name": "Jiajun Wu",
+      "observedAt": "2026-10-01T11:36:42Z",
+      "eventType": "later-public-source-verification-not-discovery",
+      "finding": "Current full first-person page distinguishes local Stanford MS/undergraduate expectations from a separate explicit six-month minimum for visiting graduate students. The target eight-week summer visit does not meet that stated minimum; no shorter-stay exception was found. A form exists, but it is not evidence that an eight-week proposal is accepted.",
+      "sources": [
+        {
+          "url": "https://jiajunwu.com/",
+          "retrieval": "direct-primary-page",
+          "evidence": "Full current primary source, with applicable visiting-student wording verified."
+        }
+      ]
+    },
+    {
+      "baselineId": 102,
+      "name": "Chelsea Finn",
+      "observedAt": "2026-10-01T11:36:42Z",
+      "eventType": "later-public-source-verification-not-discovery",
+      "finding": "The current IRIS contact page routes non-Stanford candidates to this live Visiting Scholar Application. The complete form explicitly offers Masters student status and rolling visitor consideration, generally prefers at least six months, and separately states that summer interns are not accepted. This is a material obstacle to an approximately eight-week summer-only plan; the minimum-like language is a preference, while the summer-intern statement is explicit. No exception is established.",
+      "sources": [
+        {
+          "url": "https://irislab.stanford.edu/contact.html",
+          "retrieval": "direct-primary-page and direct-HTML full text",
+          "evidence": "Current Outside of Stanford section links the exact visitor form, separately from local Stanford undergraduate/MS and postdoc forms. Full form read in cloud browser11:36:42Z; no inputs or submission."
+        },
+        {
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSf7ylPCsuQjZTAngLVVym9Os_EXrg8lHOZeDXm5XA6OfBmpzg/viewform?usp=send_form",
+          "retrieval": "direct-primary-cloud-browser",
+          "evidence": "Full current primary source, with applicable visiting-student wording verified."
+        }
+      ]
+    },
+    {
+      "baselineId": 101,
+      "name": "Sergey Levine",
+      "observedAt": "2026-10-01T11:38:47Z",
+      "eventType": "later-public-source-verification-not-discovery",
+      "finding": "The RAIL contact page explicitly links a non-Berkeley short-term visitor form. Its complete live text says only about one or two visitors are accommodated yearly, almost all current PhD students, with a general preference for a minimum nine-month stay. The form has a combined undergraduate/masters category, but separately and explicitly rejects summer interns. The page headline must not be turned into eight-week summer availability.",
+      "sources": [
+        {
+          "url": "https://rail.eecs.berkeley.edu/contact.html",
+          "retrieval": "direct-primary-page",
+          "evidence": "Full live contact page separates visitors from local-student and degree-admissions routes."
+        },
+        {
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLScdgQplFqrnVqhX42gzHctg1TGgmNy9GcHRuqZM2uJGzIRoXg/viewform?usp=sf_link",
+          "retrieval": "direct-primary-cloud-browser",
+          "evidence": "Complete visible form read2026-10-01T11:38:25Z; academic-status and duration/summer text verified. No inputs or submission."
+        }
+      ]
+    },
+    {
+      "baselineId": 104,
+      "name": "Dorsa Sadigh",
+      "observedAt": "2026-10-01T11:38:47Z",
+      "eventType": "later-public-source-verification-not-discovery",
+      "finding": "The ILIAD contact page has a separate non-Stanford visiting-researcher route. The complete live form includes Masters student status and desired start/end dates. It generally prefers at least six months. This verifies an outside-master inquiry channel, but an eight-week exception and 2027 capacity are unknown. The wording is a preference, not a categorical summer prohibition; do not import the stronger Finn/Levine restrictions into this form.",
+      "sources": [
+        {
+          "url": "https://iliad.stanford.edu/contact/",
+          "retrieval": "direct-primary-page",
+          "evidence": "Full live contact page separates visitors from local-student and degree-admissions routes."
+        },
+        {
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSe_NGPAiG_CdlzOhbrfUliSb5YdUVKMjtYJZFRoqcY4NzqXpg/viewform?usp=send_form",
+          "retrieval": "direct-primary-cloud-browser",
+          "evidence": "Complete visible form read2026-10-01T11:38:47Z; academic-status and duration/summer text verified. No inputs or submission."
+        }
+      ]
+    },
+    {
+      "baselineId": 97,
+      "name": "Katerina Fragkiadaki",
+      "observedAt": "2026-10-01T11:44:33Z",
+      "eventType": "later-public-source-verification-not-discovery",
+      "finding": "The live faculty page links a research-group application for capacities other than PhD admission. Its complete form explicitly includes non-CMU applicants, Master academic status and self-funded/fellowship options, but states that visitors are considered only when available for six months or longer. This is a stated visitor condition, not merely a general preference, and is incompatible with an approximately eight-week stay absent a newly confirmed exception. Funding choices are inquiry fields, not a funding award or immigration approval.",
+      "sources": [
+        {
+          "url": "https://www.cs.cmu.edu/~katef/",
+          "retrieval": "direct-primary-page",
+          "evidence": "Full current homepage directs non-PhD group inquiries to the exact linked form, then a short email without documents."
+        },
+        {
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSfmaoCGWe0X0gVVRMZSylxiiAvg2Mayz0EqESXHD1WfPEs9nA/viewform?usp=publish-editor",
+          "retrieval": "direct-primary-cloud-browser",
+          "evidence": "Complete form read11:44:33Z; outside-CMU eligibility, Master category, six-month visitor condition and funding choices verified. No inputs, uploads or submission."
+        }
+      ]
+    },
+    {
+      "baselineId": 96,
+      "name": "David Held",
+      "observedAt": "2026-10-01T11:46:28Z",
+      "eventType": "later-public-source-verification-not-discovery",
+      "finding": "The complete live RPAD joining form includes a no-CMU-program visiting-researcher choice, asks which summer/semester and in-person/remote intent, and states that undergraduate and master’s funding is currently unavailable. This is a real visitor-capable inquiry channel. However, the faculty homepage introduces this form to undergraduate internship applicants, while its master’s paragraph concerns admitted CMU degree students; exact applicability to an outside current master’s requires confirmation. The linked lab policies require at least a semester or summer commitment, at least 40 hours/week without classes, and ordinarily working onsite at least 4 days/week. A remote-intent form field is not remote approval.",
+      "sources": [
+        {
+          "url": "https://davheld.github.io/",
+          "retrieval": "direct-primary-page",
+          "evidence": "Full current homepage, undergrad internship invitation and separate CMU master’s admission instructions."
+        },
+        {
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSd7Bftdy-F4pjHrg6mS_eMd0TTNGbEN2-m2Oh8DC9MbNrX59g/viewform",
+          "retrieval": "direct-primary-cloud-browser",
+          "evidence": "Complete live form read11:45:36Z: visitor choice, no undergraduate/master funding, summer/time/remote inquiry and40hours/week summer requirement."
+        },
+        {
+          "url": "https://docs.google.com/document/d/1su_EhI4DNCpDPPwssh_g9Z3js7DixCOf6WrDTOgikU4",
+          "retrieval": "direct-primary-google-docs-connector",
+          "evidence": "Full public lab policy document read11:46:28Z; Time Commitments and Lab interactions sections: semester/summer commitment,40hours/week without classes, onsite4days/week default, exceptions by advance discussion. No agreement was accepted."
+        }
+      ]
     }
   ]
 }

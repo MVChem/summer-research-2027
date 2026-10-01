@@ -167,6 +167,7 @@
     "batches/embodied-073.json",
     "batches/embodied-074.json",
     "batches/embodied-075.json",
+    "batches/embodied-076.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -9056,6 +9057,36 @@
       "shortVisitStatus": "inquiry-only · 外校硕士/访客，可询问现场或远程；2027/八周未定",
       "recordFile": "batches/embodied-075.json",
       "detailPage": "batches/embodied-075.md#pratyusha-sharma"
+    },
+    {
+      "id": "amrit-singh-bedi",
+      "name": "Amrit Singh Bedi",
+      "aliases": [
+        "Amrit S. Bedi",
+        "Amrit Bedi"
+      ],
+      "school": "University of Central Florida",
+      "title": "Assistant Professor",
+      "homepage": "https://amrit-singh-bedi.github.io/index.html",
+      "batch": "embodied-076",
+      "discoveredAt": "2026-10-01T07:23:11Z",
+      "verifiedAt": "2026-10-01T07:27:29Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Foundation-model-guided robot reinforcement learning",
+        "Hierarchical reinforcement learning",
+        "VLA safety and policy alignment",
+        "Multi-robot learning"
+      ],
+      "discoveryTimestampNote": "Earliest precisely retained candidate-specific primary encounter in a public supervisor biography; earlier untimed name mentions are not reconstructed or backdated.",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-076.json",
+      "detailPage": "batches/embodied-076.md#amrit-singh-bedi"
     },
     {
       "id": "henny-admoni",

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "amrit-singh-bedi",
+    "name": "Amrit Singh Bedi",
+    "aliases": [
+      "Amrit S. Bedi",
+      "Amrit Bedi"
+    ],
+    "school": "University of Central Florida",
+    "homepage": "https://amrit-singh-bedi.github.io/index.html",
+    "title": "Assistant Professor",
+    "department": "Computer Science; SafeRR AI Lab",
+    "batch": "embodied-076",
+    "discoveredAt": "2026-10-01T07:23:11Z",
+    "verifiedAt": "2026-10-01T07:27:29Z",
+    "researchAreas": [
+      "Foundation-model-guided robot reinforcement learning",
+      "Hierarchical reinforcement learning",
+      "VLA safety and policy alignment",
+      "Multi-robot learning"
+    ],
+    "fitReason": "Direct learned manipulation and hierarchical RL alignment offer a strong embodied-method match. The lab connects foundation-model training supervision with lightweight deployed control; a reward-learning or policy-evaluation project is plausible research alignment, not a confirmed opening.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Full July 22, 2026 VGRS v7 §IV-G deploys simulation-trained hierarchical policies on a Dobot Magician with RealSense D435 for pick/place and bin tasks. It reports five sets of ten trials and 60% success for each task. Physical end-to-end control is20Hz, while approximately500Hz is an inference benchmark, not robot execution. LLM/VLM reward synthesis is training-time only. The collaboration spans UCF, IIT Kanpur and Bath; hardware location/ownership is unspecified. An August 2025 version already had physical trials before Bedi joined its author list, so cap at 20 and do not imply a newly built UCF system.",
+      "sourceIds": [
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current explicit external-master short-visit invitation found on the full current homepage and lab roster. Utsav Singh documents a 2024 six-month UCF research visit followed by a 2026 joint postdoc under Bedi/Shah; it was a PhD-stage precedent, not an external-master eight-week offer. Current PhD recruitment and undergraduate REU are not interchangeable with this target.",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s7",
+        "s8"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct foundation-model reward synthesis and hierarchical robot RL with broader safety/alignment methods.",
+      "physical": "Full actual learned arm deployment, but collaborative site and older experiment lineage unresolved.",
+      "shortVisit": "No applicable external-master short-visit invitation verified.",
+      "freshness": "July 2026 full deployed-policy revision and current UCF lab/advising evidence."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.cs.ucf.edu / source 1",
+        "url": "https://www.cs.ucf.edu/faculty-directory/",
+        "summary": "Full current official CS faculty directory, Assistant Professor and email.",
+        "verifiedAt": "2026-10-01T07:27:29Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "amrit-singh-bedi.github.io / source 2",
+        "url": "https://amrit-singh-bedi.github.io/index.html",
+        "summary": "Full current faculty homepage, SafeRR leadership, current robot/foundation-model scope, IROS 2026 paper and separately self-reported UMD adjunct role.",
+        "verifiedAt": "2026-10-01T07:27:29Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "amrit-singh-bedi.github.io / source 3",
+        "url": "https://amrit-singh-bedi.github.io/lab.html",
+        "summary": "Full primary lab page retrieved over verified HTTPS after text-reader failure; current students and joint Utsav Singh postdoc, no short-visitor invitation.",
+        "verifiedAt": "2026-10-01T07:27:29Z",
+        "retrieval": "direct-primary-https"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2406.05881v7",
+        "summary": "FullJuly22, 2026 Training Fast Robot Policies with Slow Foundation Models, actual Dobot trials,20Hz hardware versus500Hz inference and new-instruction limitation.",
+        "verifiedAt": "2026-10-01T07:27:29Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/abs/2406.05881",
+        "summary": "Version history: firstJune 2024, revisedJuly 2026; dates are paper versions, not experimental dates.",
+        "verifiedAt": "2026-10-01T07:27:29Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2406.05881v4",
+        "summary": "FullAugust 2025 LGR2 predecessor already contains real-arm trials but not Bedi as author; conservatively retains earlier hardware provenance.",
+        "verifiedAt": "2026-10-01T07:27:29Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s7",
+        "label": "utsavz.github.io / source 7",
+        "url": "https://utsavz.github.io/",
+        "summary": "Full current first-author biography,2024 six-month visit andJune 2026 UCF postdoc supervised jointly by Bedi/Shah; not an outside-master offer.",
+        "verifiedAt": "2026-10-01T07:27:29Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s8",
+        "label": "saferrai-lab.org / source 8",
+        "url": "https://saferrai-lab.org/",
+        "summary": "Full additional lab site focuses AI safety/reliability; no explicit applicable short visitor invitation.",
+        "verifiedAt": "2026-10-01T07:27:29Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Full official UCF CS directory confirms Assistant Professor and professional email. The personal page separately reports a 2026–29 UMD adjunct appointment; UCF is the host assessed here and no Maryland hosting authority is inferred.",
+      "Physical platform provenance remains collaborative/unspecified. The 2026 revision and venue acceptance are not proof that trials were run in 2026 or at UCF. Earlier v4 had a different title, author list and bin success value; do not mix version-specific results.",
+      "VGRS cannot handle entirely new zero-shot language instructions without another training cycle. Franka-kitchen and maze benchmark results are simulation; do not convert them into additional physical platforms.",
+      "Reuse UCF feasibility anchor ucf. External-master academic title, immigration category, current monthly support and fully personal funding remain unresolved. Short-Term Scholar’s six-month cap and bachelor threshold do not guarantee eligibility. Department planning is2–4months; current initial scholar processing charge is$300 to the department.",
+      "Published UCF screening sources differ between past-ten-year affiliation and employment wording for listed entities. Host/compliance interpretation is required; no applicant nationality, biography, home affiliation or exclusion is inferred. Summer 2027, eight-week duration, funding and remote work remain unknown.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: Earliest precisely retained candidate-specific primary encounter in a public supervisor biography; earlier untimed name mentions are not reconstructed or backdated.",
+      "[Institutional visitor rules](../eligibility_notes.md#ucf)"
+    ],
+    "discoveryTimestampNote": "Earliest precisely retained candidate-specific primary encounter in a public supervisor biography; earlier untimed name mentions are not reconstructed or backdated.",
+    "publicEmail": "amritbedi@ucf.edu"
+  }
+]

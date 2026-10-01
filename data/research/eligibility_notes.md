@@ -80,6 +80,16 @@ CMU 学术任命补充核查：2026-10-01T00:16:30Z。[Collaborating Visitor](ht
 
 八周日期、保险、其他费用、财力要求、国际身份和导师容量仍待院系与 OIS 确认。这是 WSE / Homewood 的路径，不自动适用于医学院。
 
+<a id="jhu-som-research-trainee"></a>
+
+## Johns Hopkins · School of Medicine 外校研究生 Trainee
+
+核查：2026-10-01T09:56:26Z。医学院现行 [Registrar Trainee 页面](https://www.hopkinsmedicine.org/som/offices/registrars/trainees) 明确包含外校研究生学位在读者；通常通过限期任命学习原校无法提供的专长，任期一般不超过两年。不颁发证书，修读 JHU 课程需另行正式申请并支付学费。[2022 年院系行政说明](https://medicine-matters.blogs.hopkinsmedicine.org/2022/05/summer-interns-and-summer-hires/) 曾列外校研究生 paid/unpaid、6–8 周、与原教育项目相关的研究，须经 SOM Registrar 任命；这是历史短期办理依据，不能当作已确认的 2027 八周名额或最新时长规则。当前申请表需 JHED，未访问。
+
+先确认具体接收学校和项目；Whiting / Homewood 路径不自动适用医学院。[Visiting Medical Student Program](https://www.hopkinsmedicine.org/som/offices/registrars/visiting-md/) 要求医学院在读，不能把其 4–9 周 research elective 及收费、身份说明套用到 CS 硕士。
+
+[OIS J-1 Non-Degree 说明](https://ois.jhu.edu/students/current-j-1-students/j-1-categories/) 要求相当部分经费来自个人/家庭以外来源，或通过合格交流协议。[Visiting Student 经费与保险页面](https://ois.jhu.edu/department-administrators/sponsoring-j-1-exchange-visitors/j-1-visiting-students/funding-and-health-insurance-requirements/) 的索引文本列每月 $2,000 最低生活支持，并接受多种资金组合，同时明确 Non-Degree 有额外经费要求；允许提交个人资金文件不等于全额自费必然可行。该页面还列 JHU 学生医保必购、不可用外部保险豁免。此详细页面实时读取被站点拦截，金额/保险条款仅有索引证据，2027 年须复核。实际身份、资金比例、费用、保险、提前量、八周日期及非临床项目许可均由接收部门和 OIS 确认；制度入口不是导师接收承诺。
+
 <a id="georgia-tech-student-intern"></a>
 
 ## Georgia Tech · 外校本科 / 研究生 Student Intern

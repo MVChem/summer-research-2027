@@ -259,6 +259,7 @@
     "batches/hri-076.json",
     "batches/hri-077.json",
     "batches/hri-078.json",
+    "batches/hri-079.json",
     "batches/hri-080.json"
   ],
   "candidates": [
@@ -13874,6 +13875,37 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-078.json",
       "detailPage": "batches/hri-078.md#derek-g-kamper"
+    },
+    {
+      "id": "nitish-v-thakor",
+      "name": "Nitish V. Thakor",
+      "aliases": [
+        "Nitish Thakor"
+      ],
+      "school": "Johns Hopkins University",
+      "title": "Professor of Biomedical Engineering, Electrical and Computer Engineering, and Neurology",
+      "homepage": "https://neuroengineering.bme.jhu.edu/",
+      "batch": "hri-079",
+      "discoveredAt": "2026-10-01T09:45:40Z",
+      "verifiedAt": "2026-10-01T09:56:26Z",
+      "scores": {
+        "fit": 36,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Neuromorphic tactile perception",
+        "Myoelectric robot interfaces",
+        "Prosthetic hands",
+        "Machine learning for tactile sensing",
+        "Neuroengineering"
+      ],
+      "physicalEvidenceStatus": "historical-or-indirect",
+      "physicalEvidenceLabel": "受限真机证据：historical-or-indirect",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-079.json",
+      "detailPage": "batches/hri-079.md#nitish-v-thakor"
     },
     {
       "id": "jundi-liu",

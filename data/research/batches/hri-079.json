@@ -1,0 +1,165 @@
+[
+  {
+    "id": "nitish-v-thakor",
+    "name": "Nitish V. Thakor",
+    "aliases": [
+      "Nitish Thakor"
+    ],
+    "school": "Johns Hopkins University",
+    "homepage": "https://neuroengineering.bme.jhu.edu/",
+    "title": "Professor of Biomedical Engineering, Electrical and Computer Engineering, and Neurology",
+    "department": "Biomedical Engineering; Electrical and Computer Engineering; Neurology; Neuroengineering & Biomedical Instrumentation Lab",
+    "batch": "hri-079",
+    "discoveredAt": "2026-10-01T09:45:40Z",
+    "verifiedAt": "2026-10-01T09:56:26Z",
+    "researchAreas": [
+      "Neuromorphic tactile perception",
+      "Myoelectric robot interfaces",
+      "Prosthetic hands",
+      "Machine learning for tactile sensing",
+      "Neuroengineering"
+    ],
+    "fitReason": "Relevant computational work in tactile feature encoding, learned sensory discrimination and myoelectric prosthesis control. The current JHU faculty directory verifies the three professor titles, and the lab roster and 2025 university report independently connect the hand study to his supervised JHU doctoral work. His lab also reports an NUS appointment, so Baltimore availability requires confirmation.",
+    "physicalEvidence": {
+      "status": "historical-or-indirect",
+      "summary": "The fully inspected March 2025 Science Advances study demonstrates a hybrid pneumatic hand mounted on an actual UR5 and an able-bodied bypass-prosthesis demonstration: Myo Armband EMG classification sends hand positions to an Arduino for pneumatic actuation. Separate tactile perception uses Izhikevich spike encoding and a linear SVM on robot-collected signals, assessed by repeated four-fold cross-validation over 26 texture plates and 15 objects. The reported 99.69% is object classification accuracy, not grasp success. Learned tactile outputs are not shown closing the grasp-control loop; the paper explicitly leaves a sensory-feedback closed-loop prosthesis to future work. It was submitted July 30, 2024, so 2025 publication does not establish new 2025 hardware execution. This is an early prototype, not an amputee clinical trial or autonomous dexterous manipulation policy.",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The current lab roster includes JHU graduate and undergraduate researchers, master’s alumni and a historical visiting doctoral researcher. No lab-specific invitation for outside-master short visits, an eight-week summer 2027 placement, remote participation or funding was verified. The lab training program is explicitly for JHU BME PhD trainees.",
+      "sourceIds": [
+        "s2",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 36,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantive learned tactile discrimination and EMG-based assistive robot control, with strong neuroengineering rather than general robot foundation-model emphasis.",
+      "physical": "Actual classified-EMG hand actuation is verified; conservative cap for pre-July-2024 execution and separation from offline tactile classification.",
+      "shortVisit": "No applicable outside-master visitor invitation verified.",
+      "freshness": "Current faculty and lab roster, 2026 activity and recent published research verified; older hardware chronology remains explicit."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.bme.jhu.edu / source 1",
+        "url": "https://www.bme.jhu.edu/people/faculty/nitish-v-thakor/",
+        "summary": "Current official professor titles, public nthakor@bme.jhu.edu, Traylor 701 location, neuroprosthesis research and June 2026 faculty activity.",
+        "verifiedAt": "2026-10-01T09:52:11Z"
+      },
+      {
+        "id": "s2",
+        "label": "neuroengineering.bme.jhu.edu / source 2",
+        "url": "https://neuroengineering.bme.jhu.edu/people/",
+        "summary": "Current PI role, graduate supervision, dual JHU/NUS description, named recent hand-study alumni and historical visitor. This roster does not constitute an outside-master invitation.",
+        "verifiedAt": "2026-10-01T09:52:11Z"
+      },
+      {
+        "id": "s3",
+        "label": "www.bme.jhu.edu / source 3",
+        "url": "https://www.bme.jhu.edu/news-events/news/bionic-hand-knows-what-its-touching-grasps-like-a-human/",
+        "summary": "Official March 2025 report independently links the physical hand project to JHU doctoral lead Sriramana Sankar and Thakor. Technical performance is taken from the paper rather than the simplified news wording.",
+        "verifiedAt": "2026-10-01T09:52:11Z"
+      },
+      {
+        "id": "s4",
+        "label": "doi.org / source 4",
+        "url": "https://doi.org/10.1126/sciadv.adr9300",
+        "summary": "Primary March 5, 2025 Science Advances study, submitted July 30, 2024. Actual UR5 and EMG bypass demonstrations, tactile SVM cross-validation and explicitly future sensory-feedback loop.",
+        "verifiedAt": "2026-10-01T09:52:11Z"
+      },
+      {
+        "id": "s5",
+        "label": "pdfs.semanticscholar.org / source 5",
+        "url": "https://pdfs.semanticscholar.org/d53c/065acc5f869fe97d918aa9f7888ca1d9eef6.pdf",
+        "summary": "Full 14-page primary article copy retrieved and inspected. Pages 8–10 distinguish actual hand actuation from tactile classification; pages 11–12 specify methods; final page preserves submission and publication dates. PMC live access returned a browser challenge and was not bypassed.",
+        "verifiedAt": "2026-10-01T09:52:11Z"
+      },
+      {
+        "id": "s6",
+        "label": "neuroengineering.bme.jhu.edu / source 6",
+        "url": "https://neuroengineering.bme.jhu.edu/neuroengineering-training-program/",
+        "summary": "Lab program explicitly supports JHU BME PhD trainees, not a general external-master summer placement.",
+        "verifiedAt": "2026-10-01T09:52:11Z"
+      },
+      {
+        "id": "s7",
+        "label": "engineering.jhu.edu / source 7",
+        "url": "https://engineering.jhu.edu/admissions/graduate-admissions/full-time-programs/how-to-apply/visiting-students-scholars/",
+        "summary": "Institutional source reused from 2026-09-30T22:26:52Z review: Whiting/Homewood externally enrolled graduate research route, host invitation and waived research-only application fee. Medical-campus applicability is unknown.",
+        "verifiedAt": "2026-09-30T22:26:52Z",
+        "retrieval": "Reused prior Whiting/Homewood institutional review; not applied automatically to Medicine"
+      },
+      {
+        "id": "s8",
+        "label": "engineering.jhu.edu / source 8",
+        "url": "https://engineering.jhu.edu/residential-grad-postdoc-academic-affairs/policies-and-procedures/",
+        "summary": "Reused policy review: formal academic registration and tuition-free research practicum; explicitly not automatically applicable outside WSE/Homewood.",
+        "verifiedAt": "2026-09-30T22:26:52Z",
+        "retrieval": "Reused prior Whiting/Homewood institutional review; not applied automatically to Medicine"
+      },
+      {
+        "id": "s9",
+        "label": "SOM Registrar: Research Trainees",
+        "url": "https://www.hopkinsmedicine.org/som/offices/registrars/trainees",
+        "summary": "Current academic Trainee category expressly includes outside graduate-degree candidates; host appointment required and no automatic eight-week acceptance.",
+        "verifiedAt": "2026-10-01T09:54:47Z",
+        "retrieval": "Direct full official category page"
+      },
+      {
+        "id": "s10",
+        "label": "Dated departmental short-trainee guidance",
+        "url": "https://medicine-matters.blogs.hopkinsmedicine.org/2022/05/summer-interns-and-summer-hires/",
+        "summary": "May 2022 departmental guidance described paid/unpaid six-to-eight-week degree-related graduate research appointments through SOM Registrar. Historical administrative precedent, not verified 2027 approval.",
+        "verifiedAt": "2026-10-01T09:54:47Z",
+        "retrieval": "Direct full dated official page"
+      },
+      {
+        "id": "s11",
+        "label": "Visiting medical student program scope",
+        "url": "https://www.hopkinsmedicine.org/som/offices/registrars/visiting-md/",
+        "summary": "Medical-school enrollment required; medical elective duration and fees cannot be applied to a nonmedical graduate researcher.",
+        "verifiedAt": "2026-10-01T09:54:47Z",
+        "retrieval": "Direct current official page"
+      },
+      {
+        "id": "s12",
+        "label": "OIS J-1 category rules",
+        "url": "https://ois.jhu.edu/students/current-j-1-students/j-1-categories/",
+        "summary": "Student Non-Degree requires substantial nonpersonal/nonfamily support or a qualifying exchange agreement; academic Trainee title alone does not select a visa category.",
+        "verifiedAt": "2026-10-01T09:54:47Z",
+        "retrieval": "Direct current official page"
+      },
+      {
+        "id": "s13",
+        "label": "OIS visiting-student financial and insurance requirements",
+        "url": "https://ois.jhu.edu/department-administrators/sponsoring-j-1-exchange-visitors/j-1-visiting-students/funding-and-health-insurance-requirements/",
+        "summary": "Indexed official text lists $2,000/month support, multiple funding sources subject to extra Non-Degree restrictions, and required JHU insurance without outside waiver. Live retrieval blocked; 2027 details need revalidation.",
+        "verifiedAt": "2026-10-01T09:55:18Z",
+        "retrieval": "Indexed-only official text; live Cloudflare block was not bypassed"
+      }
+    ],
+    "unknowns": [
+      "The primary faculty directory places the lab in Traylor on the East Baltimore medical campus. Confirm the actual appointing school, campus and project with the host before relying on any institutional visiting policy.",
+      "The existing JHU research review covers Whiting/Homewood Visiting Graduate Scholars. It cannot automatically be applied to a School of Medicine or East Baltimore appointment.",
+      "Clinical access, human-subject testing and research-device use require applicable supervision and approvals; no patient or equipment access is promised.",
+      "Tactile SVM evaluation, commercial EMG-classifier-driven physical movement and mechanical compliance are distinct parts of the study. Do not call the reported classification accuracy autonomous grasp success or assume new tactile feedback controls the hand.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#jhu-som-research-trainee)",
+      "Current School of Medicine Registrar guidance has a Trainee category for outside graduate-degree candidates. Dated May 2022 department guidance describes six-to-eight-week paid/unpaid educational research; this is historical precedent, not current host acceptance or a 2027 duration guarantee. The specific appointing school and immigration category require host/OIS approval.",
+      "Current OIS Non-Degree rules require substantial nonpersonal/nonfamily funding or a qualifying agreement. Detailed $2,000/month and mandatory JHU-insurance figures were available only in indexed official text after live retrieval was blocked; they are not a verified 2027 quote. A personal bank statement does not establish wholly self-funded eligibility."
+    ],
+    "publicEmail": "nthakor@bme.jhu.edu"
+  }
+]

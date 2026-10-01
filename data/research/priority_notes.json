@@ -23,12 +23,14 @@
         {
           "url": "https://syse.utdallas.edu/ourteam/staff/neel-p-bhatt/",
           "observedAt": "2026-10-01T12:09:13Z",
-          "evidence": "Current Assistant Professor and explicit Fall2026 team arrival; complete direct HTML read after web extraction was unavailable."
+          "evidence": "Current Assistant Professor and explicit Fall2026 team arrival; complete direct HTML read after web extraction was unavailable.",
+          "id": "h1"
         },
         {
           "url": "https://neel1302.github.io/",
           "observedAt": "2026-10-01T12:12:56Z",
-          "evidence": "Current role; author news says August2026 appointment; full openings section separately welcomes visiting students/interns and specifies application contents. Top banner explicitly includes Summer2027 while lower section still says Fall2026/Spring2027."
+          "evidence": "Current role; author news says August2026 appointment; full openings section separately welcomes visiting students/interns and specifies application contents. Top banner explicitly includes Summer2027 while lower section still says Fall2026/Spring2027.",
+          "id": "h2"
         }
       ]
     },
@@ -51,12 +53,14 @@
         {
           "url": "https://ece.princeton.edu/news/tom-silver-joins-princeton-faculty-expertise-robot-planning-and-learning",
           "observedAt": "2026-10-01T12:07:50Z",
-          "evidence": "Department story explicitly states joined Princeton faculty in2025."
+          "evidence": "Department story explicitly states joined Princeton faculty in2025.",
+          "id": "h1"
         },
         {
           "url": "https://prpl-group.com/",
           "observedAt": "2026-10-01T12:09:31Z",
-          "evidence": "Lab timeline says Fall2025 start; graduate students from other institutions may inquire via VSRC, with no remote internships."
+          "evidence": "Lab timeline says Fall2025 start; graduate students from other institutions may inquire via VSRC, with no remote internships.",
+          "id": "h2"
         }
       ]
     },
@@ -79,17 +83,20 @@
         {
           "url": "https://me.stanford.edu/people/thomas-berrueta",
           "observedAt": "2026-10-01T12:07:59Z",
-          "evidence": "Exact incoming AP start November1,2026, and PAL opening November2026."
+          "evidence": "Exact incoming AP start November1,2026, and PAL opening November2026.",
+          "id": "h1"
         },
         {
           "url": "https://pal.stanford.edu/join.html",
           "observedAt": "2026-10-01T12:09:13Z",
-          "evidence": "Separate visiting-researcher category alongside postdocs and current Stanford students; fellowship list is for PhD/postdoc funding, not visitor award."
+          "evidence": "Separate visiting-researcher category alongside postdocs and current Stanford students; fellowship list is for PhD/postdoc funding, not visitor award.",
+          "id": "h2"
         },
         {
           "url": "https://docs.google.com/forms/d/e/1FAIpQLSfj0tdvD6Zxct-pXrqa1XtyC-DuPnI16Y3d9SRIQ86asmvbqw/viewform",
           "observedAt": "2026-10-01T12:10:06Z",
-          "evidence": "Initial public form page includes Visiting Researcher role and form-first then email instructions. Later pages unread; no input/upload/submission. Exact URL checked12:13:06Z."
+          "evidence": "Initial public form page includes Visiting Researcher role and form-first then email instructions. Later pages unread; no input/upload/submission. Exact URL checked12:13:06Z.",
+          "id": "h3"
         }
       ]
     },
@@ -111,17 +118,20 @@
         {
           "url": "https://www.cs.jhu.edu/news/johns-hopkins-computer-science-welcomes-six-new-tenure-track-faculty/",
           "observedAt": "2026-10-01T12:10:53Z",
-          "evidence": "Full official story names him among seven new tenure-track CS assistant professors this academic year. URL says six but visible title/body seven."
+          "evidence": "Full official story names him among seven new tenure-track CS assistant professors this academic year. URL says six but visible title/body seven.",
+          "id": "h1"
         },
         {
           "url": "https://www.cs.jhu.edu/faculty/homanga-bharadhwaj/",
           "observedAt": "2026-10-01T12:07:50Z",
-          "evidence": "Current CS AP and statement he joined Johns Hopkins full-time after Meta."
+          "evidence": "Current CS AP and statement he joined Johns Hopkins full-time after Meta.",
+          "id": "h2"
         },
         {
           "url": "http://b3.cs.jhu.edu/",
           "observedAt": "2026-10-01T12:12:15Z",
-          "evidence": "Complete HTTP page recovered using the exact lab link from author homepage. August2026 is website-launch news; separate visitor section still has no configured Google Form. Earlier HTTPS attempts failed."
+          "evidence": "Complete HTTP page recovered using the exact lab link from author homepage. August2026 is website-launch news; separate visitor section still has no configured Google Form. Earlier HTTPS attempts failed.",
+          "id": "h3"
         }
       ]
     },
@@ -143,22 +153,26 @@
         {
           "url": "https://dhruvshah.me/docs/cv.pdf",
           "observedAt": "2026-10-01T12:09:44Z",
-          "evidence": "Downloaded complete ten-page CV; appointment block and September2026 update visually checked on page1: Princeton2026–present."
+          "evidence": "Downloaded complete ten-page CV; appointment block and September2026 update visually checked on page1: Princeton2026–present.",
+          "id": "h1"
         },
         {
           "url": "https://ece.princeton.edu/node/10221",
           "observedAt": "2026-10-01T12:07:50Z",
-          "evidence": "Official university profile says he has joined as ECE AP; April6 publication corroborates current appointment."
+          "evidence": "Official university profile says he has joined as ECE AP; April6 publication corroborates current appointment.",
+          "id": "h2"
         },
         {
           "url": "https://prism.robotics.princeton.edu/contact",
           "observedAt": "2026-10-01T12:09:31Z",
-          "evidence": "Dedicated non-Princeton short-term visitor route, separate from current-Princeton student forms."
+          "evidence": "Dedicated non-Princeton short-term visitor route, separate from current-Princeton student forms.",
+          "id": "h3"
         },
         {
           "url": "https://docs.google.com/forms/d/e/1FAIpQLScgkMi3nEuGibkb4uexKnXtDZT2Vmg_yoPGxEQYAZTPUshrsQ/viewform",
           "observedAt": "2026-10-01T12:10:06Z",
-          "evidence": "Initial form page explicitly prefers visits >=6months and includes Masters status. Later pages were not inspected and no identifying fields/checks/uploads/submission were entered. Exact URL checked12:13:06Z."
+          "evidence": "Initial form page explicitly prefers visits >=6months and includes Masters status. Later pages were not inspected and no identifying fields/checks/uploads/submission were entered. Exact URL checked12:13:06Z.",
+          "id": "h4"
         }
       ]
     },
@@ -181,12 +195,14 @@
         {
           "url": "https://physicalsciences.uchicago.edu/news/article/introducing-new-faculty-PSD-26-27/",
           "observedAt": "2026-10-01T12:07:59Z",
-          "evidence": "Direct university announcement explicitly specifies January2027 AP start."
+          "evidence": "Direct university announcement explicitly specifies January2027 AP start.",
+          "id": "h1"
         },
         {
           "url": "https://haozhi.io/",
           "observedAt": "2026-10-01T12:10:38Z",
-          "evidence": "Incoming UChicago AP, current Amazon FAR technical-staff role, PhD-only application instructions; no external visitor invitation."
+          "evidence": "Incoming UChicago AP, current Amazon FAR technical-staff role, PhD-only application instructions; no external visitor invitation.",
+          "id": "h2"
         }
       ]
     },
@@ -209,17 +225,20 @@
         {
           "url": "https://iridescent.io/",
           "observedAt": "2026-10-01T12:07:59Z",
-          "evidence": "First-person incoming CS AP and January2027 start, not yet current role."
+          "evidence": "First-person incoming CS AP and January2027 start, not yet current role.",
+          "id": "h1"
         },
         {
           "url": "https://cml.ics.uci.edu/faculty/",
           "observedAt": "2026-10-01T12:12:36Z",
-          "evidence": "Official roster names David Chan under Computer Science; no start date or independent proof he has arrived."
+          "evidence": "Official roster names David Chan under Computer Science; no start date or independent proof he has arrived.",
+          "id": "h2"
         },
         {
           "url": "https://iridescent.io/students/",
           "observedAt": "2026-10-01T12:09:31Z",
-          "evidence": "Full recruitment page covers degree applicants and already-UCI students, no external visitor section."
+          "evidence": "Full recruitment page covers degree applicants and already-UCI students, no external visitor section.",
+          "id": "h3"
         }
       ]
     },
@@ -231,12 +250,14 @@
         {
           "url": "https://ece.illinois.edu/about/directory/adjuncts/yaqixie",
           "observedAt": "2026-10-01T12:09:31Z",
-          "evidence": "Complete official HTML shows ADJ ASST PROF and Illinois email; no start date."
+          "evidence": "Complete official HTML shows ADJ ASST PROF and Illinois email; no start date.",
+          "id": "h1"
         },
         {
           "url": "https://yaqi-xie.me/",
           "observedAt": "2026-10-01T12:08:55Z",
-          "evidence": "Explicit incoming UIUC ECE AP/CS-affiliate announcement plus current CMU postdoctoral role; interns welcomed; no appointment start."
+          "evidence": "Explicit incoming UIUC ECE AP/CS-affiliate announcement plus current CMU postdoctoral role; interns welcomed; no appointment start.",
+          "id": "h2"
         }
       ]
     }

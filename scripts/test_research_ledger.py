@@ -363,5 +363,12 @@ class ResearchLedgerTests(unittest.TestCase):
         with self.assertRaises(AssertionError): ledger.validate_priority_notes(notes, self.full)
 
 
+    def test_appointment_sources_cannot_dangle(self):
+        notes = copy.deepcopy(ledger.priority_notes())
+        entry = notes['appointments']['tom-silver']
+        entry['appointmentStart']['sourceIds'] = ['missing']
+        with self.assertRaises(AssertionError): ledger.validate_priority_notes(notes, self.full)
+
+
 if __name__ == "__main__":
     unittest.main()

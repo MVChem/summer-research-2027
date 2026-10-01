@@ -241,8 +241,11 @@ def validate_priority_notes(notes, data):
         assert entry["display"] and entry["sources"]
         for source in entry["sources"]:
             url_key(source["url"]); timestamp(source["observedAt"]); assert source["evidence"]
+        source_ids = {source["id"] for source in entry["sources"]}
+        assert len(source_ids) == len(entry["sources"]), "Duplicate appointment source ID"
         start = entry.get("appointmentStart", {})
         if start:
+            assert start["sourceIds"] and set(start["sourceIds"]) <= source_ids, "Dangling appointment source reference"
             assert start["status"] in {"current", "incoming", "unresolved"}
             assert start["precision"] in {"year", "month", "day", "academic-year", "unknown"}
             if start["precision"] not in {"unknown"}:

@@ -246,7 +246,8 @@
     "batches/hri-073.json",
     "batches/hri-074.json",
     "batches/hri-075.json",
-    "batches/hri-076.json"
+    "batches/hri-076.json",
+    "batches/hri-077.json"
   ],
   "candidates": [
     {
@@ -13420,6 +13421,64 @@
       "shortVisitStatus": "inquiry-only · 明确访问研究生入口；需共同署名论文，2027/八周未定",
       "recordFile": "batches/hri-076.json",
       "detailPage": "batches/hri-076.md#fabrizio-sergi"
+    },
+    {
+      "id": "xiaogang-hu",
+      "name": "Xiaogang Hu",
+      "aliases": [],
+      "school": "Pennsylvania State University",
+      "title": "Professor; Dorothy Foehr Huck and J. Lloyd Huck Chair in Neurorehabilitation",
+      "homepage": "https://sites.psu.edu/nml1/",
+      "batch": "hri-077",
+      "discoveredAt": "2026-10-01T07:24:27Z",
+      "verifiedAt": "2026-10-01T07:26:42Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Neural-machine interfaces",
+        "Deep learning for motor-intent decoding",
+        "Myoelectric robotic-hand control",
+        "Assistive robotics",
+        "Sensory feedback and neural rehabilitation"
+      ],
+      "physicalEvidenceStatus": "historical-or-indirect",
+      "physicalEvidenceLabel": "受限真机证据：historical-or-indirect",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-077.json",
+      "detailPage": "batches/hri-077.md#xiaogang-hu"
+    },
+    {
+      "id": "long-meng",
+      "name": "Long Meng",
+      "aliases": [],
+      "school": "Pennsylvania State University",
+      "title": "Assistant Research Professor of Mechanical Engineering",
+      "homepage": "https://www.engr.psu.edu/directory/directory-detail-g.aspx?q=lmm7405",
+      "batch": "hri-077",
+      "discoveredAt": "2026-10-01T07:24:27Z",
+      "verifiedAt": "2026-10-01T07:26:42Z",
+      "scores": {
+        "fit": 36,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Deep neural decoding",
+        "Myoelectric prosthetic control",
+        "Motor-intention prediction",
+        "Biomedical signal processing",
+        "Neural-machine interfaces"
+      ],
+      "physicalEvidenceStatus": "historical-or-indirect",
+      "physicalEvidenceLabel": "受限真机证据：historical-or-indirect",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-077.json",
+      "detailPage": "batches/hri-077.md#long-meng"
     }
   ]
 }

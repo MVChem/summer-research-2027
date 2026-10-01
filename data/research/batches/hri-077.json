@@ -1,0 +1,243 @@
+[
+  {
+    "id": "xiaogang-hu",
+    "name": "Xiaogang Hu",
+    "aliases": [],
+    "school": "Pennsylvania State University",
+    "homepage": "https://sites.psu.edu/nml1/",
+    "title": "Professor; Dorothy Foehr Huck and J. Lloyd Huck Chair in Neurorehabilitation",
+    "department": "Mechanical Engineering, Kinesiology, and Physical Medicine & Rehabilitation; Neuromechanics Laboratory",
+    "batch": "hri-077",
+    "discoveredAt": "2026-10-01T07:24:27Z",
+    "verifiedAt": "2026-10-01T07:26:42Z",
+    "researchAreas": [
+      "Neural-machine interfaces",
+      "Deep learning for motor-intent decoding",
+      "Myoelectric robotic-hand control",
+      "Assistive robotics",
+      "Sensory feedback and neural rehabilitation"
+    ],
+    "fitReason": "Strong CS/AI and assistive-robotics fit through deep neural decoding, representation learning, cross-day adaptation and continuous prosthetic control. Current Penn State role is verified, with an active methods pipeline rather than reliance on former UNC affiliation.",
+    "physicalEvidence": {
+      "status": "historical-or-indirect",
+      "summary": "The full 2025 IEEE THMS paper implements a trained, subject-calibrated parallel CNN that maps high-density surface EMG features to finger-specific neural drive, then uses regression/Kalman filtering to command an actual i-Limb hand’s index, middle and ring finger forces. Reference forces update at 8 Hz and the conventional PD/motor controller at 32 Hz. Ten neurologically intact participants performed isometric tasks; the paper separately documents the physical hand setup and supplemental demonstration. It does not claim ten independent clinical prosthesis deployments. Thumb/object manipulation and validation in people with motor disabilities remain future work. The manuscript was received in July 2024 and uses UNC-Chapel Hill IRB approval with Penn State and UNC/NC State authors. Exact experiment dates, campus location and present apparatus ownership are unverified, so this is collaborative/older execution evidence, not a new 2026 Penn State-owned deployment. Current 2026 cross-day decoding publications establish ongoing methods research but are not counted as additional hardware execution.",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current official Penn State endowed professorship and lab leadership are verified. The live Positions page invites PhD, postdoctoral and undergraduate candidates, but no applicable outside-master visitor offer. Current lab institutional visitor feasibility is kept separate from faculty availability.",
+      "sourceIds": [
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct learned neural-interface and assistive-robot control fit, with current deep-decoding methods.",
+      "physical": "Actual learned robotic-finger force execution is fully documented, but pre-July-2024/collaborative setup and unclear present campus ownership justify 20.",
+      "shortVisit": "Live recruiting is PhD/postdoc/undergraduate only; no external-master short-visit invitation verified.",
+      "freshness": "Current official title, live lab pages and 2026 research pipeline verified; older execution chronology remains explicit."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.engr.psu.edu / source 1",
+        "url": "https://www.engr.psu.edu/directory/directory-detail-g.aspx?q=xxh120",
+        "summary": "Current official directory: Professor, named Huck Chair, mechanical engineering and other appointments, public xxh120@psu.edu. This supersedes stale Associate Professor labels.",
+        "verifiedAt": "2026-10-01T07:26:42Z"
+      },
+      {
+        "id": "s2",
+        "label": "pure.psu.edu / source 2",
+        "url": "https://pure.psu.edu/en/persons/xiaogang-hu/",
+        "summary": "Official current research profile confirms Professor and 2026 decoding publications; PI projects in bidirectional neural interfaces and prosthesis control are active but not visitor invitations.",
+        "verifiedAt": "2026-10-01T07:26:42Z"
+      },
+      {
+        "id": "s3",
+        "label": "sites.psu.edu / source 3",
+        "url": "https://sites.psu.edu/nml1/people/",
+        "summary": "Official lab team identifies Hu as PI and endowed Professor; Meng as Assistant Research Professor after Penn State postdoctoral work. Direct university directory sources independently confirm current titles.",
+        "verifiedAt": "2026-10-01T07:26:42Z"
+      },
+      {
+        "id": "s4",
+        "label": "bpb-us-e1.wpmucdn.com / source 4",
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/6/152850/files/2025/09/Meng25_RobotNeuralCtr.pdf",
+        "summary": "Full author-hosted 2025 IEEE THMS paper, DOI 10.1109/THMS.2025.3532209: trained CNN neural-drive decoder, actual i-Limb three-finger force execution with PD feedback, 8 Hz reference and 32 Hz motor updates. Ten intact subjects; UNC IRB; July 2024 receipt; disabilities and functional object manipulation not tested.",
+        "verifiedAt": "2026-10-01T07:26:42Z"
+      },
+      {
+        "id": "s5",
+        "label": "sites.psu.edu / source 5",
+        "url": "https://sites.psu.edu/nml1/publications/",
+        "summary": "Live cloud-browser page at 07:26:42 UTC lists 2026 cross-day adaptive decoding, long-term motor-unit-driven decoders and 2025 physical hand article. A current list is not independent proof that every decoding result executes a robot.",
+        "verifiedAt": "2026-10-01T07:26:42Z",
+        "retrieval": "Live primary lab page read in cloud browser"
+      },
+      {
+        "id": "s6",
+        "label": "sites.psu.edu / source 6",
+        "url": "https://sites.psu.edu/nml1/positions/",
+        "summary": "Live cloud-browser page at 07:26:29 UTC advertises Fall 2025 PhD openings, postdocs and undergraduate research. No external-master short-visit invitation is stated.",
+        "verifiedAt": "2026-10-01T07:26:29Z",
+        "retrieval": "Live primary lab page read in cloud browser"
+      },
+      {
+        "id": "s7",
+        "label": "policy.psu.edu / source 7",
+        "url": "https://policy.psu.edu/policies/ac01",
+        "summary": "Institutional source reused from Penn State audit at 2026-10-01T00:52:49Z: outside affiliation, bachelor’s/equivalent and individual/administrative hosts for academic Visiting Scholar; not a faculty invitation.",
+        "verifiedAt": "2026-10-01T00:52:49Z",
+        "retrieval": "Reused prior Penn State institutional-policy review"
+      },
+      {
+        "id": "s8",
+        "label": "global.psu.edu / source 8",
+        "url": "https://global.psu.edu/landing/j-1-scholar-visa-process",
+        "summary": "Reused institutional audit: personal/family funds may be documented; category-specific approval, 2027 amount/fees and timing still require confirmation.",
+        "verifiedAt": "2026-10-01T00:52:49Z",
+        "retrieval": "Reused prior Penn State institutional-policy review"
+      }
+    ],
+    "unknowns": [
+      "No external-master, eight-week summer 2027, remote or funded visitor offer was verified. The live lab Positions page at 07:26:29 UTC advertises Fall 2025 PhD recruitment, postdocs and undergraduate projects; a master’s degree there is applicant preparation for a PhD, not a short visiting-master offer.",
+      "The robotic-hand experiment involves UNC institutional approval and cross-institution collaborators. Do not infer equipment ownership or visitor access at Penn State from current author affiliations.",
+      "Existing Penn State AC01 review indicates outside affiliates with a bachelor’s degree can potentially fit the academic Visiting Scholar minimum, subject to host and administrative approval; graduate visitor immigration classification remains unconfirmed.",
+      "Existing Penn State scholar guidance permits personal/family funding but warns some visa guidance is under review. Exact 2027 costs, fees, funding source/category, insurance and timeline need renewed institutional confirmation.",
+      "The existing institutional source restricts clinical work with people/animals; the host and international office must review any proposed clinical or human-subject component. A research listing does not promise patient access or authorization to operate assistive devices.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#penn-state)"
+    ],
+    "publicEmail": "xxh120@psu.edu"
+  },
+  {
+    "id": "long-meng",
+    "name": "Long Meng",
+    "aliases": [],
+    "school": "Pennsylvania State University",
+    "homepage": "https://www.engr.psu.edu/directory/directory-detail-g.aspx?q=lmm7405",
+    "title": "Assistant Research Professor of Mechanical Engineering",
+    "department": "Mechanical Engineering; Neuromechanics Laboratory",
+    "batch": "hri-077",
+    "discoveredAt": "2026-10-01T07:24:27Z",
+    "verifiedAt": "2026-10-01T07:26:42Z",
+    "researchAreas": [
+      "Deep neural decoding",
+      "Myoelectric prosthetic control",
+      "Motor-intention prediction",
+      "Biomedical signal processing",
+      "Neural-machine interfaces"
+    ],
+    "fitReason": "Current officially appointed research faculty with direct first-author methods expertise in learned neural-drive decoding and real robotic-hand force control. This is a research-faculty lead within Hu’s Neuromechanics Lab; independent visitor-host authority and doctoral-advising status remain unknown.",
+    "physicalEvidence": {
+      "status": "historical-or-indirect",
+      "summary": "The full 2025 IEEE THMS paper implements a trained, subject-calibrated parallel CNN that maps high-density surface EMG features to finger-specific neural drive, then uses regression/Kalman filtering to command an actual i-Limb hand’s index, middle and ring finger forces. Reference forces update at 8 Hz and the conventional PD/motor controller at 32 Hz. Ten neurologically intact participants performed isometric tasks; the paper separately documents the physical hand setup and supplemental demonstration. It does not claim ten independent clinical prosthesis deployments. Thumb/object manipulation and validation in people with motor disabilities remain future work. The manuscript was received in July 2024 and uses UNC-Chapel Hill IRB approval with Penn State and UNC/NC State authors. Exact experiment dates, campus location and present apparatus ownership are unverified, so this is collaborative/older execution evidence, not a new 2026 Penn State-owned deployment. Current 2026 cross-day decoding publications establish ongoing methods research but are not counted as additional hardware execution.",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Both the Penn State faculty announcement and engineering directory explicitly identify Assistant Research Professor, superseding older postdoc labels. The shared lab Positions page does not advertise external-master visitors, and no Meng-specific short-visit invitation was found.",
+      "sourceIds": [
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 36,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "First-author neural decoding and current cross-day adaptation research fit; independent hosting/advising authority within the shared lab is unverified.",
+      "physical": "Actual learned robotic-finger force execution is fully documented, but pre-July-2024/collaborative setup and unclear present campus ownership justify 20.",
+      "shortVisit": "Live recruiting is PhD/postdoc/undergraduate only; no external-master short-visit invitation verified.",
+      "freshness": "Current official title, live lab pages and 2026 research pipeline verified; older execution chronology remains explicit."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.engr.psu.edu / source 1",
+        "url": "https://www.engr.psu.edu/directory/directory-detail-g.aspx?q=lmm7405",
+        "summary": "Current official engineering directory: Long Meng, Assistant Research Professor, Mechanical Engineering, lmm7405@psu.edu.",
+        "verifiedAt": "2026-10-01T07:26:42Z"
+      },
+      {
+        "id": "s2",
+        "label": "www.psu.edu / source 2",
+        "url": "https://www.psu.edu/news/engineering/story/college-engineering-welcomes-12-new-faculty-members",
+        "summary": "Official college faculty announcement explicitly identifies Long Meng among professional-track faculty as assistant research professor of mechanical engineering.",
+        "verifiedAt": "2026-10-01T07:26:42Z"
+      },
+      {
+        "id": "s3",
+        "label": "sites.psu.edu / source 3",
+        "url": "https://sites.psu.edu/nml1/people/",
+        "summary": "Official lab team identifies Hu as PI and endowed Professor; Meng as Assistant Research Professor after Penn State postdoctoral work. Direct university directory sources independently confirm current titles.",
+        "verifiedAt": "2026-10-01T07:26:42Z"
+      },
+      {
+        "id": "s4",
+        "label": "bpb-us-e1.wpmucdn.com / source 4",
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/6/152850/files/2025/09/Meng25_RobotNeuralCtr.pdf",
+        "summary": "Full author-hosted 2025 IEEE THMS paper, DOI 10.1109/THMS.2025.3532209: trained CNN neural-drive decoder, actual i-Limb three-finger force execution with PD feedback, 8 Hz reference and 32 Hz motor updates. Ten intact subjects; UNC IRB; July 2024 receipt; disabilities and functional object manipulation not tested.",
+        "verifiedAt": "2026-10-01T07:26:42Z"
+      },
+      {
+        "id": "s5",
+        "label": "sites.psu.edu / source 5",
+        "url": "https://sites.psu.edu/nml1/publications/",
+        "summary": "Live cloud-browser page at 07:26:42 UTC lists 2026 cross-day adaptive decoding, long-term motor-unit-driven decoders and 2025 physical hand article. A current list is not independent proof that every decoding result executes a robot.",
+        "verifiedAt": "2026-10-01T07:26:42Z",
+        "retrieval": "Live primary lab page read in cloud browser"
+      },
+      {
+        "id": "s6",
+        "label": "sites.psu.edu / source 6",
+        "url": "https://sites.psu.edu/nml1/positions/",
+        "summary": "Live cloud-browser page at 07:26:29 UTC advertises Fall 2025 PhD openings, postdocs and undergraduate research. No external-master short-visit invitation is stated.",
+        "verifiedAt": "2026-10-01T07:26:29Z",
+        "retrieval": "Live primary lab page read in cloud browser"
+      },
+      {
+        "id": "s7",
+        "label": "policy.psu.edu / source 7",
+        "url": "https://policy.psu.edu/policies/ac01",
+        "summary": "Institutional source reused from Penn State audit at 2026-10-01T00:52:49Z: outside affiliation, bachelor’s/equivalent and individual/administrative hosts for academic Visiting Scholar; not a faculty invitation.",
+        "verifiedAt": "2026-10-01T00:52:49Z",
+        "retrieval": "Reused prior Penn State institutional-policy review"
+      },
+      {
+        "id": "s8",
+        "label": "global.psu.edu / source 8",
+        "url": "https://global.psu.edu/landing/j-1-scholar-visa-process",
+        "summary": "Reused institutional audit: personal/family funds may be documented; category-specific approval, 2027 amount/fees and timing still require confirmation.",
+        "verifiedAt": "2026-10-01T00:52:49Z",
+        "retrieval": "Reused prior Penn State institutional-policy review"
+      }
+    ],
+    "unknowns": [
+      "No external-master, eight-week summer 2027, remote or funded visitor offer was verified. The live lab Positions page at 07:26:29 UTC advertises Fall 2025 PhD recruitment, postdocs and undergraduate projects; a master’s degree there is applicant preparation for a PhD, not a short visiting-master offer.",
+      "The robotic-hand experiment involves UNC institutional approval and cross-institution collaborators. Do not infer equipment ownership or visitor access at Penn State from current author affiliations.",
+      "Existing Penn State AC01 review indicates outside affiliates with a bachelor’s degree can potentially fit the academic Visiting Scholar minimum, subject to host and administrative approval; graduate visitor immigration classification remains unconfirmed.",
+      "Existing Penn State scholar guidance permits personal/family funding but warns some visa guidance is under review. Exact 2027 costs, fees, funding source/category, insurance and timeline need renewed institutional confirmation.",
+      "The existing institutional source restricts clinical work with people/animals; the host and international office must review any proposed clinical or human-subject component. A research listing does not promise patient access or authorization to operate assistive devices.",
+      "Independent graduate-advising status, authority to sponsor an outside visitor and availability outside the shared Hu group are unverified. Exact Assistant Research Professor title is preserved rather than imply tenure-track PI status.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#penn-state)"
+    ],
+    "publicEmail": "lmm7405@psu.edu"
+  }
+]

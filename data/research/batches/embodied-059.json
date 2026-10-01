@@ -9,7 +9,7 @@
     "department": "Electrical and Computer Engineering; Computer Science (courtesy)",
     "batch": "embodied-059",
     "discoveredAt": "2026-10-01T04:38:47Z",
-    "verifiedAt": "2026-10-01T04:43:18Z",
+    "verifiedAt": "2026-10-01T05:04:19Z",
     "researchAreas": [
       "Foundation-model-driven embodied systems",
       "Video-to-action manipulation",
@@ -19,11 +19,12 @@
     "fitReason": "Strong CS-facing match for foundation-model reasoning, policy memory and trustworthy robot execution; recent manipulation papers complement his broader cyber-physical-systems and verification agenda.",
     "physicalEvidence": {
       "status": "public-hardware-evidence",
-      "summary": "EmboAlign (March 2026) executes VLM-constrained video-generated plans on a Dobot Nova2 across six tasks, with ten trials each. HyMeS (August 2026) steers a learned SO-101 policy using executable memory: three physical tasks, 35 trials per method. Its real-robot comparison shares demonstrations and policy weights; memory code is frozen at evaluation. These are physical executions, separate from its larger simulated RoboMemArena results.",
+      "summary": "EmboAlign (September 16, 2026 revision) executes VLM-constrained video-generated plans on a Dobot Nova2 across six tasks, with ten trials each. HyMeS (August 2026) steers a learned SO-101 policy using executable memory: three physical tasks, 35 trials per method. Its real-robot comparison shares demonstrations and policy weights; memory code is frozen at evaluation. These are physical executions, separate from its larger simulated RoboMemArena results.",
       "sourceIds": [
         "s3",
         "s4",
-        "s5"
+        "s5",
+        "s6"
       ]
     },
     "shortVisit": {
@@ -84,6 +85,14 @@
         "url": "https://arxiv.org/html/2608.09410v1",
         "summary": "Full primary HyMeS paper; experimental methods separate simulation from real SO-101 execution, fixed-policy comparisons and frozen memory code.",
         "verifiedAt": "2026-10-01T04:43:18Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "EmboAlign September 2026 revision",
+        "url": "https://arxiv.org/html/2603.05757v2",
+        "summary": "Latest September 16, 2026 full revision re-verifies Dobot Nova2, six actual tasks and ten trials each; preserves original physical-evidence conclusion.",
+        "verifiedAt": "2026-10-01T05:04:19Z",
         "retrieval": "direct-primary-page"
       }
     ],

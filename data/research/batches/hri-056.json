@@ -11,7 +11,7 @@
     "department": "Physical Medicine and Rehabilitation; Biomedical Engineering by courtesy",
     "batch": "hri-056",
     "discoveredAt": "2026-10-01T04:40:28Z",
-    "verifiedAt": "2026-10-01T04:41:48Z",
+    "verifiedAt": "2026-10-01T05:07:02Z",
     "researchAreas": [
       "Learned assistive-device control",
       "Neural and myoelectric interfaces",
@@ -22,7 +22,7 @@
     "fitReason": "Substantive applied ML and physical-assistive robotics fit: learned intent, gait and controller prediction, embedded inference and human-in-the-loop evaluation. A computational or bench-focused contribution is more plausible to scope tightly than promising access to clinical trials in a short visit.",
     "physicalEvidence": {
       "status": "public-hardware-evidence",
-      "summary": "The full April 2025 revision of Deep-Learning Control of Lower-Limb Exoskeletons verifies learned gait-feature and command prediction on an ExoMotus-X2. TensorFlow Lite inference updates references at about 50 Hz for a 333 Hz ROS/C++ torque controller; two healthy participants outside the training dataset performed treadmill and stair tests. This is closed-loop learned physical assistance. The separate March 2026 Synthetic Therapist paper trains on previously collected patient–therapist data and validates ROS inference on live exoskeleton streams, but explicitly leaves actual patient training with the new learned therapist for future work. Do not turn its offline patient validation into an eight-patient prospective deployment.",
+      "summary": "The full April 2025 revision of Deep-Learning Control of Lower-Limb Exoskeletons verifies learned gait-feature and command prediction on an ExoMotus-X2. TensorFlow Lite inference updates references at about 50 Hz for a 333 Hz ROS/C++ torque controller; two healthy participants outside the training dataset performed treadmill and stair tests. This is closed-loop learned physical assistance. The separate March 2026 Synthetic Therapist paper trains on previously collected patient–therapist data and validates ROS inference on live exoskeleton streams, but explicitly leaves actual patient training with the new learned therapist for future work. Do not turn its offline patient validation into an eight-patient prospective deployment. The study is collaborative: first author Vianello is identified with Pons Lab, and this record does not establish independent Hargrove-directed apparatus or visitor access.",
       "sourceIds": [
         "s4",
         "s5"
@@ -37,13 +37,13 @@
     },
     "scores": {
       "fit": 37,
-      "physical": 25,
+      "physical": 20,
       "shortVisit": 0,
       "freshness": 15
     },
     "scoreReasons": {
       "fit": "37/40: strong learned physical assistance and embedded inference; more specialized biomedical scope than general embodied agents.",
-      "physical": "25/25: actual learned exoskeleton torque assistance directly verified in the 2025 revised primary manuscript; newer clinical data claims carefully delimited.",
+      "physical": "The actual learned ExoMotus study is coauthored collaborative research. First-author and program-lead evidence points to Pons Lab; independent Hargrove-directed project or current visitor hardware access is not established.",
       "shortVisit": "0/20: generic team contact without an explicit external-student short-visit route.",
       "freshness": "15/15: distinct March 2026 learning research, with physical execution evidence dated separately."
     },
@@ -89,6 +89,13 @@
         "url": "https://www.sralab.org/research/labs/neural-engineering/people",
         "summary": "Full current lab People page provides generic join-team contact only, with no external-master duration or summer eligibility.",
         "verifiedAt": "2026-10-01T04:41:48Z"
+      },
+      {
+        "id": "s7",
+        "label": "AbilityLab current first-author affiliation",
+        "url": "https://www.sralab.org/researchers/lorenzo-vianello-phd",
+        "summary": "Official profile places Lorenzo Vianello in Pons Lab. This supports directed-program attribution to Pons, rather than independently establishing Hargrove-directed ExoMotus work.",
+        "verifiedAt": "2026-10-01T05:07:02Z"
       }
     ],
     "unknowns": [
@@ -98,7 +105,8 @@
       "Patient contact, clinical privileges, human-subject access and research-data access are not implied by faculty willingness. A short project would need appropriate approvals and a feasible nonclinical or already-approved scope.",
       "Current Engineering and Feinberg directory headers say Professor; an older Feinberg biography paragraph still says Associate Professor. This record follows the current directory headings.",
       "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
-      "[Northwestern institutional visitor rules](../eligibility_notes.md#northwestern)"
+      "[Northwestern institutional visitor rules](../eligibility_notes.md#northwestern)",
+      "Hardware attribution reviewed: same-facility affiliation and coauthorship do not independently establish that Hargrove directs the ExoMotus project; physical evidence is capped at 20."
     ],
     "publicEmail": "l-hargrove@northwestern.edu"
   }

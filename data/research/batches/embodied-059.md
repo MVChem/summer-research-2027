@@ -12,9 +12,9 @@
 - 任职：Professor
 - 方向：Foundation-model-driven embodied systems；Video-to-action manipulation；VLA memory and reliability；Safe and robust reinforcement learning
 - 匹配理由：Strong CS-facing match for foundation-model reasoning, policy memory and trustworthy robot execution; recent manipulation papers complement his broader cyber-physical-systems and verification agenda.
-- 真机证据（public-hardware-evidence）：EmboAlign (March 2026) executes VLM-constrained video-generated plans on a Dobot Nova2 across six tasks, with ten trials each. HyMeS (August 2026) steers a learned SO-101 policy using executable memory: three physical tasks, 35 trials per method. Its real-robot comparison shares demonstrations and policy weights; memory code is frozen at evaluation. These are physical executions, separate from its larger simulated RoboMemArena results.
+- 真机证据（public-hardware-evidence）：EmboAlign (September 16, 2026 revision) executes VLM-constrained video-generated plans on a Dobot Nova2 across six tasks, with ten trials each. HyMeS (August 2026) steers a learned SO-101 policy using executable memory: three physical tasks, 35 trials per method. Its real-robot comparison shares demonstrations and policy weights; memory code is frozen at evaluation. These are physical executions, separate from its larger simulated RoboMemArena results.
 - 短访证据（precedent-only）：The current lab invites interested students/researchers to email a CV and research interests. It lists former external visitors, but neither statement explicitly establishes a current visiting-intern opening, external-master’s eligibility or an eight-week summer place.
-- 首次发现：2026-10-01T04:38:47Z；最后核查：2026-10-01T04:43:18Z
+- 首次发现：2026-10-01T04:38:47Z；最后核查：2026-10-01T05:04:19Z
 - 当前总分：75/100；评分依据：
   - fit 40/40：Direct foundation-model manipulation, memory and dependable embodied-system methods.
   - physical 20/25：Actual learned/model-driven robot execution in recent collaborations; current local hardware ownership remains unclear.
@@ -27,4 +27,5 @@
   - [nu-ideas-lab.github.io / source 3](https://nu-ideas-lab.github.io/group/)：Full group page, updated September 3, 2026: current student identities, former visitors and general email/CV invitation.（核查 2026-10-01T04:43:18Z；读取方式 direct-primary-page）
   - [arxiv.org / source 4](https://arxiv.org/html/2603.05757v1)：Full primary EmboAlign paper; methods and Section IV confirm model-generated actions on physical Dobot and the trial protocol.（核查 2026-10-01T04:43:18Z；读取方式 direct-primary-page）
   - [arxiv.org / source 5](https://arxiv.org/html/2608.09410v1)：Full primary HyMeS paper; experimental methods separate simulation from real SO-101 execution, fixed-policy comparisons and frozen memory code.（核查 2026-10-01T04:43:18Z；读取方式 direct-primary-page）
+  - [EmboAlign September 2026 revision](https://arxiv.org/html/2603.05757v2)：Latest September 16, 2026 full revision re-verifies Dobot Nova2, six actual tasks and ten trials each; preserves original physical-evidence conclusion.（核查 2026-10-01T05:04:19Z；读取方式 direct-primary-page）
 

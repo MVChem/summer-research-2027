@@ -13,7 +13,7 @@
     "department": "Physical Medicine and Rehabilitation; Mechanical Engineering by courtesy",
     "batch": "hri-057",
     "discoveredAt": "2026-10-01T04:40:28Z",
-    "verifiedAt": "2026-10-01T04:47:03Z",
+    "verifiedAt": "2026-10-01T05:07:02Z",
     "researchAreas": [
       "Learning-based exoskeleton control",
       "Physical human-robot interaction",
@@ -27,7 +27,8 @@
       "summary": "The April 2025 primary manuscript verifies bi-LSTM gait-feature estimation and neural command prediction executing on an ExoMotus-X2 with two held-out healthy users on a treadmill and stairs. TensorFlow Lite predictions drive references for a ROS/C++ torque controller. The March 2026 Synthetic Therapist work uses previously collected patient data and live exoskeleton-stream inference, but prospective patient training with that learned therapist remains future work. The separate June 2026 TEPI study physically couples a therapist and patient using virtual spring-damper interactions; its eight-patient evaluation is current physical-program evidence, not itself proof of learned autonomous patient control.",
       "sourceIds": [
         "s4",
-        "s5"
+        "s5",
+        "s8"
       ]
     },
     "shortVisit": {
@@ -98,6 +99,13 @@
         "url": "https://www.sralab.org/research/labs/pons-lab/contact",
         "summary": "Official lab contact verifies public email jpons@sralab.org and Chicago AbilityLab laboratory address.",
         "verifiedAt": "2026-10-01T04:47:03Z"
+      },
+      {
+        "id": "s8",
+        "label": "AbilityLab current first-author affiliation",
+        "url": "https://www.sralab.org/researchers/lorenzo-vianello-phd",
+        "summary": "Official profile places Lorenzo Vianello in Pons Lab. This supports directed-program attribution to Pons, rather than independently establishing Hargrove-directed ExoMotus work.",
+        "verifiedAt": "2026-10-01T05:07:02Z"
       }
     ],
     "unknowns": [

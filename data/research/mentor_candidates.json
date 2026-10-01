@@ -94,6 +94,8 @@
     "batches/embodied-040.json",
     "batches/embodied-041.json",
     "batches/embodied-042.json",
+    "batches/embodied-043.json",
+    "batches/embodied-044.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -5940,6 +5942,60 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-042.json",
       "detailPage": "batches/embodied-042.md#bing-li"
+    },
+    {
+      "id": "yu-sun",
+      "name": "Yu Sun",
+      "aliases": [],
+      "school": "University of South Florida",
+      "title": "Professor",
+      "homepage": "https://cse.usf.edu/~yusun/",
+      "batch": "embodied-043",
+      "discoveredAt": "2026-10-01T02:19:03Z",
+      "verifiedAt": "2026-10-01T02:22:38Z",
+      "scores": {
+        "fit": 37,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Learning-assisted multi-object grasping",
+        "Robot perception and manipulation",
+        "Vision and tactile feedback",
+        "Robotics benchmarking"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-043.json",
+      "detailPage": "batches/embodied-043.md#yu-sun"
+    },
+    {
+      "id": "jessica-k-hodgins",
+      "name": "Jessica K. Hodgins",
+      "aliases": [
+        "Jessica Hodgins"
+      ],
+      "school": "Carnegie Mellon University",
+      "title": "Allen Newell University Professor of Computer Science and Robotics",
+      "homepage": "https://www.ri.cmu.edu/ri-faculty/jessica-k-hodgins/",
+      "batch": "embodied-044",
+      "discoveredAt": "2026-10-01T02:23:20Z",
+      "verifiedAt": "2026-10-01T02:26:17Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Reinforcement learning for physical motor skills",
+        "Motion imitation and sim-to-real",
+        "Humanoid robotics",
+        "Learned whole-body control"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-044.json",
+      "detailPage": "batches/embodied-044.md#jessica-k-hodgins"
     },
     {
       "id": "henny-admoni",

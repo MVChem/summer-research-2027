@@ -1,0 +1,116 @@
+[
+  {
+    "id": "yu-sun",
+    "name": "Yu Sun",
+    "aliases": [],
+    "school": "University of South Florida",
+    "homepage": "https://cse.usf.edu/~yusun/",
+    "title": "Professor",
+    "department": "Computer Science and Engineering; Bellini College of Artificial Intelligence, Cybersecurity and Computing",
+    "batch": "embodied-043",
+    "discoveredAt": "2026-10-01T02:19:03Z",
+    "verifiedAt": "2026-10-01T02:22:38Z",
+    "researchAreas": [
+      "Learning-assisted multi-object grasping",
+      "Robot perception and manipulation",
+      "Vision and tactile feedback",
+      "Robotics benchmarking"
+    ],
+    "fitReason": "RPAL offers a concrete physical manipulation direction: learned grasp-outcome prediction combined with graph-based planning and robot benchmarking. It is a narrower manipulation/perception match rather than a dedicated large-VLA group.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The March 2025 Benchmarking Multi-Object Grasping paper evaluates actual UR5e systems with Robotiq 2F-85 or Barrett hands and RealSense D435 sensing. It explicitly reuses the group’s Only-Pick-Once and Experience Forest grasp algorithms. The original Only-Pick-Once primary source identifies its convolutional grasp-count predictor; the newer benchmark supplies recent physical validation. USF’s 2025 story independently locates multi-object grasping in Sun’s RPAL.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "A current official profile invites general project inquiries, without an explicit external-master’s/intern route. The 2025 Bridge Coalition record documents a ten-week University of Rhode Island undergraduate visit; it is programme-specific precedent, not a summer 2027 opening or graduate-visitor eligibility.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "Concrete learned multi-object manipulation and perception, with less direct foundation-model focus.",
+      "physical": "Recent real hardware evaluation directly attributed to current RPAL group, linked to explicitly learned prior algorithm.",
+      "shortVisit": "Generic project invitation and past undergraduate visit do not establish an external-master’s short visit.",
+      "freshness": "2025 physical benchmark and official campus research corroboration; no new 2026 manipulation experiment claimed."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.usf.edu / source 1",
+        "url": "https://www.usf.edu/ai-cybersecurity-computing/centers/ai-x/about/faculty.aspx",
+        "summary": "Direct Yu Sun entry: Professor, Bellini College, professional email and general project inquiry statement.",
+        "verifiedAt": "2026-10-01T02:22:38Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "cse.usf.edu / source 2",
+        "url": "https://cse.usf.edu/~yusun/",
+        "summary": "Current university-hosted personal homepage; reader extracts navigation only, indexed biography used only with official corroboration.",
+        "verifiedAt": "2026-10-01T02:22:38Z",
+        "retrieval": "partial-direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2503.20820v2",
+        "summary": "March 29, 2025 full primary benchmark: RPAL author affiliations, actual UR5e setups and reused grasp algorithms; physical versus simulated and human-only results distinguished.",
+        "verifiedAt": "2026-10-01T02:22:38Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/abs/2307.02662",
+        "summary": "July 2023 author primary source explicitly describes the convolutional grasp-count predictor in Only-Pick-Once.",
+        "verifiedAt": "2026-10-01T02:22:38Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "www.usf.edu / source 5",
+        "url": "https://www.usf.edu/news/2025/usf-hosts-inaugural-summer-research-program-ahead-of-launch.aspx",
+        "summary": "Official 2025 RPAL multi-object grasping and ten-week URI undergraduate visitor precedent.",
+        "verifiedAt": "2026-10-01T02:22:38Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "www.usf.edu / source 6",
+        "url": "https://www.usf.edu/world/international-services/scholars-and-employees/hs-scholar-costs.aspx",
+        "summary": "Previously verified official USF policy: personal funds cannot be the sole source under the published shared workflow.",
+        "verifiedAt": "2026-10-01T02:22:38Z",
+        "retrieval": "previously-verified-direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Do not assign the collaborating Pisa/IIT SoftHand-2 setup to Sun’s USF lab without separate evidence. The 2025 paper mixes simulation and physical results: its scene-clearing protocol has human-only results, not robot completion.",
+      "The CNN mechanism dates to the 2023 primary paper, while the 2025 benchmark explicitly reuses it. This is learning-assisted grasp planning, not end-to-end foundation-model control.",
+      "The existing USF feasibility review says personal funds are supplementary and cannot be the sole source under the shared scholar workflow. Foreign-degree Student Intern is described, but category-specific funding application and eight-week timing need sponsor confirmation. Plan around the published three-to-six-month lead, not assumed immediate access.",
+      "The personal homepage and older RPAL member pages are partly stale or poorly extracted. Current title/email are corroborated by the official AI institute faculty page. Same-name authors at other universities and companies are not merged.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "yusun@usf.edu"
+  }
+]

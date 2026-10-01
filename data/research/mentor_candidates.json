@@ -73,6 +73,7 @@
     "batches/control-062.json",
     "batches/control-063.json",
     "batches/control-064.json",
+    "batches/control-065.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -3872,6 +3873,35 @@
       "shortVisitStatus": "degree-only · dated 2018 recruitment",
       "recordFile": "batches/control-064.json",
       "detailPage": "batches/control-064.md#zheng-chen"
+    },
+    {
+      "id": "manfred-huber",
+      "name": "Manfred Huber",
+      "aliases": [
+        "Manfred Huber (UT Arlington)"
+      ],
+      "school": "University of Texas at Arlington",
+      "title": "Professor; Co-director of DASC Program",
+      "homepage": "https://ranger.uta.edu/~huber/",
+      "batch": "control-065",
+      "discoveredAt": "2026-10-01T05:14:23Z",
+      "verifiedAt": "2026-10-01T05:21:20Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Visual reinforcement learning",
+        "Task-centric world models",
+        "Robot learning and generalization",
+        "Continual neural mapping",
+        "Autonomous robot systems"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-065.json",
+      "detailPage": "batches/control-065.md#manfred-huber"
     },
     {
       "id": "tom-silver",

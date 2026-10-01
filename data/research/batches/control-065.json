@@ -1,0 +1,107 @@
+[
+  {
+    "id": "manfred-huber",
+    "name": "Manfred Huber",
+    "aliases": [
+      "Manfred Huber (UT Arlington)"
+    ],
+    "school": "University of Texas at Arlington",
+    "homepage": "https://ranger.uta.edu/~huber/",
+    "title": "Professor; Co-director of DASC Program",
+    "department": "Computer Science and Engineering",
+    "batch": "control-065",
+    "discoveredAt": "2026-10-01T05:14:23Z",
+    "verifiedAt": "2026-10-01T05:21:20Z",
+    "researchAreas": [
+      "Visual reinforcement learning",
+      "Task-centric world models",
+      "Robot learning and generalization",
+      "Continual neural mapping",
+      "Autonomous robot systems"
+    ],
+    "fitReason": "Strong methods fit through visual RL, learned task-relevant representations and world-model control, with a collaborative actual manipulation deployment.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "DeGuV (September 2025), coauthored with Manchester and UTA researchers, executes a trained depth-mask visual RL policy on a real Franka Emika Lift task using ROS2, panda-py and Intel D435i RGB-D input. The policy outputs end-effector increments and gripper commands. The paper does not clearly establish UTA as the physical test site, and its real-robot section is a qualitative transfer demonstration rather than the four-task simulation benchmark. Physical score is capped at 20 for collaborative-site evidence. The separate July 2025 Huber/Dang neural-local-frame mapping paper describes in-lab navigation; it is not used to assert a particular named current robot platform.",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current UTA directory and faculty homepage establish appointment and robot-learning interests, but no explicit external-master short-visitor invitation was located. Old personal CV and course listing are not an opening.",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct substantive visual RL and task-centric learned world models.",
+      "physical": "Actual joint Franka policy execution verified; test-site ownership and present UTA availability unresolved, so cap 20.",
+      "shortVisit": "No applicable external visitor invitation. Institutional route is not a lab offer.",
+      "freshness": "August 2026 TaskSense preprint and current official appointment; its DMC benchmarks are simulation, distinct from 2025 hardware."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.uta.edu / source 1",
+        "url": "https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/faculty-directory",
+        "summary": "Current Professor/DASC co-director and public email.",
+        "verifiedAt": "2026-10-01T05:21:20Z",
+        "retrieval": "Direct official or primary HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "ranger.uta.edu / source 2",
+        "url": "https://ranger.uta.edu/~huber/",
+        "summary": "Research interests and homepage; course information is older and no visitor invitation found.",
+        "verifiedAt": "2026-10-01T05:21:20Z",
+        "retrieval": "Direct official or primary HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2509.04970v1",
+        "summary": "SectionVI actual Franka visual-RL policy execution; authorship and affiliations support collaborative attribution, not UTA test-site ownership.",
+        "verifiedAt": "2026-10-01T05:21:20Z",
+        "retrieval": "Direct official or primary HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/abs/2608.06544",
+        "summary": "August 6, 2026 TaskSense primary preprint: task-centric attention and inverse-dynamics-guided world models, evaluated in simulated DMC/Distracting Control.",
+        "verifiedAt": "2026-10-01T05:21:20Z",
+        "retrieval": "Direct official or primary HTML via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2507.04649v1",
+        "summary": "July 2025 Huber/Dang learned spatial-implicit mapping and in-lab navigation, separated from offline TUM evaluation.",
+        "verifiedAt": "2026-10-01T05:21:20Z",
+        "retrieval": "Direct official or primary HTML via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "www.uta.edu / source 6",
+        "url": "https://www.uta.edu/student-affairs/oie/j-exchange-visitors/j-1-student-info-internship-program",
+        "summary": "Institutional continuing overseas-degree Student Intern criteria; not a laboratory vacancy.",
+        "verifiedAt": "2026-10-01T05:21:20Z",
+        "retrieval": "Direct official or primary HTML via web.run"
+      }
+    ],
+    "unknowns": [
+      "Reuse UT Arlington feasibility supplement: overseas continuing-degree Student Intern route exists, with host/department/OIE sponsorship, educational-objective linkage, at least 32 hours/week and pre-invitation research-security/export review. Exact external-master appointment, eight-week plan, applicable financial minimum, personal-funding eligibility, fees and summer 2027 capacity remain unconfirmed. Scholar monthly support figure cannot automatically be applied to Student Intern. Current UTA-directed hardware access is not established by the joint Franka paper.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[UT Arlington institutional visitor rules](../eligibility_notes.md#ut-arlington)"
+    ],
+    "publicEmail": "huber@uta.edu"
+  }
+]

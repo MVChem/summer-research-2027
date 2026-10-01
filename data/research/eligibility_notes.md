@@ -893,3 +893,11 @@ Sources: [Guides and Forms](https://www.lamar.edu/international-education/intern
 - 上述学者说明未给出自费接受规则、最低资金、本地费用或办理提前量。不要将同页 F-1 本校学位生的个人／家庭资金说明套用于访问学者。保险及与访问身份一致的研究活动另须确认。
 - [2027 Faculty Student Summer Research](https://www.skidmore.edu/dof-vpaa/development/faculty_student_summer_research/index.php)面向本校教师与在读学生，期限为五或十周，申请截止2027-02-05，已毕业学生不合资格。旧页面出现的八周不代表2027规则，也不能据此认定外校硕士可申请。此内部项目的限制不等于所有单独安排访问均被禁止。
 - Kate Candon 的当前院系页面确认 Assistant Professor；旧目录仍显示 Visiting Lecturer。已核验的2026实体机器人实验属于 Yale 合作，尚未证明 Skidmore 已有同样设备或可开放访问。
+
+<a id="ut-arlington"></a>
+
+## UT Arlington · 外校 Student Intern 与访问前安全审核
+
+核查：2026-10-01T05:12:18Z。[Student Intern](https://www.uta.edu/student-affairs/oie/j-exchange-visitors/j-1-student-info-internship-program)覆盖美国境外持续在读学位学生，没有本科专属限制；需服务原学位目标，每周至少32小时，最长十二个月，可有薪或无薪，具体硕士任命和八周接收待批准。[中央 J 访客页](https://www.uta.edu/student-affairs/oie/j-exchange-visitors)的 scholar 路径接受个人资金，列未注明有效年度的每月1,467美元；不能自动套用于 Student Intern 或2027预算。其至少三个月保险证明要求对八周访问的适用也须确认，不误写成学术任命最低三个月。
+
+正式邀请前须完成研究安全／出口管制审核；[2026审查矩阵](https://resources.uta.edu/research/regulatory-services/export-control/_downloads/Screening_Procedures_Matrix_2026.pdf)列明外校、导师等相关方核查，由学校作最终判断。部门发起手续，签证可能需数月；五至七天仅是延期处理说明。全个人资金、具体类别、现行金额、处理费和总成本均需确认，未把 CAPPA 专属流程套用于工程学院。

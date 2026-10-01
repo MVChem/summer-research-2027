@@ -48,6 +48,30 @@
           "evidence": "Research Group prospective-student FAQ explicitly addresses interns/visitors and says no short-term positions at this time."
         }
       ]
+    },
+    {
+      "baselineId": 181,
+      "name": "Robert Platt",
+      "observedAt": "2026-10-01T09:46:44Z",
+      "eventType": "later-public-source-verification-not-discovery",
+      "finding": "Current Helping Hands join page explicitly welcomes master’s, undergraduate and visiting students. It recommends first contacting a PhD student whose research interests match, to discuss their current work. The separate funded PhD/postdoc section gives Platt’s email and does not promise funded master’s visits. The current lab roster lists Platt as director, a Fall2026 PhD arrival and a visiting student, supporting current lab-page context. Eight-week summer 2027 capacity, outside-master appointment, funding and access remain unconfirmed. Northeastern visiting-student requirements, including majority nonpersonal/nonfamily support, still apply.",
+      "sources": [
+        {
+          "url": "https://www2.ccs.neu.edu/research/helpinghands/join.html",
+          "retrieval": "direct-primary-page",
+          "evidence": "Full join page explicitly includes master’s/visiting students and explains the project-fit inquiry route; no eight-week or2027 dates."
+        },
+        {
+          "url": "https://www2.ccs.neu.edu/research/helpinghands/lab.html",
+          "retrieval": "direct-primary-page",
+          "evidence": "Full current lab director, Fall2026 PhD intake and visiting-student listing; visitor’s degree status/duration not established."
+        },
+        {
+          "url": "https://www.khoury.northeastern.edu/people/robert-platt/",
+          "retrieval": "direct-primary-page",
+          "evidence": "Full official current Associate Professor, Boston campus, Helping Hands affiliation, professional email and2026 research."
+        }
+      ]
     }
   ]
 }

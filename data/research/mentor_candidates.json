@@ -119,6 +119,7 @@
     "batches/embodied-052.json",
     "batches/embodied-053.json",
     "batches/embodied-054.json",
+    "batches/embodied-055.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -6770,6 +6771,58 @@
       "shortVisitStatus": "precedent-only",
       "recordFile": "batches/embodied-054.json",
       "detailPage": "batches/embodied-054.md#sherry-yang"
+    },
+    {
+      "id": "farshad-khorrami",
+      "name": "Farshad Khorrami",
+      "aliases": [],
+      "school": "New York University",
+      "title": "Professor; Director, Control/Robotics Research Laboratory",
+      "homepage": "https://crrl-control-robotics-research-lab.github.io/",
+      "batch": "embodied-055",
+      "discoveredAt": "2026-10-01T03:33:04Z",
+      "verifiedAt": "2026-10-01T04:27:11Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "World models for dexterous manipulation",
+        "Visual imitation",
+        "Hierarchical diffusion policies",
+        "Learning-based robot autonomy"
+      ],
+      "shortVisitStatus": "degree-only",
+      "recordFile": "batches/embodied-055.json",
+      "detailPage": "batches/embodied-055.md#farshad-khorrami"
+    },
+    {
+      "id": "yann-lecun",
+      "name": "Yann LeCun",
+      "aliases": [],
+      "school": "New York University",
+      "title": "Jacob T. Schwartz Chaired Professor",
+      "homepage": "https://cs.nyu.edu/dynamic/people/faculty/type/20/",
+      "batch": "embodied-055",
+      "discoveredAt": "2026-10-01T03:33:04Z",
+      "verifiedAt": "2026-10-01T04:27:11Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Predictive world models",
+        "Self-supervised embodied representations",
+        "Dexterous robot planning",
+        "Robot policy generalization"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-055.json",
+      "detailPage": "batches/embodied-055.md#yann-lecun"
     },
     {
       "id": "henny-admoni",

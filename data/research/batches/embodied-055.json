@@ -1,0 +1,223 @@
+[
+  {
+    "id": "farshad-khorrami",
+    "name": "Farshad Khorrami",
+    "aliases": [],
+    "school": "New York University",
+    "homepage": "https://crrl-control-robotics-research-lab.github.io/",
+    "title": "Professor; Director, Control/Robotics Research Laboratory",
+    "department": "Electrical and Computer Engineering, Tandon",
+    "batch": "embodied-055",
+    "discoveredAt": "2026-10-01T03:33:04Z",
+    "verifiedAt": "2026-10-01T04:27:11Z",
+    "researchAreas": [
+      "World models for dexterous manipulation",
+      "Visual imitation",
+      "Hierarchical diffusion policies",
+      "Learning-based robot autonomy"
+    ],
+    "fitReason": "CRRL combines substantial current embodied-AI policy research with a physical robotics lab. This is a stronger match through the world-model and visual-imitation projects than through the broader nonlinear-control/cybersecurity portfolio.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "DexWM, revised March 16, 2026, uses a learned human-video world model to optimize Franka Panda/Allegro actions. Its actual experiment has10 successful grasps among12 trials over four objects; optimized two-step actions execute open-loop. Reach/place benchmarks are simulation, and the small physical sample is not broad real-world validation. Lead author Raktim Goswami is a current CRRL PhD student. The current lab inventory includes three Franka arms, dexterous-hand equipment and legged platforms.",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "degree-only",
+      "summary": "The full current Join page accepts PhD applications and specifically welcomes current NYU master’s/undergraduate students. It also has postdoc inquiries. No external short-term master’s visitor invitation is stated; local thesis opportunities receive no visitor credit.",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong current world-model manipulation within a broader control/security group.",
+      "physical": "Direct primary physical study connected to current own student and lab equipment.",
+      "shortVisit": "Current local-master’s wording does not invite external summer visitors.",
+      "freshness": "March 2026 revised physical source and June 2026 own-group methods paper."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.nyu.edu / source 1",
+        "url": "https://engineering.nyu.edu/faculty/farshad-khorrami",
+        "summary": "Full official current Professor, Brooklyn office, CRRL director, email, and separate Abu Dhabi affiliation.",
+        "verifiedAt": "2026-10-01T04:27:11Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "crrl-control-robotics-research-lab.github.io / source 2",
+        "url": "https://crrl-control-robotics-research-lab.github.io/people.html",
+        "summary": "Full current roster identifies Khorrami as faculty PI and Raktim Goswami as PhD student.",
+        "verifiedAt": "2026-10-01T03:36:55Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "crrl-control-robotics-research-lab.github.io / source 3",
+        "url": "https://crrl-control-robotics-research-lab.github.io/lab.html",
+        "summary": "Full lab inventory independently verifies physical manipulation and legged equipment.",
+        "verifiedAt": "2026-10-01T04:27:11Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "crrl-control-robotics-research-lab.github.io / source 4",
+        "url": "https://crrl-control-robotics-research-lab.github.io/joining.html",
+        "summary": "Full intake explicitly limits master’s/undergraduate wording to current NYU students; PhD/postdoc sections separate.",
+        "verifiedAt": "2026-10-01T04:27:11Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2512.13644v2",
+        "summary": "Full DexWM methods and hardware experiment, with simulation and open-loop execution distinctions.",
+        "verifiedAt": "2026-10-01T04:27:11Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2606.08775v1",
+        "summary": "Full June 7, 2026 WorldDP: hierarchical world-model/diffusion approach tested in OGBench simulation.",
+        "verifiedAt": "2026-10-01T03:36:55Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s7",
+        "label": "raktimgg.github.io / source 7",
+        "url": "https://raktimgg.github.io/",
+        "summary": "Full current CRRL lead-author affiliation, June 2026 research news and separate industry internships.",
+        "verifiedAt": "2026-10-01T03:36:55Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "CRRL’s separate associated CAIR center is in Abu Dhabi. This record concerns the verified Brooklyn Tandon professor and lab, and does not treat overseas facilities as a US visit.",
+      "June 2026 WorldDP supplies current methods evidence, but its OGBench evaluations are simulated; it receives no additional hardware credit.",
+      "Reuse the NYU supplement. External-student unpaid research affiliations require a qualifying full-time faculty sponsor and HR approval. International sponsorship, project educational benefit and fully personal funding are category-specific unresolved questions; neither central eligibility nor degree recruitment is a summer offer.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[NYU institutional visitor rules](../eligibility_notes.md#nyu)"
+    ],
+    "publicEmail": "khorrami@nyu.edu"
+  },
+  {
+    "id": "yann-lecun",
+    "name": "Yann LeCun",
+    "aliases": [],
+    "school": "New York University",
+    "homepage": "https://cs.nyu.edu/dynamic/people/faculty/type/20/",
+    "title": "Jacob T. Schwartz Chaired Professor",
+    "department": "Computer Science, Courant; Electrical and Computer Engineering, Tandon",
+    "batch": "embodied-055",
+    "discoveredAt": "2026-10-01T03:33:04Z",
+    "verifiedAt": "2026-10-01T04:27:11Z",
+    "researchAreas": [
+      "Predictive world models",
+      "Self-supervised embodied representations",
+      "Dexterous robot planning",
+      "Robot policy generalization"
+    ],
+    "fitReason": "A close methods match for representation learning and world models tied to robot actions. Contemporary robot papers and current student supervision support relevance; reputation is not included in the score.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Coauthor of March 2026 DexWM: a learned world model plans actions executed on a physical Franka Panda/Allegro hand for grasping. Current NYU coadvisee Gaoyue Zhou is also a coauthor, but the collaborative apparatus is not established as independently available through LeCun to an in-person visitor.",
+      "sourceIds": [
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No external short-visit route was verified. His personal site returned502 in both web retrieval and public curl; official university pages verify faculty status and contact, but do not establish visitor intake.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Current world models and embodied representations directly match the methods focus.",
+      "physical": "Actual collaborative robot execution; independent own-host platform access unverified.",
+      "shortVisit": "No external short visitor invitation was verified.",
+      "freshness": "Dated2026 primary papers and currentSeptember university activity."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "cs.nyu.edu / source 1",
+        "url": "https://cs.nyu.edu/dynamic/people/faculty/type/20/",
+        "summary": "Full official current chaired-professor listing and email. Neighboring faculty leave notes do not apply to LeCun.",
+        "verifiedAt": "2026-10-01T04:27:11Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "cims.nyu.edu / source 2",
+        "url": "https://cims.nyu.edu/ai/events/919/",
+        "summary": "Full September 9, 2026 NYU seminar biography confirms NYU professor and AMI Labs executive role.",
+        "verifiedAt": "2026-10-01T04:27:11Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "engineering.nyu.edu / source 3",
+        "url": "https://engineering.nyu.edu/life-tandon/student-life/commencement/2026/program",
+        "summary": "Full university biography retains historical part-time NYU wording from2013; present hosting fraction unresolved.",
+        "verifiedAt": "2026-10-01T03:36:55Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "gaoyuezhou.github.io / source 4",
+        "url": "https://gaoyuezhou.github.io/",
+        "summary": "Full current NYU PhD page identifies LeCun/Pinto coadvising and DexWM coauthorship.",
+        "verifiedAt": "2026-10-01T03:36:55Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2512.13644v2",
+        "summary": "Full current primary physical dexterous-planning source; collaborator platform access remains uncertain.",
+        "verifiedAt": "2026-10-01T04:27:11Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2606.08775v1",
+        "summary": "Full June 2026 source gives current Courant/AMI dual affiliations and simulated WorldDP methods.",
+        "verifiedAt": "2026-10-01T03:36:55Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Current September 2026 NYU seminar biography verifies a parallel AMI Labs executive role. The2026 commencement biography describes remaining on NYU faculty part-time after joining Facebook in2013; this historical wording should not be silently converted into a current leave claim. Exact appointment fraction, presence and qualifying sponsor authority need confirmation.",
+      "The cited real grasping demonstration is limited, with no closed-loop hardware MPC or physical reach/place benchmark established by that source. Broader world-model coauthorship does not by itself establish visitor access.",
+      "Reuse the NYU supplement. External-student unpaid research affiliations require a qualifying full-time faculty sponsor and HR approval. International sponsorship, project educational benefit and fully personal funding are category-specific unresolved questions; neither central eligibility nor degree recruitment is a summer offer.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[NYU institutional visitor rules](../eligibility_notes.md#nyu)"
+    ],
+    "publicEmail": "yann@cs.nyu.edu"
+  }
+]

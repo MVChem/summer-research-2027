@@ -587,11 +587,11 @@
       "homepage": "https://depts.washington.edu/ctrl/",
       "batch": "control-001",
       "discoveredAt": "2026-09-30T21:21:57Z",
-      "verifiedAt": "2026-09-30T21:24:34Z",
+      "verifiedAt": "2026-10-01T17:36:21Z",
       "scores": {
         "fit": 37,
         "physical": 18,
-        "shortVisit": 0,
+        "shortVisit": 10,
         "freshness": 14
       },
       "researchAreas": [
@@ -601,7 +601,7 @@
         "generative modeling",
         "control"
       ],
-      "shortVisitStatus": "unknown",
+      "shortVisitStatus": "inquiry-only · formal outside-master route; no lab funding or informal volunteering",
       "recordFile": "batches/control-001.json",
       "detailPage": "batches/control-001.md#karen-leung"
     },
@@ -1587,7 +1587,7 @@
       "homepage": "https://www.shreyaskousik.com/",
       "batch": "control-006",
       "discoveredAt": "2026-09-30T22:04:48Z",
-      "verifiedAt": "2026-09-30T22:08:52Z",
+      "verifiedAt": "2026-10-01T17:40:07Z",
       "scores": {
         "fit": 40,
         "physical": 23,
@@ -1600,7 +1600,7 @@
         "learned dynamics",
         "dexterous manipulation"
       ],
-      "shortVisitStatus": "unknown",
+      "shortVisitStatus": "current MS-stage intake closed · visiting students follow stage restrictions",
       "recordFile": "batches/control-006.json",
       "detailPage": "batches/control-006.md#shreyas-kousik"
     },
@@ -17031,7 +17031,7 @@
       "homepage": "https://robocare.wpi.edu/",
       "batch": "hri-125",
       "discoveredAt": "2026-10-01T16:49:36Z",
-      "verifiedAt": "2026-10-01T16:51:28Z",
+      "verifiedAt": "2026-10-01T17:25:28Z",
       "scores": {
         "fit": 38,
         "physical": 25,
@@ -17079,7 +17079,7 @@
       ],
       "physicalEvidenceStatus": "verified-collaborative-hardware",
       "physicalEvidenceLabel": "受限真机证据：verified-collaborative-hardware",
-      "shortVisitStatus": "inquiry-only · external Masters; summer and six-month examples, no minimum",
+      "shortVisitStatus": "inquiry-only · external Masters; summer and six-month examples, no stated minimum",
       "recordFile": "batches/hri-126.json",
       "detailPage": "batches/hri-126.md#yiyue-luo"
     }

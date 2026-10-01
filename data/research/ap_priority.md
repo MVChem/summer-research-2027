@@ -49,7 +49,7 @@
 | [Ross Greer](batches/embodied-081.md#ross-greer) · University of California, Merced | Assistant Professor；**2024（本人；官方确认现职）** [核查来源1](https://rossgreer.com/) [核查来源2](https://eecs.ucmerced.edu/content/ross-greer) [核查来源3](https://mi3-lab.github.io/prospective) | 73（38/10/10/15） | **先前外校短/长访客入口保持，预期自筹；本次访客页重新读取失败，不更新原邀请观察时间；实体仅学习感知；仅嵌入式感知；机器人执行未核**；inquiry-only · 访客预期自筹支持；八周与类别未定 |
 | [Tom Silver](batches/embodied-001.md#tom-silver) · Princeton University | Assistant Professor；**2025-07（本人CV）；官方确认2025、早期公告称Fall** [核查来源1](https://ece.princeton.edu/news/tom-silver-joins-princeton-faculty-expertise-robot-planning-and-learning) [核查来源2](https://prpl-group.com/) [核查来源3](https://tomsilver.github.io/assets/pdf/tom_silver_cv2026.pdf) [核查来源4](https://ece.princeton.edu/news/tom-silver-joins-princeton-faculty-expertise-robot-planning-and-learning) [核查来源5](https://prpl-group.com/) | 94（37/25/17/15） | **外校研究生VSRC可询问，仅现场、按完整日历月；新CV给7月，保留旧Fall口径；需提前4–6个月准备**；inquiry-only |
 | [Patrícia Alves-Oliveira](batches/hri-005.md#patricia-alves-oliveira) · University of Michigan | Assistant Professor；**2024-01-01（Regents正式记录）** [核查来源1](https://regents.umich.edu/files/meetings/02-24/2024-02-V-2.pdf) [核查来源2](https://robotics.umich.edu/people/faculty/patricia-alves-oliveira/) [核查来源3](https://patricialvesoliveira.com/) | 87（37/25/10/15） | **初始任期文件写至2027-05-31，当前仍官方在任；不能据此推断离职/暑期关闭，续任和实际主办容量需确认**；inquiry-only |
-| [Yiyue Luo](batches/hri-126.md#yiyue-luo) · University of Washington | Assistant Professor；**2024-09（官方）** [核查来源1](https://www.engr.washington.edu/faculty-research/new-faculty-2024/yiyue) | 82（37/20/10/15） | **非UW/Masters表单与summer-intern例子；6个月只是例子，不是要求；合作Go1设备20，时长/资金未知；受限真机证据：verified-collaborative-hardware**；inquiry-only · external Masters; summer and six-month examples, no minimum |
+| [Yiyue Luo](batches/hri-126.md#yiyue-luo) · University of Washington | Assistant Professor；**2024-09（官方）** [核查来源1](https://www.engr.washington.edu/faculty-research/new-faculty-2024/yiyue) | 82（37/20/10/15） | **非UW/Masters表单与summer-intern例子；6个月只是例子，不是要求；合作Go1设备20，时长/资金未知；受限真机证据：verified-collaborative-hardware**；inquiry-only · external Masters; summer and six-month examples, no stated minimum |
 | [Yuzhang Shang](batches/embodied-017.md#yuzhang-shang) · University of Central Florida | Assistant Professor；**2025（官方新教师公告；Summer/Fall季节口径不同）** [核查来源1](https://www.cs.ucf.edu/ucf-strengthens-computer-science-19-new-hires/) [核查来源2](https://www.cecs.ucf.edu/faculty/yuzhang-shang/) [核查来源3](https://ai.ucf.edu/people/faculty/) [核查来源4](https://42shawn.github.io/EXceL-Lab@UCF/) [核查来源5](https://excel-lab.github.io/EXcel-Lab-Website/) | 79（37/20/7/15） | **具体访客页面要求只向公开招募邮箱询问；另一实验室首页更泛化但未宣布关闭；合作设备、资金/时长未知**；inquiry-only |
 | [Zhengzhong Tu](batches/embodied-022.md#zhengzhong-tu) · Texas A&M University | Assistant Professor；**2024（官方；Summer/Fall口径保留）** [核查来源1](https://news.engineering.tamu.edu/news/2024/09/09/say-howdy-to-new-computer-science-and-engineering-faculty/) [核查来源2](https://engineering.tamu.edu/cse/profiles/tu-zhengzhong.html) [核查来源3](https://vztu.github.io/) [核查来源4](https://taco-group.github.io/) | 79（37/20/7/15） | **当前表单停止收件；招募邮箱仍明确欢迎intern/visitor询问，不改写成不接收访客或2027关闭**；inquiry-only |
 | [Andrew Ilyas](batches/embodied-057.md#andrew-ilyas) · Carnegie Mellon University | Assistant Professor；**2024–2026（官方目录与官方到岗公告冲突）** [核查来源1](https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofelectricalandcomputerengineering/) [核查来源2](https://www.ece.cmu.edu/directory/bios/andrew-ilyas.html) [核查来源3](https://engineering.cmu.edu/faculty-staff/professional-development/center-faculty-success/new-faculty-directory/index.html) [核查来源4](https://andrewilyas.com/) [核查来源5](https://andrewilyas.com/AndrewIlyasCV.pdf) | 79（37/20/7/15） | **目录写2024，现任官方简介/新教师页写Spring2026，本人Jan2026；保留冲突，有限intern容量**；inquiry-only |
@@ -115,7 +115,7 @@
 | [Chenfeng Xu](batches/embodied-003.md#chenfeng-xu) · The University of Texas at Austin | Assistant Professor (faculty directory also uses incoming in biography)；**任职起始时间尚未单独核实**  | 73（39/20/0/14） | **时长、2027容量、经费与主办批准另核**；unknown |
 | [Karthik Mahadevan](batches/hri-003.md#karthik-mahadevan) · Massachusetts Institute of Technology (current postdoc); University of Texas at Austin (incoming Spring 2027) | Incoming Assistant Professor; current MIT postdoctoral researcher；**任职起始时间尚未单独核实**  | 73（38/20/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |
 
-## 其他 AP；较早任职、转校或入职年待核（177）
+## 其他 AP；较早任职、转校或入职年待核（176）
 
 | 导师 / 学校 | 准确任职与入职证据 | 原分数：匹配/真机/访问/新鲜 | 访问与时点提醒 |
 |---|---|---|---|
@@ -130,7 +130,6 @@
 | [Michael Everett](batches/control-025.md#michael-everett) · Northeastern University | Assistant Professor; Autonomy & Intelligence Laboratory Director；**任职起始时间尚未单独核实**  | 80（40/25/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |
 | [Karthik Desingh](batches/embodied-033.md#karthik-desingh) · University of Minnesota, Twin Cities | Assistant Professor；**任职起始时间尚未单独核实**  | 80（40/25/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |
 | [Stephen Tu](batches/embodied-058.md#stephen-tu) · University of Southern California | Assistant Professor；**任职起始时间尚未单独核实**  | 80（40/25/0/15） | **时长、2027容量、经费与主办批准另核**；unknown · program-specific region and year limits |
-| [Shreyas Kousik](batches/control-006.md#shreyas-kousik) · Georgia Institute of Technology | Assistant Professor；**任职起始时间尚未单独核实**  | 78（40/23/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |
 | [Glen Chou](batches/control-006.md#glen-chou) · Georgia Institute of Technology | Assistant Professor；**任职起始时间尚未单独核实**  | 75（40/20/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |
 | [Maria Kyrarini](batches/hri-008.md#maria-kyrarini) · Santa Clara University | Assistant Professor; David Packard Jr. Faculty Fellow；**任职起始时间尚未单独核实**  | 75（40/20/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |
 | [Ruoshi Liu](batches/embodied-027.md#ruoshi-liu) · University of Maryland, College Park | Assistant Professor；**任职起始时间尚未单独核实**  | 75（40/20/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |
@@ -240,9 +239,9 @@
 | [Anqi Liu](batches/hri-017.md#anqi-liu) · Johns Hopkins University | Assistant Professor；**任职起始时间尚未单独核实**  | 72（37/20/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |
 | [Hongrui Yu](batches/embodied-068.md#hongrui-yu) · Virginia Polytechnic Institute and State University | Assistant Professor；**任职起始时间尚未单独核实**  | 72（37/20/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |
 | [Zhidong Su](batches/hri-081.md#zhidong-su) · Colorado State University Pueblo | Assistant Professor；**任职起始时间尚未单独核实**  | 72（37/20/0/15） | **受限真机证据：historical-or-indirect**；unknown |
+| [Karen Leung](batches/control-001.md#karen-leung) · University of Washington | Assistant Professor；**任职起始时间尚未单独核实**  | 79（37/18/10/14） | **外校访问可询问但必须走正式校方项目；实验室不资助访客，不允许非正式volunteer，不能概括为所有访客关闭**；inquiry-only · formal outside-master route; no lab funding or informal volunteering |
 | [Mingmin Zhao](batches/hri-048.md#mingmin-zhao) · University of Pennsylvania | Assistant Professor of Computer and Information Science；**2022秋（官方2023-02特写回溯）** [核查来源1](https://blog.cis.upenn.edu/page/2/) [核查来源2](https://www.cis.upenn.edu/~mingminz/) | 73（37/18/8/10） | **较早AP；真实机器人上采集与离线学习推断仍分开，物理18不变；机器人采集数据；在线学习部署未核实**；inquiry-only |
 | [Maegan Tucker](batches/control-006.md#maegan-tucker) · Georgia Institute of Technology | Assistant Professor；**任职起始时间尚未单独核实**  | 70（37/18/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |
-| [Karen Leung](batches/control-001.md#karen-leung) · University of Washington | Assistant Professor；**任职起始时间尚未单独核实**  | 69（37/18/0/14） | **时长、2027容量、经费与主办批准另核**；unknown |
 | [Vivek Thangavelu](batches/control-075.md#vivek-thangavelu) · Arizona State University | Assistant Professor; Principal Investigator, EcoRobotics Lab；**任职起始时间尚未单独核实**  | 72（37/12/8/15） | **AI相关 · 真机待核实（弱/历史线索）**；inquiry-only · 外部访问意向；八周与2027名额未定 |
 | [Jingwei Sun](batches/embodied-071.md#jingwei-sun) · University of Florida | Assistant Professor；**任职起始时间尚未单独核实**  | 52（37/0/0/15） | **仅仿真；真机待核实**；unknown · generic intern inquiry；外校短访条件未明确 |
 | [Ci-Jyun Liang](batches/embodied-069.md#ci-jyun-liang) · Stony Brook University | Assistant Professor；**任职起始时间尚未单独核实**  | 52（37/0/0/15） | **AI相关 · 真机待核实**；precedent-only · historical six-month MS visit |
@@ -311,6 +310,12 @@
 | [Zhongzheng (Jason) Ren](batches/embodied-003.md#zhongzheng-jason-ren) · University of North Carolina at Chapel Hill | Assistant Professor；**任职起始时间尚未单独核实**  | 74（39/20/0/15） | **通常至少1学期或4个月；短访例外未核，降低首联优先级；表单remote与常规现场会议需个别协调**；longer-visit inquiry · generally minimum one semester / four months |
 | [Cheng Zhang](batches/embodied-103.md#cheng-zhang-tamu) · Texas A&M University | Assistant Professor；**2024秋（官方；Texas A&M，同名非Cornell）** [核查来源1](https://news.engineering.tamu.edu/news/2024/09/09/say-howdy-to-new-computer-science-and-engineering-faculty/) [核查来源2](https://docs.google.com/document/d/1CGNidaVyv7eNTsphIewjxNKlgeKSbwAN0EJdyCZMyxE/edit?tab=t.0) | 70（35/20/0/15） | **当前明确没有short-term positions；匹配的长期访问至少6个月，短访分0、显著后置。不等于所有未来访问拒绝，2027 PhD招募不证明任何访学资助；受限真机证据：historical-or-indirect**；minimum-6-months · 明确无短期岗位，较长访问仅条件性询问 |
 | [Xiaofan Yu](batches/control-106.md#xiaofan-yu) · University of California, Merced | Assistant Professor (tenure-track; joined July 2025)；**2025-07** [核查来源1](https://news.ucmerced.edu/news/2025/new-uc-merced-professor-delves-deep-artificial-intelligence-real-life) [核查来源2](https://yuccalab.ucmerced.edu/) | 55（32/0/8/15） | **明确最低3–6个月，且提前3–6个月申请；自费/外部支持可询问，但主办类别与批准另核；不是暑期关闭；仅仿真；真机待核实**；inquiry-only · 最低3–6个月；降低短期优先级 |
+
+## 当前明确暂停相关访问/暑期入口（1）
+
+| 导师 / 学校 | 准确任职与入职证据 | 原分数：匹配/真机/访问/新鲜 | 访问与时点提醒 |
+|---|---|---|---|
+| [Shreyas Kousik](batches/control-006.md#shreyas-kousik) · Georgia Institute of Technology | Assistant Professor；**任职起始时间尚未单独核实**  | 78（40/23/0/15） | **当前不招MS，visiting students须遵循对应学段规则；不是所有学者/永久/仅暑期禁令。另须已有独立GT行程，无此承诺时不提供签证申请费或stipend**；current MS-stage intake closed · visiting students follow stage restrictions |
 
 ## 日期核查口径
 

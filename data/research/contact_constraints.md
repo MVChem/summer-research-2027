@@ -98,6 +98,12 @@
 - **当前CVML页面单列不招visiting students、RA和postdoc；Fall2027学位招募不覆盖此类。未公布重新开放时间，不推断永久关闭**
 - 核查：2026-10-01T15:22:53Z · [来源1](https://vision.ischool.illinois.edu/openings/) · [来源2](https://ischool.illinois.edu/people/yaoyao-liu)
 
+### Shreyas Kousik（新增候选）
+
+- 适用范围：Current new MS research intake, including visiting students who are directed to the MS-stage instructions
+- **当前不招MS，visiting students须遵循对应学段规则；不是所有学者/永久/仅暑期禁令。另须已有独立GT行程，无此承诺时不提供签证申请费或stipend**
+- 核查：2026-10-01T17:40:07Z · [来源1](https://robotdangerlab.me.gatech.edu/student-recruitment/)
+
 ## 明确最短时长
 
 ### Deepak Pathak（原名单 #108）
@@ -303,4 +309,10 @@
 - 适用范围：Emails asking about openings; not a universal no-visitors statement
 - **开口询问岗位前须有PI合作者合作经历或相关指定主要会议论文；本校MS/UG路线另列，外校访客未知**
 - 核查：2026-10-01T16:20:34Z · [来源1](https://hgchen.com/cirp-lab/)
+
+### Karen Leung（新增候选）
+
+- 适用范围：Formal outside-university visiting researchers versus informal volunteering
+- **外校访问可询问但必须走正式校方项目；实验室不资助访客，不允许非正式volunteer，不能概括为所有访客关闭**
+- 核查：2026-10-01T17:36:21Z · [来源1](https://depts.washington.edu/ctrl/join/)
 

@@ -89,7 +89,7 @@
     "department": "Mechanical Engineering",
     "batch": "control-006",
     "discoveredAt": "2026-09-30T22:04:48Z",
-    "verifiedAt": "2026-09-30T22:08:52Z",
+    "verifiedAt": "2026-10-01T17:40:07Z",
     "researchAreas": [
       "safe robot learning",
       "reachability-based planning",
@@ -109,14 +109,10 @@
       ]
     },
     "shortVisit": {
-      "status": "unknown",
-      "summary": "Official lab/PI sources verify current research and students, but no explicit external short-visit invitation was verified. The lab homepage was inaccessible to the research tool.",
+      "status": "current MS-stage intake closed · visiting students follow stage restrictions",
+      "summary": "The current page is not seeking MS students. Its visiting-student section directs visitors to the corresponding career-stage instructions and requires an independent existing travel commitment to Georgia Tech. Without that commitment it cannot fund visa applications or stipends. This is a current MS-stage restriction, not a universal or permanent visitor ban or a summer-only rule.",
       "sourceIds": [
-        "s1",
-        "s2",
-        "s3",
-        "s4",
-        "s5"
+        "s6"
       ]
     },
     "scores": {
@@ -128,7 +124,7 @@
     "scoreReasons": {
       "fit": "Direct safe robot learning, learned models, and practical manipulation.",
       "physical": "Own-lab physical prototype plus current collaborative learned-control hardware; limited detail on complete own-lab inventory.",
-      "shortVisit": "No current explicit external visitor route found.",
+      "shortVisit": "Current MS recruitment is closed and visitors are instructed to follow their career-stage restrictions; preserve zero external-master short-visit points. Independent GT travel commitment and funding limitations do not establish an exception.",
       "freshness": "Dated February2026 official prototype report and revised2026 robot-learning paper."
     },
     "sources": [
@@ -171,11 +167,22 @@
         "summary": "LLM/temporal-logic warehouse demonstrations explicitly use Unity simulation.",
         "verifiedAt": "2026-09-30T22:08:52Z",
         "retrieval": "full primary paper opened"
+      },
+      {
+        "id": "s6",
+        "label": "Current recruitment restrictions, page updated 2026-08-24",
+        "url": "https://robotdangerlab.me.gatech.edu/student-recruitment/",
+        "summary": "Current MS section says the lab is not looking for MS students. PhD intake is closed for 2026–27 and 2027–28. Undergraduates are also not being sought. Visiting students must already have an independent travel commitment to Georgia Tech and follow the corresponding career-stage instructions; without that independent commitment, the lab cannot fund visa applications or stipends. Postdoc funding is unavailable.",
+        "verifiedAt": "2026-10-01T17:40:07Z",
+        "retrieval": "Complete live cloud-browser official lab recruitment page"
       }
     ],
     "unknowns": [
       "Student/intern involvement in past prototype development is not a current external invitation. Current-student VIP participation does not establish international visiting-student eligibility.",
-      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "The previous lab-retrieval limitation is superseded by the later complete recruitment-page observation; earlier source observations remain retained.",
+      "PhD intake is separately closed for2026–27 and2027–28. Already-admitted GT student inquiries are not an outside-master exception. No future reopening date or permanent closure is inferred.",
+      "The volunteer-semester condition is attached to the MS research-for-credit pathway after any reopening; it does not create a currently open informal visitor position."
     ],
     "publicEmail": "shreyas.kousik@me.gatech.edu"
   },

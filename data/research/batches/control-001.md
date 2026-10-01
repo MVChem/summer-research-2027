@@ -130,20 +130,21 @@
 - 方向：trustworthy robotics；safety-critical autonomy；human-aware planning；generative modeling；control
 - 匹配理由：Strong fit for learning/optimization methods for safe robot behavior around people, including generative planning and predictive human-robot interaction.
 - 真机证据（public-hardware-evidence）：Her coauthored reachability-based vehicle-interaction work reports full-scale steer-by-wire traffic-weaving experiments. UW's 2025 project describes instrumented human-robot interaction research using eye tracking and adaptive control.
-- 短访证据（unknown）：Current lab contact page offers general inquiries and meetings for current UW students; no explicit external-master's visiting or summer recruitment was verified. Summer 2027 remains unconfirmed.
-- 首次发现：2026-09-30T21:21:57Z；最后核查：2026-09-30T21:24:34Z
-- 当前总分：69/100；评分依据：
+- 短访证据（inquiry-only · formal outside-master route; no lab funding or informal volunteering）：A current external visiting-researcher inquiry route is explicit, including master’s thesis research abroad. Official university-approved appointment is required, and visiting students cannot receive lab funding. Duration, summer 2027 capacity, project fit and the approved financial/sponsorship route remain unknown.
+- 首次发现：2026-09-30T21:21:57Z；最后核查：2026-10-01T17:36:21Z
+- 当前总分：79/100；评分依据：
   - fit 37/40：Trustworthy autonomy combining learning/control/human interaction.
   - physical 18/25：Concrete full-scale vehicle validation is from an older coauthored paper; current UW work is a research project, not proof of new hardware experiments.
-  - shortVisit 0/20：No explicit external graduate short-visit route.
+  - shortVisit 10/20：Explicit outside-master-compatible visitor inquiry now verified; duration, funding feasibility and actual placement remain unconfirmed.
   - freshness 14/15：Current faculty page and 2026 lab news; older foundational hardware paper.
-- 未确认事项：Current students and mentoring history do not establish an external eight-week research visit. Institution approval, funding and international master's eligibility remain unverified.；Published research evidence does not confirm current in-group hardware access or summer 2027 supervision capacity.
+- 未确认事项：Outside students can inquire as formal visiting researchers; there is no informal volunteer route and no lab funding for visitors. The local UW application form and quarter-by-quarter student process are separate from the external visitor email route. No eight-week minimum or maximum is stated.；Published research evidence does not confirm current in-group hardware access or summer 2027 supervision capacity.；External fellowship support is encouraged, but personal-only financial approval and university sponsorship are not established. Formal host and home-institution approval remains necessary.；[Previously reviewed UW VISIT conditions](../eligibility_notes.md#washington-visit); original institutional observations are retained.
 - 来源：
   - [www.aa.washington.edu / source 1](https://www.aa.washington.edu/facultyfinder/karen-leung)：Current UW assistant professor, CTRL director, public email and research interests.（核查 2026-09-30T21:24:34Z）
   - [arxiv.org / source 2](https://arxiv.org/abs/2012.03390)：Author paper reports full-scale vehicle hardware experiments with reachability safety controller.（核查 2026-09-30T21:24:34Z）
   - [www.aa.washington.edu / source 3](https://www.aa.washington.edu/news/article/2025-03-24/building-customized-trust-autonomous-systems-karen-leung-receives-nsf-grant)：Current UW instrumented HRI project linking perception, human behavior and adaptive control.（核查 2026-09-30T21:24:34Z）
   - [depts.washington.edu / source 4](https://depts.washington.edu/ctrl/contact/)：General lab inquiries and current-UW meeting route; no short-visit invitation.（核查 2026-09-30T21:24:34Z）
   - [depts.washington.edu / source 5](https://depts.washington.edu/ctrl/)：Current lab with June 2026 research news.（核查 2026-09-30T21:24:34Z）
+  - [Current formal outside-student visiting FAQ](https://depts.washington.edu/ctrl/join/)：The non-UW student FAQ explicitly accepts visiting-researcher inquiries, including a master's thesis abroad, through official university-approved programs. Applicants email research interests/background, CV and transcript with the visiting-researcher subject line. The lab provides no funding for visiting students; informal volunteer research is not permitted. No visit duration or 2027 place is specified.（核查 2026-10-01T17:36:21Z；读取方式 Full current primary joining FAQ via web.run）
 
 <a id="negar-mehr"></a>
 

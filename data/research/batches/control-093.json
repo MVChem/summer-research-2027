@@ -1,0 +1,108 @@
+[
+  {
+    "id": "hakki-erhan-sevil",
+    "name": "Hakki Erhan Sevil",
+    "aliases": [
+      "Hakki Sevil",
+      "Hakki Erhan Svil"
+    ],
+    "school": "University of West Florida",
+    "homepage": "https://uwf.edu/intelligent-systems-and-robotics/faculty/",
+    "title": "Associate Professor",
+    "department": "Intelligent Systems and Robotics",
+    "batch": "control-093",
+    "discoveredAt": "2026-10-01T10:24:05Z",
+    "verifiedAt": "2026-10-01T10:29:26Z",
+    "researchAreas": [
+      "Humanoid recovery reinforcement learning",
+      "Robot navigation and planning",
+      "Multi-robot control",
+      "Learning-based autonomous systems"
+    ],
+    "fitReason": "Current university robotics faculty with verified participation in real humanoid recovery learning at the joint IHMC/UWF program.",
+    "physicalEvidence": {
+      "status": "Preliminary current IHMC/UWF collaborative hardware RL,10trials; individual lab access unknown",
+      "summary": "Complete March 2026 paper trains an asymmetric PPO actor-critic in Isaac Lab with balance metrics as privileged critic inputs/rewards. A proprioception-only actor sends joint-position targets to low-level PD control on real Unitree H1-2 at 50Hz. All10 tested supine/seated/kneeling/crouched initializations reached upright, but3trials had post-recovery high-frequency oscillations prompting safety intervention. The 93.4% figure is simulation, not physical success; hardware is preliminary. Sevil is an explicitly UWF-affiliated coauthor in the full manuscript; lead Poddar names Griffin as advisor. Physical20 for verified joint-program collaboration, without claiming Sevil-exclusive hardware or primary advising.",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "incompatible · 当前3–9个月；旧暑期至少9周且需工作许可",
+      "summary": "No Sevil-specific external-master short-visit invitation verified. Joint institute self-directed internships are3–9months, while historical paid 2025 summer intake required9weeks and US work authorization. Neither creates a confirmed approximately eight-week 2027 invitation or visa route for this faculty member.",
+      "sourceIds": [
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct substantive deep-RL humanoid recovery, plus autonomous planning.",
+      "physical": "Real current coauthored hardware experiment; current primary advisee/local independent platform not established.",
+      "shortVisit": "No applicable personal short-visitor offer.",
+      "freshness": "DatedMarch 2026 physical-learning paper andFebruary 2026 joint robotics project."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "uwf.edu / source 1",
+        "url": "https://uwf.edu/intelligent-systems-and-robotics/faculty/",
+        "summary": "Current official associate-professor role and email.",
+        "verifiedAt": "2026-10-01T10:29:26Z",
+        "retrieval": "Direct primary/official source via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "arxiv.org / source 2",
+        "url": "https://arxiv.org/html/2603.08619v1",
+        "summary": "CompleteMarch 2026 primary manuscript. Physical10trial stand-up test, with 3post-recovery safety interventions, distinct from 93.4% simulation result.",
+        "verifiedAt": "2026-10-01T10:29:26Z",
+        "retrieval": "Direct primary/official source via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "neharpoddar.github.io / source 3",
+        "url": "https://neharpoddar.github.io/",
+        "summary": "Lead author independently confirms current IHMC/UWF project and Griffin advising; does not establish Sevil as primary advisor.",
+        "verifiedAt": "2026-10-01T10:29:26Z",
+        "retrieval": "Direct primary/official source via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "news.uwf.edu / source 4",
+        "url": "https://news.uwf.edu/uwf-ihmc-awarded-775k-onr-grant-to-support-isr-research/",
+        "summary": "February 2026 joint university/institute robotics infrastructure project explicitly names Sevil.",
+        "verifiedAt": "2026-10-01T10:29:26Z",
+        "retrieval": "Direct primary/official source via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "www.ihmc.us / source 5",
+        "url": "https://www.ihmc.us/self-directed-study-internship/",
+        "summary": "Longer3–9month institute internship cannot be treated as Sevil-specific eight-week invitation.",
+        "verifiedAt": "2026-10-01T10:29:26Z",
+        "retrieval": "Direct primary/official source via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "uwf.edu / source 6",
+        "url": "https://uwf.edu/student-affairs/departments/global-engagement/faculty-services/",
+        "summary": "Public90day scholar procedure; detailed category/sponsorship restricted and unresolved.",
+        "verifiedAt": "2026-10-01T10:29:26Z",
+        "retrieval": "Direct primary/official source via web.run"
+      }
+    ],
+    "unknowns": [
+      "Reuse ihmc-uwf notes. UWF and IHMC remain distinct hosting entities. UWF public scholar procedure requires departmental application at least90days ahead and international-research screening; its detailed Confluence process is permission-restricted. Outside-master appointment/category, personal funds, support threshold, fees, insurance, export/project access and 2027 capacity were not verified. No blanket nationality eligibility is inferred from a coauthored paper or joint grant.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#ihmc-uwf)"
+    ],
+    "publicEmail": "hsevil@uwf.edu"
+  }
+]

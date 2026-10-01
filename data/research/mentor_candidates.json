@@ -101,6 +101,7 @@
     "batches/control-090.json",
     "batches/control-091.json",
     "batches/control-092.json",
+    "batches/control-093.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -5390,6 +5391,37 @@
       "shortVisitStatus": "incompatible · 当前3–9个月；旧暑期至少9周且需工作许可",
       "recordFile": "batches/control-092.json",
       "detailPage": "batches/control-092.md#robert-j-griffin"
+    },
+    {
+      "id": "hakki-erhan-sevil",
+      "name": "Hakki Erhan Sevil",
+      "aliases": [
+        "Hakki Sevil",
+        "Hakki Erhan Svil"
+      ],
+      "school": "University of West Florida",
+      "title": "Associate Professor",
+      "homepage": "https://uwf.edu/intelligent-systems-and-robotics/faculty/",
+      "batch": "control-093",
+      "discoveredAt": "2026-10-01T10:24:05Z",
+      "verifiedAt": "2026-10-01T10:29:26Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Humanoid recovery reinforcement learning",
+        "Robot navigation and planning",
+        "Multi-robot control",
+        "Learning-based autonomous systems"
+      ],
+      "physicalEvidenceStatus": "Preliminary current IHMC/UWF collaborative hardware RL,10trials; individual lab access unknown",
+      "physicalEvidenceLabel": "受限真机证据：Preliminary current IHMC/UWF collaborative hardware RL,10trials; individual lab access unknown",
+      "shortVisitStatus": "incompatible · 当前3–9个月；旧暑期至少9周且需工作许可",
+      "recordFile": "batches/control-093.json",
+      "detailPage": "batches/control-093.md#hakki-erhan-sevil"
     },
     {
       "id": "tom-silver",

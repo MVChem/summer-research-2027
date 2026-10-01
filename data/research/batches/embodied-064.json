@@ -1,0 +1,100 @@
+[
+  {
+    "id": "biwei-huang",
+    "name": "Biwei Huang",
+    "aliases": [],
+    "school": "University of California San Diego",
+    "homepage": "https://biweihuang.com/",
+    "title": "Assistant Professor",
+    "department": "Halıcıoğlu Data Science Institute",
+    "batch": "embodied-064",
+    "discoveredAt": "2026-10-01T05:38:50Z",
+    "verifiedAt": "2026-10-01T05:43:18Z",
+    "researchAreas": [
+      "Causal world models",
+      "Causality-empowered foundation models",
+      "Contrastive reinforcement learning",
+      "Robot manipulation"
+    ],
+    "fitReason": "Strong robot-learning and world-model match within a broader causal-learning program. Current research connects interaction-aware reinforcement learning with embodied representations; the homepage explicitly identifies VLA and world models as a recruiting area.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The June 2026 IWR paper reports sim-trained policies executed on a real UR5e air-hockey robot. Its physical evaluation is 12 successes across 20 goals. Huang is a UCSD coauthor with an equal-advising role; the collaboration includes UT Austin. Equipment location and independent access through her lab remain unverified.",
+      "sourceIds": [
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "degree-only",
+      "summary": "The current homepage welcomes new students and postdocs from HDSI, CSE and related departments, and separately recruits a VLA/world-model postdoc. No external-master’s summer, internship or short-visit invitation was verified.",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct robot RL and causal/world-model interests within a broader causal-learning agenda.",
+      "physical": "Actual learned UR5e execution, but collaborative apparatus and host-site access unresolved.",
+      "shortVisit": "Local-student/postdoc recruiting is not an external summer invitation.",
+      "freshness": "Current official appointment and full June 2026 robot paper."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "datascience.ucsd.edu / source 1",
+        "url": "https://datascience.ucsd.edu/people/biwei-huang/",
+        "summary": "Full official profile confirms Assistant Professor and public UCSD email.",
+        "verifiedAt": "2026-10-01T05:43:18Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "biweihuang.com / source 2",
+        "url": "https://biweihuang.com/",
+        "summary": "Full current faculty page identifies causal/world-model interests and local-student/postdoc recruitment; no external short-visit offer.",
+        "verifiedAt": "2026-10-01T05:43:18Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2606.11525v1",
+        "summary": "Full June 10, 2026 IWR paper, real-robot section and Appendix F: UR5e execution, fixed 20-goal evaluation, tracking/reset protocol and separate simulation results.",
+        "verifiedAt": "2026-10-01T05:43:18Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "iwr-arxiv.github.io / source 4",
+        "url": "https://iwr-arxiv.github.io/",
+        "summary": "Full author project page confirms UCSD/UT Austin collaboration, physical demonstrations and CoRL 2026 listing.",
+        "verifiedAt": "2026-10-01T05:43:18Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "fan-feng.com / source 5",
+        "url": "https://fan-feng.com/",
+        "summary": "Full current collaborating postdoc page connects Huang with current causal, representation and world-model research.",
+        "verifiedAt": "2026-10-01T05:43:18Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Summer 2027 availability, eight-week scope, external-master’s mentoring, financial support, remote participation and robot access require individual confirmation.",
+      "Do not convert local degree-student or postdoc recruitment into an external visiting-master’s offer. Short-visit evidence remains zero.",
+      "IWR trains in simulation and executes on hardware using structured state inputs; it is not an end-to-end visual-language-action demonstration. The real-transfer table row is randomized simulation, separate from the real-robot row. Appendix captions saying 20/20 achieved goals should not override the actual 12/20 result.",
+      "The robot uses camera-based puck tracking and human-demonstrated reset policies. The paper establishes real learned execution, but not apparatus ownership at UCSD. Collaborative physical evidence is capped at 20.",
+      "Reuse the existing UCSD Visiting Graduate Student note: external master’s students may be considered for degree-related onsite research with host and graduate approvals; no minimum term is stated. Institutional eligibility is not a lab invitation, and international processing needs advance planning.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[UC San Diego institutional visitor rules](../eligibility_notes.md#uc-san-diego)"
+    ],
+    "publicEmail": "bih007@ucsd.edu"
+  }
+]

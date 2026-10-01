@@ -12,6 +12,7 @@
 
 Tom Silver 的 [PRPL](https://prpl-group.com/) 明确邀请外校研究生就 VSRC 询问；其他 Princeton 导师不能仅因学校有 VSRC 就被视为有名额。
 
+<a id="uc-san-diego"></a>
 ## UC San Diego · Non-UC Visiting Graduate Students
 
 核查：2026-09-30T21:34:48Z。VGS 包括外校 MS 等研究生，研究应服务于原学位，要求足够研究准备和到校参与。规则允许个人资金支持的非受薪访问，且没有最低任期；仍需导师、院系与研究生部门批准，正式批准前不得进入实验室开展访问。国际申请材料至少提前三个月，需要签证时更早。保险、最低支持金额和相关审查另需满足。机构路径不证明具体实验室有 2027 名额。

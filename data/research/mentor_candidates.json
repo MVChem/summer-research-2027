@@ -63,7 +63,8 @@
     "batches/hri-015.json",
     "batches/hri-016.json",
     "batches/hri-017.json",
-    "batches/hri-018.json"
+    "batches/hri-018.json",
+    "batches/hri-019.json"
   ],
   "candidates": [
     {
@@ -6461,6 +6462,33 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-018.json",
       "detailPage": "batches/hri-018.md#ramviyas-nattanmai-parasuraman"
+    },
+    {
+      "id": "sooyeon-jeong",
+      "name": "Sooyeon Jeong",
+      "aliases": [],
+      "school": "Purdue University",
+      "title": "Assistant Professor of Computer Science",
+      "homepage": "https://www.cs.purdue.edu/people/faculty/sooyeonj.html",
+      "batch": "hri-019",
+      "discoveredAt": "2026-09-30T23:40:02Z",
+      "verifiedAt": "2026-09-30T23:41:21Z",
+      "scores": {
+        "fit": 37,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Conversational social robotics",
+        "Personalized interactive AI",
+        "Affective computing",
+        "Human-robot communication",
+        "Applied machine learning"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-019.json",
+      "detailPage": "batches/hri-019.md#sooyeon-jeong"
     }
   ]
 }

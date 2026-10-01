@@ -1,0 +1,110 @@
+[
+  {
+    "id": "sooyeon-jeong",
+    "name": "Sooyeon Jeong",
+    "aliases": [],
+    "school": "Purdue University",
+    "homepage": "https://www.cs.purdue.edu/people/faculty/sooyeonj.html",
+    "title": "Assistant Professor of Computer Science",
+    "department": "Computer Science; Human-Agent Interaction Lab",
+    "batch": "hri-019",
+    "discoveredAt": "2026-09-30T23:40:02Z",
+    "verifiedAt": "2026-09-30T23:41:21Z",
+    "researchAreas": [
+      "Conversational social robotics",
+      "Personalized interactive AI",
+      "Affective computing",
+      "Human-robot communication",
+      "Applied machine learning"
+    ],
+    "fitReason": "Applied multimodal conversation, sentiment modeling and empirical HRI evaluation on an embodied social robot. A nonclinical software/evaluation project would need a separately agreed visitor appointment and scope.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The September 2025 primary paper A Robot That Listens implements GPT-4o sentiment analysis and response generation on a physical Furhat robot, with prosodic-feature/rule-based backchannel timing. Sixty-five adults participated at the local campus. Sentiment outputs select verbal backchannels, facial expressions and gestures. This is an autonomous conversational pipeline with predefined behavior mappings; it is not reinforcement-learned motor control. Purdue's March 2026 feature confirms ongoing lab use of several physical robots.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The full live Join Us page invites current Purdue students to inquire about projects, while non-Purdue students seeking MS/PhD positions are directed to degree admissions. A separate collaboration section addresses research groups, industry, domain experts and community partners. Neither section explicitly offers an external master's short visit. A listed visiting scholar is precedent only, with no summer duration or eligibility implied.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "strong applied LLM, perception/affect and physical HRI overlap.",
+      "physical": "specific local Furhat deployment and 65-adult study, corroborated by current lab coverage.",
+      "shortVisit": "no external short-visit invitation.",
+      "freshness": "primary experiment is from 2025 despite a 2026 news feature. Provisional fit/evidence score, not acceptance probability or prestige."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.cs.purdue.edu / source 1",
+        "url": "https://www.cs.purdue.edu/people/faculty/sooyeonj.html",
+        "summary": "Full official faculty profile confirms Assistant Professor of CS, public email, appointment from fall 2023, robotics/AI/HCI research and personal site.",
+        "verifiedAt": "2026-09-30T23:41:21Z"
+      },
+      {
+        "id": "s2",
+        "label": "www.sooyeonjeong.com / source 2",
+        "url": "https://www.sooyeonjeong.com/",
+        "summary": "Full current personal homepage confirms HAI lab leadership and personalized social robotics/applied ML interests.",
+        "verifiedAt": "2026-09-30T23:41:21Z"
+      },
+      {
+        "id": "s3",
+        "label": "human-agent-interaction.github.io / source 3",
+        "url": "https://human-agent-interaction.github.io/HAI-website/contact/",
+        "summary": "Full Join Us page distinguishes current-Purdue project inquiries, non-Purdue degree admissions and broad group/industry/community collaborations. No external summer visitor route stated.",
+        "verifiedAt": "2026-09-30T23:41:21Z"
+      },
+      {
+        "id": "s4",
+        "label": "human-agent-interaction.github.io / source 4",
+        "url": "https://human-agent-interaction.github.io/HAI-website/team/",
+        "summary": "Full primary lab roster confirms current PI, students and a visiting scholar; roster is not counted as an opening.",
+        "verifiedAt": "2026-09-30T23:41:21Z"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2509.07873v1",
+        "summary": "Primary September 9, 2025 paper, Sections III-IV: named Furhat robot, GPT-4o sentiment/response pipeline, acoustic backchannel rules, Purdue affiliation and 65 local-campus adults.",
+        "verifiedAt": "2026-09-30T23:41:21Z"
+      },
+      {
+        "id": "s6",
+        "label": "www.purdue.edu / source 6",
+        "url": "https://www.purdue.edu/newsroom/2026/Q1/improving-robots-social-skills-purdue-professor-programs-robots-for-improved-nonverbal-communication-to-better-support-humans/",
+        "summary": "Full official March 9, 2026 feature confirms current physical lab platforms and software-centered listening/companion research, linking 2025 experiments. Original title URL redirects here.",
+        "verifiedAt": "2026-09-30T23:41:21Z"
+      }
+    ],
+    "unknowns": [
+      "The current-student project instructions apply to Purdue students; the separate non-Purdue section directs degree-seekers to formal admissions.",
+      "Eight-week supervision, visitor appointment, international sponsorship, funding and wholly self-funded eligibility remain unknown.",
+      "The inspected adult conversation study is a lab experiment, not clinical treatment. Health/eldercare motivations do not establish permission for a visitor to perform patient-facing work.",
+      "The March 2026 university feature describes 2025 experimental papers; evidenceFreshness is conservatively scored from the primary study year rather than relabeling the experiment 2026.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "sooyeonj@purdue.edu"
+  }
+]

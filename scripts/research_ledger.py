@@ -28,6 +28,26 @@ def url_key(value):
     return (url.netloc.removeprefix("www.") + url.path.rstrip("/")).casefold()
 
 
+
+def identity_review_warnings(data):
+    """Flag first/last-name matches for review; never merge identities automatically."""
+    baseline = json.loads((ROOT / data["baseline"]["path"]).read_text())["contacts"]
+    groups = {}
+    for scope, rows in (("baseline", baseline), ("new", data["candidates"])):
+        for row in rows:
+            entity = (scope, str(row["id"]), row["name"])
+            for name in (row["name"], *row.get("aliases", [])):
+                folded = "".join(c for c in unicodedata.normalize("NFKD", name).casefold() if not unicodedata.combining(c))
+                parts = re.findall(r"[^\W\d_]+", folded)
+                if len(parts) >= 2:
+                    groups.setdefault((parts[0], parts[-1]), set()).add(entity)
+    return [
+        {"nameKey": " ".join(key), "identities": sorted(entities)}
+        for key, entities in sorted(groups.items())
+        if len(entities) > 1 and any(entity[0] == "new" for entity in entities)
+    ]
+
+
 def timestamp(value):
     assert re.fullmatch(r"\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z", value), f"Not UTC ISO 8601: {value}"
     result = datetime.fromisoformat(value.replace("Z", "+00:00"))
@@ -225,6 +245,8 @@ def main():
             path.write_text(expected)
         else:
             assert path.read_text() == expected, f"Generated file stale: {path}; run --write"
+    for warning in identity_review_warnings(data):
+        print("Manual identity review (not an automatic duplicate): " + json.dumps(warning, ensure_ascii=False))
     print(f"Research ledger valid: {len(data['candidates'])} new candidates; original 200 preserved")
 
 

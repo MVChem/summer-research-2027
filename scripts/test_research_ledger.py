@@ -73,6 +73,34 @@ class ResearchLedgerTests(unittest.TestCase):
         with self.assertRaises(AssertionError):
             ledger.validate(data)
 
+    def test_middle_initial_match_warns_without_merging(self):
+        data = copy.deepcopy(self.full)
+        original = next(r for r in data["candidates"] if r["name"] == "Mark W. Mueller")
+        variant = copy.deepcopy(original)
+        variant.update(id="test-mark-mueller", name="Mark Mueller", aliases=[])
+        data["candidates"].append(variant)
+        before_count = len(data["candidates"])
+        warnings = ledger.identity_review_warnings(data)
+        self.assertTrue(any(w["nameKey"] == "mark mueller" for w in warnings))
+        self.assertEqual(len(data["candidates"]), before_count)
+
+    def test_alias_variants_of_one_identity_do_not_warn(self):
+        data = copy.deepcopy(self.full)
+        row = data["candidates"][0]
+        data["candidates"] = [row]
+        row["name"] = "Zebulon Q. Testname"
+        row["aliases"] = ["Zebulon Testname", "Zebulon Q Testname"]
+        self.assertEqual(ledger.identity_review_warnings(data), [])
+
+    def test_shared_surname_alone_does_not_warn(self):
+        data = copy.deepcopy(self.full)
+        first = copy.deepcopy(data["candidates"][0])
+        second = copy.deepcopy(first)
+        first.update(id="test-one", name="Zebulon Testname", aliases=[])
+        second.update(id="test-two", name="Zephyra Testname", aliases=[])
+        data["candidates"] = [first, second]
+        self.assertEqual(ledger.identity_review_warnings(data), [])
+
     def test_existing_policy_references_resolve(self):
         ledger.validate_policy_references(self.full)
 

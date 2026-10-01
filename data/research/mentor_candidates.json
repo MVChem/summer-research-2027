@@ -409,7 +409,9 @@
     {
       "id": "mark-w-mueller",
       "name": "Mark W. Mueller",
-      "aliases": [],
+      "aliases": [
+        "Mark Mueller"
+      ],
       "school": "University of California, Berkeley",
       "title": "Associate Professor",
       "homepage": "https://hiperlab.berkeley.edu/",

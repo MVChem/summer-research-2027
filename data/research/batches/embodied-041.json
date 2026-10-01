@@ -1,0 +1,126 @@
+[
+  {
+    "id": "carmel-majidi",
+    "name": "Carmel Majidi",
+    "aliases": [],
+    "school": "Carnegie Mellon University",
+    "homepage": "https://cee.engineering.cmu.edu/directory/bios/majidi-carmel.html",
+    "title": "Clarence H. Adamson Professor of Mechanical Engineering",
+    "department": "Mechanical Engineering; courtesy Robotics Institute",
+    "batch": "embodied-041",
+    "discoveredAt": "2026-10-01T01:56:41Z",
+    "verifiedAt": "2026-10-01T01:59:06Z",
+    "researchAreas": [
+      "Learning-based soft robot control",
+      "Tactile and proprioceptive learning",
+      "Robot safety filters",
+      "Soft manipulation"
+    ],
+    "fitReason": "The Soft Machines Lab has a concrete data-driven control line in addition to materials development. A supervised recurrent kinematics model supports reinforcement-learned soft-limb control, while September 2026 work extends modular learned proprioception.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "A May 2025 CMU master’s thesis, chaired by Majidi, deploys learned controllers on a real silicone/SMA limb through an Arduino and ROS2 loop. It tests spiral, square and letter trajectories, disturbances, changed limb stiffness and tip loads. The September 2026 continuum-robot paper demonstrates modular magnetic sensing with a learned joint-pose model on actual reconfigurable hardware. That newer paper’s autonomous closed-loop control is future work, so the 2025 thesis supplies the executed learned-control evidence.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current general external-master’s short-visit invitation was verified. CMU Portugal records document past visiting students, but the programme-specific precedent does not establish graduate visitors’s eligibility or summer 2027 acceptance. The external Soft Machines Lab website link failed to load in the web reader.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 35,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Clear robot learning and tactile-control research within a wider materials/hardware lab.",
+      "physical": "Actual learned-controller deployment documented in a thesis directly tied to his supervised group; newer sensing hardware corroborates activity.",
+      "shortVisit": "Past programme visitors and standard graduate advising do not establish an external short-visit route.",
+      "freshness": "Explicit September 2026 learned-sensing primary paper; executed learned control honestly dated 2025."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "cee.engineering.cmu.edu / source 1",
+        "url": "https://cee.engineering.cmu.edu/directory/bios/majidi-carmel.html",
+        "summary": "Direct current named professorship, home/courtesy departments, public professional email and lab link.",
+        "verifiedAt": "2026-10-01T01:59:06Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "www.ri.cmu.edu / source 2",
+        "url": "https://www.ri.cmu.edu/ri-people/carmel-majidi/",
+        "summary": "Direct courtesy faculty listing, lab and advised student links.",
+        "verifiedAt": "2026-10-01T01:59:06Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "www.ri.cmu.edu / source 3",
+        "url": "https://www.ri.cmu.edu/robotics-groups/soft-machines-lab/",
+        "summary": "Official lab page identifies Majidi as current head and lists the 2025 learned-control thesis.",
+        "verifiedAt": "2026-10-01T01:59:06Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "publications.ri.cmu.edu / source 4",
+        "url": "https://publications.ri.cmu.edu/storage/publications/2025/05/MSR_Thesis__Andrew_Sue_final.pdf",
+        "summary": "May 7, 2025 thesis: adviser attribution, real hardware control loop and tests in Chapter 5, conservative hardware safety-filter limits in Chapters 6–7.",
+        "verifiedAt": "2026-10-01T01:59:06Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2609.16256v1",
+        "summary": "September 14, 2026 learned modular magnetic proprioception on a physical continuum robot; closed-loop autonomy distinguished as future work.",
+        "verifiedAt": "2026-10-01T01:59:06Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "cmuportugal.org / source 6",
+        "url": "https://cmuportugal.org/visiting-students-program/",
+        "summary": "Programme-specific past visiting-student precedent only, not a general current opening.",
+        "verifiedAt": "2026-10-01T01:59:06Z",
+        "retrieval": "indexed-primary-excerpt"
+      },
+      {
+        "id": "s7",
+        "label": "sml.me.cmu.edu / source 7",
+        "url": "https://sml.me.cmu.edu/",
+        "summary": "University-linked lab site failed direct retrieval; no recruitment evidence inferred.",
+        "verifiedAt": "2026-10-01T01:59:06Z",
+        "retrieval": "unavailable-direct-open"
+      }
+    ],
+    "unknowns": [
+      "This is a soft hardware and sensing lab with a substantial demonstrated learning/control thread, not a dedicated foundation-model manipulation group.",
+      "The 2025 learned controller is trained in a learned-kinematics environment before physical deployment. Waypoint progression uses a ten-degree bending-angle tolerance; it is not millimeter-precision manipulation. The DQN safety-filter test needs a conservative tuned threshold because of sim-to-real error and does not establish unconditional hardware safety.",
+      "The September 2026 paper predicts joint pose from onboard magnetic measurements. Grasp/traversal demonstrations do not establish an autonomously learned end-to-end manipulation policy.",
+      "The current official named professorship is in Mechanical Engineering. Robotics Institute lists a courtesy appointment and corroborates lab affiliation/advised students. The existing CMU central visitor policy does not itself establish this lab’s capacity or summer 2027 authorization.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "cmajidi@andrew.cmu.edu"
+  }
+]

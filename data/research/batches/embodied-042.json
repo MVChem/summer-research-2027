@@ -1,0 +1,125 @@
+[
+  {
+    "id": "bing-li",
+    "name": "Bing Li",
+    "aliases": [],
+    "school": "Clemson University",
+    "homepage": "https://autoai.us/",
+    "title": "Associate Professor",
+    "department": "Automotive Engineering; Clemson University International Center for Automotive Research",
+    "batch": "embodied-042",
+    "discoveredAt": "2026-10-01T02:05:05Z",
+    "verifiedAt": "2026-10-01T02:08:43Z",
+    "researchAreas": [
+      "Foundation models for sim-to-real transfer",
+      "Behavioral cloning for autonomous vehicles",
+      "Spatial and embodied AI",
+      "3D perception and mapping"
+    ],
+    "fitReason": "AutoAI studies learned perception and embodied systems, including foundation-model domain adaptation that enables simulation-trained driving policies to execute on actual vehicles. This offers a concrete software/robot-learning project fit beyond offline scene understanding.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Sim2Real Diffusion, revised October 2025, executes behavioral-cloning policies on actual Nigel indoor and Hunter outdoor vehicles. A conditional latent-diffusion adapter converts camera frames toward the training-domain appearance. Ten-trial comparisons report 90 percent success for Nigel and straight-path Hunter. Author-deposited software metadata explicitly identifies Li as a supervisor, supporting direct group attribution.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The live lab homepage recruits a fully funded PhD student, not an external summer researcher. Its people page records research interns, predominantly identified as local undergraduates, without a current external-master’s invitation. No summer 2027 route verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "Strong vision/foundation-model and robot-learning overlap, focused on autonomous vehicles rather than manipulation.",
+      "physical": "Actual neural-policy deployment and explicit author-deposited supervisory attribution at current Clemson host.",
+      "shortVisit": "No explicit external short-visit invitation; PhD recruitment and past/local interns receive no credit.",
+      "freshness": "Direct current profile and 2025 primary hardware manuscript; a 2026 issue date alone is not a newly conducted experiment."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.clemson.edu / source 1",
+        "url": "https://www.clemson.edu/cecas/departments/automotive-engineering/people/li.html",
+        "summary": "Current official Associate Professor, AutoAI director, Automotive Engineering and professional email.",
+        "verifiedAt": "2026-10-01T02:08:43Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "autoai.us / source 2",
+        "url": "https://autoai.us/",
+        "summary": "Direct current research themes, PhD-only opening, courses and selected papers.",
+        "verifiedAt": "2026-10-01T02:08:43Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "autoai.us / source 3",
+        "url": "https://autoai.us/people/",
+        "summary": "Current group and intern precedent; no general external-master’s summer route inferred.",
+        "verifiedAt": "2026-10-01T02:08:43Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2507.00236v3",
+        "summary": "October 31, 2025 primary full paper, sections II-B4 and III-C: physical vehicles, learned inference, low-speed limits and ten-trial comparisons.",
+        "verifiedAt": "2026-10-01T02:08:43Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "zenodo.org / source 5",
+        "url": "https://zenodo.org/records/15774864",
+        "summary": "Author-deposited research release explicitly lists Bing Li as supervisor and CU-ICAR affiliation.",
+        "verifiedAt": "2026-10-01T02:08:43Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/abs/2507.00319",
+        "summary": "2025 digital-twin/LLM scenario-editing study; simulation-only use distinguished from real execution.",
+        "verifiedAt": "2026-10-01T02:08:43Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s7",
+        "label": "github.com / source 7",
+        "url": "https://github.com/Tinker-Twins/Sim2Real-Diffusion",
+        "summary": "Author software repository corroborates published January 2026 journal issue without redating the experiment.",
+        "verifiedAt": "2026-10-01T02:08:43Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "The driving study is low-speed, with roughly 5–7 image inferences per second on tested local/edge hardware. Its 40 percent domain-gap figure is an image-style metric, not a 40 percent driving-success improvement. This is diffusion-assisted perception feeding behavioral cloning, not a general VLA manipulation policy.",
+      "The journal issue is dated 2026, but the inspected hardware manuscript is October 2025. The LLM digital-twin paper concerns scenario editing in simulation and is not a separate physical LLM-control demonstration.",
+      "The lab is at CU-ICAR in Greenville. Creative Inquiry is a credit-bearing local course; it does not establish eligibility for an eight-week external visit. Clemson visitor appointment and funding rules need separate confirmation.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "bli4@clemson.edu"
+  }
+]

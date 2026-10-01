@@ -1,0 +1,130 @@
+[
+  {
+    "id": "edward-h-ted-adelson",
+    "name": "Edward H. (Ted) Adelson",
+    "aliases": [
+      "Edward Adelson",
+      "Edward H. Adelson",
+      "Ted Adelson"
+    ],
+    "school": "Massachusetts Institute of Technology",
+    "homepage": "https://www.csail.mit.edu/person/ted-adelson",
+    "title": "John and Dorothy Wilson Professor of Vision Science",
+    "department": "Brain and Cognitive Sciences; CSAIL",
+    "batch": "embodied-040",
+    "discoveredAt": "2026-10-01T01:42:31Z",
+    "verifiedAt": "2026-10-01T01:45:40Z",
+    "researchAreas": [
+      "Visuotactile robot learning",
+      "Foundation models for manipulation",
+      "Contact-rich assembly",
+      "Tactile representation learning"
+    ],
+    "fitReason": "CoStream (June 2026) combines foundation-model semantic and video predictions with tactile corrections for physical assembly. This directly connects the lab’s tactile sensing expertise with embodied AI.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "CoStream uses two physical Franka Panda arms, GelSight Mini and RealSense D415 cameras across eight tasks, with 15 trials per task. Its equal-contribution author Yuxiang Ma explicitly identifies Adelson as his MIT PhD adviser. This is a multi-university collaboration; the inspected evidence does not identify which campus houses the paired arms, so physical evidence is capped at 20.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No explicit current external-master’s internship or short-visit invitation was verified. Official BCS and CSAIL profiles confirm the faculty role and research direction, but are not recruitment pages. The linked Perceptual Science lab website was not retrievable in this pass.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong tactile foundation-model integration and physical manipulation research.",
+      "physical": "Detailed collaborative robot evidence with an advised co-first author; equipment campus not verified.",
+      "shortVisit": "No current explicit external short-visit route.",
+      "freshness": "Dated June 2026 primary manipulation paper and May 2026 official thesis event."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "bcs.mit.edu / source 1",
+        "url": "https://bcs.mit.edu/directory/edward-h-adelson",
+        "summary": "Direct official current named professorship, primary BCS faculty appointment, CSAIL affiliation and email.",
+        "verifiedAt": "2026-10-01T01:45:40Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "www.csail.mit.edu / source 2",
+        "url": "https://www.csail.mit.edu/person/ted-adelson",
+        "summary": "Official PI profile describes tactile robotics and manipulation collaborations; not a visitor invitation.",
+        "verifiedAt": "2026-10-01T01:45:40Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2606.26423v2",
+        "summary": "June 26, 2026 full CoStream paper: real platforms, task-specific results, baseline sensing mismatch and calibrated-template limitations.",
+        "verifiedAt": "2026-10-01T01:45:40Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "costream-simple.github.io / source 4",
+        "url": "https://costream-simple.github.io/",
+        "summary": "Author project corroborates participating universities, real assembly and failure demonstrations.",
+        "verifiedAt": "2026-10-01T01:45:40Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "yuxiang-ma.github.io / source 5",
+        "url": "https://yuxiang-ma.github.io/",
+        "summary": "Co-first author explicitly names Adelson as PhD adviser; page says expected summer 2026 graduation.",
+        "verifiedAt": "2026-10-01T01:45:40Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "www.csail.mit.edu / source 6",
+        "url": "https://www.csail.mit.edu/event/thesis-defense-tactile-sensing-contact-rich-dexterous-robotic-manipulation",
+        "summary": "Official May 7, 2026 thesis event, hosted by Adelson, describes real tactile manipulation systems.",
+        "verifiedAt": "2026-10-01T01:45:40Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s7",
+        "label": "persci.mit.edu / source 7",
+        "url": "https://persci.mit.edu/",
+        "summary": "Linked lab homepage could not be retrieved; no recruitment claim inferred.",
+        "verifiedAt": "2026-10-01T01:45:40Z",
+        "retrieval": "unavailable-direct-open"
+      }
+    ],
+    "unknowns": [
+      "CoStream is a hybrid system, not a newly trained end-to-end VLA. Calibrated perception, reusable templates and explicit stages remain necessary. Its 96.7 percent figure covers four assembly tasks, not all eight; everyday task outcomes are lower. Baselines lack comparable tactile/force inputs, so the comparison does not isolate model quality.",
+      "The reactive loop is 25 Hz; this does not mean foundation-model generation runs at that rate. The paper identifies API dependence and limited correction of initial perception errors.",
+      "The May 2026 MIT thesis announcement corroborates ongoing lab work in bimanual garment manipulation and tactile object retrieval, but is not itself a current visitor opening. Yuxiang Ma’s page anticipated summer 2026 graduation, so do not promise his availability as a summer 2027 mentor.",
+      "The existing MIT institutional audit requires at least 51 percent non-personal/non-family support for overseas degree students in its Visiting Student route. Full personal funding is not supported by that route. Department and faculty sponsorship, lead time and 2027 fees remain to be confirmed.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "adelson@csail.mit.edu"
+  }
+]

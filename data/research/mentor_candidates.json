@@ -87,6 +87,9 @@
     "batches/embodied-037.json",
     "batches/embodied-038.json",
     "batches/embodied-039.json",
+    "batches/embodied-040.json",
+    "batches/embodied-041.json",
+    "batches/embodied-042.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -5711,6 +5714,88 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-039.json",
       "detailPage": "batches/embodied-039.md#ibrahim-volkan-isler"
+    },
+    {
+      "id": "edward-h-ted-adelson",
+      "name": "Edward H. (Ted) Adelson",
+      "aliases": [
+        "Edward Adelson",
+        "Edward H. Adelson",
+        "Ted Adelson"
+      ],
+      "school": "Massachusetts Institute of Technology",
+      "title": "John and Dorothy Wilson Professor of Vision Science",
+      "homepage": "https://www.csail.mit.edu/person/ted-adelson",
+      "batch": "embodied-040",
+      "discoveredAt": "2026-10-01T01:42:31Z",
+      "verifiedAt": "2026-10-01T01:45:40Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Visuotactile robot learning",
+        "Foundation models for manipulation",
+        "Contact-rich assembly",
+        "Tactile representation learning"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-040.json",
+      "detailPage": "batches/embodied-040.md#edward-h-ted-adelson"
+    },
+    {
+      "id": "carmel-majidi",
+      "name": "Carmel Majidi",
+      "aliases": [],
+      "school": "Carnegie Mellon University",
+      "title": "Clarence H. Adamson Professor of Mechanical Engineering",
+      "homepage": "https://cee.engineering.cmu.edu/directory/bios/majidi-carmel.html",
+      "batch": "embodied-041",
+      "discoveredAt": "2026-10-01T01:56:41Z",
+      "verifiedAt": "2026-10-01T01:59:06Z",
+      "scores": {
+        "fit": 35,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Learning-based soft robot control",
+        "Tactile and proprioceptive learning",
+        "Robot safety filters",
+        "Soft manipulation"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-041.json",
+      "detailPage": "batches/embodied-041.md#carmel-majidi"
+    },
+    {
+      "id": "bing-li",
+      "name": "Bing Li",
+      "aliases": [],
+      "school": "Clemson University",
+      "title": "Associate Professor",
+      "homepage": "https://autoai.us/",
+      "batch": "embodied-042",
+      "discoveredAt": "2026-10-01T02:05:05Z",
+      "verifiedAt": "2026-10-01T02:08:43Z",
+      "scores": {
+        "fit": 37,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Foundation models for sim-to-real transfer",
+        "Behavioral cloning for autonomous vehicles",
+        "Spatial and embodied AI",
+        "3D perception and mapping"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-042.json",
+      "detailPage": "batches/embodied-042.md#bing-li"
     },
     {
       "id": "henny-admoni",

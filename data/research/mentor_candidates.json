@@ -188,7 +188,8 @@
     "batches/hri-055.json",
     "batches/hri-056.json",
     "batches/hri-057.json",
-    "batches/hri-058.json"
+    "batches/hri-058.json",
+    "batches/hri-059.json"
   ],
   "candidates": [
     {
@@ -10655,6 +10656,37 @@
       "shortVisitStatus": "precedent-only",
       "recordFile": "batches/hri-058.json",
       "detailPage": "batches/hri-058.md#seungmoon-song"
+    },
+    {
+      "id": "cynthia-a-chestek",
+      "name": "Cynthia A. Chestek",
+      "aliases": [
+        "Cynthia Chestek",
+        "Cindy Chestek",
+        "Cindy A. Chestek"
+      ],
+      "school": "University of Michigan–Ann Arbor",
+      "title": "Professor of Biomedical Engineering, Robotics, and Electrical Engineering and Computer Science",
+      "homepage": "https://robotics.umich.edu/people/faculty/cynthia-chestek/",
+      "batch": "hri-059",
+      "discoveredAt": "2026-10-01T04:50:35Z",
+      "verifiedAt": "2026-10-01T05:00:15Z",
+      "scores": {
+        "fit": 36,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Neural and nerve-machine interfaces",
+        "Learned prosthetic control",
+        "EMG pattern recognition",
+        "Robust neural decoding",
+        "Assistive robotics"
+      ],
+      "shortVisitStatus": "degree-only",
+      "recordFile": "batches/hri-059.json",
+      "detailPage": "batches/hri-059.md#cynthia-a-chestek"
     }
   ]
 }

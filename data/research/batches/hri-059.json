@@ -1,0 +1,110 @@
+[
+  {
+    "id": "cynthia-a-chestek",
+    "name": "Cynthia A. Chestek",
+    "aliases": [
+      "Cynthia Chestek",
+      "Cindy Chestek",
+      "Cindy A. Chestek"
+    ],
+    "school": "University of Michigan–Ann Arbor",
+    "homepage": "https://robotics.umich.edu/people/faculty/cynthia-chestek/",
+    "title": "Professor of Biomedical Engineering, Robotics, and Electrical Engineering and Computer Science",
+    "department": "Biomedical Engineering; Robotics; Electrical Engineering and Computer Science",
+    "batch": "hri-059",
+    "discoveredAt": "2026-10-01T04:50:35Z",
+    "verifiedAt": "2026-10-01T05:00:15Z",
+    "researchAreas": [
+      "Neural and nerve-machine interfaces",
+      "Learned prosthetic control",
+      "EMG pattern recognition",
+      "Robust neural decoding",
+      "Assistive robotics"
+    ],
+    "fitReason": "Strong applied-AI intersection in motor-intent decoding, signal nonstationarity, learned interfaces and real-time prosthetic control. A software or existing-data decoding study could be tightly scoped; clinical contact or implant experimentation must never be assumed available to a short-term visitor.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Full February 2026 primary methods distinguish two experiments. Two participants controlled a virtual hand for grip-classification evaluation; separately, one participant used an actual Ossur iLimb Quantum hand plus Fillauer powered wrist rotator to perform a physical coffee-making task. A trained linear-discriminant EMG classifier selected grips/wrist actions, with a 150 ms decision threshold and 500 ms velocity ramp; xPC Target sent commands through CAN. This supplies learned physical execution, but the physical functional test is a one-person case, not a two-person robotic-hand trial or a fully autonomous neural-network manipulator.",
+      "sourceIds": [
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "degree-only",
+      "summary": "The official indexed lab email policy addresses prospective PhD applications, current Michigan undergraduates and master’s students continuing a BME517 class project into directed research. It does not state an external-master short-visit offer. The live lab/email-policy fetches returned 403, so indexed official content is labeled accordingly.",
+      "sourceIds": [
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 36,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "36/40: substantial learned intent decoding and assistive-device control, specialized in neural/EMG interfaces rather than broad embodied autonomy.",
+      "physical": "25/25: complete primary methods verify actual classifier-controlled prosthetic hand and powered wrist execution, while the one-person scale is retained.",
+      "shortVisit": "0/20: no verified external-master short-visit invitation; local course continuation is inapplicable evidence.",
+      "freshness": "15/15: distinct February 2026 primary physical-interface study and current university appointments."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "robotics.umich.edu / source 1",
+        "url": "https://robotics.umich.edu/people/faculty/cynthia-chestek/",
+        "summary": "Current official robotics profile verifies Professor of Robotics and Biomedical Engineering, assistive-neural research focus and public cchestek@umich.edu contact.",
+        "verifiedAt": "2026-10-01T05:00:15Z"
+      },
+      {
+        "id": "s2",
+        "label": "bme.umich.edu / source 2",
+        "url": "https://bme.umich.edu/people/chestek-cindy/",
+        "summary": "Full official BME profile verifies Professor and additional EECS/Robotics professorial titles, with current nerve-controlled prosthesis research.",
+        "verifiedAt": "2026-10-01T05:00:15Z"
+      },
+      {
+        "id": "s3",
+        "label": "pmc.ncbi.nlm.nih.gov / source 3",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12874230/",
+        "summary": "February 2026 primary paper. The complete XML was read through the public Europe PMC full-text service after the PMC webpage presented a browser check; sections 2.8 and 2.10 separate virtual LDA classification from physical iLimb/wrist Coffee Task.",
+        "verifiedAt": "2026-10-01T05:00:15Z",
+        "retrieval": "primary article read through identical Europe PMC full-text XML"
+      },
+      {
+        "id": "s4",
+        "label": "www.ebi.ac.uk / source 4",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12874230/fullTextXML",
+        "summary": "Public full-text XML of the same primary article successfully retrieved and read, including device, decoder and functional-test methods.",
+        "verifiedAt": "2026-10-01T05:00:15Z",
+        "retrieval": "direct-primary-full-text-XML"
+      },
+      {
+        "id": "s5",
+        "label": "medschool.umich.edu / source 5",
+        "url": "https://medschool.umich.edu/profile/912/cynthia-chestek",
+        "summary": "Full current official medical-school profile corroborates current identity, university appointments and the dated 2026 prosthesis paper.",
+        "verifiedAt": "2026-10-01T05:00:15Z"
+      },
+      {
+        "id": "s6",
+        "label": "chestekresearch.engin.umich.edu / source 6",
+        "url": "https://chestekresearch.engin.umich.edu/email-policy/",
+        "summary": "Official indexed recruitment/contact policy is PhD/local-undergraduate/course-linked master’s scoped; live fetch returned 403.",
+        "verifiedAt": "2026-10-01T05:00:15Z",
+        "retrieval": "official indexed content; live fetch returned 403"
+      }
+    ],
+    "unknowns": [
+      "No eight-week summer 2027 place, visitor capacity, stipend, remote research arrangement or full personal-funding approval was verified.",
+      "Reuse the saved Michigan–Ann Arbor Covered Visitors and scholar-funding review. Institutional inclusion of external graduate visitors and acceptance of personal funds in the scholar document do not settle the lab’s appointment category or capacity.",
+      "Hospital research access, protected data, human-subject protocols, implant-related work and clinical privileges require separate approvals. Publicly described research is not authorization to participate in clinical care.",
+      "Current official directories say Professor; older institutional stories and some external profiles still say Associate Professor.",
+      "The 2026 study’s two-person virtual benchmark and one-person physical task are explicitly distinct; no broad clinical-effectiveness conclusion is drawn.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Michigan institutional visitor rules](../eligibility_notes.md#michigan-ann-arbor)"
+    ],
+    "publicEmail": "cchestek@umich.edu"
+  }
+]

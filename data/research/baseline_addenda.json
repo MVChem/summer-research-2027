@@ -72,6 +72,68 @@
           "evidence": "Full official current Associate Professor, Boston campus, Helping Hands affiliation, professional email and2026 research."
         }
       ]
+    },
+    {
+      "baselineId": 148,
+      "name": "Guanya Shi",
+      "observedAt": "2026-10-01T10:24:53Z",
+      "eventType": "later-public-source-verification-not-discovery",
+      "finding": "Current LeCAR join page has a separate visiting-student email inquiry route requesting CV/transcript, research experience, lab fit and funding needs. Its greater-than-six-month minimum explicitly applies to international visiting undergraduates; no matching graduate minimum is stated. External-master eligibility, eight-week arrangements, summer 2027 capacity and funding remain unconfirmed. This is a later source observation, not a new mentor or a discovery timestamp.",
+      "sources": [
+        {
+          "url": "https://lecar-lab.github.io/join.html",
+          "retrieval": "direct-primary-page",
+          "evidence": "Full visiting-student inquiry instructions separate from prospective/admitted degree students; explicit longer-than-six-month rule restricted to international undergraduates."
+        },
+        {
+          "url": "https://www.gshi.me/",
+          "retrieval": "direct-primary-page",
+          "evidence": "Full current CMU assistant professor and LeCAR lead; public email, direct referral to join page, currentFall2026 teaching."
+        },
+        {
+          "url": "https://www.ri.cmu.edu/robotics-groups/lecar-lab/",
+          "retrieval": "direct-primary-page",
+          "evidence": "Full official Robotics Institute lab page identifies Guanya Shi as current head."
+        }
+      ]
+    },
+    {
+      "baselineId": 127,
+      "name": "Abhishek Gupta",
+      "observedAt": "2026-10-01T10:27:38Z",
+      "eventType": "later-public-source-verification-not-discovery",
+      "finding": "Current WEIRD Lab contact section explicitly limits its student-research route to current UW students. The separate PhD and postdoc routes do not establish an outside-master visit; offered lab tours are brief visits, not research appointments. No external-master exception is stated; a tour or university visitor category does not establish a research invitation.",
+      "sources": [
+        {
+          "url": "https://weirdlab.cs.washington.edu/",
+          "retrieval": "direct-primary-page",
+          "evidence": "Full lab contact section: current-UW-student-only research route; separate PhD, postdoc and lab-tour instructions."
+        },
+        {
+          "url": "https://homes.cs.washington.edu/~abhgupta/",
+          "retrieval": "direct-primary-page",
+          "evidence": "Full current UW assistant-professor homepage and independent PhD/postdoc/local-undergraduate instructions."
+        }
+      ]
+    },
+    {
+      "baselineId": 108,
+      "name": "Deepak Pathak",
+      "observedAt": "2026-10-01T10:27:38Z",
+      "eventType": "later-public-source-verification-not-discovery",
+      "finding": "The directly linked current public research-interest form explicitly includes applicants outside CMU and MS academic status, but says visitors will be considered only if available six months or longer. Thus the eight-week target conflicts with a lab-specific duration requirement despite the broad homepage inquiry invitation. The institutional CMU route does not override this lab-specific minimum; no eight-week or remote exception is stated.",
+      "sources": [
+        {
+          "url": "https://www.cs.cmu.edu/~dpathak/",
+          "retrieval": "direct-primary-page",
+          "evidence": "Full current Raj Reddy Associate Professor homepage points applicants in non-PhD capacities to this form followed by a short email without documents."
+        },
+        {
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLScqAvv1zxr1oP059gu8cXhF-2nLW1DgjQCVhWWI3fAX2Wgsug/viewform",
+          "retrieval": "direct-primary-page-via-cloud-browser",
+          "evidence": "Directly read in cloud browser10:27:28Z, URL confirmed10:27:38Z: external-CMU option, MS category and six-month minimum for visitors. No entries, upload or submission."
+        }
+      ]
     }
   ]
 }

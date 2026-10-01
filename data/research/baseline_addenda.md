@@ -23,3 +23,17 @@
 核查：2026-10-01T09:46:44Z。[Helping Hands 招募页](https://www2.ccs.neu.edu/research/helpinghands/join.html) 明确欢迎硕士、本科及 visiting students，并建议先与研究方向匹配的实验室博士生讨论项目；这比原始记录的“短访招募未核实”多了一条明确询问渠道。页面没有承诺外校硕士的八周访问、2027名额、远程安排或经费。单列的有经费博士/博后职位不能套用于硕士访客。
 
 [当前学校主页](https://www.khoury.northeastern.edu/people/robert-platt/) 确认其 Boston 校区 Associate Professor 身份及公开邮箱 rplatt@ccs.neu.edu。仍须满足 [Northeastern 访问生资金与任命条件](eligibility_notes.md#northeastern)，尤其是超过50%的非个人/家庭资金要求；实验室欢迎访客不等于学校批准。保留原始200人记录及原时间字段，不新增导师条目。
+
+## ID 148 · Guanya Shi · 新核实的询问渠道
+
+核查：2026-10-01T10:24:53Z。[LeCAR 招募页](https://lecar-lab.github.io/join.html)明确列出 visiting students 的独立邮件入口，要求 CV/成绩单、研究经历、方向匹配和资金需求；[本人主页](https://www.gshi.me/)公开联系邮箱为 guanyas@andrew.cmu.edu。
+
+页面“超过六个月”的最低时长明确针对国际访问本科生，不能直接套到研究生；没有写相同研究生最低时长，也不等于保证八周接收。外校硕士资格、2027容量、日期和经费仍须确认，并履行[CMU 主办/OIE 与 Collaborating Visitor 审批](eligibility_notes.md#cmu-student-intern)。RISS 本科项目限制是另一个路径。此处只补充后续核查，不修改原记录或补造发现时间。
+
+## ID 127 · Abhishek Gupta · 当前学生研究入口限UW本校
+
+核查：2026-10-01T10:27:38Z。[WEIRD Lab 联系说明](https://weirdlab.cs.washington.edu/)明确表示只与当前 UW 学生开展该学生研究入口的合作；另列 PhD、博后和 lab tour。短暂参观不能当作研究任命，学校一般访客类别也不等于导师接收。未公布外校硕士例外，暂按外部学生入口不相容处理；后续若实验室发布新条件再复查。
+
+## ID 108 · Deepak Pathak · 访客至少六个月
+
+核查：2026-10-01T10:27:38Z。[本人主页](https://www.cs.cmu.edu/~dpathak/)链接的[公开研究兴趣表](https://docs.google.com/forms/d/e/1FAIpQLScqAvv1zxr1oP059gu8cXhF-2nLW1DgjQCVhWWI3fAX2Wgsug/viewform)包含外校及 MS 选项，但明确只考虑可访问六个月或更久的访客。约八周与这个实验室时长要求不符，不能用 CMU 学校层面的制度替代该限制。表中资金问题不是资助承诺，未公布2027或远程例外。表单只读取，未填写或提交；原200位与其日期保持不变。

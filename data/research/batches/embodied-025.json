@@ -1,0 +1,115 @@
+[
+  {
+    "id": "lifeng-zhou",
+    "name": "Lifeng Zhou",
+    "aliases": [],
+    "school": "Drexel University",
+    "homepage": "https://zhourobotics.github.io/",
+    "title": "Assistant Professor",
+    "department": "Electrical and Computer Engineering",
+    "batch": "embodied-025",
+    "discoveredAt": "2026-10-01T00:14:07Z",
+    "verifiedAt": "2026-10-01T00:15:41Z",
+    "researchAreas": [
+      "Vision-language-action manipulation",
+      "Foundation models for robotics",
+      "Robust multi-robot learning",
+      "Soft grasping",
+      "Long-horizon task execution"
+    ],
+    "fitReason": "The current Zhou Lab has a substantial physical foundation-model direction beyond multi-agent control. VILAS directly compares VLA policies on an accessible manipulation platform, while SeqVLA studies completion-aware sequential tasks.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "VILAS, revised May 2026, deploys pi0, pi0.5 and GR00T N1.6 on an actual Fairino FR5 with Jodell gripper, kirigami compliant extension and RealSense D455/D405 cameras. Fifty grape-grasping trials per model test single and repeated picks. Cached robot actions execute at 20 Hz; human teleoperation is used for data collection, not policy evaluation.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "The current Join Us page explicitly invites prospective visiting students and scholars to email with a CV, research-fit description and representative publications/writing if available. It does not specify duration, funding, external-master’s admission or summer 2027 capacity.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 8,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong current VLA deployment and sequential manipulation within a broader multi-robot lab.",
+      "physical": "Detailed current primary hardware study tied to the lab, with explicit autonomous testing and limitations.",
+      "shortVisit": "Live dedicated visiting-student invitation; duration and applicant-specific conditions unconfirmed.",
+      "freshness": "May 2026 physical paper and current September 2026 lab activity."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "drexel.edu / source 1",
+        "url": "https://drexel.edu/engineering/about/faculty-staff/Z/zhou-lifeng/",
+        "summary": "Direct official current assistant professor, ECE, public email and lab link.",
+        "verifiedAt": "2026-10-01T00:15:41Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "zhourobotics.github.io / source 2",
+        "url": "https://zhourobotics.github.io/",
+        "summary": "Current lab explicitly integrates LLMs/VLMs/VLAs/world models; September 2026 news and VILAS/SeqVLA project links.",
+        "verifiedAt": "2026-10-01T00:15:41Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "zhourobotics.github.io / source 3",
+        "url": "https://zhourobotics.github.io/Join/",
+        "summary": "Direct dedicated visiting-student/scholar inquiry instructions, distinct from degree-student recruiting.",
+        "verifiedAt": "2026-10-01T00:15:41Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2605.02037v2",
+        "summary": "May 22, 2026 primary VILAS paper: physical hardware, autonomous evaluation, 50-trial protocol and single/multi success distinction.",
+        "verifiedAt": "2026-10-01T00:15:41Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/abs/2509.14138",
+        "summary": "SeqVLA primary record: completion-aware VLA for sequential manipulation; September 2025 preprint, not redated as a 2026 experiment.",
+        "verifiedAt": "2026-10-01T00:15:41Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "drexel.edu / source 6",
+        "url": "https://drexel.edu/engineering/resources/for-students/vertically-integrated-projects/",
+        "summary": "Current Fall 2026–27 VIP includes Zhou’s AI-driven manipulation; undergraduate enrollment/credit context is not external-master’s eligibility.",
+        "verifiedAt": "2026-10-01T00:15:41Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Single-pick and multi-pick success are different metrics; the strongest reported repeated-pick result is 58 percent, so do not describe reliable generalist manipulation as solved. The compliant extension is passive, without explicit force sensing. Cherry transfer is qualitative rather than a separately reported broad numerical benchmark. The current Drexel VIP program is undergraduate credit-based research with sustained-participation expectations; it is not treated as an external graduate summer-visitor route.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Action execution rate is not policy inference frequency: a 50-action chunk implies about 0.4 Hz inference; GR00T uses a different 16-action chunk."
+    ],
+    "publicEmail": "lz457@drexel.edu"
+  }
+]

@@ -58,6 +58,7 @@
     "batches/embodied-022.json",
     "batches/embodied-023.json",
     "batches/embodied-024.json",
+    "batches/embodied-025.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -4747,6 +4748,33 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-024.json",
       "detailPage": "batches/embodied-024.md#minghui-zheng"
+    },
+    {
+      "id": "lifeng-zhou",
+      "name": "Lifeng Zhou",
+      "aliases": [],
+      "school": "Drexel University",
+      "title": "Assistant Professor",
+      "homepage": "https://zhourobotics.github.io/",
+      "batch": "embodied-025",
+      "discoveredAt": "2026-10-01T00:14:07Z",
+      "verifiedAt": "2026-10-01T00:15:41Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Vision-language-action manipulation",
+        "Foundation models for robotics",
+        "Robust multi-robot learning",
+        "Soft grasping",
+        "Long-horizon task execution"
+      ],
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/embodied-025.json",
+      "detailPage": "batches/embodied-025.md#lifeng-zhou"
     },
     {
       "id": "henny-admoni",

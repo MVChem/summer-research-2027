@@ -66,6 +66,10 @@ Allison Okamura 的 [CHARM 个人页](https://charm.stanford.edu/Main/AllisonOka
 
 [Student Intern Data Form](https://www.cmu.edu/oie/administrators/docs/j-intern-data-form.pdf) 的 2025 年 4 月版索引文本列 Pittsburgh 每月 3,015 美元支持额及个人资金材料；该 PDF 本次完整读取失败，因此金额为有日期的待复核信息，不是 2027 年报价或学校收费。当前类别与流程页已直接读取。
 
+CMU 学术任命补充核查：2026-10-01T00:16:30Z。[Collaborating Visitor](https://www.cmu.edu/collaborating-visitor/) 包括外校学生、无薪 interns 和部分自我支持的学者，是研究访问/筛查分类，不是新签证类别。主办方须事前批准，自 2025-06-30 起使用新的内部在线系统。[FAQ](https://www.cmu.edu/collaborating-visitor/faq.html) 要求提前三十天、需移民文件时六十天；筛查不提供签证支持，OIE 另行办理。FAQ 旧表格描述不能替代更新的线上流程；CMU 补充付款可能改变任命性质。
+
+[HCII Independent Study](https://www.hcii.cmu.edu/academics/independent-study) 是 CMU 在校课程，[HCII 暑研](https://hcii.cmu.edu/summer-research-program) 是十周本科项目，2026 规则排除在美国境外就读的外籍申请者；两者不能证明外校硕士的独立访问可行。此补充不增加任何导师机会分。
+
 <a id="jhu-visiting-graduate-scholar"></a>
 
 ## Johns Hopkins · Whiting / Homewood 研究访问
@@ -619,3 +623,67 @@ Tacoma 补充核查：2026-10-01T01:02:36Z。[SET visiting appointments](https:/
 核查：2026-10-01T01:09:28Z。[VMS](https://oiss.rice.edu/vms) 与 [J-1 request](https://oiss.rice.edu/j1-request) 支持已获学士的 Academic Visitor、每周至少 32 小时；[Scholar 说明](https://oiss.rice.edu/jscholar) 的 Short-Term 为一天至六个月。八周符合时间区间，但外校在读硕士的任命资格仍需 host、Dean 与 OISS 批准，详细 HR 指引需要 Rice Box 登录，本次未读取。
 
 当前支持证明每月 2,300 美元，接受六个月内银行材料，第三方账户需支持信；这不自动确认每种任命均可 100% 自费。大学处理费 300 美元可由部门或访问者承担，院系、保险另计。VMS 要求至少提前九十天，比一般 scholar 的六十天更严格。[本科 research 路径](https://oiss.rice.edu/vsugresearch) 排除已获学士者，其 49% 个人资金限制不自动套给 graduate Academic Visitors；具体资金、学术任命和 2027 费用仍待核实。
+
+<a id="nevada-reno"></a>
+
+## Nevada Reno · 独立硕士 Intern 资格未明确
+
+核查：2026-10-01T00:26:01Z。[项目规则](https://www.unr.edu/oiss/scholars/j-1/program-provisions) 将 Student Intern 描述为尚未完成本科或 dual-degree 的学生，没有明确独立硕士资格。Short-Term Scholar 六个月上限也不足以证明其学历/任命适用性。[主办程序](https://www.unr.edu/oiss/scholars/j-1/departments) 建议至少提前八周，这不是最短访期；处理费可由访问者或部门付，但金额、财力标准未公布。
+
+[Visiting Scholar 行政规则](https://www.unr.edu/administrative-manual/2000-2999-personnel/2565-visiting-scholars) 要求无薪者取得正式 volunteer appointment 和协议后才能开始，并不提供绕过移民批准的办法。[保险页](https://www.unr.edu/oiss/scholars/j-1/health-insurance) 提及 self-funded scholars，但不足以证明全部个人资金比例和外校硕士类别。现行类别、金额、费用及 2027 容量均待 OISS/主办方确认。
+
+<a id="new-hampshire"></a>
+
+## New Hampshire · 外部学生协议存在，类别与资金仍未知
+
+核查：2026-10-01T00:41:40Z。[Visiting Scholar Agreement](https://www.unh.edu/research/research/complianceehs/export-controls/visiting-scholar-agreements) 明确覆盖外部学生/trainees，要求事前邀请、协议及研究合规批准；宽泛的学术访客定义不等于所有学历均满足签证条件。[J-1 页面](https://www.unh.edu/global/international-students-scholars/faculty-scholars/hiring-international-scholars/j-1-exchange-visitor-program) 列 Scholar/Professor/Short-Term，后者最长六个月，通常至少提前两个月由导师发起，未验证 Student Intern 或硕士特定资历规则。
+
+无 UNH 工资者被要求提供本国机构/政府/雇主支持信，页面未明确全个人资金、当前月最低数或处理费；不因未提及而推断全面禁止。[当前入口](https://www.unh.edu/global/international-students-scholars/faculty-scholars/inviting-visiting-scholars) 提示材料更新中、可能过时，须重新确认具体类别及资金。五个工作日 OISS 审阅目标不是完整到访时间。
+
+<a id="george-washington"></a>
+
+## George Washington · 中央 Intern 与工程学院要求不同
+
+核查：2026-10-01T00:51:03Z。[中央 Student Intern](https://internationalservices.gwu.edu/j-1-student-interns) 覆盖国外 postsecondary 学位学生，三周至十二个月、每周至少 32 小时及返校完成学位；明确区别于 Student degree/non-degree 类别，所列银行证明每月 2,000 美元。[SEAS 页面](https://graduate.engineering.gwu.edu/prospective-j-1-interns) 却限 Intern 为本科，并引导学士持有人考虑 Scholar，因此外校硕士不能直接按中央文字认定 SEAS 接收。
+
+[Scholar 页面](https://internationalservices.gwu.edu/incoming-j-1-scholars) 允许最长六个月 Short-Term、要求对应专业资历及正式任命；全个人资金是否适用具体 SEAS 硕士任命尚未确认，不能直接移用 Intern 银行材料条款。[主办流程](https://internationalservices.gwu.edu/gw-j-1-visa-sponsorship) 的一般两个月与就业开始前三个月要求需按实际类别协调。旧 SEAS 的 180 美元 SEVIS 数不当作现行金额；当前大学处理费及 2027 完整预算未知。
+
+<a id="umbc"></a>
+
+## UMBC · Faculty/Fellow 任命与资金文件存在冲突
+
+核查：2026-10-01T00:48:27Z。[类别资格页](https://isss.umbc.edu/j-1-categories-and-eligibility/) 将 Research/Short-Term Scholar 限于 Faculty/Fellow 任命，Research Scholar 要求已获硕士或更高学历；是否同样适用于 Short-Term 未单独说明，不能把六个月上限视为在读硕士许可。Student 则涉及正式录取、交换或机构资金；[概览](https://isss.umbc.edu/j-1-exchange-visitor-program/) 的资金措辞更严格，需 OISS 协调。未找到 Student Intern 路径。
+
+[申请流程](https://isss.umbc.edu/request-process-and-next-steps/) 一般要求提前九十天，对页面指定国家另建议十二个月；这是学校规划说明，不是任何个体国籍或签证结果判断。该页允许个人/家庭银行证明并列每月 2,200 美元，类别页却列 2,300，须确认最新金额与具体类别的资金许可。Scholar 银行材料不覆盖 Student 的机构资助要求；保险、大学费、2027 规则和主办容量另核实。
+
+<a id="binghamton"></a>
+
+## Binghamton · 研究生明确转用 Scholar 流程
+
+核查：2026-10-01T02:22:30Z。[Student Intern 页面](https://www.binghamton.edu/international/student-scholar-services/faculty/j1studentintern.html) 明确把已获学士、正在攻读研究生学位的访客导向 [J-1 Scholar](https://www.binghamton.edu/international/student-scholar-services/faculty/ds.html)，Short-Term 最长六个月，仍需导师、临时任命、英语及 ISSS 批准。[申请表](https://www.binghamton.edu/international/student-scholar-services/faculty/pdf/ds2019requestform.pdf) 明列 Personal Funds 与无薪者，单人支持每月 1,700 美元；每学期（包括暑期）95 美元行政费可由部门或访问者付，另可能有院系 affiliation fee。
+
+[现行保险表](https://www.binghamton.edu/international/student-scholar-services/health-insurance/rates-2018.html) 虽 URL 旧，内容于 2026-09-15 更新，2026-08-15 起 Scholar 每月 197.60 美元。Intern 页旧 180.36 美元保险和 1,400 美元生活数不替代 graduate Scholar 规则。保险周期、2027 后续调价及总额待确认；五个工作日只算完整请求的签证文件处理，并非总提前期。
+
+<a id="drexel"></a>
+
+## Drexel · 外国研究生研究可考虑，具体学术 title 待核定
+
+核查：2026-10-01T00:29:20Z。[ISSS 主办说明](https://drexel.edu/studentlife/student-success/international-student-support/hiring-foreign-nationals) 明确提及外国大学研究生短期研究，但 [Research Visitors 任命表](https://drexel.edu/research/compliance/research-security/research-visitors) 的 Pre-doctoral Fellow 限博士在读，其他 title 常要求终端学位或相应职位；当前硕士的合适任命需要 Engineering/Research/ISSS 协调，不能据此一概批准或禁止。
+
+[专门 J-1 页面](https://drexel.edu/studentlife/student-success/international-student-support/hiring-foreign-nationals/j1-scholars) 要求相关学士及经验、部门邀请/出口审查、至少四个月提前期；Short-Term 最长六个月。新请求费 250 美元，两个月内提交另加 150，付款方未明确。当前资金问卷在权限门户；材料实验室网页和内部 2015 年旧表的每月 2,000 美元及个人补充资金不是已核实的当前全自费/工程学院标准。2027 资金、保险、title 和导师容量仍未知。
+
+<a id="buffalo"></a>
+
+## Buffalo · Student Intern 与 Non-Degree 资金条件分开
+
+核查：2026-10-01T01:50:07Z。[Student Intern 定义](https://www.buffalo.edu/international-student-services/immigration-visa/j-1-student1/j-1-student-intern/student_intern_category_overview.html) 覆盖美国境外在读学位学生，三周至一年、每周至少 32 小时，要求学位目标关联及返校，未限定本科。[邀请流程](https://www.buffalo.edu/international-student-services/immigration-visa/j-1-student1/j-1-student-intern/inviting_a_student_intern.html) 接受自己的银行材料，[当前模板](https://www.buffalo.edu/content/dam/www/international-student-services/J-1/J-1StudentInterns/j-1-intern-new/SampleInvitationLetter-J-1Interns.pdf) 明列自备全部生活资金的无 UB 薪资选项。仍需主办方、学术类别及资金文件批准；月支持最低数未验证。
+
+当前 Intern 服务费 260 美元、不退，部门可付或报销，保险与政府费用另计；[请求表](https://www.buffalo.edu/content/dam/www/international-student-services/J-1/J-1StudentInterns/j-1-intern-new/DS2019%20Intern%20Request%20Form.pdf) 要求至少提前两个月，完整材料后 10–14 工作日只是文件处理。[Non-Degree 的 51% 非个人资金规则](https://www.buffalo.edu/international-student-services/immigration-visa/j-1-student1/J-1NonDegree/NonDegreeCategoryOverview.html) 属于另一类别，不直接套用 Intern。2027 接收、金额和院系要求另确认。
+
+<a id="ohio-university"></a>
+
+## Ohio University · 学位关联 Intern 与 Scholar 自费条款区分
+
+核查：2026-10-01T02:26:10Z。[Student Intern 页面](https://www.ohio.edu/international-student-scholar-services/scholars/student-intern-visa) 覆盖境外 postsecondary 学位学生，三周至一年、DS-7002 与原校教育目标关联，未限本科；具体硕士类别仍需 ISSS 决定。[Scholar 邀请图表](https://www.ohio.edu/international-student-scholar-services/faculty-staff-resources/invite-j1-scholar) 明确有薪或 self-funded，Short-Term 最长六个月，但这不自动确认 Intern 的全个人资金许可。
+
+[申请流程](https://www.ohio.edu/international-student-scholar-services/faculty-staff-resources/invite-j1-scholar/application) 需部门发起、chair/director 审批；[Intern maintenance](https://www.ohio.edu/international-student-scholar-services/scholars/student-intern-visa/maintain) 将具体资金材料指向 iCats，本次未进入门户。当前短访支持最低数、大学/bench fee、完整提前期未核实，不套用学位课程学费预算。五工作日签证文件处理不是总流程；保险、研究范围、导师及 2027 条件仍待确定。

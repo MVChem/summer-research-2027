@@ -39,6 +39,7 @@
     "batches/control-028.json",
     "batches/control-029.json",
     "batches/control-030.json",
+    "batches/control-031.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -2446,6 +2447,62 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-030.json",
       "detailPage": "batches/control-030.md#nikolaus-correll"
+    },
+    {
+      "id": "fei-miao",
+      "name": "Fei Miao",
+      "aliases": [],
+      "school": "University of Connecticut",
+      "title": "Pratt & Whitney Associate Professor",
+      "homepage": "https://engineering.uconn.edu/faculty/cse/fei-miao/",
+      "batch": "control-031",
+      "discoveredAt": "2026-10-01T01:19:06Z",
+      "verifiedAt": "2026-10-01T01:20:49Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Safe and robust reinforcement learning",
+        "Embodied AI",
+        "Vision-language-action models",
+        "Multi-agent systems",
+        "Uncertainty-aware control"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-031.json",
+      "detailPage": "batches/control-031.md#fei-miao"
+    },
+    {
+      "id": "lillian-j-ratliff",
+      "name": "Lillian J. Ratliff",
+      "aliases": [
+        "Lillian Ratliff"
+      ],
+      "school": "University of Washington",
+      "title": "Associate Professor; Afroze and Sherali Dhanani Endowed Faculty Fellow",
+      "homepage": "https://faculty.washington.edu/ratliffl/",
+      "batch": "control-031",
+      "discoveredAt": "2026-10-01T01:19:06Z",
+      "verifiedAt": "2026-10-01T01:20:49Z",
+      "scores": {
+        "fit": 40,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Safe reinforcement learning",
+        "Control barrier functions",
+        "Game theory",
+        "Learning in strategic systems",
+        "Whole-body robot control"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-031.json",
+      "detailPage": "batches/control-031.md#lillian-j-ratliff"
     },
     {
       "id": "tom-silver",

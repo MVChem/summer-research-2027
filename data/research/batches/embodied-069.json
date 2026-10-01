@@ -1,0 +1,160 @@
+[
+  {
+    "id": "ci-jyun-liang",
+    "name": "Ci-Jyun Liang",
+    "aliases": [
+      "Ci-Jyun (Polar) Liang",
+      "Polar Liang"
+    ],
+    "school": "Stony Brook University",
+    "homepage": "https://polarliang.net/",
+    "title": "Assistant Professor",
+    "department": "Civil Engineering; Collaborative Robots for Occupational Safety and Sustainability Laboratory (CROSS)",
+    "batch": "embodied-069",
+    "discoveredAt": "2026-10-01T06:17:30Z",
+    "verifiedAt": "2026-10-01T06:30:08Z",
+    "researchAreas": [
+      "Vision-language-action models",
+      "Hierarchical reinforcement learning",
+      "Imitation learning",
+      "Human-robot collaboration",
+      "Language-guided robot planning"
+    ],
+    "fitReason": "Research-method backup: direct current VLA/HRL and learning-based construction robotics, with unusually concrete external-master’s hosting precedent. Recent learned physical execution remains unverified; rank below established physical robot-learning hosts.",
+    "physicalEvidence": {
+      "status": "AI相关 · 真机待核实",
+      "summary": "Current VLA/HRL benchmark runs in MuJoCo; hand-aware VLA workshop evaluation uses RoboTwin; LLM-PCPP plans on simulated grids even when maps derive from real drone imagery. The 2026 camera-safety prototype tracks people and checks trajectories in Unity, rather than documenting actual emergency-stop robot integration. Actual 2026 JetAuto Pro laboratory point-cloud collection establishes hardware experience, but its reviewed methods are geometric SLAM/calibration rather than neural robot perception/control. No learned physical-execution credit is assigned. Historical Michigan construction robotics is acknowledged without assuming current Stony Brook hardware access.",
+      "sourceIds": [
+        "s7",
+        "s8",
+        "s9",
+        "s10",
+        "s11"
+      ]
+    },
+    "shortVisit": {
+      "status": "precedent-only · historical six-month MS visit",
+      "summary": "The current official lab roster lists Cheng-Yun Tsai as a former visiting MS student from National Taiwan University. His university-published account describes six months of research in CROSS Lab, continuing computer vision/machine learning and participating in an industry project. This proves a relevant external-master’s precedent, but not an eight-week offer. Current homepage recruitment explicitly addresses SBU master’s/undergraduate students and says PhD positions are unavailable; neither statement establishes external visitor intake.",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 0,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct current learning-for-robotics methods; practical external-master’s precedent makes a bounded inquiry worthwhile.",
+      "physical": "Current learned physical execution not established, despite separate real mapping hardware.",
+      "shortVisit": "Relevant external-MS precedent is six months; no current short-visit invitation or eight-week acceptance.",
+      "freshness": "Full current lab pages and 2025–26 primary methods."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.stonybrook.edu / source 1",
+        "url": "https://www.stonybrook.edu/civileng/faculty/core-faculty-profiles/liang.html",
+        "summary": "Official current assistant-professor profile, contact and 2024 start.",
+        "verifiedAt": "2026-10-01T06:30:08Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "polarliang.net / source 2",
+        "url": "https://polarliang.net/",
+        "summary": "Current PI homepage and research scope.",
+        "verifiedAt": "2026-10-01T06:30:08Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "you.stonybrook.edu / source 3",
+        "url": "https://you.stonybrook.edu/crosslab/",
+        "summary": "Full homepage read in cloud browser: current learning-based robotics focus, SBU-only student recruiting and no open PhD positions.",
+        "verifiedAt": "2026-10-01T06:30:08Z",
+        "retrieval": "cloud-browser-full-page"
+      },
+      {
+        "id": "s4",
+        "label": "you.stonybrook.edu / source 4",
+        "url": "https://you.stonybrook.edu/crosslab/team/",
+        "summary": "Full roster explicitly labels an external NTU visiting master’s alumnus.",
+        "verifiedAt": "2026-10-01T06:30:08Z",
+        "retrieval": "cloud-browser-full-page"
+      },
+      {
+        "id": "s5",
+        "label": "www.ntuce-newsletter.tw / source 5",
+        "url": "https://www.ntuce-newsletter.tw/archives/16556",
+        "summary": "Full primary student account in NTU Civil Engineering newsletter describes six-month master’s research exchange in CROSS Lab; no eight-week claim.",
+        "verifiedAt": "2026-10-01T06:30:08Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "you.stonybrook.edu / source 6",
+        "url": "https://you.stonybrook.edu/crosslab/publications/",
+        "summary": "Full current publication list verified in cloud browser, including 2026 RL/VLA publication.",
+        "verifiedAt": "2026-10-01T06:30:08Z",
+        "retrieval": "cloud-browser-full-page"
+      },
+      {
+        "id": "s7",
+        "label": "arxiv.org / source 7",
+        "url": "https://arxiv.org/html/2512.14031v1",
+        "summary": "Full methods place all VLA/HRL evaluation in MuJoCo (§5.1).",
+        "verifiedAt": "2026-10-01T06:30:08Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s8",
+        "label": "construction-robots.github.io / source 8",
+        "url": "https://construction-robots.github.io/papers/iros2026_37.pdf",
+        "summary": "Full one-page hand-aware VLA poster evaluates RoboTwin and leaves real HRC to future.",
+        "verifiedAt": "2026-10-01T06:30:08Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s9",
+        "label": "www.iaarc.org / source 9",
+        "url": "https://www.iaarc.org/publications/fulltext/034_LLM-PCPP__A_novel_robot_prioritized_coverage_path_planning_approach_for_complex_environments.pdf",
+        "summary": "Full 2025 methods explicitly evaluate simulated grids, including two derived from real construction-site imagery.",
+        "verifiedAt": "2026-10-01T06:30:08Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s10",
+        "label": "www.iaarc.org / source 10",
+        "url": "https://www.iaarc.org/publications/fulltext/ISARC2026_1181.pdf",
+        "summary": "Full 2026 safety paper: §4 prototype focuses on video tracking and Unity; robot motion planning integration remains future.",
+        "verifiedAt": "2026-10-01T06:30:08Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s11",
+        "label": "www.iaarc.org / source 11",
+        "url": "https://www.iaarc.org/publications/fulltext/ISARC2026_1370.pdf",
+        "summary": "Full 2026 paper verifies actual JetAuto Pro point-cloud collection and geometric mapping; no learned execution established.",
+        "verifiedAt": "2026-10-01T06:30:08Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Summer2027 acceptance, eight-week fit, project scope, funding, remote participation and current robot access are all unconfirmed. Historical six-month exchange is not evidence of an eight-week visit.",
+      "Keep in AI-related / physical execution unverified category. Do not convert simulated VLA results, drone-derived imagery, human-tracking data or real mapping hardware into learned-policy deployment evidence.",
+      "Reuse Stony Brook’s existing graduate Student Intern feasibility note: continuing foreign enrollment, degree linkage, visiting non-matriculated admission, term-aligned research-credit registration and host/security approval apply. The current invitation template allows personal/external funding; exact 2027 term dates and fees remain unresolved.",
+      "The local-student opening and closed PhD intake do not establish either permission or prohibition for outside master’s research visitors.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: First precisely retained source observation; an earlier name-only lead lacked a timestamp and was not reconstructed.",
+      "[Stony Brook institutional visitor rules](../eligibility_notes.md#stony-brook)"
+    ],
+    "discoveryTimestampNote": "First precisely retained source observation; an earlier name-only lead lacked a timestamp and was not reconstructed.",
+    "publicEmail": "ci-jyun.liang@stonybrook.edu",
+    "candidateTier": "Robotics-AI research backup; current learned physical execution unverified"
+  }
+]

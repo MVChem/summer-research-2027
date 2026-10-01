@@ -150,6 +150,7 @@
     "batches/embodied-066.json",
     "batches/embodied-067.json",
     "batches/embodied-068.json",
+    "batches/embodied-069.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -8176,6 +8177,40 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-068.json",
       "detailPage": "batches/embodied-068.md#hongrui-yu"
+    },
+    {
+      "id": "ci-jyun-liang",
+      "name": "Ci-Jyun Liang",
+      "aliases": [
+        "Ci-Jyun (Polar) Liang",
+        "Polar Liang"
+      ],
+      "school": "Stony Brook University",
+      "title": "Assistant Professor",
+      "homepage": "https://polarliang.net/",
+      "batch": "embodied-069",
+      "discoveredAt": "2026-10-01T06:17:30Z",
+      "verifiedAt": "2026-10-01T06:30:08Z",
+      "scores": {
+        "fit": 37,
+        "physical": 0,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Vision-language-action models",
+        "Hierarchical reinforcement learning",
+        "Imitation learning",
+        "Human-robot collaboration",
+        "Language-guided robot planning"
+      ],
+      "discoveryTimestampNote": "First precisely retained source observation; an earlier name-only lead lacked a timestamp and was not reconstructed.",
+      "candidateTier": "Robotics-AI research backup; current learned physical execution unverified",
+      "physicalEvidenceStatus": "AI相关 · 真机待核实",
+      "physicalEvidenceLabel": "AI相关 · 真机待核实",
+      "shortVisitStatus": "precedent-only · historical six-month MS visit",
+      "recordFile": "batches/embodied-069.json",
+      "detailPage": "batches/embodied-069.md#ci-jyun-liang"
     },
     {
       "id": "henny-admoni",

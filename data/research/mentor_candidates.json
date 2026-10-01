@@ -155,6 +155,7 @@
     "batches/embodied-067.json",
     "batches/embodied-068.json",
     "batches/embodied-069.json",
+    "batches/embodied-070.json",
     "batches/embodied-075.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
@@ -8492,6 +8493,65 @@
       "shortVisitStatus": "precedent-only · historical six-month MS visit",
       "recordFile": "batches/embodied-069.json",
       "detailPage": "batches/embodied-069.md#ci-jyun-liang"
+    },
+    {
+      "id": "houtan-jebelli",
+      "name": "Houtan Jebelli",
+      "aliases": [],
+      "school": "University of Illinois Urbana-Champaign",
+      "title": "Assistant Professor; RAISe Lab Director",
+      "homepage": "https://raiselab.cee.illinois.edu/",
+      "batch": "embodied-070",
+      "discoveredAt": "2026-10-01T06:30:15Z",
+      "verifiedAt": "2026-10-01T06:37:39Z",
+      "scores": {
+        "fit": 36,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Learning-enabled robot motion planning",
+        "Human-intention prediction",
+        "Human-robot collaboration",
+        "Robotic construction",
+        "Residual reinforcement learning"
+      ],
+      "discoveryTimestampNote": "First precisely retained primary-source encounter after an earlier untimed construction-robotics name referral.",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-070.json",
+      "detailPage": "batches/embodied-070.md#houtan-jebelli"
+    },
+    {
+      "id": "eric-jing-du",
+      "name": "Eric Jing Du",
+      "aliases": [
+        "Jing Du",
+        "Eric Du"
+      ],
+      "school": "University of Florida",
+      "title": "Steve and Wendy Blum Professor; UF Research Foundation Professor; ICIC Lab Director",
+      "homepage": "https://faculty.eng.ufl.edu/ericdu/",
+      "batch": "embodied-070",
+      "discoveredAt": "2026-10-01T06:30:15Z",
+      "verifiedAt": "2026-10-01T06:37:52Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Language-guided robot planning",
+        "Tactile foundation models",
+        "Robot imitation learning",
+        "Human-robot collaboration",
+        "Embodied AI for construction"
+      ],
+      "discoveryTimestampNote": "First precisely retained primary-source encounter following an earlier untimed name referral; aliases disambiguated from Northeastern Jing Du.",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-070.json",
+      "detailPage": "batches/embodied-070.md#eric-jing-du"
     },
     {
       "id": "pratyusha-sharma",

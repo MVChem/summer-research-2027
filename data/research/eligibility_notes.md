@@ -221,3 +221,27 @@ Allison Okamura 的 [CHARM 个人页](https://charm.stanford.edu/Main/AllisonOka
 核查：2026-09-30T23:05:49Z。[2026–27 catalog](https://www.catalog.caltech.edu/current/information-for-graduate-students/graduate-policies-and-procedures/visiting-student-appointments/) 于 2026 年 9 月 17 日发布，允许持本科学位且外校研究生在读者由导师 sponsor，VSR 为一个月至一年、不得续期，不获 Caltech 学分或 payroll stipend。[Graduate Office](https://gradoffice.caltech.edu/academics/otherprograms/visiting-student-researcher-vsr) 允许研究费用报销，但排除住宿、餐食等生活费用，并要求保险。Special Student 是另一种注册/学分类别，不能混用规则。
 
 [一般 J-1 scholar 说明](https://international.caltech.edu/maintainstatus/j1h1) 允许个人自费，但本轮未确证每个研究生 VSR 对应的国际身份；不能据此保证全额自费获批。[研究审查](https://researchpolicy.caltech.edu/research-security/international_collaboration) 须在任命前完成，完整申请细则的链接需登录，本轮未读取。学校文件处理阶段不等于总体提前期，具体八周接收、财力最低额、保险和费用待相关办公室确认。
+
+<a id="cornell"></a>
+
+## Cornell · Nondegree / IRIP 与 J-1 类别分开
+
+核查：2026-10-01T00:05:01Z。[Graduate School nondegree admission](https://gradschool.cornell.edu/admissions/application-steps/important-application-policies/non-degree-admissions-2/) 接受原校研究生学习经历或至少本科等同资格，需接收 graduate field 提供申请并批准，最长两学期；暑期不修课程时不收学费，但保险和其他费用仍存在。另一个 [F-1 IRIP](https://international.globallearning.cornell.edu/administrators/short-term-visits/nondegree-students) 明确包括国际本科与研究生研究者，需导师、系主任和学院批准，并由 SCE 注册研究学分及收费；八周暑期注册与具体金额待确认。
+
+[J-1 Student Intern](https://international.globallearning.cornell.edu/administrators/short-term-visits/j-1-student-interns) 限国外本科在读，不能直接作为硕士路径。[J-1 scholar 学历规则](https://international.globallearning.cornell.edu/administrators/j-1-exchange-visa/j-1-basics) 又涉及硕士/博士等 advanced-degree 任命门槛，不能假设未完成硕士已满足。虽然 [J-1 财力页](https://international.globallearning.cornell.edu/administrators/j-1-exchange-visa/j-1-financial-support) 接受个人/直系家庭资金，并列 Ithaca/Geneva 每月 2,700 美元、NYC/DC 3,000 美元且保险另计，这些数不能替代 F-1/nondegree 学生预算。正式身份、2027 金额和导师容量均须确认，不将所有硕士访问概括为禁止或免费。
+
+<a id="texas-am"></a>
+
+## Texas A&M · 明确包含海外硕士的 Student Intern
+
+核查：2026-10-01T00:05:01Z。[当前 ISSS 申请说明](https://global.tamu.edu/isss/scholars-interns/applying-for-status.html) 明确包括海外本科/硕士在读，任期 3 周至十二个月；博士不使用这一 Student Intern 类别。[院系问卷](https://global.tamu.edu/getmedia/1d46d4e5-1f5a-46ee-bd2b-16384981dfdb/Dept-Questionnaire-for-Student-Interns.pdf) 要求原学位目标、至少每周 32 小时、适当资源和指导及结束后返校完成学位。
+
+[当前资金要求](https://global.tamu.edu/isss/student-scholar-resources/costs.html) 列每月 2,000 美元，十二个月内允许个人/家庭资金，另需保险和符合要求的近期流动资金证明。主办部门须提交正式请求、完成 HR/合规审核，并承担 350 美元 operational fee；个人生活费支持不消除这一主办责任。审核阶段不等于全部办理时间。学校规则不覆盖 Zhiwen Fan 页面 research interns 的 US-based 限定；该词含义及对 visiting students 是否适用均需单独确认，不推定国籍条件。
+
+<a id="nc-state"></a>
+
+## NC State · 两个月不能直接按八周处理
+
+核查：2026-09-30T23:04:34Z。[Student Intern 资格](https://internationalservices.ncsu.edu/j-1-student-intern-program/j-1-student-intern-eligibility/) 要求国外在读、原校导师推荐、学位关联、结束后返校、每周至少 32 小时，任期为 2–12 个月。固定八周只有 56 天，不能不经 OIS 确认就称为满足两个月最低要求。[Short-Term Scholar](https://internationalservices.ncsu.edu/faculty-and-staff/hosting-exchange-visitors/j-1-categories/) 可为持相关本科学位者的 1 天至六个月访问，仍须学校根据实际活动批准，不是自动替代。
+
+[财力与资格规则](https://internationalservices.ncsu.edu/faculty-and-staff/hosting-exchange-visitors/eligibility-and-requirements/) 认可个人流动资金，当前单人每月 2,000 美元，bench fee 需额外证明。Student Intern 行政费 400 美元，可由学生或院系支付；金额并非完整旅行预算。[申请流程](https://internationalservices.ncsu.edu/j-1-student-intern-program/j-1-student-intern-application/) 要求至少提前 60 天，建议 90 天，需校内/研究审批和培训计划。无薪 Scholar 则建议提前 3–4 个月。具体日期、学位继续条件、2027 费用与实验室接收均需确认。

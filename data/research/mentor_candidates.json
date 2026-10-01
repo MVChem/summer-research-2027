@@ -28,6 +28,7 @@
     "batches/control-017.json",
     "batches/control-018.json",
     "batches/control-019.json",
+    "batches/control-020.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -2051,6 +2052,35 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-019.json",
       "detailPage": "batches/control-019.md#nader-motee"
+    },
+    {
+      "id": "cristian-ioan-vasile",
+      "name": "Cristian-Ioan Vasile",
+      "aliases": [
+        "Cristian Ioan Vasile"
+      ],
+      "school": "Lehigh University",
+      "title": "Assistant Professor; Explainable Robotics Lab lead",
+      "homepage": "https://cristianvasile.com/",
+      "batch": "control-020",
+      "discoveredAt": "2026-09-30T23:49:33Z",
+      "verifiedAt": "2026-09-30T23:54:08Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "formal methods for robot learning",
+        "temporal logic policy optimization",
+        "sim-to-real aerial control",
+        "multi-robot planning",
+        "explainable autonomy"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-020.json",
+      "detailPage": "batches/control-020.md#cristian-ioan-vasile"
     },
     {
       "id": "tom-silver",

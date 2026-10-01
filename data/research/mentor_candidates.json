@@ -187,6 +187,7 @@
     "batches/embodied-082.json",
     "batches/embodied-083.json",
     "batches/embodied-084.json",
+    "batches/embodied-085.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -9921,6 +9922,36 @@
       "shortVisitStatus": "inquiry-only · case-by-case；MIT访学生资金需至少51%非个人",
       "recordFile": "batches/embodied-084.json",
       "detailPage": "batches/embodied-084.md#wojciech-matusik"
+    },
+    {
+      "id": "james-alan-preiss",
+      "name": "James Alan Preiss",
+      "aliases": [
+        "James A. Preiss",
+        "James Preiss"
+      ],
+      "school": "University of California, Santa Barbara",
+      "title": "Assistant Professor",
+      "homepage": "https://www.jamespreiss.com/",
+      "batch": "embodied-085",
+      "discoveredAt": "2026-10-01T10:55:49Z",
+      "verifiedAt": "2026-10-01T11:00:04Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 13
+      },
+      "researchAreas": [
+        "Robot learning and online policy optimization",
+        "Visual foundation models for adaptive control",
+        "Sim-to-real reinforcement learning",
+        "Learning-based planning and dynamics"
+      ],
+      "discoveryTimestampNote": "First retained primary-name encounter in Caltech official lab alumni listing; dedicated UCSB faculty results at 10:56:11Z.",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-085.json",
+      "detailPage": "batches/embodied-085.md#james-alan-preiss"
     },
     {
       "id": "henny-admoni",

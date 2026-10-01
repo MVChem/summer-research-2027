@@ -1111,3 +1111,10 @@ Part II第5页允许全额个人资金，但要求境外大学/研究机构关�
 核查：2026-10-01T10:42:30Z。[现行研究访问入口](https://erau.edu/student-experience/international-programs/international-education/incoming-exchange-and-visiting-scholars)明确区分学期交换与研究实习：先取得项目导师同意，再联系 Daytona ISSS（dbiss@erau.edu）并抄送导师，获取 DS-2019 申请入口；多数实习无薪。它是办理路径，并非某位导师的名额或资助承诺。
 
 旧 J-Scholar 网页目前跳转到总览页，搜索缓存中的详细类别条件未作为现行规则采用。[当前 ISSS 页面](https://erau.edu/student-experience/international-programs/international-education/international-student-and-scholar-services)也未解决外校硕士八周访问的具体类别、个人资金能否使用、最低财力、费用和办理时长。须导师与 ISSS 个案确认；不得套用 F-1 学位生金额/时间，也不得跨用 Prescott、Worldwide 或 Asia 校区规则。2027 接收、保险和项目权限仍未知。
+
+<a id="uc-santa-barbara"></a>
+## UC Santa Barbara · 外校研究生有无薪访问身份，签证类别须另核定
+
+核查：2026-10-01T10:58:59Z。[Red Binder III-25（第170页，2025年8月修订）](https://ap.ucsb.edu/policies.and.procedures/red.binder/complete.red.binder.pdf) 明确包含非UC院校在读研究生的 Visitor (Graduate Student)，通常不超过6个月、上限12个月，未列最低期限；须导师监督及院系正式审批，不等于UCSB学籍或雇佣，不能发工资，部分报销/生活补助可另审。
+
+[OISS现行流程](https://oiss.ucsb.edu/scholars/prospective-j-1-scholars/apply-for-ds-2019)要求先获学术单位邀请，建议提前3–6个月。[财力页](https://oiss.ucsb.edu/scholars/prospective-j-1-scholars/financial-requirements)列 Scholar 每月3000美元／每日100美元并接受个人资金证明；但 J-1 non-degree student 另需至少51%非个人资金。**外校硕士应先确认具体类别，不能一概认定可纯自费或一概套用51%规则。** [类别页](https://oiss.ucsb.edu/scholars/prospective-j-1-scholars/j-1-overview)的 Short-Term Scholar 为1天至6个月，资格须OISS认可。旧PDF的 Student Intern 和2400美元金额未作现行依据。八周项目、保险、费用、2027金额与导师接收仍需个案确认。

@@ -1,0 +1,124 @@
+[
+  {
+    "id": "james-alan-preiss",
+    "name": "James Alan Preiss",
+    "aliases": [
+      "James A. Preiss",
+      "James Preiss"
+    ],
+    "school": "University of California, Santa Barbara",
+    "homepage": "https://www.jamespreiss.com/",
+    "title": "Assistant Professor",
+    "department": "Computer Science; listed in Mechanical Engineering faculty directory",
+    "batch": "embodied-085",
+    "discoveredAt": "2026-10-01T10:55:49Z",
+    "verifiedAt": "2026-10-01T11:00:04Z",
+    "researchAreas": [
+      "Robot learning and online policy optimization",
+      "Visual foundation models for adaptive control",
+      "Sim-to-real reinforcement learning",
+      "Learning-based planning and dynamics"
+    ],
+    "fitReason": "Strong method match for a CS student interested in learning-based control with real hardware and mathematical foundations. Projects could address fast online adaptation, visual terrain features or model robustness. Practical external-master summer intake remains unknown; current PhD recruitment is not an invitation for a short visit.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Full 2024 MAGIC-VFM §VII verifies DINOv1 terrain features feeding a neural dynamics/control basis with real-time adaptation on GVR-Bot and Traxxas X-Maxx,20Hz on Jetson Orin; tests include JPL Mars Yard and Caltech CAST. FullJuly 2025 M-GAPS §§V–VI verifies online controller-parameter learning on a Crazyflie2.0 at 500Hz onboard and an actual1:6-scale Traxxas vehicle. That later method is differentiable model-based policy optimization, not a neural VLA. Preiss is UCSB corresponding author in 2025; local UCSB ownership/location of the experimental platforms is not established, so physical20.",
+      "sourceIds": [
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Full prospective-student page only addresses PhD recruitment/admission and theory/hardware preparation. No explicit external-master visiting, summer intern or remote research offer verified. Visitor0. The 2026 COAST cloud-lab project and national user access are not student mentoring offers.",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 13
+    },
+    "scoreReasons": {
+      "fit": "Direct learning/control and VFM-based adaptation with hardware.",
+      "physical": "Full 2024–25 actual experiments, but current UCSB local apparatus not established.",
+      "shortVisit": "No outside-master short-visit offer; PhD route distinct.",
+      "freshness": "2025 full methods and datedJuly 2026 research expansion; no newly verified 2026 execution."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.cs.ucsb.edu / source 1",
+        "url": "https://www.cs.ucsb.edu/people/faculty",
+        "summary": "Official current CS appointment, name with middle initial and professional email.",
+        "verifiedAt": "2026-10-01T11:00:04Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "me.ucsb.edu / source 2",
+        "url": "https://me.ucsb.edu/people/james-preiss",
+        "summary": "Full official research agenda, current title, contact and homepage.",
+        "verifiedAt": "2026-10-01T11:00:04Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "www.jamespreiss.com / source 3",
+        "url": "https://www.jamespreiss.com/",
+        "summary": "Full research agenda, prior Caltech/USC history and explicitApril 2025 page date.",
+        "verifiedAt": "2026-10-01T11:00:04Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "www.jamespreiss.com / source 4",
+        "url": "https://www.jamespreiss.com/students.html",
+        "summary": "Full PhD-only recruiting instructions; no external-master visitor route.",
+        "verifiedAt": "2026-10-01T11:00:04Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2507.10914v1",
+        "summary": "FullJuly 2025 paper, §§V–VI/AppendixA actual online controller learning and UCSB corresponding affiliation.",
+        "verifiedAt": "2026-10-01T11:00:04Z",
+        "retrieval": "direct-primary-full-paper"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2407.12304v2",
+        "summary": "Full 2024 MAGIC-VFM §VII actual DINO/neural adaptive control and Caltech/JPL equipment provenance.",
+        "verifiedAt": "2026-10-01T11:00:04Z",
+        "retrieval": "direct-primary-full-paper"
+      },
+      {
+        "id": "s7",
+        "label": "news.ucsb.edu / source 7",
+        "url": "https://news.ucsb.edu/2026/022721/ucsb-lead-national-cloud-laboratory-advanced-materials",
+        "summary": "FullJuly29, 2026 current robotics/learning role in planned COAST cloud lab; not completed new hardware or an internship.",
+        "verifiedAt": "2026-10-01T11:00:04Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Current official UCSB faculty directory and ME profile confirm Assistant Professor and preiss@ucsb.edu. Personal homepage is explicitly last updatedApril 2025; it is not fresh 2026 hiring evidence.",
+      "MAGIC-VFM’s hardware is a 2024 contribution with prior Caltech/JPL attribution. Its appearance as a 2026 abstract reprint is not a new 2026 experiment. Do not claim a current UCSB Mars Yard or local fleet.",
+      "The 2025 experiments adapt parameters of nonlinear controllers, using an approximate differentiable dynamics model. They do not establish foundation-model end-to-end control; the separate 2024 VFM contribution supplies the visual-learning anchor.",
+      "July 2026 official COAST PCL news names Preiss in learning-based robotics for a new four-year cloud-lab effort. Existing materials infrastructure and plans to automate samples do not prove completed new Preiss-specific learned robot execution or current visitor access.",
+      "Reuse uc-santa-barbara: current Red Binder explicitly permits a non-UC enrolled graduate Visitor appointment, generally≤6months and at most12months. It is formal and without salary; it does not determine immigration category by itself.",
+      "OISS requires host invitation and recommends3–6months lead. Current scholar support is$3000/month or$100/day and may include documented personal funds; non-degree student J-1 instead requires51% non-personal support. Exact category for this master’s profile must be confirmed, with insurance, fees and 2027 terms. Do not use legacy Student Intern PDFs or old$2400 amounts as current policy.",
+      "Eight-week project scope, department approval, hands-on safety training, mentor capacity, funding, onsite/remote supervision and access to collaborators’ hardware remain unresolved.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: First retained primary-name encounter in Caltech official lab alumni listing; dedicated UCSB faculty results at 10:56:11Z.",
+      "[Institutional visitor rules](../eligibility_notes.md#uc-santa-barbara)"
+    ],
+    "discoveryTimestampNote": "First retained primary-name encounter in Caltech official lab alumni listing; dedicated UCSB faculty results at 10:56:11Z.",
+    "publicEmail": "preiss@ucsb.edu"
+  }
+]

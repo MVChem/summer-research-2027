@@ -1,0 +1,104 @@
+[
+  {
+    "id": "mike-hagenow",
+    "name": "Mike Hagenow",
+    "aliases": [
+      "Michael Hagenow"
+    ],
+    "school": "University of Wisconsin–Madison",
+    "homepage": "https://wisc-rt2.github.io/",
+    "title": "Assistant Professor",
+    "department": "Computer Sciences",
+    "batch": "hri-028",
+    "discoveredAt": "2026-10-01T01:16:53Z",
+    "verifiedAt": "2026-10-01T01:18:40Z",
+    "researchAreas": [
+      "Human-robot teaching and teaming",
+      "Learning from demonstration",
+      "Shared autonomy",
+      "VLA uncertainty and failure detection",
+      "Contact-rich manipulation"
+    ],
+    "fitReason": "Very close fit to physical human–AI collaboration: combines full-stack robot systems, demonstration interfaces, uncertainty-aware assistance and modern generative/vision-language-action policies. A bounded failure-monitoring or corrective-interface study could support this methods-focused research direction if hosting capacity exists.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "May 2026 Hide-and-Seek paper evaluates learned failure detection on real xArm 6 rollouts from a LoRA-fine-tuned pi0.5 policy, across eight cube/kitchen manipulation tasks with 25 demonstrations per task. The real-world policy is pi0.5; OpenVLA/pi0 are simulation evaluations. April 2026 RAPIDDS combines individual human-motion/timing models with diffusion-guided robot motions and a physical seven-DOF arm/user study. Current RT² people page separately lists four xArm 6 robots and a UR7e, establishing present lab hardware.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "restricted-inquiry · 不主动招访客，仅特殊匹配询问",
+      "summary": "Current join page expressly says the lab is not actively seeking postdocs or visiting scholars, while permitting strong-fit inquiries with CV, research history, visit goals and funding situation. Its 2026–2027 update limits PhD recruitment to at most one student; regular MS/PhD recruitment is not an external visit offer.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 5,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "39/40: direct learned physical HRI, generative policies and human-intervention/uncertainty match.",
+      "physical": "25/25: concrete 2026 physical-policy evaluation plus current host lab inventory.",
+      "shortVisit": "5/20: only an expressly restricted strong-fit visitor inquiry; no active recruitment, confirmed external-master’s eligibility or compatible duration.",
+      "freshness": "15/15: two substantive 2026 primary papers, not merely dated recruitment or a site footer."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.cs.wisc.edu / source 1",
+        "url": "https://www.cs.wisc.edu/2025/09/17/welcome-new-faculty-member-mike-hagenow/",
+        "summary": "Official Computer Sciences appointment and research interview confirms Assistant Professor, 2025 arrival from MIT and physically grounded teaching/teaming focus.",
+        "verifiedAt": "2026-10-01T01:18:40Z"
+      },
+      {
+        "id": "s2",
+        "label": "wisc-rt2.github.io / source 2",
+        "url": "https://wisc-rt2.github.io/people/",
+        "summary": "Current faculty role, public email and explicit inventory of four UFactory xArm 6 arms and one UR7e.",
+        "verifiedAt": "2026-10-01T01:18:40Z"
+      },
+      {
+        "id": "s3",
+        "label": "wisc-rt2.github.io / source 3",
+        "url": "https://wisc-rt2.github.io/joinus/",
+        "summary": "Full-page restriction: not actively recruiting visiting scholars; exceptional-fit inquiries invited. No external-master’s duration or funding promise. One-year requirement is in undergraduate section only.",
+        "verifiedAt": "2026-10-01T01:18:40Z"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2605.30834v1",
+        "summary": "May 29, 2026 coauthored primary preprint; §5.2 and Appendix E.2 specify real xArm 6/pi0.5 experiments, eight tasks and 25 demonstrations/task; contrastive failure monitoring with conformal prediction.",
+        "verifiedAt": "2026-10-01T01:18:40Z"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2604.19670v1",
+        "summary": "April 21, 2026 coauthored primary preprint verifies RAPIDDS spatiotemporal adaptation, diffusion-guided motions, seven-DOF physical robot and 32-person study.",
+        "verifiedAt": "2026-10-01T01:18:40Z"
+      }
+    ],
+    "unknowns": [
+      "External master’s eligibility, eight-week duration, compensation and 2027 capacity are not stated in the visitor paragraph.",
+      "The one-year commitment on the page is expressly for undergraduates; it should not be imposed as a published minimum for every visitor.",
+      "UW–Madison central scholar funding guidance allows personal-funding evidence, but CS academic title, approved visa category, host summer presence and insurance billing still require confirmation.",
+      "No stipend or acceptance is inferred from degree recruitment or past visitors.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "hagenow@cs.wisc.edu",
+    "additionalPublicEmail": "mhagenow@wisc.edu"
+  }
+]

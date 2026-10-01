@@ -97,7 +97,8 @@
     "batches/hri-024.json",
     "batches/hri-025.json",
     "batches/hri-026.json",
-    "batches/hri-027.json"
+    "batches/hri-027.json",
+    "batches/hri-028.json"
   ],
   "candidates": [
     {
@@ -7647,6 +7648,35 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-027.json",
       "detailPage": "batches/hri-027.md#yaxin-hu"
+    },
+    {
+      "id": "mike-hagenow",
+      "name": "Mike Hagenow",
+      "aliases": [
+        "Michael Hagenow"
+      ],
+      "school": "University of Wisconsin–Madison",
+      "title": "Assistant Professor",
+      "homepage": "https://wisc-rt2.github.io/",
+      "batch": "hri-028",
+      "discoveredAt": "2026-10-01T01:16:53Z",
+      "verifiedAt": "2026-10-01T01:18:40Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 5,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-robot teaching and teaming",
+        "Learning from demonstration",
+        "Shared autonomy",
+        "VLA uncertainty and failure detection",
+        "Contact-rich manipulation"
+      ],
+      "shortVisitStatus": "restricted-inquiry · 不主动招访客，仅特殊匹配询问",
+      "recordFile": "batches/hri-028.json",
+      "detailPage": "batches/hri-028.md#mike-hagenow"
     }
   ]
 }

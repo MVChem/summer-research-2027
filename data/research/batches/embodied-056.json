@@ -1,0 +1,92 @@
+[
+  {
+    "id": "chengzhi-mao",
+    "name": "Chengzhi Mao",
+    "aliases": [],
+    "school": "Rutgers University–New Brunswick",
+    "homepage": "https://chengzhi-mao.github.io/",
+    "title": "Assistant Professor",
+    "department": "Computer Science",
+    "batch": "embodied-056",
+    "discoveredAt": "2026-10-01T03:37:45Z",
+    "verifiedAt": "2026-10-01T03:39:04Z",
+    "researchAreas": [
+      "Multimodal reasoning for physical agents",
+      "Vision-language navigation adaptation",
+      "Trustworthy foundation models",
+      "Learning-based planner tuning"
+    ],
+    "fitReason": "A strong CS-oriented option for adapting multimodal models to physical decision making. APPLV connects the lab’s foundation-model expertise to real navigation, while the broader programme emphasizes reliable reasoning and perception rather than solely robot mechanics.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "APPLV, revised July 14, 2026, deploys a Qwen2.5-VL-3B-based parameter predictor on a Clearpath Jackal/Hokuyo-LiDAR navigation system. An external RTX5070Ti server updates classical planner settings; this is learned parameter adaptation, not direct motor-command generation. Physical tests use two courses with three runs per configuration. The paper explicitly locates this work at George Mason’s RobotiXX, so Rutgers visitor access is unverified despite Mao/current advisee Yang Li coauthorship.",
+      "sourceIds": [
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "The complete live faculty homepage explicitly recruits research interns and asks interested candidates to email a CV. Current advisee Yang Li independently says the lab recruits interns. Duration, summer 2027 timing, external-master’s conditions and funding are not specified, so this is a generic inquiry route only.",
+      "sourceIds": [
+        "s2",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 7,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong current multimodal foundation-model and physical navigation connection; manipulation is not the main verified direction.",
+      "physical": "Explicit learned deployment but at collaborator GMU, without independent Rutgers visitor hardware access.",
+      "shortVisit": "Live faculty research-intern invitation, no duration or applicant-specific approval.",
+      "freshness": "Dated July 2026 primary revision and current 2026 group activity."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.cs.rutgers.edu / source 1",
+        "url": "https://www.cs.rutgers.edu/people/professors/details/chengzhi-mao",
+        "summary": "Full current official Assistant Professor appointment.",
+        "verifiedAt": "2026-10-01T03:39:04Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "chengzhi-mao.github.io / source 2",
+        "url": "https://chengzhi-mao.github.io/",
+        "summary": "Full current faculty page: explicit research-intern invitation/CV email, current advisees,2026 research, former Google and parallel part-time Meta role.",
+        "verifiedAt": "2026-10-01T03:39:04Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2603.08862v2",
+        "summary": "Full July 14, 2026 primary APPLV: actual Jackal setup, planner-dependent physical results, simulator separation and GMU research location.",
+        "verifiedAt": "2026-10-01T03:39:04Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "yangmarino.li / source 4",
+        "url": "https://yangmarino.li/",
+        "summary": "Full current Rutgers PhD page confirms Mao advising, APPLV coauthorship and separate general lab-intern invitation.",
+        "verifiedAt": "2026-10-01T03:39:04Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Current Rutgers faculty appointment is independently verified. The older Columbia-hosted page still foregrounds Google and former McGill roles; it should not override current Rutgers sources. Current part-time Meta faculty research is disclosed without inferring leave.",
+      "Hardware evidence is collaborative and capped at 20. APPLV is primarily vision-language-assisted navigation, not dexterous manipulation. The300-scene BARN evaluation is simulation; physical success depends strongly on the underlying planner, so perfect results for some configurations are not universal reliability.",
+      "Reuse Rutgers institutional audit: overseas graduate Student Intern visits can span 3 weeks–12months, but current visa guidance caps personal funds at 25% while the intern page lists personal/family funds without an explicit exemption. Fully personal funding is therefore unconfirmed. Host approval, degree-related training plan, schedule/remote-work limits and current fees need confirmation.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Rutgers institutional visitor rules](../eligibility_notes.md#rutgers)"
+    ],
+    "publicEmail": "chengzhi.mao@rutgers.edu"
+  }
+]

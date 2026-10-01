@@ -102,7 +102,8 @@
     "batches/hri-026.json",
     "batches/hri-027.json",
     "batches/hri-028.json",
-    "batches/hri-029.json"
+    "batches/hri-029.json",
+    "batches/hri-030.json"
   ],
   "candidates": [
     {
@@ -7817,6 +7818,35 @@
       "shortVisitStatus": "inquiry-only · 自费资格需Rutgers确认",
       "recordFile": "batches/hri-029.json",
       "detailPage": "batches/hri-029.md#jingjin-yu"
+    },
+    {
+      "id": "casey-kennington",
+      "name": "Casey Kennington",
+      "aliases": [
+        "Casey Redd Kennington"
+      ],
+      "school": "Boise State University",
+      "title": "Associate Professor; Boise State Foundation Board Endowed Professor of Computer Science",
+      "homepage": "https://www.caseyreddkennington.com/",
+      "batch": "hri-030",
+      "discoveredAt": "2026-10-01T01:23:03Z",
+      "verifiedAt": "2026-10-01T01:24:47Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Spoken dialogue for robots",
+        "Human-robot interaction",
+        "Interactive language learning",
+        "Reinforcement learning from human feedback",
+        "Generative expressive robot behavior"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-030.json",
+      "detailPage": "batches/hri-030.md#casey-kennington"
     }
   ]
 }

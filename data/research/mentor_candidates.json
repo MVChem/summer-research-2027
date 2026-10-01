@@ -35,6 +35,7 @@
     "batches/control-024.json",
     "batches/control-025.json",
     "batches/control-026.json",
+    "batches/control-027.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -2292,6 +2293,33 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-026.json",
       "detailPage": "batches/control-026.md#brendan-englot"
+    },
+    {
+      "id": "nikhil-chopra",
+      "name": "Nikhil Chopra",
+      "aliases": [],
+      "school": "University of Maryland, College Park",
+      "title": "Professor; Director of Undergraduate Studies",
+      "homepage": "https://me.umd.edu/clark/faculty/520",
+      "batch": "control-027",
+      "discoveredAt": "2026-10-01T00:41:31Z",
+      "verifiedAt": "2026-10-01T00:42:44Z",
+      "scores": {
+        "fit": 37,
+        "physical": 23,
+        "shortVisit": 0,
+        "freshness": 14
+      },
+      "researchAreas": [
+        "Learning-enabled contact-rich manipulation",
+        "Robot estimation and control",
+        "Soft robotics",
+        "Bilateral teleoperation",
+        "Networked autonomous systems"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-027.json",
+      "detailPage": "batches/control-027.md#nikhil-chopra"
     },
     {
       "id": "tom-silver",

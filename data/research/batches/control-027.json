@@ -1,0 +1,103 @@
+[
+  {
+    "id": "nikhil-chopra",
+    "name": "Nikhil Chopra",
+    "aliases": [],
+    "school": "University of Maryland, College Park",
+    "homepage": "https://me.umd.edu/clark/faculty/520",
+    "title": "Professor; Director of Undergraduate Studies",
+    "department": "Mechanical Engineering; affiliate Electrical and Computer Engineering",
+    "batch": "control-027",
+    "discoveredAt": "2026-10-01T00:41:31Z",
+    "verifiedAt": "2026-10-01T00:42:44Z",
+    "researchAreas": [
+      "Learning-enabled contact-rich manipulation",
+      "Robot estimation and control",
+      "Soft robotics",
+      "Bilateral teleoperation",
+      "Networked autonomous systems"
+    ],
+    "fitReason": "Combines control theory with machine learning and real manipulation. A newly published perception-and-force-controlled disassembly study offers a concrete physical-AI project direction; broad nonlinear/robot control expertise complements the learning component.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "September 14, 2026 Robotics and Autonomous Systems pre-proof integrates fine-tuned YOLOv8 detection, RGB-D localization, local alignment recovery and force-guided screw engagement. Publisher abstract/snippets report a 7-DOF Franka Emika arm with custom electric screwdriver, eight fastener types, three lighting conditions and 80 physical trials; aggregate end-to-end success is 82.5%. Bits were manually changed between trials. This is an integrated learned-perception/control system, not a reinforcement-learned manipulation policy. Co-first author Hemant Kumar is identified as Chopra's ME advisee in UMD's 2025 Future Faculty cohort; his public current page identifies him as a fourth-year PhD student. Current official SAS lab page describes actual underwater, ground, manipulator, aerial and soft-robot work.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current public external-master's short-visit invitation was found on the official faculty or linked SAS lab pages. General UMD institutional eligibility is documented separately and does not establish individual acceptance.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 23,
+      "shortVisit": 0,
+      "freshness": 14
+    },
+    "scoreReasons": {
+      "fit": "Strong physical ML/control integration; current verified learning is perception rather than end-to-end learned control.",
+      "physical": "Named real Franka protocol and current advisee link are documented, but technical evidence is limited to indexed publisher excerpts rather than a fully inspected manuscript.",
+      "shortVisit": "No current explicit external short-visit invitation; institutional route alone earns no points.",
+      "freshness": "Explicit September 2026 publisher date plus current institutional profile; one point withheld for indexed-only technical source and inconsistent author bibliography labels."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "me.umd.edu / source 1",
+        "url": "https://me.umd.edu/clark/faculty/520",
+        "summary": "Current title, UMD affiliation, public email, robot control and machine-learning interests; official link to SAS lab.",
+        "verifiedAt": "2026-10-01T00:42:44Z",
+        "retrieval": "Direct official HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "sites.google.com / source 2",
+        "url": "https://sites.google.com/umd.edu/saslab/home?authuser=1",
+        "summary": "Official faculty-linked lab states control plus ML research and physical robot families; 2025 research activity.",
+        "verifiedAt": "2026-10-01T00:42:44Z",
+        "retrieval": "Direct faculty-linked lab HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "www.sciencedirect.com / source 3",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0921889026004148",
+        "summary": "September 14, 2026 pre-proof: learned-perception visuo-tactile physical screw-unfastening experiments and manual bit changes.",
+        "verifiedAt": "2026-10-01T00:42:44Z",
+        "retrieval": "Official publisher indexed abstract, introduction and section snippets via web search; direct web open failed. Full manuscript not read."
+      },
+      {
+        "id": "s4",
+        "label": "eng.umd.edu / source 4",
+        "url": "https://eng.umd.edu/academics-students/current-students/future-faculty-program",
+        "summary": "2025 Fellows table lists Hemant Kumar, ME, advisor Nikhil Chopra.",
+        "verifiedAt": "2026-10-01T00:42:44Z",
+        "retrieval": "Direct official HTML via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "sites.google.com / source 5",
+        "url": "https://sites.google.com/umd.edu/hemantkumar/home",
+        "summary": "Author's current page identifies fourth-year UMD PhD supervision by Chopra and contact-rich learning research; publication status labels are inconsistent with current publisher record.",
+        "verifiedAt": "2026-10-01T00:42:44Z",
+        "retrieval": "University-domain author page indexed full text via web search; direct web open failed"
+      }
+    ],
+    "unknowns": [
+      "An eight-week project, supervision, funding and department/ISSS approval remain unconfirmed. Official departmental directory supports Professor; an older Maryland Transportation Institute profile still says Associate Professor. Student page has inconsistent under-review venue/year labels, so the publisher's September 2026 record controls the disassembly citation. Full paywalled manuscript was not accessed; physical details come from the publisher's indexed abstract and section snippets.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "nchopra@umd.edu"
+  }
+]

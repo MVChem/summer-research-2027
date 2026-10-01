@@ -1,0 +1,113 @@
+[
+  {
+    "id": "anqi-liu",
+    "name": "Anqi Liu",
+    "aliases": [
+      "Anqi (Angie) Liu",
+      "Angie Liu"
+    ],
+    "school": "Johns Hopkins University",
+    "homepage": "https://anqiliu-ai.github.io/",
+    "title": "Assistant Professor",
+    "department": "Computer Science; Whiting School of Engineering",
+    "batch": "hri-017",
+    "discoveredAt": "2026-09-30T23:30:26Z",
+    "verifiedAt": "2026-09-30T23:33:01Z",
+    "researchAreas": [
+      "Trustworthy and human-compatible machine learning",
+      "Uncertainty and distribution shift",
+      "Interactive learning and human preferences",
+      "Conversational human-robot interaction"
+    ],
+    "fitReason": "A methods-oriented HRI option combining trustworthy ML, human-compatible interaction and collaboration with Chien-Ming Huang's physical social-robot group. Best approached with a focused uncertainty, intent-recognition or conversational-evaluation proposal; a dedicated manipulation/locomotion project is not established by the reviewed evidence.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Coauthor of the 2025 Interruption Handling for Conversational Robots study: 21 people interacted with an LLM-powered tabletop social robot that selects speech, facial expressions and head movements. The primary implementation repository explicitly controls three physical head servos through Arduino. Liu's credited contribution is conceptualization, methodology and review, while Huang supervises the project. The January 2026 ACE paper again evaluates real tabletop robot conversations but credits Liu with writing/review rather than hardware supervision.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The current students page invites PhD, master's and undergraduate research interest through a linked form. It lists visiting PhD students in summers 2023 and 2025, but does not explicitly open an external master's short-visit pathway or give duration/funding. The group's current co-advised students establish ongoing HRI collaboration, not visitor capacity.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "strong trustworthy/interactive ML and active HRI collaboration.",
+      "physical": "attributable real-robot studies but collaborator-level hardware evidence, not independent lab access.",
+      "shortVisit": "general recruitment and historical PhD visitors only.",
+      "freshness": "January 2026 HRI paper and current 2026 group activity. Provisional fit/evidence score, not acceptance probability or prestige."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.cs.jhu.edu / source 1",
+        "url": "https://www.cs.jhu.edu/faculty/anqi-angie-liu/",
+        "summary": "Full official profile confirms CS Assistant Professor, WSE affiliation, methods interests and department email variant.",
+        "verifiedAt": "2026-09-30T23:33:01Z"
+      },
+      {
+        "id": "s2",
+        "label": "anqiliu-ai.github.io / source 2",
+        "url": "https://anqiliu-ai.github.io/",
+        "summary": "Full current homepage confirms public preferred email, trustworthy AI focus, LCSR collaboration and 2026 research news.",
+        "verifiedAt": "2026-09-30T23:33:01Z"
+      },
+      {
+        "id": "s3",
+        "label": "anqiliu-ai.github.io / source 3",
+        "url": "https://anqiliu-ai.github.io/students/",
+        "summary": "Full page confirms current HRI co-advising, general PhD/master/undergraduate inquiry, and historical summer 2023/2025 visiting PhD students. No form was submitted.",
+        "verifiedAt": "2026-09-30T23:33:01Z"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2501.01568v1",
+        "summary": "Primary 2025 paper specifies 21-person real social-robot study, GPT-4o-driven behavior and separate authorship roles; Liu is a methods collaborator, Huang the supervisor.",
+        "verifiedAt": "2026-09-30T23:33:01Z"
+      },
+      {
+        "id": "s5",
+        "label": "github.com / source 5",
+        "url": "https://github.com/intuitivecomputing/interruption-handling-system/",
+        "summary": "Full primary implementation README confirms Arduino control of three robot head servos and LLM speech/head-expression integration, establishing embodied hardware rather than a screen-only chatbot.",
+        "verifiedAt": "2026-09-30T23:33:01Z"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2601.12084v1",
+        "summary": "Primary January 2026 ACE paper, authorship note and Sections 4-5, confirms physical tabletop robot interaction with adult participants; Liu's role is writing/review, and Huang handles supervision/funding.",
+        "verifiedAt": "2026-09-30T23:33:01Z"
+      }
+    ],
+    "unknowns": [
+      "Physical robotics evidence is collaborative with Huang's group, not verified ownership of an independent robot facility by Liu. Access and co-supervision would need confirmation.",
+      "Historical summer visitors were PhD students. They do not establish master's eligibility or an available 2027 slot; shortVisitEvidence remains zero.",
+      "The existing WSE institutional supplement describes a conditional Visiting Graduate Scholar route for externally enrolled graduate students, with formal academic registration rather than informal unpaid work. Duration, immigration classification, costs, self-funding and host willingness remain unresolved.",
+      "The 2026 study's child-oriented museum scenario was evaluated by adults; do not describe it as a child deployment. These studies concern conversation and head behavior, not autonomous object manipulation.",
+      "The homepage lists aliu.cs@jhu.edu and the official department lists aliu@cs.jhu.edu. Both are public source variants; delivery equivalence was not tested.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "aliu.cs@jhu.edu"
+  }
+]

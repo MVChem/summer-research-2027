@@ -41,7 +41,7 @@
 - 当前总分：85/100；评分依据：
   - fit 40/40：Exact foundation-model and real-world robot learning fit.
   - physical 20/25：Verified physical racing-robot research is retrospective Berkeley work; current Princeton hardware allocation is not independently established.
-  - shortVisit 10/20：Explicit short-term external visitor route, duration and individual eligibility unspecified.
+  - shortVisit 10/20：Explicit form for outside-university visitors, including Masters on the inspected first page. The form generally prefers at least six months; shorter arrangements, individual approval and summer 2027 capacity remain unresolved. Keep the existing inquiry-evidence score10 while lowering practical contact priority.
   - freshness 15/15：2026 university profile and current lab/contact pages.
 - 未确认事项：The form generally prefers visits of at least six months; shorter arrangements are uncertain and receive lower practical contact priority. Only its public first page was inspected. Masters status is present, but later eligibility fields, funding and summer 2027 capacity remain unverified. Princeton-local student recruitment is separate.；Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals must be confirmed. Self-funding alone does not establish eligibility.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.
 - 来源：

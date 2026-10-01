@@ -197,7 +197,8 @@
     "batches/hri-059.json",
     "batches/hri-060.json",
     "batches/hri-061.json",
-    "batches/hri-062.json"
+    "batches/hri-062.json",
+    "batches/hri-063.json"
   ],
   "candidates": [
     {
@@ -11067,6 +11068,64 @@
       "shortVisitStatus": "degree-only · current IU students",
       "recordFile": "batches/hri-062.json",
       "detailPage": "batches/hri-062.md#michelle-zhao"
+    },
+    {
+      "id": "alexis-e-block",
+      "name": "Alexis E. Block",
+      "aliases": [
+        "Alexis Block"
+      ],
+      "school": "Case Western Reserve University",
+      "title": "Assistant Professor",
+      "homepage": "https://case.edu/engineering/about/faculty-and-staff-directory/alexis-e-block",
+      "batch": "hri-063",
+      "discoveredAt": "2026-10-01T05:22:17Z",
+      "verifiedAt": "2026-10-01T05:25:19Z",
+      "scores": {
+        "fit": 35,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Social and physical human-robot interaction",
+        "Multimodal AI integration",
+        "Conversational social robots",
+        "Probabilistic robot gesture generation",
+        "Tactile sensing"
+      ],
+      "shortVisitStatus": "degree-only",
+      "recordFile": "batches/hri-063.json",
+      "detailPage": "batches/hri-063.md#alexis-e-block"
+    },
+    {
+      "id": "safinah-ali",
+      "name": "Safinah Ali",
+      "aliases": [
+        "Safinah Arshad Ali"
+      ],
+      "school": "New York University",
+      "title": "Assistant Professor of Educational Communication and Technology",
+      "homepage": "https://steinhardt.nyu.edu/people/safinah-ali",
+      "batch": "hri-063",
+      "discoveredAt": "2026-10-01T05:22:17Z",
+      "verifiedAt": "2026-10-01T05:25:19Z",
+      "scores": {
+        "fit": 36,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Creative human-robot interaction",
+        "Generative models for embodied creativity",
+        "Accessible AI interfaces",
+        "Social robots",
+        "Child-robot interaction"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-063.json",
+      "detailPage": "batches/hri-063.md#safinah-ali"
     }
   ]
 }

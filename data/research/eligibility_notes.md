@@ -901,3 +901,14 @@ Sources: [Guides and Forms](https://www.lamar.edu/international-education/intern
 核查：2026-10-01T05:12:18Z。[Student Intern](https://www.uta.edu/student-affairs/oie/j-exchange-visitors/j-1-student-info-internship-program)覆盖美国境外持续在读学位学生，没有本科专属限制；需服务原学位目标，每周至少32小时，最长十二个月，可有薪或无薪，具体硕士任命和八周接收待批准。[中央 J 访客页](https://www.uta.edu/student-affairs/oie/j-exchange-visitors)的 scholar 路径接受个人资金，列未注明有效年度的每月1,467美元；不能自动套用于 Student Intern 或2027预算。其至少三个月保险证明要求对八周访问的适用也须确认，不误写成学术任命最低三个月。
 
 正式邀请前须完成研究安全／出口管制审核；[2026审查矩阵](https://resources.uta.edu/research/regulatory-services/export-control/_downloads/Screening_Procedures_Matrix_2026.pdf)列明外校、导师等相关方核查，由学校作最终判断。部门发起手续，签证可能需数月；五至七天仅是延期处理说明。全个人资金、具体类别、现行金额、处理费和总成本均需确认，未把 CAPPA 专属流程套用于工程学院。
+
+<a id="case-western"></a>
+## Case Western Reserve University
+
+核验时间：2026-10-01。校级路径可供咨询，不代表导师有2027暑期名额；外校硕士八周访问、远程与经费仍待确认，机会分0。
+
+- [Student Intern 官方要求](https://case.edu/visa/international-students/j-1-student-interns)包括在美国以外合资格高校继续攻读学位、良好学籍、服务原学位目标、访问后返校、英语、财力与保险。期限21天至一年、每周至少32小时，可有薪或无薪；页面单列研究生英语验证选项。
+- [办理程序](https://case.edu/visa/international-students/j-1-student-interns/application-process)由接收院系启动，涉及系主任证明、英语验证、原学校证明与DS-7002。页面建议提前2–3个月，[签证类别总表](https://case.edu/visa/international-faculty-staff-scholars/nonimmigrant-visa-sponsorship)则要求至少3个月。初审5–7工作日和材料齐备后10工作日出具文件，不是总签证耗时保证。
+- [院系证明表](https://case.edu/visa/sites/default/files/2023-06/Department%20Verification%20Form.pdf)排除患者接触、临床／治疗／心理咨询、儿童或老人照护等工作。机器人研究的具体非临床任务及数据权限须单独审核。
+- 现行Intern页面未明确全部个人资金、每月最低财力或本地管理费。2026年学者／雇员表中的个人资金栏目不能自动套用Intern；旧2018表的550美元不能当2027报价。
+- Alexis E. Block的[硕士招募说明](https://engineering.case.edu/research/labs/saphari-lab/about/join-the-lab)以获得CWRU录取／抵达校园为前提，支持论文或志愿研究但不给terminal MS实验室经费；不是外校短访邀请。

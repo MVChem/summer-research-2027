@@ -12,7 +12,7 @@
     "department": "Mechanical Engineering; Biomedical Engineering by courtesy; West Lafayette",
     "batch": "embodied-049",
     "discoveredAt": "2026-10-01T02:52:41Z",
-    "verifiedAt": "2026-10-01T02:57:00Z",
+    "verifiedAt": "2026-10-01T02:59:54Z",
     "researchAreas": [
       "Learning-guided agricultural manipulation",
       "Robot perception and physical sampling",
@@ -112,8 +112,8 @@
         "label": "engr.ncsu.edu / source 7",
         "url": "https://engr.ncsu.edu/faculty-development/faculty-communities/new-faculty-cohort-2026/",
         "summary": "Official 2026 cohort identifies Kitae Kim as Assistant Professor, correcting his stale Purdue lab-roster entry.",
-        "verifiedAt": "2026-10-01T02:57:00Z",
-        "retrieval": "indexed-primary-excerpt"
+        "verifiedAt": "2026-10-01T02:59:54Z",
+        "retrieval": "direct-primary-page"
       }
     ],
     "unknowns": [
@@ -123,7 +123,8 @@
       "No quantitative field success is claimed from the July 2026 report. The 2025 summer abstract book surfaced as an indexed primary excerpt but its PDF retrieval failed, so its numerical results are not used.",
       "Existing Purdue review supports formal visitor and foreign-degree-related Student Intern categories in principle, with personal/family funds possible subject to approval. Visitor research must serve the visitor’s own academic development and cannot be replaced with informal volunteering. Exact category, eight weeks and 2027 costs remain host/ISS decisions.",
       "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
-      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Later direct NCSU cohort-page check at 2026-10-01T02:59:54Z confirms the roster correction for Kitae Kim; no score or original discovery change."
     ],
     "publicEmail": "dcappell@purdue.edu"
   }

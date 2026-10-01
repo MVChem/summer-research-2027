@@ -162,7 +162,8 @@
     "batches/hri-044.json",
     "batches/hri-045.json",
     "batches/hri-046.json",
-    "batches/hri-047.json"
+    "batches/hri-047.json",
+    "batches/hri-048.json"
   ],
   "candidates": [
     {
@@ -9711,6 +9712,33 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-047.json",
       "detailPage": "batches/hri-047.md#russell-h-taylor"
+    },
+    {
+      "id": "mingmin-zhao",
+      "name": "Mingmin Zhao",
+      "aliases": [],
+      "school": "University of Pennsylvania",
+      "title": "Assistant Professor of Computer and Information Science",
+      "homepage": "https://www.cis.upenn.edu/~mingminz/",
+      "batch": "hri-048",
+      "discoveredAt": "2026-10-01T03:16:27Z",
+      "verifiedAt": "2026-10-01T03:24:30Z",
+      "scores": {
+        "fit": 37,
+        "physical": 18,
+        "shortVisit": 8,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Robot perception beyond line of sight",
+        "Physics-guided deep learning",
+        "RF-based 3D reconstruction and SLAM",
+        "Multimodal embodied sensing",
+        "Acoustic and visual scene representations"
+      ],
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/hri-048.json",
+      "detailPage": "batches/hri-048.md#mingmin-zhao"
     }
   ]
 }

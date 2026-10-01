@@ -132,6 +132,7 @@
     "batches/embodied-058.json",
     "batches/embodied-059.json",
     "batches/embodied-060.json",
+    "batches/embodied-061.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -7353,6 +7354,60 @@
       "shortVisitStatus": "unknown · member-level visitor lead",
       "recordFile": "batches/embodied-060.json",
       "detailPage": "batches/embodied-060.md#s-shankar-sastry"
+    },
+    {
+      "id": "david-m-chan",
+      "name": "David M. Chan",
+      "aliases": [
+        "David Chan"
+      ],
+      "school": "University of California, Irvine (incoming January 2027)",
+      "title": "Incoming Assistant Professor",
+      "homepage": "https://iridescent.io/",
+      "batch": "embodied-061",
+      "discoveredAt": "2026-10-01T04:49:54Z",
+      "verifiedAt": "2026-10-01T05:04:42Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Grounded multimodal and conversational AI",
+        "Agentic robot skill learning",
+        "Tactile-reactive VLA models",
+        "Reliable foundation-model reasoning"
+      ],
+      "shortVisitStatus": "degree-only · incoming January 2027",
+      "recordFile": "batches/embodied-061.json",
+      "detailPage": "batches/embodied-061.md#david-m-chan"
+    },
+    {
+      "id": "han-liu",
+      "name": "Han Liu",
+      "aliases": [],
+      "school": "Northwestern University",
+      "title": "Orrington Lunt Professor of Computer Science; Professor of Statistics",
+      "homepage": "https://magics.cs.northwestern.edu/research.html",
+      "batch": "embodied-061",
+      "discoveredAt": "2026-10-01T04:40:01Z",
+      "verifiedAt": "2026-10-01T05:04:42Z",
+      "scores": {
+        "fit": 35,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Foundation models and generative AI",
+        "Scientific world models",
+        "Agentic reasoning and autonomous experimentation",
+        "Video-guided robotic manipulation"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-061.json",
+      "detailPage": "batches/embodied-061.md#han-liu"
     },
     {
       "id": "henny-admoni",

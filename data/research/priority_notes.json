@@ -383,6 +383,37 @@
           "evidence": "Full official faculty roster prints Carnegie Mellon2021–; unresolved discrepancy with recent lab establishment, so no exact new-AP year asserted."
         }
       ]
+    },
+    "jiatao-gu": {
+      "appointmentStart": {
+        "year": 2025,
+        "month": 7,
+        "day": 1,
+        "precision": "day",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "evidence": "February28,2025 official Trustees minutes, PDFpage55/printed42, explicitly approve Assistant Professor appointment from July1,2025 to June30,2028 with July1,2025 probationary start. Current university symposium and lab corroborate current role. First-ever faculty status is not inferred solely from appointment approval."
+      },
+      "display": "2025-07-01",
+      "caveat": "官方2025-07-01任职；访客表单仍有旧施工说明，未列硕士/时长/经费；共享真机49步开环，不保证本组设备访问",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://archives.upenn.edu/wp-content/uploads/2025/09/20250228tr.pdf",
+          "observedAt": "2026-10-01T12:30:15Z",
+          "evidence": "Official February 28, 2025 Trustees minutes PDFpage55/printed42. Full document retrieved; appointment block text-read and visually checked: July 1, 2025 start, tenure-track CIS Assistant Professor."
+        },
+        {
+          "id": "s2",
+          "url": "https://ai.upenn.edu/ideas-generative-ai-symposium",
+          "observedAt": "2026-10-01T12:30:15Z",
+          "evidence": "Full current official university speaker biography confirms Penn Assistant Professor and part-time Apple role, world-model/vision/action agenda."
+        }
+      ]
     }
   },
   "constraints": [

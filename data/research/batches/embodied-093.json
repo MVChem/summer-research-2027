@@ -1,0 +1,137 @@
+[
+  {
+    "id": "jiatao-gu",
+    "name": "Jiatao Gu",
+    "aliases": [
+      "顾佳涛"
+    ],
+    "school": "University of Pennsylvania",
+    "homepage": "https://jiataogu.me/",
+    "title": "Assistant Professor, Standing Faculty Tenure Track",
+    "department": "Computer and Information Science; secondary Electrical and Systems Engineering; GMLR Lab, GRASP and ASSET",
+    "batch": "embodied-093",
+    "discoveredAt": "2026-10-01T12:27:29Z",
+    "verifiedAt": "2026-10-01T12:30:15Z",
+    "researchAreas": [
+      "Video-action models and4D robot world models",
+      "Point-based cross-embodiment action representations",
+      "Diffusion action decoding",
+      "Physically grounded multimodal generative models"
+    ],
+    "fitReason": "Strong recent-AP world-model/robot-learning match with a live visitor inquiry. June 2026 PointAction connects generated RGB+XYZ dynamics to executable robot actions through a lightweight diffusion decoder, and explicitly tests two real arms. Current first author is listed in Gu’s Penn PhD group; project is jointly authored with Lingjie Liu.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Shared/current Penn physical20. Full PointAction Section5.2 and AppendixC verify actual xArm7 and YAM manipulation with separate camera setups, teleoperation adaptation data and independent execution trials. xArm7 uses50 demonstrations and100 trials per task; YAM uses20 demonstrations and20 trials per task. This is genuine learned physical action, but49-step chunks execute open-loop without replanning. Independent rig ownership or guaranteed visitor access is unverified. RoboCasa365 results and ambiguous physical-execution captions under its simulation appendix are not counted as hardware.",
+      "sourceIds": [
+        "s4",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "Current homepage/team explicitly recruit visiting students and research interns via the linked GMLR interest form. The full public form has a visiting-student option, possible after fall2025, and a home-institution field. It still says under construction and contains an old future-joining introduction. The current homepage continues to link it, supporting a generic visitor inquiry, not a guaranteed2027 opening. No master’s-level field, minimum duration, funding or remote option is specified.",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 8,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct modern video-action/world-model cross-embodiment control and current advising.",
+      "physical": "Actual shared xArm7/YAM execution; open-loop and independent-access limits retained.",
+      "shortVisit": "Live generic visitor/intern inquiry, exact outside-master duration/funding unknown.",
+      "freshness": "Full June 2026 robot experiment and current lab/recruiting sources."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "archives.upenn.edu / source 1",
+        "url": "https://archives.upenn.edu/wp-content/uploads/2025/09/20250228tr.pdf",
+        "summary": "Official February 28, 2025 Trustees minutes PDFpage55/printed42. Full document retrieved; appointment block text-read and visually checked: July 1, 2025 start, tenure-track CIS Assistant Professor.",
+        "verifiedAt": "2026-10-01T12:30:15Z",
+        "retrieval": "direct-official-primary-pdf"
+      },
+      {
+        "id": "s2",
+        "label": "ai.upenn.edu / source 2",
+        "url": "https://ai.upenn.edu/ideas-generative-ai-symposium",
+        "summary": "Full current official university speaker biography confirms Penn Assistant Professor and part-time Apple role, world-model/vision/action agenda.",
+        "verifiedAt": "2026-10-01T12:30:15Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "jiataogu.me / source 3",
+        "url": "https://jiataogu.me/",
+        "summary": "Full current Penn/GRASP/ASSET role, public contact, visitor/intern invitation and PointAction paper link.",
+        "verifiedAt": "2026-10-01T12:30:15Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "jiataogu.me / source 4",
+        "url": "https://jiataogu.me/team/",
+        "summary": "Full current team links PointAction first author Mutian Tong as current PhD student and repeats visitor/intern invitation. Historical industry interns are not university visitor offers.",
+        "verifiedAt": "2026-10-01T12:30:15Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "docs.google.com / source 5",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSc4bpBa2m0m3wFse8n8cL1_ClEWL5KVONW8SwrywUa63725aQ/viewform?usp=send_form",
+        "summary": "Complete public form read-only in cloud browser: visiting students possible after fall2025; current institution, CV and interests; stale under-construction/header retained. No entry/upload/submission.",
+        "verifiedAt": "2026-10-01T12:30:15Z",
+        "retrieval": "direct-primary-cloud-browser"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2606.03943v1",
+        "summary": "Full June 2026 primary methods, Section5.2, AppendicesC/E: xArm7/YAM actual execution, adaptation budgets, open-loop49step chunks and failure limits.",
+        "verifiedAt": "2026-10-01T12:30:15Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s7",
+        "label": "oriontmt.github.io / source 7",
+        "url": "https://oriontmt.github.io/pointaction/",
+        "summary": "Full author project identifies Penn team, real-robot demonstrations separately from simulation, CVPR2026 4D Vision Workshop label.",
+        "verifiedAt": "2026-10-01T12:30:15Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Exact appointment date comes from university board minutes, not a paper date, personal age inference or a student start. Current source describes a part-time Apple research role alongside Penn; do not infer university leave or substitute a company internship.",
+      "PointAction’s video backbone is slow, and execution is open-loop. Self-occlusion and unexpected contact/slippage can cause failure; this is not a real-time closed-loop manipulation system.",
+      "The two arms were unseen during4D pretraining but each uses arm-specific demonstration post-training and a decoder trained from scratch. Do not describe real transfer as zero-shot without action supervision.",
+      "Gu and Lingjie Liu share the Penn project, and Mutian Tong is in Gu’s current lab roster. Shared physical20 is retained until independent apparatus/hosting access is established.",
+      "Current group roster has local master’s students and a past visiting undergraduate; neither proves an outside-master short placement. Form remains a generic inquiry with no duration promise; the after-fall2025 condition is already past, not a2027 closure.",
+      "Reuse published penn policy: degree-related Student Intern includes outside bachelor’s/master’s/doctoral enrollment, requires return to home study,32hours/week and a placement agreement signed by full-time Penn faculty and the home institution. Formal category does not guarantee this PI’s acceptance.",
+      "Penn currently permits paid/unpaid participation with documented personal/family/third-party support and lists$2839/month financial evidence,$865 processing and a$700 late fee for submissions under30days.2027 figures, responsible payer, insurance, exact dates and university visitor screening remain unconfirmed.",
+      "Prioritize a scoped robot world-model/action-representation experiment if contacting; generic image generation is only part of the lab. Remote supervision, roughly eight-week suitability, resources and actual2027 capacity remain unknown.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#penn)"
+    ],
+    "publicEmail": "jgu32@seas.upenn.edu",
+    "appointmentStart": {
+      "year": 2025,
+      "month": 7,
+      "day": 1,
+      "precision": "day",
+      "status": "current",
+      "appointmentType": "unresolved",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ],
+      "evidence": "February28,2025 official Trustees minutes, PDFpage55/printed42, explicitly approve Assistant Professor appointment from July1,2025 to June30,2028 with July1,2025 probationary start. Current university symposium and lab corroborate current role. First-ever faculty status is not inferred solely from appointment approval."
+    }
+  }
+]

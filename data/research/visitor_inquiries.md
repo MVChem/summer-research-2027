@@ -2,11 +2,11 @@
 
 [全部候选与总分排序](ranked_candidates.md) · [原始索引](mentor_candidates.json) · [机构规则](eligibility_notes.md) · [原200位后续补充](baseline_addenda.md)
 
-从现有记录筛出 **100 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。
+从现有记录筛出 **101 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。
 
 本页按研究匹配分优先，其次真机、短访、新鲜度及发现时间；不把一般询问、学校制度或个人自费能力当成已获资格。所有人的主办类别、八周安排、2027容量、经费和设备访问都需确认。具体奖学金要求、无资助、时间不匹配、任职时点及证据限制优先看下列加粗提示，再读完整资料。
 
-## 访问/短期研究问询线索（现场安排仍须确认） · 90 条
+## 访问/短期研究问询线索（现场安排仍须确认） · 91 条
 
 | 导师 / 机构 | 匹配 / 真机 / 短访 | 已知限制与证据状态 | 直接来源 / 机构规则 | 记录核查 UTC |
 |---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [H. Eric Tseng](batches/control-086.md#h-eric-tseng) · University of Texas at Arlington | 39/23/8 | **明确短访/intern询问；不提供无薪志愿岗位；需先说明资金安排；受限真机证据：Current UTA lab-linked learned humanoid execution verified; joint CMU collaboration** | [s3](https://etaic.github.io/join/) [规则](eligibility_notes.md#ut-arlington) | 2026-10-01T09:59:03Z |
 | [Yongxin Chen](batches/control-006.md#yongxin-chen) · Georgia Institute of Technology | 39/20/8 | **公开问询入口；详细资格与期限未定** | [s2](https://yongxin.ae.gatech.edu/) | 2026-09-30T22:08:52Z |
 | [Carmen Amo Alonso](batches/control-081.md#carmen-amo-alonso) · University of California, Berkeley | 39/20/8 | **2027待入职、月份未知；夏季主办权限未确认；受限真机证据：Verified real learned robot at prior host; Berkeley hardware access unverified** | [s3](https://controllableai.org/join.html) [规则](eligibility_notes.md#berkeley-vsr) | 2026-10-01T07:07:38Z |
+| [Jiatao Gu](batches/embodied-093.md#jiatao-gu) · University of Pennsylvania | 39/20/8 | **官方2025-07-01任职；访客表单仍有旧施工说明，未列硕士/时长/经费；共享真机49步开环，不保证本组设备访问** | [s1](https://archives.upenn.edu/wp-content/uploads/2025/09/20250228tr.pdf) [s3](https://jiataogu.me/) [s4](https://jiataogu.me/team/) [s5](https://docs.google.com/forms/d/e/1FAIpQLSc4bpBa2m0m3wFse8n8cL1_ClEWL5KVONW8SwrywUa63725aQ/viewform?usp=send_form) [s6](https://arxiv.org/html/2606.03943v1) [规则](eligibility_notes.md#penn) | 2026-10-01T12:30:15Z |
 | [Homanga Bharadhwaj](batches/control-002.md#homanga-bharadhwaj) · Johns Hopkins University | 39/20/5 | **非JHU短期访客入口；表单故障，当前替代联络办法见详情** | [s2](https://b3.cs.jhu.edu/) | 2026-09-30T21:56:57Z |
 | [Kaylene Stocking](batches/embodied-009.md#kaylene-stocking) · Toyota Technological Institute at Chicago | 39/20/5 | **通常12–15周；八周未确认；经TTIC项目联系** | [s3](https://ttic.edu/ripl/) [s4](https://www.ttic.edu/visiting-student/) [s5](https://ttic.edu/news/) | 2026-09-30T22:44:51Z |
 | [Xusheng Luo](batches/embodied-011.md#xusheng-luo) · North Carolina State University | 39/20/5 | **公开问询入口；详细资格与期限未定** | [s3](https://xushengluo92.github.io/prospective.html) | 2026-09-30T22:50:54Z |

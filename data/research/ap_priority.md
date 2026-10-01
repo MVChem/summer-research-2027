@@ -2,16 +2,17 @@
 
 [全部候选：最新偏好排序](ranked_candidates.md) · [明确限制与暑期关闭](contact_constraints.md) · [访问问询入口](visitor_inquiries.md) · [评分说明](README.md)
 
-当前新增记录中有 **206 位**以公开准确职级列出的 AP；这里只核实了一部分入职日期，日期未知不等于资历较老。
+当前新增记录中有 **207 位**以公开准确职级列出的 AP；这里只核实了一部分入职日期，日期未知不等于资历较老。
 
 约八周是初步参考，未说明时长不会被排除。先看近期已到岗 AP，再看暑期前有明确任职日期的 AP；其他 AP 仍保留。明确至少三个月及较长访问偏好降序，硬性最短时长与偏好分开；明确不接收暑期/访客优先标记。
 
 工作排序暂以 **2024年起**作为约近两三年的范围，并单列2027暑期前已公告入职者；这是可调整的整理约定，不是年龄判断、用户硬性年限或接收概率。各层内部先按研究匹配，再按真机证据及原总分。原四项分数和发现时间均未改写。
 
-## 近期已到岗 AP（2024起）（5）
+## 近期已到岗 AP（2024起）（6）
 
 | 导师 / 学校 | 准确任职与入职证据 | 原分数：匹配/真机/访问/新鲜 | 访问与时点提醒 |
 |---|---|---|---|
+| [Jiatao Gu](batches/embodied-093.md#jiatao-gu) · University of Pennsylvania | Assistant Professor, Standing Faculty Tenure Track；**2025-07-01** [核查来源1](https://archives.upenn.edu/wp-content/uploads/2025/09/20250228tr.pdf) [核查来源2](https://ai.upenn.edu/ideas-generative-ai-symposium) | 82（39/20/8/15） | **官方2025-07-01任职；访客表单仍有旧施工说明，未列硕士/时长/经费；共享真机49步开环，不保证本组设备访问**；inquiry-only |
 | [Homanga Bharadhwaj](batches/control-002.md#homanga-bharadhwaj) · Johns Hopkins University | Assistant Professor；**2026 new-faculty cohort; exact start month/day unconfirmed** [核查来源1](https://www.cs.jhu.edu/news/johns-hopkins-computer-science-welcomes-six-new-tenure-track-faculty/) [核查来源2](https://www.cs.jhu.edu/faculty/homanga-bharadhwaj/) [核查来源3](http://b3.cs.jhu.edu/) | 79（39/20/5/15） | **2026已到岗；外校短访类别明确，但表单链接仍缺失；可先向PI确认入口**；inquiry-only |
 | [Mingyo Seo](batches/control-107.md#mingyo-seo) · University of Central Florida | Assistant Professor (joined fall 2026)；**2026秋（官方新教师公告；具体日未定）** [核查来源1](https://www.ece.ucf.edu/two-faculty-join-ece-department-for-fall-2026/) | 72（39/20/0/13） | **当前校园设备、2027容量、访客条件仍待确认；未声明首次faculty任职；受限真机证据：Verified prior-UT-Austin learned Panda/GR1 execution; physical20 cap; current UCF hardware unknown**；unknown · 无明确邀请或拒绝；时长未知 |
 | [Neel P. Bhatt](batches/control-013.md#neel-p-bhatt) · University of Texas at Dallas | Assistant Professor；**Fall 2026; first-person homepage says August 2026** [核查来源1](https://syse.utdallas.edu/ourteam/staff/neel-p-bhatt/) [核查来源2](https://neel1302.github.io/) | 83（38/20/10/15） | **2026秋已到岗；有2027访客/实习邮件入口，时长、资金、主办类别和UTD设备仍待确认**；inquiry-only |
@@ -279,3 +280,5 @@
 - Andrew Spielberg：[来源](https://www.ece.cmu.edu/directory/bios/andrew-spielberg.html) · Full current official Assistant Professor and robotics/simulation/ML agenda.（核查 2026-10-01T12:07:44Z）
 - Andrew Spielberg：[来源](https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Summer-Intern---College-of-Engineering---Electrical-and-Computer-Engineering_2024173) · Official employer indexed full text: Fall2025 lab establishment, paid Summer2026 non-CMU student role, hourly fixed term; live direct text empty.（核查 2026-10-01T12:07:44Z）
 - Andrew Spielberg：[来源](https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofelectricalandcomputerengineering/) · Full official faculty roster prints Carnegie Mellon2021–; unresolved discrepancy with recent lab establishment, so no exact new-AP year asserted.（核查 2026-10-01T12:07:44Z）
+- Jiatao Gu：[来源](https://archives.upenn.edu/wp-content/uploads/2025/09/20250228tr.pdf) · Official February 28, 2025 Trustees minutes PDFpage55/printed42. Full document retrieved; appointment block text-read and visually checked: July 1, 2025 start, tenure-track CIS Assistant Professor.（核查 2026-10-01T12:30:15Z）
+- Jiatao Gu：[来源](https://ai.upenn.edu/ideas-generative-ai-symposium) · Full current official university speaker biography confirms Penn Assistant Professor and part-time Apple role, world-model/vision/action agenda.（核查 2026-10-01T12:30:15Z）

@@ -191,6 +191,7 @@
     "batches/embodied-084.json",
     "batches/embodied-085.json",
     "batches/embodied-090.json",
+    "batches/embodied-093.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -10079,6 +10080,34 @@
       "shortVisitStatus": "inquiry-only",
       "recordFile": "batches/embodied-090.json",
       "detailPage": "batches/embodied-090.md#andrew-spielberg"
+    },
+    {
+      "id": "jiatao-gu",
+      "name": "Jiatao Gu",
+      "aliases": [
+        "顾佳涛"
+      ],
+      "school": "University of Pennsylvania",
+      "title": "Assistant Professor, Standing Faculty Tenure Track",
+      "homepage": "https://jiataogu.me/",
+      "batch": "embodied-093",
+      "discoveredAt": "2026-10-01T12:27:29Z",
+      "verifiedAt": "2026-10-01T12:30:15Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Video-action models and4D robot world models",
+        "Point-based cross-embodiment action representations",
+        "Diffusion action decoding",
+        "Physically grounded multimodal generative models"
+      ],
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/embodied-093.json",
+      "detailPage": "batches/embodied-093.md#jiatao-gu"
     },
     {
       "id": "henny-admoni",

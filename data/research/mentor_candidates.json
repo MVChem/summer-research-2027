@@ -266,7 +266,8 @@
     "batches/hri-079.json",
     "batches/hri-080.json",
     "batches/hri-081.json",
-    "batches/hri-083.json"
+    "batches/hri-083.json",
+    "batches/hri-089.json"
   ],
   "candidates": [
     {
@@ -14188,6 +14189,33 @@
       "shortVisitStatus": "incompatible · 当前3–9个月；旧暑期至少9周且需工作许可",
       "recordFile": "batches/hri-083.json",
       "detailPage": "batches/hri-083.md#matthew-johnson"
+    },
+    {
+      "id": "maria-gorlatova",
+      "name": "Maria Gorlatova",
+      "aliases": [],
+      "school": "Duke University",
+      "title": "Sternberg Family Associate Professor of Electrical and Computer Engineering",
+      "homepage": "https://gorlatova.pratt.duke.edu/people/maria-gorlatova",
+      "batch": "hri-089",
+      "discoveredAt": "2026-10-01T11:07:16Z",
+      "verifiedAt": "2026-10-01T11:28:35Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 10,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "AI-enabled human–robot collaboration",
+        "Shared semantic robot–headset mapping",
+        "Vision-language models for augmented reality",
+        "Open-set embodied perception",
+        "Edge AI and spatial computing"
+      ],
+      "shortVisitStatus": "inquiry-only · 访客通常自筹；短期支持需按匹配及任命讨论",
+      "recordFile": "batches/hri-089.json",
+      "detailPage": "batches/hri-089.md#maria-gorlatova"
     }
   ]
 }

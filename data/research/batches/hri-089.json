@@ -1,0 +1,129 @@
+[
+  {
+    "id": "maria-gorlatova",
+    "name": "Maria Gorlatova",
+    "aliases": [],
+    "school": "Duke University",
+    "homepage": "https://gorlatova.pratt.duke.edu/people/maria-gorlatova",
+    "title": "Sternberg Family Associate Professor of Electrical and Computer Engineering",
+    "department": "Electrical and Computer Engineering; Intelligent Interactive Internet of Things (I3T) Lab",
+    "batch": "hri-089",
+    "discoveredAt": "2026-10-01T11:07:16Z",
+    "verifiedAt": "2026-10-01T11:28:35Z",
+    "researchAreas": [
+      "AI-enabled human–robot collaboration",
+      "Shared semantic robot–headset mapping",
+      "Vision-language models for augmented reality",
+      "Open-set embodied perception",
+      "Edge AI and spatial computing"
+    ],
+    "fitReason": "Strong current applied-AI/HRI option with direct student-led physical systems and a separate public visiting-student inquiry route. Suitable projects could concern semantic grounding, robot interfaces or spatial AI, with concrete task scope and access negotiated before an eight-week visit.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Full June 2026 fARfetch methods implement Grounding DINO, SAM and CLIP shared semantic mapping from robot/headset RGB-D, with GPT-4o adapting AR content. A real Unitree Go2 executes human-selected landmark goals and authored waypoints through SLAM Toolbox/Nav2; this is learned perception supporting physical navigation, not a new learned locomotion policy. The 13-person outdoor mock-inspection study includes 30.5 m separation and occlusion. It evaluates the integrated interface without component ablations or quantified VLM failure/latency analysis. A separate 2026 ARTOO-DARTU study uses YOLOv5/EasyOCR and an actual TurtleBot 4 in a 34-person controlled warehouse-like task; virtual targets do not establish physical item picking. Both are current Duke-group projects, with lead author Christian Fronk listed as the PI’s PhD student.",
+      "sourceIds": [
+        "s2",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only · 访客通常自筹；短期支持需按匹配及任命讨论",
+      "summary": "The current official lab opportunities page has a distinct visiting-students section, separate from Duke BS/MS enrollment and PhD recruitment. Most visitors are self-funded; short-term support may be considered when research alignment is close. It invites a CV, transcripts and research-interest inquiry. This supports contacting the lab about a visit, not confirmed admission, funding, eight-week availability or a summer 2027 opening.",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 10,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct current AI-enabled HRI and semantic embodied perception, with substantive foundation-model integration.",
+      "physical": "Current same-group first-author PhD lineage and fully described actual Go2/TurtleBot deployment; human control and conventional navigation boundaries explicit.",
+      "shortVisit": "Direct separate visiting-student invitation, usually self-funded; no assured summer place or eight-week acceptance.",
+      "freshness": "June/August 2026 completed technical research and current role/opportunity pages."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "gorlatova.pratt.duke.edu / source 1",
+        "url": "https://gorlatova.pratt.duke.edu/people/maria-gorlatova",
+        "summary": "Current official exact endowed associate-professor title, professional email, and edge/spatial-AI agenda.",
+        "verifiedAt": "2026-10-01T11:14:55Z"
+      },
+      {
+        "id": "s2",
+        "label": "gorlatova.pratt.duke.edu / source 2",
+        "url": "https://gorlatova.pratt.duke.edu/people",
+        "summary": "Current lab roster identifies Gorlatova as PI and Christian Fronk as PhD student, supporting direct project lineage.",
+        "verifiedAt": "2026-10-01T11:14:55Z"
+      },
+      {
+        "id": "s3",
+        "label": "gorlatova.pratt.duke.edu / source 3",
+        "url": "https://gorlatova.pratt.duke.edu/employment-opportunities",
+        "summary": "Live separate visiting-students invitation: usually self-funded, potentially short-term funded by alignment, with an inquiry process. Duke-local BS/MS recruitment is separately labeled.",
+        "verifiedAt": "2026-10-01T11:28:35Z"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2606.25162v1",
+        "summary": "Full fARfetch system, execution and evaluation sections read; June 2026 learned semantic mapping, VLM AR adaptation and actual Go2 navigation with human-authored goals.",
+        "verifiedAt": "2026-10-01T11:14:55Z"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2606.25202v1",
+        "summary": "Full ARTOO-DARTU methods distinguish preliminary simulation from the actual TurtleBot user study, learned obstruction perception, and gamified virtual targets.",
+        "verifiedAt": "2026-10-01T11:14:55Z"
+      },
+      {
+        "id": "s6",
+        "label": "gorlatova.pratt.duke.edu / source 6",
+        "url": "https://gorlatova.pratt.duke.edu/research/multi-agent-and-human-robot-augmented-reality",
+        "summary": "Current official group agenda links both papers and labels their August 2026 MobileHCI/RO-MAN venues.",
+        "verifiedAt": "2026-10-01T11:14:55Z"
+      },
+      {
+        "id": "s7",
+        "label": "myresearchpath.duke.edu / source 7",
+        "url": "https://myresearchpath.duke.edu/visiting-research-scholars",
+        "summary": "Institutional outside-graduate research appointment guidance reused from 01:15:42Z; no faculty acceptance inferred.",
+        "verifiedAt": "2026-10-01T01:15:42Z",
+        "retrieval": "Reused earlier institutional-policy review; dated provisions remain subject to 2027 confirmation"
+      },
+      {
+        "id": "s8",
+        "label": "visaservices.duke.edu / source 8",
+        "url": "https://visaservices.duke.edu/maintaining-j-non-immigrant-class/",
+        "summary": "Reused category-duration and activity rules; exact classification remains institution-dependent.",
+        "verifiedAt": "2026-10-01T01:15:42Z",
+        "retrieval": "Reused earlier institutional-policy review; dated provisions remain subject to 2027 confirmation"
+      },
+      {
+        "id": "s9",
+        "label": "web.visaservices.duke.edu / source 9",
+        "url": "https://web.visaservices.duke.edu/Duke.Idioms.WebForms/Documents/InternationalOffice/NonStudents/Visa%20Documents/J1_DukeIssued/both/J-1%20Funding%20Requirements.pdf",
+        "summary": "Reused 2023-dated financial-support form permits personal/family funds; current minimum and total cost unknown.",
+        "verifiedAt": "2026-10-01T01:15:42Z",
+        "retrieval": "Reused earlier institutional-policy review; dated provisions remain subject to 2027 confirmation"
+      }
+    ],
+    "unknowns": [
+      "The outside-master classification, project fit, supervision, exact eight-week dates, on-site access, and remote possibility need explicit lab and Duke approval. A public invitation is not an acceptance or funding commitment.",
+      "Duke institutional guidance is reused from the completed 2026-10-01T01:15:42Z check rather than represented as newly verified. Visiting Research Scholars includes outside graduate students not taking Duke courses or receiving Duke salary; unit registration, work plan and compliance review are required before arrival. Paid arrangements may need a different appointment process.",
+      "The existing Duke visa guidance permits Student Intern visits up to twelve months and Short-Term Scholar up to six months, but the applicable category and eight-week appointment must be confirmed. Patient contact/care is restricted; a robotics-interface project should be scoped accordingly.",
+      "The reachable Duke J funding form accepts personal/family support but is internally dated 2023. Its $2,578 monthly figure is historical, not a verified 2026/2027 minimum. Current support amounts, insurance, all fees and lead time remain unresolved.",
+      "Physical claims are limited to observed implemented perception/interface-to-navigation systems. Human goals, conventional navigation and system-level evaluations are kept separate from autonomous learned motor control. The fARfetch headline percentage is not repeated because the reported mean times and its “66% faster” wording use an unclear comparison convention.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#duke)"
+    ],
+    "publicEmail": "maria.gorlatova@duke.edu"
+  }
+]

@@ -571,3 +571,51 @@ Tacoma 补充核查：2026-10-01T01:02:36Z。[SET visiting appointments](https:/
 核查：2026-10-01T00:27:38Z。[主办 Scholar 页面](https://www.scu.edu/globalengagement/international-students/prospective-international-students/host-international-scholars/) 有至多六个月的 Short-Term 类别，但其学生例子为博士论文阶段，未明确外校硕士或 Student Intern；这属于待确认，不是硕士禁令。[资金页](https://www.scu.edu/globalengagement/international-students/prospective-international-students/host-international-scholars/estimated-expenses-for-j-1-scholars/) 允许个人流动资金，单人每月 3,000 美元，仍须任命分类及具体文件批准。
 
 [主办责任](https://www.scu.edu/globalengagement/international-students/prospective-international-students/host-international-scholars/facultystaff-host-responsibilities-and-resources/) 要求至少提前十周、校园工作空间及院系/学院批准；十周是提前期，不是访期最低值。使用 [当前保险规则](https://www.scu.edu/globalengagement/international-students/prospective-international-students/host-international-scholars/insurance-requirements-for-j-1-scholars/)，不采用旧 development-site 的不可豁免保险说法。完整费用、2027 规则及导师容量仍未确认。
+
+<a id="florida"></a>
+
+## Florida · Student Intern 路径与审查范围冲突
+
+核查：2026-10-01T02:08:37Z。[Student Intern 原校批准表](https://internationalcenter.ufl.edu/evs/media/international-center/documents/evs/Approval-of-Participation.docx) 覆盖美国境外在读学位学生，需良好学籍、原校及学位目标关联；[DS-7002 信息表](https://internationalcenter.ufl.edu/evs/media/international-center/documents/evs/DS-7002-Info-Form.docx) 要求每周至少 32 小时、导师监督和评估。[期限说明](https://internationalcenter.ufl.edu/evs/inviting-j-1-visitors/amending-scholar-programs/) 为最长十二个月或毕业日（较早者），未核实最低访期；具体外校硕士任命仍需批准。
+
+[EVS 初始申请页](https://internationalcenter.ufl.edu/evs/inviting-j-1-visitors/initial-scholar-requests/) 同时适用于 Intern 与 scholar，允许个人及组合资金，单人每月 2,266 美元为支持证明，不是大学收费；保险、2027 金额和其他费用另确认。该页要求 RISC clearance，但 [现行政策](https://policy.ufl.edu/policy/hosting-international-scholars-and-international-visitors/) 和 [RISC FAQ](https://research.ufl.edu/services/risc/research-security/international-scholar-visit/international-scholar-visit-faqs) 明确排除本科/研究生并告知不送此项审查。HR、EVS、RISC 须协调外校 Intern 的正确流程，不能据此断言自动禁止或全面豁免。海洋等额外实地场所须另外批准并有直接监督。
+
+<a id="clemson"></a>
+
+## Clemson · 新旧表格冲突，硕士类别待确定
+
+核查：2026-10-01T02:16:37Z。[类别页](https://www.clemson.edu/campus-life/campus-services/international/j-1-scholar/categories.html) 和 [现行 scholar 入口](https://www.clemson.edu/global/immigration-services/international-scholars/j-1-scholars/) 有学士最低学历与一天至六个月 Short-Term Scholar，但未明确外校在读硕士的具体学术任命。Student Intern 的 usually/typically undergraduate 措辞不是所有研究生的绝对禁令；[原校认证表](https://media.clemson.edu/global_engagement/international_services/forms/j1_student_intern_home_institution_certification.pdf) 仍要求学位关联及返校。
+
+当前迁移页面仍链接旧 2015/2017 表格，Scholar 个人资金许可与现行适用性需重确认；[较新 Intern 表](https://media.clemson.edu/global_engagement/international_services/forms/ds2019_student_intern_application_student_intern_section.pdf) 列每月 1,800 美元支持并接受家庭/朋友资助，不采用旧 1,043 美元。Non-Degree 的非个人资金/机构协议条件属于另一类别。类别页的“12 years”是明显文字错误，不能当十二年 Intern 许可。五/十个工作日只涉及材料处理，安全审核及完整签证时间、费用、2027 接收和全个人资金资格仍未知。
+
+<a id="illinois-tech"></a>
+
+## Illinois Tech · 已获硕士的 Researcher 任命与学分访问分开
+
+核查：2026-10-01T02:01:47Z。[现行 handbook](https://www.iit.edu/general-counsel/policies-and-procedures/faculty-handbook) 仍链接 [Visiting Researcher 程序](https://webmaster.iit.edu/files/general-counsel/faculty-handbook/visiting_researcher_appointments.pdf)，该旧表（02/11）要求已完成硕士学历；仅在读不能满足这个具体 title，现行适用性需 Graduate College 确认。[Summer visiting students](https://www.iit.edu/academics/summer-courses/visiting-students) 另有研究生研究学分路径，不自动证明独立八周访客资格。2026 SURE-IPro 为已结束的本科项目，不作当前硕士机会。
+
+[主办指引](https://www.iit.edu/global-services/illinois-tech-employee-and-scholar-services/resources-host-departments/j-1-exchange-visitors) 和 [scholar 概览](https://www.iit.edu/global-services/illinois-tech-employee-and-scholar-services/j-1-scholar) 接受个人资金并列每月 1,430 美元，但 [取得身份页](https://www.iit.edu/global-services/illinois-tech-employee-and-scholar-services/j-1-scholar/obtaining-j-1-status) 仍列 1,400，未解释生效日期；两者均非确认的 2027 总预算。须由 OGS 决定类别，提前至少两个月提交，另核学分、学费、保险和院系费用。Scholar 自费条款不自动转移到 non-degree student。
+
+<a id="george-mason"></a>
+
+## George Mason · 不提供 Intern sponsorship，不能仅个人资金
+
+核查：2026-10-01T01:51:07Z。[2025–26 部门 J-1 packet](https://oips.gmu.edu/wp-content/uploads/2025/01/J1-Department-Request-Form-2025-2026.pdf) 明确无 Intern sponsorship，Research Scholar/Professor 要求 faculty-equivalent 资历，论文阶段博士例外并不建立在读硕士资格。[当前类别页](https://oips.gmu.edu/j-1-scholars-categories/) 的 Short-Term Scholar 可一天至六个月，但仍需相应教育/专业成就及学术任命审定，不能只依据时长推断可行。
+
+同一 packet 明确不允许个人资金作为唯一来源，允许机构/政府/大学及个人混合支持，但未量化非个人最低比例；单人每月 3,000 美元是支持证明，保险和旅行另计。材料制作三周，加上所列可变的领事 8–14 周，并非接收保证；处理费、2027 标准及外校硕士类别未确认。普通 degree-student 银行材料规则不能覆盖此项 scholar 限制。
+
+<a id="west-virginia"></a>
+
+## West Virginia · 主办流程存在，硕士与资金细则未确定
+
+核查：2026-10-01T01:42:17Z。[当前 ISSS 主办流程](https://isss.wvu.edu/info-for-departments/j-1-scholars-information-for-departments) 自 2022 年改为部门先提 sponsorship request，再由 ISSS 决定签证类型；仍链接 [2013 学术访客指引](https://isss.wvu.edu/files/d/9793a03f-e1ff-49c9-8cd8-44f3ca78e85c/final-visiting-scholars-guidelines.pdf)。一般允许有薪/无薪外部学术访问，但没有核实外校在读硕士的具体类别、最低财力、完整提前期或全个人资金许可。
+
+[当前行前页](https://isss.wvu.edu/info-for-departments/j-1-scholars-information-for-departments/pre-arrival-information) 修订于 2025-12-22，称目前不向 incoming scholars 收费，要求全程保险且不提供住房；其他院系/项目费用及 2027 变化另确认。公开的每月 1,700 美元属于 [WVCIP 专属项目](https://international.wvu.edu/cip/financial-requirements)，不适用于普通实验室访客。旧 2017 银行担保表不能确认当前自费政策。Yu Gu 的旧日期访客邀请只提供联系线索。
+
+<a id="rice"></a>
+
+## Rice · Academic Visitor 的硕士分类与全自费待批准
+
+核查：2026-10-01T01:09:28Z。[VMS](https://oiss.rice.edu/vms) 与 [J-1 request](https://oiss.rice.edu/j1-request) 支持已获学士的 Academic Visitor、每周至少 32 小时；[Scholar 说明](https://oiss.rice.edu/jscholar) 的 Short-Term 为一天至六个月。八周符合时间区间，但外校在读硕士的任命资格仍需 host、Dean 与 OISS 批准，详细 HR 指引需要 Rice Box 登录，本次未读取。
+
+当前支持证明每月 2,300 美元，接受六个月内银行材料，第三方账户需支持信；这不自动确认每种任命均可 100% 自费。大学处理费 300 美元可由部门或访问者承担，院系、保险另计。VMS 要求至少提前九十天，比一般 scholar 的六十天更严格。[本科 research 路径](https://oiss.rice.edu/vsugresearch) 排除已获学士者，其 49% 个人资金限制不自动套给 graduate Academic Visitors；具体资金、学术任命和 2027 费用仍待核实。

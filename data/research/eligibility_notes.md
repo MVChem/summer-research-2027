@@ -914,3 +914,13 @@ Sources: [Guides and Forms](https://www.lamar.edu/international-education/intern
 - [院系证明表](https://case.edu/visa/sites/default/files/2023-06/Department%20Verification%20Form.pdf)排除患者接触、临床／治疗／心理咨询、儿童或老人照护等工作。机器人研究的具体非临床任务及数据权限须单独审核。
 - 现行Intern页面未明确全部个人资金、每月最低财力或本地管理费。2026年学者／雇员表中的个人资金栏目不能自动套用Intern；旧2018表的550美元不能当2027报价。
 - Alexis E. Block的[硕士招募说明](https://engineering.case.edu/research/labs/saphari-lab/about/join-the-lab)以获得CWRU录取／抵达校园为前提，支持论文或志愿研究但不给terminal MS实验室经费；不是外校短访邀请。
+
+<a id="alabama"></a>
+
+## University of Alabama, Tuscaloosa · 明确包含硕士及个人资金的 Student Intern 路径
+
+核查：2026-10-01T05:34:43Z。[现行 Student Intern 表格](https://international.ua.edu/wp-content/uploads/2014/04/J-1_Student_Intern_Packet.pdf) 虽在旧上传路径下，表内更新日期为 **06/2026**；第4页明确列出 **Master’s Degree**，第5页明确接受 **Personal/Family Funds**。当前最低财力为本人每月 **2,000美元**，个人资金需不超过六个月的银行证明，签发 DS-2019 前落实；不能据此假设抵达后另有校方资助，也不是2027最终预算。
+
+[ISSS 现行说明](https://international.ua.edu/isss/international-faculty-staff/j-1-exchange-visitors/) 要求持续在国外攻读学位、项目服务本校学位目标、每周至少32小时；每个学位层级最多12个月，可有薪或无薪。有薪需本校批准；临床/患者接触、航空等受限活动需单独确认。未核实能直接确认或排除约八周访问的学术最低时长。
+
+[主办流程](https://international.ua.edu/isss/international-faculty-staff/determining-the-right-visa-type/) 需导师、院系、Academic Affairs、HR及ISSS办理，实验室/计算资源权限另行申请。现行 Intern 表格要求提前约三个月规划，完整材料后的ISSS阶段至少四周，签证/入境可能更久；并包含研究安全/出口管制审查。实际八周安排、2027名额、费用、财力按月计算及个人资格仍由主办方确认。现行页面另提示移民政策更新，应在办理时重新核实；这属于学校路径，不是导师邀请。

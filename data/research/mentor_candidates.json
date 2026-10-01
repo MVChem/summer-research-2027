@@ -75,6 +75,7 @@
     "batches/control-064.json",
     "batches/control-065.json",
     "batches/control-066.json",
+    "batches/control-067.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -3997,6 +3998,65 @@
       "shortVisitStatus": "precedent-only",
       "recordFile": "batches/control-066.json",
       "detailPage": "batches/control-066.md#marcos-quinones-grueiro"
+    },
+    {
+      "id": "roberto-horowitz",
+      "name": "Roberto Horowitz",
+      "aliases": [
+        "Roberto Horowitz (UC Berkeley)"
+      ],
+      "school": "University of California, Berkeley",
+      "title": "Professor; James Fife Endowed Chair; Director, Autonomy, Robotics, and Control Lab",
+      "homepage": "https://sites.google.com/berkeley.edu/prof-roberto-horowitz/homepage",
+      "batch": "control-067",
+      "discoveredAt": "2026-10-01T05:30:40Z",
+      "verifiedAt": "2026-10-01T05:34:43Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Safe robot learning",
+        "Learned humanoid stopping and recovery",
+        "Geometric learning for manipulation",
+        "Adaptive and robust control",
+        "Robot autonomy"
+      ],
+      "shortVisitStatus": "precedent-only",
+      "recordFile": "batches/control-067.json",
+      "detailPage": "batches/control-067.md#roberto-horowitz"
+    },
+    {
+      "id": "hongsheng-he",
+      "name": "Hongsheng He",
+      "aliases": [
+        "Hongsheng He (University of Alabama)",
+        "Hongsheng He (formerly Wichita State University)"
+      ],
+      "school": "University of Alabama",
+      "title": "Associate Professor; Director, Autonomous Robotics Laboratory",
+      "homepage": "https://he.cs.ua.edu/",
+      "batch": "control-067",
+      "discoveredAt": "2026-10-01T05:32:57Z",
+      "verifiedAt": "2026-10-01T05:34:43Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Task-oriented dexterous reinforcement learning",
+        "Neurosymbolic robotic planning",
+        "Language-grounded multi-robot systems",
+        "Learning and perception for manipulation",
+        "Trustworthy autonomy"
+      ],
+      "shortVisitStatus": "precedent-only",
+      "recordFile": "batches/control-067.json",
+      "detailPage": "batches/control-067.md#hongsheng-he"
     },
     {
       "id": "tom-silver",

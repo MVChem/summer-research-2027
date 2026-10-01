@@ -1,0 +1,226 @@
+[
+  {
+    "id": "roberto-horowitz",
+    "name": "Roberto Horowitz",
+    "aliases": [
+      "Roberto Horowitz (UC Berkeley)"
+    ],
+    "school": "University of California, Berkeley",
+    "homepage": "https://sites.google.com/berkeley.edu/prof-roberto-horowitz/homepage",
+    "title": "Professor; James Fife Endowed Chair; Director, Autonomy, Robotics, and Control Lab",
+    "department": "Mechanical Engineering",
+    "batch": "control-067",
+    "discoveredAt": "2026-10-01T05:30:40Z",
+    "verifiedAt": "2026-10-01T05:34:43Z",
+    "researchAreas": [
+      "Safe robot learning",
+      "Learned humanoid stopping and recovery",
+      "Geometric learning for manipulation",
+      "Adaptive and robust control",
+      "Robot autonomy"
+    ],
+    "fitReason": "Current ARC Lab centers learning, estimation and feedback for robots; directly advised work combines learned stopping, reach-avoid value estimation and physical humanoid execution.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "September 2026 Safe-Stop evaluates a learned stop policy and two stoppability estimators on a physical Unitree G1: five representative clips with 30 attempted repetitions each. Hardware failures are inferred from 50 Hz predictor traces because robot pose was not logged, so these are not independent motion-capture outcome labels. The large OOD success and false-approval headline metrics belong to simulated evaluations. The paper explicitly credits Horowitz with equal advising, and the current ARC roster independently lists lead author Junfeng Long as a PhD student since 2025. The fallback is simple damping; no universal emergency-stop safety guarantee or visitor robot access is established.",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "precedent-only",
+      "summary": "ARC roster lists past visiting scholars in 2022–24 and an empty current Visiting Scholars section. No explicit open external-master short-visit invitation found. The July 2025 soft-robotics visitor notice in the separate Tomizuka Mechanical Systems Control lab is not transferred to Horowitz.",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantive current safe RL, learned value estimation and robotic control.",
+      "physical": "Actual current G1 deployment with both explicit project advising and independent current PhD roster linkage; hardware-label limitation preserved.",
+      "shortVisit": "Only past scholar precedent; no qualifying current visitor invitation.",
+      "freshness": "September 2026 primary hardware paper and current official faculty/lab pages."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "vcresearch.berkeley.edu / source 1",
+        "url": "https://vcresearch.berkeley.edu/faculty/roberto-horowitz",
+        "summary": "Current Professor and James Fife Chair, public email and Fall 2026 teaching.",
+        "verifiedAt": "2026-10-01T05:34:43Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "sites.google.com / source 2",
+        "url": "https://sites.google.com/berkeley.edu/prof-roberto-horowitz/homepage",
+        "summary": "Current ARC robot control/learning agenda and lab identity.",
+        "verifiedAt": "2026-10-01T05:34:43Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "sites.google.com / source 3",
+        "url": "https://sites.google.com/berkeley.edu/prof-roberto-horowitz/people",
+        "summary": "Junfeng Long listed under current PhD students since 2025; past visiting scholars dated 2022–24.",
+        "verifiedAt": "2026-10-01T05:34:43Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2609.02358v1",
+        "summary": "Equal-advising statement and Section 5.3 real-robot check: 150 attempted G1 trials, outcome inference from predictor traces; larger benchmark numbers are simulation.",
+        "verifiedAt": "2026-10-01T05:34:43Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "junfeng-long.github.io / source 5",
+        "url": "https://junfeng-long.github.io/safestop/",
+        "summary": "Primary project page confirms advising and hardware replication; project summary percentages are not treated as hardware-only results.",
+        "verifiedAt": "2026-10-01T05:34:43Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "junfeng-long.github.io / source 6",
+        "url": "https://junfeng-long.github.io/",
+        "summary": "Lead author independently identifies current Berkeley PhD status.",
+        "verifiedAt": "2026-10-01T05:34:43Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      }
+    ],
+    "unknowns": [
+      "Current official faculty profile and Fall 2026 teaching verify the Berkeley appointment; older hard-drive-focused group website is not the current ARC description. Reuse Berkeley VSR feasibility: appointment/category, departmental sponsorship, full-time in-person project, 2027 costs/funding and minimum-length approval remain individual host decisions. Past scholars are not an offer to external master students.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#berkeley-vsr)"
+    ],
+    "publicEmail": "horowitz@berkeley.edu"
+  },
+  {
+    "id": "hongsheng-he",
+    "name": "Hongsheng He",
+    "aliases": [
+      "Hongsheng He (University of Alabama)",
+      "Hongsheng He (formerly Wichita State University)"
+    ],
+    "school": "University of Alabama",
+    "homepage": "https://he.cs.ua.edu/",
+    "title": "Associate Professor; Director, Autonomous Robotics Laboratory",
+    "department": "Computer Science",
+    "batch": "control-067",
+    "discoveredAt": "2026-10-01T05:32:57Z",
+    "verifiedAt": "2026-10-01T05:34:43Z",
+    "researchAreas": [
+      "Task-oriented dexterous reinforcement learning",
+      "Neurosymbolic robotic planning",
+      "Language-grounded multi-robot systems",
+      "Learning and perception for manipulation",
+      "Trustworthy autonomy"
+    ],
+    "fitReason": "Strong physical AI fit through executed contextual-reward-machine PPO grasping and language-to-formal-plan multi-robot research.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "December 2025 CRM-PPO paper executes task-oriented grasping on a dual-UR5e/Husky platform using a Schunk SVH hand, force-sensing glove and RealSense D435 with FoundationPose. It reports 60 physical tests across six affordances after 300 fine-tuning episodes, separate from 1,000 simulated tests. MoveIt2 supplies IK/collision avoidance; manually chosen force thresholds halt fingers and unsupported force/torque observations are zeroed, so transfer is not unmodified end-to-end autonomy. Current ARL roster links coauthors Akhlak Uz Zaman and Hui Li to the directed group. Separate HiP-CL executes locomotion primitives on three Leo Rovers; abstract sampling/analysis actions are not evidence of physical sample manipulation.",
+      "sourceIds": [
+        "s3",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "precedent-only",
+      "summary": "Current ARL team page labels two master students as Visiting Students, without dates or appointment details. Live hiring advertises traditional/online PhD programs, and Connect is general contact only. No explicit current external-master eight-week offer or summer 2027 capacity verified.",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct learned dexterous manipulation and neurosymbolic multi-robot planning, with practical embodiment.",
+      "physical": "Primary executed PPO grasping plus current PI/lab-student linkage; algorithmic and manual components are explicit.",
+      "shortVisit": "Master visitors are precedent only; positive institutional policy is not a laboratory vacancy.",
+      "freshness": "December 2025 physical PPO preprint, 2026 HiP-CL publication and current official faculty/ARL pages."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "eng.ua.edu / source 1",
+        "url": "https://eng.ua.edu/eng-directory/dr-hongsheng-he/",
+        "summary": "Current Associate Professor, ARL director, expertise and central contact.",
+        "verifiedAt": "2026-10-01T05:34:43Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "he.cs.ua.edu / source 2",
+        "url": "https://he.cs.ua.edu/",
+        "summary": "Current lab and PhD-focused hiring; public lab email.",
+        "verifiedAt": "2026-10-01T05:34:43Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "he.cs.ua.edu / source 3",
+        "url": "https://he.cs.ua.edu/team.html",
+        "summary": "Current PhD coauthors and graduated Hui Li; two named visiting master students without dates.",
+        "verifiedAt": "2026-10-01T05:34:43Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "he.cs.ua.edu / source 4",
+        "url": "https://he.cs.ua.edu/connect.html",
+        "summary": "General lab contact, not a short-visitor invitation.",
+        "verifiedAt": "2026-10-01T05:34:43Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2512.10235v1",
+        "summary": "Sections V-A/V-C actual robot setup, real fine-tuning/testing, FoundationPose, force-sensor limitations and manual protective thresholds.",
+        "verifiedAt": "2026-10-01T05:34:43Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "link.springer.com / source 6",
+        "url": "https://link.springer.com/article/10.1007/s44230-025-00130-5",
+        "summary": "2026 HiP-CL: learned language translation/formal planning and three real Leo Rovers; primitive versus abstract actions explicitly distinguished.",
+        "verifiedAt": "2026-10-01T05:34:43Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "international.ua.edu / source 7",
+        "url": "https://international.ua.edu/wp-content/uploads/2014/04/J-1_Student_Intern_Packet.pdf",
+        "summary": "Live June 2026 packet: explicit master’s selection and personal/family funding; institutional pathway separate from PI offer.",
+        "verifiedAt": "2026-10-01T05:34:43Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      }
+    ],
+    "unknowns": [
+      "Use new Alabama supplement: June 2026 J-1 Student Intern packet explicitly includes master’s degrees and personal/family funds, with current $2,000/month minimum. It still requires continuing overseas enrollment, degree-linked training, host approvals, research-security/export review, insurance and documented funding. Eight-week duration, 2027 financial amounts, exact access and PI acceptance remain unknown. Central faculty directory also lists hhe11@ua.edu; lab/paper use hongsheng.he@ua.edu. Do not confuse prior Wichita State affiliation with the current Alabama host.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#alabama)"
+    ],
+    "publicEmail": "hongsheng.he@ua.edu"
+  }
+]

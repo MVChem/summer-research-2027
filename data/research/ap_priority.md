@@ -38,7 +38,7 @@
 | [Chenfeng Xu](batches/embodied-003.md#chenfeng-xu) · The University of Texas at Austin | Assistant Professor (faculty directory also uses incoming in biography)；**任职起始时间尚未单独核实**  | 73（39/20/0/14） | **时长、2027容量、经费与主办批准另核**；unknown |
 | [Karthik Mahadevan](batches/hri-003.md#karthik-mahadevan) · Massachusetts Institute of Technology (current postdoc); University of Texas at Austin (incoming Spring 2027) | Incoming Assistant Professor; current MIT postdoctoral researcher；**任职起始时间尚未单独核实**  | 73（38/20/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |
 
-## 其他 AP；入职年待核或较早（192）
+## 其他 AP；较早任职、转校或入职年待核（192）
 
 | 导师 / 学校 | 准确任职与入职证据 | 原分数：匹配/真机/访问/新鲜 | 访问与时点提醒 |
 |---|---|---|---|
@@ -249,7 +249,7 @@
 
 ## 日期核查口径
 
-职级与研究来源见逐人详情；新的入职时间核查单独记录于 priority_notes.json，不把本次排序修改伪装成全套来源重查。日精度仅用于来源明确给出日的情况；新闻发布日期不自动等于入职日。
+职级与研究来源见逐人详情；新的入职时间核查单独记录于 priority_notes.json，不把本次排序修改伪装成全套来源重查。日精度仅用于来源明确给出日的情况；新闻发布日期不自动等于入职日。日期通常指当前机构的任职开始，不能自动当作首次faculty任职；已知此前任职的转校者另列。来源冲突可保留年份区间与两种具体说法，不强行选择一天。
 
 - Neel P. Bhatt：[来源](https://syse.utdallas.edu/ourteam/staff/neel-p-bhatt/) · Current Assistant Professor and explicit Fall2026 team arrival; complete direct HTML read after web extraction was unavailable.（核查 2026-10-01T12:09:13Z）
 - Neel P. Bhatt：[来源](https://neel1302.github.io/) · Current role; author news says August2026 appointment; full openings section separately welcomes visiting students/interns and specifies application contents. Top banner explicitly includes Summer2027 while lower section still says Fall2026/Spring2027.（核查 2026-10-01T12:12:56Z）

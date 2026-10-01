@@ -379,5 +379,19 @@ class ResearchLedgerTests(unittest.TestCase):
         self.assertNotIn('simon-b-stepputtis', {r['id'] for r in self.full['candidates']})
 
 
+    def test_recent_move_is_not_first_career_ap_tier(self):
+        row = copy.deepcopy(self.full['candidates'][0]); row['title'] = 'Assistant Professor'
+        notes = {'appointments':{row['id']:{'appointmentStart':{'year':2024,'status':'current','appointmentType':'institution-move'}}}, 'constraints':[]}
+        self.assertEqual(ledger.priority_tier(row, notes), 3)
+
+    def test_conflicting_date_range_retains_bounds(self):
+        notes = copy.deepcopy(ledger.priority_notes())
+        start = notes['appointments']['tom-silver']['appointmentStart']
+        start.update({'year':2025,'endYear':2026,'precision':'range'})
+        ledger.validate_priority_notes(notes, self.full)
+        start['endYear'] = 2024
+        with self.assertRaises(AssertionError): ledger.validate_priority_notes(notes, self.full)
+
+
 if __name__ == "__main__":
     unittest.main()

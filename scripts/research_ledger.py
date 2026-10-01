@@ -183,7 +183,7 @@ def cell(value):
 
 PRIORITY_LABELS = {
     0: "近期已到岗 AP（2024起）", 1: "暑期前明确拟到岗 AP", 2: "拟到岗/职级时点待核 AP",
-    3: "其他 AP；入职年待核或较早", 4: "其他教师与研究导师", 5: "较长访问偏好；降低首联优先级",
+    3: "其他 AP；较早任职、转校或入职年待核", 4: "其他教师与研究导师", 5: "较长访问偏好；降低首联优先级",
     6: "明确至少三个月；降低首联优先级", 7: "当前明确暂停相关访问/暑期入口",
 }
 
@@ -208,6 +208,8 @@ def priority_tier(row, notes):
     if not is_assistant_professor(row):
         return 4
     start = notes.get("appointments", {}).get(row["id"], {}).get("appointmentStart", {})
+    if start.get("appointmentType") == "institution-move":
+        return 3
     if start.get("status") == "current" and start.get("year", 0) >= 2024:
         return 0
     if start.get("status") == "incoming":
@@ -247,9 +249,10 @@ def validate_priority_notes(notes, data):
         if start:
             assert start["sourceIds"] and set(start["sourceIds"]) <= source_ids, "Dangling appointment source reference"
             assert start["status"] in {"current", "incoming", "unresolved"}
-            assert start["precision"] in {"year", "month", "day", "academic-year", "unknown"}
+            assert start["precision"] in {"year", "month", "day", "academic-year", "range", "unknown"}
             if start["precision"] not in {"unknown"}:
                 assert isinstance(start["year"], int) and 1900 <= start["year"] <= 2100
+            if start["precision"] == "range": assert start["year"] <= start["endYear"] <= 2100
             if start["precision"] in {"month", "day"}: assert 1 <= start["month"] <= 12
             if start["precision"] == "day": assert 1 <= start["day"] <= 31
     seen = set()
@@ -293,7 +296,7 @@ def render_ap_priority(data, notes):
             scores = "/".join(str(r["scores"][k]) for k in CAPS)
             lines.append(f"| [{cell(r['name'])}](batches/{r['batch']}.md#{r['id']}) · {cell(r['school'])} | {cell(r['title'])}；**{cell(start)}** {sources} | {sum(r['scores'].values())}（{scores}） | **{cell(warning)}**；{cell(r['shortVisit']['status'])} |")
         lines.append("")
-    lines += ["## 日期核查口径", "", "职级与研究来源见逐人详情；新的入职时间核查单独记录于 priority_notes.json，不把本次排序修改伪装成全套来源重查。日精度仅用于来源明确给出日的情况；新闻发布日期不自动等于入职日。", ""]
+    lines += ["## 日期核查口径", "", "职级与研究来源见逐人详情；新的入职时间核查单独记录于 priority_notes.json，不把本次排序修改伪装成全套来源重查。日精度仅用于来源明确给出日的情况；新闻发布日期不自动等于入职日。日期通常指当前机构的任职开始，不能自动当作首次faculty任职；已知此前任职的转校者另列。来源冲突可保留年份区间与两种具体说法，不强行选择一天。", ""]
     for identity, entry in notes["appointments"].items():
         row = next(r for r in data["candidates"] if r["id"] == identity)
         for src in entry["sources"]:

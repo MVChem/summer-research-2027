@@ -63,6 +63,7 @@
     "batches/control-052.json",
     "batches/control-053.json",
     "batches/control-054.json",
+    "batches/control-055.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -3327,6 +3328,62 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-054.json",
       "detailPage": "batches/control-054.md#arash-adel"
+    },
+    {
+      "id": "abhishek-cauligi",
+      "name": "Abhishek Cauligi",
+      "aliases": [],
+      "school": "Johns Hopkins University",
+      "title": "Assistant Professor; Principal Investigator, Autonomous Control & Exploration Lab",
+      "homepage": "https://acelab.me.jhu.edu/",
+      "batch": "control-055",
+      "discoveredAt": "2026-10-01T03:14:07Z",
+      "verifiedAt": "2026-10-01T03:19:18Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Learning-based optimal control",
+        "Neural trajectory optimization",
+        "Safe robot decision-making",
+        "Space robotics",
+        "Vision-language multi-robot exploration"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-055.json",
+      "detailPage": "batches/control-055.md#abhishek-cauligi"
+    },
+    {
+      "id": "joseph-moore",
+      "name": "Joseph Moore",
+      "aliases": [
+        "Joseph L. Moore"
+      ],
+      "school": "Johns Hopkins University",
+      "title": "Assistant Professor; Director, Agile and Intelligent Robotics Laboratory",
+      "homepage": "https://airo.lcsr.jhu.edu/",
+      "batch": "control-055",
+      "discoveredAt": "2026-10-01T03:14:07Z",
+      "verifiedAt": "2026-10-01T03:19:18Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Safe reinforcement learning",
+        "Perception-based robot navigation",
+        "Stochastic model predictive control",
+        "Agile aerial robotics",
+        "Multi-robot planning"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-055.json",
+      "detailPage": "batches/control-055.md#joseph-moore"
     },
     {
       "id": "tom-silver",

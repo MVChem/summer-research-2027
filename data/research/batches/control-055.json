@@ -1,0 +1,216 @@
+[
+  {
+    "id": "abhishek-cauligi",
+    "name": "Abhishek Cauligi",
+    "aliases": [],
+    "school": "Johns Hopkins University",
+    "homepage": "https://acelab.me.jhu.edu/",
+    "title": "Assistant Professor; Principal Investigator, Autonomous Control & Exploration Lab",
+    "department": "Mechanical Engineering",
+    "batch": "control-055",
+    "discoveredAt": "2026-10-01T03:14:07Z",
+    "verifiedAt": "2026-10-01T03:19:18Z",
+    "researchAreas": [
+      "Learning-based optimal control",
+      "Neural trajectory optimization",
+      "Safe robot decision-making",
+      "Space robotics",
+      "Vision-language multi-robot exploration"
+    ],
+    "fitReason": "Direct machine-learning/optimization integration for autonomous robots, including an executed neural-warm-start planner in space, with an active new academic group and aerial test facility.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The November 2025 primary paper reports February 2025 flight tests on NASA Astrobee aboard the ISS, plus ground tests at NASA Ames. A supervised feedforward network supplies trajectory initializations; GuSTO sequential convex programming enforces constraints and the robot executes the result. The flight session executed 18 trajectories, with onboard network inference. This is Stanford/NASA collaborative hardware predating the July 2025 JHU start, not JHU-owned Astrobee equipment. July 2026 Robodrome infrastructure is current, but planned local ML flight work is not counted as a completed new deployment.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current ACE joining page covers PhD applicants and undergraduate/MS students already at JHU. General collaboration and open lab-meeting wording does not establish an external-master’s visitor appointment. The current roster includes a visiting Fulbright PhD student, which is scoped precedent only.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantive neural trajectory optimization and safe autonomous robot decision-making.",
+      "physical": "Concrete 2025 flight execution, but on prior/collaborative NASA–Stanford hardware; new JHU infrastructure does not prove a completed local learned deployment.",
+      "shortVisit": "No current external-master’s short-visitor invitation; visiting PhD precedent earns no points.",
+      "freshness": "Official July 2026 Robodrome activity and current 2026 laboratory publications/people, distinguished from the February 2025 flight date."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "me.jhu.edu / source 1",
+        "url": "https://me.jhu.edu/faculty/abhishek-cauligi/",
+        "summary": "Official current Assistant Professor since summer 2025, research and public cauligi@jhu.edu.",
+        "verifiedAt": "2026-10-01T03:19:18Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "acelab.me.jhu.edu / source 2",
+        "url": "https://acelab.me.jhu.edu/people/",
+        "summary": "Current PI and graduate advisees; visiting Fulbright PhD is not an open invitation.",
+        "verifiedAt": "2026-10-01T03:19:18Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "acelab.me.jhu.edu / source 3",
+        "url": "https://acelab.me.jhu.edu/join/",
+        "summary": "PhD admissions and current-JHU undergraduate/MS rotation intake; no external-master’s visitor route.",
+        "verifiedAt": "2026-10-01T03:19:18Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "acelab.me.jhu.edu / source 4",
+        "url": "https://acelab.me.jhu.edu/publications/",
+        "summary": "Current 2026 learning/adaptive-control and multi-robot work. Titles alone are not counted as physical deployments.",
+        "verifiedAt": "2026-10-01T03:19:18Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2505.05588v3",
+        "summary": "Full primary text, November 2025 revision: supervised neural warm starts and actual February 2025 NASA Astrobee flight/ground tests. Physical obstacles in tests include commanded virtual obstacle geometry; planner still relies on SCP and existing flight control.",
+        "verifiedAt": "2026-10-01T03:19:18Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "lcsr.jhu.edu / source 6",
+        "url": "https://lcsr.jhu.edu/news/new-drone-arena-helps-scientists-design-aerial-robots-for-cities-and-spaceflight/",
+        "summary": "July 14, 2026 official report confirms both faculty founded the 3,800-square-foot Robodrome; actual drone infrastructure and planned learning/control experiments. A facility announcement is not proof those new learned flight experiments were completed.",
+        "verifiedAt": "2026-10-01T03:19:18Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      }
+    ],
+    "unknowns": [
+      "Local JHU MS research rotations and PhD admissions cannot be treated as short-visit eligibility. Any eight-week external appointment, project, funding and laboratory access need host and institutional confirmation. NASA or ISS hardware access is not inferred from the published collaboration. Reuse separately verified JHU institutional policy; it does not confirm individual acceptance.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "cauligi@jhu.edu"
+  },
+  {
+    "id": "joseph-moore",
+    "name": "Joseph Moore",
+    "aliases": [
+      "Joseph L. Moore"
+    ],
+    "school": "Johns Hopkins University",
+    "homepage": "https://airo.lcsr.jhu.edu/",
+    "title": "Assistant Professor; Director, Agile and Intelligent Robotics Laboratory",
+    "department": "Mechanical Engineering",
+    "batch": "control-055",
+    "discoveredAt": "2026-10-01T03:14:07Z",
+    "verifiedAt": "2026-10-01T03:19:18Z",
+    "researchAreas": [
+      "Safe reinforcement learning",
+      "Perception-based robot navigation",
+      "Stochastic model predictive control",
+      "Agile aerial robotics",
+      "Multi-robot planning"
+    ],
+    "fitReason": "Strong safe RL and real-robot navigation overlap: learned value functions augment a statistical MPC controller, rather than remaining purely theoretical.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "June 2025 primary revision of the ACC 2025 study executes PAC-NMPC with an RL-trained perception-based value function on a physical 1/10-scale Traxxas Rally Car using Velodyne Puck LITE LiDAR in a motion-capture barrel-obstacle area. The same paper’s fixed-wing learned navigation results are simulations, not physical flight. The work originated in 2023 and spans JHU/APL collaborators; current AIRO roster includes its graduate authors. July 2026 Robodrome confirms local aerial infrastructure but not a new completed RL flight experiment.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current official faculty and AIRO pages establish PI status, graduate/MSE advisees and active 2025 publication news. No explicit external-master’s summer visitor or internship invitation found in the reviewed public pages.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct safe RL, learned perception/value inference and computational robot control.",
+      "physical": "Named physical car and executed learned-value MPC, with older/collaborative origins rather than a newly verified own-lab 2026 learning experiment.",
+      "shortVisit": "No current external short-visitor invitation verified.",
+      "freshness": "July 2026 official facility activity, current roster and ACC 2025 research; no claim that the car experiments occurred in 2026."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "me.jhu.edu / source 1",
+        "url": "https://me.jhu.edu/faculty/joseph-moore/",
+        "summary": "Official current Assistant Professor, AIRO director, bridging APL faculty and public jlmoore@jhu.edu.",
+        "verifiedAt": "2026-10-01T03:19:18Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "airo.lcsr.jhu.edu / source 2",
+        "url": "https://airo.lcsr.jhu.edu/people/",
+        "summary": "Current lab PI and graduate/MSE advisees, including Polevoy and Gonzales; no short-visitor opening listed.",
+        "verifiedAt": "2026-10-01T03:19:18Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "airo.lcsr.jhu.edu / source 3",
+        "url": "https://airo.lcsr.jhu.edu/author/jmoor123/",
+        "summary": "Current lab news records ACC 2025 presentation of learned-value PAC-NMPC.",
+        "verifiedAt": "2026-10-01T03:19:18Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2309.13171v3",
+        "summary": "June 10, 2025 revision, actual Traxxas/LiDAR experiments in Section VI. Fixed-wing Section V-D is simulation; statistical guarantees depend on model and uncertainty assumptions.",
+        "verifiedAt": "2026-10-01T03:19:18Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "lcsr.jhu.edu / source 5",
+        "url": "https://lcsr.jhu.edu/news/new-drone-arena-helps-scientists-design-aerial-robots-for-cities-and-spaceflight/",
+        "summary": "July 14, 2026 official report confirms both faculty founded the 3,800-square-foot Robodrome; actual drone infrastructure and planned learning/control experiments. A facility announcement is not proof those new learned flight experiments were completed.",
+        "verifiedAt": "2026-10-01T03:19:18Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      }
+    ],
+    "unknowns": [
+      "Full-time JHU faculty status supersedes older APL-only descriptions; a bridging APL appointment remains. Institution-level JHU visitor mechanisms do not establish this lab’s acceptance, project access, funding or eight-week availability. Do not infer that visiting students may access all APL-related projects.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "jlmoore@jhu.edu"
+  }
+]

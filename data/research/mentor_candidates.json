@@ -165,6 +165,7 @@
     "batches/embodied-071.json",
     "batches/embodied-072.json",
     "batches/embodied-073.json",
+    "batches/embodied-074.json",
     "batches/embodied-075.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
@@ -8967,6 +8968,64 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-073.json",
       "detailPage": "batches/embodied-073.md#david-alexander-forsyth"
+    },
+    {
+      "id": "laszlo-a-jeni",
+      "name": "László A. Jeni",
+      "aliases": [
+        "Laszlo A. Jeni",
+        "Laszlo Attila Jeni",
+        "Laszlo Jeni"
+      ],
+      "school": "Carnegie Mellon University",
+      "title": "Associate Research Professor",
+      "homepage": "https://www.ri.cmu.edu/ri-faculty/laszlo-attila-jeni/",
+      "batch": "embodied-074",
+      "discoveredAt": "2026-10-01T07:05:23Z",
+      "verifiedAt": "2026-10-01T07:07:22Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Geometrically supervised vision-language-action models",
+        "4D scene and human representations",
+        "Multimodal embodied perception",
+        "Robot world-dynamics learning"
+      ],
+      "discoveryTimestampNote": "First precisely retained primary encounter in the 2026 CMU/Fujitsu physical-AI center announcement; full candidate screen followed.",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-074.json",
+      "detailPage": "batches/embodied-074.md#laszlo-a-jeni"
+    },
+    {
+      "id": "ramesh-karri",
+      "name": "Ramesh Karri",
+      "aliases": [],
+      "school": "New York University",
+      "title": "Professor of ECE; Department Chair",
+      "homepage": "https://engineering.nyu.edu/faculty/ramesh-karri",
+      "batch": "embodied-074",
+      "discoveredAt": "2026-10-01T07:06:08Z",
+      "verifiedAt": "2026-10-01T07:09:08Z",
+      "scores": {
+        "fit": 35,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "3D vision-language-action models",
+        "Language-conditioned robotic grasping",
+        "Object-interaction reasoning",
+        "Trustworthy AI and cyber-physical systems"
+      ],
+      "discoveryTimestampNote": "Earliest precisely retained primary encounter in Pri4R’s3D-CAVLA reference; dedicated Karri faculty screen began07:07:47Z. Earlier incidental un-timed coauthor exposure is not reconstructed.",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-074.json",
+      "detailPage": "batches/embodied-074.md#ramesh-karri"
     },
     {
       "id": "pratyusha-sharma",

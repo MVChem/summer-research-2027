@@ -18,7 +18,7 @@
 | 8 | [Mark W. Mueller](batches/control-002.md#mark-w-mueller) · University of California, Berkeley | 88 (38/25/10/15) | inquiry-only | 2026-09-30T21:28:26Z | 2026-09-30T21:31:39Z |
 | 9 | [Negar Mehr](batches/control-001.md#negar-mehr) · University of California, Berkeley | 87 (39/25/8/15) | inquiry-only | 2026-09-30T21:21:57Z | 2026-09-30T21:24:34Z |
 | 10 | [Tesca Fitzgerald](batches/hri-003.md#tesca-fitzgerald) · Yale University | 87 (39/25/8/15) | inquiry-only · Yale VAR资助/论文条件 | 2026-09-30T21:36:19Z | 2026-09-30T22:33:54Z |
-| 11 | [Byung-Cheol Min](batches/hri-016.md#byung-cheol-min) · Indiana University Bloomington | 87 (39/25/8/15) | inquiry-only | 2026-09-30T23:26:25Z | 2026-09-30T23:30:54Z |
+| 11 | [Byung-Cheol Min](batches/hri-016.md#byung-cheol-min) · Indiana University Bloomington | 87 (39/25/8/15) | inquiry-only | 2026-09-30T23:26:25Z | 2026-10-01T00:19:26Z |
 | 12 | [Lifeng Zhou](batches/embodied-025.md#lifeng-zhou) · Drexel University | 87 (39/25/8/15) | inquiry-only | 2026-10-01T00:14:07Z | 2026-10-01T00:15:41Z |
 | 13 | [Somil Bansal](batches/control-001.md#somil-bansal) · Stanford University | 87 (39/23/10/15) | inquiry-only | 2026-09-30T21:21:51Z | 2026-09-30T21:24:34Z |
 | 14 | [Patrícia Alves-Oliveira](batches/hri-005.md#patricia-alves-oliveira) · University of Michigan | 87 (37/25/10/15) | inquiry-only | 2026-09-30T21:54:18Z | 2026-09-30T21:58:49Z |

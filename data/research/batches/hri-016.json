@@ -12,7 +12,7 @@
     "department": "Computer Science and Intelligent Systems Engineering; SMART Lab",
     "batch": "hri-016",
     "discoveredAt": "2026-09-30T23:26:25Z",
-    "verifiedAt": "2026-09-30T23:30:54Z",
+    "verifiedAt": "2026-10-01T00:19:26Z",
     "researchAreas": [
       "Human-robot teams",
       "Robot learning and human preferences",
@@ -23,7 +23,7 @@
     "fitReason": "Strong overlap with CS methods for embodied AI: human-aware learning, language-based task planning, uncertainty estimation, and actual robot execution. The September 2026 touch-based manipulation study offers a concrete software/evaluation direction; the lab's human-preference work broadens HRI fit.",
     "physicalEvidence": {
       "status": "public-hardware-evidence",
-      "summary": "The September 24, 2026 primary preprint Audit Before You Commit identifies both authors with IU SMART Lab. Section V-D describes a physical Hiwonder JetRover five-DOF arm using a touch switch to locate a rigid pocket and perform one-shot insertion. The experiment runs particle-based belief updating and scenario-based action selection over 118 episodes. The separate April 2026 SafeGate LLM-robot paper still identifies the team with Purdue, so its hardware is not attributed to IU.",
+      "summary": "The September 24, 2026 primary preprint Audit Before You Commit identifies both authors with IU SMART Lab. Section V-D describes a physical Hiwonder JetRover five-DOF arm using a touch switch to locate a rigid pocket and perform one-shot insertion. The experiment runs particle-based belief updating and scenario-based action selection over 118 episodes. The separate April 2026 SafeGate LLM-robot paper still identifies the team with Purdue, so its hardware is not attributed to IU. Probe positions follow a frozen grid schedule; injected-error analyses replay recorded tap readings rather than demonstrating a learned adaptive probing policy.",
       "sourceIds": [
         "s1",
         "s2",
@@ -94,15 +94,15 @@
         "id": "s5",
         "label": "arxiv.org / source 5",
         "url": "https://arxiv.org/html/2609.30608v1",
-        "summary": "Primary September 24, 2026 preprint; Section V-D specifies JetRover arm, tactile sensing, actual insertion and 118 physical episodes.",
-        "verifiedAt": "2026-09-30T23:30:54Z"
+        "summary": "Primary September 24, 2026 preprint; Section V-D specifies JetRover arm, tactile sensing, actual insertion and 118 physical episodes. Independent recheck confirms frozen-grid probes and replay-based injected-error analysis.",
+        "verifiedAt": "2026-10-01T00:19:26Z"
       },
       {
         "id": "s6",
         "label": "arxiv.org / source 6",
         "url": "https://arxiv.org/pdf/2609.30608",
-        "summary": "Page 1 explicitly affiliates both authors with IU SMART Lab and describes submitted status; HTML omits this affiliation footnote.",
-        "verifiedAt": "2026-09-30T23:30:54Z"
+        "summary": "Page 1 explicitly affiliates both authors with IU SMART Lab and describes submitted status; HTML omits this affiliation footnote. Independent recheck confirms frozen-grid probes and replay-based injected-error analysis.",
+        "verifiedAt": "2026-10-01T00:19:26Z"
       },
       {
         "id": "s7",
@@ -124,7 +124,8 @@
       "The visitor invitation is broad and duration-unspecified. An approximately eight-week external master's research plan, supervision and funding require approval.",
       "Existing IU institutional notes describe a conditional foreign-degree J-1 Student Intern route, at least 32 hours per week and advance departmental processing. This does not establish personal-funding acceptability or category approval for graduate visitors.",
       "The September study is a preprint submitted for possible publication. Its project page labels ICRA 2027, but acceptance is not established. Its offline audit is not a deployment-wide safety guarantee.",
-      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Later source rechecking retains the physical and visit scores; its method clarification does not establish adaptive probing or a runtime safety guarantee."
     ],
     "publicEmail": "minb@iu.edu"
   }

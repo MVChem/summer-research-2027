@@ -54,5 +54,5 @@
   - [arxiv.org / source 4](https://arxiv.org/html/2606.29201v1)：Primary Behavior Uncloning paper, dated 2026: real Franka protocol, simulation/physical separation, deployment-success versus task-completion distinction.（核查 2026-10-01T00:03:16Z；读取方式 direct-primary-page）
   - [behavior-uncloning.github.io / source 5](https://behavior-uncloning.github.io/)：Primary project shows the robot policy-editing work and author affiliation.（核查 2026-10-01T00:03:16Z；读取方式 direct-primary-page）
   - [arxiv.org / source 6](https://arxiv.org/html/2603.19229v1)：NavTrust section IV-D: collaborative physical RealMan navigation and robustness mitigations.（核查 2026-10-01T00:03:16Z；读取方式 direct-primary-page）
-  - [MoRE lead author supervision](https://haohww.github.io/)：MoRE lead author Hao Wang identifies Fan as his current TAMU PhD advisor, supporting a current-group hardware connection; shared equipment access still requires confirmation.（核查 2026-10-01T00:19:26Z；读取方式 direct-primary-page; independent audit005）
+  - [MoRE lead author supervision](https://haohww.github.io/)：MoRE lead author Hao Wang identifies Fan as his current TAMU PhD advisor, supporting a current-group hardware connection; shared equipment access still requires confirmation.（核查 2026-10-01T00:19:26Z；读取方式 direct-primary-page; independently rechecked）
 

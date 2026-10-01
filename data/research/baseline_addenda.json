@@ -34,6 +34,20 @@
           "evidence": "Non-USC student section separates official paid programs (dated2026), self-funded internships expected at least ten weeks, and exceptional remote work."
         }
       ]
+    },
+    {
+      "baselineId": 46,
+      "name": "Shubham Tulsiani",
+      "observedAt": "2026-10-01T00:42:48Z",
+      "eventType": "later-public-source-verification-not-discovery",
+      "finding": "The current personal homepage explicitly states no short-term intern/visitor positions are available at this time. Generic PhD/MS admissions and current-CMU research instructions are separate. The statement is undated; this observation is not a permanent closure or a confirmed summer2027 refusal.",
+      "sources": [
+        {
+          "url": "https://shubhtuls.github.io/",
+          "retrieval": "direct-primary-page",
+          "evidence": "Research Group prospective-student FAQ explicitly addresses interns/visitors and says no short-term positions at this time."
+        }
+      ]
     }
   ]
 }

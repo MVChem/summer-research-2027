@@ -854,3 +854,24 @@ Sources: [Guides and Forms](https://www.lamar.edu/international-education/intern
 国际访客须先做 Export Control review，可能耗时四周以上；这不等于全部任命与签证总办理时间。当前链接的两个 Box DS-2019 表地址读取失败，未用旧表代替。准确时长、个人资金比例、费用支付方、实验室训练及系统访问仍需确认。
 
 [Other Visitors](https://isss.rpi.edu/exchange-visitors-scholars/other-visitors) 区分观察/咨询性独立研究与动手协作、受指导研究；不能因无薪或停留短就把 B-1 视作替代途径。[现有 J-1 访客指引](https://isss.rpi.edu/exchange-students-scholars/current-j-1-exchange-visitors) 另要求持续医疗、撤离及遗体运返保险，保费及其他学校费用未核实。上述制度不代表任何导师提供 2027 约八周名额。
+
+<a id="uc-davis"></a>
+## UC Davis · 研究生 WOS 任命存在，签证类别与费用支付方待定
+
+核查 2026-10-01T04:32:37Z。[Academic Affairs 当前 UCPath 指引](https://academicaffairs.ucdavis.edu/ucpath-guidance) 区分 Visiting Graduate (WOS), CWR003 与 Visiting Undergraduate (WOS), CWR016；这证明行政类别存在，不等于任何申请人已获批准。[SISS J-1 类别](https://siss.ucdavis.edu/j-1-categories-bars) 的 Short-Term Scholar 为一天至六个月、Research Scholar 为三周至五年，通常要求学士及相应经验。约八周在时长范围内，但学术任命、实际活动及移民类别应由院系/SISS 分别核定。
+
+该页未获学士的本科 Non-Degree 路径至少 50% 非个人资金条件，不能直接套用于硕士，也不能反向推定硕士完全个人支持已批准。[BFTV 旧指南](https://www.bftv.ucdavis.edu/sites/g/files/dgvnsk1346/files/2021-10/Inviting%20Visiting%20Researchers%20to%20the%20BFTV%20Cluster.pdf) 将 graduate/undergraduate 括号解释对调，应以当前中央代码表为准；该 cluster 的流程不自动等同工程其他院系。
+
+[SISS 现行总览](https://siss.ucdavis.edu/j-1-visa) 单人支持额每月 $2,400，另要求保险；这是财力证明，不是学费账单或充分生活预算。至少 60% 线下活动也不证明海外远程研究任命。[费率页](https://siss.ucdavis.edu/department-overview) 列 $727 J-1 新办/延期费用并把 J-1 排除在“访客不得支付”规则之外；[邀请流程](https://siss.ucdavis.edu/inviting-j-1-scholar) 却规定院系负责 recharge，支付方须明确解决。2027 金额、个人资金比例、保险及其他费用仍待确认。
+
+完整 DS-2019 请求宜提前三个月、不得晚于 60 天，不能当作批准或出签保证。邀请应明确支持、时间、空间、设备及合作安排。[Visiting Academic Collaborators](https://siss.ucdavis.edu/visiting-academic-collaborators) 区分真正独立研究和需要学校 J-1 的协作研究，不是受指导暑研的 B-1 替代途径。学校框架不代表导师名额。
+
+<a id="uc-irvine"></a>
+
+## UC Irvine · 外校研究生 Visitor 与签证类别需分别确认
+
+核查：2026-10-01T05:00:39Z。[Academic Personnel 现行规则](https://ap.uci.edu/resources/visitorsandvisitingscholars/) 明确允许非 UC 学校在读研究生使用 Visitor 任命；与要求终结学位的 Visiting Scholar 不同。该任命最长一年、不可续期，未列最低时长，可由个人或外部资金支持，不是受薪雇员；需导师、院系及 Dean 批准、在读证明、保险和相关培训。八周符合已公布的 Research Scholar / Short-Term Scholar 时长范围，但实际签证类别与个人适用性须 International Center 批准。
+
+[2026 年 9 月 23 日版院系 DS-2019 表](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/4/5424/files/2026/09/J-1ScholarInitialDS-2019DocumentRequest.pdf) 将至少 51% 非个人资金条件列于其本科生 Non-Degree Student 类别；[Scholar 资金页面](https://ic.uci.edu/scholar-home-page/scholars/new-j-1-scholars/j-1-scholar-financial-documentation/) 接受个人／家庭资金材料，不能把任一规则直接推广为所有硕士访问的批准或禁令。当前单人支持基准为每月 2,500 美元，表内已考虑保险等基本开支，这是财力证明基准而非学校账单；两个月示例为 5,000 美元，精确日期、实际生活成本及 2027 金额另核实。
+
+[院系邀请流程](https://ic.uci.edu/departments/department-j-1-scholar/department-j-1-scholar-inviting-a-j-1-scholar/) 建议提前 60–90 天，完整申请后通常 15 个工作日处理文件，另需出口管制及适用的研究安全审查。[当前链接的 recharge 表](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/4/5424/files/2024/01/RechargeFormforJ-1andH-1B-2b6303f25d092414.pdf) 列 50 美元 J-1 院系处理费，但表格修订于 2022 年，2027 实际金额和承担方待确认。J-1 须主要线下，不能视为全远程访问方案。机构路径不代表导师名额，也不覆盖实验室自己的最低访问时长。

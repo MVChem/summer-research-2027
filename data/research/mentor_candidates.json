@@ -102,6 +102,7 @@
     "batches/control-091.json",
     "batches/control-092.json",
     "batches/control-093.json",
+    "batches/control-095.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -5423,6 +5424,36 @@
       "shortVisitStatus": "incompatible · 当前3–9个月；旧暑期至少9周且需工作许可",
       "recordFile": "batches/control-093.json",
       "detailPage": "batches/control-093.md#hakki-erhan-sevil"
+    },
+    {
+      "id": "xuan-wang",
+      "name": "Xuan Wang",
+      "aliases": [
+        "Xuan Wang (George Mason ECE)"
+      ],
+      "school": "George Mason University",
+      "title": "Assistant Professor",
+      "homepage": "https://mason.gmu.edu/~xwang64/index.html",
+      "batch": "control-095",
+      "discoveredAt": "2026-10-01T10:38:48Z",
+      "verifiedAt": "2026-10-01T10:44:03Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Context-aware robot transfer learning",
+        "Safe learning and control",
+        "Multi-robot reinforcement learning",
+        "Human-in-the-loop autonomous systems"
+      ],
+      "physicalEvidenceStatus": "Current directed-group collaborative physical RL; manual data collection and autonomous policy trials distinguished",
+      "physicalEvidenceLabel": "受限真机证据：Current directed-group collaborative physical RL; manual data collection and autonomous policy trials distinguished",
+      "shortVisitStatus": "inquiry-only · generic intern；GMU不赞助intern身份，硕士类别未定",
+      "recordFile": "batches/control-095.json",
+      "detailPage": "batches/control-095.md#xuan-wang"
     },
     {
       "id": "tom-silver",

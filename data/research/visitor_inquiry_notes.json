@@ -601,6 +601,13 @@
         "s3",
         "s4"
       ]
+    },
+    "xuan-wang": {
+      "note": "一般intern邀请；GMU不赞助intern身份、不可纯个人资助；硕士其他类别待核",
+      "category": "generic-intern-eligibility-unconfirmed",
+      "sourceIds": [
+        "s2"
+      ]
     }
   }
 }

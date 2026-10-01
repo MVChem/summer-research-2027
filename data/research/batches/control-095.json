@@ -1,0 +1,116 @@
+[
+  {
+    "id": "xuan-wang",
+    "name": "Xuan Wang",
+    "aliases": [
+      "Xuan Wang (George Mason ECE)"
+    ],
+    "school": "George Mason University",
+    "homepage": "https://mason.gmu.edu/~xwang64/index.html",
+    "title": "Assistant Professor",
+    "department": "Electrical and Computer Engineering; MICO Lab",
+    "batch": "control-095",
+    "discoveredAt": "2026-10-01T10:38:48Z",
+    "verifiedAt": "2026-10-01T10:44:03Z",
+    "researchAreas": [
+      "Context-aware robot transfer learning",
+      "Safe learning and control",
+      "Multi-robot reinforcement learning",
+      "Human-in-the-loop autonomous systems"
+    ],
+    "fitReason": "Current robot-learning PI and lead-student supervisor with verified real off-road policy adaptation and an explicit, generic research-intern invitation.",
+    "physicalEvidence": {
+      "status": "Current directed-group collaborative physical RL; manual data collection and autonomous policy trials distinguished",
+      "summary": "The final 2025 CARoL paper identifies Wang as corresponding author and lead Hu as GMU ECE; current lab roster establishes Wang’s advising, corroborated by the official indexed 2026 Xiao CV (direct file retrieval unavailable). PPO policies learned in Chrono for concrete/grass are adapted using learned state-transition similarity to a physical rocky testbed. After20manually driven data-collection trials, policy adaptation uses10iterations of8real navigation trials, about130minutes. Final comparison uses5trials per model; the system executes continuous speed/steering commands. CarRacing/LunarLander are separate simulation tests. Initial physical failures include boundary departure, getting stuck and rollover. The work is jointly supported by MICO and RobotiXX; exclusive platform ownership and visitor access are not inferred.",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only · generic intern；GMU不赞助intern身份，硕士类别未定",
+      "summary": "The live MICO homepage separately welcomes research interns after its PhD-opening paragraph. This is an explicit generic lab inquiry route, not a summer 2027 or external-master acceptance guarantee. No length, funding, remote option or eligibility is specified. The July 2026 CAREER award is a current robot-learning research signal, not an advertised visitor-funded position.",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 8,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct robot transfer-RL methods with safe multi-agent autonomy.",
+      "physical": "Complete current-host actual policy adaptation, corresponding PI and independently verified primary advising; collaborative hardware ownership qualified.",
+      "shortVisit": "Explicit generic research-intern welcome only, with unresolved institutional category and funding barriers.",
+      "freshness": "DatedJuly6, 2026 official robot-learning CAREER project and current 2026 supervision evidence."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "cec.gmu.edu / source 1",
+        "url": "https://cec.gmu.edu/about/meet-our-faculty/cec-graduate-faculty?page=13",
+        "summary": "Current official ECE assistant-professor and graduate-faculty listing.",
+        "verifiedAt": "2026-10-01T10:39:57Z",
+        "retrieval": "Direct primary/official source via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "mason.gmu.edu / source 2",
+        "url": "https://mason.gmu.edu/~xwang64/index.html",
+        "summary": "Live explicit research-intern invitation, separately from PhD intake; public contact and lab leadership.",
+        "verifiedAt": "2026-10-01T10:39:57Z",
+        "retrieval": "Direct primary/official source via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "mason.gmu.edu / source 3",
+        "url": "https://mason.gmu.edu/~xwang64/team.html",
+        "summary": "Lead CARoL author Zechen Hu listed as current PhD student.",
+        "verifiedAt": "2026-10-01T10:39:57Z",
+        "retrieval": "Direct primary/official source via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "people.cs.gmu.edu / source 4",
+        "url": "https://people.cs.gmu.edu/~xiao/xuesu_website_files/CV_Xiao.pdf",
+        "summary": "Current 2026 CV names Wang as Zechen Hu’s supervisor, independently corroborating lab roster.",
+        "verifiedAt": "2026-10-01T10:44:03Z",
+        "retrieval": "Indexed official 2026 CV only; direct PDF timed out or returned 502, not inspected in full"
+      },
+      {
+        "id": "s5",
+        "label": "people.cs.gmu.edu / source 5",
+        "url": "https://people.cs.gmu.edu/~xiao/papers/carol.pdf",
+        "summary": "Complete final 2025 primary paper; current MICO/RobotiXX support, Wang corresponding authorship and real navigation adaptation/trial limits.",
+        "verifiedAt": "2026-10-01T10:39:57Z",
+        "retrieval": "Direct primary/official source via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2506.07006v1",
+        "summary": "CompleteJune 2025 first preprint confirms learned transition representations, physical observation/action definitions and separate simulated evaluations.",
+        "verifiedAt": "2026-10-01T10:39:57Z",
+        "retrieval": "Direct primary/official source via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "content.gmu.edu / source 7",
+        "url": "https://content.gmu.edu/news/2026-07/career-robot-learning",
+        "summary": "DatedJuly6, 2026 official award and continuing robot-transfer-learning program; future project is not additional completed hardware.",
+        "verifiedAt": "2026-10-01T10:39:57Z",
+        "retrieval": "Direct primary/official source via web.run"
+      }
+    ],
+    "unknowns": [
+      "Reuse george-mason notes. The 2025–26 J-1 packet explicitly says Mason does not sponsor interns, so a lab internship label is not a visa category. Research Scholar requires faculty-equivalent qualifications, with a dissertation-stage doctoral exception that does not establish master’s eligibility. Short-Term Scholar can cover1day–6months but needs affirmative OIPS review of appropriate qualifications/appointment. Personal funds cannot be the sole source; the required institutional/nonpersonal share is unspecified. Current documented principal support threshold is$3000/month excluding insurance/travel;2027 amounts, duration, fees, host capacity and project/export access remain unconfirmed.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#george-mason)"
+    ],
+    "publicEmail": "xwang64@gmu.edu"
+  }
+]

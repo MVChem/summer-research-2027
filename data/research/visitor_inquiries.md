@@ -2,7 +2,7 @@
 
 [全部候选与总分排序](ranked_candidates.md) · [原始索引](mentor_candidates.json) · [机构规则](eligibility_notes.md) · [原200位后续补充](baseline_addenda.md)
 
-从现有记录筛出 **93 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。
+从现有记录筛出 **94 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。
 
 本页按研究匹配分优先，其次真机、短访、新鲜度及发现时间；不把一般询问、学校制度或个人自费能力当成已获资格。所有人的主办类别、八周安排、2027容量、经费和设备访问都需确认。具体奖学金要求、无资助、时间不匹配、任职时点及证据限制优先看下列加粗提示，再读完整资料。
 
@@ -96,11 +96,12 @@
 | [Pooyan Fazli](batches/hri-005.md#pooyan-fazli) · Arizona State University | 32/18/8 | **公开问询入口；详细资格与期限未定** | [s2](https://pooyanfazli.com/) | 2026-09-30T21:58:49Z |
 | [Preeya Khanna](batches/hri-071.md#preeya-khanna) · University of California, Berkeley | 30/10/10 | **明确硕士/访客询问；真机仅2017–2021历史线索；弱/历史真机线索** | [s1](https://neuralengatberkeley.github.io/join) [规则](eligibility_notes.md#berkeley-vsr) | 2026-10-01T06:33:21Z |
 
-## 一般 intern 入口（外校硕士适用性未明确） · 7 条
+## 一般 intern 入口（外校硕士适用性未明确） · 8 条
 
 | 导师 / 机构 | 匹配 / 真机 / 短访 | 已知限制与证据状态 | 直接来源 / 机构规则 | 记录核查 UTC |
 |---|---|---|---|---|
 | [Ruohan Zhang](batches/embodied-010.md#ruohan-zhang) · Northwestern University | 40/20/7 | **一般intern询问；外校硕士适用性与短访条件未明确** | [s2](https://ruohanzhang.com/) | 2026-09-30T22:47:12Z |
+| [Xuan Wang](batches/control-095.md#xuan-wang) · George Mason University | 39/25/8 | **一般intern邀请；GMU不赞助intern身份、不可纯个人资助；硕士其他类别待核；受限真机证据：Current directed-group collaborative physical RL; manual data collection and autonomous policy trials distinguished** | [s2](https://mason.gmu.edu/~xwang64/index.html) [规则](eligibility_notes.md#george-mason) | 2026-10-01T10:44:03Z |
 | [Yaqi Xie](batches/embodied-063.md#yaqi-xie) · University of Illinois Urbana-Champaign (incoming lab; current adjunct listing) | 39/20/7 | **官方adjunct与本人incoming表述并存；准确开始时间未知** | [s2](https://yaqi-xie.me/) [规则](eligibility_notes.md#illinois-urbana-champaign) | 2026-10-01T05:35:01Z |
 | [Chengzhi Mao](batches/embodied-056.md#chengzhi-mao) · Rutgers University–New Brunswick | 38/20/7 | **一般intern询问；外校硕士适用性与短访条件未明确** | [s2](https://chengzhi-mao.github.io/) [s4](https://yangmarino.li/) [规则](eligibility_notes.md#rutgers) | 2026-10-01T03:39:04Z |
 | [Qianqian (Quinn) Wang](batches/embodied-032.md#qianqian-quinn-wang) · Harvard University | 38/20/5 | **一般intern询问；SEAS通常至少3个月，八周未确认** | [s3](https://qianqianwang68.github.io/) | 2026-10-01T01:17:39Z |

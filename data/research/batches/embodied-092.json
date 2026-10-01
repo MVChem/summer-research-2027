@@ -12,7 +12,7 @@
     "department": "George W. Woodruff School of Mechanical Engineering; Inference Lab",
     "batch": "embodied-092",
     "discoveredAt": "2026-10-01T02:56:13Z",
-    "verifiedAt": "2026-10-01T12:18:00Z",
+    "verifiedAt": "2026-10-01T12:48:19Z",
     "researchAreas": [
       "Embodied manufacturing intelligence",
       "Learning-based autonomous fabrication",
@@ -29,7 +29,7 @@
     },
     "shortVisit": {
       "status": "inquiry-only",
-      "summary": "Published recruiting text has a distinct postdoctoral/visiting-researcher section: no current lab funding for these visitors, with own fellowship support welcomed for discussion. Live page still renders blank in both web extraction and cloud browser. The same text was newly verified in the current public JavaScript content bundle directly referenced by that exact page, corroborating the indexed primary text; this is not described as a rendered live form. Generic conditional visitor8; outside-master classification, personal-only support, duration and2027 capacity unknown.",
+      "summary": "Published recruiting content has a separate postdoctoral/visiting-student inquiry. It currently states no host funding, welcomes own fellowship support and invites relevant applicants to discuss whether an arrangement is possible. No fellowship-only requirement or blanket ban on other funding is stated. The public page renders blank; its exact referenced current content asset is fully read. Outside-master classification, duration and summer 2027 capacity remain unconfirmed.",
       "sourceIds": [
         "s4",
         "s5"
@@ -84,8 +84,8 @@
         "id": "s5",
         "label": "inferencelab.io / source 5",
         "url": "https://inferencelab.io/_next/static/chunks/app/blog-docs/news/news_2/page-5f65a6e74f0bc2df.js",
-        "summary": "Public script URL extracted from live page HTML, read without execution: contains complete published visiting-researcher, no-host-funding and fellowship inquiry wording.",
-        "verifiedAt": "2026-10-01T12:18:00Z",
+        "summary": "Complete current public script content re-read: presently no funding for postdocs or visiting students, but the situation can change. Own fellowship support is welcomed; relevant-background inquiries may discuss other arrangements. This is not a fellowship-only rule or a permanent funding prohibition. The published page still has a rendering limitation.",
+        "verifiedAt": "2026-10-01T12:48:19Z",
         "retrieval": "direct-public-page-content-asset"
       },
       {
@@ -101,9 +101,9 @@
       "The complete2024 primary PDF was newly downloaded from NSF PAR, text-read and its apparatus figure visually checked. It lists Alam at Ohio State; publication dates January 12, 2024 online/March 2024 issue, despite lab list grouping it as2023.",
       "The physically validated learner is polynomial regression plus optimization, not a neural foundation policy. Three desired performance specifications were tested, with only two meeting the desired behavior; do not claim universal autonomous success.",
       "Full current university interview links3D shape/foundation methods to robotic precision engineering, but current 2026 Georgia Tech learned robot execution is not independently established.",
-      "Visitor text is conditional and explicitly unfunded at the host. It mentions own fellowship, not an assurance that personal savings alone suffice. The separate local Georgia Tech MS/UG section is not outside visitor eligibility.",
+      "The lab currently states no host funding; own fellowship is welcomed and other arrangements may be discussed. No individual funding award or personal-only institutional approval is implied. The local Georgia Tech MS/UG section is separate from the visitor inquiry.",
       "The public recruiting page has a rendering defect in the research tools; current served page-source content is verified, but exact intake status should be reconfirmed before relying on it. No form was filled, no message sent and no funding promise inferred.",
-      "Reuse georgia-tech-student-intern policy: outside enrolled graduate students can be sponsored for degree-related research with return to home study, at least32hours/week and up to12months. Personal/department support is institutionally possible, current minimum$1800/month, but the lab’s conditional fellowship preference and actual host approval remain separate.",
+      "Reuse georgia-tech-student-intern policy: outside enrolled graduate students can be sponsored for degree-related research with return to home study, at least32hours/week and up to12months. Personal/department support is institutionally possible, current minimum$1800/month, but the lab’s current funding uncertainty and actual host approval remain separate.",
       "2027 project scope, mentor availability, period, financial documentation, insurance and university costs remain unknown.",
       "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
       "Timestamp scope: Uses the precisely retained earlier source-observation time, preserved during subsequent verification.",

@@ -20,7 +20,7 @@
 | 10 | [Yujia Zheng](batches/embodied-090.md#yujia-zheng) · University of Illinois Urbana-Champaign · **近期已到岗 AP（2024起）** · **仅仿真；真机待核实** | 59 (36/0/8/15) | inquiry-only | 2026-10-01T12:01:44Z † | 2026-10-01T12:05:43Z |
 | 11 | [Kitae Kim](batches/embodied-091.md#kitae-kim) · North Carolina State University · **近期已到岗 AP（2024起）** | 76 (35/20/8/13) | inquiry-only | 2026-10-01T02:55:51Z † | 2026-10-01T12:11:28Z |
 | 12 | [Zishen Wan](batches/embodied-091.md#zishen-wan) · Columbia University · **近期已到岗 AP（2024起）** · **仅仿真；真机待核实** | 57 (34/0/8/15) | inquiry-only | 2026-10-01T01:01:01Z † | 2026-10-01T12:11:28Z |
-| 13 | [Ferdous Alam](batches/embodied-092.md#ferdous-alam) · Georgia Institute of Technology · **近期已到岗 AP（2024起）** | 73 (32/20/8/13) | inquiry-only | 2026-10-01T02:56:13Z † | 2026-10-01T12:18:00Z |
+| 13 | [Ferdous Alam](batches/embodied-092.md#ferdous-alam) · Georgia Institute of Technology · **近期已到岗 AP（2024起）** | 73 (32/20/8/13) | inquiry-only | 2026-10-01T02:56:13Z † | 2026-10-01T12:48:19Z |
 | 14 | [Thomas A. Berrueta](batches/control-009.md#thomas-a-berrueta) · Stanford University (announced appointment starts November 1, 2026) · **暑期前明确拟到岗 AP** | 82 (40/20/8/14) | inquiry-only · 2026-11-01拟入职 | 2026-09-30T22:33:42Z | 2026-09-30T22:35:56Z |
 | 15 | [Haozhi Qi](batches/embodied-022.md#haozhi-qi) · University of Chicago (incoming January 2027) · **暑期前明确拟到岗 AP** | 75 (40/20/0/15) | unknown · 2027年1月入职，实验室待确认 | 2026-09-30T23:51:05Z | 2026-09-30T23:58:03Z |
 | 16 | [David M. Chan](batches/embodied-061.md#david-m-chan) · University of California, Irvine (incoming January 2027) · **暑期前明确拟到岗 AP** | 73 (38/20/0/15) | degree-only · incoming January 2027 | 2026-10-01T04:49:54Z | 2026-10-01T05:04:42Z |

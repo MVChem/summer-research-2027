@@ -108,6 +108,7 @@
     "batches/embodied-046.json",
     "batches/embodied-047.json",
     "batches/embodied-048.json",
+    "batches/embodied-049.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -6369,6 +6370,35 @@
       "shortVisitStatus": "inquiry-only · 海外研究访问类别未确认",
       "recordFile": "batches/embodied-048.json",
       "detailPage": "batches/embodied-048.md#feng-han"
+    },
+    {
+      "id": "david-j-cappelleri",
+      "name": "David J. Cappelleri",
+      "aliases": [
+        "David Cappelleri",
+        "Dave Cappelleri"
+      ],
+      "school": "Purdue University",
+      "title": "Professor of Mechanical Engineering; Assistant Vice President for Research Innovation",
+      "homepage": "https://multiscalerobotics.org/",
+      "batch": "embodied-049",
+      "discoveredAt": "2026-10-01T02:52:41Z",
+      "verifiedAt": "2026-10-01T02:57:00Z",
+      "scores": {
+        "fit": 35,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Learning-guided agricultural manipulation",
+        "Robot perception and physical sampling",
+        "Mobile manipulation",
+        "Multi-scale robotics"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-049.json",
+      "detailPage": "batches/embodied-049.md#david-j-cappelleri"
     },
     {
       "id": "henny-admoni",

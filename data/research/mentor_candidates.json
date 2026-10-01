@@ -34,6 +34,7 @@
     "batches/control-023.json",
     "batches/control-024.json",
     "batches/control-025.json",
+    "batches/control-026.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -2264,6 +2265,32 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-025.json",
       "detailPage": "batches/control-025.md#michael-everett"
+    },
+    {
+      "id": "brendan-englot",
+      "name": "Brendan Englot",
+      "aliases": [],
+      "school": "Stevens Institute of Technology",
+      "title": "Anson Wood Burchard Endowed Professor; Interim Dean of the School of Computing",
+      "homepage": "https://robustfieldautonomylab.github.io/",
+      "batch": "control-026",
+      "discoveredAt": "2026-10-01T00:27:26Z",
+      "verifiedAt": "2026-10-01T00:32:29Z",
+      "scores": {
+        "fit": 37,
+        "physical": 18,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "robot perception and navigation",
+        "distributional reinforcement learning",
+        "learning-enabled marine autonomy",
+        "uncertainty-aware mapping"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-026.json",
+      "detailPage": "batches/control-026.md#brendan-englot"
     },
     {
       "id": "tom-silver",

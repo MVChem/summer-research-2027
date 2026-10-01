@@ -1,0 +1,112 @@
+[
+  {
+    "id": "brendan-englot",
+    "name": "Brendan Englot",
+    "aliases": [],
+    "school": "Stevens Institute of Technology",
+    "homepage": "https://robustfieldautonomylab.github.io/",
+    "title": "Anson Wood Burchard Endowed Professor; Interim Dean of the School of Computing",
+    "department": "Mechanical Engineering; Computer Science courtesy appointment",
+    "batch": "control-026",
+    "discoveredAt": "2026-10-01T00:27:26Z",
+    "verifiedAt": "2026-10-01T00:32:29Z",
+    "researchAreas": [
+      "robot perception and navigation",
+      "distributional reinforcement learning",
+      "learning-enabled marine autonomy",
+      "uncertainty-aware mapping"
+    ],
+    "fitReason": "Strong marine-autonomy and risk-aware learning agenda; physical AI evidence currently strongest for learned perception rather than executed RL control.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "March2026 opti-acoustic mapping study uses the lab’s heavy BlueROV2 with two Oculus imaging sonars, camera and navigation sensors in tank and marina deployments. YOLO11n-seg plus confidence-weighted Gaussian-process mapping are evaluated through real-time playback on a workstation. This is robot-collected learned-perception evidence, not closed-loop autonomous navigation. The separate2025 distributional-RL navigation paper is Gazebo simulation only.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Lab roster documents visiting master’s students from ENSTA Bretagne in summers2019,2022 and2023. These are historical precedents only; no current external-master’s invitation or2027 opening was found.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 18,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct AI/robotics agenda, but verified recent RL task evaluation is simulation.",
+      "physical": "Named own-lab robot and current PhD author; learned perception evaluated by recorded-data playback, so below closed-loop hardware score.",
+      "shortVisit": "Historical master’s visitors only; no current invitation.",
+      "freshness": "March2026 full technical study and current official title/roster."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.stevens.edu / source 1",
+        "url": "https://www.stevens.edu/profile/benglot",
+        "summary": "Current endowed Professor/Interim Dean and department appointments.",
+        "verifiedAt": "2026-10-01T00:32:29Z",
+        "retrieval": "direct primary HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "robustfieldautonomylab.github.io / source 2",
+        "url": "https://robustfieldautonomylab.github.io/",
+        "summary": "Current own-lab BlueROV and2026 research links; explicitly labels RL work low-fidelity-sim to high-fidelity-sim.",
+        "verifiedAt": "2026-10-01T00:32:29Z",
+        "retrieval": "direct primary HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "robustfieldautonomylab.github.io / source 3",
+        "url": "https://robustfieldautonomylab.github.io/people.html",
+        "summary": "Current first author Ivana Collado-Gonzalez; historical external master’s summer visitors.",
+        "verifiedAt": "2026-10-01T00:32:29Z",
+        "retrieval": "direct primary HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/abs/2603.14457",
+        "summary": "March15,2026 paper andICRA2026 author publication statement.",
+        "verifiedAt": "2026-10-01T00:32:29Z",
+        "retrieval": "direct primary HTML via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2603.14457v1",
+        "summary": "SectionsIV/V: CNN+GP mapping, named sensors, actual deployment, workstation playback and public faculty email.",
+        "verifiedAt": "2026-10-01T00:32:29Z",
+        "retrieval": "direct primary HTML via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2412.09466v1",
+        "summary": "Conclusion expressly says Gazebo evaluation; real ASV field tests future work.",
+        "verifiedAt": "2026-10-01T00:32:29Z",
+        "retrieval": "direct primary HTML via web.run"
+      }
+    ],
+    "unknowns": [
+      "Present host capacity, short-visit duration, external-master’s appointment and funding need confirmation. Academic leadership role does not establish or preclude supervision. Historical visitors and research grants do not establish an active summer placement.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "benglot@stevens.edu"
+  }
+]

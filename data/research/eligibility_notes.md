@@ -1030,3 +1030,10 @@ Sources: [Guides and Forms](https://www.lamar.edu/international-education/intern
 [Part I](https://www.fau.edu/global/academic-services/documents/internship-request-form-updated.pdf)规定最长12个月、每周至少32小时及日常现场监督，提前60–90天提交；10个工作日只是校内处理阶段。未核实最低访问时长，8周仍需导师/GAS批准。需导师、系主任及院长审批、英语证明、背景/出口管制审查和期末评估。航空、临床患者接触等工作受限，须按具体项目审查。
 
 Part II第5页允许全额个人资金，但要求境外大学/研究机构关系及书面许可；目前链接表格列单人每月2,000美元财力证明，2027标准待复核。住宿、保险、签证费用及其他成本另计；适用无薪志愿者的背景调查估价60–200美元，责任由主办方确认，不是所有人的固定收费或完整预算。旧表格近期毕业条款与当前在读要求不可混用。学校存在路径不代表实验室开放或获批。
+
+<a id="houston-clear-lake"></a>
+## University of Houston–Clear Lake · 访问类别及至少50%外部资助待确认
+
+核查：2026-10-01T07:22:21Z。[当前 Exchange Visitors 官方说明](https://www.uhcl.edu/academics/advising/international/exchange-visitors/)列出不足6个月的 Short-Term Scholar，但没有明确境外在读硕士资格或最短任期。Student Intern 仅在概述及资金标准中出现，未核实完整现行流程，因此不能直接认定8周境外硕士可走此类别。
+
+研究学者/教授邀请清单要求至少提前90天、校级/学院审批、正式邀请、英语及财力证明，并要求至少50%最低经费来自机构、政府、企业或其他组织，不能全部依赖个人/家庭资金。Student Intern 是否存在适用的独立资金例外须由 EASS 确认。未核实每月最低额、校内费用或完整2027预算。保险覆盖全程；住宿交通需写入安排。此处为 UH–Clear Lake，不沿用 UH 主校区规则，也不代表实验室开放或个人获批。

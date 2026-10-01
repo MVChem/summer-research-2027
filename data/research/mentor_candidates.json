@@ -92,6 +92,7 @@
     "batches/control-081.json",
     "batches/control-082.json",
     "batches/control-083.json",
+    "batches/control-084.json",
     "batches/control-086.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
@@ -4911,6 +4912,93 @@
       "shortVisitStatus": "degree-only · 所列MS/本科入口限FAU本校",
       "recordFile": "batches/control-083.json",
       "detailPage": "batches/control-083.md#pratik-mukherjee"
+    },
+    {
+      "id": "jie-fu",
+      "name": "Jie Fu",
+      "aliases": [],
+      "school": "University of Florida",
+      "title": "Associate Professor",
+      "homepage": "https://faculty.eng.ufl.edu/fujie/",
+      "batch": "control-084",
+      "discoveredAt": "2026-10-01T02:17:31Z",
+      "verifiedAt": "2026-10-01T07:27:22Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Safe robot learning",
+        "Reinforcement learning",
+        "Contact-aware soft robotics",
+        "Formal methods for autonomy"
+      ],
+      "candidateTier": "Robotics-AI with prior or collaborative physical evidence; current-host hardware unverified",
+      "physicalEvidenceStatus": "Prior-host or collaborative learned robot verified; current-site learned execution unverified",
+      "physicalEvidenceLabel": "受限真机证据：Prior-host or collaborative learned robot verified; current-site learned execution unverified",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-084.json",
+      "detailPage": "batches/control-084.md#jie-fu"
+    },
+    {
+      "id": "zhichao-liu",
+      "name": "Zhichao Liu",
+      "aliases": [],
+      "school": "University of Houston–Clear Lake",
+      "title": "Assistant Professor",
+      "homepage": "https://roboai-uhcl.github.io/",
+      "batch": "control-084",
+      "discoveredAt": "2026-10-01T00:49:45Z",
+      "verifiedAt": "2026-10-01T07:27:22Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Learning-enabled agricultural robotics",
+        "Aerial manipulation",
+        "Robot perception",
+        "Mobile manipulation"
+      ],
+      "candidateTier": "Robotics-AI with prior or collaborative physical evidence; current-host hardware unverified",
+      "physicalEvidenceStatus": "Prior-host or collaborative learned robot verified; current-site learned execution unverified",
+      "physicalEvidenceLabel": "受限真机证据：Prior-host or collaborative learned robot verified; current-site learned execution unverified",
+      "shortVisitStatus": "degree-only · 所列入口面向UHCL本校学生",
+      "recordFile": "batches/control-084.json",
+      "detailPage": "batches/control-084.md#zhichao-liu"
+    },
+    {
+      "id": "daniel-bruder",
+      "name": "Daniel Bruder",
+      "aliases": [],
+      "school": "University of Michigan–Ann Arbor",
+      "title": "Assistant Professor",
+      "homepage": "https://www.freelaboratory.org/",
+      "batch": "control-084",
+      "discoveredAt": "2026-10-01T00:45:22Z",
+      "verifiedAt": "2026-10-01T07:27:22Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Learning-based soft robot control",
+        "Koopman models",
+        "Residual dynamics learning",
+        "Model-predictive robot control"
+      ],
+      "candidateTier": "Robotics-AI with prior or collaborative physical evidence; current-host hardware unverified",
+      "physicalEvidenceStatus": "Prior-host or collaborative learned robot verified; current-site learned execution unverified",
+      "physicalEvidenceLabel": "受限真机证据：Prior-host or collaborative learned robot verified; current-site learned execution unverified",
+      "shortVisitStatus": "unknown · 当前不征集具体项目；仅未来兴趣登记",
+      "recordFile": "batches/control-084.json",
+      "detailPage": "batches/control-084.md#daniel-bruder"
     },
     {
       "id": "h-eric-tseng",

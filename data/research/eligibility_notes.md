@@ -1132,3 +1132,21 @@ Part II第5页允许全额个人资金，但要求境外大学/研究机构关�
 
 核查：2026-10-01T11:06:17Z。[国际招生页](https://lakeland.edu/admissions/international)说明课程与学位入学，[非学位页](https://lakeland.edu/non-degree)说明有限学分课程；两者均不能据此视为外校硕士研究访问通道。暂未核实 Wisconsin 校区的 Visiting Graduate Researcher、Student Intern 或 Visiting Scholar 具体流程，不等于断言不能访问。[2026 年访学教师案例](https://luj.lakeland.edu/post/luj-welcomes-visiting-faculty-from-the-university-of-makati-2026-06-16)发生在日本校区，不能移用于美国接收地点。八周研究、导师接收、任命与签证类别、个人资金、最低财力、保险、费用、提前期和实验室准入均需校方确认；无已确认的 2027 名额。
 
+
+<a id="ncat"></a>
+### North Carolina A&T State University
+
+核查 2026-10-01T12:15:04Z。[现行接待说明](https://www.ncat.edu/academics/international-affairs/education-abroad/faculty-staff-resources/hosting-international-exchange-scholars.php) 要求先咨询 OIA、至少提前三个月办理 DS-2019，允许个人资金证明，并规定导师至少 75% 访问期间在校。页面考虑仍在本国攻读学位者，但没有明确批准普通外校硕士实习。[当前链接申请包](https://www.ncat.edu/academics/international-affairs/isss/scholar-information/j-1-request.pdf) 写明学士学位加数年经验，且含旧版保险和资金数字；须由 OIA 核实资格、类别、费用及最新资金要求。不能把六个月内的 Short-Term Scholar 类别直接当作八周录取或导师名额。
+
+
+<a id="hartford"></a>
+### University of Hartford
+
+核查 2026-10-01T12:15:04Z。[2017 年官方交流学者手册](https://www.hartford.edu/faculty-staff/faculty/fcld/_files/j1facultyhandbook1-18-2017.pdf) 描述导师/院长接待、研究计划、英语和资金证明，列有个人资金及最长六个月的 Short-Term Scholar，并建议提前三个月准备。该文件较旧，未核实当前外校硕士研究访问资格；旧金额和保险条件不能作为 2027 年预算。须由 International Center 确认现行类别、任命、资金、费用和时限。[当前学生签证页面](https://www.hartford.edu/admission/international/application-process/student-visas.aspx) 面向入学流程，不能替代研究访问批准。
+
+
+<a id="appalachian-state"></a>
+### Appalachian State University
+
+核查 2026-10-01T12:27:59Z。[官方学者访问流程](https://international.appstate.edu/international-scholars) 要求导师/系与 ISSSO 先审查类别和资格，至少提前三个月准备。可提交个人或私人资助证明；资金总额、费用及保险报价须个别确认。指定学者类别强制 GeoBlue，不接受替代保险。短期学者类别最长六个月，但没有明确外校硕士实习条款；禁止以此流程在 App State 全日制入学不等于禁止在本校继续攻读学位。不能据此推定访问录取或导师名额。
+

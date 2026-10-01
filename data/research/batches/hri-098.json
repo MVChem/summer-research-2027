@@ -1,0 +1,154 @@
+[
+  {
+    "id": "yeganeh-madadi",
+    "name": "Yeganeh Madadi",
+    "aliases": [],
+    "school": "Appalachian State University",
+    "homepage": "https://roboticslab.cs.appstate.edu/",
+    "title": "Assistant Professor of Computer Science; Robotics Lab Director",
+    "department": "Computer Science; Robotics Lab / YeRo Lab",
+    "batch": "hri-098",
+    "discoveredAt": "2026-10-01T11:28:28Z",
+    "verifiedAt": "2026-10-01T13:23:58Z",
+    "researchAreas": [
+      "Applied human-robot interaction",
+      "LLM-based assistive interaction",
+      "Robot dialogue and task reasoning",
+      "Learning-based perception",
+      "Socially assistive robotics"
+    ],
+    "fitReason": "New-2024 Assistant Professor and active social-robotics lab director. Public research software provides substantive LLM interaction and neural pose-perception pipelines. A current executed learned robot experiment is not fully established, so this is an applied-HRI methods backup rather than a confirmed physical-AI deployment or summer placement.",
+    "physicalEvidence": {
+      "status": "unverified",
+      "summary": "Official lab-opening material verifies a real YeRo humanoid and demonstrations. The lab-linked SAR repository explicitly simulates perception, child responses and robot output; real LLM calls are optional and physical integration remains future work. A separate Robo-TA repository implements embedding/chat-based tutoring, MediaPipe pose detection, raised-hand patrol and Pepper speech/navigation bridges. Static source inspection verifies the pipeline, not that every learned component ran successfully on the robot. The full 2026 HRI benchmark paper was not accessible, so its title is not used to prove execution.",
+      "sourceIds": [
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The current lab lists graduate researchers and welcomes university/industry research partners. The PI provides a general inquiry contact, but no distinct outside-master visiting or summer-intern invitation was verified. Local summer researchers and high-school demonstrations do not establish external graduate access.",
+      "sourceIds": [
+        "s1",
+        "s4",
+        "s10"
+      ]
+    },
+    "scores": {
+      "fit": 35,
+      "physical": 0,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Applied LLM social-interaction and learned pose-perception research, with limited fully published robotics-method evidence.",
+      "physical": "Real lab robot and implementation bridges exist, but executed learned experiment remains unverified.",
+      "shortVisit": "No distinct current outside-master short-visit invitation established.",
+      "freshness": "Current 2026 lab research/software and official active faculty role; 2024 start independently dated."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "compsci.appstate.edu / source 1",
+        "url": "https://compsci.appstate.edu/faculty-staff/dr-yeganeh-madadi-phd",
+        "summary": "Official current Assistant Professor/Lab Director title, email and links to PI/lab.",
+        "verifiedAt": "2026-10-01T12:30:20Z"
+      },
+      {
+        "id": "s2",
+        "label": "cas.appstate.edu / source 2",
+        "url": "https://cas.appstate.edu/news/meet-new-faculty-members-app-states-college-arts-and-sciences-0",
+        "summary": "Official August 22, 2024 new-faculty announcement establishes the appointment cohort.",
+        "verifiedAt": "2026-10-01T12:30:20Z"
+      },
+      {
+        "id": "s3",
+        "label": "sites.google.com / source 3",
+        "url": "https://sites.google.com/appstate.edu/dr-yeganeh-madadi/bio",
+        "summary": "University-account PI biography specifies August 2024 tenure-track start.",
+        "verifiedAt": "2026-10-01T12:30:20Z"
+      },
+      {
+        "id": "s4",
+        "label": "roboticslab.cs.appstate.edu / source 4",
+        "url": "https://roboticslab.cs.appstate.edu/",
+        "summary": "Current graduate advising, applied AI/HRI agenda and direct GitHub organization link.",
+        "verifiedAt": "2026-10-01T12:30:20Z"
+      },
+      {
+        "id": "s5",
+        "label": "cas.appstate.edu / source 5",
+        "url": "https://cas.appstate.edu/news/department-computer-science-celebrates-robotics-lab-opening",
+        "summary": "Official July 10, 2025 lab-opening article re-read in full: June 25 demonstration, 2024 arrival and YeRo LLM description. This does not establish a full executed learned-policy experiment beyond the separately disclosed prototype/code limits.",
+        "verifiedAt": "2026-10-01T13:23:58Z"
+      },
+      {
+        "id": "s6",
+        "label": "github.com / source 6",
+        "url": "https://github.com/YeRo-Lab/LLM-Integrated-Socially-Assistive-Robots-in-Autism",
+        "summary": "Full README and project documentation explicitly distinguish optional real LLM calls from simulated perception/robot execution.",
+        "verifiedAt": "2026-10-01T12:30:20Z"
+      },
+      {
+        "id": "s7",
+        "label": "github.com / source 7",
+        "url": "https://github.com/YeRo-Lab/Robo-TA",
+        "summary": "Lab-linked public code; real hardware bridges are implementation evidence, not independently verified experiments.",
+        "verifiedAt": "2026-10-01T12:30:20Z"
+      },
+      {
+        "id": "s8",
+        "label": "github.com / source 8",
+        "url": "https://github.com/YeRo-Lab/Robo-TA/blob/main/RoboTA/robo_ta_lab9/ta_engine.py",
+        "summary": "Static source confirms embedding and chat-completion tutoring pipeline.",
+        "verifiedAt": "2026-10-01T12:30:20Z"
+      },
+      {
+        "id": "s9",
+        "label": "github.com / source 9",
+        "url": "https://github.com/YeRo-Lab/Robo-TA/blob/main/RoboTA/Nav-SysController.py",
+        "summary": "Static source confirms MediaPipe pose-landmarker and raised-hand patrol integration.",
+        "verifiedAt": "2026-10-01T12:30:20Z"
+      },
+      {
+        "id": "s10",
+        "label": "sites.google.com / source 10",
+        "url": "https://sites.google.com/appstate.edu/dr-yeganeh-madadi/research",
+        "summary": "Current 2026 HRI benchmark attribution and research roster; publisher full methods unavailable.",
+        "verifiedAt": "2026-10-01T12:30:20Z"
+      },
+      {
+        "id": "s11",
+        "label": "international.appstate.edu / source 11",
+        "url": "https://international.appstate.edu/international-scholars",
+        "summary": "Current central host approval, preparation, personal-funding evidence, scholar categories and mandatory GeoBlue requirements.",
+        "verifiedAt": "2026-10-01T12:27:59Z"
+      }
+    ],
+    "unknowns": [
+      "Summer 2027 capacity, duration, funding, remote participation and access to the humanoid remain unknown.",
+      "The constrained-LLM storytelling repository describes an experimental prototype. Its simulated perception and synthetic interactions do not establish clinical use or benefit for autistic children; no clinical or safety efficacy is inferred.",
+      "Robo-TA was inspected as public source text only. It was not installed, executed, connected to hardware or supplied credentials. Code-level bridges and lab photographs alone do not prove a completed robot-learning evaluation.",
+      "App State central guidance requires ISSSO and host approval and at least three months of preparation. Personal financial evidence is allowed, but the appropriate research appointment for an external master’s student is not explicitly settled; a Student Intern route was not verified.",
+      "The university gives the support estimate individually and requires GeoBlue for its listed scholar categories. Current premiums, university charges and total 2027 costs are unknown. A six-month category ceiling is not a lab invitation or a required research duration.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#appalachian-state)"
+    ],
+    "publicEmail": "madadiy@appstate.edu",
+    "candidateTier": "AI相关 · 真机待核实；方法研究备选",
+    "appointmentStart": {
+      "year": 2024,
+      "precision": "year",
+      "status": "current",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ],
+      "evidence": "Official August 22, 2024 college announcement includes Madadi among incoming full-time Assistant Professors; current department directory confirms title. PI biography further specifies August 2024."
+    }
+  }
+]

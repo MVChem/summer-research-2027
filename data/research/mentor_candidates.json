@@ -103,6 +103,7 @@
     "batches/control-092.json",
     "batches/control-093.json",
     "batches/control-095.json",
+    "batches/control-101.json",
     "batches/control-106.json",
     "batches/control-107.json",
     "batches/control-108.json",
@@ -201,6 +202,7 @@
     "batches/embodied-092.json",
     "batches/embodied-093.json",
     "batches/embodied-094.json",
+    "batches/embodied-095.json",
     "batches/embodied-096.json",
     "batches/embodied-097.json",
     "batches/hri-001.json",
@@ -294,7 +296,9 @@
     "batches/hri-089.json",
     "batches/hri-091.json",
     "batches/hri-094.json",
+    "batches/hri-096.json",
     "batches/hri-097.json",
+    "batches/hri-098.json",
     "batches/hri-099.json",
     "batches/hri-100.json",
     "batches/hri-101.json",
@@ -5488,6 +5492,90 @@
       "detailPage": "batches/control-095.md#xuan-wang"
     },
     {
+      "id": "ziran-wang",
+      "name": "Ziran Wang",
+      "aliases": [],
+      "school": "Purdue University",
+      "title": "Assistant Professor; Digital Twin Lab Director",
+      "homepage": "https://ziranw.github.io/",
+      "batch": "control-101",
+      "discoveredAt": "2026-10-01T11:32:41Z",
+      "verifiedAt": "2026-10-01T11:38:04Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Language-model autonomous driving",
+        "Human-autonomy teaming",
+        "Robot foundation models",
+        "Learning-based driving prediction"
+      ],
+      "physicalEvidenceStatus": "Verified2023–24 real Lexus language-to-control execution; supervised collaborative Purdue apparatus",
+      "physicalEvidenceLabel": "受限真机证据：Verified2023–24 real Lexus language-to-control execution; supervised collaborative Purdue apparatus",
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/control-101.json",
+      "detailPage": "batches/control-101.md#ziran-wang"
+    },
+    {
+      "id": "lingxi-li",
+      "name": "Lingxi Li",
+      "aliases": [],
+      "school": "Purdue University in Indianapolis",
+      "title": "Professor of Electrical and Computer Engineering",
+      "homepage": "https://web.ics.purdue.edu/~li2317/",
+      "batch": "control-101",
+      "discoveredAt": "2026-10-01T11:32:41Z",
+      "verifiedAt": "2026-10-01T11:38:04Z",
+      "scores": {
+        "fit": 35,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 13
+      },
+      "researchAreas": [
+        "AI-enabled autonomous vehicles",
+        "Intelligent controls",
+        "Human-autonomy interaction",
+        "Driving safety and validation"
+      ],
+      "physicalEvidenceStatus": "Verified older collaborative Talk2Drive real-vehicle execution; independent platform access unknown",
+      "physicalEvidenceLabel": "受限真机证据：Verified older collaborative Talk2Drive real-vehicle execution; independent platform access unknown",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-101.json",
+      "detailPage": "batches/control-101.md#lingxi-li"
+    },
+    {
+      "id": "yaobin-chen",
+      "name": "Yaobin Chen",
+      "aliases": [],
+      "school": "Purdue University in Indianapolis",
+      "title": "Professor; Director of Transportation and Autonomous Systems Institute",
+      "homepage": "https://engineering.purdue.edu/ECE/People/ptProfile?photo=right&resource_id=296665",
+      "batch": "control-101",
+      "discoveredAt": "2026-10-01T11:32:41Z",
+      "verifiedAt": "2026-10-01T11:38:04Z",
+      "scores": {
+        "fit": 34,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 13
+      },
+      "researchAreas": [
+        "Intelligent controls and robotics",
+        "Autonomous vehicles",
+        "Language-based vehicle interaction",
+        "Active safety and validation"
+      ],
+      "physicalEvidenceStatus": "Verified2023–24 collaborative real Lexus LLM control; current independent hardware access unconfirmed",
+      "physicalEvidenceLabel": "受限真机证据：Verified2023–24 collaborative real Lexus LLM control; current independent hardware access unconfirmed",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-101.json",
+      "detailPage": "batches/control-101.md#yaobin-chen"
+    },
+    {
       "id": "xiaofan-yu",
       "name": "Xiaofan Yu",
       "aliases": [
@@ -10537,6 +10625,65 @@
       "detailPage": "batches/embodied-094.md#jun-gao"
     },
     {
+      "id": "nathan-j-szymanski",
+      "name": "Nathan J. Szymanski",
+      "aliases": [
+        "Nathan Szymanski"
+      ],
+      "school": "University of California, Los Angeles",
+      "title": "Assistant Professor",
+      "homepage": "https://szymanski-research-group.com/",
+      "batch": "embodied-095",
+      "discoveredAt": "2026-10-01T12:41:51Z",
+      "verifiedAt": "2026-10-01T12:45:34Z",
+      "scores": {
+        "fit": 31,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "AI-guided autonomous laboratories",
+        "Active learning for robotic experimentation",
+        "Neural materials characterization and experimental feedback"
+      ],
+      "candidateTier": "自主材料实验/AI-for-science备选；非通用VLA实验室",
+      "physicalEvidenceStatus": "historical-or-indirect · autonomous-materials experiment loop",
+      "physicalEvidenceLabel": "受限真机证据：historical-or-indirect · autonomous-materials experiment loop",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-095.json",
+      "detailPage": "batches/embodied-095.md#nathan-j-szymanski"
+    },
+    {
+      "id": "yan-zeng",
+      "name": "Yan Zeng",
+      "aliases": [],
+      "school": "Vanderbilt University",
+      "title": "Assistant Professor",
+      "homepage": "https://www.yan-zeng.com/",
+      "batch": "embodied-095",
+      "discoveredAt": "2026-10-01T12:42:27Z",
+      "verifiedAt": "2026-10-01T12:45:34Z",
+      "scores": {
+        "fit": 33,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 13
+      },
+      "researchAreas": [
+        "AI-guided robotic synthesis",
+        "Active-learning experimental design",
+        "Autonomous materials laboratories"
+      ],
+      "discoveryTimestampNote": "Earliest retained primary-name encounter in Nathan Szymanski group publication list (A-Lab/2026 autonomous-instruments authors) at12:42:27Z; focused current-role source12:43:44Z. No earlier timestamp reconstructed from historical paper coauthorship.",
+      "candidateTier": "自主材料实验/AI-for-science备选；非通用VLA实验室",
+      "physicalEvidenceStatus": "historical-or-indirect · autonomous-materials experiment loop",
+      "physicalEvidenceLabel": "受限真机证据：historical-or-indirect · autonomous-materials experiment loop",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-095.json",
+      "detailPage": "batches/embodied-095.md#yan-zeng"
+    },
+    {
       "id": "rohan-r-paleja",
       "name": "Rohan R. Paleja",
       "aliases": [
@@ -15244,6 +15391,67 @@
       "detailPage": "batches/hri-094.md#karan-ahuja"
     },
     {
+      "id": "yantian-zha",
+      "name": "Yantian Zha",
+      "aliases": [
+        "查颜天"
+      ],
+      "school": "North Carolina A&T State University",
+      "title": "Assistant Professor of Computer Science",
+      "homepage": "https://yantianzha.github.io/",
+      "batch": "hri-096",
+      "discoveredAt": "2026-10-01T11:52:22Z",
+      "verifiedAt": "2026-10-01T12:15:04Z",
+      "scores": {
+        "fit": 38,
+        "physical": 0,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Robot learning from demonstration",
+        "Multimodal human-robot interaction",
+        "Reinforcement learning",
+        "Neuro-symbolic task understanding"
+      ],
+      "candidateTier": "AI相关 · 真机待核实；方法研究备选",
+      "physicalEvidenceStatus": "simulation-only",
+      "physicalEvidenceLabel": "仅仿真；真机待核实",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-096.json",
+      "detailPage": "batches/hri-096.md#yantian-zha"
+    },
+    {
+      "id": "mingjun-li",
+      "name": "Mingjun Li",
+      "aliases": [],
+      "school": "University of Hartford",
+      "title": "Assistant Professor of Computing Sciences",
+      "homepage": "https://www.hartford.edu/directory/ceta/li-mingjun.aspx",
+      "batch": "hri-096",
+      "discoveredAt": "2026-10-01T11:49:41Z",
+      "verifiedAt": "2026-10-01T12:15:04Z",
+      "scores": {
+        "fit": 35,
+        "physical": 0,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "3D human motion forecasting",
+        "Spatial computer vision",
+        "Virtual-reality interaction",
+        "Multimodal human behavior modeling"
+      ],
+      "discoveryTimestampNote": "First precisely retained primary name/role observation was the CVPR 2026 workshop roster; the official Hartford appointment was verified subsequently.",
+      "candidateTier": "AI相关 · 真机待核实；方法研究备选",
+      "physicalEvidenceStatus": "unverified",
+      "physicalEvidenceLabel": "真机待核实",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-096.json",
+      "detailPage": "batches/hri-096.md#mingjun-li"
+    },
+    {
       "id": "ryan-r-posh",
       "name": "Ryan R. Posh",
       "aliases": [
@@ -15303,6 +15511,36 @@
       "shortVisitStatus": "inquiry-only",
       "recordFile": "batches/hri-097.json",
       "detailPage": "batches/hri-097.md#feng-liu"
+    },
+    {
+      "id": "yeganeh-madadi",
+      "name": "Yeganeh Madadi",
+      "aliases": [],
+      "school": "Appalachian State University",
+      "title": "Assistant Professor of Computer Science; Robotics Lab Director",
+      "homepage": "https://roboticslab.cs.appstate.edu/",
+      "batch": "hri-098",
+      "discoveredAt": "2026-10-01T11:28:28Z",
+      "verifiedAt": "2026-10-01T13:23:58Z",
+      "scores": {
+        "fit": 35,
+        "physical": 0,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Applied human-robot interaction",
+        "LLM-based assistive interaction",
+        "Robot dialogue and task reasoning",
+        "Learning-based perception",
+        "Socially assistive robotics"
+      ],
+      "candidateTier": "AI相关 · 真机待核实；方法研究备选",
+      "physicalEvidenceStatus": "unverified",
+      "physicalEvidenceLabel": "真机待核实",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-098.json",
+      "detailPage": "batches/hri-098.md#yeganeh-madadi"
     },
     {
       "id": "amna-mazen",

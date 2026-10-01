@@ -1,0 +1,222 @@
+[
+  {
+    "id": "yantian-zha",
+    "name": "Yantian Zha",
+    "aliases": [
+      "查颜天"
+    ],
+    "school": "North Carolina A&T State University",
+    "homepage": "https://yantianzha.github.io/",
+    "title": "Assistant Professor of Computer Science",
+    "department": "Computer Science; Omni-Agent Research Lab (OARL)",
+    "batch": "hri-096",
+    "discoveredAt": "2026-10-01T11:52:22Z",
+    "verifiedAt": "2026-10-01T12:15:04Z",
+    "researchAreas": [
+      "Robot learning from demonstration",
+      "Multimodal human-robot interaction",
+      "Reinforcement learning",
+      "Neuro-symbolic task understanding"
+    ],
+    "fitReason": "Robotics-AI methodological backup for the Assistant Professor priority. Strong reinforcement learning and language/gesture-to-task methods; inspected experiments do not establish learned execution on a current NC A&T robot.",
+    "physicalEvidence": {
+      "status": "simulation-only",
+      "summary": "AAM-SEALS uses SAC and reinforcement learning from demonstrations for cross-medium navigation and manipulation in simulation. Physical 3D-printed unpowered free-fall tests validate hydrodynamics, not an executed learned policy; functional robot transfer remains future work. NatSGLD uses a Unity3D kitchen and hidden human operator to collect speech/gesture demonstrations. Its appendix evaluates T5 and BART language-to-LTL understanding. Neither the synthetic robot nor the separate passive tank tests establish autonomous physical learning.",
+      "sourceIds": [
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current OARL and PI pages establish doctoral advising and primarily PhD recruitment. No distinct external-master visitor or summer-intern invitation was verified. Listed UMD visitors and prior trainees are not current NC A&T availability.",
+      "sourceIds": [
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 0,
+      "shortVisit": 0,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "Strong RL, demonstration learning and multimodal task reasoning, with a clearly labeled simulation-only limitation.",
+      "physical": "No verified learned robot execution in the inspected full methods.",
+      "shortVisit": "No current external visitor invitation established.",
+      "freshness": "The full technical anchors are dated 2025. Current faculty/lab presence alone does not establish a separately sourced 2026 research or recruitment event; keep the appointment evidence separate from research freshness."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.ncat.edu / source 1",
+        "url": "https://www.ncat.edu/coe/departments/cs/people/faculty-and-staff.php",
+        "summary": "Official current Assistant Professor title.",
+        "verifiedAt": "2026-10-01T12:15:04Z"
+      },
+      {
+        "id": "s2",
+        "label": "profiles.ncat.edu / source 2",
+        "url": "https://profiles.ncat.edu/en/persons/yantian-zha/",
+        "summary": "Official CS profile and professional email; course-date ranges are not appointment dates.",
+        "verifiedAt": "2026-10-01T12:15:04Z"
+      },
+      {
+        "id": "s3",
+        "label": "yantianzha.github.io / source 3",
+        "url": "https://yantianzha.github.io/",
+        "summary": "Current PI agenda and recruitment; no distinct outside-master visitor invitation verified.",
+        "verifiedAt": "2026-10-01T12:15:04Z"
+      },
+      {
+        "id": "s4",
+        "label": "yantianzha.github.io / source 4",
+        "url": "https://yantianzha.github.io/oarl.github.io/index_people.html",
+        "summary": "PI-maintained appointment chronology and current doctoral roster; 2025 start has not been independently university-dated.",
+        "verifiedAt": "2026-10-01T12:15:04Z"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2412.19744v2",
+        "summary": "Full AAM-SEALS methods distinguish learned simulation from passive physical hydrodynamics validation.",
+        "verifiedAt": "2026-10-01T12:15:04Z"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2502.16718v1",
+        "summary": "Full NatSGLD methods and appendix: simulator/Wizard-of-Oz collection plus learned multimodal task understanding; equal advising attribution.",
+        "verifiedAt": "2026-10-01T12:15:04Z"
+      },
+      {
+        "id": "s7",
+        "label": "www.ncat.edu / source 7",
+        "url": "https://www.ncat.edu/academics/international-affairs/education-abroad/faculty-staff-resources/hosting-international-exchange-scholars.php",
+        "summary": "Current institutional host process, personal funds and home-degree candidate responsibilities.",
+        "verifiedAt": "2026-10-01T12:15:04Z"
+      },
+      {
+        "id": "s8",
+        "label": "www.ncat.edu / source 8",
+        "url": "https://www.ncat.edu/academics/international-affairs/isss/scholar-information/j-1-request.pdf",
+        "summary": "Current-linked scholar qualification/legacy-form caveats.",
+        "verifiedAt": "2026-10-01T12:15:04Z"
+      }
+    ],
+    "unknowns": [
+      "The current official department directory verifies Assistant Professor. The PI-maintained lab reports a 2025 start; an independent official start year was not found, so no verified appointmentStart date is assigned.",
+      "Summer 2027 capacity, duration, funding, remote participation and access to current apparatus are unknown. Eight weeks is an approximate goal rather than an inferred limit or promise.",
+      "NC A&T OIA must determine the correct visitor category and qualifications. Current host guidance permits personal-bank evidence but requires advance review; the linked packet includes a degree/experience qualification and dated financial figures. Institutional procedure is not a PI offer.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#ncat)"
+    ],
+    "publicEmail": "yzha@ncat.edu",
+    "candidateTier": "AI相关 · 真机待核实；方法研究备选"
+  },
+  {
+    "id": "mingjun-li",
+    "name": "Mingjun Li",
+    "aliases": [],
+    "school": "University of Hartford",
+    "homepage": "https://www.hartford.edu/directory/ceta/li-mingjun.aspx",
+    "title": "Assistant Professor of Computing Sciences",
+    "department": "Computing Sciences, College of Engineering, Technology, and Architecture",
+    "batch": "hri-096",
+    "discoveredAt": "2026-10-01T11:49:41Z",
+    "verifiedAt": "2026-10-01T12:15:04Z",
+    "researchAreas": [
+      "3D human motion forecasting",
+      "Spatial computer vision",
+      "Virtual-reality interaction",
+      "Multimodal human behavior modeling"
+    ],
+    "fitReason": "Newly appointed spatial-AI backup. His core verified methods infer and forecast human motion for VR systems; direct robot control and current robot access are unverified. The security application is narrower than a general robot-learning agenda.",
+    "physicalEvidence": {
+      "status": "unverified",
+      "summary": "The full 2025 study uses OpenPose body joints from external video and an Informer-based Transformer to predict controller trajectories, then applies neural authentication. Evaluation reuses a human VR ball-throwing dataset, not robot actuation. A full May 2026 Hartford-affiliated paper trains a one-dimensional fully convolutional discriminator on real and forecast 3D controller trajectories across three VR systems. These are spatial motion-learning experiments on recorded human behavior, not an actuated robot demonstration.",
+      "sourceIds": [
+        "s2",
+        "s3"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The official current biography describes research and mentoring, but no separate external-master summer or visiting-student invitation was verified. Prior mentoring during his doctorate is not a present Hartford offer.",
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    "scores": {
+      "fit": 35,
+      "physical": 0,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantive spatial trajectory learning and human behavior modeling; less direct robot-learning fit.",
+      "physical": "Human VR recordings and forecasting do not establish executed robot learning.",
+      "shortVisit": "No explicit outside-master research visitor invitation verified.",
+      "freshness": "Official current role plus full 2026 primary methods."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.hartford.edu / source 1",
+        "url": "https://www.hartford.edu/directory/ceta/li-mingjun.aspx",
+        "summary": "Official current assistant professorship, exact Fall 2025 start, professional email and spatial-AI research agenda.",
+        "verifiedAt": "2026-10-01T12:15:04Z"
+      },
+      {
+        "id": "s2",
+        "label": "arxiv.org / source 2",
+        "url": "https://arxiv.org/html/2502.04361v1",
+        "summary": "Full 2025 neural 2D-to-3D human-motion prediction with recorded VR-data evaluation; former Clarkson affiliation.",
+        "verifiedAt": "2026-10-01T12:15:04Z"
+      },
+      {
+        "id": "s3",
+        "label": "www.frontiersin.org / source 3",
+        "url": "https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2026.1766672/full",
+        "summary": "Full May 2026 Hartford-affiliated neural human-motion discrimination study; recorded controller data, no robot actuator.",
+        "verifiedAt": "2026-10-01T12:15:04Z"
+      },
+      {
+        "id": "s4",
+        "label": "www.hartford.edu / source 4",
+        "url": "https://www.hartford.edu/faculty-staff/faculty/fcld/_files/j1facultyhandbook1-18-2017.pdf",
+        "summary": "Historical 2017 official scholar procedure only; current external-master terms unresolved.",
+        "verifiedAt": "2026-10-01T12:15:04Z"
+      },
+      {
+        "id": "s5",
+        "label": "www.hartford.edu / source 5",
+        "url": "https://www.hartford.edu/admission/international/application-process/student-visas.aspx",
+        "summary": "Current admissions-oriented visa guidance, not research-visit eligibility.",
+        "verifiedAt": "2026-10-01T12:15:04Z"
+      }
+    ],
+    "unknowns": [
+      "The official Fall 2025 appointment is current and predates Summer 2027. No age or career-stage inference is made beyond the documented role and start year.",
+      "Summer 2027 duration, funding, remote work, supervision capacity and external-master eligibility are unknown. Absence of a public offer is not a no-visitors finding.",
+      "The only detailed Hartford research-visitor procedure verified is an official 2017 handbook. It describes scholar sponsorship and personal-funding documentation, but current eligibility and every financial figure require International Center review. Do not treat the historical six-month category as an eight-week offer.",
+      "The inspected 2025 work was authored at prior Clarkson. The 2026 paper gives Hartford affiliation, but its reused human dataset does not demonstrate new Hartford robot hardware.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: First precisely retained primary name/role observation was the CVPR 2026 workshop roster; the official Hartford appointment was verified subsequently.",
+      "[Institutional visitor rules](../eligibility_notes.md#hartford)"
+    ],
+    "discoveryTimestampNote": "First precisely retained primary name/role observation was the CVPR 2026 workshop roster; the official Hartford appointment was verified subsequently.",
+    "publicEmail": "minli@hartford.edu",
+    "candidateTier": "AI相关 · 真机待核实；方法研究备选",
+    "appointmentStart": {
+      "year": 2025,
+      "precision": "year",
+      "status": "current",
+      "sourceIds": [
+        "s1"
+      ],
+      "evidence": "Official university biography states that he joined as Assistant Professor in Fall 2025."
+    }
+  }
+]

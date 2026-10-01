@@ -1,0 +1,322 @@
+[
+  {
+    "id": "ziran-wang",
+    "name": "Ziran Wang",
+    "aliases": [],
+    "school": "Purdue University",
+    "homepage": "https://ziranw.github.io/",
+    "title": "Assistant Professor; Digital Twin Lab Director",
+    "department": "Lyles School of Civil and Construction Engineering; Elmore Family School of Electrical and Computer Engineering by courtesy",
+    "batch": "control-101",
+    "discoveredAt": "2026-10-01T11:32:41Z",
+    "verifiedAt": "2026-10-01T11:38:04Z",
+    "researchAreas": [
+      "Language-model autonomous driving",
+      "Human-autonomy teaming",
+      "Robot foundation models",
+      "Learning-based driving prediction"
+    ],
+    "fitReason": "Substantive real-vehicle LLM research with a genuine standing onsite/remote internship invitation and current graduate advising.",
+    "physicalEvidence": {
+      "status": "Verified2023–24 real Lexus language-to-control execution; supervised collaborative Purdue apparatus",
+      "summary": "Talk2Drive already demonstrated actual Lexus RX450h execution in December 2023; the completeMay2024 revision reports Columbus proving-ground highway/intersection scenarios and a West Lafayette parking track. Cloud GPT4 generates ROS/Autoware parameter programs after spoken requests, with memory-based personalization. Format and parameter checks reject invalid commands; classical NDT localization and pure-pursuit following remain underneath. A human safety driver is always ready to take over. This is learned language interpretation affecting real vehicle behavior, not a learned low-level driving policy or unsupervised public-road deployment. The2025 award does not date a new experiment. His current group includes coadvised authors and retains direct project attribution; access and operation permission for a visitor are not established.",
+      "sourceIds": [
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "The live personal homepage explicitly invites onsite/remote interns separately from PhD/MS degree students. Its visible modification date isSeptember14, 2025. The current-linked flyer instead specifiesSpring/Fall2026 postdoc/PhD positions and does not itself advertise internships. Retain the distinct standing homepage internship invitation, without inventing an eight-week or2027 commitment. Funding and external-master selection remain unknown; current overseas PhD visitor is precedent only.",
+      "sourceIds": [
+        "s2",
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 20,
+      "shortVisit": 8,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct robot/vehicle foundation-model perception, reasoning and behavior adaptation.",
+      "physical": "Actual language-controlled vehicle execution, capped for older2023–24 collaborative platform.",
+      "shortVisit": "Standing onsite intern invitation is explicit; exact external-master duration/funding unconfirmed.",
+      "freshness": "Explicit2026 dated recruitment andJune2026 learned-driving methods; physical experiment age kept separate."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.purdue.edu / source 1",
+        "url": "https://engineering.purdue.edu/CCE/People/Affiliations/a00015/ptProfile?group_id=1920&resource_id=271311",
+        "summary": "Current official CCE/ECE-courtesy appointment, West Lafayette location and public email.",
+        "verifiedAt": "2026-10-01T11:38:04Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "ziranw.github.io / source 2",
+        "url": "https://ziranw.github.io/",
+        "summary": "Live homepage and raw HTML confirm distinct onsite/remote intern invitation; page explicitly last modifiedSeptember2025.",
+        "verifiedAt": "2026-10-01T11:38:04Z",
+        "retrieval": "Direct primary HTML via web.run and public raw-HTML retrieval"
+      },
+      {
+        "id": "s3",
+        "label": "ziranw.github.io / source 3",
+        "url": "https://ziranw.github.io/Ziran_Purdue_Flyer.pdf",
+        "summary": "ExplicitSpring/Fall2026 foundation-model/autonomy recruitment, limited to postdoc/PhD; not an internship promise.",
+        "verifiedAt": "2026-10-01T11:38:04Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/abs/2606.29548",
+        "summary": "June 28, 2026 VISTA-DZ VLM/GRU driving-decision prediction on simulation/field datasets; not a new driven-vehicle test.",
+        "verifiedAt": "2026-10-01T11:38:04Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2312.09397v1",
+        "summary": "December 2023 version already contains actual parking-track Lexus execution; not a new2025–26 experiment.",
+        "verifiedAt": "2026-10-01T11:38:04Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/pdf/2312.09397",
+        "summary": "CompleteMay2024 version verifies cloud GPT4 control-parameter programs, format/parameter safeguards, actual Lexus, proving-ground and parking tests with a safety driver.",
+        "verifiedAt": "2026-10-01T11:38:04Z",
+        "retrieval": "Full primary PDF downloaded and inspected with pdftotext"
+      },
+      {
+        "id": "s7",
+        "label": "purduedigitaltwin.github.io / source 7",
+        "url": "https://purduedigitaltwin.github.io/people.html",
+        "summary": "Current2026 lab roster and explicit Wang coadvising links to Lingxi Li and Yaobin Chen; not an open visitor offer for those coadvisers.",
+        "verifiedAt": "2026-10-01T11:38:04Z",
+        "retrieval": "Direct official/primary source via web.run"
+      }
+    ],
+    "unknowns": [
+      "Reuse purdue notes. Formal Student Intern/visiting appointment can include external degree students, with degree linkage, return-to-study expectation, host/department/ISS approval and permitted personal/family support. Current listed support minimum is$1885/month, not a complete trip budget;2027 amounts, insurance and processing should be rechecked. Informal volunteering is not a substitute. Exact campus, project access and eight-week dates require host agreement.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#purdue)"
+    ],
+    "publicEmail": "ziran@purdue.edu"
+  },
+  {
+    "id": "lingxi-li",
+    "name": "Lingxi Li",
+    "aliases": [],
+    "school": "Purdue University in Indianapolis",
+    "homepage": "https://web.ics.purdue.edu/~li2317/",
+    "title": "Professor of Electrical and Computer Engineering",
+    "department": "Elmore Family School of Electrical and Computer Engineering; TASI",
+    "batch": "control-101",
+    "discoveredAt": "2026-10-01T11:32:41Z",
+    "verifiedAt": "2026-10-01T11:38:04Z",
+    "researchAreas": [
+      "AI-enabled autonomous vehicles",
+      "Intelligent controls",
+      "Human-autonomy interaction",
+      "Driving safety and validation"
+    ],
+    "fitReason": "Current Purdue professor and active doctoral advisor with attributable LLM-to-real-vehicle collaboration and continued autonomous-systems research.",
+    "physicalEvidence": {
+      "status": "Verified older collaborative Talk2Drive real-vehicle execution; independent platform access unknown",
+      "summary": "Talk2Drive already demonstrated actual Lexus RX450h execution in December 2023; the completeMay2024 revision reports Columbus proving-ground highway/intersection scenarios and a West Lafayette parking track. Cloud GPT4 generates ROS/Autoware parameter programs after spoken requests, with memory-based personalization. Format and parameter checks reject invalid commands; classical NDT localization and pure-pursuit following remain underneath. A human safety driver is always ready to take over. This is learned language interpretation affecting real vehicle behavior, not a learned low-level driving policy or unsupervised public-road deployment. The2025 award does not date a new experiment. Coauthorship is verified, but the field platform is collaborative and not asserted to be his independently available university robot.",
+      "sourceIds": [
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current personal and DT Lab rosters independently confirm active doctoral advising, including coadvising Guanxiao Li with Wang. No explicit external-master short-visit invitation was verified for Li. Wang’s homepage invitation does not transfer to all coauthors. Indianapolis versus West Lafayette working location and summer2027 capacity need confirmation.",
+      "sourceIds": [
+        "s1",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 35,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 13
+    },
+    "scoreReasons": {
+      "fit": "Substantive autonomous-vehicle AI collaboration within an active control/safety portfolio.",
+      "physical": "Verified real learned-language-to-vehicle behavior, collaborative and2023–24 provenance.",
+      "shortVisit": "No PI-specific external-master visitor invitation.",
+      "freshness": "ExplicitApril2026 related autonomous-systems methods and current advising; no new learned-hardware execution inferred."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "web.ics.purdue.edu / source 1",
+        "url": "https://web.ics.purdue.edu/~li2317/",
+        "summary": "Current Purdue Professor, current doctoral advisees and coadvising confirmation; priorIUPUI distinguished.",
+        "verifiedAt": "2026-10-01T11:38:04Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "engineering.purdue.edu / source 2",
+        "url": "https://engineering.purdue.edu/TASI/people",
+        "summary": "Current TASI faculty affiliation and public Purdue contact.",
+        "verifiedAt": "2026-10-01T11:38:04Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/abs/2604.02573",
+        "summary": "April 2, 2026 autonomous-driving risk-generation study explicitly evaluates synthetic/simulator interactions, not real collision tests.",
+        "verifiedAt": "2026-10-01T11:38:04Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2312.09397v1",
+        "summary": "December 2023 version already contains actual parking-track Lexus execution; not a new2025–26 experiment.",
+        "verifiedAt": "2026-10-01T11:38:04Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/pdf/2312.09397",
+        "summary": "CompleteMay2024 version verifies cloud GPT4 control-parameter programs, format/parameter safeguards, actual Lexus, proving-ground and parking tests with a safety driver.",
+        "verifiedAt": "2026-10-01T11:38:04Z",
+        "retrieval": "Full primary PDF downloaded and inspected with pdftotext"
+      },
+      {
+        "id": "s6",
+        "label": "purduedigitaltwin.github.io / source 6",
+        "url": "https://purduedigitaltwin.github.io/people.html",
+        "summary": "Current2026 lab roster and explicit Wang coadvising links to Lingxi Li and Yaobin Chen; not an open visitor offer for those coadvisers.",
+        "verifiedAt": "2026-10-01T11:38:04Z",
+        "retrieval": "Direct official/primary source via web.run"
+      }
+    ],
+    "unknowns": [
+      "Reuse purdue notes. Formal Student Intern/visiting appointment can include external degree students, with degree linkage, return-to-study expectation, host/department/ISS approval and permitted personal/family support. Current listed support minimum is$1885/month, not a complete trip budget;2027 amounts, insurance and processing should be rechecked. Informal volunteering is not a substitute. Exact campus, project access and eight-week dates require host agreement. For an Indianapolis placement, confirm the local host unit and applicable processing with Purdue ISS rather than rely on a West Lafayette lab address.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#purdue)"
+    ],
+    "publicEmail": "lingxili@purdue.edu"
+  },
+  {
+    "id": "yaobin-chen",
+    "name": "Yaobin Chen",
+    "aliases": [],
+    "school": "Purdue University in Indianapolis",
+    "homepage": "https://engineering.purdue.edu/ECE/People/ptProfile?photo=right&resource_id=296665",
+    "title": "Professor; Director of Transportation and Autonomous Systems Institute",
+    "department": "Elmore Family School of Electrical and Computer Engineering; Transportation and Autonomous Systems Institute",
+    "batch": "control-101",
+    "discoveredAt": "2026-10-01T11:32:41Z",
+    "verifiedAt": "2026-10-01T11:38:04Z",
+    "researchAreas": [
+      "Intelligent controls and robotics",
+      "Autonomous vehicles",
+      "Language-based vehicle interaction",
+      "Active safety and validation"
+    ],
+    "fitReason": "Current autonomous-systems institute director and verified graduate co-advisor with a specific real-vehicle LLM research contribution.",
+    "physicalEvidence": {
+      "status": "Verified2023–24 collaborative real Lexus LLM control; current independent hardware access unconfirmed",
+      "summary": "Talk2Drive already demonstrated actual Lexus RX450h execution in December 2023; the completeMay2024 revision reports Columbus proving-ground highway/intersection scenarios and a West Lafayette parking track. Cloud GPT4 generates ROS/Autoware parameter programs after spoken requests, with memory-based personalization. Format and parameter checks reject invalid commands; classical NDT localization and pure-pursuit following remain underneath. A human safety driver is always ready to take over. This is learned language interpretation affecting real vehicle behavior, not a learned low-level driving policy or unsupervised public-road deployment. The2025 award does not date a new experiment. Attribution is as a collaborating faculty author. His currentTASI role and coadvising establish an academic research host, without proving access to the Talk2Drive vehicle.",
+      "sourceIds": [
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current official Purdue profile identifies Professor andTASI director in Indianapolis; the currentDT roster confirms coadvising Juntong Peng. No external-master short-visit invitation or2027 eight-week project was verified. Generic institute collaboration contacts and Wang’s separate internship statement are not a Chen offer.",
+      "sourceIds": [
+        "s1",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 34,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 13
+    },
+    "scoreReasons": {
+      "fit": "Verified language-model vehicle execution alongside a broader intelligent transportation/control program.",
+      "physical": "Same attributable older collaborative real-vehicle study; not extra independent hardware evidence.",
+      "shortVisit": "No individual external-master visitor invitation established.",
+      "freshness": "ExplicitApril2026 related autonomous-systems study; old physical experiment date preserved."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.purdue.edu / source 1",
+        "url": "https://engineering.purdue.edu/ECE/People/ptProfile?photo=right&resource_id=296665",
+        "summary": "Current Professor/TASI director, Indianapolis campus and public email.",
+        "verifiedAt": "2026-10-01T11:38:04Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "engineering.purdue.edu / source 2",
+        "url": "https://engineering.purdue.edu/TASI/people",
+        "summary": "Independent current institute leadership and Purdue affiliation.",
+        "verifiedAt": "2026-10-01T11:38:04Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/abs/2604.02573",
+        "summary": "April 2026 coauthored vehicle/e-scooter scenario-generation methods, explicitly simulated safety-critical interactions.",
+        "verifiedAt": "2026-10-01T11:38:04Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2312.09397v1",
+        "summary": "December 2023 version already contains actual parking-track Lexus execution; not a new2025–26 experiment.",
+        "verifiedAt": "2026-10-01T11:38:04Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/pdf/2312.09397",
+        "summary": "CompleteMay2024 version verifies cloud GPT4 control-parameter programs, format/parameter safeguards, actual Lexus, proving-ground and parking tests with a safety driver.",
+        "verifiedAt": "2026-10-01T11:38:04Z",
+        "retrieval": "Full primary PDF downloaded and inspected with pdftotext"
+      },
+      {
+        "id": "s6",
+        "label": "purduedigitaltwin.github.io / source 6",
+        "url": "https://purduedigitaltwin.github.io/people.html",
+        "summary": "Current2026 lab roster and explicit Wang coadvising links to Lingxi Li and Yaobin Chen; not an open visitor offer for those coadvisers.",
+        "verifiedAt": "2026-10-01T11:38:04Z",
+        "retrieval": "Direct official/primary source via web.run"
+      }
+    ],
+    "unknowns": [
+      "Reuse purdue notes. Formal Student Intern/visiting appointment can include external degree students, with degree linkage, return-to-study expectation, host/department/ISS approval and permitted personal/family support. Current listed support minimum is$1885/month, not a complete trip budget;2027 amounts, insurance and processing should be rechecked. Informal volunteering is not a substitute. Exact campus, project access and eight-week dates require host agreement. Confirm Indianapolis-specific working location and host-unit processing; current formal Purdue role supersedes olderIUPUI affiliations.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#purdue)"
+    ],
+    "publicEmail": "chen62@purdue.edu"
+  }
+]

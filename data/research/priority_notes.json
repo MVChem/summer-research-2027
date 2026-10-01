@@ -1280,6 +1280,155 @@
           "evidence": "Official hiring announcement explicitly states Fall 2025 start."
         }
       ]
+    },
+    "yantian-zha": {
+      "appointmentStart": {},
+      "display": "现任AP；本人实验室称2025起，独立官方起始年未核",
+      "caveat": "RL与多模态机器人任务方法仅仿真；被动自由落体不是学习控制；未核实外校访客入口",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.ncat.edu/coe/departments/cs/people/faculty-and-staff.php",
+          "observedAt": "2026-10-01T12:15:04Z",
+          "evidence": "Official current Assistant Professor title."
+        },
+        {
+          "id": "s2",
+          "url": "https://profiles.ncat.edu/en/persons/yantian-zha/",
+          "observedAt": "2026-10-01T12:15:04Z",
+          "evidence": "Official CS profile and professional email; course-date ranges are not appointment dates."
+        },
+        {
+          "id": "s3",
+          "url": "https://yantianzha.github.io/",
+          "observedAt": "2026-10-01T12:15:04Z",
+          "evidence": "Current PI agenda and recruitment; no distinct outside-master visitor invitation verified."
+        },
+        {
+          "id": "s4",
+          "url": "https://yantianzha.github.io/oarl.github.io/index_people.html",
+          "observedAt": "2026-10-01T12:15:04Z",
+          "evidence": "PI-maintained appointment chronology and current doctoral roster; 2025 start has not been independently university-dated."
+        }
+      ]
+    },
+    "mingjun-li": {
+      "appointmentStart": {
+        "year": 2025,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "s1"
+        ],
+        "evidence": "Official university biography states that he joined as Assistant Professor in Fall 2025.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2025",
+      "caveat": "2025秋AP；人类VR动作建模备选，无机器人动作；未核外校访客，学校详细指南仅2017版本",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.hartford.edu/directory/ceta/li-mingjun.aspx",
+          "observedAt": "2026-10-01T12:15:04Z",
+          "evidence": "Official current assistant professorship, exact Fall 2025 start, professional email and spatial-AI research agenda."
+        }
+      ]
+    },
+    "yeganeh-madadi": {
+      "appointmentStart": {
+        "year": 2024,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "evidence": "Official August 22, 2024 college announcement includes Madadi among incoming full-time Assistant Professors; current department directory confirms title. PI biography further specifies August 2024.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2024",
+      "caveat": "2024新AP；真实YeRo和代码桥接存在，但完成的学习机器人试验未核；访客与硕士主办类别未知",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://compsci.appstate.edu/faculty-staff/dr-yeganeh-madadi-phd",
+          "observedAt": "2026-10-01T12:30:20Z",
+          "evidence": "Official current Assistant Professor/Lab Director title, email and links to PI/lab."
+        },
+        {
+          "id": "s2",
+          "url": "https://cas.appstate.edu/news/meet-new-faculty-members-app-states-college-arts-and-sciences-0",
+          "observedAt": "2026-10-01T12:30:20Z",
+          "evidence": "Official August 22, 2024 new-faculty announcement establishes the appointment cohort."
+        }
+      ]
+    },
+    "nathan-j-szymanski": {
+      "appointmentStart": {
+        "year": 2025,
+        "month": 11,
+        "day": 1,
+        "precision": "day",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "evidence": "Official UCLA new-faculty roster explicitly gives November1,2025. Current faculty profile confirms role; no first-ever faculty claim inferred."
+      },
+      "display": "2025-11-01",
+      "caveat": "自主材料实验备选；真实机器人闭环来自Berkeley/LBNL2023，2026更正不是新部署；未核实外校访客",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.samueli.ucla.edu/new-faculty-2023-2026/",
+          "observedAt": "2026-10-01T12:45:34Z",
+          "evidence": "Full official new-faculty cohort: Nathan Szymanski AP startNovember1, 2025."
+        },
+        {
+          "id": "s2",
+          "url": "https://samueli.ucla.edu/people/nathan-szymanski/",
+          "observedAt": "2026-10-01T12:45:34Z",
+          "evidence": "Full current faculty role/contact and autonomous-lab research attribution."
+        }
+      ]
+    },
+    "yan-zeng": {
+      "appointmentStart": {
+        "year": 2026,
+        "precision": "year",
+        "status": "current",
+        "appointmentType": "institution-move",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ],
+        "evidence": "Official2026 Vanderbilt cohort and current VINSE confirm AP. Current lab records Vanderbilt2026–present after FloridaState AP2024–2026; this is a move, not firstfaculty2026."
+      },
+      "display": "2026转入Vanderbilt；此前FSU AP2024–2026",
+      "caveat": "明确机构转移，非首次2026 faculty；自主材料实验备选，旧Berkeley/LBNL设备不等于新校资源；访客未知",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.vanderbilt.edu/faculty-affairs/2026-new-faculty/",
+          "observedAt": "2026-10-01T12:45:34Z",
+          "evidence": "Full official2026 cohort lists Yan Zeng as Mechanical Engineering Assistant Professor."
+        },
+        {
+          "id": "s2",
+          "url": "https://www.vanderbilt.edu/vinse/personnel/?bio=yan+zeng",
+          "observedAt": "2026-10-01T12:45:34Z",
+          "evidence": "Full current official role, email, autonomous robotic experimentation and2026 research listing."
+        },
+        {
+          "id": "s3",
+          "url": "https://www.yan-zeng.com/team",
+          "observedAt": "2026-10-01T12:45:34Z",
+          "evidence": "Full current academic history: Vanderbilt2026, FSU2024–2026; graduate/master advising is not outside-visitor evidence."
+        }
+      ]
     }
   },
   "constraints": [

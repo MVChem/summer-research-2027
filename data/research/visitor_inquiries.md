@@ -2,11 +2,11 @@
 
 [新AP优先视图](ap_priority.md) · [全部候选偏好排序](ranked_candidates.md) · [原名单AP后续核查](baseline_ap.md) · [原始索引](mentor_candidates.json) · [机构规则](eligibility_notes.md) · [原200位后续补充](baseline_addenda.md)
 
-从现有记录筛出 **110 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。
+从现有记录筛出 **111 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。
 
 本页各类入口内按已核实任职与限制分层：新AP优先，明确长时段偏好/最低期限靠后；同层按研究匹配、真机、短访、新鲜度及发现时间。约八周不是硬筛选；不把一般询问、学校制度或个人自费能力当成已获资格。所有人的主办类别、具体时长、2027容量、经费和设备访问都需确认。具体奖学金要求、无资助、时间不匹配、任职时点及证据限制优先看下列加粗提示，再读完整资料。
 
-## 访问/短期研究问询线索（现场安排仍须确认） · 100 条
+## 访问/短期研究问询线索（现场安排仍须确认） · 101 条
 
 | 导师 / 机构 | 匹配 / 真机 / 短访 | 已知限制与证据状态 | 直接来源 / 机构规则 | 记录核查 UTC |
 |---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Alexandra Ion](batches/hri-050.md#alexandra-ion) · Carnegie Mellon University | 37/25/8 | **公开问询入口；详细资格与期限未定** | [s3](https://interactive-structures.org/join.html) [规则](eligibility_notes.md#cmu-student-intern) | 2026-10-01T04:28:48Z |
 | [Yifan Zhu](batches/embodied-006.md#yifan-zhu) · University of Illinois Chicago | 37/20/9 | **公开问询入口；详细资格与期限未定** | [s2](https://yifanzhu95.github.io/prospective/) | 2026-09-30T22:47:41Z |
 | [Yuxiong Wang](batches/embodied-003.md#yuxiong-wang) · University of Illinois Urbana-Champaign | 37/20/8 | **公开问询入口；详细资格与期限未定** | [s2](https://yxw.cs.illinois.edu/) | 2026-09-30T21:42:30Z |
+| [Ziran Wang](batches/control-101.md#ziran-wang) · Purdue University | 37/20/8 | **独立现场/远程intern邀请仍列在主页（标2025-09更新）；当前2026传单只招PhD/postdoc；真车实验为2023–24并有安全驾驶员，硕士时长/资金未知；受限真机证据：Verified2023–24 real Lexus language-to-control execution; supervised collaborative Purdue apparatus** | [s1](https://engineering.purdue.edu/CCE/People/Affiliations/a00015/ptProfile?group_id=1920&resource_id=271311) [s2](https://ziranw.github.io/) [s3](https://ziranw.github.io/Ziran_Purdue_Flyer.pdf) [s5](https://arxiv.org/html/2312.09397v1) [s6](https://arxiv.org/pdf/2312.09397) [规则](eligibility_notes.md#purdue) | 2026-10-01T11:38:04Z |
 | [Fei Liu](batches/embodied-007.md#fei-liu) · University of Tennessee, Knoxville | 37/20/8 | **公开问询入口；详细资格与期限未定** | [s2](https://lnnx2006.github.io/) | 2026-09-30T22:47:41Z |
 | [Yuzhang Shang](batches/embodied-017.md#yuzhang-shang) · University of Central Florida | 37/20/7 | **公开问询入口；详细资格与期限未定** | [s4](https://42shawn.github.io/EXceL-Lab@UCF/) | 2026-09-30T23:29:02Z |
 | [Zhengzhong Tu](batches/embodied-022.md#zhengzhong-tu) · Texas A&M University | 37/20/7 | **公开问询入口；详细资格与期限未定** | [s2](https://taco-group.github.io/) | 2026-09-30T23:58:03Z |

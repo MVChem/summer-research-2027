@@ -743,3 +743,27 @@ Tacoma 补充核查：2026-10-01T01:02:36Z。[SET visiting appointments](https:/
 核查：2026-10-01T03:03:03Z。[当前国际服务页](https://www.slu.edu/international-services/visa/visa-types/work-visa.php) 仍链接 [2015 年 Scholar handbook](https://www.slu.edu/provost/policies/faculty/international-employment/policy_j-1-scholars-handbook_4-2015.pdf)，有最长六个月的 Short-Term Scholar，但并未明确继续在读外校硕士或 Student Intern 的资格。八周只符合该旧手册的时间范围，具体教育/专业资历、学术任命和当前类别须 OIS 审定。
 
 当前链接的 [New J-1 Visitor 表](https://www.slu.edu/international-services/-pdf/new_j1_visitor_form.docx) 明确要求 self-sponsored 者提供银行证明，支持自我资助 Scholar 的可能性，但不能替代合格任命。[部门表](https://www.slu.edu/international-services/-pdf/new-j1-department-form.pdf) 要求提前四至六个月、导师/chair/dean 签字及足够支持/英语证明。现行月支持最低数、大学处理费和完整保险成本未验证，不使用旧教师报告的金额作 2027 标准。导师接收、研究准入与最终资金条件仍需确认。
+
+<a id="brigham-young"></a>
+
+## Brigham Young · 外部学位 Intern、个人支持与行为规范承诺
+
+核查：2026-10-01T03:07:03Z。[当前 J-1 类别页](https://iss.byu.edu/j-1) 明确 Student Intern 覆盖境外 postsecondary 学位学生、研究满足原校教育目标，最长一年，未限本科，但具体在读硕士任命仍需 ISSS 批准。Student Non-Degree 与 Short-Term Scholar 是不同类别，不自动替换研究访问。未核实最低访期、2027 名额或八周项目接收。
+
+[部门 sponsorship 页](https://iss.byu.edu/for-departments) 明确 Exchange Visitors 可由个人资金支持；单人每月 2,000 美元是财力证明，不是大学收费或完整实际预算，具体类别和 2027 金额仍需确认。只有部门能发起 DS-2019，[官方流程图](https://brightspotcdn.byu.edu/05/bd/91abfa554b918b061237b82b3cc2/ds-2019-process.png) 要求先决定类别、日期、工作及保险支持，再向访问者索取证明，未公布数字提前期或处理费。中央条件还要求英语、全程保险及对 Church Educational System Honor Code 的个人承诺；这里只记录公开项目条件，未作任何承诺、申请或对个人宗教/观点的推断。
+
+<a id="ohio-state"></a>
+
+## Ohio State · Scholar 自费条款不等于八周硕士任命已成立
+
+核查：2026-10-01T03:09:24Z。[OIA 签证比较](https://oia.osu.edu/scholars/inviting-scholars-ohio-state/visa-comparison) 允许最长六个月 Short-Term Scholar 及个人/机构等资金，但未明确外校在读硕士的具体任命或 Student Intern 路径。[CAR 2024 年案例](https://car.osu.edu/news/2024/04/around-world-car) 有外校硕士/博士访问、通常六至十二个月，这只是工程先例，不是全校最短时长或当前 Cyberbotics 八周邀请。Ohio State 与 Ohio University 的流程分开。
+
+[当前资金页](https://oia.osu.edu/scholars/j-1-visiting-scholars/j-1-funding) 列单人每月 1,600 美元并描述包含生活和保险，接受个人银行等组合证明；未标生效日期，需重核 2027，不当完整实际预算。[主办页](https://oia.osu.edu/scholars/inviting-scholars-ohio-state) 要求部门发起、英语验证及 Workday 处理 425 美元新 Scholar 费；完整材料后三天只算文件处理，非全部准备时间。具体硕士资格、研究准入、保险方案、资金及导师接收仍待 OIA/单位批准。
+
+<a id="depaul"></a>
+
+## DePaul · 访问 Faculty/Scholar 框架中的硕士资格未知
+
+核查：2026-10-01T03:09:24Z。[Global Engagement 主办页](https://offices.depaul.edu/global-engagement/faculty-resources/Pages/invite-international-scholars-faculty.aspx) 有 Scholar/Professor、最长六个月 Short-Term Scholar 并允许个人资金，但主要以 visiting faculty 描述，未确认外校在读硕士的研究学生任命或 Student Intern。只有学术部门可发起 DS-2019，请求须经 dean/部门负责人、资金和保险批准；材料齐后约一周不是完整办理或接收承诺。
+
+当前仍链接的 [DS-2019 表](https://offices.depaul.edu/global-engagement/faculty-resources/Documents/J-1%20Scholar%20DS-2019%20Request%20Form.pdf) 日期为 2019-10-02，列个人资金及每月 1,850 美元，仅作有日期的旧参考，不当已验证的当前或 2027 最低数。[2019 年资料表](https://offices.depaul.edu/global-engagement/faculty-resources/Documents/J-1%20Scholar%20Data%20Form.pdf) 询问职业/CV，却未建立硕士最低资格。当前任命、八周项目、资金/费用和设备访问仍需确认，不能以一般自费许可覆盖实验室仅限本校学生的招募。

@@ -1,0 +1,184 @@
+[
+  {
+    "id": "zhi-qi-cheng",
+    "name": "Zhi-Qi Cheng",
+    "aliases": [],
+    "school": "University of Washington Tacoma",
+    "homepage": "https://faculty.washington.edu/zhiqics/",
+    "title": "Assistant Professor",
+    "department": "Computer Science & Systems, School of Engineering & Technology",
+    "batch": "embodied-029",
+    "discoveredAt": "2026-10-01T00:54:06Z",
+    "verifiedAt": "2026-10-01T01:00:00Z",
+    "researchAreas": [
+      "Vision-language navigation",
+      "Human-aware robot learning",
+      "Multimodal world models",
+      "Embodied planning"
+    ],
+    "fitReason": "The current MILab program connects multimodal learning to human-aware navigation, with a directly attributable robot evaluation and current doctoral students leading the work.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "HA-VLN 2.0, revised August 18, 2026, deploys learned navigation agents on a Unitree Go2-EDU with D435i RGB-D camera, MID360 LiDAR, IMU, Jetson NX inference and Raspberry Pi control. It tests four indoor layout types with and without moving volunteers; the paper reports 30-episode averages. Cheng is corresponding author, the leading authors are current MILab PhD students, and UW startup support is acknowledged.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The live Join page covers PhD/postdoc applicants, research assistants and current UW students. A visiting PhD student appears in the roster, but no explicit external-master’s short-visit invitation was found; precedent receives zero opportunity credit.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct language-conditioned, socially aware embodied learning with world-model relevance.",
+      "physical": "Current group authorship, named hardware and detailed physical experiments.",
+      "shortVisit": "No current external-master’s short-visit invitation verified.",
+      "freshness": "August 2026 revised physical study and current UW lab pages."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "faculty.washington.edu / source 1",
+        "url": "https://faculty.washington.edu/zhiqics/",
+        "summary": "Current UW-hosted Assistant Professor profile, research agenda and contact.",
+        "verifiedAt": "2026-10-01T01:00:00Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "depts.washington.edu / source 2",
+        "url": "https://depts.washington.edu/uwmilab/people",
+        "summary": "Current lab director and PhD authors Yifei Dong and Fengyi Wu; visiting PhD precedent is not a recruitment promise.",
+        "verifiedAt": "2026-10-01T01:00:00Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "depts.washington.edu / source 3",
+        "url": "https://depts.washington.edu/uwmilab/join",
+        "summary": "Current recruitment pathways; no explicit short external-master’s visitor route.",
+        "verifiedAt": "2026-10-01T01:00:00Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2503.14229v5",
+        "summary": "August 2026 primary paper: Section 7.2 and Appendix D.7 physical Go2 deployment, setup, 30-episode protocol wording, low success rates and collision failures.",
+        "verifiedAt": "2026-10-01T01:00:00Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Physical navigation success remains limited: the best listed human-present aggregate is 18 percent, with failures from crowd convergence. The table and nearby prose differ on whether 30 trials are per region type or per instance, so the precise total is not inferred. Do not treat the separate language-conditioned world-model benchmark as independently proven hardware deployment. University of Washington Tacoma is the current campus; Seattle-only procedures should not automatically transfer.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "zhiqics@uw.edu"
+  },
+  {
+    "id": "tianlong-chen",
+    "name": "Tianlong Chen",
+    "aliases": [],
+    "school": "University of North Carolina at Chapel Hill",
+    "homepage": "https://tianlong-chen.github.io/",
+    "title": "Assistant Professor",
+    "department": "Computer Science",
+    "batch": "embodied-029",
+    "discoveredAt": "2026-10-01T00:54:14Z",
+    "verifiedAt": "2026-10-01T01:00:00Z",
+    "researchAreas": [
+      "Vision-language-action coordination",
+      "Reliable embodied agents",
+      "LLM-guided robot design",
+      "Efficient and trustworthy machine learning"
+    ],
+    "fitReason": "Recent work extends the broader trustworthy-ML program into adaptive VLA task coordination and language-guided physical robot design, both potentially suitable for a focused CS research project.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "September 24, 2026 AdaHVLA identifies Chen as UNC corresponding author and shows qualitative deployment on a real Unitree Go2. Its numerical navigation and Panda manipulation benchmarks are simulated. A separate September 8 continuum-robot design paper physically fabricates three LLM-designed tendon-driven mechanisms for catching and grasping; hardware location and current UNC visitor access are not established.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The live homepage and cloud-browser read did not reproduce the visitor/intern invitation quoted in older indexed or third-party material. Current primary evidence therefore receives zero short-visit points; degree/postdoc recruitment and historical remote interns are not summer acceptance.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Recent direct VLA coordination and physical-design research within a broader ML group.",
+      "physical": "Two current physical demonstrations, but quantitative VLA benchmarks are simulation and local equipment access is unresolved.",
+      "shortVisit": "Older invitation was not reproduced on the current live primary page; no opportunity credit.",
+      "freshness": "Two explicitly dated September 2026 primary studies and current official appointment."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "cs.unc.edu / source 1",
+        "url": "https://cs.unc.edu/person/tianlong-chen/",
+        "summary": "Direct official current Assistant Professor, Computer Science and public email.",
+        "verifiedAt": "2026-10-01T01:00:00Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "tianlong-chen.github.io / source 2",
+        "url": "https://tianlong-chen.github.io/",
+        "summary": "Live current lab/homepage and browser read; no visitor invitation visible in checked version.",
+        "verifiedAt": "2026-10-01T01:00:00Z",
+        "retrieval": "direct-browser-primary"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2609.29204v1",
+        "summary": "September 24 primary AdaHVLA paper: UNC corresponding author; Figure 5 and Section V-C qualitative physical Go2; core numerical evaluations are simulation.",
+        "verifiedAt": "2026-10-01T01:00:00Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2609.08220v1",
+        "summary": "September 8 primary continuum-design study: three fabricated LLM-generated designs, physical catching/grasping tests and sim-to-real limits.",
+        "verifiedAt": "2026-10-01T01:00:00Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "AdaHVLA edits task-coordination code while keeping the VLA parameters fixed; its percentage gains must not be presented as physical robot success rates. The physical Go2 example is qualitative, and the continuum work validates selected designs rather than broad real-world policy learning. Current UNC ownership/access is unconfirmed, so physical evidence is capped at 20. See the UNC institutional supplement for appointment and personal-funding caveats.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "tianlong@cs.unc.edu"
+  }
+]

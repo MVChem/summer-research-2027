@@ -65,6 +65,7 @@
     "batches/embodied-026.json",
     "batches/embodied-027.json",
     "batches/embodied-028.json",
+    "batches/embodied-029.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -4945,6 +4946,58 @@
       "shortVisitStatus": "inquiry-only",
       "recordFile": "batches/embodied-028.json",
       "detailPage": "batches/embodied-028.md#huan-zhang"
+    },
+    {
+      "id": "zhi-qi-cheng",
+      "name": "Zhi-Qi Cheng",
+      "aliases": [],
+      "school": "University of Washington Tacoma",
+      "title": "Assistant Professor",
+      "homepage": "https://faculty.washington.edu/zhiqics/",
+      "batch": "embodied-029",
+      "discoveredAt": "2026-10-01T00:54:06Z",
+      "verifiedAt": "2026-10-01T01:00:00Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Vision-language navigation",
+        "Human-aware robot learning",
+        "Multimodal world models",
+        "Embodied planning"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-029.json",
+      "detailPage": "batches/embodied-029.md#zhi-qi-cheng"
+    },
+    {
+      "id": "tianlong-chen",
+      "name": "Tianlong Chen",
+      "aliases": [],
+      "school": "University of North Carolina at Chapel Hill",
+      "title": "Assistant Professor",
+      "homepage": "https://tianlong-chen.github.io/",
+      "batch": "embodied-029",
+      "discoveredAt": "2026-10-01T00:54:14Z",
+      "verifiedAt": "2026-10-01T01:00:00Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Vision-language-action coordination",
+        "Reliable embodied agents",
+        "LLM-guided robot design",
+        "Efficient and trustworthy machine learning"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-029.json",
+      "detailPage": "batches/embodied-029.md#tianlong-chen"
     },
     {
       "id": "henny-admoni",

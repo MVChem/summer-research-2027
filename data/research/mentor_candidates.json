@@ -88,6 +88,7 @@
     "batches/control-077.json",
     "batches/control-078.json",
     "batches/control-079.json",
+    "batches/control-080.json",
     "batches/control-081.json",
     "batches/control-086.json",
     "batches/embodied-001.json",
@@ -4680,6 +4681,84 @@
       "shortVisitStatus": "precedent-only · 仅以往本科实习；当前PhD广告标注2022",
       "recordFile": "batches/control-079.json",
       "detailPage": "batches/control-079.md#sabur-hassan-baidya"
+    },
+    {
+      "id": "zhen-ni",
+      "name": "Zhen Ni",
+      "aliases": [],
+      "school": "Florida Atlantic University",
+      "title": "Associate Professor",
+      "homepage": "https://www.fau.edu/engineering/directory/faculty/ni/",
+      "batch": "control-080",
+      "discoveredAt": "2026-10-01T06:53:34Z",
+      "verifiedAt": "2026-10-01T07:05:30Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Reinforcement learning",
+        "Adaptive dynamic programming",
+        "Safe and cooperative robot control",
+        "Physical mobile-robot navigation"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-080.json",
+      "detailPage": "batches/control-080.md#zhen-ni"
+    },
+    {
+      "id": "xiangnan-zhong",
+      "name": "Xiangnan Zhong",
+      "aliases": [],
+      "school": "Florida Atlantic University",
+      "title": "Associate Professor",
+      "homepage": "https://www.fau.edu/engineering/directory/faculty/zhong/",
+      "batch": "control-080",
+      "discoveredAt": "2026-10-01T06:53:34Z",
+      "verifiedAt": "2026-10-01T07:05:30Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Reinforcement learning",
+        "Adaptive dynamic programming",
+        "Safe and cooperative robot control",
+        "Physical mobile-robot navigation"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-080.json",
+      "detailPage": "batches/control-080.md#xiangnan-zhong"
+    },
+    {
+      "id": "minghan-wei",
+      "name": "Minghan Wei",
+      "aliases": [],
+      "school": "Florida Atlantic University",
+      "title": "Assistant Professor; SIMA Lab lead",
+      "homepage": "https://minghanwei.github.io/",
+      "batch": "control-080",
+      "discoveredAt": "2026-10-01T07:01:11Z",
+      "verifiedAt": "2026-10-01T07:05:30Z",
+      "scores": {
+        "fit": 39,
+        "physical": 23,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Vision-language models for robot navigation",
+        "Robot perception and planning",
+        "Learning-enabled field robotics",
+        "Energy-aware autonomous systems"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-080.json",
+      "detailPage": "batches/control-080.md#minghan-wei"
     },
     {
       "id": "sihong-he",

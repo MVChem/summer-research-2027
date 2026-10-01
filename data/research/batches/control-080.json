@@ -1,0 +1,306 @@
+[
+  {
+    "id": "zhen-ni",
+    "name": "Zhen Ni",
+    "aliases": [],
+    "school": "Florida Atlantic University",
+    "homepage": "https://www.fau.edu/engineering/directory/faculty/ni/",
+    "title": "Associate Professor",
+    "department": "Electrical Engineering and Computer Science",
+    "batch": "control-080",
+    "discoveredAt": "2026-10-01T06:53:34Z",
+    "verifiedAt": "2026-10-01T07:05:30Z",
+    "researchAreas": [
+      "Reinforcement learning",
+      "Adaptive dynamic programming",
+      "Safe and cooperative robot control",
+      "Physical mobile-robot navigation"
+    ],
+    "fitReason": "Substantive robotics learning program with fully verified PPO sim-to-real indoor navigation.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Full November 2024 Applied Sciences paper trains PPO in Gazebo and deploys fixed weights on a real TurtleBot using live LiDAR in three indoor mazes. Evaluation is five runs of 100 navigation trials per maze; success is 95.2%, 72.4% and 88.1%, so the abstract’s over-88% statement must not be generalized across layouts. Parameters are not updated during physical testing. It is actual closed-loop navigation, not merely a simulator or dataset. The 2025 SPIE contraction/parallel-Kinova titles lack inspected full methods and receive no extra hardware credit. Current 2026 federated-RL paper uses MuJoCo simulation. Corresponding author; topic/framework and experiment-design contributions are explicit, but no independent current advisee or sole-platform ownership was established, so physical20.",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No applicable external-master short-visitor invitation verified in the current official/personal sources. Generic research grants, shared-testbed intentions and degree teaching do not establish summer 2027 availability.",
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong robot RL, adaptive and multi-agent learning; direct PPO navigation contribution.",
+      "physical": "Verified physical paper, conservatively capped for shared project without independent current lab-access/advisee linkage.",
+      "shortVisit": "No current external visitor offer verified.",
+      "freshness": "2024 physical study plus independently current 2025–26 robotics-learning activity."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.fau.edu / source 1",
+        "url": "https://www.fau.edu/engineering/directory/faculty/ni/",
+        "summary": "Current associate-professor appointment, EECS, public email and learning/robotics program.",
+        "verifiedAt": "2026-10-01T07:05:30Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "mdpi-res.com / source 2",
+        "url": "https://mdpi-res.com/d_attachment/applsci/applsci-14-11020/article_deploy/applsci-14-11020.pdf",
+        "summary": "Full 17-page primary paper, §§4–5 and Appendix C verify real TurtleBot PPO transfer, per-maze trials and no physical-test weight updates; author contributions distinguish roles.",
+        "verifiedAt": "2026-10-01T07:05:30Z",
+        "retrieval": "Public publisher PDF downloaded and read with pdftotext"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/abs/2605.27385",
+        "summary": "2026 personalized observation normalization for federated RL; heterogeneous MuJoCo evaluation is simulation.",
+        "verifiedAt": "2026-10-01T07:05:30Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "www.spiecareercenter.org / source 4",
+        "url": "https://www.spiecareercenter.org/documents/ConferencesExhibitions/Programs/2025/DCS25-Technical-Program-Ex-Guide.pdf",
+        "summary": "Official 2025 program verifies current robot-learning coauthorship, not physical methods.",
+        "verifiedAt": "2026-10-01T07:05:30Z",
+        "retrieval": "Official conference PDF via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "www.fau.edu / source 5",
+        "url": "https://www.fau.edu/uupc/documents/materials/2025/october-6-2025/bs-ai-with-biology-faculty.pdf",
+        "summary": "August 2025 certified university-hosted biosketch establishes continued methods program and SPIE project.",
+        "verifiedAt": "2026-10-01T07:05:30Z",
+        "retrieval": "Official university PDF via web.run"
+      }
+    ],
+    "unknowns": [
+      "FAU current-linked Student Intern forms expressly include outside-university master’s students and wholly personal funding with home-institution permission. Maximum 12 months, at least 32 hours/week, on-site supervision, and 60–90-day advance submission; no minimum stay verified. Current-linked support minimum $2,000/month, with 2027 amount, insurance and fees to reconfirm. Host/chair/dean, language, background and export approvals apply. Institutional route is not lab acceptance. See florida-atlantic feasibility supplement. Officially linked personal Google Site redirects to sign-in and was not accessed; unrelated NIH neurologist Zhen Ni must not be merged.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#florida-atlantic)"
+    ],
+    "publicEmail": "zhenni@fau.edu"
+  },
+  {
+    "id": "xiangnan-zhong",
+    "name": "Xiangnan Zhong",
+    "aliases": [],
+    "school": "Florida Atlantic University",
+    "homepage": "https://www.fau.edu/engineering/directory/faculty/zhong/",
+    "title": "Associate Professor",
+    "department": "Electrical Engineering and Computer Science",
+    "batch": "control-080",
+    "discoveredAt": "2026-10-01T06:53:34Z",
+    "verifiedAt": "2026-10-01T07:05:30Z",
+    "researchAreas": [
+      "Reinforcement learning",
+      "Adaptive dynamic programming",
+      "Safe and cooperative robot control",
+      "Physical mobile-robot navigation"
+    ],
+    "fitReason": "Substantive robotics learning program with fully verified PPO sim-to-real indoor navigation.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Full November 2024 Applied Sciences paper trains PPO in Gazebo and deploys fixed weights on a real TurtleBot using live LiDAR in three indoor mazes. Evaluation is five runs of 100 navigation trials per maze; success is 95.2%, 72.4% and 88.1%, so the abstract’s over-88% statement must not be generalized across layouts. Parameters are not updated during physical testing. It is actual closed-loop navigation, not merely a simulator or dataset. The 2025 SPIE contraction/parallel-Kinova titles lack inspected full methods and receive no extra hardware credit. Current 2026 federated-RL paper uses MuJoCo simulation. Topic/problem/framework contributions are explicit; the PI’s separate research page establishes her relevant NSF CAREER project. Specific platform access and direct student ownership were not independently established, so physical20.",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No applicable external-master short-visitor invitation verified in the current official/personal sources. Generic research grants, shared-testbed intentions and degree teaching do not establish summer 2027 availability.",
+      "sourceIds": [
+        "s1",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong robot RL, adaptive and multi-agent learning; direct PPO navigation contribution.",
+      "physical": "Verified physical paper, conservatively capped for shared project without independent current lab-access/advisee linkage.",
+      "shortVisit": "No current external visitor offer verified.",
+      "freshness": "2024 physical study plus independently current 2025–26 robotics-learning activity."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.fau.edu / source 1",
+        "url": "https://www.fau.edu/engineering/directory/faculty/zhong/",
+        "summary": "Current associate-professor appointment, EECS, public email and learning/robotics program.",
+        "verifiedAt": "2026-10-01T07:05:30Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "mdpi-res.com / source 2",
+        "url": "https://mdpi-res.com/d_attachment/applsci/applsci-14-11020/article_deploy/applsci-14-11020.pdf",
+        "summary": "Full 17-page primary paper, §§4–5 and Appendix C verify real TurtleBot PPO transfer, per-maze trials and no physical-test weight updates; author contributions distinguish roles.",
+        "verifiedAt": "2026-10-01T07:05:30Z",
+        "retrieval": "Public publisher PDF downloaded and read with pdftotext"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/abs/2605.27385",
+        "summary": "2026 personalized observation normalization for federated RL; heterogeneous MuJoCo evaluation is simulation.",
+        "verifiedAt": "2026-10-01T07:05:30Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "www.spiecareercenter.org / source 4",
+        "url": "https://www.spiecareercenter.org/documents/ConferencesExhibitions/Programs/2025/DCS25-Technical-Program-Ex-Guide.pdf",
+        "summary": "Official 2025 program verifies current robot-learning coauthorship, not physical methods.",
+        "verifiedAt": "2026-10-01T07:05:30Z",
+        "retrieval": "Official conference PDF via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "sites.google.com / source 5",
+        "url": "https://sites.google.com/view/xiangnan-zhong",
+        "summary": "Current associate-professor title resolves stale assistant-professor biography.",
+        "verifiedAt": "2026-10-01T07:05:30Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "sites.google.com / source 6",
+        "url": "https://sites.google.com/view/xiangnan-zhong/rese",
+        "summary": "PI-led cooperative-learning CAREER award and robotics program; planned shared external platform use is not a current student visitor invitation.",
+        "verifiedAt": "2026-10-01T07:05:30Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      }
+    ],
+    "unknowns": [
+      "FAU current-linked Student Intern forms expressly include outside-university master’s students and wholly personal funding with home-institution permission. Maximum 12 months, at least 32 hours/week, on-site supervision, and 60–90-day advance submission; no minimum stay verified. Current-linked support minimum $2,000/month, with 2027 amount, insurance and fees to reconfirm. Host/chair/dean, language, background and export approvals apply. Institutional route is not lab acceptance. See florida-atlantic feasibility supplement. Official profile header and personal site say Associate Professor; its older short biography says Assistant Professor.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#florida-atlantic)"
+    ],
+    "publicEmail": "xzhong@fau.edu"
+  },
+  {
+    "id": "minghan-wei",
+    "name": "Minghan Wei",
+    "aliases": [],
+    "school": "Florida Atlantic University",
+    "homepage": "https://minghanwei.github.io/",
+    "title": "Assistant Professor; SIMA Lab lead",
+    "department": "Electrical Engineering and Computer Science; Scalable Intelligence for Motion and Autonomy Lab",
+    "batch": "control-080",
+    "discoveredAt": "2026-10-01T07:01:11Z",
+    "verifiedAt": "2026-10-01T07:05:30Z",
+    "researchAreas": [
+      "Vision-language models for robot navigation",
+      "Robot perception and planning",
+      "Learning-enabled field robotics",
+      "Energy-aware autonomous systems"
+    ],
+    "fitReason": "Direct integration of VLM scene reasoning and learned visual grounding into an actual mobile-manipulator navigation loop.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Full CVPR 2026 workshop paper implements a Clearpath Jackal with 2D LiDAR, RealSense camera and manipulator. When a closed door blocks a geometric plan, GPT-5 suggests a door-button interaction and a CLIP-based detector localizes it, enabling a physical button press and resumed navigation. This is a proof-of-concept office-building demonstration. The reported 85% localization metric is from 20 additional images, not a general end-to-end navigation success rate; completion is conditional on successful localization, and the paper does not state a broad physical-trial count. Elevators and diverse blockage interactions remain future extensions. Current lab roster independently identifies coauthor Shuaib Olanrewaju as an undergraduate RA; Jerry Gambrell appears as an alumnus. The older shared 2024 PPO paper is supplementary, not the sole basis for ownership.",
+      "sourceIds": [
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current lab has graduate and undergraduate researchers, but the inspected official page, personal site and team roster do not establish an external-master short-visitor offer.",
+      "sourceIds": [
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 23,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong learned perception/reasoning used for actual autonomous robot action.",
+      "physical": "Own-lab project and real mobile-manipulator execution; limited proof-of-concept scope warrants 23.",
+      "shortVisit": "No explicit external-master invitation.",
+      "freshness": "Full June 2026 primary robot experiment and current roster."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.fau.edu / source 1",
+        "url": "https://www.fau.edu/engineering/directory/faculty/wei/",
+        "summary": "Current FAU assistant professor, department and email.",
+        "verifiedAt": "2026-10-01T07:05:30Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "faculty.eng.fau.edu / source 2",
+        "url": "https://faculty.eng.fau.edu/minghanwei/",
+        "summary": "Official lab identity and link to current personal page.",
+        "verifiedAt": "2026-10-01T07:05:30Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "minghanwei.github.io / source 3",
+        "url": "https://minghanwei.github.io/",
+        "summary": "Current SIMA research program and June 2026 workshop activity.",
+        "verifiedAt": "2026-10-01T07:05:30Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "minghanwei.github.io / source 4",
+        "url": "https://minghanwei.github.io/team/",
+        "summary": "Independent local coauthor/student linkage; no current visitor offer.",
+        "verifiedAt": "2026-10-01T07:05:30Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "openaccess.thecvf.com / source 5",
+        "url": "https://openaccess.thecvf.com/content/CVPR2026W/WDFM-EAI/papers/Gambrell_Unblocking_the_Path_VLM-Assisted_Robot_Navigation_in_Indoor_Environments_CVPRW_2026_paper.pdf",
+        "summary": "Full primary eight-page workshop paper verifies real Jackal/button interaction, GPT-5/CLIP integration and proof-of-concept limits.",
+        "verifiedAt": "2026-10-01T07:05:30Z",
+        "retrieval": "Public CVF PDF downloaded and read with pdftotext"
+      },
+      {
+        "id": "s6",
+        "label": "mdpi-res.com / source 6",
+        "url": "https://mdpi-res.com/d_attachment/applsci/applsci-14-11020/article_deploy/applsci-14-11020.pdf",
+        "summary": "Full 17-page primary paper, §§4–5 and Appendix C verify real TurtleBot PPO transfer, per-maze trials and no physical-test weight updates; author contributions distinguish roles.",
+        "verifiedAt": "2026-10-01T07:05:30Z",
+        "retrieval": "Public publisher PDF downloaded and read with pdftotext"
+      }
+    ],
+    "unknowns": [
+      "FAU current-linked Student Intern forms expressly include outside-university master’s students and wholly personal funding with home-institution permission. Maximum 12 months, at least 32 hours/week, on-site supervision, and 60–90-day advance submission; no minimum stay verified. Current-linked support minimum $2,000/month, with 2027 amount, insurance and fees to reconfirm. Host/chair/dean, language, background and export approvals apply. Institutional route is not lab acceptance. See florida-atlantic feasibility supplement. Do not infer visitor access from the PI’s own historical industry/CMU internships or from internal student membership.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#florida-atlantic)"
+    ],
+    "publicEmail": "weim@fau.edu"
+  }
+]

@@ -1021,3 +1021,12 @@ Sources: [Guides and Forms](https://www.lamar.edu/international-education/intern
 核查：2026-10-01T06:49:15Z。[ISSS规则](https://internationalization.du.edu/isss/international-faculty-staff-visitors/j-1)有海外在读、专业相关Student Intern（至多一年）和1天至6个月Short-Term Scholar。须至少提前90天；非雇员先获Special Community Member身份，再由ISSS核定类别，满足英语/资金与指定清单保险要求。完全个人资金、最低支持额、硕士具体适用条件及2027费用仍未知。
 
 [部门办理指南](https://internationalization.du.edu/sites/default/files/2025-08/J-1-isss-portal-scholar-guide-departments.pdf)显示分阶段审批，后续材料在认证门户内，未访问。[2026–27目录中的免学费Scholar](https://bulletin.du.edu/graduate/admission-and-enrollment-policies/admission-status/visiting-scholars/)专指外校教师的博士后层次学习，不能套用到外校硕士。没有导师接收或暑期名额承诺。
+
+<a id="florida-atlantic"></a>
+## Florida Atlantic University · 境外硕士 Student Intern 路径
+
+核查：2026-10-01T07:04:33Z。[当前项目页](https://www.fau.edu/global/academic-services/exchange-visitor-program-information/)要求境外高校在读、符合原学位目标并返校；[当前表格入口](https://www.fau.edu/global/academic-services/forms-and-documents/)链接的[Part II](https://www.fau.edu/global/academic-services/documents/part-ii-applicant-ds-2019-request-form-internship-category-updated.pdf)第6页明确列有在读硕士。部分表格仍有2019/2022日期，不当作新发2026政策。
+
+[Part I](https://www.fau.edu/global/academic-services/documents/internship-request-form-updated.pdf)规定最长12个月、每周至少32小时及日常现场监督，提前60–90天提交；10个工作日只是校内处理阶段。未核实最低访问时长，8周仍需导师/GAS批准。需导师、系主任及院长审批、英语证明、背景/出口管制审查和期末评估。航空、临床患者接触等工作受限，须按具体项目审查。
+
+Part II第5页允许全额个人资金，但要求境外大学/研究机构关系及书面许可；目前链接表格列单人每月2,000美元财力证明，2027标准待复核。住宿、保险、签证费用及其他成本另计；适用无薪志愿者的背景调查估价60–200美元，责任由主办方确认，不是所有人的固定收费或完整预算。旧表格近期毕业条款与当前在读要求不可混用。学校存在路径不代表实验室开放或获批。

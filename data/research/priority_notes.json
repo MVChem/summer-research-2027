@@ -2322,6 +2322,66 @@
           "evidence": "University current primary article explicitly dates July2024 new faculty start; no original discovery or score changes."
         }
       ]
+    },
+    "xusheng-luo": {
+      "appointmentStart": {
+        "year": 2026,
+        "month": 8,
+        "precision": "month",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "Official2026 new-faculty cohort confirms current role and year; personal homepage dated August2026 news explicitly says joined NCSU as Assistant Professor. Month is first-person, not official first-workday evidence."
+      },
+      "display": "2026（官方）；2026-08为本人到岗声明",
+      "caveat": "暑期外校MS询问已核；lab签证限定J1/F1或无需签证，学校审批/时长/资助未知；前CMU真机",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://engr.ncsu.edu/faculty-development/faculty-communities/new-faculty-cohort-2026/",
+          "observedAt": "2026-10-01T14:15:09Z",
+          "evidence": "Names this current MAE AP among2026 faculty cohort."
+        },
+        {
+          "id": "h2",
+          "url": "https://xushengluo92.github.io/",
+          "observedAt": "2026-10-01T14:15:20Z",
+          "evidence": "August2026 dated news explicitly records joining as NCSU Assistant Professor; current title corroborates announcement."
+        }
+      ]
+    },
+    "zhiyu-huang": {
+      "appointmentStart": {
+        "year": 2026,
+        "month": 8,
+        "precision": "month",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "Official2026 new-faculty cohort confirms current role and year; personal homepage dated August2026 news explicitly says joined NCSU as Assistant Professor. Month is first-person, not official first-workday evidence."
+      },
+      "display": "2026（官方）；2026-08为本人到岗声明",
+      "caveat": "当前只核实Fall2027 PhD招募，访客入口未知；旧校真机不证明NCSU设备",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://engr.ncsu.edu/faculty-development/faculty-communities/new-faculty-cohort-2026/",
+          "observedAt": "2026-10-01T14:15:09Z",
+          "evidence": "Names this current MAE AP among2026 faculty cohort."
+        },
+        {
+          "id": "h2",
+          "url": "https://mczhi.github.io/",
+          "observedAt": "2026-10-01T14:15:20Z",
+          "evidence": "August2026 dated news explicitly records joining as NCSU Assistant Professor; current title corroborates announcement."
+        }
+      ]
     }
   },
   "constraints": [
@@ -2913,6 +2973,21 @@
         {
           "url": "https://gilbert-yangye.github.io/opportunities/",
           "evidence": "Live opportunities page advertises rolling PhD recruitment; accepts CS backgrounds but does not separately invite outside-master research visitors."
+        }
+      ]
+    },
+    {
+      "key": "xusheng-luo-lab-visa-condition",
+      "candidateId": "xusheng-luo",
+      "name": "Xusheng Luo",
+      "kind": "capacity-or-role",
+      "scope": "Current IRTA visitor questionnaire visa-type condition",
+      "summary": "lab明确不接收使用J1/F1之外签证类型的学生；另列无需签证和需要学校文件选项。不是普遍移民规则或签证/任命保证",
+      "observedAt": "2026-10-01T14:17:53Z",
+      "sources": [
+        {
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLScBQntuLWKkexBvx4h7GBGTL1Ujfgr2W4RuAzbmyyEezykgAA/viewform",
+          "evidence": "Summer visiting-position checkbox, independent current/incoming Masters status, arbitrary master school, start/end dates, and immigration-document request; J1/F1-only visa wording explicitly read. Complete one-page form with Submit observed, no data entered."
         }
       ]
     }

@@ -202,3 +202,9 @@
 - **已公布入口仅滚动PhD招募，未据此推断访客禁止**
 - 核查：2026-10-01T14:01:10Z · [来源1](https://gilbert-yangye.github.io/opportunities/)
 
+### Xusheng Luo（新增候选）
+
+- 适用范围：Current IRTA visitor questionnaire visa-type condition
+- **lab明确不接收使用J1/F1之外签证类型的学生；另列无需签证和需要学校文件选项。不是普遍移民规则或签证/任命保证**
+- 核查：2026-10-01T14:17:53Z · [来源1](https://docs.google.com/forms/d/e/1FAIpQLScBQntuLWKkexBvx4h7GBGTL1Ujfgr2W4RuAzbmyyEezykgAA/viewform)
+

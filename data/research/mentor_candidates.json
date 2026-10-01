@@ -7715,11 +7715,11 @@
       "homepage": "https://xushengluo92.github.io/",
       "batch": "embodied-011",
       "discoveredAt": "2026-09-30T22:47:45Z",
-      "verifiedAt": "2026-09-30T22:50:54Z",
+      "verifiedAt": "2026-10-01T14:17:53Z",
       "scores": {
         "fit": 39,
         "physical": 20,
-        "shortVisit": 5,
+        "shortVisit": 10,
         "freshness": 15
       },
       "researchAreas": [

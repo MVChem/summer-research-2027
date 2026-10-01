@@ -9,7 +9,7 @@
     "department": "Mechanical and Aerospace Engineering",
     "batch": "embodied-011",
     "discoveredAt": "2026-09-30T22:47:45Z",
-    "verifiedAt": "2026-09-30T22:50:54Z",
+    "verifiedAt": "2026-10-01T14:17:53Z",
     "researchAreas": [
       "Neuro-symbolic robot learning",
       "Visuomotor imitation",
@@ -31,25 +31,22 @@
     },
     "shortVisit": {
       "status": "inquiry-only",
-      "summary": "The current prospective-student page explicitly addresses students and visitors through an interest form and provides an email fallback. It advertises degree starts in Spring/Fall 2027, but gives no summer visitor duration or confirmed eight-week place.",
+      "summary": "The complete current-linked IRTA questionnaire explicitly includes summer visiting positions, current/incoming master’s status, arbitrary master’s institution and proposed start/end dates. It accepts requests for NCSU immigration documents but states that students using visas other than J-1 or F-1 are not accepted; a no-visa-needed option is separate. This is a lab intake condition, not a general immigration rule or a sponsorship guarantee. No minimum duration, remote option, funding or summer 2027 vacancy is stated.",
       "sourceIds": [
-        "s1",
-        "s2",
-        "s3",
-        "s4",
-        "s5"
+        "s6",
+        "s7"
       ]
     },
     "scores": {
       "fit": 39,
       "physical": 20,
-      "shortVisit": 5,
+      "shortVisit": 10,
       "freshness": 15
     },
     "scoreReasons": {
       "fit": "Direct structured visuomotor learning and inference-time manipulation steering.",
       "physical": "Real Kinova Gen3 experiments were performed during the prior CMU affiliation; new NC State lab platform continuity is unconfirmed.",
-      "shortVisit": "Explicit visitor inquiry but no duration or summer-specific terms.",
+      "shortVisit": "Complete current-linked questionnaire establishes a master-compatible summer visitor inquiry, subject to the explicit lab visa-type condition and separate institutional approval; no duration, funding or placement commitment.",
       "freshness": "Current August 2026 appointment and 2026 RSS/CoRL work."
     },
     "sources": [
@@ -92,12 +89,29 @@
         "summary": "Primary inference-time task-structure steering; separate Kinova hardware versus simulated Panda suites.",
         "verifiedAt": "2026-09-30T22:50:54Z",
         "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "Current linked summer visitor inquiry r1",
+        "url": "https://xushengluo92.github.io/prospective.html",
+        "summary": "Prospective students and visitors directed to same form, with email fallback; surrounding degree admissions remain distinct.",
+        "verifiedAt": "2026-10-01T14:15:09Z",
+        "retrieval": "complete-primary-page; live-browser14:17:14Z"
+      },
+      {
+        "id": "s7",
+        "label": "Current linked summer visitor inquiry r2",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLScBQntuLWKkexBvx4h7GBGTL1Ujfgr2W4RuAzbmyyEezykgAA/viewform",
+        "summary": "Summer visiting-position checkbox, independent current/incoming Masters status, arbitrary master school, start/end dates, and immigration-document request; J1/F1-only visa wording explicitly read. Complete one-page form with Submit observed, no data entered.",
+        "verifiedAt": "2026-10-01T14:17:53Z",
+        "retrieval": "complete-live-cloud-browser-form"
       }
     ],
     "unknowns": [
       "Current NC State appointment is verified by the university’s 2026 faculty cohort. The personal page contains a mislinked NC State anchor pointing to CMU; that link is not used as affiliation evidence. Physical work was performed during the CMU affiliation, so equipment and project continuity at the new NC State lab require confirmation. Degree application deadlines are not visitor deadlines.",
       "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
-      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "The published J-1/F-1 restriction is specific to this lab questionnaire. Visa-document need and financial eligibility require institution review; needing no visa is also an explicit form option. The lab facility page uses representative product images and is not evidence of new local learned execution."
     ],
     "publicEmail": "xluo28@ncsu.edu"
   },

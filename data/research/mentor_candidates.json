@@ -191,7 +191,8 @@
     "batches/hri-056.json",
     "batches/hri-057.json",
     "batches/hri-058.json",
-    "batches/hri-059.json"
+    "batches/hri-059.json",
+    "batches/hri-060.json"
   ],
   "candidates": [
     {
@@ -10830,6 +10831,68 @@
       "shortVisitStatus": "degree-only",
       "recordFile": "batches/hri-059.json",
       "detailPage": "batches/hri-059.md#cynthia-a-chestek"
+    },
+    {
+      "id": "jose-del-r-millan",
+      "name": "José del R. Millán",
+      "aliases": [
+        "Jose del R. Millan",
+        "José Millán",
+        "Jose Millan"
+      ],
+      "school": "The University of Texas at Austin",
+      "title": "Professor; Linda Steen Norris & Lee Norris Endowed Chair in Neuroengineering; Director of Texas Robotics",
+      "homepage": "https://ece.utexas.edu/people/faculty/jose-del-r-millan",
+      "batch": "hri-060",
+      "discoveredAt": "2026-10-01T05:01:59Z",
+      "verifiedAt": "2026-10-01T05:06:40Z",
+      "scores": {
+        "fit": 37,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Statistical machine learning",
+        "Noninvasive brain-computer interfaces",
+        "Human-robot interaction",
+        "Assistive robotic control",
+        "Robust real-time decoding"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-060.json",
+      "detailPage": "batches/hri-060.md#jose-del-r-millan"
+    },
+    {
+      "id": "jose-luis-contreras-vidal",
+      "name": "Jose Luis Contreras-Vidal",
+      "aliases": [
+        "José Luis Contreras-Vidal",
+        "Jose L. Contreras-Vidal",
+        "José L. Contreras-Vidal"
+      ],
+      "school": "University of Houston",
+      "title": "Hugh Roy and Lillie Cranz Cullen Distinguished Professor; Director, NSF IUCRC BRAIN Center",
+      "homepage": "https://www.ece.uh.edu/faculty/contreras-vidal-jose-luis",
+      "batch": "hri-060",
+      "discoveredAt": "2026-10-01T05:01:59Z",
+      "verifiedAt": "2026-10-01T05:03:10Z",
+      "scores": {
+        "fit": 37,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Deep-learning neural decoding",
+        "Brain-machine interfaces",
+        "Powered exoskeletons",
+        "Real-time artifact suppression",
+        "Human-robot interaction"
+      ],
+      "shortVisitStatus": "unknown · separate 2026 NSAP restrictions",
+      "recordFile": "batches/hri-060.json",
+      "detailPage": "batches/hri-060.md#jose-luis-contreras-vidal"
     }
   ]
 }

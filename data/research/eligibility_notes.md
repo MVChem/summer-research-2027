@@ -767,3 +767,21 @@ Tacoma 补充核查：2026-10-01T01:02:36Z。[SET visiting appointments](https:/
 核查：2026-10-01T03:09:24Z。[Global Engagement 主办页](https://offices.depaul.edu/global-engagement/faculty-resources/Pages/invite-international-scholars-faculty.aspx) 有 Scholar/Professor、最长六个月 Short-Term Scholar 并允许个人资金，但主要以 visiting faculty 描述，未确认外校在读硕士的研究学生任命或 Student Intern。只有学术部门可发起 DS-2019，请求须经 dean/部门负责人、资金和保险批准；材料齐后约一周不是完整办理或接收承诺。
 
 当前仍链接的 [DS-2019 表](https://offices.depaul.edu/global-engagement/faculty-resources/Documents/J-1%20Scholar%20DS-2019%20Request%20Form.pdf) 日期为 2019-10-02，列个人资金及每月 1,850 美元，仅作有日期的旧参考，不当已验证的当前或 2027 最低数。[2019 年资料表](https://offices.depaul.edu/global-engagement/faculty-resources/Documents/J-1%20Scholar%20Data%20Form.pdf) 询问职业/CV，却未建立硕士最低资格。当前任命、八周项目、资金/费用和设备访问仍需确认，不能以一般自费许可覆盖实验室仅限本校学生的招募。
+
+<a id="stony-brook"></a>
+
+## Stony Brook · 研究生 Intern 自费明确，但须按学期注册
+
+核查：2026-10-01T03:25:17Z。[当前 VIS 主办页](https://www.stonybrook.edu/visa/departments/hiring-and-hosting/how-to-host-a-j-1-scholar/j-1-student-interns.html) 要求国外继续在读、学位目标关联、Student Intern 与 visiting non-matriculated admission，并在每个学期注册一个研究/实习学分，日期须配合校历，最长十二个月。页面当前列 Summer I 或 I–II 部门提交截至三月十五日、Summer II 截至四月十五日；具体 2027 学期、八周起止和跨学期费用另确认。完整材料后约十个工作日 VIS 审查不是总提前期。
+
+[2026-07-02 邀请模板](https://www.stonybrook.edu/visa/departments/forms-and-templates/student-intern-invitation-letter.html) 明确包括研究生/本科生及个人或外部资金自费选项，需原校信、全日制学籍、学位关联和返校，也须参加大学 ISSHI。[现行一般财力页](https://www.stonybrook.edu/visa/faculty-scholars-staff/j-1-scholars-and-student-interns/requesting-your-ds-2019/estimated-costs-and-financial-requirements.html) 年估计为 41,963 生活加 4,088 保险共 46,051 美元，但未给当前研究生 Intern 暑期学分费明细，不能按比例当完整短访报价。旧大学 llrc-host 页面 Summer I 4,664、I–II 9,169 美元属于有版本冲突的旧参考，不作 2027 预算。导师、任命、[研究安全筛查](https://www.stonybrook.edu/commcms/ors/International_Activities/visitors.php)、资金及最终收费仍需批准。
+
+<a id="washington-st-louis"></a>
+
+## Washington University in St. Louis · Intern 与 Non-Degree 资金规则分开
+
+核查：2026-10-01T03:25:17Z。[研究 contingent-worker 规则](https://research.washu.edu/contingent-workers/) 明确把参与现场研究的外校研究生纳入 Visiting Researcher 和正式 packet；这是学术/访问分类，不等于签证类别。旧 HR packet 链接未成功读取，不推断未见条款。WashU 与 University of Washington 分开。
+
+[当前 OISS sponsorship](https://oiss.washu.edu/sponsoring-j-1-scholars/) 允许海外任意学位层级的学位关联 Student Intern，最长十二个月、每周至少 32 小时；比较表对 Intern 不设资金来源限制，而 Student Non-Degree 另需至少 51% 非个人支持。[prospective EV 页](https://oiss.washu.edu/prospective-j-1-scholars/) 也接受个人流动资金证明，因此个人支持可用于经批准的 Intern 类别，不能自动覆盖所有 visitor title。Short-Term Scholar 另要求已获学士，其他 scholar 类别可能要求已获硕士，由 OISS 决定。
+
+当前页面列每月 2,644 或每年 31,720 美元支持证明，保留原文的舍入差异、需重核 2027。建议提前至少三个月，距开始不足六十天不受理；Intern 审查表列十五工作日，另一段写十天，应确认并保守计划。保险、任何大学/部门处理费、学术任命、导师项目和八周接收仍未确定。

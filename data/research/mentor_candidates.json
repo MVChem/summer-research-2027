@@ -169,7 +169,8 @@
     "batches/hri-047.json",
     "batches/hri-048.json",
     "batches/hri-049.json",
-    "batches/hri-050.json"
+    "batches/hri-050.json",
+    "batches/hri-051.json"
   ],
   "candidates": [
     {
@@ -9961,6 +9962,35 @@
       "shortVisitStatus": "inquiry-only",
       "recordFile": "batches/hri-050.json",
       "detailPage": "batches/hri-050.md#alexandra-ion"
+    },
+    {
+      "id": "karen-m-feigh",
+      "name": "Karen M. Feigh",
+      "aliases": [
+        "Karen Feigh"
+      ],
+      "school": "Georgia Institute of Technology",
+      "title": "David S. Lewis Professor and Associate Chair for Research",
+      "homepage": "https://ae.gatech.edu/directory/person/karen-m-feigh",
+      "batch": "hri-051",
+      "discoveredAt": "2026-10-01T03:30:40Z",
+      "verifiedAt": "2026-10-01T04:29:49Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-AI teaming",
+        "Robot belief-state inference",
+        "Theory of mind for HRI",
+        "Open-vocabulary perception",
+        "Cognitive engineering"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-051.json",
+      "detailPage": "batches/hri-051.md#karen-m-feigh"
     }
   ]
 }

@@ -10966,13 +10966,16 @@
     {
       "id": "xiwei-xuan",
       "name": "Xiwei Xuan",
-      "aliases": [],
+      "aliases": [
+        "宣茜瑋",
+        "宣茜玮"
+      ],
       "school": "Virginia Commonwealth University",
       "title": "Assistant Professor",
       "homepage": "https://xiweix.github.io/",
       "batch": "embodied-102",
       "discoveredAt": "2026-10-01T14:14:32Z",
-      "verifiedAt": "2026-10-01T14:21:59Z",
+      "verifiedAt": "2026-10-01T14:29:27Z",
       "scores": {
         "fit": 32,
         "physical": 0,
@@ -16016,7 +16019,7 @@
       "homepage": "https://gilbert-yangye.github.io/",
       "batch": "hri-110",
       "discoveredAt": "2026-10-01T13:58:00Z",
-      "verifiedAt": "2026-10-01T14:28:47Z",
+      "verifiedAt": "2026-10-01T14:32:25Z",
       "scores": {
         "fit": 38,
         "physical": 25,

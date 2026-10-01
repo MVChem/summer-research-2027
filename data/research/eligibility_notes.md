@@ -256,11 +256,13 @@ CMU 学术任命补充核查：2026-10-01T00:16:30Z。[Collaborating Visitor](ht
 
 <a id="nc-state"></a>
 
-## NC State · 两个月不能直接按八周处理
+## NC State · Student Intern 与 Short-Term Scholar 分别审批
 
 核查：2026-09-30T23:04:34Z。[Student Intern 资格](https://internationalservices.ncsu.edu/j-1-student-intern-program/j-1-student-intern-eligibility/) 要求国外在读、原校导师推荐、学位关联、结束后返校、每周至少 32 小时，任期为 2–12 个月。固定八周只有 56 天，不能不经 OIS 确认就称为满足两个月最低要求。[Short-Term Scholar](https://internationalservices.ncsu.edu/faculty-and-staff/hosting-exchange-visitors/j-1-categories/) 可为持相关本科学位者的 1 天至六个月访问，仍须学校根据实际活动批准，不是自动替代。
 
 [财力与资格规则](https://internationalservices.ncsu.edu/faculty-and-staff/hosting-exchange-visitors/eligibility-and-requirements/) 认可个人流动资金，当前单人每月 2,000 美元，bench fee 需额外证明。Student Intern 行政费 400 美元，可由学生或院系支付；金额并非完整旅行预算。[申请流程](https://internationalservices.ncsu.edu/j-1-student-intern-program/j-1-student-intern-application/) 要求至少提前 60 天，建议 90 天，需校内/研究审批和培训计划。无薪 Scholar 则建议提前 3–4 个月。具体日期、学位继续条件、2027 费用与实验室接收均需确认。
+
+补充核查2026-10-01T14:35:01Z：[Student Intern资格页](https://internationalservices.ncsu.edu/j-1-student-intern-program/j-1-student-intern-eligibility/)明确项目限NC State校内，期限2–12个日历月；[Scholar分类页](https://internationalservices.ncsu.edu/faculty-and-staff/hosting-exchange-visitors/j-1-categories/)保留Short-Term Scholar为1天至6个月。实验室表单未写最短时长，不替代机构选定类别；约八周只是参考，不据此自动拒绝或确认安排。本次补充不重查前述资金和费用。
 
 <a id="colorado-mines"></a>
 

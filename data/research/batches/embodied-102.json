@@ -2,14 +2,17 @@
   {
     "id": "xiwei-xuan",
     "name": "Xiwei Xuan",
-    "aliases": [],
+    "aliases": [
+      "宣茜瑋",
+      "宣茜玮"
+    ],
     "school": "Virginia Commonwealth University",
     "homepage": "https://xiweix.github.io/",
     "title": "Assistant Professor",
     "department": "Computer Science; World-Aware Vision & Learning (WAVE) Laboratory",
     "batch": "embodied-102",
     "discoveredAt": "2026-10-01T14:14:32Z",
-    "verifiedAt": "2026-10-01T14:21:59Z",
+    "verifiedAt": "2026-10-01T14:29:27Z",
     "researchAreas": [
       "Open-vocabulary dense scene understanding",
       "Multimodal foundation-model data curation",
@@ -122,6 +125,14 @@
         "summary": "Full official host workflow: faculty/department/HR invitation, immigration/export review and signed agreement; footer2023 retained.",
         "verifiedAt": "2026-10-01T14:20:32Z",
         "retrieval": "complete-primary-page-or-paper"
+      },
+      {
+        "id": "s9",
+        "label": "Personal homepage, directly displayed name variants",
+        "url": "https://xiweix.github.io/",
+        "summary": "The current homepage explicitly displays both Chinese name variants 宣茜瑋 and 宣茜玮; these are source-declared aliases, not inferred transliterations.",
+        "verifiedAt": "2026-10-01T14:29:27Z",
+        "retrieval": "Complete current primary homepage; later independent read"
       }
     ],
     "unknowns": [

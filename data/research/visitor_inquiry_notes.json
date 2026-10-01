@@ -281,9 +281,10 @@
       ]
     },
     "tom-silver": {
-      "note": "公开问询入口；详细资格与期限未定",
+      "note": "外校研究生可经VSRC询问，仅现场；学校按1–12个日历月安排，需提前4–6个月，具体接收/经费未定",
       "sourceIds": [
-        "s2"
+        "s2",
+        "s4"
       ]
     },
     "dhruv-shah": {
@@ -319,7 +320,7 @@
       ]
     },
     "xusheng-luo": {
-      "note": "2026新AP；表单明确暑期访客/在读MS；签证只接受J1/F1，另有无需签证选项，申请学校文件不等于获批；时长/资助未知，真机来自前CMU",
+      "note": "2026新AP；MS/暑期表单，lab签证限定J1/F1或无需签证；lab未给最短时长，学校Student Intern为2–12日历月且限校内，另有Scholar类别须审批；[机构规则](eligibility_notes.md#nc-state)",
       "sourceIds": [
         "s6",
         "s7"

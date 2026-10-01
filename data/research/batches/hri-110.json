@@ -13,7 +13,7 @@
     "department": "Civil and Environmental Engineering; Cognitive Robotics & AI for Future Technology (CRAFT) Lab",
     "batch": "hri-110",
     "discoveredAt": "2026-10-01T13:58:00Z",
-    "verifiedAt": "2026-10-01T14:28:47Z",
+    "verifiedAt": "2026-10-01T14:32:25Z",
     "researchAreas": [
       "Human-robot teaming",
       "Learned world models and model-based control",
@@ -24,7 +24,7 @@
     "fitReason": "Verified January 2025 Assistant Professor with direct CS-compatible robot-learning methods and current master’s/PhD advising. Strong technical target; visitor capacity is unknown and Northeastern’s funding restrictions materially limit fully self-funded alternatives.",
     "physicalEvidence": {
       "status": "verified-current-directed-execution",
-      "summary": "June 2026 PRISM trains an MLP Gaussian action prior from frozen JEPA features and fuses it into MPPI. Its physical proof of concept reports FR3 PushT success in 7/20 trials and ARX X5 cube manipulation in 9/20. FR3 actions execute at 10 Hz with replanning every 0.5 seconds. The lead author is Ye’s current PhD advisee, independently corroborated by the lab roster. Separately, full 2025 RaycastGrasp uses trained YOLOv8 and two-second gaze selection to trigger real Franka grasping; its lead author is a current master’s advisee. Perception is learned, while semantic matching and low-level arm execution are conventional.",
+      "summary": "June 2026 PRISM trains an MLP Gaussian action prior from frozen JEPA features and fuses it into MPPI. Its physical proof of concept reports FR3 PushT success in 7/20 trials and ARX X5 cube manipulation in 9/20. FR3 actions execute at 10 Hz with replanning every 0.5 seconds. The lead author is Ye’s current PhD advisee, independently corroborated by the lab roster. Separately, full 2025 RaycastGrasp uses trained YOLOv8, gaze fixation exceeding two seconds and a designated user button press to trigger real Franka grasping; its lead author is a current master’s advisee. Perception is learned, while semantic matching and low-level arm execution are conventional.",
       "sourceIds": [
         "s1",
         "s2",
@@ -37,7 +37,8 @@
         "s9",
         "s10",
         "s11",
-        "s12"
+        "s12",
+        "s14"
       ]
     },
     "shortVisit": {
@@ -151,6 +152,14 @@
         "summary": "Complete live page has a separate undergraduate/master research section inviting transcript and a short cover letter with availability/interests by email. It does not state a local-only limit, but does not explicitly establish outside visiting status or duration.",
         "verifiedAt": "2026-10-01T14:28:47Z",
         "retrieval": "Complete direct primary page; independent source audit"
+      },
+      {
+        "id": "s14",
+        "label": "RaycastGrasp interaction protocol, later full-section review",
+        "url": "https://arxiv.org/html/2510.22113v1",
+        "summary": "Full sections III–V, especially IV-C: after gaze fixation exceeds two seconds, the user presses a designated button before actual grasp execution. This qualification is retained despite discussion describing the interaction as hands-free.",
+        "verifiedAt": "2026-10-01T14:32:25Z",
+        "retrieval": "Complete primary HTML; independently reviewed interaction section"
       }
     ],
     "unknowns": [

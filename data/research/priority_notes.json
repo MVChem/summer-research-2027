@@ -2159,7 +2159,7 @@
         "sourceIds": [
           "later-h1"
         ],
-        "evidence": "Official ABE Fall 2024 newsletter, printed page 5, explicitly states October 2024 AP arrival after UVA postdoctoral work.",
+        "evidence": "Official ABE Fall 2024 newsletter, PDF page 5 (printed page 4), explicitly states October 2024 AP arrival after UVA postdoctoral work.",
         "appointmentType": "unresolved"
       },
       "display": "2024-10（官方学院newsletter）",
@@ -2169,7 +2169,8 @@
           "id": "later-h1",
           "url": "https://www.abe.msstate.edu/wp-content/uploads/ABE-Newsletter-Fall-2024.pdf",
           "observedAt": "2026-10-01T14:13:21Z",
-          "evidence": "Full primary PDF page 5: October 2024 AP start; 2023–2024 UVA postdoc and 2023 Michigan State PhD."
+          "evidence": "Full primary PDF page 5 (printed page 4): October 2024 AP start; 2023–2024 UVA postdoc and 2023 Michigan State PhD.",
+          "metadataCorrectionObservedAt": "2026-10-01T14:33:01Z"
         }
       ]
     },

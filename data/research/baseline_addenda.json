@@ -134,6 +134,83 @@
           "evidence": "Directly read in cloud browser10:27:28Z, URL confirmed10:27:38Z: external-CMU option, MS category and six-month minimum for visitors. No entries, upload or submission."
         }
       ]
+    },
+    {
+      "baselineId": 113,
+      "name": "Russ Tedrake",
+      "observedAt": "2026-10-01T10:53:22Z",
+      "eventType": "later-public-source-verification-not-discovery",
+      "finding": "The current official EECS research-interest directory marks leave for Fall2026 and Spring2027. His current personal page also says he is leading a physical-AI startup. MIT faculty status is still official; neither source states that summer2027 visits are closed, but local supervision and return/capacity dates need explicit confirmation before treating him as a practical eight-week host.",
+      "sources": [
+        {
+          "url": "https://eecsis.mit.edu/research_interests.pcgi",
+          "retrieval": "direct-primary-page",
+          "evidence": "Full official current faculty list explicitly labels the two leave terms; no summer2027 extension stated."
+        },
+        {
+          "url": "https://locomotion.csail.mit.edu/russt.html",
+          "retrieval": "direct-primary-page",
+          "evidence": "Full current personal page retains MIT professorship and describes leading a physical-AI startup; older2021 CSAIL biography is not current industry-role evidence."
+        },
+        {
+          "url": "https://aeroastro.mit.edu/people/russell-tedrake/",
+          "retrieval": "direct-primary-page",
+          "evidence": "Full official Toyota Professor appointment and russt@mit.edu."
+        },
+        {
+          "url": "https://locomotion.csail.mit.edu/positions.html",
+          "retrieval": "direct-primary-page",
+          "evidence": "Full positions page concerns already-admitted MIT graduate students and postdocs, not an outside-master short-visitor invitation."
+        }
+      ]
+    },
+    {
+      "baselineId": 156,
+      "name": "Zachary Manchester",
+      "observedAt": "2026-10-01T11:11:23Z",
+      "eventType": "later-public-source-verification-not-discovery",
+      "finding": "The current REx Lab Joining page has a distinct Visiting Student Researchers section explicitly including master’s and PhD students. This is a positive correction to the original roster’s unverified inquiry status. It describes occasional opportunities, not an open summer2027 position or eight-week agreement. Current MIT faculty directory verifies the Boeing Career Development Professor appointment; the lab provides zacm@mit.edu.",
+      "sources": [
+        {
+          "url": "https://roboticexplorationlab.org/join.html",
+          "retrieval": "direct-primary-page",
+          "evidence": "Full live page separates admitted MIT graduate and undergraduate routes from Visiting Student Researchers, explicitly Masters/PhD; no duration/year promise."
+        },
+        {
+          "url": "https://aeroastro.mit.edu/faculty/",
+          "retrieval": "direct-primary-page",
+          "evidence": "Full current official faculty list includes Zac Manchester, Boeing Career Development Professor in Aeronautics and Astronautics."
+        },
+        {
+          "url": "https://aeroastro.mit.edu/people/zac-manchester/",
+          "retrieval": "primary-search-index-and-direct-html",
+          "evidence": "Official current profile identifies Associate Professor and public zacm@mit.edu. Web open timed out; direct HTML fetch succeeded, while full faculty list independently corroborates the current host."
+        }
+      ]
+    },
+    {
+      "baselineId": 93,
+      "name": "Jeannette Bohg",
+      "observedAt": "2026-10-01T11:11:23Z",
+      "eventType": "later-public-source-verification-not-discovery",
+      "finding": "Current IPRL homepage specifically directs non-Stanford prospective visiting researchers to a separate form. The complete public form, read in the cloud browser, offers Masters academic status, outside affiliation, Summer start quarter and desired dates. It generally prefers at least six months. This verifies an outside-master inquiry channel but materially weakens an eight-week plan; the wording is a preference, not an absolute ban. Stanford’s official Academic Appointments field says Associate Professor despite stale Assistant Professor prose elsewhere.",
+      "sources": [
+        {
+          "url": "https://iprl.stanford.edu/",
+          "retrieval": "direct-primary-page",
+          "evidence": "Full current lab page has separate non-Stanford visiting researcher link and dated September2026 research news."
+        },
+        {
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSf5n4XGyOBaK_Oe752wbenMgOjYnEmDY-uAWC48DNNdNJX5Kg/viewform?usp=send_form",
+          "retrieval": "direct-primary-cloud-browser",
+          "evidence": "Complete visible form read2026-10-01T11:10:55Z: Masters category, affiliation, Summer start, desired start/end dates, six-month general preference, CV and advisor details. Read-only; no inputs or submission."
+        },
+        {
+          "url": "https://profiles.stanford.edu/jeannette-bohg",
+          "retrieval": "direct-primary-page",
+          "evidence": "Full official profile Academic Appointments lists Associate Professor of CS. Its older narrative still says Assistant Professor; use structured appointment."
+        }
+      ]
     }
   ]
 }

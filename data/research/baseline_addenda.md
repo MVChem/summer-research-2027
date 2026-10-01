@@ -37,3 +37,15 @@
 ## ID 108 · Deepak Pathak · 访客至少六个月
 
 核查：2026-10-01T10:27:38Z。[本人主页](https://www.cs.cmu.edu/~dpathak/)链接的[公开研究兴趣表](https://docs.google.com/forms/d/e/1FAIpQLScqAvv1zxr1oP059gu8cXhF-2nLW1DgjQCVhWWI3fAX2Wgsug/viewform)包含外校及 MS 选项，但明确只考虑可访问六个月或更久的访客。约八周与这个实验室时长要求不符，不能用 CMU 学校层面的制度替代该限制。表中资金问题不是资助承诺，未公布2027或远程例外。表单只读取，未填写或提交；原200位与其日期保持不变。
+
+## ID 113 · Russ Tedrake · 两个已注明的离校学期
+
+核查：2026-10-01T10:53:22Z。[MIT 官方研究兴趣名录](https://eecsis.mit.edu/research_interests.pcgi)标注 Fall 2026、Spring 2027 on leave；[本人主页](https://locomotion.csail.mit.edu/russt.html)仍保留 MIT 教授身份，同时说明正在领导 physical-AI startup。需确认返校、现场指导及夏季容量；这两项来源没有宣布离开 MIT，也没有把离校期延伸为 Summer 2027 拒收。[岗位页](https://locomotion.csail.mit.edu/positions.html)主要面向已录取 MIT 研究生和博后，不据此认定外校硕士短访开放。
+
+## ID 156 · Zachary / Zac Manchester · 偶尔接收访问硕博
+
+核查：2026-10-01T11:11:23Z。[REx Lab 的 Visiting Student Researchers 栏](https://roboticexplorationlab.org/join.html)明确包含 Masters 和 PhD，描述为偶尔有机会。当前[MIT 官方名录](https://aeroastro.mit.edu/faculty/)确认其 Boeing Career Development Professor 任职，公开联系邮箱 zacm@mit.edu。没有给出2027名额、八周期限或资助承诺；须确认实际项目、容量和正式访问安排，并适用[MIT 访问生至少51%非个人资金等条件](eligibility_notes.md#mit-visiting-students)。
+
+## ID 93 · Jeannette Bohg · 外校访客入口，通常偏好六个月
+
+核查：2026-10-01T11:11:23Z。[IPRL 主页](https://iprl.stanford.edu/)为 non-Stanford visiting researchers 提供[独立表单](https://docs.google.com/forms/d/e/1FAIpQLSf5n4XGyOBaK_Oe752wbenMgOjYnEmDY-uAWC48DNNdNJX5Kg/viewform?usp=send_form)，已完整读取其中 Masters、Summer 和预期日期选项。页面通常偏好至少六个月；这是偏好，不是已明确的绝对最低期限。约八周需得到较短访问安排的明确同意，Summer 选项本身不是2027接收承诺。表单未填写或提交。[官方任职字段](https://profiles.stanford.edu/jeannette-bohg)列 Associate Professor，旧叙述仍有 Assistant wording；以任职字段为准。另需履行 Stanford VSR 的主办、资金、保险及费用要求。

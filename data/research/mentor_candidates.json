@@ -27,6 +27,7 @@
     "batches/control-016.json",
     "batches/control-017.json",
     "batches/control-018.json",
+    "batches/control-019.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -2021,6 +2022,33 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-018.json",
       "detailPage": "batches/control-018.md#jonathan-p-how"
+    },
+    {
+      "id": "nader-motee",
+      "name": "Nader Motee",
+      "aliases": [],
+      "school": "Lehigh University",
+      "title": "Professor; Director, Autonomous and Intelligent Robotics Laboratory",
+      "homepage": "https://engineering.lehigh.edu/faculty/nader-motee",
+      "batch": "control-019",
+      "discoveredAt": "2026-09-30T23:49:33Z",
+      "verifiedAt": "2026-09-30T23:52:09Z",
+      "scores": {
+        "fit": 37,
+        "physical": 23,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "risk-aware active perception",
+        "3D Gaussian scene representations",
+        "safe robot navigation",
+        "control barrier functions",
+        "networked robot learning and control"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-019.json",
+      "detailPage": "batches/control-019.md#nader-motee"
     },
     {
       "id": "tom-silver",

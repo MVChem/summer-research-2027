@@ -406,7 +406,7 @@ Tacoma 补充核查：2026-10-01T01:02:36Z。[SET visiting appointments](https:/
 
 核查：2026-10-01T00:25:20Z。[NYU 无薪研究政策](https://www.nyu.edu/about/policies-guidelines-compliance/policies-and-guidelines/volunteerinternshiptrainee-protocol.html) 于 2024 年 9 月生效，包含开展自身论文/研究的外校 Research Affiliates，须全时 faculty sponsor、HR 和安全审查；通常至少提前两个月发起。教育培训应主要使 intern 受益，不替代员工或给部门直接劳动利益。一次一般批准三个月、可续至一年，不是三个月最低访问时长。此页已在浏览器中完整读取，但不确证海外签证或全额个人资金。
 
-[Tandon](https://engineering.nyu.edu/research/office-research/visiting-scholars) 将学生导向该任命流程，而非通常要求博士/原机构受薪职位的 Visiting Scholar。[Courant 访客指引](https://cims.nyu.edu/dynamic/resources/for_faculty/) 的签证协助至少需十三周，不能默认为 Tandon 全部流程；链接费用表返回 401，本轮未读取。实际学校/院系类别、资金和 2027 项目须确认，实验室独立的更长时长要求仍有效。
+[Tandon](https://engineering.nyu.edu/research/office-research/visiting-scholars) 将学生导向该任命流程，而非通常要求博士/原机构受薪职位的 Visiting Scholar。[Courant 访客指引](https://cims.nyu.edu/dynamic/resources/for_faculty/) 要求至少提前十三周提出签证协助请求（核查 2026-10-01T04:31:16Z）；这是抵达前的办理提前量，并非访问至少十三周。该 Courant 流程不能默认为 Tandon 全部流程；链接费用表返回 401，本轮未读取。实际学校/院系类别、资金和 2027 项目须确认，实验室独立的更长时长要求仍有效。
 
 <a id="rit"></a>
 

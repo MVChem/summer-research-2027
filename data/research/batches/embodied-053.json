@@ -2,14 +2,16 @@
   {
     "id": "jing-zhang",
     "name": "Jing Zhang",
-    "aliases": [],
+    "aliases": [
+      "张婧"
+    ],
     "school": "New York University",
     "homepage": "https://jingz6676.github.io/",
     "title": "Faculty Fellow",
     "department": "Mechanical and Aerospace Engineering; Center for Robotics and Embodied Intelligence",
     "batch": "embodied-053",
     "discoveredAt": "2026-10-01T03:24:16Z",
-    "verifiedAt": "2026-10-01T03:29:25Z",
+    "verifiedAt": "2026-10-01T04:31:16Z",
     "researchAreas": [
       "Egocentric manipulation learning",
       "Visual policy distillation",
@@ -64,8 +66,8 @@
         "id": "s2",
         "label": "jingz6676.github.io / source 2",
         "url": "https://jingz6676.github.io/",
-        "summary": "Full current Faculty Fellow homepage, professional email, job-market notice, internal PI/NSF co-PI self-reports and research inventory; no external visitor invitation.",
-        "verifiedAt": "2026-10-01T03:29:25Z",
+        "summary": "Full current Faculty Fellow homepage, professional email, job-market notice, internal PI/NSF co-PI self-reports and research inventory; no external visitor invitation. The faculty homepage explicitly displays the public name variant 张婧.",
+        "verifiedAt": "2026-10-01T04:31:16Z",
         "retrieval": "direct-primary-page"
       },
       {

@@ -6725,13 +6725,15 @@
     {
       "id": "jing-zhang",
       "name": "Jing Zhang",
-      "aliases": [],
+      "aliases": [
+        "张婧"
+      ],
       "school": "New York University",
       "title": "Faculty Fellow",
       "homepage": "https://jingz6676.github.io/",
       "batch": "embodied-053",
       "discoveredAt": "2026-10-01T03:24:16Z",
-      "verifiedAt": "2026-10-01T03:29:25Z",
+      "verifiedAt": "2026-10-01T04:31:16Z",
       "scores": {
         "fit": 38,
         "physical": 20,
@@ -6751,13 +6753,15 @@
     {
       "id": "sherry-yang",
       "name": "Sherry Yang",
-      "aliases": [],
+      "aliases": [
+        "杨梦娇"
+      ],
       "school": "New York University",
       "title": "Assistant Professor",
       "homepage": "https://sherryy.github.io/",
       "batch": "embodied-054",
       "discoveredAt": "2026-10-01T03:30:02Z",
-      "verifiedAt": "2026-10-01T04:25:21Z",
+      "verifiedAt": "2026-10-01T04:31:16Z",
       "scores": {
         "fit": 40,
         "physical": 20,

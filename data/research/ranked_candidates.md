@@ -193,7 +193,7 @@
 | 183 | [Haozhi Qi](batches/embodied-022.md#haozhi-qi) · University of Chicago (incoming January 2027) | 75 (40/20/0/15) | unknown · 2027年1月入职，实验室待确认 | 2026-09-30T23:51:05Z | 2026-09-30T23:58:03Z |
 | 184 | [Ruoshi Liu](batches/embodied-027.md#ruoshi-liu) · University of Maryland, College Park | 75 (40/20/0/15) | unknown | 2026-10-01T00:31:06Z | 2026-10-01T00:46:00Z |
 | 185 | [Lillian J. Ratliff](batches/control-031.md#lillian-j-ratliff) · University of Washington | 75 (40/20/0/15) | unknown | 2026-10-01T01:19:06Z | 2026-10-01T01:20:49Z |
-| 186 | [Sherry Yang](batches/embodied-054.md#sherry-yang) · New York University | 75 (40/20/0/15) | precedent-only | 2026-10-01T03:30:02Z | 2026-10-01T04:25:21Z |
+| 186 | [Sherry Yang](batches/embodied-054.md#sherry-yang) · New York University | 75 (40/20/0/15) | precedent-only | 2026-10-01T03:30:02Z | 2026-10-01T04:31:16Z |
 | 187 | [Nikolay A. Atanasov](batches/control-002.md#nikolay-a-atanasov) · University of California, San Diego | 75 (38/22/0/15) | precedent-only | 2026-09-30T21:28:35Z | 2026-09-30T21:31:39Z |
 | 188 | [Dimitra Panagou](batches/control-003.md#dimitra-panagou) · University of Michigan | 75 (38/22/0/15) | unknown | 2026-09-30T21:34:55Z | 2026-09-30T21:38:05Z |
 | 189 | [Daniel Szafir](batches/hri-003.md#daniel-szafir) · University of North Carolina at Chapel Hill | 75 (37/23/0/15) | unknown | 2026-09-30T21:36:36Z | 2026-09-30T21:42:22Z |
@@ -282,7 +282,7 @@
 | 272 | [Mark R. Cutkosky](batches/control-042.md#mark-r-cutkosky) · Stanford University | 73 (38/20/0/15) | unknown | 2026-10-01T02:18:05Z | 2026-10-01T02:20:04Z |
 | 273 | [Jessica K. Hodgins](batches/embodied-044.md#jessica-k-hodgins) · Carnegie Mellon University | 73 (38/20/0/15) | unknown | 2026-10-01T02:23:20Z | 2026-10-01T02:26:17Z |
 | 274 | [Russell H. Taylor](batches/hri-047.md#russell-h-taylor) · Johns Hopkins University | 73 (38/20/0/15) | unknown | 2026-10-01T03:08:58Z | 2026-10-01T03:14:13Z |
-| 275 | [Jing Zhang](batches/embodied-053.md#jing-zhang) · New York University | 73 (38/20/0/15) | unknown · 2027机构与主办权限待确认 | 2026-10-01T03:24:16Z | 2026-10-01T03:29:25Z |
+| 275 | [Jing Zhang](batches/embodied-053.md#jing-zhang) · New York University | 73 (38/20/0/15) | unknown · 2027机构与主办权限待确认 | 2026-10-01T03:24:16Z | 2026-10-01T04:31:16Z |
 | 276 | [Karen M. Feigh](batches/hri-051.md#karen-m-feigh) · Georgia Institute of Technology | 73 (38/20/0/15) | unknown | 2026-10-01T03:30:40Z | 2026-10-01T04:29:49Z |
 | 277 | [Michael S. Ryoo](batches/embodied-003.md#michael-s-ryoo) · Stony Brook University | 73 (37/24/0/12) | unknown | 2026-09-30T21:39:12Z | 2026-09-30T21:42:30Z |
 | 278 | [Mingmin Zhao](batches/hri-048.md#mingmin-zhao) · University of Pennsylvania | 73 (37/18/8/10) | inquiry-only | 2026-10-01T03:16:27Z | 2026-10-01T03:24:30Z |

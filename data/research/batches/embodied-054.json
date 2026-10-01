@@ -2,14 +2,16 @@
   {
     "id": "sherry-yang",
     "name": "Sherry Yang",
-    "aliases": [],
+    "aliases": [
+      "杨梦娇"
+    ],
     "school": "New York University",
     "homepage": "https://sherryy.github.io/",
     "title": "Assistant Professor",
     "department": "Computer Science, Courant; CILVR",
     "batch": "embodied-054",
     "discoveredAt": "2026-10-01T03:30:02Z",
-    "verifiedAt": "2026-10-01T04:25:21Z",
+    "verifiedAt": "2026-10-01T04:31:16Z",
     "researchAreas": [
       "World models for robot policy learning",
       "Vision-language-action policies",
@@ -58,8 +60,8 @@
         "id": "s2",
         "label": "sherryy.github.io / source 2",
         "url": "https://sherryy.github.io/",
-        "summary": "Full current NYU and parallel Google roles; February 2026 World-Gymnast announcement; public email and research focus, no explicit visitor call.",
-        "verifiedAt": "2026-10-01T04:25:21Z",
+        "summary": "Full current NYU and parallel Google roles; February 2026 World-Gymnast announcement; public email and research focus, no explicit visitor call. The faculty homepage explicitly displays the public name variant 杨梦娇.",
+        "verifiedAt": "2026-10-01T04:31:16Z",
         "retrieval": "direct-primary-page"
       },
       {
@@ -85,14 +87,22 @@
         "summary": "Full current first-person page: KAIST master’s student visiting NYU with Yang. Precedent only; no opening or funding/duration terms.",
         "verifiedAt": "2026-10-01T04:25:21Z",
         "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "NYU Courant visitor and visa-assistance timing",
+        "url": "https://cims.nyu.edu/dynamic/resources/for_faculty/",
+        "summary": "Visa-assistance requests must be made at least 13 weeks before proposed arrival. This lead time does not impose a 13-week minimum visit. Visitor categories and approval remain separate.",
+        "verifiedAt": "2026-10-01T04:31:16Z"
       }
     ],
     "unknowns": [
       "Current NYU faculty directory and personal homepage confirm Assistant Professor. The homepage also lists a Google DeepMind staff role; this alone is not evidence of leave or unavailable university hosting.",
       "Physical evidence is capped for externally operated AutoEval apparatus. WorldGym-generated rollouts and held-out-set percentages should not be presented as physical trials. Main hardware tables list four tasks whereas appendixC.6 describes three; retain this source inconsistency and avoid an inflated aggregate benchmark claim. No claim that current apparatus is located in Yang’s own NYU lab.",
-      "The existing NYU supplement identifies an external-student unpaid research-affiliate mechanism, separate from Visiting Scholar status. Courant requests at least13weeks for visa assistance. Host approval, immigration category, educational-benefit conditions and fully personal funding remain unresolved.",
+      "The existing NYU supplement identifies an external-student unpaid research-affiliate mechanism, separate from Visiting Scholar status. Courant requires visa-assistance requests at least 13 weeks before the proposed arrival date; this is advance notice, not a minimum visit duration. Host approval, immigration category, educational-benefit conditions and fully personal funding remain unresolved.",
       "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
-      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[NYU institutional visitor rules](../eligibility_notes.md#nyu)"
     ],
     "publicEmail": "sherryyang@nyu.edu",
     "publicEmailAlternates": [

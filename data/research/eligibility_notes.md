@@ -727,3 +727,19 @@ Tacoma 补充核查：2026-10-01T01:02:36Z。[SET visiting appointments](https:/
 核查：2026-10-01T02:51:49Z。[RAIL Join Us](https://sites.google.com/view/fenghan-homepage/join-us) 明确包括研究生及冬/暑期 visiting/intern inquiries，但没有约八周、海外学籍、移民支持或资金承诺。当前 [immigration policy](https://apps.nyit.edu/policies/immigration_policy) 主要面向全职雇佣及相应 HR 审批，不能代替无薪外部研究生的研究访问任命。
 
 [International Student Handbook](https://apps.nyit.edu/policies/collection/international_student_handbook) 主要针对正式在校学生并保留旧式文本；[Visiting Student Course Registration](https://registrations.nyit.edu/admissions/nonmatric_courses) 是修课途径，也不建立实验室研究访问的签证资格。现有公开资料不足以确认具体任命类别、全个人资金、最低支持数、费用、保险或办理提前期；不以雇员或普通学位学费标准替代，也不因未知而推断全面禁止。需导师与 [International Student Support](https://www.nyit.edu/student-life/support/international-student-support/) 确认 Long Island 的实际研究安排，未发出任何联系请求。
+
+<a id="iowa-state"></a>
+
+## Iowa State · 学位关联 Intern 与含保险的 FY2027 支持数
+
+核查：2026-10-01T02:58:12Z。[当前 visiting-student 比较页](https://isso.dso.iastate.edu/resources/department/how-do-i-bring-a-visiting-student-for-research-or-an-internship-/primary-options) 包括国外学位在读、访后继续学位的 Student Intern，三周至十二个月、每周至少 32 小时，有薪/无薪均可，没有本科专属限制。[当前链接的 2024 年指南](https://isso.dso.iastate.edu/files/documents/2024-02/Overview%20J-1%20Student%20Intern%20DS-2019%20Application%202024.02.14.pdf) 明确要求部门 Intern 项目先获 Provost 批准，与 Visiting Scholar 的审批分开；第四页图像允许个人银行材料，不能把工资陈述当作资金证明，也不采用旧截图金额。
+
+[FY2027 支持标准](https://isso.dso.iastate.edu/resources/department/minimum-required-financial-support-for-j-1-exchange-visitors) 适用 2026-08-01 至 2027-07-31：单人每月 1,960 美元，已含 1,663 生活及 297 保险，不重复加保险。每年八月调整，2027 年八月数尚未验证。[保险页](https://sship.hr.iastate.edu/visiting-scholars) 确认同周期 297 美元；不足月计费须按实际日期确认。比较页另列部门 100 美元 ISSO 费，十工作日文件处理和 4–6 周签证估计不保证完整提前期。具体类别、学位关联、项目、2027 接收及费用批准仍需主办方/ISSO；中央 Scholar 政策页读取被拒，未推断未见条款。
+
+<a id="saint-louis"></a>
+
+## Saint Louis University · Self-sponsored Scholar 与硕士资格分开
+
+核查：2026-10-01T03:03:03Z。[当前国际服务页](https://www.slu.edu/international-services/visa/visa-types/work-visa.php) 仍链接 [2015 年 Scholar handbook](https://www.slu.edu/provost/policies/faculty/international-employment/policy_j-1-scholars-handbook_4-2015.pdf)，有最长六个月的 Short-Term Scholar，但并未明确继续在读外校硕士或 Student Intern 的资格。八周只符合该旧手册的时间范围，具体教育/专业资历、学术任命和当前类别须 OIS 审定。
+
+当前链接的 [New J-1 Visitor 表](https://www.slu.edu/international-services/-pdf/new_j1_visitor_form.docx) 明确要求 self-sponsored 者提供银行证明，支持自我资助 Scholar 的可能性，但不能替代合格任命。[部门表](https://www.slu.edu/international-services/-pdf/new-j1-department-form.pdf) 要求提前四至六个月、导师/chair/dean 签字及足够支持/英语证明。现行月支持最低数、大学处理费和完整保险成本未验证，不使用旧教师报告的金额作 2027 标准。导师接收、研究准入与最终资金条件仍需确认。

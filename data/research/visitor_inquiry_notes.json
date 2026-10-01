@@ -594,6 +594,13 @@
       "sourceIds": [
         "s3"
       ]
+    },
+    "luis-antonio-garcia": {
+      "note": "短期访问学者入口；硕士任命/八周另批；真机为2020年前期合作",
+      "sourceIds": [
+        "s3",
+        "s4"
+      ]
     }
   }
 }

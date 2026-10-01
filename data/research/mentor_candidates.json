@@ -99,6 +99,7 @@
     "batches/control-088.json",
     "batches/control-089.json",
     "batches/control-090.json",
+    "batches/control-091.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -5296,6 +5297,68 @@
       "shortVisitStatus": "inquiry-only · 独立visiting student/scholar入口；2027与八周未定",
       "recordFile": "batches/control-090.json",
       "detailPage": "batches/control-090.md#jun-chen"
+    },
+    {
+      "id": "luis-antonio-garcia",
+      "name": "Luis Antonio Garcia",
+      "aliases": [
+        "Luis A. Garcia",
+        "Luis Garcia"
+      ],
+      "school": "University of Utah",
+      "title": "Assistant Professor",
+      "homepage": "https://iotrustlab.com/",
+      "batch": "control-091",
+      "discoveredAt": "2026-10-01T10:14:16Z",
+      "verifiedAt": "2026-10-01T10:17:12Z",
+      "scores": {
+        "fit": 34,
+        "physical": 18,
+        "shortVisit": 8,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Trustworthy learning-enabled robotics",
+        "Neurosymbolic SLAM",
+        "Sim-to-real reinforcement learning",
+        "Cyber-physical systems safety"
+      ],
+      "physicalEvidenceStatus": "Earlier UCLA collaborative physical RL verified; current Utah learned hardware unknown",
+      "physicalEvidenceLabel": "受限真机证据：Earlier UCLA collaborative physical RL verified; current Utah learned hardware unknown",
+      "shortVisitStatus": "inquiry-only · 短期scholar询问；硕士类别与八周需确认",
+      "recordFile": "batches/control-091.json",
+      "detailPage": "batches/control-091.md#luis-antonio-garcia"
+    },
+    {
+      "id": "venkat-n-krovi",
+      "name": "Venkat N. Krovi",
+      "aliases": [
+        "Venkat Krovi",
+        "Venkat Narayan Krovi"
+      ],
+      "school": "Clemson University",
+      "title": "Michelin SmartState Chair Professor of Vehicle Automation",
+      "homepage": "https://sites.google.com/view/armlab-cuicar/home",
+      "batch": "control-091",
+      "discoveredAt": "2026-10-01T10:16:14Z",
+      "verifiedAt": "2026-10-01T10:17:12Z",
+      "scores": {
+        "fit": 38,
+        "physical": 23,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Multi-robot coordination",
+        "Deep reinforcement learning",
+        "Wheeled-biped payload transport",
+        "Vehicle automation"
+      ],
+      "physicalEvidenceStatus": "Current Clemson-advised physical RL coordination verified; bounded indoor experiment",
+      "physicalEvidenceLabel": "受限真机证据：Current Clemson-advised physical RL coordination verified; bounded indoor experiment",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-091.json",
+      "detailPage": "batches/control-091.md#venkat-n-krovi"
     },
     {
       "id": "tom-silver",

@@ -1,0 +1,233 @@
+[
+  {
+    "id": "luis-antonio-garcia",
+    "name": "Luis Antonio Garcia",
+    "aliases": [
+      "Luis A. Garcia",
+      "Luis Garcia"
+    ],
+    "school": "University of Utah",
+    "homepage": "https://iotrustlab.com/",
+    "title": "Assistant Professor",
+    "department": "Kahlert School of Computing; IOTrust Lab",
+    "batch": "control-091",
+    "discoveredAt": "2026-10-01T10:14:16Z",
+    "verifiedAt": "2026-10-01T10:17:12Z",
+    "researchAreas": [
+      "Trustworthy learning-enabled robotics",
+      "Neurosymbolic SLAM",
+      "Sim-to-real reinforcement learning",
+      "Cyber-physical systems safety"
+    ],
+    "fitReason": "Visitor-first trustworthy-robotics option with a current short-visit invitation, substantive recent learned perception methods and fully verified earlier physical RL.",
+    "physicalEvidence": {
+      "status": "Earlier UCLA collaborative physical RL verified; current Utah learned hardware unknown",
+      "summary": "CoRL 2020, published in PMLR 2021, deploys PPO-trained Time-in-State RL on an actual1/18-scale DeepRacer. Camera features are fused with execution latency and sampling interval; the policy controls steering and speed on a7.3m indoor track, measured with OptiTrack. Training is in Gazebo and legged HalfCheetah/Ant results are simulation. Garcia’s affiliation explicitly says USC ISI, work performed at UCLA: this is prior collaborative hardware, not current Utah access. Physical18. The 2024 nFEX paper learns feature-extractor parameters with symbolic selection but evaluates KITTI, EuRoC and HoloSet datasets; the 2025 property-guided drone paper evaluates surrogate simulation. Neither supplies new learned robot execution.",
+      "sourceIds": [
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only · 短期scholar询问；硕士类别与八周需确认",
+      "summary": "The live IOTrust homepage explicitly lists visiting scholars for short-term visits around shared systems problems and experimental platforms. This is a general scholar invitation, not a guaranteed external-master place or a funded 2027 offer. The detailed opportunities page describes cross-institution collaborators but does not specify a minimum visit or graduate visitor intake. Utah’s institutional master-student pathway must be arranged individually.",
+      "sourceIds": [
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 34,
+      "physical": 18,
+      "shortVisit": 8,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "Substantive robot-learning/perception track with broader current CPS/security emphasis.",
+      "physical": "Complete older collaborative real-car policy experiment; no current Utah learned platform claimed.",
+      "shortVisit": "Explicit general short-term scholar invitation, with master-level acceptance unresolved.",
+      "freshness": "Dated 2025 robotic safety work; current undated invitation is not itself a 2026 event."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "people.utah.edu / source 1",
+        "url": "https://people.utah.edu/basic.hml?eid=224139356",
+        "summary": "Current University of Utah faculty appointment and email.",
+        "verifiedAt": "2026-10-01T10:17:12Z",
+        "retrieval": "Direct official or author-controlled primary source; complete paper methods inspected"
+      },
+      {
+        "id": "s2",
+        "label": "www.cs.utah.edu / source 2",
+        "url": "https://www.cs.utah.edu/people/faculty/",
+        "summary": "Current Kahlert faculty listing independently verifies the host.",
+        "verifiedAt": "2026-10-01T10:17:12Z",
+        "retrieval": "Direct official or author-controlled primary source; complete paper methods inspected"
+      },
+      {
+        "id": "s3",
+        "label": "iotrustlab.com / source 3",
+        "url": "https://iotrustlab.com/",
+        "summary": "Current PI lab and explicit short-term visiting-scholar route.",
+        "verifiedAt": "2026-10-01T10:17:12Z",
+        "retrieval": "Direct official or author-controlled primary source; complete paper methods inspected"
+      },
+      {
+        "id": "s4",
+        "label": "iotrustlab.com / source 4",
+        "url": "https://iotrustlab.com/opportunities/",
+        "summary": "Detailed intake instructions; no master-specific promise or 2027 date.",
+        "verifiedAt": "2026-10-01T10:17:12Z",
+        "retrieval": "Direct official or author-controlled primary source; complete paper methods inspected"
+      },
+      {
+        "id": "s5",
+        "label": "proceedings.mlr.press / source 5",
+        "url": "https://proceedings.mlr.press/v155/sandha21a/sandha21a.pdf",
+        "summary": "Complete primary methods: actual DeepRacer timing-aware PPO, prior UCLA location explicitly disclosed; legged experiments simulated.",
+        "verifiedAt": "2026-10-01T10:17:12Z",
+        "retrieval": "Direct official or author-controlled primary source; complete paper methods inspected"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2407.06889v2",
+        "summary": "Complete 2024 nFEX neural/symbolic feature adaptation and dataset-only validation; Utah affiliation.",
+        "verifiedAt": "2026-10-01T10:17:12Z",
+        "retrieval": "Direct official or author-controlled primary source; complete paper methods inspected"
+      },
+      {
+        "id": "s7",
+        "label": "arxiv.org / source 7",
+        "url": "https://arxiv.org/html/2512.02270v1",
+        "summary": "CompleteDecember 2025 drone safety-surrogation work is simulated and is not new learned actuation.",
+        "verifiedAt": "2026-10-01T10:17:12Z",
+        "retrieval": "Direct official or author-controlled primary source; complete paper methods inspected"
+      },
+      {
+        "id": "s8",
+        "label": "sayom.me / source 8",
+        "url": "https://sayom.me/",
+        "summary": "Current Utah PhD researcher independently identifies Garcia as advisor and the 2025 robotic safety project.",
+        "verifiedAt": "2026-10-01T10:17:12Z",
+        "retrieval": "Direct official or author-controlled primary source; complete paper methods inspected"
+      }
+    ],
+    "unknowns": [
+      "Reuse Utah notes: the Visiting Graduate Student title explicitly includes master’s candidates and requires academic-unit/Graduate School approval; its honorary appointment is unpaid. The separate Student Intern route permits degree-linked outside study for 3weeks–12months, at least32hours/week, with return to the home degree, DS7002 and review. Personal funds are accepted institutionally; current support minimum$2,400/month and$350 department processing charge require 2027 confirmation. The lab must confirm master-level eligibility, project scope, hardware availability and sponsorship; one-semester generic scholar wording must not automatically replace the separate graduate category.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#utah)"
+    ],
+    "publicEmail": "la.garcia@utah.edu"
+  },
+  {
+    "id": "venkat-n-krovi",
+    "name": "Venkat N. Krovi",
+    "aliases": [
+      "Venkat Krovi",
+      "Venkat Narayan Krovi"
+    ],
+    "school": "Clemson University",
+    "homepage": "https://sites.google.com/view/armlab-cuicar/home",
+    "title": "Michelin SmartState Chair Professor of Vehicle Automation",
+    "department": "School of Mechanical and Automotive Engineering; Automation, Robotics and Mechatronics Laboratory, CU-ICAR",
+    "batch": "control-091",
+    "discoveredAt": "2026-10-01T10:16:14Z",
+    "verifiedAt": "2026-10-01T10:17:12Z",
+    "researchAreas": [
+      "Multi-robot coordination",
+      "Deep reinforcement learning",
+      "Wheeled-biped payload transport",
+      "Vehicle automation"
+    ],
+    "fitReason": "Current directed-group sim-to-real RL coordinates two physical wheel-legged robots for payload transport.",
+    "physicalEvidence": {
+      "status": "Current Clemson-advised physical RL coordination verified; bounded indoor experiment",
+      "summary": "The author-uploaded ICRA 2025 final paper, postedMay5, 2025, verifies a central PPO policy trained in Isaac Sim then transferred without hardware retraining to two real Diablo robots. OptiTrack provides robot/payload poses; a workstation publishes ego and relative-follower velocity commands through ROS at 50Hz. Indoor payload paths include changed loads and physical speed bumps. Legs primarily accommodate disturbances; internal robot control handles roll, while the learned policy coordinates transport. Active learned height control and longer rough terrain remain future. The physical workspace is limited to5m×2m and motor heating limits repeated tests. Lead author Mehta independently names Krovi his advisor, and the author code repository provides real-deployment implementation. Physical23; no outdoor deployment or whole-body torque policy inferred.",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No explicit external-master short-visitor invitation or summer 2027 availability was established. The lab’s old SAE bootcamp is a12-week virtual training course, not an in-person research visit. Faculty role, conference leadership and equipment pages do not create a visitor offer.",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 23,
+      "shortVisit": 0,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "Direct multi-robot deep-RL sim-to-real coordination, with bounded tasks.",
+      "physical": "Complete recent physical experiment plus independent current adviser/project linkage; limited indoor scope.",
+      "shortVisit": "No applicable external-master visitor invitation.",
+      "freshness": "Explicit 2025 publication and lab activity; no unverified 2026 update used."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.clemson.edu / source 1",
+        "url": "https://www.clemson.edu/cecas/departments/automotive-engineering/people/venkat-krovi.html",
+        "summary": "Current official chaired faculty appointment and email.",
+        "verifiedAt": "2026-10-01T10:17:12Z",
+        "retrieval": "Direct official or author-controlled primary source; complete paper methods inspected"
+      },
+      {
+        "id": "s2",
+        "label": "sites.google.com / source 2",
+        "url": "https://sites.google.com/view/armlab-cuicar/home",
+        "summary": "Current ARMLab director/Greenville site; historical12-week virtual bootcamp is not visitor intake.",
+        "verifiedAt": "2026-10-01T10:17:12Z",
+        "retrieval": "Direct official or author-controlled primary source; complete paper methods inspected"
+      },
+      {
+        "id": "s3",
+        "label": "www.researchgate.net / source 3",
+        "url": "https://www.researchgate.net/publication/384085603_Deep_Reinforcement_Learning_for_Coordinated_Payload_Transport_in_Biped-Wheeled_Robots",
+        "summary": "Full author-uploaded ICRA 2025 final manuscript publicly readable; page also retains a 2024preprint. Complete real hardware methods and limitations inspected, not ResearchGate-generated summary.",
+        "verifiedAt": "2026-10-01T10:17:12Z",
+        "retrieval": "Direct official or author-controlled primary source; complete paper methods inspected"
+      },
+      {
+        "id": "s4",
+        "label": "github.com / source 4",
+        "url": "https://github.com/dhruvkm2402/Deep_Reinforcement_Learning_Multi_Robot_Payload_Transport",
+        "summary": "Lead-author primary implementation independently documents simulation and actual Diablo/OptiTrack/ROS deployment.",
+        "verifiedAt": "2026-10-01T10:17:12Z",
+        "retrieval": "Direct official or author-controlled primary source; complete paper methods inspected"
+      },
+      {
+        "id": "s5",
+        "label": "www.linkedin.com / source 5",
+        "url": "https://www.linkedin.com/posts/dhruvkm_icra2025-ai-deeplearning-activity-7329323904643043328-m2xX",
+        "summary": "Lead author explicitly identifies Krovi as advisor of this ICRA 2025 project; broad outdoor motivation is not used as deployment evidence.",
+        "verifiedAt": "2026-10-01T10:17:12Z",
+        "retrieval": "Direct official or author-controlled primary source; complete paper methods inspected"
+      },
+      {
+        "id": "s6",
+        "label": "ieeexplore.ieee.org / source 6",
+        "url": "https://ieeexplore.ieee.org/abstract/document/11127939/",
+        "summary": "Official publisher listing independently confirms the ICRA paper; full-method basis is the author manuscript.",
+        "verifiedAt": "2026-10-01T10:17:12Z",
+        "retrieval": "Direct official or author-controlled primary source; complete paper methods inspected"
+      }
+    ],
+    "unknowns": [
+      "Reuse Clemson notes: outside-master academic/visa category requires individual review. Short-Term Scholar permits1day–6months with at least a bachelor’s, but visitor appointment details remain unresolved. Student Intern generally/typically undergraduate wording is not an absolute graduate prohibition; home-degree linkage and return are required. Current-linked forms have conflicting old dates; newer Intern form lists$1,800/month with family/friend support, but 2027 amounts, full personal-funding acceptance, fees and security review require confirmation. CU-ICAR is in Greenville; confirm research site, lab access and the exact project rather than assume main-campus hosting.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#clemson)"
+    ],
+    "publicEmail": "vkrovi@clemson.edu"
+  }
+]

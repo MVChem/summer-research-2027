@@ -1,0 +1,142 @@
+[
+  {
+    "id": "jun-chen",
+    "name": "Jun Chen",
+    "aliases": [],
+    "school": "San Diego State University",
+    "homepage": "https://junchen.sdsu.edu/",
+    "title": "Associate Professor",
+    "department": "Aerospace Engineering; Intelligent Autonomous System Lab",
+    "batch": "control-090",
+    "discoveredAt": "2026-10-01T10:08:28Z",
+    "verifiedAt": "2026-10-01T10:11:53Z",
+    "researchAreas": [
+      "Learning-based UAV planning",
+      "Uncertainty-aware robot autonomy",
+      "Neural dynamics models",
+      "Safe air mobility"
+    ],
+    "fitReason": "Visitor-first robotics-AI backup: substantive learned uncertainty representations and planning for autonomous UAVs, with an explicit visitor route and no verified learned physical execution.",
+    "physicalEvidence": {
+      "status": "simulation-only",
+      "summary": "The complete 2026 obstacle-space paper trains a transformer on expert-generated convex uncertainty regions for UAV/robot path planning, testing numerical obstacle distributions. It is an uncertainty representation for downstream planning, not a verified flown policy; outputs have no formal instance-wise coverage guarantee. The separate 2026 neural bilinear Koopman study uses trained lifting networks and certified finite-time prediction bounds on simulated cart-pole and 2D quadrotor systems. A 2025 official summer-project description names real-world drone obstacle avoidance, but no complete execution/results evidence was established. Physical0; do not infer a deployed learned system from field-test claims or equipment.",
+      "sourceIds": [
+        "s4",
+        "s5",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only · 独立visiting student/scholar入口；2027与八周未定",
+      "summary": "The current university-hosted homepage and openings page explicitly welcome visiting students/scholars separately from graduate admission. CV contact is invited, but the adjacent dated PhD opening is for Fall 2024. No eight-week minimum, 2027 dates, funding award or acceptance is promised. The 2025 ExpandAI summer program was for undergraduates/community-college students and is not the external-master route.",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s8",
+        "s9",
+        "s10"
+      ]
+    },
+    "scores": {
+      "fit": 36,
+      "physical": 0,
+      "shortVisit": 8,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Current substantive neural modeling and UAV planning, narrower than general embodied manipulation.",
+      "physical": "Current complete methods are numerical/simulated; title-level real-world summer project is insufficient.",
+      "shortVisit": "Explicit general visitor invitation, with institutionally supported outside-graduate route; no 2027 commitment.",
+      "freshness": "Two explicitly 2026 research papers, independent of an older Fall 2024 degree-recruitment line."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "aerospace.sdsu.edu / source 1",
+        "url": "https://aerospace.sdsu.edu/people/faculty",
+        "summary": "Current Aerospace Engineering associate-professor appointment.",
+        "verifiedAt": "2026-10-01T10:11:53Z",
+        "retrieval": "Official/primary source via web.run or public author-PDF download"
+      },
+      {
+        "id": "s2",
+        "label": "junchen.sdsu.edu / source 2",
+        "url": "https://junchen.sdsu.edu/",
+        "summary": "University-hosted homepage separately welcomes visiting students/scholars and gives public email.",
+        "verifiedAt": "2026-10-01T10:11:53Z",
+        "retrieval": "Official/primary source via web.run or public author-PDF download"
+      },
+      {
+        "id": "s3",
+        "label": "junchen.sdsu.edu / source 3",
+        "url": "https://junchen.sdsu.edu/opening.html",
+        "summary": "Direct visitor invitation and desired control/ML/programming background; adjacent PhD opening is explicitly Fall 2024, not summer 2027.",
+        "verifiedAt": "2026-10-01T10:11:53Z",
+        "retrieval": "Official/primary source via web.run or public author-PDF download"
+      },
+      {
+        "id": "s4",
+        "label": "junchen.sdsu.edu / source 4",
+        "url": "https://junchen.sdsu.edu/journals/l_smc_JX_JC.pdf",
+        "summary": "Complete 2026 accepted author manuscript DOI10.1109/LSMC.2026.3731283: transformer imitation of convex probabilistic obstacle regions; numerical experiments and no instance-wise coverage guarantee. Downloaded public author PDF after web reader error.",
+        "verifiedAt": "2026-10-01T10:11:53Z",
+        "retrieval": "Official/primary source via web.run or public author-PDF download"
+      },
+      {
+        "id": "s5",
+        "label": "junchen.sdsu.edu / source 5",
+        "url": "https://junchen.sdsu.edu/journals/cls_26_ZX_JX_JC_RD.pdf",
+        "summary": "Complete 2026 neural-bilinear Koopman paper, six pages: cart-pole and 2D-quadrotor simulations; trained lift functions and noise-error certification, not hardware.",
+        "verifiedAt": "2026-10-01T10:11:53Z",
+        "retrieval": "Official/primary source via web.run or public author-PDF download"
+      },
+      {
+        "id": "s6",
+        "label": "junchen.sdsu.edu / source 6",
+        "url": "https://junchen.sdsu.edu/people.html",
+        "summary": "Independent current advised-student link for Jun Xiang, who leads obstacle-learning work.",
+        "verifiedAt": "2026-10-01T10:11:53Z",
+        "retrieval": "Official/primary source via web.run or public author-PDF download"
+      },
+      {
+        "id": "s7",
+        "label": "expandai.sdsu.edu / source 7",
+        "url": "https://expandai.sdsu.edu/event_2025summer_research.html",
+        "summary": "Summer 2025 undergraduate/community-college projects include a two-stage-neural drone obstacle task under Chen; project description alone does not verify actual learned flight or graduate eligibility.",
+        "verifiedAt": "2026-10-01T10:11:53Z",
+        "retrieval": "Official/primary source via web.run or public author-PDF download"
+      },
+      {
+        "id": "s8",
+        "label": "faculty-advancement.sdsu.edu / source 8",
+        "url": "https://faculty-advancement.sdsu.edu/immigration/j-1-inforcollege",
+        "summary": "Official outside-graduate hosting, personal-funding permission, lead-time and category framework; individual approval required.",
+        "verifiedAt": "2026-10-01T10:11:53Z",
+        "retrieval": "Official/primary source via web.run or public author-PDF download"
+      },
+      {
+        "id": "s9",
+        "label": "faculty-advancement.sdsu.edu / source 9",
+        "url": "https://faculty-advancement.sdsu.edu/immigration/j-1-exprogram",
+        "summary": "Current faculty sponsor/invitation and Faculty Advancement approval process; four weeks for DS2019 after approval is not complete visa timing.",
+        "verifiedAt": "2026-10-01T10:11:53Z",
+        "retrieval": "Official/primary source via web.run or public author-PDF download"
+      },
+      {
+        "id": "s10",
+        "label": "faculty-advancement.sdsu.edu / source 10",
+        "url": "https://faculty-advancement.sdsu.edu/_resources/files/immigration/j-1-exchange/min-finan-supp.pdf",
+        "summary": "Current-linked support sheet explicitly separates graduate Student Intern$2207/month from scholar$2400/month; 2027 amount must be rechecked.",
+        "verifiedAt": "2026-10-01T10:11:53Z",
+        "retrieval": "Official/primary source via web.run or public author-PDF download"
+      }
+    ],
+    "unknowns": [
+      "SDSU explicitly accommodates outside graduate researchers and lists graduate Student Intern support at$2,207/month, versus$2,400/month for Research/Short-Term Scholar; recheck 2027 rates and actual living costs. Personal funding is expressly permitted institutionally. A faculty sponsor, department and Faculty Advancement approval are required; a student internship needs a DS7002 plan. Plan2–3months ahead. Scholar/Intern category, exact eight-week arrangement, project restrictions, insurance and lab acceptance remain individual determinations. San Diego State is distinct from South Dakota State.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#san-diego-state)"
+    ],
+    "publicEmail": "jun.chen@sdsu.edu",
+    "candidateTier": "Robotics-AI visitor backup; learned flight/robot execution unverified"
+  }
+]

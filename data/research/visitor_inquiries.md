@@ -2,11 +2,11 @@
 
 [全部候选与总分排序](ranked_candidates.md) · [原始索引](mentor_candidates.json) · [机构规则](eligibility_notes.md) · [原200位后续补充](baseline_addenda.md)
 
-从现有记录筛出 **89 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。
+从现有记录筛出 **90 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。
 
 本页按研究匹配分优先，其次真机、短访、新鲜度及发现时间；不把一般询问、学校制度或个人自费能力当成已获资格。所有人的主办类别、八周安排、2027容量、经费和设备访问都需确认。具体奖学金要求、无资助、时间不匹配、任职时点及证据限制优先看下列加粗提示，再读完整资料。
 
-## 访问/短期研究问询线索（现场安排仍须确认） · 81 条
+## 访问/短期研究问询线索（现场安排仍须确认） · 82 条
 
 | 导师 / 机构 | 匹配 / 真机 / 短访 | 已知限制与证据状态 | 直接来源 / 机构规则 | 记录核查 UTC |
 |---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Maja Matarić](batches/hri-001.md#maja-mataric) · University of Southern California | 36/20/5 | **公开问询入口；详细资格与期限未定** | [s2](https://robotics.usc.edu/~maja/applicants.html) | 2026-09-30T21:27:42Z |
 | [Pratyusha Sharma](batches/embodied-075.md#pratyusha-sharma) · New York University | 36/15/10 | **表单明确外校MS/visitor、现场或远程；设备为历史合作证据；受限真机证据：older-prior-host-hardware** | [s4](https://pratyushasharma.github.io/lab/) [s5](https://docs.google.com/forms/d/e/1FAIpQLSd3xjtNnEyDeSmSvIYiJzonTUJlNoW8fj2rTRAc38OkDyFE9Q/viewform) [规则](eligibility_notes.md#nyu) | 2026-10-01T07:19:10Z |
 | [Shan Zuo](batches/control-075.md#shan-zuo) · University of Connecticut | 36/0/8 | **inquiry-only · 外部访问意向；八周与2027名额未定；AI相关 · 真机待核实** | [s2](https://distributed-decision-learning.engr.uconn.edu/) [规则](eligibility_notes.md#connecticut) | 2026-10-01T06:37:33Z |
+| [Jun Chen](batches/control-090.md#jun-chen) · San Diego State University | 36/0/8 | **独立访客询问；学习控制仅仿真；PhD广告标注2024，2027/八周未定；仅仿真；真机待核实** | [s2](https://junchen.sdsu.edu/) [s3](https://junchen.sdsu.edu/opening.html) [规则](eligibility_notes.md#san-diego-state) | 2026-10-01T10:11:53Z |
 | [Minghan Li](batches/embodied-080.md#minghan-li) · Colorado School of Mines | 35/0/10 | **独立硕士/访客表单明确外校及海外学生；无经费或2027承诺；仅视频方法；真机待核实** | [s4](https://mai-lab-2026.com/openings.html) [s5](https://docs.google.com/forms/d/e/1FAIpQLSd_qm4qF5swx6ax1kq3WKyUt6QPy_zCw1K7tBMV9qttsOcwLA/viewform) [规则](eligibility_notes.md#colorado-mines) | 2026-10-01T10:09:11Z |
 | [Andrea D’Ambrosio](batches/control-085.md#andrea-dambrosio) · University of South Florida | 35/0/8 | **访客独立询问入口；USF主要资金须非个人、个人仅补充；学习控制仅仿真；仅仿真；真机待核实** | [s3](https://ciro-lab.com/join/) [规则](eligibility_notes.md#south-florida) | 2026-10-01T09:43:52Z |
 | [Jiefeng Sun](batches/control-014.md#jiefeng-sun) · Arizona State University | 34/25/10 | **公开问询入口；详细资格与期限未定** | [s2](https://sunrobotics.lab.asu.edu/Openings/) [s3](https://sunrobotics.lab.asu.edu/) | 2026-09-30T23:20:06Z |

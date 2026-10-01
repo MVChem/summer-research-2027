@@ -95,6 +95,7 @@
     "batches/control-084.json",
     "batches/control-085.json",
     "batches/control-086.json",
+    "batches/control-090.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -5104,6 +5105,35 @@
       "shortVisitStatus": "inquiry-only · 明确短访入口；不提供无薪志愿岗位",
       "recordFile": "batches/control-086.json",
       "detailPage": "batches/control-086.md#h-eric-tseng"
+    },
+    {
+      "id": "jun-chen",
+      "name": "Jun Chen",
+      "aliases": [],
+      "school": "San Diego State University",
+      "title": "Associate Professor",
+      "homepage": "https://junchen.sdsu.edu/",
+      "batch": "control-090",
+      "discoveredAt": "2026-10-01T10:08:28Z",
+      "verifiedAt": "2026-10-01T10:11:53Z",
+      "scores": {
+        "fit": 36,
+        "physical": 0,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Learning-based UAV planning",
+        "Uncertainty-aware robot autonomy",
+        "Neural dynamics models",
+        "Safe air mobility"
+      ],
+      "candidateTier": "Robotics-AI visitor backup; learned flight/robot execution unverified",
+      "physicalEvidenceStatus": "simulation-only",
+      "physicalEvidenceLabel": "仅仿真；真机待核实",
+      "shortVisitStatus": "inquiry-only · 独立visiting student/scholar入口；2027与八周未定",
+      "recordFile": "batches/control-090.json",
+      "detailPage": "batches/control-090.md#jun-chen"
     },
     {
       "id": "tom-silver",

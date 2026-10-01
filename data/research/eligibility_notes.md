@@ -1044,3 +1044,10 @@ Part II第5页允许全额个人资金，但要求境外大学/研究机构关�
 核查2026-10-01T09:43:52Z。[现行 J-1 页](https://www.csuohio.edu/international/j-1-exchange-visitor-program)列 Short-Term Scholar 为1天至6个月、至少学士及英语能力，需导师资源、研究计划、系主任和院长审批；外校在读硕士的具体任命仍待 CISP 确定。每月2,300美元明确标注为2022年4月基准，不能直接当作2027预算。页面接受银行证明，但未明确保证全部个人资金适用；另需保险。两周仅是办理提示，不代表完整签证周期。
 
 当前类别表未列 Student Intern；旧申请表的复选框不足以确认现行路径。Non-degree Student 的 MOU 及非个人主要资金规则不可自动套用 scholar。此处为 Cleveland State，区别于其他 CSU。
+
+<a id="san-diego-state"></a>
+## San Diego State · 外校研究生路径及个人资金可行，须导师接收
+
+核查2026-10-01T10:11:53Z。[现行流程](https://faculty-advancement.sdsu.edu/immigration/j-1-exprogram)要求导师协议、邀请函、英语及财力证明、Faculty Advancement批准；Student Intern需DS7002及结束评估，上限12个月，最短访问期未明确。完整批准后4周为DS2019办理说明，不是签证总周期。
+
+[官方指南](https://faculty-advancement.sdsu.edu/immigration/j-1-inforcollege)承认境外在读研究生，允许个人资金，建议提前2–3个月；学校不收J-1办理费，政府费用及保险仍需承担。[财力表](https://faculty-advancement.sdsu.edu/_resources/files/immigration/j-1-exchange/min-finan-supp.pdf)列研究生Student Intern每月2,207美元，Research/Short-Term Scholar每月2,400美元；2027金额和实际生活预算须复核。八周类别、项目限制及导师名额均须个案批准。与South Dakota State不同。

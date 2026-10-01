@@ -280,3 +280,15 @@
 - **当前UIUC休假、在Samsung Research America任职，明确暂不接收新学生；没有结束日期或已核实访客例外，不推断永久离职或Summer2027关闭**
 - 核查：2026-10-01T16:03:48Z · [来源1](https://kkhauser.web.illinois.edu/) · [来源2](https://grainger.illinois.edu/about/directory/faculty/kkhauser) · [来源3](https://events.seas.harvard.edu/event/robotics-seminar-series-kris-hauser-modeling-and-reasoning-about-stuff)
 
+### Fengpei (Fiona) Yuan（新增候选）
+
+- 适用范围：WPI student survey and separate outside collaboration inquiry
+- **学生研究调查仅WPI；外部研究/医疗利益相关方可问合作，但不构成访学邀请或所有访客禁令**
+- 核查：2026-10-01T16:51:16Z · [来源1](https://robocare.wpi.edu/join.html)
+
+### Mengyu Liu（新增候选）
+
+- 适用范围：Research interns in the current Spring 2027 onward call
+- **必须实际位于美国；申请阶段还是实习阶段未说明，海外主办与校园模式未知；不转化为国籍限制**
+- 核查：2026-10-01T16:20:07Z · [来源1](https://mengyuliu0520.github.io/)
+

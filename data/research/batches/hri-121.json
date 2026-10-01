@@ -1,0 +1,158 @@
+[
+  {
+    "id": "yudai-tanaka",
+    "name": "Yudai Tanaka",
+    "aliases": [],
+    "school": "University of Texas at Austin",
+    "homepage": "https://symbiotic-interfaces.cs.utexas.edu/",
+    "title": "Assistant Professor of Computer Science listed in official directory; lab opening January 2027 is PI-announced",
+    "department": "Computer Science; Symbiotic Interfaces Lab",
+    "batch": "hri-121",
+    "discoveredAt": "2026-10-01T15:48:30Z",
+    "verifiedAt": "2026-10-01T15:51:02Z",
+    "researchAreas": [
+      "Haptic and embodied interfaces",
+      "Vision-assisted physical feedback",
+      "Wearable computing",
+      "Assistive interaction",
+      "Machine learning for tangible displays"
+    ],
+    "fitReason": "A newly announced CS Assistant Professor with an externally oriented intern-interest form and implemented computational/physical interfaces. Best suited to learned perception for haptics and embodied interaction, with a narrower robotics-AI fit than general manipulation or foundation-model labs.",
+    "physicalEvidence": {
+      "status": "historical-or-indirect",
+      "summary": "Full CHI 2026 Embodied Devices uses MediaPipe wrist tracking with an RGB camera, feeding a PID controller that modulates real electrical muscle stimulation. A 12-person study uses 600 trials; the experimenter confirms interface invocation to avoid false positives. This is human-body actuation, not a robot arm or learned controller, and was developed at Chicago. Separately, equal-contribution BulkScreen (TEI 2020) implements pretrained CNN saliency-to-depth mapping driving 256 physical pins in Tokyo; it is a work-in-progress demonstration with user evaluation still planned. These attributable prior-host systems support a capped historical physical score, not current UT Austin apparatus access.",
+      "sourceIds": [
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only · 外校MS表单例子；2027-01拟开组",
+      "summary": "The PI-linked live research-interest form separately offers Research intern (including visiting PhD student), asks current affiliation/title with an outside-university MS example, desired start, intern duration and availability including full-time summer as an example. Masters degree applicants are separately directed to admissions. This is a genuine external-inquiry route; it does not promise acceptance of every external-master internship, a particular duration, funding, remote work or Summer 2027 availability.",
+      "sourceIds": [
+        "s3",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 32,
+      "physical": 20,
+      "shortVisit": 10,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Computational embodied feedback and tangible-interface AI are verified, but current scope is haptics/HCI rather than a general robot-learning agenda.",
+      "physical": "Actual learned perception to physical human-body feedback and older neural motorized display; capped for prior-host apparatus and narrower demonstration evidence.",
+      "shortVisit": "Live intern form explicitly accepts arbitrary affiliations, gives an outside-MS example, and requests dates/duration; exact graduate-visitor classification still needs approval.",
+      "freshness": "Full April 2026 embodied-feedback study plus a current 2026 recruitment form; the older display is not relabeled as recent research."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.cs.utexas.edu / source 1",
+        "url": "https://www.cs.utexas.edu/people/faculty-researchers/yudai-tanaka",
+        "summary": "Official current directory lists Assistant Professor of Computer Science and HCI, machine learning, haptics and robotics. It gives no effective appointment date.",
+        "verifiedAt": "2026-10-01T15:51:02Z"
+      },
+      {
+        "id": "s2",
+        "label": "cns.utexas.edu / source 2",
+        "url": "https://cns.utexas.edu/news/announcements/meet-new-faculty-college-natural-sciences-2026",
+        "summary": "Official September 25, 2026 new-faculty feature names Tanaka as an AP; it does not independently state his January 2027 start and is less precise than his lab-opening announcement.",
+        "verifiedAt": "2026-10-01T15:51:02Z"
+      },
+      {
+        "id": "s3",
+        "label": "symbiotic-interfaces.cs.utexas.edu / source 3",
+        "url": "https://symbiotic-interfaces.cs.utexas.edu/",
+        "summary": "University-hosted PI lab page says the lab will open January 2027, includes current haptics/ML agenda, and directly links the research-interest form.",
+        "verifiedAt": "2026-10-01T15:49:03Z"
+      },
+      {
+        "id": "s4",
+        "label": "yudai-tanaka.com / source 4",
+        "url": "https://yudai-tanaka.com/",
+        "summary": "PI explicitly says incoming UT Austin CS Assistant Professor in January 2027; professional email and primary papers. Current university listing and future lab opening are both retained.",
+        "verifiedAt": "2026-10-01T15:49:03Z"
+      },
+      {
+        "id": "s5",
+        "label": "docs.google.com / source 5",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSenARMCZlo065SOrhnGgN7y0j9ANL4lcSWwUOllH7TJNWIeOA/viewform?usp=send_form",
+        "summary": "Read-only live cloud-browser observation of linked form. Current affiliation examples include an MS student at UChicago; a separate Research intern category includes visiting PhD students, with desired start, duration and availability fields. Degree applicants separately use admissions. No submission or data entry.",
+        "verifiedAt": "2026-10-01T15:50:28Z"
+      },
+      {
+        "id": "s6",
+        "label": "lab.plopes.org / source 6",
+        "url": "https://lab.plopes.org/published/2026-CHI-EmbodiedDevices.pdf",
+        "summary": "Full CHI 2026 methods: MediaPipe RGB wrist tracking feeds closed-loop PID electrical-muscle stimulation. Technical trials and 12-person main study; manual invocation confirmation is explicit. Chicago apparatus, not current UT Austin facilities.",
+        "verifiedAt": "2026-10-01T15:49:41Z"
+      },
+      {
+        "id": "s7",
+        "label": "yudai-tanaka.com / source 7",
+        "url": "https://yudai-tanaka.com/wp-content/uploads/2021/04/tei20-bulkscreen.pdf",
+        "summary": "Full equal-contribution TEI 2020 work-in-progress: pretrained CNN saliency plus heuristic depth mapping drives 256 motorized pins. Implemented Tokyo system and 2019 public demonstration; formal perceptual evaluation remains future work.",
+        "verifiedAt": "2026-10-01T15:49:41Z"
+      },
+      {
+        "id": "s8",
+        "label": "lab.plopes.org / source 8",
+        "url": "https://lab.plopes.org/published/2026-CHI-MyoAction.pdf",
+        "summary": "Full CHI 2026 implementation uses adaptive Schmitt-trigger signal processing for EMG-triggered stimulation. Biological neural signals and agency language do not establish an artificial neural policy.",
+        "verifiedAt": "2026-10-01T15:49:13Z"
+      },
+      {
+        "id": "s9",
+        "label": "global.utexas.edu / source 9",
+        "url": "https://global.utexas.edu/isss/department-resources/hiring/j1-exchange-visitor-interns",
+        "summary": "Reused institutional check: foreign-degree Student Intern framework, home-degree requirements and $700 processing fee; exact academic category and funding need review.",
+        "verifiedAt": "2026-10-01T00:59:38Z"
+      },
+      {
+        "id": "s10",
+        "label": "global.utexas.edu / source 10",
+        "url": "https://global.utexas.edu/isss/department-resources/hiring/j1-exchange-visitor",
+        "summary": "Reused separate scholar support policy: personal funding permitted; requests from September 1, 2026 use $1,834 monthly floor, with insurance and English requirements. Do not automatically apply to Student Intern.",
+        "verifiedAt": "2026-10-01T00:59:38Z"
+      },
+      {
+        "id": "s11",
+        "label": "www.cs.utexas.edu / source 11",
+        "url": "https://www.cs.utexas.edu/department-info/visiting-scholars-researchers",
+        "summary": "Reused CS chair consultation and host resources, with 3–4 months international-visitor preparation.",
+        "verifiedAt": "2026-10-01T00:59:38Z"
+      }
+    ],
+    "unknowns": [
+      "Official AP title is verified; exact appointment effective date is not independently dated. The PI says the new lab opens January 2027, before the target summer, but setup and hosting readiness remain unknown.",
+      "Full 2026 Myo Action is adaptive threshold/signal processing, not an artificial neural-network policy; it is not the learned-physical anchor.",
+      "The recent learned component is pretrained MediaPipe perception, while actuation uses classical PID. BulkScreen is older 2020 work-in-progress hardware; do not characterize it as a completed comparative user evaluation.",
+      "Form fields establish a route to inquire, not formal external-master eligibility or an eight-week commitment. No inspected no-summer or minimum-duration restriction was stated.",
+      "Reused UT Austin policy requires host and ISSS review of academic title, home-degree purpose and immigration category. Separate scholar personal-funding rules cannot automatically be applied to Student Intern.",
+      "CS international visitors normally need 3–4 months preparation. Exact 2027 fees, support level, insurance, personal-funding and remote arrangements remain unresolved.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor review](../eligibility_notes.md#ut-austin); original policy-observation times are retained.",
+      "Any human-participant experiment, stimulation-device access or related data requires a separately approved project, training and institutional review.",
+      "Timestamp scope: First precisely retained dedicated primary laboratory encounter; no earlier individual timestamp was reconstructed."
+    ],
+    "discoveryTimestampNote": "First precisely retained dedicated primary laboratory encounter; no earlier individual timestamp was reconstructed.",
+    "publicEmail": "yudait@cs.utexas.edu",
+    "appointmentStart": {
+      "year": 2027,
+      "month": 1,
+      "precision": "month",
+      "status": "incoming",
+      "sourceIds": [
+        "s3",
+        "s4"
+      ],
+      "evidence": "The university-hosted PI lab and personal homepage explicitly announce January 2027. The official directory and September 2026 cohort already label him AP without an effective date. Preserve the incoming lab-opening timing as first-person provenance; do not promote it as an independently official dated 2026 appointment.",
+      "appointmentType": "unresolved"
+    },
+    "candidateTier": "触觉/实体界面备选；2027-01拟开组、准备未核",
+    "appointmentTimingStatus": "incoming January 2027, PI-announced; official effective date unconfirmed",
+    "appointmentTimingLabel": "2027-01拟开组（本人公告）；官方生效日期/主办准备未核"
+  }
+]

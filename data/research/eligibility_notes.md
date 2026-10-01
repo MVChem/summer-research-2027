@@ -1227,3 +1227,22 @@ Verified 2026-10-01T13:24:28Z. Institutional feasibility is separate from a ment
 
 The older DS-2019 PDF's two-month minimum is superseded for planning by the live three-month recommendation. Exact external-master eligibility, personal-only funding, remote options, Summer 2027 dates and lab capacity remain unresolved.
 
+
+<a id="washington-state"></a>
+
+## Washington State, Pullman · 实验室欢迎访客，但硕士分类及全自费仍待确认
+
+核查：2026-10-01T12:53:47Z。以下校级规则取自官方网页索引；直接读取及云浏览器均遇到403，不能称为已实时核验的审批条件。[Exchange Visitor Program](https://ip.wsu.edu/isss/faculty-scholar-services/j-1-scholars-program/) 的 Student Intern 明确面向国外本科在读，不能直接套用于外校硕士。Short-Term Scholar 资格取决于相当教育／研究背景及校方分类；两个现行页面的最低时长分别为三周与一天，均最长六个月，须由 ISSS 协调。
+
+[2025–26 研究生手册](https://gradschool.wsu.edu/2025-2026-graduate-school-policies-and-procedures-manual/) 的 VIGS 可接收继续海外研究生学籍并返校者，但涉及研究生院／院系录取、英语、财力、注册及指定保险；个人银行资金仅在家属支持栏明确出现。[2026–27 手册](https://gradschool.wsu.edu/graduate-school-policies-and-procedures/) 已发布，本轮未恢复其具体 VIGS 条款，因此适用性、学费／学分、暑期安排与完整个人出资均未定。
+
+[当前主办页索引](https://ip.wsu.edu/isss/faculty-scholar-services/faculty-resources/host-hire-internationals/) 列 Pullman 每月2,400美元支持证明，不是资助或2027总预算；[FAQ](https://ip.wsu.edu/isss/faculty-scholar-services/j-1-scholars-program/j-1-scholar-faqs/) 说 ISSS 不承担／报销 SEVIS 费。当前办理周期、学校管理费和2027金额仍待核实。[Honghao Wei](https://honghaow.me/index.html) 的实习生／访问学生邀请可直接读取，但不替代具体身份、经费和夏季容量确认。
+
+
+<a id="washington-state-tri-cities"></a>
+### Washington State University, Tri-Cities
+
+Additional check 2026-10-01T16:23:24Z; reuse central WSU caveats. The [official indexed hosting table](https://ip.wsu.edu/isss/faculty-scholar-services/faculty-resources/host-hire-internationals/) explicitly gives Tri-Cities/Prosser $2,400/month and requests J-1 paperwork at least two months before the start. Its 2–3-business-day internal review applies only after a complete request and excludes possible export/visa delays. Live policy retrieval returned bare 403, so these are indexed observations, not a verified administrative approval. Outside-master category, current VIGS terms, full personal funding, fees and 2027 capacity remain unresolved.
+
+[Mengyu Liu's current intern invitation](https://mengyuliu0520.github.io/) starts from Spring 2027 and requires interns to be physically in the USA. It does not clarify application-time residence versus internship-time presence, campus location, or international sponsorship. Do not infer citizenship eligibility or a blanket no-visitors restriction.
+

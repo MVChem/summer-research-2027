@@ -838,6 +838,30 @@
         "s6",
         "s7"
       ]
+    },
+    "wenzhong-yan": {
+      "note": "一般visitor/intern及外部资金问询；硕士/时长/2027容量未知，个人自费适用性须另核；先前Yale软体PPO设备",
+      "sourceIds": [
+        "s2",
+        "s3"
+      ],
+      "category": "generic-intern-eligibility-unconfirmed"
+    },
+    "yudai-tanaka": {
+      "note": "外校MS例子与研究intern表单；2027-01为本人开组公告，主办/新设备准备未知；触觉界面备选，时长/经费/远程未知",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "mengyu-liu": {
+      "note": "Spring2027起intern；明确须人在美国，申请时/工作时及校园模式未明；无国籍推断，海外主办/硕士类别/资金须确认",
+      "sourceIds": [
+        "s3",
+        "s8"
+      ],
+      "category": "generic-intern-eligibility-unconfirmed"
     }
   }
 }

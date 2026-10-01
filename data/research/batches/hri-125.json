@@ -1,0 +1,146 @@
+[
+  {
+    "id": "fengpei-fiona-yuan",
+    "name": "Fengpei (Fiona) Yuan",
+    "aliases": [
+      "Fengpei Yuan",
+      "Fiona Yuan"
+    ],
+    "school": "Worcester Polytechnic Institute",
+    "homepage": "https://robocare.wpi.edu/",
+    "title": "Assistant Professor",
+    "department": "Robotics Engineering; affiliated Biomedical Engineering",
+    "batch": "hri-125",
+    "discoveredAt": "2026-10-01T16:49:36Z",
+    "verifiedAt": "2026-10-01T16:51:28Z",
+    "researchAreas": [
+      "Socially assistive robotics",
+      "Multimodal robot perception",
+      "LLM-mediated embodied interaction",
+      "Adaptive dementia-care robotics",
+      "Causal reinforcement learning"
+    ],
+    "fitReason": "Strong recent-AP technical HRI match, combining learned perception and language interaction with a currently directed physical robot system. Computational prototyping is relevant; any access to clinical studies requires separate approval.",
+    "physicalEvidence": {
+      "status": "verified-current-group-hardware",
+      "summary": "Current-group Pepper study integrates YOLOv11 object detection with physical head/arm pointing, GPT-4o/Whisper dialogue and classical ROS waypoint navigation. Full 2025 methods document a 12-person healthy-adult laboratory pilot with empty bottles; official 2026 conference abstract reports an expanded 24-person study. Gaze was logged rather than used for live adaptation. This is a research prototype, not validated dementia treatment.",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Published research survey is specifically for WPI students. A separate outside-WPI collaboration paragraph is not an explicit visitor/intern invitation. External-master appointment, duration, Summer 2027 capacity, remote participation and funding remain unknown.",
+      "sourceIds": [
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct multimodal AI/social-robot research with an independent current lab and relevant computational methods.",
+      "physical": "Full physical execution methods and current lead-student affiliation establish directed WPI hardware; healthy-adult pilot limitations remain explicit.",
+      "shortVisit": "No explicit outside-student visit route, only local intake and general collaboration.",
+      "freshness": "Current 2026 conference program and lab bibliography establish recent research beyond appointment publicity."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.wpi.edu / source 1",
+        "url": "https://www.wpi.edu/people/faculty/fyuan3",
+        "summary": "Official current Robotics Engineering Assistant Professor, Biomedical Engineering affiliation and RoboCare directorship; professional email verified.",
+        "verifiedAt": "2026-10-01T16:51:28Z"
+      },
+      {
+        "id": "s2",
+        "label": "www.wpi.edu / source 2",
+        "url": "https://www.wpi.edu/news/calendar/events/robotics-engineering-colloquium-series-dr-fengpei-fiona-yuan",
+        "summary": "Official September 11, 2024 seminar explicitly identifies her as a new WPI Assistant Professor after the 2024 PhD. Establishes 2024 arrival, not an exact start day.",
+        "verifiedAt": "2026-10-01T16:51:28Z"
+      },
+      {
+        "id": "s3",
+        "label": "robocare.wpi.edu / source 3",
+        "url": "https://robocare.wpi.edu/team.html",
+        "summary": "Current PI and PhD roster identifies Kruthika Gangaraju, linking the physical study to the current directed group rather than coauthor-only apparatus.",
+        "verifiedAt": "2026-10-01T16:51:16Z"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2510.06633v1",
+        "summary": "Full October 2025 preprint: Pepper plus Orin/RealSense, YOLOv11 detection feeding pointing, Whisper/GPT-4o interaction, classical ROS navigation. Twelve healthy adults locate and open an empty bottle; gaze-triggered adaptation and dementia trials remain future. Draft has template placeholders.",
+        "verifiedAt": "2026-10-01T16:50:38Z"
+      },
+      {
+        "id": "s5",
+        "label": "ras.papercept.net / source 5",
+        "url": "https://ras.papercept.net/conferences/conferences/ROMAN26/program/ROMAN26_ContentListWeb_3.html",
+        "summary": "Official August 2026 program lists the revised Assist-As-Needed paper with current WPI authors. Its abstract reports 24 healthy adults and counterbalanced lab evaluation; full final methods were not retrieved, so distinguish it from the 12-person 2025 preprint.",
+        "verifiedAt": "2026-10-01T16:51:16Z"
+      },
+      {
+        "id": "s6",
+        "label": "robocare.wpi.edu / source 6",
+        "url": "https://robocare.wpi.edu/join.html",
+        "summary": "Current joining page has prospective PhD instructions and a WPI-student-only survey. Its separate outside-WPI paragraph invites research/clinical/stakeholder collaboration but does not expressly offer a research visit or internship.",
+        "verifiedAt": "2026-10-01T16:51:16Z"
+      },
+      {
+        "id": "s7",
+        "label": "robocare.wpi.edu / source 7",
+        "url": "https://robocare.wpi.edu/publications.html",
+        "summary": "Current lab bibliography corroborates multiple 2026 studies, including physical medication guidance and separate simulated HRI/RL work. Do not combine their evidence.",
+        "verifiedAt": "2026-10-01T16:50:48Z"
+      },
+      {
+        "id": "s8",
+        "label": "www.wpi.edu / source 8",
+        "url": "https://www.wpi.edu/academics/graduate/graduate-student-experience/visiting-grads",
+        "summary": "Reused institutional audit: host arrangement and official Provost appointment letter required for visiting graduate students, scholars and researchers. Individual hosting availability is not established.",
+        "verifiedAt": "2026-09-30T23:35:03Z"
+      },
+      {
+        "id": "s9",
+        "label": "www.wpi.edu / source 9",
+        "url": "https://www.wpi.edu/offices/international-house/faculty/visa-classification",
+        "summary": "Reused audit distinguishes non-degree students from scholars; current office must decide the category. Scholar duration bounds do not automatically establish outside-master terms.",
+        "verifiedAt": "2026-09-30T23:35:03Z"
+      },
+      {
+        "id": "s10",
+        "label": "www.wpi.edu / source 10",
+        "url": "https://www.wpi.edu/offices/international-house/faculty/apply-for-visa",
+        "summary": "Reused audit allows personal financial documentation, but old linked forms cannot guarantee current eligibility or 2027 support requirements.",
+        "verifiedAt": "2026-09-30T23:35:03Z"
+      }
+    ],
+    "unknowns": [
+      "No outside-master visit invitation is verified. Generic collaboration language is not scored as a short research placement.",
+      "The 2025 full preprint and revised 2026 abstract describe different sample sizes; do not attribute final-paper methods beyond the accessible evidence.",
+      "Clinical efficacy and live gaze-triggered adaptation are unverified; separate simulated RL studies must not be described as deployed robot policies.",
+      "WPI host and Provost appointment, international-office category review, and any data/clinical permissions must be resolved. Historical institutional forms do not establish current 2027 funding thresholds or category eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor review](../eligibility_notes.md#wpi); original policy-observation times are retained.",
+      "Timestamp scope: Earliest precisely retained individual-name observation. The conference program was read earlier, but no earlier individual timestamp was retained."
+    ],
+    "discoveryTimestampNote": "Earliest precisely retained individual-name observation. The conference program was read earlier, but no earlier individual timestamp was retained.",
+    "publicEmail": "fyuan3@wpi.edu",
+    "appointmentStart": {
+      "year": 2024,
+      "precision": "year",
+      "status": "current",
+      "sourceIds": [
+        "s2"
+      ],
+      "evidence": "Official September 2024 seminar calls Yuan a new Assistant Professor; exact effective month/day is not asserted.",
+      "appointmentType": "unresolved"
+    }
+  }
+]

@@ -3672,6 +3672,147 @@
           "evidence": "The complete first-person post embeds a programme for doctoral researchers based at Greek universities/research centers, with visits up to six months and an explicit June15,2026 deadline. It is a dated, closed2026 programme-specific hosting offer, not a current2027 outside-master invitation."
         }
       ]
+    },
+    "wenzhong-yan": {
+      "appointmentStart": {
+        "year": 2026,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "s1"
+        ],
+        "evidence": "Official March 2, 2026 new-faculty feature describes joining UC Davis after a Yale postdoc. The personal page specifies March 2026; exact month is retained as first-person provenance rather than independently official appointment precision.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2026（官方年份；3月为本人说明）",
+      "caveat": "当前UC Davis AP；Yale PPO软体机器人为合作实验协助，当前Davis设备未核；一般visitor/intern入口，外部资金不等同个人自费",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://engineering.ucdavis.edu/news/fold-new-assistant-professor-creates-soft-robots-inspired-origami-and-biology",
+          "observedAt": "2026-10-01T15:19:40Z",
+          "evidence": "Official March 2, 2026 new-faculty feature verifies current Assistant Professor, new UC Davis affiliation and prior Yale postdoc. It distinguishes planned applications from completed hardware."
+        }
+      ]
+    },
+    "yudai-tanaka": {
+      "appointmentStart": {
+        "year": 2027,
+        "month": 1,
+        "precision": "month",
+        "status": "incoming",
+        "sourceIds": [
+          "s3",
+          "s4"
+        ],
+        "evidence": "The university-hosted PI lab and personal homepage explicitly announce January 2027. The official directory and September 2026 cohort already label him AP without an effective date. Preserve the incoming lab-opening timing as first-person provenance; do not promote it as an independently official dated 2026 appointment.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2027-01（本人/实验室公告；官方未给生效日期）",
+      "caveat": "即将开放实验室，主办准备未知；表单有外校MS例子与intern类别；触觉/实体界面备选，设备证据来自前机构",
+      "sources": [
+        {
+          "id": "s3",
+          "url": "https://symbiotic-interfaces.cs.utexas.edu/",
+          "observedAt": "2026-10-01T15:49:03Z",
+          "evidence": "University-hosted PI lab page says the lab will open January 2027, includes current haptics/ML agenda, and directly links the research-interest form."
+        },
+        {
+          "id": "s4",
+          "url": "https://yudai-tanaka.com/",
+          "observedAt": "2026-10-01T15:49:03Z",
+          "evidence": "PI explicitly says incoming UT Austin CS Assistant Professor in January 2027; professional email and primary papers. Current university listing and future lab opening are both retained."
+        }
+      ]
+    },
+    "fengpei-fiona-yuan": {
+      "appointmentStart": {
+        "year": 2024,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "s2"
+        ],
+        "evidence": "Official September 2024 seminar calls Yuan a new Assistant Professor; exact effective month/day is not asserted.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2024（官方新教师报道）",
+      "caveat": "当前WPI Pepper学习感知与语言交互；2025全文12人、2026摘要24人分开；学生调查仅WPI，外部合作不等于访学",
+      "sources": [
+        {
+          "id": "s2",
+          "url": "https://www.wpi.edu/news/calendar/events/robotics-engineering-colloquium-series-dr-fengpei-fiona-yuan",
+          "observedAt": "2026-10-01T16:51:28Z",
+          "evidence": "Official September 11, 2024 seminar explicitly identifies her as a new WPI Assistant Professor after the 2024 PhD. Establishes 2024 arrival, not an exact start day."
+        }
+      ]
+    },
+    "mengyu-liu": {
+      "appointmentStart": {
+        "year": 2025,
+        "month": 8,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "s2",
+          "s3",
+          "s4"
+        ],
+        "evidence": "Official 2025–2026 new-faculty cohort after Notre Dame graduate research; PI news explicitly says August 2025 and CV says Fall 2025. Exact month is first-person refinement.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2025-08（官方2025群体；月份为本人）",
+      "caveat": "Spring2027起一般intern询问，明确须人在美国；申请时还是工作时不明、海外主办未核；真机为Notre Dame合作案例",
+      "sources": [
+        {
+          "id": "s2",
+          "url": "https://vcea.wsu.edu/2025/08/01/voiland-college-welcomes-new-faculty-for-2025-26/",
+          "observedAt": "2026-10-01T16:19:47Z",
+          "evidence": "Official August 1, 2025 new-faculty cohort identifies Mengyu Liu at Tri-Cities following Notre Dame graduate research."
+        },
+        {
+          "id": "s3",
+          "url": "https://mengyuliu0520.github.io/",
+          "observedAt": "2026-10-01T16:20:07Z",
+          "evidence": "Current research-intern invitation from Spring 2027 expressly requires interns physically in the USA; August 2025 start news, June 2026 VLA-rescue-robot award and September 2026 activity."
+        },
+        {
+          "id": "s4",
+          "url": "https://mengyuliu0520.github.io/cv/",
+          "observedAt": "2026-10-01T16:20:22Z",
+          "evidence": "First faculty appointment Fall 2025 after Notre Dame PhD 2025; former research/teaching assistant positions."
+        }
+      ]
+    },
+    "fanxin-kong": {
+      "appointmentStart": {
+        "year": 2023,
+        "precision": "year",
+        "season": "Fall",
+        "status": "current",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "evidence": "Official September 2023 welcome states Fall 2023 Notre Dame arrival after Syracuse Assistant Professor. Exact prior faculty start year not independently resolved here.",
+        "appointmentType": "institution-move"
+      },
+      "display": "Fall 2023（官方；此前Syracuse AP）",
+      "caveat": "转校后的现任AP；当前指导的myCobot案例有真机证据，重复试验量未知；访客机会未核",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://cse.nd.edu/faculty/fanxin-kong/",
+          "observedAt": "2026-10-01T16:21:48Z",
+          "evidence": "Official current Assistant Professor and public email."
+        },
+        {
+          "id": "s2",
+          "url": "https://cse.nd.edu/news/welcome-five-new-faculty-join-notre-dame-engineering-in-fall-2023/",
+          "observedAt": "2026-10-01T16:21:48Z",
+          "evidence": "Official Fall 2023 arrival after Assistant Professor at Syracuse; institution move, not first faculty appointment."
+        }
+      ]
     }
   },
   "constraints": [
@@ -4521,6 +4662,36 @@
           "evidence": "Current official directory confirms Assistant Professor in the School of Information Sciences and an additional Assistant Professor appointment in Coordinated Science Laboratory; public lyy@illinois.edu, homepage and CVML lab linked. Original full role observation preserved from embodied-screening-0527.md; bounded later reconfirmation recorded separately.",
           "observedAt": "2026-10-01T15:21:55Z",
           "laterRoleOnlyObservation": "2026-10-01T16:50:34Z"
+        }
+      ]
+    },
+    {
+      "key": "fengpei-yuan-local-survey",
+      "candidateId": "fengpei-fiona-yuan",
+      "name": "Fengpei (Fiona) Yuan",
+      "kind": "capacity-or-role",
+      "scope": "WPI student survey and separate outside collaboration inquiry",
+      "summary": "学生研究调查仅WPI；外部研究/医疗利益相关方可问合作，但不构成访学邀请或所有访客禁令",
+      "observedAt": "2026-10-01T16:51:16Z",
+      "sources": [
+        {
+          "url": "https://robocare.wpi.edu/join.html",
+          "evidence": "Current joining page has prospective PhD instructions and a WPI-student-only survey. Its separate outside-WPI paragraph invites research/clinical/stakeholder collaboration but does not expressly offer a research visit or internship."
+        }
+      ]
+    },
+    {
+      "key": "mengyu-liu-us-presence",
+      "candidateId": "mengyu-liu",
+      "name": "Mengyu Liu",
+      "kind": "capacity-or-role",
+      "scope": "Research interns in the current Spring 2027 onward call",
+      "summary": "必须实际位于美国；申请阶段还是实习阶段未说明，海外主办与校园模式未知；不转化为国籍限制",
+      "observedAt": "2026-10-01T16:20:07Z",
+      "sources": [
+        {
+          "url": "https://mengyuliu0520.github.io/",
+          "evidence": "Current research-intern invitation from Spring 2027 expressly requires interns physically in the USA; August 2025 start news, June 2026 VLA-rescue-robot award and September 2026 activity."
         }
       ]
     }

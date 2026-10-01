@@ -121,6 +121,7 @@
     "batches/control-119.json",
     "batches/control-120.json",
     "batches/control-121.json",
+    "batches/control-128.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -328,7 +329,10 @@
     "batches/hri-113.json",
     "batches/hri-114.json",
     "batches/hri-115.json",
-    "batches/hri-116.json"
+    "batches/hri-116.json",
+    "batches/hri-118.json",
+    "batches/hri-121.json",
+    "batches/hri-125.json"
   ],
   "candidates": [
     {
@@ -6259,6 +6263,66 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-121.json",
       "detailPage": "batches/control-121.md#oguzhan-oruc"
+    },
+    {
+      "id": "mengyu-liu",
+      "name": "Mengyu Liu",
+      "aliases": [
+        "刘梦雨"
+      ],
+      "school": "Washington State University Tri-Cities",
+      "title": "Assistant Professor",
+      "homepage": "https://mengyuliu0520.github.io/",
+      "batch": "control-128",
+      "discoveredAt": "2026-10-01T16:19:47Z",
+      "verifiedAt": "2026-10-01T16:24:09Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Safe reinforcement learning",
+        "Neuro-symbolic robot task planning",
+        "LLM safety and formal methods",
+        "Resilient autonomous systems"
+      ],
+      "discoveryTimestampNote": "First precisely retained full-name primary faculty/homepage observation; an earlier given-name lead was not assigned a full-name timestamp.",
+      "physicalEvidenceStatus": "collaborative-hardware",
+      "physicalEvidenceLabel": "受限真机证据：collaborative-hardware",
+      "shortVisitStatus": "conditional-inquiry · 须人在美国；适用时点与海外主办未定",
+      "recordFile": "batches/control-128.json",
+      "detailPage": "batches/control-128.md#mengyu-liu"
+    },
+    {
+      "id": "fanxin-kong",
+      "name": "Fanxin Kong",
+      "aliases": [],
+      "school": "University of Notre Dame",
+      "title": "Assistant Professor",
+      "homepage": "https://sites.google.com/site/fanxink/",
+      "batch": "control-128",
+      "discoveredAt": "2026-10-01T16:19:47Z",
+      "verifiedAt": "2026-10-01T16:24:09Z",
+      "scores": {
+        "fit": 38,
+        "physical": 22,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Safe learning-enabled robotics",
+        "Neuro-symbolic task planning",
+        "Runtime assurance",
+        "Resilient cyber-physical systems"
+      ],
+      "discoveryTimestampNote": "First precisely retained individual full-name primary mention; an earlier topic-page lead did not retain a person-specific time.",
+      "physicalEvidenceStatus": "current-group-limited-demonstration",
+      "physicalEvidenceLabel": "受限真机证据：current-group-limited-demonstration",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-128.json",
+      "detailPage": "batches/control-128.md#fanxin-kong"
     },
     {
       "id": "tom-silver",
@@ -16668,6 +16732,102 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-116.json",
       "detailPage": "batches/hri-116.md#rachael-bevill-burns"
+    },
+    {
+      "id": "wenzhong-yan",
+      "name": "Wenzhong Yan",
+      "aliases": [],
+      "school": "University of California, Davis",
+      "title": "Assistant Professor",
+      "homepage": "https://wzyan24.wixsite.com/wenzhong-yan",
+      "batch": "hri-118",
+      "discoveredAt": "2026-10-01T12:20:19Z",
+      "verifiedAt": "2026-10-01T15:20:06Z",
+      "scores": {
+        "fit": 35,
+        "physical": 20,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Soft robot learning",
+        "Sim-to-real reinforcement learning",
+        "Morphology-aware locomotion",
+        "Bio-inspired robotics",
+        "Mechanical intelligence"
+      ],
+      "discoveryTimestampNote": "Earliest precisely retained primary encounter; the later complete technical review did not create a new discovery time.",
+      "physicalEvidenceStatus": "historical-or-indirect",
+      "physicalEvidenceLabel": "受限真机证据：historical-or-indirect",
+      "shortVisitStatus": "inquiry-only · visitor/intern；外部资金不等于个人自费",
+      "recordFile": "batches/hri-118.json",
+      "detailPage": "batches/hri-118.md#wenzhong-yan"
+    },
+    {
+      "id": "yudai-tanaka",
+      "name": "Yudai Tanaka",
+      "aliases": [],
+      "school": "University of Texas at Austin",
+      "title": "Assistant Professor of Computer Science listed in official directory; lab opening January 2027 is PI-announced",
+      "homepage": "https://symbiotic-interfaces.cs.utexas.edu/",
+      "batch": "hri-121",
+      "discoveredAt": "2026-10-01T15:48:30Z",
+      "verifiedAt": "2026-10-01T15:51:02Z",
+      "scores": {
+        "fit": 32,
+        "physical": 20,
+        "shortVisit": 10,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Haptic and embodied interfaces",
+        "Vision-assisted physical feedback",
+        "Wearable computing",
+        "Assistive interaction",
+        "Machine learning for tangible displays"
+      ],
+      "discoveryTimestampNote": "First precisely retained dedicated primary laboratory encounter; no earlier individual timestamp was reconstructed.",
+      "candidateTier": "触觉/实体界面备选；2027-01拟开组、准备未核",
+      "appointmentTimingStatus": "incoming January 2027, PI-announced; official effective date unconfirmed",
+      "appointmentTimingLabel": "2027-01拟开组（本人公告）；官方生效日期/主办准备未核",
+      "physicalEvidenceStatus": "historical-or-indirect",
+      "physicalEvidenceLabel": "受限真机证据：historical-or-indirect",
+      "shortVisitStatus": "inquiry-only · 外校MS表单例子；2027-01拟开组",
+      "recordFile": "batches/hri-121.json",
+      "detailPage": "batches/hri-121.md#yudai-tanaka"
+    },
+    {
+      "id": "fengpei-fiona-yuan",
+      "name": "Fengpei (Fiona) Yuan",
+      "aliases": [
+        "Fengpei Yuan",
+        "Fiona Yuan"
+      ],
+      "school": "Worcester Polytechnic Institute",
+      "title": "Assistant Professor",
+      "homepage": "https://robocare.wpi.edu/",
+      "batch": "hri-125",
+      "discoveredAt": "2026-10-01T16:49:36Z",
+      "verifiedAt": "2026-10-01T16:51:28Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Socially assistive robotics",
+        "Multimodal robot perception",
+        "LLM-mediated embodied interaction",
+        "Adaptive dementia-care robotics",
+        "Causal reinforcement learning"
+      ],
+      "discoveryTimestampNote": "Earliest precisely retained individual-name observation. The conference program was read earlier, but no earlier individual timestamp was retained.",
+      "physicalEvidenceStatus": "verified-current-group-hardware",
+      "physicalEvidenceLabel": "受限真机证据：verified-current-group-hardware",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-125.json",
+      "detailPage": "batches/hri-125.md#fengpei-fiona-yuan"
     }
   ]
 }

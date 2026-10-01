@@ -2,11 +2,11 @@
 
 [新AP优先视图](ap_priority.md) · [全部候选偏好排序](ranked_candidates.md) · [原名单AP后续核查](baseline_ap.md) · [原始索引](mentor_candidates.json) · [机构规则](eligibility_notes.md) · [原200位后续补充](baseline_addenda.md)
 
-从现有记录筛出 **118 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。
+从现有记录筛出 **121 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。
 
 本页各类入口内按已核实任职与限制分层：新AP优先，明确长时段偏好/最低期限靠后；同层按研究匹配、真机、短访、新鲜度及发现时间。约八周不是硬筛选；不把一般询问、学校制度或个人自费能力当成已获资格。所有人的主办类别、具体时长、2027容量、经费和设备访问都需确认。具体奖学金要求、无资助、时间不匹配、任职时点及证据限制优先看下列加粗提示，再读完整资料。
 
-## 访问/短期研究问询线索（现场安排仍须确认） · 108 条
+## 访问/短期研究问询线索（现场安排仍须确认） · 109 条
 
 | 导师 / 机构 | 匹配 / 真机 / 短访 | 已知限制与证据状态 | 直接来源 / 机构规则 | 记录核查 UTC |
 |---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Ferdous Alam](batches/embodied-092.md#ferdous-alam) · Georgia Institute of Technology | 32/20/8 | **2026-01到岗；当前无已说明的访客资助，自带fellowship受欢迎，其他安排可讨论；页面显示空白但公开内容已核；旧制造试验非当前GT机器人** | [s1](https://robotics.gatech.edu/node/119) [s4](https://inferencelab.io/blog-docs/news/news_2) [s5](https://inferencelab.io/_next/static/chunks/app/blog-docs/news/news_2/page-5f65a6e74f0bc2df.js) [s6](https://par.nsf.gov/servlets/purl/10578459) [规则](eligibility_notes.md#georgia-tech-student-intern) | 2026-10-01T12:48:19Z |
 | [Xiwei Xuan](batches/embodied-102.md#xiwei-xuan) · Virginia Commonwealth University | 32/0/10 | **2026新AP；完整外校在读MS表单有2–3个月和现场/远程选择，非接收/资金承诺；数据感知备选、无机器人执行；学校旧2024金额须重核；真机待核实** | [s1](https://egr.vcu.edu/directory/xiwei.xuan/) [s3](https://xiweix.github.io/) [s4](https://arxiv.org/html/2506.21233v2) [s5](https://docs.google.com/forms/d/e/1FAIpQLSfZfJ2nhf3vK-G1aEIA2VY7SsVPv1l29onUvBzf6ZrsZbd8mQ/viewform) [s7](https://global.vcu.edu/students/immigration/exchange-visitor/) [s8](https://global.vcu.edu/outreach/partnerships/hosting-visiting-scholars/) [规则](eligibility_notes.md#virginia-commonwealth) | 2026-10-01T14:29:27Z |
 | [Thomas A. Berrueta](batches/control-009.md#thomas-a-berrueta) · Stanford University (announced appointment starts November 1, 2026) | 40/20/8 | **官方2026-11-01拟入职；新组容量与访问条件未确认** | [s3](https://pal.stanford.edu/join.html) | 2026-09-30T22:35:56Z |
+| [Yudai Tanaka](batches/hri-121.md#yudai-tanaka) · University of Texas at Austin | 32/20/10 | **外校MS例子与研究intern表单；2027-01为本人开组公告，主办/新设备准备未知；触觉界面备选，时长/经费/远程未知；受限真机证据：historical-or-indirect** | [s3](https://symbiotic-interfaces.cs.utexas.edu/) [s4](https://yudai-tanaka.com/) [s5](https://docs.google.com/forms/d/e/1FAIpQLSenARMCZlo065SOrhnGgN7y0j9ANL4lcSWwUOllH7TJNWIeOA/viewform?usp=send_form) [规则](eligibility_notes.md#ut-austin) | 2026-10-01T15:51:02Z |
 | [Carmen Amo Alonso](batches/control-081.md#carmen-amo-alonso) · University of California, Berkeley | 39/20/8 | **2027待入职、月份未知；夏季主办权限未确认；受限真机证据：Verified real learned robot at prior host; Berkeley hardware access unverified** | [s3](https://controllableai.org/join.html) [规则](eligibility_notes.md#berkeley-vsr) | 2026-10-01T07:07:38Z |
 | [Wanxin Jin](batches/control-005.md#wanxin-jin) · Arizona State University | 40/25/10 | **独立intern表单首屏含外校/MS及现场/远程；需文件才能进入后页，后续条件未读；Summer2026/10小时只是示例，不作2027承诺** | [s7](https://irislab.tech/joining/) [s8](https://docs.google.com/forms/d/e/1FAIpQLSc3AxUzqR31BMwMrDc0mQJFKxMrVdVGwSOldSx2n-i844muGA/viewform) | 2026-10-01T14:43:43Z |
 | [Yue Wang](batches/embodied-001.md#yue-wang) · University of Southern California | 40/25/8 | **公开问询入口；详细资格与期限未定** | [s2](https://yuewang.xyz/) | 2026-09-30T21:28:42Z |
@@ -119,10 +120,12 @@
 | [Kyle T. Yoshida](batches/hri-100.md#kyle-t-yoshida) · University of California, Los Angeles | 34/0/10 | **官方2025-07-01到岗；全球硕士询问，2027-05-01优先截止；表单强烈偏好超过1个quarter（非硬最低期限，不换算精确月数）；硕士资助/远程未知，软驱动器仅建模；真机待核实** | [s1](https://www.samueli.ucla.edu/new-faculty-2023-2026/) [s2](https://samueli.ucla.edu/people/kyle-yoshida/) [s3](https://www.mohalalab.org/opportunities) [s4](https://onlinelibrary.wiley.com/doi/10.1155/joro/8827476) [s9](https://docs.google.com/forms/d/e/1FAIpQLSeCeV21VKoS_qMpmSczt8RAub7gcQS8soGOwdFTVXQJx116Rg/viewform?usp=send_form) [规则](eligibility_notes.md#ucla-vgr) | 2026-10-01T13:23:59Z |
 | [Xiaofan Yu](batches/control-106.md#xiaofan-yu) · University of California, Merced | 32/0/8 | **外校硕士访客入口明确；最低3–6个月并提前3–6个月申请；方法/仿真备选，真机未核；仅仿真；真机待核实** | [s4](https://yuccalab.ucmerced.edu/join.html) [s5](https://arxiv.org/html/2509.21523v1) [s6](https://arxiv.org/html/2604.12331v1) [规则](eligibility_notes.md#uc-merced) | 2026-10-01T12:07:29Z |
 
-## 一般 intern 入口（外校硕士适用性未明确） · 9 条
+## 一般 intern 入口（外校硕士适用性未明确） · 11 条
 
 | 导师 / 机构 | 匹配 / 真机 / 短访 | 已知限制与证据状态 | 直接来源 / 机构规则 | 记录核查 UTC |
 |---|---|---|---|---|
+| [Mengyu Liu](batches/control-128.md#mengyu-liu) · Washington State University Tri-Cities | 38/20/8 | **Spring2027起intern；明确须人在美国，申请时/工作时及校园模式未明；无国籍推断，海外主办/硕士类别/资金须确认；受限真机证据：collaborative-hardware** | [s3](https://mengyuliu0520.github.io/) [s8](https://ip.wsu.edu/isss/faculty-scholar-services/faculty-resources/host-hire-internationals/) [规则](eligibility_notes.md#washington-state-tri-cities) | 2026-10-01T16:24:09Z |
+| [Wenzhong Yan](batches/hri-118.md#wenzhong-yan) · University of California, Davis | 35/20/8 | **一般visitor/intern及外部资金问询；硕士/时长/2027容量未知，个人自费适用性须另核；先前Yale软体PPO设备；受限真机证据：historical-or-indirect** | [s2](https://wzyan24.wixsite.com/wenzhong-yan) [s3](https://arxiv.org/html/2512.07114v1) [规则](eligibility_notes.md#uc-davis) | 2026-10-01T15:20:06Z |
 | [Zhu Wang](batches/hri-105.md#zhu-wang) · University of New Mexico | 32/0/8 | **2025 AP；独立年度intern邀请，但外校硕士身份/时长/资金未定，8分；XR生成地形备选，真机0；真机待核实** | [s1](https://advance.unm.edu/dr-zhu-wang-computer-science/) [s3](https://cs.unm.edu/~zhuwang/) [s4](https://mirai.cs.unm.edu/) [s5](https://cs.unm.edu/~zhuwang/assets/pdf/VR_Terrain_Generation_VRST_2024.pdf) [规则](eligibility_notes.md#new-mexico) | 2026-10-01T13:24:28Z |
 | [Yaqi Xie](batches/embodied-063.md#yaqi-xie) · University of Illinois Urbana-Champaign (incoming lab; current adjunct listing) | 39/20/7 | **官方adjunct与本人incoming表述并存；准确开始时间未知** | [s2](https://yaqi-xie.me/) [规则](eligibility_notes.md#illinois-urbana-champaign) | 2026-10-01T05:35:01Z |
 | [Xuan Wang](batches/control-095.md#xuan-wang) · George Mason University | 39/25/8 | **一般intern邀请；GMU不赞助intern身份、不可纯个人资助；硕士其他类别待核；受限真机证据：Current directed-group collaborative physical RL; manual data collection and autonomous policy trials distinguished** | [s2](https://mason.gmu.edu/~xwang64/index.html) [规则](eligibility_notes.md#george-mason) | 2026-10-01T10:44:03Z |

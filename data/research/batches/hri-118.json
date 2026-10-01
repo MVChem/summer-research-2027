@@ -1,0 +1,136 @@
+[
+  {
+    "id": "wenzhong-yan",
+    "name": "Wenzhong Yan",
+    "aliases": [],
+    "school": "University of California, Davis",
+    "homepage": "https://wzyan24.wixsite.com/wenzhong-yan",
+    "title": "Assistant Professor",
+    "department": "Mechanical and Aerospace Engineering",
+    "batch": "hri-118",
+    "discoveredAt": "2026-10-01T12:20:19Z",
+    "verifiedAt": "2026-10-01T15:20:06Z",
+    "researchAreas": [
+      "Soft robot learning",
+      "Sim-to-real reinforcement learning",
+      "Morphology-aware locomotion",
+      "Bio-inspired robotics",
+      "Mechanical intelligence"
+    ],
+    "fitReason": "A recent Assistant Professor with a live visitor/intern inquiry route and attributable experimental experience in learned soft-robot locomotion. His broader mechanical/materials agenda calls for an explicitly computational project rather than assuming all lab work uses AI.",
+    "physicalEvidence": {
+      "status": "historical-or-indirect",
+      "summary": "The full December 2025 LUART study trains PPO teacher/student policies in Genesis and deploys the student network on an onboard Jetson Orin Nano, feeding motor targets to PD control. Real terrain tests include Yale campus and New Haven field sites. High-level direction, speed and height are teleoperated; this is learned low-level locomotion, not autonomous route planning. Soft terrains expose substantial transfer error and gait failures. The contribution statement credits Yan with experimental execution assistance. This is prior Yale collaborative apparatus, with current UC Davis access unverified; physical score is capped at 20.",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only · visitor/intern；外部资金不等于个人自费",
+      "summary": "The live Y Lab page separately welcomes visiting scholars and research interns and invites inquiries about externally funded research positions. It does not specify outside-master eligibility, Summer 2027 dates, duration, pay or remote participation. External funding is not automatically personal self-funding.",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "scores": {
+      "fit": 35,
+      "physical": 20,
+      "shortVisit": 8,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantive learned soft locomotion experience and a current computational-intelligence agenda; much of the lab remains mechanical design.",
+      "physical": "Explicit real execution and experimental-assistance attribution, capped for prior Yale collaborative hardware.",
+      "shortVisit": "Current generic visitor and research-intern inquiry; exact outside-master duration and support unresolved.",
+      "freshness": "Dated March 2026 corresponding-author robotic experiment and active 2026 group; strongest learned hardware anchor is December 2025."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.ucdavis.edu / source 1",
+        "url": "https://engineering.ucdavis.edu/news/fold-new-assistant-professor-creates-soft-robots-inspired-origami-and-biology",
+        "summary": "Official March 2, 2026 new-faculty feature verifies current Assistant Professor, new UC Davis affiliation and prior Yale postdoc. It distinguishes planned applications from completed hardware.",
+        "verifiedAt": "2026-10-01T15:19:40Z"
+      },
+      {
+        "id": "s2",
+        "label": "wzyan24.wixsite.com / source 2",
+        "url": "https://wzyan24.wixsite.com/wenzhong-yan",
+        "summary": "Full current PI page confirms professional email, March 2026 first-person start, active students and a separate visiting-scholar/research-intern invitation plus external-funding inquiry.",
+        "verifiedAt": "2026-10-01T15:19:53Z"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2512.07114v1",
+        "summary": "Full learned locomotion methods and results, hardware execution, human command limits, Yale field location, and explicit experimental-assistance contribution for Yan.",
+        "verifiedAt": "2026-10-01T15:19:53Z"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/pdf/2603.23666",
+        "summary": "Full March 2026 paper with Yan as UC Davis corresponding author and startup-fund acknowledgment. Real oscillator-driven crawler establishes dated robotics activity, not learned control.",
+        "verifiedAt": "2026-10-01T15:20:06Z"
+      },
+      {
+        "id": "s5",
+        "label": "academicaffairs.ucdavis.edu / source 5",
+        "url": "https://academicaffairs.ucdavis.edu/ucpath-guidance",
+        "summary": "Reused prior institutional check: Visiting Graduate WOS and Visiting Undergraduate WOS are distinct administrative titles; not automatic admission.",
+        "verifiedAt": "2026-10-01T04:32:37Z"
+      },
+      {
+        "id": "s6",
+        "label": "siss.ucdavis.edu / source 6",
+        "url": "https://siss.ucdavis.edu/j-1-categories-bars",
+        "summary": "Reused prior check: duration-compatible scholar categories require appropriate academic preparation and approval; undergraduate nondegree funding rule cannot be generalized to masters.",
+        "verifiedAt": "2026-10-01T04:32:37Z"
+      },
+      {
+        "id": "s7",
+        "label": "siss.ucdavis.edu / source 7",
+        "url": "https://siss.ucdavis.edu/j-1-visa",
+        "summary": "Reused support floor, insurance and in-person program requirements; not a remote collaboration approval.",
+        "verifiedAt": "2026-10-01T04:32:37Z"
+      },
+      {
+        "id": "s8",
+        "label": "siss.ucdavis.edu / source 8",
+        "url": "https://siss.ucdavis.edu/department-overview",
+        "summary": "Reused $727 J-1 rate and payer nuance, to resolve with the separate invitation page.",
+        "verifiedAt": "2026-10-01T04:32:37Z"
+      },
+      {
+        "id": "s9",
+        "label": "siss.ucdavis.edu / source 9",
+        "url": "https://siss.ucdavis.edu/inviting-j-1-scholar",
+        "summary": "Reused host invitation, document lead time and department-recharge wording; approval and final payer remain institution decisions.",
+        "verifiedAt": "2026-10-01T04:32:37Z"
+      }
+    ],
+    "unknowns": [
+      "Official evidence supports a 2026 current-institution AP start; the exact March date is first-person. A July 2025 UC Davis visiting-scholar appointment was a different role.",
+      "The learned turtle project is explicitly Yale work. Yan assisted experiments; he is not credited as its lead policy designer or independent PI.",
+      "The separate March 2026 quadrature-crawling study is genuine current robotics research with UC Davis affiliation and startup acknowledgment, but uses mechanical oscillation rather than machine learning.",
+      "No minimum duration or no-summer prohibition is stated on the inspected lab page. Unknown outside-master eligibility must not be rewritten as a closure.",
+      "Reused UC Davis policy distinguishes a Visiting Graduate WOS title from immigration category. Host and SISS must approve the appropriate category and project.",
+      "Reused central guidance lists a $2,400 monthly scholar support floor and insurance, with conflicting fee-payer wording for the $727 J-1 charge. Exact 2027 amounts, personal funding acceptance, processing and total budget remain unresolved.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor review](../eligibility_notes.md#uc-davis); original policy-observation times are retained.",
+      "Timestamp scope: Earliest precisely retained primary encounter; the later complete technical review did not create a new discovery time."
+    ],
+    "discoveryTimestampNote": "Earliest precisely retained primary encounter; the later complete technical review did not create a new discovery time.",
+    "publicEmail": "wyan@ucdavis.edu",
+    "appointmentStart": {
+      "year": 2026,
+      "precision": "year",
+      "status": "current",
+      "sourceIds": [
+        "s1"
+      ],
+      "evidence": "Official March 2, 2026 new-faculty feature describes joining UC Davis after a Yale postdoc. The personal page specifies March 2026; exact month is retained as first-person provenance rather than independently official appointment precision.",
+      "appointmentType": "unresolved"
+    }
+  }
+]

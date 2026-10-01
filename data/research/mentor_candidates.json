@@ -191,6 +191,7 @@
     "batches/embodied-084.json",
     "batches/embodied-085.json",
     "batches/embodied-090.json",
+    "batches/embodied-091.json",
     "batches/embodied-093.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
@@ -10080,6 +10081,63 @@
       "shortVisitStatus": "inquiry-only",
       "recordFile": "batches/embodied-090.json",
       "detailPage": "batches/embodied-090.md#andrew-spielberg"
+    },
+    {
+      "id": "kitae-kim",
+      "name": "Kitae Kim",
+      "aliases": [],
+      "school": "North Carolina State University",
+      "title": "Assistant Professor",
+      "homepage": "https://kimkt0408.github.io/farm-lab/",
+      "batch": "embodied-091",
+      "discoveredAt": "2026-10-01T02:55:51Z",
+      "verifiedAt": "2026-10-01T12:11:28Z",
+      "scores": {
+        "fit": 35,
+        "physical": 20,
+        "shortVisit": 8,
+        "freshness": 13
+      },
+      "researchAreas": [
+        "Learning-guided agricultural manipulation",
+        "Field robot perception and autonomy",
+        "Robot physical sampling",
+        "Multi-robot agricultural systems"
+      ],
+      "discoveryTimestampNote": "Uses the precisely retained earlier source-observation time, preserved during subsequent verification.",
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/embodied-091.json",
+      "detailPage": "batches/embodied-091.md#kitae-kim"
+    },
+    {
+      "id": "zishen-wan",
+      "name": "Zishen Wan",
+      "aliases": [],
+      "school": "Columbia University",
+      "title": "Assistant Professor",
+      "homepage": "https://zishenwan.github.io/",
+      "batch": "embodied-091",
+      "discoveredAt": "2026-10-01T01:01:01Z",
+      "verifiedAt": "2026-10-01T12:11:28Z",
+      "scores": {
+        "fit": 34,
+        "physical": 0,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Efficient embodied and physical AI systems",
+        "VLA and robot-policy resilience",
+        "Hardware/software co-design for autonomous systems",
+        "3D SLAM and robot computing architectures"
+      ],
+      "discoveryTimestampNote": "Uses the precisely retained earlier source-observation time, preserved during subsequent verification.",
+      "candidateTier": "AI相关 · 真机待核实；方法研究备选",
+      "physicalEvidenceStatus": "simulation-only",
+      "physicalEvidenceLabel": "仅仿真；真机待核实",
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/embodied-091.json",
+      "detailPage": "batches/embodied-091.md#zishen-wan"
     },
     {
       "id": "jiatao-gu",

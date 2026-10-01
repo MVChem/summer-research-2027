@@ -1,0 +1,237 @@
+[
+  {
+    "id": "kitae-kim",
+    "name": "Kitae Kim",
+    "aliases": [],
+    "school": "North Carolina State University",
+    "homepage": "https://kimkt0408.github.io/farm-lab/",
+    "title": "Assistant Professor",
+    "department": "Biological and Agricultural Engineering; Field Automation, Robotics, & Machinery (FARM) Lab",
+    "batch": "embodied-091",
+    "discoveredAt": "2026-10-01T02:55:51Z",
+    "verifiedAt": "2026-10-01T12:11:28Z",
+    "researchAreas": [
+      "Learning-guided agricultural manipulation",
+      "Field robot perception and autonomy",
+      "Robot physical sampling",
+      "Multi-robot agricultural systems"
+    ],
+    "fitReason": "Verified2026 new AP with direct agricultural robot-learning experience and a live visitor inquiry. Neural crop detection/segmentation and pose estimation guide physical leaf sampling; current NC State hardware is not yet verified.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Prior-host/shared physical20. Kim coauthored2023 P-AgBot learned leaf detection, verified by current author publication list and the full IoT4Ag primary abstract, which specifies Mask R-CNN/YOLOv5, RGB-D, arm-based sampling and indoor/outdoor corn/sorghum tests. His former PI’s full July 2026 Purdue account describes neural P-AgSAMPLE perception followed by actual robot actions on Jackal/Kinova Gen3 Lite with a custom cutter. This supports concrete prior Purdue apparatus; it is not proof of a new NC State robot or Kim’s participation in every2026 test. Full2023 technical paper was not retrieved.",
+      "sourceIds": [
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "Current FARM Join page explicitly welcomes visiting scholars and researchers through a separate inquiry section. Its one-year commitment appears only under NC State undergraduate/master students; it is not imposed on the external visiting section. Generic visitor8, with outside-master classification, duration, funding and2027 capacity unknown.",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 35,
+      "physical": 20,
+      "shortVisit": 8,
+      "freshness": 13
+    },
+    "scoreReasons": {
+      "fit": "Direct learned agricultural perception and intervention, less foundation-model-oriented than core pool.",
+      "physical": "Concrete prior Purdue learned physical workflow, no current NC State apparatus verified; full technical paper unavailable.",
+      "shortVisit": "Live separate generic visiting inquiry; external-master exact duration/approval unknown.",
+      "freshness": "Current2026 appointment/recruitment and old-lab report, but attributable named neural paper is2023."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engr.ncsu.edu / source 1",
+        "url": "https://engr.ncsu.edu/faculty-development/faculty-communities/new-faculty-cohort-2026/",
+        "summary": "Full official2026 cohort, current Assistant Professor and2026 PurduePhD.",
+        "verifiedAt": "2026-10-01T12:11:28Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "kimkt0408.github.io / source 2",
+        "url": "https://kimkt0408.github.io/",
+        "summary": "Full personal biography reports August 2026 start; stale incoming phrasing reconciled with current official cohort.",
+        "verifiedAt": "2026-10-01T12:11:28Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "kimkt0408.github.io / source 3",
+        "url": "https://kimkt0408.github.io/farm-lab/join/",
+        "summary": "Full separate visiting inquiry and one-year local NC State MS/UG rule.",
+        "verifiedAt": "2026-10-01T12:11:28Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "kimkt0408.github.io / source 4",
+        "url": "https://kimkt0408.github.io/farm-lab/publications/",
+        "summary": "Full author list for2023 learned sampling;2026 transformer sampling only anonymous under-review title.",
+        "verifiedAt": "2026-10-01T12:11:28Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "iot4ag.us / source 5",
+        "url": "https://iot4ag.us/iot4ag_research/deep-learning-based-leaf-detection-for-robotic-physical-sampling-with-p-agbot/",
+        "summary": "Full primary research-center abstract verifies neural detection/segmentation, leaf pose and arm sampling in indoor/outdoor trials; not full technical paper.",
+        "verifiedAt": "2026-10-01T12:11:28Z",
+        "retrieval": "direct-primary-research-abstract"
+      },
+      {
+        "id": "s6",
+        "label": "engineering.purdue.edu / source 6",
+        "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/needed-food-energy-and-water-security",
+        "summary": "Full July 1, 2026 former-PI university account identifies Jackal/Kinova/cutter, P-AgSAMPLE deep learning and actual physical action/testing at Purdue.",
+        "verifiedAt": "2026-10-01T12:11:28Z",
+        "retrieval": "direct-PI-authored-institutional-page"
+      }
+    ],
+    "unknowns": [
+      "Official current cohort overrides stale incoming wording in personal biography and the old Purdue PhD roster. Do not infer hardware relocation from Kim’s faculty move.",
+      "The2026 P-AgSample transformer paper remains anonymously under review with no full public methods in the inspected list; no fresh VLA/foundation-policy experiment is claimed.",
+      "The2025 P-AgNAV navigation system is described by the PI as LiDAR feature-based; it does not independently supply deep-learning navigation credit.",
+      "Physical evidence uses a full research-center abstract and detailed PI-authored university account, not a complete2023 experiment paper. No quantitative end-to-end sampling success is claimed.",
+      "The one-year local NC State MS/UG rule is kept with its exact local-student scope; external visiting scholars/researchers have no published minimum on the inspected page.",
+      "Reuse nc-state policy: Student Intern requires foreign enrollment, home-advisor recommendation, degree relevance, return to study and at least32hours/week; published duration is2–12months. A rough eight-week target can be adjusted, but fixed56days cannot be assumed to equal two calendar months.",
+      "NC State may approve a Short-Term Scholar category for bachelor-qualified researchers, but it is not an automatic substitute. Current guidance allows documented personal support, with$2000/month plus any bench fee, a$400 Student Intern fee and60-day minimum/90-day recommended lead.2027 costs, category, exact dates and host approval remain unresolved.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: Uses the precisely retained earlier source-observation time, preserved during subsequent verification.",
+      "[Institutional visitor rules](../eligibility_notes.md#nc-state)"
+    ],
+    "discoveryTimestampNote": "Uses the precisely retained earlier source-observation time, preserved during subsequent verification.",
+    "publicEmail": "kkim48@ncsu.edu",
+    "appointmentStart": {
+      "year": 2026,
+      "precision": "year",
+      "status": "current",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ],
+      "evidence": "Official2026 new-faculty cohort verifies current Assistant Professor; personal page specifies August2026 but month is not independently corroborated by university announcement, so structured precision remains year.",
+      "appointmentType": "unresolved"
+    }
+  },
+  {
+    "id": "zishen-wan",
+    "name": "Zishen Wan",
+    "aliases": [],
+    "school": "Columbia University",
+    "homepage": "https://zishenwan.github.io/",
+    "title": "Assistant Professor",
+    "department": "Computer Science; Wan Lab",
+    "batch": "embodied-091",
+    "discoveredAt": "2026-10-01T01:01:01Z",
+    "verifiedAt": "2026-10-01T12:11:28Z",
+    "researchAreas": [
+      "Efficient embodied and physical AI systems",
+      "VLA and robot-policy resilience",
+      "Hardware/software co-design for autonomous systems",
+      "3D SLAM and robot computing architectures"
+    ],
+    "fitReason": "Verified2026 new AP and lower-physical-confidence embodied-systems backup. Full CREATE2026 directly analyzes foundation robot models and embodied-agent failure/energy tradeoffs; practical visiting and remote collaboration inquiry is explicit. Systems/co-design focus, not promised local robot-policy deployment.",
+    "physicalEvidence": {
+      "status": "simulation-only",
+      "summary": "Physical0. Full CREATE2026 evaluates JARVIS-1 Minecraft, OpenVLA/LIBERO, RoboFlamingo/CALVIN and Octo/RT-1 OXE workloads, with simulated timing faults and energy, post-layout/cycle-level hardware estimates. CPU/GPU/FPGA/ASIC infrastructure is computing hardware, not proof of learned physical robot execution. Earlier FortiSky/Arborist evidence does not establish actual robot flight here.",
+      "sourceIds": [
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "Live Join page explicitly welcomes visiting students, scholars and remote collaborators, separately from local Columbia MS/UG researchers and Fall2027 funded PhD positions. Generic visitor8; no exact outside-master duration,2027 internship capacity or visitor funding promise.",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 34,
+      "physical": 0,
+      "shortVisit": 8,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantive efficient/resilient robot-model systems, with architecture-heavy project-selection caveat.",
+      "physical": "No verified actual learned robot execution; computing hardware and simulated workloads receive no physical credit.",
+      "shortVisit": "Live generic outside visitor/remote inquiry; exact master’s classification and duration unknown.",
+      "freshness": "Full2026 method and official/current 2026 appointment, teaching and recruiting."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.cs.columbia.edu / source 1",
+        "url": "https://www.cs.columbia.edu/2026/zishen-wan-brings-ai-native-computing-research-to-columbia/",
+        "summary": "Full official current role and joined this fall2026; embodied/world-model computing agenda and active teaching.",
+        "verifiedAt": "2026-10-01T12:11:28Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "www.engineering.columbia.edu / source 2",
+        "url": "https://www.engineering.columbia.edu/about/news/welcoming-our-new-faculty",
+        "summary": "Full official welcome places CS AP start in September 2026.",
+        "verifiedAt": "2026-10-01T12:11:28Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "zishenwan.github.io / source 3",
+        "url": "https://zishenwan.github.io/",
+        "summary": "Full current first-person role, August 2026 start/news, public contact and research/publication list.",
+        "verifiedAt": "2026-10-01T12:11:28Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "wan-research-group.github.io / source 4",
+        "url": "https://wan-research-group.github.io/join.html",
+        "summary": "Full visiting students/scholars/remote collaborators section distinct from local MS/UG and PhD admissions.",
+        "verifiedAt": "2026-10-01T12:11:28Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2601.14140v1",
+        "summary": "Full primary CREATE method and Section6 evaluation: simulated faults/energy, robot model workloads and no established real robot execution.",
+        "verifiedAt": "2026-10-01T12:11:28Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Current official CS story independently verifies fall2026 arrival. Official Engineering welcome says September while personal news says August; structured appointment year is2026 without invented month precision.",
+      "CREATE’s learned entropy predictor, anomaly protection and weight rotation concern efficiency/reliability of embodied computation. Simulation/dataset benchmarking and modeled chip energy do not establish robot actuation.",
+      "A suitable project would be VLA latency/error resilience, edge inference or embodied-workload benchmarking. Main current agenda also includes general computer architecture and AI-assisted chip design; retain a focused embodied project rather than assume all lab work is robot learning.",
+      "The fully funded Fall2027 PhD invitation is a separate degree intake, not visitor funding. The remote collaborator wording is genuine but project acceptance and summer2027 mentorship remain unknown.",
+      "Reuse Columbia VSI notes: collaborative outside undergraduate/graduate trainees require ongoing home enrollment, return to study and PI/department/school approval. Current minimum$3000/month includes at least51% institutional/agency/Columbia support and at most49% personal funds; fully personal support is not an approved substitute.",
+      "For bachelor-qualified visitors, ISSO may use Research/Short-Term Scholar immigration categorization without removing the VSI academic funding rule. Confirm exact category, any$500-fee waiver applicability, insurance,2027 costs and roughly three-month lead.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: Uses the precisely retained earlier source-observation time, preserved during subsequent verification.",
+      "[Institutional visitor rules](../eligibility_notes.md#columbia)"
+    ],
+    "discoveryTimestampNote": "Uses the precisely retained earlier source-observation time, preserved during subsequent verification.",
+    "publicEmail": "zishen.wan@columbia.edu",
+    "candidateTier": "AI相关 · 真机待核实；方法研究备选",
+    "appointmentStart": {
+      "year": 2026,
+      "precision": "year",
+      "status": "current",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ],
+      "evidence": "Official CS account confirms joined this fall2026; Engineering welcome says September2026 while personal news says August. Keep verified year and preserve month discrepancy.",
+      "appointmentType": "unresolved"
+    }
+  }
+]

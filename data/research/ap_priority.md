@@ -2,13 +2,13 @@
 
 [全部候选：最新偏好排序](ranked_candidates.md) · [明确限制与暑期关闭](contact_constraints.md) · [访问问询入口](visitor_inquiries.md) · [评分说明](README.md)
 
-当前新增记录中有 **207 位**以公开准确职级列出的 AP；这里只核实了一部分入职日期，日期未知不等于资历较老。
+当前新增记录中有 **209 位**以公开准确职级列出的 AP；这里只核实了一部分入职日期，日期未知不等于资历较老。
 
 约八周是初步参考，未说明时长不会被排除。先看近期已到岗 AP，再看暑期前有明确任职日期的 AP；其他 AP 仍保留。明确至少三个月及较长访问偏好降序，硬性最短时长与偏好分开；明确不接收暑期/访客优先标记。
 
 工作排序暂以 **2024年起**作为约近两三年的范围，并单列2027暑期前已公告入职者；这是可调整的整理约定，不是年龄判断、用户硬性年限或接收概率。各层内部先按研究匹配，再按真机证据及原总分。原四项分数和发现时间均未改写。
 
-## 近期已到岗 AP（2024起）（6）
+## 近期已到岗 AP（2024起）（8）
 
 | 导师 / 学校 | 准确任职与入职证据 | 原分数：匹配/真机/访问/新鲜 | 访问与时点提醒 |
 |---|---|---|---|
@@ -18,6 +18,8 @@
 | [Neel P. Bhatt](batches/control-013.md#neel-p-bhatt) · University of Texas at Dallas | Assistant Professor；**Fall 2026; first-person homepage says August 2026** [核查来源1](https://syse.utdallas.edu/ourteam/staff/neel-p-bhatt/) [核查来源2](https://neel1302.github.io/) | 83（38/20/10/15） | **2026秋已到岗；有2027访客/实习邮件入口，时长、资金、主办类别和UTD设备仍待确认**；inquiry-only |
 | [Tom Silver](batches/embodied-001.md#tom-silver) · Princeton University | Assistant Professor；**Fall 2025** [核查来源1](https://ece.princeton.edu/news/tom-silver-joins-princeton-faculty-expertise-robot-planning-and-learning) [核查来源2](https://prpl-group.com/) | 94（37/25/17/15） | **外校研究生可经VSRC询问；仅现场，按完整日历月安排；需提前4–6个月准备**；inquiry-only |
 | [Yujia Zheng](batches/embodied-090.md#yujia-zheng) · University of Illinois Urbana-Champaign | Assistant Professor；**2026–27 cohort; first-person Fall2026 start** [核查来源1](https://stat.illinois.edu/news/2026-08-11/department-statistics-welcomes-three-new-assistant-professors) [核查来源2](https://stat.illinois.edu/directory/profile/yujiaz) [核查来源3](https://yjzheng.com/) [核查来源4](https://www.linkedin.com/posts/yjzheng_yujia-zheng-activity-7464366840400617472-WzvT) | 59（36/0/8/15） | **2026–27新AP；当前公开访客/实习询问；世界模型仅仿真，外校硕士类别、时长及经费未定；仅仿真；真机待核实**；inquiry-only |
+| [Kitae Kim](batches/embodied-091.md#kitae-kim) · North Carolina State University | Assistant Professor；**2026** [核查来源1](https://engr.ncsu.edu/faculty-development/faculty-communities/new-faculty-cohort-2026/) [核查来源2](https://kimkt0408.github.io/) | 76（35/20/8/13） | **官方2026新AP；独立访客询问入口；一年要求仅对本校MS/UG，外校时长未定；硬件为Purdue旧合作且完整技术论文未读取**；inquiry-only |
+| [Zishen Wan](batches/embodied-091.md#zishen-wan) · Columbia University | Assistant Professor；**2026** [核查来源1](https://www.cs.columbia.edu/2026/zishen-wan-brings-ai-native-computing-research-to-columbia/) [核查来源2](https://www.engineering.columbia.edu/about/news/welcoming-our-new-faculty) [核查来源3](https://zishenwan.github.io/) | 57（34/0/8/15） | **2026到岗月份来源有冲突，仅保留年份；访客/远程询问明确，VLA计算方法仅仿真，Columbia资金需至少51%机构支持；仅仿真；真机待核实**；inquiry-only |
 
 ## 暑期前明确拟到岗 AP（3）
 
@@ -282,3 +284,8 @@
 - Andrew Spielberg：[来源](https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofelectricalandcomputerengineering/) · Full official faculty roster prints Carnegie Mellon2021–; unresolved discrepancy with recent lab establishment, so no exact new-AP year asserted.（核查 2026-10-01T12:07:44Z）
 - Jiatao Gu：[来源](https://archives.upenn.edu/wp-content/uploads/2025/09/20250228tr.pdf) · Official February 28, 2025 Trustees minutes PDFpage55/printed42. Full document retrieved; appointment block text-read and visually checked: July 1, 2025 start, tenure-track CIS Assistant Professor.（核查 2026-10-01T12:30:15Z）
 - Jiatao Gu：[来源](https://ai.upenn.edu/ideas-generative-ai-symposium) · Full current official university speaker biography confirms Penn Assistant Professor and part-time Apple role, world-model/vision/action agenda.（核查 2026-10-01T12:30:15Z）
+- Kitae Kim：[来源](https://engr.ncsu.edu/faculty-development/faculty-communities/new-faculty-cohort-2026/) · Full official2026 cohort, current Assistant Professor and2026 PurduePhD.（核查 2026-10-01T12:11:28Z）
+- Kitae Kim：[来源](https://kimkt0408.github.io/) · Full personal biography reports August 2026 start; stale incoming phrasing reconciled with current official cohort.（核查 2026-10-01T12:11:28Z）
+- Zishen Wan：[来源](https://www.cs.columbia.edu/2026/zishen-wan-brings-ai-native-computing-research-to-columbia/) · Full official current role and joined this fall2026; embodied/world-model computing agenda and active teaching.（核查 2026-10-01T12:11:28Z）
+- Zishen Wan：[来源](https://www.engineering.columbia.edu/about/news/welcoming-our-new-faculty) · Full official welcome places CS AP start in September 2026.（核查 2026-10-01T12:11:28Z）
+- Zishen Wan：[来源](https://zishenwan.github.io/) · Full current first-person role, August 2026 start/news, public contact and research/publication list.（核查 2026-10-01T12:11:28Z）

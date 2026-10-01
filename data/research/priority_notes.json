@@ -414,6 +414,71 @@
           "evidence": "Full current official university speaker biography confirms Penn Assistant Professor and part-time Apple role, world-model/vision/action agenda."
         }
       ]
+    },
+    "kitae-kim": {
+      "appointmentStart": {
+        "year": 2026,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "evidence": "Official2026 new-faculty cohort verifies current Assistant Professor; personal page specifies August2026 but month is not independently corroborated by university announcement, so structured precision remains year.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2026",
+      "caveat": "官方2026新AP；独立访客询问入口；一年要求仅对本校MS/UG，外校时长未定；硬件为Purdue旧合作且完整技术论文未读取",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://engr.ncsu.edu/faculty-development/faculty-communities/new-faculty-cohort-2026/",
+          "observedAt": "2026-10-01T12:11:28Z",
+          "evidence": "Full official2026 cohort, current Assistant Professor and2026 PurduePhD."
+        },
+        {
+          "id": "s2",
+          "url": "https://kimkt0408.github.io/",
+          "observedAt": "2026-10-01T12:11:28Z",
+          "evidence": "Full personal biography reports August 2026 start; stale incoming phrasing reconciled with current official cohort."
+        }
+      ]
+    },
+    "zishen-wan": {
+      "appointmentStart": {
+        "year": 2026,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ],
+        "evidence": "Official CS account confirms joined this fall2026; Engineering welcome says September2026 while personal news says August. Keep verified year and preserve month discrepancy.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2026",
+      "caveat": "2026到岗月份来源有冲突，仅保留年份；访客/远程询问明确，VLA计算方法仅仿真，Columbia资金需至少51%机构支持",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.cs.columbia.edu/2026/zishen-wan-brings-ai-native-computing-research-to-columbia/",
+          "observedAt": "2026-10-01T12:11:28Z",
+          "evidence": "Full official current role and joined this fall2026; embodied/world-model computing agenda and active teaching."
+        },
+        {
+          "id": "s2",
+          "url": "https://www.engineering.columbia.edu/about/news/welcoming-our-new-faculty",
+          "observedAt": "2026-10-01T12:11:28Z",
+          "evidence": "Full official welcome places CS AP start in September 2026."
+        },
+        {
+          "id": "s3",
+          "url": "https://zishenwan.github.io/",
+          "observedAt": "2026-10-01T12:11:28Z",
+          "evidence": "Full current first-person role, August 2026 start/news, public contact and research/publication list."
+        }
+      ]
     }
   },
   "constraints": [

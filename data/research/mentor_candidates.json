@@ -83,6 +83,7 @@
     "batches/control-072.json",
     "batches/control-073.json",
     "batches/control-074.json",
+    "batches/control-075.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -4419,6 +4420,103 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-074.json",
       "detailPage": "batches/control-074.md#christopher-kitts"
+    },
+    {
+      "id": "shan-zuo",
+      "name": "Shan Zuo",
+      "aliases": [
+        "Shan Susan Zuo",
+        "Susan Shan Zuo"
+      ],
+      "school": "University of Connecticut",
+      "title": "Assistant Professor; Castleman Term Professor in Engineering Innovation",
+      "homepage": "https://distributed-decision-learning.engr.uconn.edu/",
+      "batch": "control-075",
+      "discoveredAt": "2026-10-01T01:24:05Z",
+      "verifiedAt": "2026-10-01T06:37:33Z",
+      "scores": {
+        "fit": 36,
+        "physical": 0,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Resilient robot reinforcement learning",
+        "Heterogeneous multi-agent control",
+        "Vision-based quadrotor control",
+        "AI-enhanced reasoning autonomy"
+      ],
+      "discoveryTimestampNote": "First precisely preserved screening time; an earlier preliminary source review was recorded only to the minute and was not reconstructed.",
+      "candidateTier": "Robotics-AI visitor backup; current learned hardware unverified",
+      "physicalEvidenceStatus": "AI相关 · 真机待核实",
+      "physicalEvidenceLabel": "AI相关 · 真机待核实",
+      "shortVisitStatus": "inquiry-only · 外部访问意向；八周与2027名额未定",
+      "recordFile": "batches/control-075.json",
+      "detailPage": "batches/control-075.md#shan-zuo"
+    },
+    {
+      "id": "nick-cheney",
+      "name": "Nick Cheney",
+      "aliases": [
+        "Nicholas Cheney",
+        "Nicholas A. Cheney"
+      ],
+      "school": "University of Vermont",
+      "title": "Associate Professor; Director, Neurobotics Lab",
+      "homepage": "https://www.uvm.edu/cems/cs/profile/nick-cheney",
+      "batch": "control-075",
+      "discoveredAt": "2026-10-01T06:34:16Z",
+      "verifiedAt": "2026-10-01T06:37:33Z",
+      "scores": {
+        "fit": 37,
+        "physical": 0,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Evolutionary robotics",
+        "Multi-morphology robot controllers",
+        "Knowledge distillation",
+        "Continual reinforcement learning",
+        "Meta-learning"
+      ],
+      "discoveryTimestampNote": "First precisely preserved source-observation time; earlier preliminary lead time is unavailable and was not reconstructed.",
+      "candidateTier": "Robotics-AI visitor backup; current learned hardware unverified",
+      "physicalEvidenceStatus": "AI相关 · 真机待核实",
+      "physicalEvidenceLabel": "AI相关 · 真机待核实",
+      "shortVisitStatus": "inquiry-only · 外部访问意向；八周与2027名额未定",
+      "recordFile": "batches/control-075.json",
+      "detailPage": "batches/control-075.md#nick-cheney"
+    },
+    {
+      "id": "vivek-thangavelu",
+      "name": "Vivek Thangavelu",
+      "aliases": [],
+      "school": "Arizona State University",
+      "title": "Assistant Professor; Principal Investigator, EcoRobotics Lab",
+      "homepage": "https://ecoroboticslab.com/",
+      "batch": "control-075",
+      "discoveredAt": "2026-09-30T23:30:32Z",
+      "verifiedAt": "2026-10-01T06:37:33Z",
+      "scores": {
+        "fit": 37,
+        "physical": 12,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Gaussian-process adaptive robotic sampling",
+        "Environmental robot learning",
+        "Multi-robot coordination",
+        "Autonomous ecological monitoring",
+        "Robot perception"
+      ],
+      "candidateTier": "Robotics-AI visitor backup; current learned hardware unverified",
+      "physicalEvidenceStatus": "AI相关 · 真机待核实",
+      "physicalEvidenceLabel": "AI相关 · 真机待核实（弱/历史线索）",
+      "shortVisitStatus": "inquiry-only · 外部访问意向；八周与2027名额未定",
+      "recordFile": "batches/control-075.json",
+      "detailPage": "batches/control-075.md#vivek-thangavelu"
     },
     {
       "id": "tom-silver",

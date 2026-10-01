@@ -1,0 +1,311 @@
+[
+  {
+    "id": "shan-zuo",
+    "name": "Shan Zuo",
+    "aliases": [
+      "Shan Susan Zuo",
+      "Susan Shan Zuo"
+    ],
+    "school": "University of Connecticut",
+    "homepage": "https://distributed-decision-learning.engr.uconn.edu/",
+    "title": "Assistant Professor; Castleman Term Professor in Engineering Innovation",
+    "department": "Electrical and Computer Engineering",
+    "batch": "control-075",
+    "discoveredAt": "2026-10-01T01:24:05Z",
+    "verifiedAt": "2026-10-01T06:37:33Z",
+    "researchAreas": [
+      "Resilient robot reinforcement learning",
+      "Heterogeneous multi-agent control",
+      "Vision-based quadrotor control",
+      "AI-enhanced reasoning autonomy"
+    ],
+    "fitReason": "Visitor-friendly robotics-AI backup: explicit current robot-fleet research and off-policy RL for visual-servo quadrotor formations, alongside a substantial broader CPS/control program.",
+    "physicalEvidence": {
+      "status": "AI相关 · 真机待核实",
+      "summary": "Current learned physical-robot execution remains unverified, physical0. The lab’s multi-agent RL video was previously inspected and showed numerical plots. The complete 2025 observer-based consensus preprint evaluates numerical nonlinear agents only. The 2026 TNNLS quadrotor visual-servo abstract describes off-policy RL and case studies, but full experimental methods were not obtained and no real-flight claim is made. Current nuclear/warehouse robot-fleet projects are research directions, not completed deployment. YOLO traffic perception is not automatically robotic actuation.",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only · 外部访问意向；八周与2027名额未定",
+      "summary": "The current official D2L2 homepage separately welcomes research interns and visiting scholars, alongside degree students. This is a genuine generic inquiry route, score8; no summer 2027 slot, eight-week acceptance or funding promise is stated.",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "scores": {
+      "fit": 36,
+      "physical": 0,
+      "shortVisit": 8,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Specific robot-fleet and learned quadrotor-control research supports a bounded backup despite control-heavy portfolio.",
+      "physical": "Numerical evidence only in fully inspected experiment; other current robot execution unknown.",
+      "shortVisit": "Explicit lab research-intern/visiting-scholar inquiry invitation, not a confirmed summer offer.",
+      "freshness": "Current 2026 research/appointment information and published 2026 robotics-RL abstract."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.uconn.edu / source 1",
+        "url": "https://engineering.uconn.edu/faculty/ece/shan-susan-zuo/",
+        "summary": "Official current assistant-professor rank, email and robotics/RL scope.",
+        "verifiedAt": "2026-10-01T06:37:33Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "distributed-decision-learning.engr.uconn.edu / source 2",
+        "url": "https://distributed-decision-learning.engr.uconn.edu/",
+        "summary": "Explicit intern/visitor invitation and dated 2025–26 named professorship/current projects.",
+        "verifiedAt": "2026-10-01T06:37:33Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "distributed-decision-learning.engr.uconn.edu / source 3",
+        "url": "https://distributed-decision-learning.engr.uconn.edu/research/",
+        "summary": "Specific deep-RL heterogeneous robotics projects and video links; planned work distinguished from experiments.",
+        "verifiedAt": "2026-10-01T06:37:33Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2501.00872v1",
+        "summary": "Full primary numerical-only consensus experiments, not hardware.",
+        "verifiedAt": "2026-10-01T06:37:33Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "pubmed.ncbi.nlm.nih.gov / source 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41747124/",
+        "summary": "2026 TNNLS author abstract for off-policy RL quadrotor visual-servo formation; full hardware methods not inspected.",
+        "verifiedAt": "2026-10-01T06:37:33Z",
+        "retrieval": "Official PubMed record reproducing primary article abstract; publisher full text not retrieved"
+      }
+    ],
+    "unknowns": [
+      "Reuse Connecticut policy: outside degree-linked students can use Visiting Student/Student Intern; personal/family-funded cases have an institutional route, subject to approved training plan, original-degree relevance,32 h/week and return to study. Minimum duration three weeks, full request at least12 weeks ahead. Current$2,590/month label is from 2022 and must be rechecked for 2027. Unpaid intern accident/workers-compensation-equivalent coverage remains required. Nuclear-project access needs host-specific review, with no blanket citizenship exclusion inferred.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: First precisely preserved screening time; an earlier preliminary source review was recorded only to the minute and was not reconstructed.",
+      "[Institutional visitor rules](../eligibility_notes.md#connecticut)"
+    ],
+    "candidateTier": "Robotics-AI visitor backup; current learned hardware unverified",
+    "discoveryTimestampNote": "First precisely preserved screening time; an earlier preliminary source review was recorded only to the minute and was not reconstructed.",
+    "publicEmail": "shan.zuo@uconn.edu"
+  },
+  {
+    "id": "nick-cheney",
+    "name": "Nick Cheney",
+    "aliases": [
+      "Nicholas Cheney",
+      "Nicholas A. Cheney"
+    ],
+    "school": "University of Vermont",
+    "homepage": "https://www.uvm.edu/cems/cs/profile/nick-cheney",
+    "title": "Associate Professor; Director, Neurobotics Lab",
+    "department": "Computer Science; Vermont Complex Systems Institute",
+    "batch": "control-075",
+    "discoveredAt": "2026-10-01T06:34:16Z",
+    "verifiedAt": "2026-10-01T06:37:33Z",
+    "researchAreas": [
+      "Evolutionary robotics",
+      "Multi-morphology robot controllers",
+      "Knowledge distillation",
+      "Continual reinforcement learning",
+      "Meta-learning"
+    ],
+    "fitReason": "Visitor-friendly robotics-AI backup with concrete controller co-design and morphology-generalization methods, rather than a generic AI-only lead.",
+    "physicalEvidence": {
+      "status": "AI相关 · 真机待核实",
+      "summary": "Physical0: the full 2024 multi-morphology controller paper uses EvoGym2 D voxel soft-robot simulation. MAP-Elites produces diverse teacher policies that are distilled into a shared controller, with simulated unseen-morphology/damage tests; these are not fabricated soft robots or executed physical policies. The 2026 TeLAPA preprint concerns MiniGrid continual RL, also simulated. Current physical lab deployment/access was not established.",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only · 外部访问意向；八周与2027名额未定",
+      "summary": "Current Neurobotics recruitment explicitly includes visiting researchers in its standardized application form, separately from undergraduate/MS/PhD and postdoc categories. The 2025–26 sabbatical/new-student pause is dated and says review resumes for Fall 2026; it is not a permanent visitor ban or a verified 2027 opening. Self-funded applicants use off-cycle review, illustrated with PhD fellowships, which must not be interpreted as unconditional personal-funding permission.",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 0,
+      "shortVisit": 8,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Concrete evolutionary morphology/controller learning plus knowledge distillation; broader continual RL is supplementary.",
+      "physical": "Verified robotics evidence is simulated; no physical credit.",
+      "shortVisit": "Explicit visiting-researcher application category; scope and 2027 availability still need PI confirmation.",
+      "freshness": "2026 continual-RL preprint/current faculty and route, with 2024 detailed robotics methods."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.uvm.edu / source 1",
+        "url": "https://www.uvm.edu/cems/cs/profile/nick-cheney",
+        "summary": "Current associate-professor rank, public email and neurobotics leadership.",
+        "verifiedAt": "2026-10-01T06:37:33Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "www.uvm.edu / source 2",
+        "url": "https://www.uvm.edu/neurobotics/join-us",
+        "summary": "Distinct visiting-researcher application route; dated 2025–26 sabbatical note and Fall 2026 review resumption.",
+        "verifiedAt": "2026-10-01T06:37:33Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2404.14625v1",
+        "summary": "Complete primary multi-morphology controller methods explicitly use EvoGym simulation.",
+        "verifiedAt": "2026-10-01T06:37:33Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/abs/2604.15414",
+        "summary": "April 2026 primary continual-RL preprint abstract explicitly evaluates MiniGrid; not physical deployment.",
+        "verifiedAt": "2026-10-01T06:37:33Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "www.uvm.edu / source 5",
+        "url": "https://www.uvm.edu/neurobotics/publications",
+        "summary": "Primary lab confirms the 2024 robot-controller paper as its own research.",
+        "verifiedAt": "2026-10-01T06:37:33Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      }
+    ],
+    "unknowns": [
+      "New Vermont notes: catalog explicitly permits outside graduate students and summer visiting research, with unit/school/Graduate Dean approvals and GRAD9020/9030 registration. Host office accepts visitor bank statements and currently lists$2,500/month but warns of increases; exact immigration category and personal-funding applicability must be confirmed because the separate J-1 student guidance requires51% nonpersonal funding. Document-in-hand lead time is at least8 weeks before arrival, not a promise of processing within8 weeks. Catalog 2026–27 registration fees$200/$300 are not total visit costs.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: First precisely preserved source-observation time; earlier preliminary lead time is unavailable and was not reconstructed.",
+      "[Institutional visitor rules](../eligibility_notes.md#vermont)"
+    ],
+    "candidateTier": "Robotics-AI visitor backup; current learned hardware unverified",
+    "discoveryTimestampNote": "First precisely preserved source-observation time; earlier preliminary lead time is unavailable and was not reconstructed.",
+    "publicEmail": "ncheney@uvm.edu"
+  },
+  {
+    "id": "vivek-thangavelu",
+    "name": "Vivek Thangavelu",
+    "aliases": [],
+    "school": "Arizona State University",
+    "homepage": "https://ecoroboticslab.com/",
+    "title": "Assistant Professor; Principal Investigator, EcoRobotics Lab",
+    "department": "School of Manufacturing Systems and Networks",
+    "batch": "control-075",
+    "discoveredAt": "2026-09-30T23:30:32Z",
+    "verifiedAt": "2026-10-01T06:37:33Z",
+    "researchAreas": [
+      "Gaussian-process adaptive robotic sampling",
+      "Environmental robot learning",
+      "Multi-robot coordination",
+      "Autonomous ecological monitoring",
+      "Robot perception"
+    ],
+    "fitReason": "Visitor-friendly field-robotics backup with Bayesian adaptive sensing and an active current learning-oriented excavation/plant-interaction group; strongest detailed deployment evidence is prior-host work.",
+    "physicalEvidence": {
+      "status": "AI相关 · 真机待核实",
+      "summary": "Prior physical soil-sampling robots are independently documented by CMU’s November 2024 report, which names Thangavelu’s adaptive-sampling contribution. His primary project page explains Gaussian-process contamination models and next-sample reward selection, while its displayed quantitative comparisons are explicitly simulation. Full 2024 journal methods were not retrieved, so exact closed-loop GP execution details remain unverified. Current ASU lab pages show robot arrivals and learning-based excavation/sensing projects, not a completed peer-reviewed local learned-policy deployment. Physical12 credits attributable prior physical research only, with a clear current-hardware/learning-verification gap.",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only · 外部访问意向；八周与2027名额未定",
+      "summary": "The September 17, 2026 lab join page has a separate Visiting Scholars & Students section inviting email inquiries. Its local-master section is ASU-enrolled and unfunded, and its new-PhD section is closed; neither supersedes the separate visitor route. Generic visitor8, with duration, financial support and 2027 capacity unknown.",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 12,
+      "shortVisit": 8,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Specific GP adaptive robotic sampling and current learning-oriented ecological robotics; not pure control theory.",
+      "physical": "Limited credit for verified prior-host physical research; current learned execution and full methods unresolved.",
+      "shortVisit": "Explicit current visiting-scholar/student invitation separate from closed PhD intake.",
+      "freshness": "Current September 2026 route/group roster, with 2024 prior hardware and 2025 ASU appointment."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "search.asu.edu / source 1",
+        "url": "https://search.asu.edu/profile/5505640",
+        "summary": "Current ASU appointment and public email vivek.t@asu.edu; linked lab.",
+        "verifiedAt": "2026-10-01T06:37:33Z",
+        "retrieval": "Official HTML via web.run; email read from public page data-cfemail attribute"
+      },
+      {
+        "id": "s2",
+        "label": "ecoroboticslab.com / source 2",
+        "url": "https://ecoroboticslab.com/join/",
+        "summary": "Explicit distinct visiting-scholar/student invitation, local-master limits and PhD closure.",
+        "verifiedAt": "2026-10-01T06:37:33Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "ecoroboticslab.com / source 3",
+        "url": "https://ecoroboticslab.com/people/",
+        "summary": "Current direct students describe learning-based excavation and multimodal plant interaction; no additional completed deployment inferred.",
+        "verifiedAt": "2026-10-01T06:37:33Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "ecoroboticslab.com / source 4",
+        "url": "https://ecoroboticslab.com/",
+        "summary": "Current lab scope and July 2026 hardware arrivals.",
+        "verifiedAt": "2026-10-01T06:37:33Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "vivekthangavelu.com / source 5",
+        "url": "https://vivekthangavelu.com/eco.html",
+        "summary": "Primary prior-host GP adaptive soil sampling description; numerical performance comparisons explicitly simulation.",
+        "verifiedAt": "2026-10-01T06:37:33Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "www.cmu.edu / source 6",
+        "url": "https://www.cmu.edu/news/stories/archives/2024/november/robotics-for-environmental-innovation",
+        "summary": "Independent dated university confirmation of actual soil robot and Thangavelu’s specific algorithm contribution; prior host, not current ASU equipment.",
+        "verifiedAt": "2026-10-01T06:37:33Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      }
+    ],
+    "unknowns": [
+      "Reuse ASU category-specific policy: scholar bank evidence does not remove the Student Non-Degree51% nonpersonal requirement; first-time Student Intern personal-funding classification remains unresolved. Host approval, formal appointment and eight-week project feasibility are needed. Earlier Cornell/Buffalo/CMU hardware is not assumed available at the new ASU lab. Current official Fall 2025 ASU appointment supersedes the older personal page’s incoming-professor label.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#asu-visiting-categories)"
+    ],
+    "candidateTier": "Robotics-AI visitor backup; current learned hardware unverified",
+    "publicEmail": "vivek.t@asu.edu"
+  }
+]

@@ -968,3 +968,13 @@ Sources: [Guides and Forms](https://www.lamar.edu/international-education/intern
 核查：2026-10-01T06:32:06Z。[当前 Student Intern 页面](https://www.ndsu.edu/facultyaffairs/immigration/j_1_student_interns_undergraduate_students_bachelor_degree_only) 明确限海外在读本科生，不能套用为外校硕士通道。[Scholar 页面](https://www.ndsu.edu/facultyaffairs/immigration/j_1_exchange_visitors_scholarsresearchers) 列有至多六个月的 Short-Term Scholar，并要求院系至少提前90天联系移民办公室、完成出口合规核查；八周符合时长上限，但硕士资格仍待确认。
 
 [当前表单页](https://www.ndsu.edu/facultyaffairs/immigration/immigration_forms/j_1_scholars) 所链接的 [VSVR 表](https://www.ndsu.edu/sites/default/files/fileadmin/facultyaffairs/Immigration/Visiting_Scholar_Visiting_Researcher__VSVR_.pdf) 内部修订日期为2021年，明确有完全个人自费选项，须系/学院及出口合规批准。自费选项不等于已确认硕士任命资格；当前最低资金、完整保险/手续费用及2027名额未知。[非雇员协议](https://www.ndsu.edu/sites/default/files/fileadmin/facultyaffairs/UPSO-VSVRAgree.pdf) 涉及保险、培训、知识产权与签字，尚未接受。旧表保险金额不作为2027预算。
+
+<a id="vermont"></a>
+
+## Vermont · 明确外校研究生访问制度，签证资金分类须确认
+
+核查：2026-10-01T06:37:33Z。[2026–27研究生目录](https://catalogue.uvm.edu/graduate/academicenrollment/requirementsforvisitinggraduatestudents/) 允许海外或美国其他院校在读研究生参加导师指导的研究，夏季也须注册GRAD9020/9030，办理院系、学院及研究生院批准。当前注册费每学期200/300美元；健康中心或购保险资格另481.50美元，保险保费另计，目录尚未公布2026–27年保费，不能算作完整八周预算。
+
+[主办J-1规则](https://www.uvm.edu/oie/uvm-departments-hosting-j-1-exchange-visitors) 明确涵盖未由UVM资助的访问研究生，列Short-Term Scholar1天至6个月等类别，当前生活支持基准每月2,500美元、接受访问者银行证明，但页面提醒将涨价。要求至少提前8周拿到移民文件，因此应更早启动，而非保证8周内办完。
+
+具体硕士签证类别仍须OIE核定：[单独的学生签证比较页](https://www.uvm.edu/oie/comparing-f-1-and-j-1-visas) 对J-1学生要求至少51%非个人资金。不能将Scholar银行证明规则直接当作本次硕士可完全自费，也不能反向把学生比例一概套到Scholar。导师接收、2027金额和八周项目安排均未确认。

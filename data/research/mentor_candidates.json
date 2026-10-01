@@ -46,6 +46,7 @@
     "batches/embodied-016.json",
     "batches/embodied-017.json",
     "batches/embodied-018.json",
+    "batches/embodied-019.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -4238,6 +4239,33 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-018.json",
       "detailPage": "batches/embodied-018.md#yisong-yue"
+    },
+    {
+      "id": "zezhou-cheng",
+      "name": "Zezhou Cheng",
+      "aliases": [],
+      "school": "University of Virginia",
+      "title": "Assistant Professor",
+      "homepage": "https://www.cs.virginia.edu/~zc3bp/",
+      "batch": "embodied-019",
+      "discoveredAt": "2026-09-30T23:37:13Z",
+      "verifiedAt": "2026-10-01T00:10:37Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Visual foundation models for navigation",
+        "Learning from Internet stereo video",
+        "4D scene understanding",
+        "Embodied urban navigation",
+        "Self-supervised visual learning"
+      ],
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/embodied-019.json",
+      "detailPage": "batches/embodied-019.md#zezhou-cheng"
     },
     {
       "id": "henny-admoni",

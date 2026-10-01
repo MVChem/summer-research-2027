@@ -1,0 +1,114 @@
+[
+  {
+    "id": "zezhou-cheng",
+    "name": "Zezhou Cheng",
+    "aliases": [],
+    "school": "University of Virginia",
+    "homepage": "https://www.cs.virginia.edu/~zc3bp/",
+    "title": "Assistant Professor",
+    "department": "Computer Science",
+    "batch": "embodied-019",
+    "discoveredAt": "2026-09-30T23:37:13Z",
+    "verifiedAt": "2026-10-01T00:10:37Z",
+    "researchAreas": [
+      "Visual foundation models for navigation",
+      "Learning from Internet stereo video",
+      "4D scene understanding",
+      "Embodied urban navigation",
+      "Self-supervised visual learning"
+    ],
+    "fitReason": "Stereo4DWalker (IROS2026) learns geometry-aware navigation from Internet stereo walking videos using depth, dense tracking and transformer attention. It supplies a concrete embodied transfer/deployment project within a self-supervised and3D vision laboratory.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The September14,2026 primary revision evaluates real navigation on a Clearpath Jackal J100 with stereo-camera observations. GPU-server inference streams waypoints through FastAPI to a ROS2 velocity controller. There are14 trials per forward/left/right case,42 per method; collisions causing interruption count as failures. Teleoperated expert data use Jackal/Ouster LiDAR/ZED2i.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "The live university-hosted lab contact page explicitly accepts interest from visiting students and research interns at external institutions through its form, separate from UVA students and degree applicants. The homepage also invites research interns by email/CV or form. No duration, specific degree eligibility or summer2027 availability is stated.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 8,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong current foundation-vision-to-robot navigation fit; overall group spans broader3D vision.",
+      "physical": "Full primary Jackal deployment protocol and a directly verified supervised-group author link; shared hardware ownership and visitor access remain unconfirmed.",
+      "shortVisit": "Direct currently published external-institution visitor/intern pathway, but duration and external-master’s details unspecified.",
+      "freshness": "September2026 primary hardware revision and current faculty/lab activity."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.virginia.edu / source 1",
+        "url": "https://engineering.virginia.edu/faculty/zezhou-cheng",
+        "summary": "Official current Assistant Professor of Computer Science.",
+        "verifiedAt": "2026-09-30T23:38:34Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "www.cs.virginia.edu / source 2",
+        "url": "https://www.cs.virginia.edu/~zc3bp/",
+        "summary": "CurrentSeptember2026 research activity, institutional email and general research-intern invitation.",
+        "verifiedAt": "2026-09-30T23:38:34Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "cvlab.cs.virginia.edu / source 3",
+        "url": "https://cvlab.cs.virginia.edu/contact.html",
+        "summary": "Direct explicit separate pathway for visiting students and research interns from external institutions.",
+        "verifiedAt": "2026-09-30T23:38:34Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "www.cs.virginia.edu / source 4",
+        "url": "https://www.cs.virginia.edu/~tsx4zn/stereowalk/",
+        "summary": "Primary IROS2026 project with Cheng coauthorship and physical navigation demonstrations.",
+        "verifiedAt": "2026-09-30T23:38:34Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2512.10956v2",
+        "summary": "September14,2026 full primary paper; SectionV distinguishes offline benchmark from real Jackal deployment, physical trial design, server inference and ROS2 low-level execution.",
+        "verifiedAt": "2026-09-30T23:38:34Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "Current supervised-group roster",
+        "url": "https://www.cs.virginia.edu/~zc3bp/students.html",
+        "summary": "Lists coauthor Xuweiyi Chen as a current PhD student and first author Wentao Zhou as a former master’s student. This establishes supervised-group participation, not exclusive platform ownership.",
+        "verifiedAt": "2026-10-01T00:10:37Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Eight-week external-master’s appointment, funding source and remote arrangement need lab/university confirmation. The application form could not be retrieved by the web tool; fields and detailed conditions were not verified or submitted. This is physical navigation, not manipulation. Offline benchmark metrics are separate from hardware success; inference runs on a remote GPU server rather than solely onboard. Shared supervision/access with collaborating UVA robotics groups should be confirmed.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Application form URL is public but its contents were not verified: https://forms.gle/rq8XFTakGf3gWhGr9"
+    ],
+    "publicEmail": "zc3bp@virginia.edu"
+  }
+]

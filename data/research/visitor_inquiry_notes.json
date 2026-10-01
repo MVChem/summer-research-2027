@@ -1,0 +1,539 @@
+{
+  "schemaVersion": 1,
+  "scope": "Editorial summaries of already-published evidence; no new openings or eligibility findings",
+  "notes": {
+    "daniel-seita": {
+      "note": "极少接收；目前无资助；需0.5–1页项目构想",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "ransalu-senanayake": {
+      "note": "明确无资助；ASU访问类别与个人资金适用性未定",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "animesh-garg": {
+      "note": "非GT短期访客；偏好自费或fellowship支持；须学校批准",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    "patricia-alves-oliveira": {
+      "note": "自费暑期访客；偏好相关经验与已有项目构想",
+      "sourceIds": [
+        "s2",
+        "s4",
+        "s6",
+        "s7"
+      ]
+    },
+    "allison-okamura": {
+      "note": "须自备支持、方向匹配及有空位；学校资金分类另批",
+      "sourceIds": [
+        "s2",
+        "s3"
+      ]
+    },
+    "michael-w-otte": {
+      "note": "必须有外部奖学金/奖项；仅个人自费明确不够",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "yufeng-kevin-chen": {
+      "note": "不一般招访客；仅外部fellowship例外，个人自费不等同",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "lirong-xiang": {
+      "note": "须正式交流或fellowship项目",
+      "sourceIds": [
+        "s2",
+        "s6"
+      ]
+    },
+    "matthew-r-walter": {
+      "note": "通常12–15周；八周例外未确认；约提前5–6个月申请",
+      "sourceIds": [
+        "s3",
+        "s4"
+      ]
+    },
+    "kaylene-stocking": {
+      "note": "通常12–15周；八周未确认；经TTIC项目联系",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "qianqian-quinn-wang": {
+      "note": "一般intern询问；SEAS通常至少3个月，八周未确认",
+      "sourceIds": [
+        "s3"
+      ],
+      "category": "generic-intern-eligibility-unconfirmed"
+    },
+    "zhiwen-fan": {
+      "note": "intern要求US-based；是否限制海外visitor未定，不推断国籍",
+      "sourceIds": [
+        "s2",
+        "s3"
+      ]
+    },
+    "mike-hagenow": {
+      "note": "不主动招访客；只允许特殊匹配询问",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "dong-chen": {
+      "note": "仅远程入口；现场短访分0；须使用当前机构联系地址",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "carmen-amo-alonso": {
+      "note": "2027待入职、月份未知；夏季主办权限未确认",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "thomas-a-berrueta": {
+      "note": "官方2026-11-01拟入职；新组容量与访问条件未确认",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "yaqi-xie": {
+      "note": "官方adjunct与本人incoming表述并存；准确开始时间未知",
+      "sourceIds": [
+        "s2"
+      ],
+      "category": "generic-intern-eligibility-unconfirmed"
+    },
+    "alex-wong": {
+      "note": "招聘证据为indexed-only；Yale VAR论文/资金条件须确认",
+      "sourceIds": [
+        "s2",
+        "s3"
+      ]
+    },
+    "tesca-fitzgerald": {
+      "note": "Yale VAR硕士论文/非个人资金条件另核",
+      "sourceIds": [
+        "s2",
+        "s4"
+      ]
+    },
+    "ken-nakagaki": {
+      "note": "明确外校NDVS入口；签证资金分类仍未确认",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "jun-nishida": {
+      "note": "国际访客链接指向faculty政策；不能当作学生类别获批",
+      "sourceIds": [
+        "s2",
+        "s3"
+      ]
+    },
+    "hua-wei": {
+      "note": "实验室欢迎自费访客；ASU类别/资金规则仍须核定",
+      "sourceIds": [
+        "s3",
+        "s4"
+      ]
+    },
+    "yogesh-girdhar": {
+      "note": "WHOI Woods Hole主办；graduate Guest Student，2周–2年；签证资金未定",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    "fabrizio-sergi": {
+      "note": "明确访问研究生；要求CV及共同署名论文；仅非临床任务另审",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s6"
+      ]
+    },
+    "pratyusha-sharma": {
+      "note": "表单明确外校MS/visitor、现场或远程；设备为历史合作证据",
+      "sourceIds": [
+        "s4",
+        "s5"
+      ]
+    },
+    "shanshan-yao": {
+      "note": "明确外校在读学生；SBU学期注册/学分与费用需核",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "bolei-zhou": {
+      "note": "当前链接为2025指南；要求完整研究项目和论文提交经历",
+      "sourceIds": [
+        "s2",
+        "s3"
+      ]
+    },
+    "yu-gu": {
+      "note": "当前可读访客入口标注2021；2027接收须重新确认",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "sihong-he": {
+      "note": "当前可读邀请页面标注2024；全部近期机器人实验为仿真",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "homanga-bharadhwaj": {
+      "note": "非JHU短期访客入口；表单故障，当前替代联络办法见详情",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "huaxiu-yao": {
+      "note": "全年访客/intern邀请；链接表单读取受限，资格字段未核",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "nick-cheney": {
+      "note": "访客单独申请类别；2025–26暂停记录已注明Fall2026恢复；资金类别未定",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "preeya-khanna": {
+      "note": "明确硕士/访客询问；真机仅2017–2021历史线索",
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    "mingmin-zhao": {
+      "note": "访客/暑期intern入口；机器人采集数据，不等于在线学习部署",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "kuan-fang": {
+      "note": "非Cornell访客入口；表单未读全，研究生主办类别另定",
+      "sourceIds": [
+        "s3",
+        "s7"
+      ]
+    },
+    "chengzhi-mao": {
+      "note": "一般intern询问；外校硕士适用性与短访条件未明确",
+      "sourceIds": [
+        "s2",
+        "s4"
+      ],
+      "category": "generic-intern-eligibility-unconfirmed"
+    },
+    "geng-yuan": {
+      "note": "一般intern询问；外校硕士适用性与短访条件未明确",
+      "sourceIds": [
+        "s2"
+      ],
+      "category": "generic-intern-eligibility-unconfirmed"
+    },
+    "andrew-ilyas": {
+      "note": "一般intern询问；外校硕士适用性与短访条件未明确",
+      "sourceIds": [
+        "s1"
+      ],
+      "category": "generic-intern-eligibility-unconfirmed"
+    },
+    "ruohan-zhang": {
+      "note": "一般intern询问；外校硕士适用性与短访条件未明确",
+      "sourceIds": [
+        "s2"
+      ],
+      "category": "generic-intern-eligibility-unconfirmed"
+    },
+    "yuzhang-shang": {
+      "note": "公开问询入口；详细资格与期限未定",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    "shan-zuo": {
+      "note": "inquiry-only · 外部访问意向；八周与2027名额未定",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "vivek-thangavelu": {
+      "note": "inquiry-only · 外部访问意向；八周与2027名额未定",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "tom-silver": {
+      "note": "公开问询入口；详细资格与期限未定",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "dhruv-shah": {
+      "note": "公开问询入口；详细资格与期限未定",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "yue-wang": {
+      "note": "公开问询入口；详细资格与期限未定",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "alexandra-ion": {
+      "note": "公开问询入口；详细资格与期限未定",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "selma-sabanovic": {
+      "note": "公开问询入口；详细资格与期限未定",
+      "sourceIds": [
+        "s2",
+        "s3"
+      ]
+    },
+    "maja-mataric": {
+      "note": "公开问询入口；详细资格与期限未定",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "xusheng-luo": {
+      "note": "公开问询入口；详细资格与期限未定",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "yayun-du": {
+      "note": "inquiry-only · 当前真机资源未确认",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "jorge-i-poveda": {
+      "note": "inquiry-only · generic visiting scholar；八周与2027名额未定",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ]
+    },
+    "yu-she": {
+      "note": "公开问询入口；详细资格与期限未定",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "somil-bansal": {
+      "note": "公开问询入口；详细资格与期限未定",
+      "sourceIds": [
+        "s3",
+        "s4"
+      ]
+    },
+    "negar-mehr": {
+      "note": "公开问询入口；详细资格与期限未定",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "mac-schwager": {
+      "note": "公开问询入口；详细资格与期限未定",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "wanxin-jin": {
+      "note": "公开问询入口；详细资格与期限未定",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "ye-zhao": {
+      "note": "公开问询入口；详细资格与期限未定",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    "jiachen-li": {
+      "note": "公开问询入口；详细资格与期限未定",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "yifan-zhu": {
+      "note": "公开问询入口；详细资格与期限未定",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "shan-lin": {
+      "note": "公开问询入口；详细资格与期限未定",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "fei-liu": {
+      "note": "公开问询入口；详细资格与期限未定",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "byung-cheol-min": {
+      "note": "公开问询入口；详细资格与期限未定",
+      "sourceIds": [
+        "s3",
+        "s4"
+      ]
+    },
+    "yongxin-chen": {
+      "note": "公开问询入口；详细资格与期限未定",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "sijia-liu": {
+      "note": "公开问询入口；详细资格与期限未定",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "huan-zhang": {
+      "note": "公开问询入口；详细资格与期限未定",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "yuxiong-wang": {
+      "note": "公开问询入口；详细资格与期限未定",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "zhengzhong-tu": {
+      "note": "公开问询入口；详细资格与期限未定",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "john-m-dolan": {
+      "note": "公开问询入口；详细资格与期限未定",
+      "sourceIds": [
+        "s3",
+        "s4"
+      ]
+    },
+    "masayoshi-tomizuka": {
+      "note": "公开问询入口；详细资格与期限未定",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "na-du": {
+      "note": "公开问询入口；详细资格与期限未定",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "mark-w-mueller": {
+      "note": "公开问询入口；详细资格与期限未定",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "jiefeng-sun": {
+      "note": "公开问询入口；详细资格与期限未定",
+      "sourceIds": [
+        "s2",
+        "s3"
+      ]
+    },
+    "changliu-liu": {
+      "note": "公开问询入口；详细资格与期限未定",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "neel-p-bhatt": {
+      "note": "公开问询入口；详细资格与期限未定",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "jingjin-yu": {
+      "note": "inquiry-only · 自费资格需Rutgers确认",
+      "sourceIds": [
+        "s2",
+        "s6"
+      ]
+    },
+    "feng-han": {
+      "note": "inquiry-only · 海外研究访问类别未确认",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "myounghoon-jeon": {
+      "note": "公开问询入口；详细资格与期限未定",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "dan-ding": {
+      "note": "公开问询入口；详细资格与期限未定",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    "pooyan-fazli": {
+      "note": "公开问询入口；详细资格与期限未定",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "junyi-geng": {
+      "note": "公开问询入口；详细资格与期限未定",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "zezhou-cheng": {
+      "note": "公开问询入口；详细资格与期限未定",
+      "sourceIds": [
+        "s2",
+        "s3"
+      ]
+    },
+    "lifeng-zhou": {
+      "note": "公开问询入口；详细资格与期限未定",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "reza-azadeh": {
+      "note": "inquiry-only · 自费资格待分类确认",
+      "sourceIds": [
+        "s3"
+      ]
+    }
+  }
+}

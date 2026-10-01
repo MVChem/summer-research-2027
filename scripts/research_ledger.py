@@ -274,6 +274,58 @@ def render_batch(batch, rows):
     return "\n".join(lines) + "\n"
 
 
+def inquiry_rows(data):
+    """Select evidence-bearing inquiries; never promote precedent-only rows."""
+    rows = [r for r in data["candidates"] if r["scores"]["shortVisit"] > 0 or r["shortVisit"]["status"].startswith("remote-only-inquiry") or r.get("remoteInquiryEvidence")]
+    return sorted(rows, key=lambda r: (-r["scores"]["fit"], -r["scores"]["physical"], -r["scores"]["shortVisit"], -r["scores"]["freshness"], r["discoveredAt"], r["name"]))
+
+
+def validate_inquiry_notes(notes, data):
+    by_id = {r["id"]: r for r in inquiry_rows(data)}
+    assert notes["schemaVersion"] == 1
+    for identity, note in notes["notes"].items():
+        assert identity in by_id, "Inquiry note must refer to a current inquiry row"
+        assert isinstance(note["note"], str) and note["note"].strip()
+        assert note["sourceIds"] and set(note["sourceIds"]) <= {s["id"] for s in by_id[identity]["sources"]}, "Inquiry note references unknown sources"
+        assert note.get("category") in {None, "generic-intern-eligibility-unconfirmed"}
+
+
+def render_inquiries(data, notes):
+    rows = inquiry_rows(data)
+    groups = {"onsite": [], "generic": [], "remote": []}
+    for row in rows:
+        if row["shortVisit"]["status"].startswith("remote-only-inquiry"):
+            category = "remote"
+        elif notes["notes"].get(row["id"], {}).get("category"):
+            category = "generic"
+        else:
+            category = "onsite"
+        groups[category].append(row)
+    lines = ["# 明确访问问询入口 · 实用筛选", "", "[全部候选与总分排序](ranked_candidates.md) · [原始索引](mentor_candidates.json) · [机构规则](eligibility_notes.md)", "", f"从现有记录筛出 **{len(rows)} 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。", "", "本页按研究匹配分优先，其次真机、短访、新鲜度及发现时间；不把一般询问、学校制度或个人自费能力当成已获资格。所有人的主办类别、八周安排、2027容量、经费和设备访问都需确认。具体奖学金要求、无资助、时间不匹配、任职时点及证据限制优先看下列加粗提示，再读完整资料。", ""]
+    titles = {"onsite": "访问/短期研究问询线索（现场安排仍须确认）", "generic": "一般 intern 入口（外校硕士适用性未明确）", "remote": "仅远程入口（现场短访分为0）"}
+    for category in ("onsite", "generic", "remote"):
+        lines += [f"## {titles[category]} · {len(groups[category])} 条", "", "| 导师 / 机构 | 匹配 / 真机 / 短访 | 已知限制与证据状态 | 直接来源 / 机构规则 | 记录核查 UTC |", "|---|---|---|---|---|"]
+        for row in groups[category]:
+            note = notes["notes"].get(row["id"], {})
+            status = note.get("note", row["shortVisit"]["status"])
+            if status == "inquiry-only":
+                status = "公开问询入口；详细资格与期限未定"
+            evidence = physical_evidence_label(row)
+            if evidence:
+                status += "；" + evidence
+            source_ids = note.get("sourceIds", row["shortVisit"]["sourceIds"])
+            sources = {s["id"]: s for s in row["sources"]}
+            links = " ".join(f"[{sid}]({sources[sid]['url']})" for sid in source_ids)
+            anchors = sorted(set(re.findall(r"\]\(\.\./eligibility_notes\.md#([a-z0-9-]+)\)", json.dumps(row, ensure_ascii=False))))
+            links += " " + " ".join(f"[规则](eligibility_notes.md#{a})" for a in anchors)
+            detail = f"batches/{row['batch']}.md#{row['id']}"
+            scores = "/".join(str(row["scores"][k]) for k in ("fit", "physical", "shortVisit"))
+            lines.append(f"| [{cell(row['name'])}]({detail}) · {cell(row['school'])} | {scores} | **{cell(status)}** | {links.strip()} | {row['verifiedAt']} |")
+        lines.append("")
+    lines += ["本页只重组已经发布的证据，不新增核查时间，也不改变首次发现时间或分数。仅历史访客、本校学位岗位、一般机构资格且无导师询问入口的记录不会自动列入。精确来源核查时间、读取限制和首次时间请查看逐人详情；机构政策可能采用较早的独立核查。", ""]
+    return "\n".join(lines)
+
+
 def load_shards(index):
     files = sorted((ROOT / "data/research/batches").glob("*.json"))
     assert files, "No detailed batch records"
@@ -315,6 +367,11 @@ def main():
     adjacent_path = LEDGER.parent / "adjacent_leads.json"
     if adjacent_path.exists():
         validate_adjacent(json.loads(adjacent_path.read_text()), data)
+    inquiry_notes_path = LEDGER.parent / "visitor_inquiry_notes.json"
+    if inquiry_notes_path.exists():
+        inquiry_notes = json.loads(inquiry_notes_path.read_text())
+        validate_inquiry_notes(inquiry_notes, data)
+        outputs[LEDGER.parent / "visitor_inquiries.md"] = render_inquiries(data, inquiry_notes)
     for path, expected in outputs.items():
         if args.write:
             path.write_text(expected)

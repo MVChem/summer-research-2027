@@ -55,6 +55,41 @@ class ResearchLedgerTests(unittest.TestCase):
         with self.assertRaises(AssertionError):
             ledger.validate(data)
 
+    def test_inquiry_view_excludes_unknown_and_precedent_only(self):
+        data = copy.deepcopy(self.full)
+        row = data["candidates"][0]
+        row["scores"]["shortVisit"] = 0
+        row["shortVisit"]["status"] = "precedent-only"
+        row.pop("remoteInquiryEvidence", None)
+        self.assertNotIn(row["id"], {r["id"] for r in ledger.inquiry_rows(data)})
+
+    def test_inquiry_view_keeps_remote_separate(self):
+        data = copy.deepcopy(self.full)
+        row = data["candidates"][0]
+        row["scores"]["shortVisit"] = 0
+        row["shortVisit"]["status"] = "remote-only-inquiry"
+        rendered = ledger.render_inquiries(data, {"schemaVersion": 1, "notes": {}})
+        remote_section = rendered.split("## 仅远程入口", 1)[1]
+        self.assertIn(row["name"], remote_section)
+        self.assertNotIn(row["name"], rendered.split("## 仅远程入口", 1)[0])
+
+    def test_inquiry_view_orders_fit_first(self):
+        rows = ledger.inquiry_rows(self.full)
+        self.assertEqual([r["scores"]["fit"] for r in rows], sorted((r["scores"]["fit"] for r in rows), reverse=True))
+
+    def test_inquiry_annotations_require_source_references(self):
+        row = ledger.inquiry_rows(self.full)[0]
+        notes = {"schemaVersion": 1, "notes": {row["id"]: {"note": "A limitation", "sourceIds": ["missing"]}}}
+        with self.assertRaises(AssertionError):
+            ledger.validate_inquiry_notes(notes, self.full)
+
+    def test_inquiry_view_keeps_record_dates_and_scores(self):
+        original = copy.deepcopy(self.full)
+        notes = json.loads((ledger.LEDGER.parent / "visitor_inquiry_notes.json").read_text())
+        ledger.validate_inquiry_notes(notes, self.full)
+        self.assertIn("一般 intern 入口", ledger.render_inquiries(self.full, notes))
+        self.assertEqual(original, self.full)
+
     def test_duplicate_identity_rejected(self):
         data = copy.deepcopy(self.full)
         duplicate = copy.deepcopy(data["candidates"][0])

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "yuzhang-shang",
+    "name": "Yuzhang Shang",
+    "aliases": [],
+    "school": "University of Central Florida",
+    "homepage": "https://42shawn.github.io/",
+    "title": "Assistant Professor",
+    "department": "Computer Science; Artificial Intelligence Initiative affiliation",
+    "batch": "embodied-017",
+    "discoveredAt": "2026-09-30T23:19:24Z",
+    "verifiedAt": "2026-09-30T23:29:02Z",
+    "researchAreas": [
+      "Efficient vision-language-action policies",
+      "Asynchronous robot execution",
+      "Efficient multimodal models",
+      "AI algorithm and hardware co-design"
+    ],
+    "fitReason": "REMAC adapts action-chunking policies for real-time asynchronous execution. It connects Shang’s efficient multimodal-model research to physical grasp-and-place, with a concrete policy-inference and deployment-systems angle.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "REMAC’s January 2026 full primary paper names Shang with a UCF affiliation and evaluates a seven-DoF Franka Research 3 with a pi0-based VLA on three real grasp/place tasks, 30 trials per method/task. The score measures stage-based progress rather than binary full-task success. Gripper tactile sensors are disabled in this setup; no tactile-policy result is implied.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "His directly retrieved EXceL page expressly invites visiting scholars/students and master’s/undergraduate researchers. It requests recruitment inquiries only at yuzhang.hire@gmail.com. The invitation has no published summer 2027 dates or external-master’s short-visit terms.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 20,
+      "shortVisit": 7,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong efficient VLA deployment project, though the overall lab is broader efficient AI.",
+      "physical": "REMAC real Franka trials are verified in a UIC/Cisco/UCF collaboration; current UCF-local setup and visitor access are unconfirmed.",
+      "shortVisit": "Direct current visitor/master’s invitation; duration, external eligibility and summer capacity unspecified.",
+      "freshness": "2026 physical paper and Fall 2026 lab activity with current university directory."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.ucf.edu / source 1",
+        "url": "https://www.ucf.edu/expert/yuzhang-shang/",
+        "summary": "Official current CS assistant professor and Artificial Intelligence Initiative affiliation.",
+        "verifiedAt": "2026-09-30T23:29:02Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "www.cs.ucf.edu / source 2",
+        "url": "https://www.cs.ucf.edu/faculty-directory/",
+        "summary": "Official current faculty listing publishes institutional email.",
+        "verifiedAt": "2026-09-30T23:29:02Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "42shawn.github.io / source 3",
+        "url": "https://42shawn.github.io/",
+        "summary": "Current primary homepage, research focus and linked lab.",
+        "verifiedAt": "2026-09-30T23:29:02Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "42shawn.github.io / source 4",
+        "url": "https://42shawn.github.io/EXceL-Lab@UCF/",
+        "summary": "Direct primary current lab page invites visitors and master’s researchers, specifies recruiting email only, and lists Fall 2026 members.",
+        "verifiedAt": "2026-09-30T23:29:02Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2601.20130v1",
+        "summary": "Primary REMAC paper author affiliation UCF; Section 5.2 explicitly reports real Franka/pi0 setup, task protocol and stage-based metric.",
+        "verifiedAt": "2026-09-30T23:29:02Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "hatchetproject.github.io / source 6",
+        "url": "https://hatchetproject.github.io/remac-async/",
+        "summary": "Primary ICLR 2026 project corroborates real-world rollouts and authorship.",
+        "verifiedAt": "2026-09-30T23:29:02Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "The REMAC hardware is a UIC/Cisco/UCF collaboration; access to a corresponding UCF-local robot and day-to-day supervision remain unverified. Existing UCF master’s researchers are not proof of external-master’s visitor eligibility. The newer lab root linked by his homepage returned a retrieval error; the explicit invitation was read successfully on his own EXceL-Lab@UCF page with Fall 2026 members. Honor the published recruiting-contact preference if any inquiry is later authorized.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Designated public recruiting address: yuzhang.hire@gmail.com. No message has been sent."
+    ],
+    "publicEmail": "yuzhang.shang@ucf.edu",
+    "publicRecruitingEmail": "yuzhang.hire@gmail.com"
+  },
+  {
+    "id": "huaxiu-yao",
+    "name": "Huaxiu Yao",
+    "aliases": [],
+    "school": "University of North Carolina at Chapel Hill",
+    "homepage": "https://www.huaxiuyao.io/",
+    "title": "Assistant Professor",
+    "department": "Computer Science; joint appointment in Data Science and Society",
+    "batch": "embodied-017",
+    "discoveredAt": "2026-09-30T23:18:57Z",
+    "verifiedAt": "2026-09-30T23:29:02Z",
+    "researchAreas": [
+      "Vision-language-action policy alignment",
+      "Robot policy generalization",
+      "Adaptive foundation-model agents",
+      "Preference learning"
+    ],
+    "fitReason": "GRAPE aligns generalist robot policies with preference-informed trajectories; it offers a specific manipulation-policy project within a broader adaptive-agent laboratory.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "GRAPE’s full primary paper reports a Franka arm with a Robotiq gripper on 30 physical tasks, ten attempts per task (300 executions), including pick/place, button presses and knocking. Additional generalization evaluations are separate from Simpler-Env/LIBERO simulation.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "A directly retrieved current AIMING page explicitly invites interns/visiting students throughout the year, directing applicants to a form and a CV email. This is a general inquiry route rather than a confirmed summer 2027 appointment.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 36,
+      "physical": 20,
+      "shortVisit": 8,
+      "freshness": 14
+    },
+    "scoreReasons": {
+      "fit": "Concrete VLA preference alignment and generalization within a broader AI-agent program.",
+      "physical": "GRAPE real Franka validation is from a February 2025 multi-institution paper; current UNC-local equipment is unconfirmed.",
+      "shortVisit": "Explicit current all-year interns/visiting-students pathway, but no duration or external-master’s eligibility terms.",
+      "freshness": "Current 2026 lab activity and conference listing; directly checked physical experiment dates to February 2025."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "catalog.unc.edu / source 1",
+        "url": "https://catalog.unc.edu/undergraduate/departments/computer-science/",
+        "summary": "Official current catalog lists Yao among assistant professors.",
+        "verifiedAt": "2026-09-30T23:29:02Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "www.huaxiuyao.io / source 2",
+        "url": "https://www.huaxiuyao.io/",
+        "summary": "Current primary affiliation, academic contact and ICRA 2026 GRAPE listing.",
+        "verifiedAt": "2026-09-30T23:29:02Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "www.huaxiuyao.io / source 3",
+        "url": "https://www.huaxiuyao.io/aiming-lab",
+        "summary": "Direct current year-round intern/visiting-student invitation, form and recruiting email; joint appointment and current lab.",
+        "verifiedAt": "2026-09-30T23:29:02Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2411.19309v2",
+        "summary": "Direct primary GRAPE paper, revised February 4, 2025; Section 3.3 and Appendix C.1 identify real Franka/Robotiq experiments, separate from simulation.",
+        "verifiedAt": "2026-09-30T23:29:02Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "grape-vla.github.io / source 5",
+        "url": "https://grape-vla.github.io/",
+        "summary": "Primary project corroborates authorship and physical rollouts.",
+        "verifiedAt": "2026-09-30T23:29:02Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "External master’s eligibility, eight-week duration, remote participation, payment, permitted personal funding and UNC-local robot access remain unknown. The linked form returned HTTP 401 and was not accessed or submitted; its eligibility fields remain unverified. The separate Fall 2027 degree-recruitment section is not counted as visitor eligibility. GRAPE’s physical evidence is in a February 2025 revision, although the current homepage lists ICRA 2026; collaboration does not establish every robot is housed at UNC.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Designated public recruiting address: huaxiu.recruiting@gmail.com. No message has been sent."
+    ],
+    "publicEmail": "huaxiu@cs.unc.edu",
+    "publicRecruitingEmail": "huaxiu.recruiting@gmail.com"
+  }
+]

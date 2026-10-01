@@ -42,6 +42,7 @@
     "batches/embodied-014.json",
     "batches/embodied-015.json",
     "batches/embodied-016.json",
+    "batches/embodied-017.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -4097,6 +4098,58 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-016.json",
       "detailPage": "batches/embodied-016.md#luyang-zhao"
+    },
+    {
+      "id": "yuzhang-shang",
+      "name": "Yuzhang Shang",
+      "aliases": [],
+      "school": "University of Central Florida",
+      "title": "Assistant Professor",
+      "homepage": "https://42shawn.github.io/",
+      "batch": "embodied-017",
+      "discoveredAt": "2026-09-30T23:19:24Z",
+      "verifiedAt": "2026-09-30T23:29:02Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 7,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Efficient vision-language-action policies",
+        "Asynchronous robot execution",
+        "Efficient multimodal models",
+        "AI algorithm and hardware co-design"
+      ],
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/embodied-017.json",
+      "detailPage": "batches/embodied-017.md#yuzhang-shang"
+    },
+    {
+      "id": "huaxiu-yao",
+      "name": "Huaxiu Yao",
+      "aliases": [],
+      "school": "University of North Carolina at Chapel Hill",
+      "title": "Assistant Professor",
+      "homepage": "https://www.huaxiuyao.io/",
+      "batch": "embodied-017",
+      "discoveredAt": "2026-09-30T23:18:57Z",
+      "verifiedAt": "2026-09-30T23:29:02Z",
+      "scores": {
+        "fit": 36,
+        "physical": 20,
+        "shortVisit": 8,
+        "freshness": 14
+      },
+      "researchAreas": [
+        "Vision-language-action policy alignment",
+        "Robot policy generalization",
+        "Adaptive foundation-model agents",
+        "Preference learning"
+      ],
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/embodied-017.json",
+      "detailPage": "batches/embodied-017.md#huaxiu-yao"
     },
     {
       "id": "henny-admoni",

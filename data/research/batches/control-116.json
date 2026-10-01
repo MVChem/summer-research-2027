@@ -1,0 +1,249 @@
+[
+  {
+    "id": "mingi-jeong",
+    "name": "Mingi Jeong",
+    "aliases": [],
+    "school": "Virginia Tech",
+    "homepage": "https://mingijeong.github.io/",
+    "title": "Assistant Professor",
+    "department": "Aerospace and Ocean Engineering; courtesy Computer Science",
+    "batch": "control-116",
+    "discoveredAt": "2026-10-01T13:20:39Z",
+    "verifiedAt": "2026-10-01T13:27:21Z",
+    "researchAreas": [
+      "Learning-augmented marine autonomy",
+      "Safe navigation and intention inference",
+      "Multimodal perception",
+      "Autonomous surface vehicles"
+    ],
+    "fitReason": "Recent Assistant Professor with substantive learned intention inference driving a real marine robot during his Dartmouth PhD. New-host hardware and external visitor availability remain unverified.",
+    "physicalEvidence": {
+      "status": "Prior Dartmouth physical ASV with virtual obstacle traffic; physical 20",
+      "summary": "A November 2024 study connects an LSTM passing-intention classifier to optimization-based navigation on the real Catabot ASV in Barbados. The boat encounters virtual surrounding traffic for safety, rather than actual autonomous vessels. Reported location B results cover three loops and four virtual obstacles under real wind. Inference is part of the action selection; the paper does not establish a new Virginia Tech platform. RENEW (January 2026) uses ocean-current data and simulation, not new robot execution.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Official VT professional history gives December 2025 tenure-track start, resolving the later spring-2026 welcome announcement. The live author homepage advertises PhD openings, but no external-master visitor invitation or refusal was found.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 36,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 13
+    },
+    "scoreReasons": {
+      "fit": "Learning-based inference directly changes autonomous marine navigation.",
+      "physical": "Prior-host actual boat execution, with simulated obstacle traffic and no current VT apparatus claim.",
+      "shortVisit": "Only degree recruiting; external intake unknown.",
+      "freshness": "Dated 2026 planning work and current role; learned physical experiment dates to 2024."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.aoe.vt.edu / source 1",
+        "url": "https://www.aoe.vt.edu/people/faculty/mingi-jeong.html",
+        "summary": "Official current role, email and December 2025 tenure-track start.",
+        "verifiedAt": "2026-10-01T13:27:21Z",
+        "retrieval": "Direct primary source via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "mingijeong.github.io / source 2",
+        "url": "https://mingijeong.github.io/",
+        "summary": "Current author homepage and degree recruiting; no explicit external visitor offer.",
+        "verifiedAt": "2026-10-01T13:27:21Z",
+        "retrieval": "Direct primary source via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2411.01011v1",
+        "summary": "Full November 2024 paper, especially III-B and IV-C: LSTM-driven real Catabot maneuvers in Barbados; surrounding traffic is virtual for safety.",
+        "verifiedAt": "2026-10-01T13:27:21Z",
+        "retrieval": "Direct primary source via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2601.16424v1",
+        "summary": "Full January 2026 RENEW: global planning over simulated and recorded ocean-current environments; not a new physical deployment.",
+        "verifiedAt": "2026-10-01T13:27:21Z",
+        "retrieval": "Direct primary source via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "guarinigrad.dartmouth.edu / source 5",
+        "url": "https://guarinigrad.dartmouth.edu/blog/2025/06/23/student-spotlight-mingi-jeong/",
+        "summary": "Official June 2025 interview verifies Jeong was advised by Quattrini Li and planned to start a VT tenure-track position that year.",
+        "verifiedAt": "2026-10-01T13:27:21Z",
+        "retrieval": "Direct primary source via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "www.aoe.vt.edu / source 6",
+        "url": "https://www.aoe.vt.edu/about-us/news/articles/2026/new-faculty-spring-2026.html",
+        "summary": "Official cohort announcement where individual name was first retained.",
+        "verifiedAt": "2026-10-01T13:27:21Z",
+        "retrieval": "Direct primary source via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "mingijeong.github.io / source 7",
+        "url": "https://mingijeong.github.io/assets/pdf/Mingi_Jeong_CV.pdf",
+        "summary": "Author CV corroborates December 2025 appointment and prior Dartmouth project leadership.",
+        "verifiedAt": "2026-10-01T13:27:21Z",
+        "retrieval": "Direct primary source via web.run"
+      }
+    ],
+    "unknowns": [
+      "Previously reviewed Virginia Tech Student Intern conditions: foreign graduate degree students may qualify for a 3-week to 1-year placement, at least 32 hours/week; personal funding can be documented. Department sponsorship and roughly two-month administrative lead time still apply. This is institutional feasibility, not a lab offer or funded summer position.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional review](../eligibility_notes.md#virginia-tech-student-intern); the separately dated policy observations are not a lab offer or a new source reread."
+    ],
+    "publicEmail": "mingijeong@vt.edu",
+    "discoveryTimestampNote": "Earliest precisely retained individual primary-source observation or dedicated screen; no earlier incidental encounter time was reconstructed.",
+    "appointmentStart": {
+      "year": 2025,
+      "month": 12,
+      "precision": "month",
+      "status": "current",
+      "sourceIds": [
+        "s1"
+      ],
+      "evidence": "Official professional history lists tenure-track Assistant Professor, 12/2025–Present.",
+      "appointmentType": "unresolved"
+    }
+  },
+  {
+    "id": "alberto-quattrini-li",
+    "name": "Alberto Quattrini Li",
+    "aliases": [
+      "Alberto Quattrini-Li"
+    ],
+    "school": "Dartmouth College",
+    "homepage": "https://www.cs.dartmouth.edu/~rlab/albertoq/",
+    "title": "Associate Professor",
+    "department": "Computer Science; Reality and Robotics Lab",
+    "batch": "control-116",
+    "discoveredAt": "2026-10-01T00:27:36Z",
+    "verifiedAt": "2026-10-01T13:27:21Z",
+    "researchAreas": [
+      "Field robotics",
+      "Learning-augmented marine autonomy",
+      "Multi-robot exploration",
+      "Environmental monitoring"
+    ],
+    "fitReason": "Current robotics faculty and independently verified advisor of an actual LSTM-ASV project. Older field hardware and unknown visitor intake are explicitly retained.",
+    "physicalEvidence": {
+      "status": "Actual 2024 advised marine-robot field work; virtual obstacle traffic; physical 20",
+      "summary": "A November 2024 study connects an LSTM passing-intention classifier to optimization-based navigation on the real Catabot ASV in Barbados. The boat encounters virtual surrounding traffic for safety, rather than actual autonomous vessels. Reported location B results cover three loops and four virtual obstacles under real wind. Inference is part of the action selection; the advisor-project relationship is independently verified, but the trials took place at a Barbados field site. RENEW (January 2026) uses ocean-current data and simulation, not new robot execution.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current official directory verifies Associate Professor. Lab homepage has a general motivated-student inquiry, but no explicit external-master visitor or summer invitation. The personal roster is labeled as students/collaborators across years and still lists graduated Jeong, so it is not treated as a precise current-member roster.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 36,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 13
+    },
+    "scoreReasons": {
+      "fit": "Substantive learning-based intention inference in an autonomous marine application.",
+      "physical": "Verified adviser of actual 2024 Catabot field study; conservative older evidence cap with virtual surrounding traffic.",
+      "shortVisit": "Generic student inquiry is not an explicit outside-master visit route.",
+      "freshness": "Dated 2026 planning work; no new learned physical deployment inferred from ocean data."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "web.cs.dartmouth.edu / source 1",
+        "url": "https://web.cs.dartmouth.edu/people/alberto-quattrini-li",
+        "summary": "Official current Associate Professor, university email, autonomous field robotics.",
+        "verifiedAt": "2026-10-01T13:27:21Z",
+        "retrieval": "Direct primary source via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "www.cs.dartmouth.edu / source 2",
+        "url": "https://www.cs.dartmouth.edu/~rlab/albertoq/",
+        "summary": "Faculty research and across-years student/advising roster, updated July 2026.",
+        "verifiedAt": "2026-10-01T13:27:21Z",
+        "retrieval": "Direct primary source via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2411.01011v1",
+        "summary": "Full November 2024 paper, especially III-B and IV-C: LSTM-driven real Catabot maneuvers in Barbados; surrounding traffic is virtual for safety.",
+        "verifiedAt": "2026-10-01T13:27:21Z",
+        "retrieval": "Direct primary source via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2601.16424v1",
+        "summary": "Full January 2026 RENEW: global planning over simulated and recorded ocean-current environments; not a new physical deployment.",
+        "verifiedAt": "2026-10-01T13:27:21Z",
+        "retrieval": "Direct primary source via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "guarinigrad.dartmouth.edu / source 5",
+        "url": "https://guarinigrad.dartmouth.edu/blog/2025/06/23/student-spotlight-mingi-jeong/",
+        "summary": "Official June 2025 interview verifies Jeong was advised by Quattrini Li and planned to start a VT tenure-track position that year.",
+        "verifiedAt": "2026-10-01T13:27:21Z",
+        "retrieval": "Direct primary source via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "rlab.cs.dartmouth.edu / source 6",
+        "url": "https://rlab.cs.dartmouth.edu/",
+        "summary": "Primary indexed lab text offers generic motivated-student inquiry; direct parser returned no text. No visitor-specific invitation inferred.",
+        "verifiedAt": "2026-10-01T13:27:21Z",
+        "retrieval": "Indexed primary source; direct response empty"
+      }
+    ],
+    "unknowns": [
+      "Dartmouth Student Intern conditions: foreign degree enrollment and educational relevance required; unpaid/self-funded placements may be sponsored, with $4,000/month support from October 1, 2026. No verified minimum duration. Department and OVIS approval and actual PI capacity remain unresolved.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional review](../eligibility_notes.md#dartmouth-student-intern); the separately dated policy observations are not a lab offer or a new source reread."
+    ],
+    "publicEmail": "Alberto.Quattrini.Li@dartmouth.edu",
+    "discoveryTimestampNote": "Earliest precisely retained individual primary-source observation or dedicated screen; no earlier incidental encounter time was reconstructed."
+  }
+]

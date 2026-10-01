@@ -1162,3 +1162,38 @@ Part II第5页允许全额个人资金，但要求境外大学/研究机构关�
 
 [Scholar 类别](https://campus.kennesaw.edu/current-students/academics/global-education/international-student-scholar-services/j-1/basics.php)另要求已获硕士或本科学位加充分相关经验，由ISSS确定类别；在读硕士不应自动视为符合此替代类别。
 
+
+<a id="dartmouth-student-intern"></a>
+
+## Dartmouth · 外校在读 Student Intern 与自费条件
+
+核查：2026-10-01T13:05:24Z。当前 [OVIS Student Intern 资格](https://ovis-intl.dartmouth.edu/immigration/j-1-exchange-visitors/categories/student-interns/eligibility) 面向美国境外获认可高校的学位在读者，未限本科；访问需服务原学位的教育目标，结束后返校继续完成学位。可以有薪或无薪，允许个人或外部资金；最长12个月。已读页面未给最低时长，不能据此保证任意八周项目获批。
+
+[财力页面](https://ovis-intl.dartmouth.edu/immigration/j-1-exchange-visitors/eligibility/funding) 对2026年10月1日及以后开始的任命，最低生活支持证明提高为**每月4,000美元**，不含交通与保险；页面同时保留此前3,750美元旧数值。个人/家庭银行材料可用，家庭资助另需关系及可供访问使用的书面说明，材料须英文。两整月8,000美元仅为算术示例，不是八周折算或学校收费。2027金额仍应重核。
+
+[办理流程](https://ovis-intl.dartmouth.edu/immigration/j-1-exchange-visitors/categories/student-interns/sponsorship-process) 由接收院系/项目启动iDartmouth，OVIS依据导师和学生材料签发DS-2019与DS-7002；六个月以内需期末评估。完整办理周期、校内访问收费、具体硕士项目的学术任命及保险费用未核实，应向接收院系/OVIS确认。上述是机构路径，不代表任何实验室有名额。IvyPlus交换为指定博士项目，不能作为普通外校硕士的替代入口。
+
+
+<a id="the-citadel"></a>
+## The Citadel · 外部硕士短期科研类别未核实
+
+核验：2026-10-01T14:07:04Z。现有[国际学生服务](https://www.citadel.edu/cisp/international-student-services/)与[研究生国际招生](https://www.citadel.edu/graduatecollege/prospective-students/international-students/)主要说明在校生/F-1，不构成外部硕士研究访问通道。[现行链接的移民聘用政策](https://www.citadel.edu/bov/wp-content/uploads/sites/143/2025/06/Immigration-Sponsorship-Policy-May-1-2024.pdf)虽提 visiting scholars，但主体是聘用移民流程，不可套用为访研类别、费用或时长规则。[Fulbright 访问学者记录](https://www.citadel.edu/shss/visiting-fulbright-scholars/)是特定人文社科教师项目，也不能外推为硕士机器人实习资格。外部硕士的研究-only身份、学校能否赞助、个人自费、最低资金、费用、保险、办理周期与实验室准入均待院系及国际/人事办公室确认。未找到规则不等于学校明确拒绝。
+
+
+<a id="olin"></a>
+
+## Olin College · 外校硕士研究访问类别尚未核实
+
+核查：2026-10-01T13:52:03Z。[研究说明](https://www.olin.edu/research-olin)及[学生研究指导](https://www.olin.edu/research-olin/research-info-students)针对本科/Olin在读生；有薪暑研、学期内志愿或学分研究都不能直接套作外校硕士访问。[暑期教育活动](https://olin.edu/research-olin/summer-research-educational-program)是已参加暑研者的讲座和海报活动，不是访问任命入口。
+
+[国际学生页面](https://olin.edu/student-life/international-students)的正式交换要求NUS、Global E3或INSPER等合作校提名，明确不能接纳非合作校的短期学习请求。这条限制属于学期学习/交换，不能扩大为所有研究访问禁令。外校在读硕士研究任命、暑期适用类别、签证支持、个人资金、保险与费用均未公开确认；需导师和学校负责单位先确认正式路径。无2027名额或八周接收承诺。
+
+
+<a id="virginia-commonwealth"></a>
+
+## Virginia Commonwealth University · 外校学生可询 Intern / Scholar，旧金额需重核
+
+核查2026-10-01T14:20:32Z。[GEO类别页](https://global.vcu.edu/students/immigration/exchange-visitor/) 的 Intern 面向国外高校在读生或毕业未满12个月者，需导师训练邀请、每周至少32小时及工伤保险资格，列3周至12个月。另有相关本科学位与正式任命条件的 Short-Term Scholar，列21天至6个月；实际分类由GEO确定。院系建议提前2–6个月启动，可提供个人/家庭资金证明，但月最低额$2,100明确标注2024，不能当作2027预算。Scholar的$300处理费由院系支付，Intern列无GEO处理费，均非总费用。
+
+[主办流程](https://global.vcu.edu/outreach/partnerships/hosting-visiting-scholars/) 要求院系/HR邀请、移民与出口管制审查、到校前至少10天预审及访问协议；10天不等于全流程。页面有旧日期及DS-2019交付方式冲突，具体2027类别、资金、保险、费用和时长仍须重核。实验室表单的MS/远程选项不代替学校批准。
+

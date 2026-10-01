@@ -1,0 +1,158 @@
+[
+  {
+    "id": "xiwei-xuan",
+    "name": "Xiwei Xuan",
+    "aliases": [],
+    "school": "Virginia Commonwealth University",
+    "homepage": "https://xiweix.github.io/",
+    "title": "Assistant Professor",
+    "department": "Computer Science; World-Aware Vision & Learning (WAVE) Laboratory",
+    "batch": "embodied-102",
+    "discoveredAt": "2026-10-01T14:14:32Z",
+    "verifiedAt": "2026-10-01T14:21:59Z",
+    "researchAreas": [
+      "Open-vocabulary dense scene understanding",
+      "Multimodal foundation-model data curation",
+      "Reliable semantic segmentation",
+      "Human-guided model validation",
+      "World-aware visual learning"
+    ],
+    "fitReason": "Explicitly lower-physical-confidence spatial-vision research backup, not a robot-execution mentor claim. ReME uses LLaVA descriptions, CLIP segment-text pairing, DINOv2 visual features and quality-refined retrieval for open-vocabulary dense scene segmentation, including Cityscapes and indoor-scene benchmarks. The current faculty profile connects this broader vision agenda to autonomous-driving/manufacturing contexts. The new2026 lab has a specifically outside-master-compatible visitor form and current associated external MS collaboration.",
+    "physicalEvidence": {
+      "status": "unverified",
+      "summary": "Physical0. Full2025 ReME evaluates pretrained-model/retrieval segmentation on recorded image datasets, including Cityscapes, ADE20K, COCO and PASCAL variants; no robot or vehicle policy execution is established. The official bio’s real-deployment application statement is not used as proof of robot hardware, control, laboratory access or current autonomous driving trials.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "Visitor10. Complete live Research intern / visiting positions form, reached from the current homepage’s distinct Prospective Research Interns section, asks arbitrary current institution, current Masters status, program year, start date, weekly hours and expected duration with2–3,4–6,7–9,10–12 and13+month choices. Modes include in-person and/or remote, remote-only and in-person-only. This is a matching/inquiry channel with no guaranteed slot or funding. Current WAVE roster lists an associated UC Davis MS student; physical location and appointment category of that collaboration are not stated.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "scores": {
+      "fit": 32,
+      "physical": 0,
+      "shortVisit": 10,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong multimodal dense-scene perception and reliable foundation-model data methods; adjacent to embodied perception, below direct robot-policy/VLA fit.",
+      "physical": "Recorded-image benchmarks only; no physical robot or vehicle execution verified.",
+      "shortVisit": "Complete current dedicated intern/visitor form separately verifies Masters and outside institution, dates/duration and onsite/remote choices; inquiry only.",
+      "freshness": "Current2026 lab founding, official appointment and active Fall2027 recruiting; full method is2025 and no newer hardware claim."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "egr.vcu.edu / source 1",
+        "url": "https://egr.vcu.edu/directory/xiwei.xuan/",
+        "summary": "Complete current official directory in cloud browser verifies tenure-track CS AP, public email, foundation-model/vision research and autonomous-driving/manufacturing application contexts.",
+        "verifiedAt": "2026-10-01T14:21:59Z",
+        "retrieval": "complete-live-cloud-browser-page"
+      },
+      {
+        "id": "s2",
+        "label": "blogs.vcu.edu / source 2",
+        "url": "https://blogs.vcu.edu/engineering/2026/08/18/ten-new-faculty-join-vcu-college-of-engineering-for-the-2026-fall-semester/",
+        "summary": "Official Fall2026 cohort lists Xiwei Xuan in CS, arriving from UC Davis.",
+        "verifiedAt": "2026-10-01T14:18:21Z",
+        "retrieval": "complete-primary-page-or-paper"
+      },
+      {
+        "id": "s3",
+        "label": "xiweix.github.io / source 3",
+        "url": "https://xiweix.github.io/",
+        "summary": "Current AP/WAVE role, August 2026 start news and distinct prospective-intern/visitor form. Browser corroboration14:16:08Z.",
+        "verifiedAt": "2026-10-01T14:15:20Z",
+        "retrieval": "complete-primary-page-or-paper"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2506.21233v2",
+        "summary": "Complete ReME2025 paper and implementation/supplement inspected: LLaVA1.5, CLIPViT-B initial pairing, DINOv2ViT-L features, superpixel segmentation and retrieval; ten image benchmarks, not physical robot execution.",
+        "verifiedAt": "2026-10-01T14:18:21Z",
+        "retrieval": "complete-primary-page-or-paper"
+      },
+      {
+        "id": "s5",
+        "label": "docs.google.com / source 5",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfZfJ2nhf3vK-G1aEIA2VY7SsVPv1l29onUvBzf6ZrsZbd8mQ/viewform",
+        "summary": "Full single-page questionnaire explicitly includes current Masters, arbitrary institution, onsite/remote and2–3month duration choice. No funding assurance or2027 vacancy stated.",
+        "verifiedAt": "2026-10-01T14:16:44Z",
+        "retrieval": "complete-live-cloud-browser-form"
+      },
+      {
+        "id": "s6",
+        "label": "xiweix.github.io / source 6",
+        "url": "https://xiweix.github.io/lab/",
+        "summary": "Current WAVE roster includes current PhD and associated UC Davis MS student; no physical-visit location asserted.",
+        "verifiedAt": "2026-10-01T14:15:31Z",
+        "retrieval": "complete-primary-page-or-paper"
+      },
+      {
+        "id": "s7",
+        "label": "global.vcu.edu / source 7",
+        "url": "https://global.vcu.edu/students/immigration/exchange-visitor/",
+        "summary": "Full public category/financial/insurance guidance; external foreign-postsecondary Intern route and separate Short-Term Scholar route.2024 money label and old/conflicting process text retained as caveats.",
+        "verifiedAt": "2026-10-01T14:20:32Z",
+        "retrieval": "complete-primary-page-or-paper"
+      },
+      {
+        "id": "s8",
+        "label": "global.vcu.edu / source 8",
+        "url": "https://global.vcu.edu/outreach/partnerships/hosting-visiting-scholars/",
+        "summary": "Full official host workflow: faculty/department/HR invitation, immigration/export review and signed agreement; footer2023 retained.",
+        "verifiedAt": "2026-10-01T14:20:32Z",
+        "retrieval": "complete-primary-page-or-paper"
+      }
+    ],
+    "unknowns": [
+      "This is a scene-perception/foundation-model methods backup. No actual robot learning execution, current vehicle control or robot access is verified; physical0 must remain explicit.",
+      "ReME is training-free in the sense of no extra model fine-tuning; it still uses pretrained LLaVA/CLIP/DINOv2. Do not call it end-to-end robot training or a newly trained VLA.",
+      "The2–3month form choice is a supported requested-duration range, not acceptance or a hard minimum. Exact summer2027 dates and availability remain unknown.",
+      "No funding, personal self-funding approval or immigration sponsorship promise is stated in the lab questionnaire; remote mode does not remove institutional approval requirements.",
+      "The separate homepage Fall2027 PhD instruction and designated PhD email are degree intake; use the distinct public visitor form for visitor-route evidence.",
+      "The roster’s associated UC Davis MS student demonstrates collaboration, not an on-campus VCU visitor appointment.",
+      "VCU institutional evidence observed at 2026-10-01T14:20:32Z: public Intern category includes current foreign postsecondary students, faculty training invitation,32hours/week and workers-compensation eligibility, with3weeks–12months stated. Separate scholar/affiliate options require qualification and formal appointment. Department/HR/GEO/export review and visitor agreement required.",
+      "VCU’s posted$2,100/month figure is labeled2024; DS-2019 delivery text is inconsistent. Current2027 category, financial minimum, insurance, fees, process and remote compliance remain subject to GEO confirmation. No blanket personal-funding approval inferred.",
+      "Nothing was entered, selected, uploaded or submitted to the lab form.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: First precisely retained name-specific primary observation; an earlier incidental encounter may have occurred but its exact time was not retained or reconstructed.",
+      "[Institutional review](../eligibility_notes.md#virginia-commonwealth); the separately dated policy observations are not a lab offer or a new source reread."
+    ],
+    "discoveryTimestampNote": "First precisely retained name-specific primary observation; an earlier incidental encounter may have occurred but its exact time was not retained or reconstructed.",
+    "publicEmail": "xuanx@vcu.edu",
+    "appointmentStart": {
+      "year": 2026,
+      "month": 8,
+      "precision": "month",
+      "status": "current",
+      "appointmentType": "unresolved",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ],
+      "evidence": "Official Fall2026 new-faculty cohort and current tenure-track AP directory corroborate role/year; first-person August2026 news explicitly says started. Exact month rests on first-person source. First-ever faculty status is not inferred merely from preceding PhD."
+    },
+    "candidateTier": "空间视觉/数据方法备选；无机器人执行"
+  }
+]

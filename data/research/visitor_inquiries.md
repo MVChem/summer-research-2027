@@ -2,11 +2,11 @@
 
 [新AP优先视图](ap_priority.md) · [全部候选偏好排序](ranked_candidates.md) · [原名单AP后续核查](baseline_ap.md) · [原始索引](mentor_candidates.json) · [机构规则](eligibility_notes.md) · [原200位后续补充](baseline_addenda.md)
 
-从现有记录筛出 **114 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。
+从现有记录筛出 **116 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。
 
 本页各类入口内按已核实任职与限制分层：新AP优先，明确长时段偏好/最低期限靠后；同层按研究匹配、真机、短访、新鲜度及发现时间。约八周不是硬筛选；不把一般询问、学校制度或个人自费能力当成已获资格。所有人的主办类别、具体时长、2027容量、经费和设备访问都需确认。具体奖学金要求、无资助、时间不匹配、任职时点及证据限制优先看下列加粗提示，再读完整资料。
 
-## 访问/短期研究问询线索（现场安排仍须确认） · 104 条
+## 访问/短期研究问询线索（现场安排仍须确认） · 106 条
 
 | 导师 / 机构 | 匹配 / 真机 / 短访 | 已知限制与证据状态 | 直接来源 / 机构规则 | 记录核查 UTC |
 |---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Zishen Wan](batches/embodied-091.md#zishen-wan) · Columbia University | 34/0/8 | **2026到岗月份来源有冲突，仅保留年份；访客/远程询问明确，VLA计算方法仅仿真，Columbia资金需至少51%机构支持；仅仿真；真机待核实** | [s1](https://www.cs.columbia.edu/2026/zishen-wan-brings-ai-native-computing-research-to-columbia/) [s2](https://www.engineering.columbia.edu/about/news/welcoming-our-new-faculty) [s3](https://zishenwan.github.io/) [s4](https://wan-research-group.github.io/join.html) [s5](https://arxiv.org/html/2601.14140v1) [规则](eligibility_notes.md#columbia) | 2026-10-01T12:11:28Z |
 | [Sotirios D. Nousias](batches/embodied-097.md#sotirios-d-nousias) · Purdue University | 33/0/8 | **官方Fall2025 AP；独立intern/visitor询问，硕士资格/时长/资金未定；低照度3D重建是感知备选，无机器人执行；真机待核实** | [s1](https://www.cs.purdue.edu/people/faculty/snousias.html) [s2](https://www.cs.purdue.edu/news/articles/2025/17-new-faculty-members-join-purdue-cs.html) [s4](https://sotirisnousias.com/students.html) [s5](https://arxiv.org/html/2603.05330v1) [规则](eligibility_notes.md#purdue) | 2026-10-01T12:55:53Z |
 | [Ferdous Alam](batches/embodied-092.md#ferdous-alam) · Georgia Institute of Technology | 32/20/8 | **2026-01到岗；当前无已说明的访客资助，自带fellowship受欢迎，其他安排可讨论；页面显示空白但公开内容已核；旧制造试验非当前GT机器人** | [s1](https://robotics.gatech.edu/node/119) [s4](https://inferencelab.io/blog-docs/news/news_2) [s5](https://inferencelab.io/_next/static/chunks/app/blog-docs/news/news_2/page-5f65a6e74f0bc2df.js) [s6](https://par.nsf.gov/servlets/purl/10578459) [规则](eligibility_notes.md#georgia-tech-student-intern) | 2026-10-01T12:48:19Z |
+| [Xiwei Xuan](batches/embodied-102.md#xiwei-xuan) · Virginia Commonwealth University | 32/0/10 | **2026新AP；完整外校在读MS表单有2–3个月和现场/远程选择，非接收/资金承诺；数据感知备选、无机器人执行；学校旧2024金额须重核；真机待核实** | [s1](https://egr.vcu.edu/directory/xiwei.xuan/) [s3](https://xiweix.github.io/) [s4](https://arxiv.org/html/2506.21233v2) [s5](https://docs.google.com/forms/d/e/1FAIpQLSfZfJ2nhf3vK-G1aEIA2VY7SsVPv1l29onUvBzf6ZrsZbd8mQ/viewform) [s7](https://global.vcu.edu/students/immigration/exchange-visitor/) [s8](https://global.vcu.edu/outreach/partnerships/hosting-visiting-scholars/) [规则](eligibility_notes.md#virginia-commonwealth) | 2026-10-01T14:21:59Z |
 | [Thomas A. Berrueta](batches/control-009.md#thomas-a-berrueta) · Stanford University (announced appointment starts November 1, 2026) | 40/20/8 | **官方2026-11-01拟入职；新组容量与访问条件未确认** | [s3](https://pal.stanford.edu/join.html) | 2026-09-30T22:35:56Z |
 | [Carmen Amo Alonso](batches/control-081.md#carmen-amo-alonso) · University of California, Berkeley | 39/20/8 | **2027待入职、月份未知；夏季主办权限未确认；受限真机证据：Verified real learned robot at prior host; Berkeley hardware access unverified** | [s3](https://controllableai.org/join.html) [规则](eligibility_notes.md#berkeley-vsr) | 2026-10-01T07:07:38Z |
 | [Wanxin Jin](batches/control-005.md#wanxin-jin) · Arizona State University | 40/25/10 | **公开问询入口；详细资格与期限未定** | [s2](https://irislab.tech/joining/) | 2026-09-30T22:01:01Z |
@@ -70,6 +71,7 @@
 | [Pratyusha Sharma](batches/embodied-075.md#pratyusha-sharma) · New York University | 36/15/10 | **表单明确外校MS/visitor、现场或远程；设备为历史合作证据；受限真机证据：older-prior-host-hardware** | [s4](https://pratyushasharma.github.io/lab/) [s5](https://docs.google.com/forms/d/e/1FAIpQLSd3xjtNnEyDeSmSvIYiJzonTUJlNoW8fj2rTRAc38OkDyFE9Q/viewform) [规则](eligibility_notes.md#nyu) | 2026-10-01T07:19:10Z |
 | [Shan Zuo](batches/control-075.md#shan-zuo) · University of Connecticut | 36/0/8 | **inquiry-only · 外部访问意向；八周与2027名额未定；AI相关 · 真机待核实** | [s2](https://distributed-decision-learning.engr.uconn.edu/) [规则](eligibility_notes.md#connecticut) | 2026-10-01T06:37:33Z |
 | [Minghan Li](batches/embodied-080.md#minghan-li) · Colorado School of Mines | 35/0/10 | **外校/海外硕士访客可询问；表单为唯一申请入口；无经费或2027承诺；仅视频方法；真机待核实** | [s4](https://mai-lab-2026.com/openings.html) [s5](https://docs.google.com/forms/d/e/1FAIpQLSd_qm4qF5swx6ax1kq3WKyUt6QPy_zCw1K7tBMV9qttsOcwLA/viewform) [规则](eligibility_notes.md#colorado-mines) | 2026-10-01T10:09:11Z |
+| [Zhu-Tian Chen](batches/hri-111.md#zhu-tian-chen) · University of Minnesota | 35/0/10 | **完整表单含Master/机构，全球研究询问；>4个月只是可能RA资助条件，不是最低访期；时长/2027资金未知；空间AI，机器人执行未核；真机待核实** | [s5](https://chenzhutian.org/prospectives) [s6](https://forms.cloud.microsoft/pages/responsepage.aspx?id=9CL6b2hFBUGtQy461HJpV9UDQre2Pc5Bp5o70sFU5aVUQjNIVjFSREMyQjZNWDE2WFhKS0dRT1dFTC4u&route=shorturl) [s7](https://arxiv.org/html/2608.08971v1) [规则](eligibility_notes.md#minnesota) | 2026-10-01T14:09:52Z |
 | [Andrea D’Ambrosio](batches/control-085.md#andrea-dambrosio) · University of South Florida | 35/0/8 | **访客独立询问入口；USF主要资金须非个人、个人仅补充；学习控制仅仿真；仅仿真；真机待核实** | [s3](https://ciro-lab.com/join/) [规则](eligibility_notes.md#south-florida) | 2026-10-01T09:43:52Z |
 | [Jiefeng Sun](batches/control-014.md#jiefeng-sun) · Arizona State University | 34/25/10 | **公开问询入口；详细资格与期限未定** | [s2](https://sunrobotics.lab.asu.edu/Openings/) [s3](https://sunrobotics.lab.asu.edu/) | 2026-09-30T23:20:06Z |
 | [Jun Nishida](batches/hri-052.md#jun-nishida) · University of Maryland, College Park | 34/23/5 | **国际访客链接指向faculty政策；不能当作学生类别获批** | [s2](https://emd.cs.umd.edu/join) [s3](https://www.umiacs.umd.edu/appointment-evaluation-and-promotion) [规则](eligibility_notes.md#maryland-student-intern) | 2026-10-01T04:34:22Z |

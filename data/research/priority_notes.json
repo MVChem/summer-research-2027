@@ -2382,6 +2382,185 @@
           "evidence": "August2026 dated news explicitly records joining as NCSU Assistant Professor; current title corroborates announcement."
         }
       ]
+    },
+    "zhu-tian-chen": {
+      "appointmentStart": {
+        "year": 2023,
+        "endYear": 2024,
+        "precision": "range",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ]
+      },
+      "display": "2023–2024官方来源冲突，未定单一年份",
+      "caveat": "完整表单含Master与机构；超过4个月只是可能获得RA资助的条件，不是最短访问期；空间AI备选，无机器人执行",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://cse.umn.edu/cs/zhu-tian-chen",
+          "observedAt": "2026-10-01T14:07:07Z",
+          "evidence": "Current official title; biography states 2023 start, conflicting with department news."
+        },
+        {
+          "id": "s2",
+          "url": "https://cse.umn.edu/cs/news/meet-faculty-zhu-tian-chen",
+          "observedAt": "2026-10-01T14:07:07Z",
+          "evidence": "Official February 1, 2024 interview states Spring 2024 arrival."
+        },
+        {
+          "id": "s3",
+          "url": "https://cse.umn.edu/cs/news/zhu-tian-chen-wins-nsf-career-award",
+          "observedAt": "2026-10-01T14:04:38Z",
+          "evidence": "Official August 17, 2026 article repeats 2024 joining and current spatial-AI research. Award plans are not execution evidence."
+        }
+      ]
+    },
+    "jaylin-herskovitz": {
+      "appointmentStart": {
+        "year": 2025,
+        "month": 12,
+        "day": 15,
+        "precision": "day",
+        "status": "current",
+        "sourceIds": [
+          "s2"
+        ],
+        "evidence": "Official Tufts faculty announcement gives effective December 15, 2025. PI news and Michigan alumni article describe January 2026 arrival; those are preserved separately rather than replacing the formal effective date.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2025-12-15",
+      "caveat": "Tufts官方有效日2025-12-15；本人/母校称2026-01到岗；视觉辅助软件，无机器人执行，外校暑研入口未知",
+      "sources": [
+        {
+          "id": "s2",
+          "url": "https://engineering.tufts.edu/news-events/news/herskovitz-joins-department-computer-science",
+          "observedAt": "2026-10-01T14:07:22Z",
+          "evidence": "Official August 19, 2025 announcement specifies effective December 15, 2025; complete indexed primary article read, direct fetch unavailable."
+        }
+      ]
+    },
+    "mingi-jeong": {
+      "appointmentStart": {
+        "year": 2025,
+        "month": 12,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "s1"
+        ],
+        "evidence": "Official professional history lists tenure-track Assistant Professor, 12/2025–Present.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2025-12",
+      "caveat": "官方履历明确2025-12；实船来自此前Dartmouth且旁船虚拟，当前VT设备/访客未知",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.aoe.vt.edu/people/faculty/mingi-jeong.html",
+          "observedAt": "2026-10-01T13:27:21Z",
+          "evidence": "Official current role, email and December 2025 tenure-track start."
+        }
+      ]
+    },
+    "oguzhan-oruc": {
+      "appointmentStart": {
+        "year": 2024,
+        "month": 1,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "evidence": "Official profile states faculty arrival January 2024. University-hosted CV lists prior UNH research assistant and industry roles, with PhD in 2023.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2024-01",
+      "caveat": "官方2024-01；旧合作JetRacer学习规划，Citadel外校硕士类别/资金/指导容量未核",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.citadel.edu/mechanical/faculty-staff/dr-oguzhan-oruc/",
+          "observedAt": "2026-10-01T14:07:04Z",
+          "evidence": "Current university role and explicit January 2024 faculty arrival."
+        },
+        {
+          "id": "s2",
+          "url": "https://www.citadel.edu/mechanical/wp-content/uploads/sites/13/Oguzhan-Oruc-Resume.pdf",
+          "observedAt": "2026-10-01T14:07:04Z",
+          "evidence": "University-hosted CV gives 2023 UNH PhD, preceding research assistant and engineering roles, and public email."
+        }
+      ]
+    },
+    "victoria-preston": {
+      "appointmentStart": {
+        "year": 2024,
+        "precision": "year",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "evidence": "Official September17,2024 new-faculty story says she joined that summer as Assistant Professor after postdoctoral work. Year2024 is verified; no exact month or first-ever faculty claim inferred."
+      },
+      "display": "2024",
+      "caveat": "2024夏官方到岗；Bayesian野外机器人备选，真实学习实验来自2019–2021，Olin外校硕士任命未知",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://olin.edu/bios/victoria-preston-16",
+          "observedAt": "2026-10-01T13:49:46Z",
+          "evidence": "Current active Assistant Professor, public email, CREST/environmental decision-making and WHOI Guest Investigator affiliation."
+        },
+        {
+          "id": "s2",
+          "url": "https://olin.edu/articles/story-olin-welcomes-new-faculty-fall-2024",
+          "observedAt": "2026-10-01T13:50:36Z",
+          "evidence": "September 17, 2024 official new-faculty article states she joined that summer as Assistant Professor after postdoctoral work."
+        }
+      ]
+    },
+    "xiwei-xuan": {
+      "appointmentStart": {
+        "year": 2026,
+        "month": 8,
+        "precision": "month",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ],
+        "evidence": "Official Fall2026 new-faculty cohort and current tenure-track AP directory corroborate role/year; first-person August2026 news explicitly says started. Exact month rests on first-person source. First-ever faculty status is not inferred merely from preceding PhD."
+      },
+      "display": "2026-08",
+      "caveat": "2026官方到岗、8月为本人新闻；完整外校MS表单有2–3个月和现场/远程选项，属于询问范围；数据感知备选，真机0",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://egr.vcu.edu/directory/xiwei.xuan/",
+          "observedAt": "2026-10-01T14:21:59Z",
+          "evidence": "Complete current official directory in cloud browser verifies tenure-track CS AP, public email, foundation-model/vision research and autonomous-driving/manufacturing application contexts."
+        },
+        {
+          "id": "s2",
+          "url": "https://blogs.vcu.edu/engineering/2026/08/18/ten-new-faculty-join-vcu-college-of-engineering-for-the-2026-fall-semester/",
+          "observedAt": "2026-10-01T14:18:21Z",
+          "evidence": "Official Fall2026 cohort lists Xiwei Xuan in CS, arriving from UC Davis."
+        },
+        {
+          "id": "s3",
+          "url": "https://xiweix.github.io/",
+          "observedAt": "2026-10-01T14:15:20Z",
+          "evidence": "Current AP/WAVE role, August 2026 start news and distinct prospective-intern/visitor form. Browser corroboration14:16:08Z."
+        }
+      ]
     }
   },
   "constraints": [
@@ -2988,6 +3167,21 @@
         {
           "url": "https://docs.google.com/forms/d/e/1FAIpQLScBQntuLWKkexBvx4h7GBGTL1Ujfgr2W4RuAzbmyyEezykgAA/viewform",
           "evidence": "Summer visiting-position checkbox, independent current/incoming Masters status, arbitrary master school, start/end dates, and immigration-document request; J1/F1-only visa wording explicitly read. Complete one-page form with Submit observed, no data entered."
+        }
+      ]
+    },
+    {
+      "key": "zhu-tian-chen-possible-ra-threshold",
+      "candidateId": "zhu-tian-chen",
+      "name": "Zhu-Tian Chen",
+      "kind": "capacity-or-role",
+      "scope": "Possible RA support for visits exceeding four months",
+      "summary": "超过4个月可能考虑RAship；不是最低访问时长、资助承诺或短访关闭",
+      "observedAt": "2026-10-01T14:05:25Z",
+      "sources": [
+        {
+          "url": "https://chenzhutian.org/prospectives",
+          "evidence": "Live worldwide research/visiting inquiry; potential RAship for stays over four months, not a minimum stay."
         }
       ]
     }

@@ -1,0 +1,33 @@
+# 检索批次 embodied-100
+
+[返回完整排序](../ranked_candidates.md) · [本批完整 JSON](embodied-100.json) · [评分与字段](../README.md)
+
+本批 **1 位**。首次发现时间保持不变；资料修正通过独立提交保留历史。分数是研究筛选优先级，不是接收概率。
+
+<a id="victoria-preston"></a>
+
+## Victoria Preston · Olin College of Engineering
+
+- 稳定键：`victoria-preston`；[导师主页](https://olin.edu/bios/victoria-preston-16)
+- 任职：Assistant Professor of Engineering
+- 方向：Bayesian active learning for field robots；Informative planning under uncertainty；Environmental and marine robotics；Data-driven physically informed spatiotemporal models
+- 匹配理由：A 2024 AP backup for field robotics and Bayesian active learning. PLUMES updates a learned Gaussian-process environmental belief and uses information-theoretic Monte Carlo tree search to decide where a robot should sample. Later PHUMES uses physically informed probabilistic forecasts to plan constrained AUV missions. This is planning/scientific robot learning, not current VLA or dexterous foundation-model research.
+- 真机证据（historical-or-indirect）：Prior physical20. Full2019 PLUMES paper §IV-A documents a real custom ASV in Barbados: a GP kernel learned from earlier altimeter data, online belief updates and selected motion primitives executed through PixHawk. Only one field comparison per planner was feasible. Full2022 expeditionary paper §3.3 additionally describes PHUMES forecasts and optimized mission trajectories tested with AUV Sentry in November 2021. New2025 Olin ASV hardware and field expeditions are verified but are not proof that these learned algorithms have been redeployed at Olin.
+- 短访证据（unknown）：Visitor0. Current official sources verify independent CREST lab/student mentoring, but no explicit outside-master research visit or summer2027 invitation was located. The public personal homepage is still WHOI postdoc-era and cannot establish current recruiting or Olin access.
+- 首次发现：2026-10-01T13:32:32Z；最后核查：2026-10-01T13:53:04Z
+- 当前总分：63/100；评分依据：
+  - fit 33/40：Substantive Bayesian active learning and POMDP/MCTS field robotics; secondary to direct VLA/foundation-model fit.
+  - physical 20/25：Full actual GP-informed ASV execution and later prior-host AUV mission tests; capped as historical/prior institution.
+  - shortVisit 0/20：No PI outside-master invitation or publicly confirmed external graduate appointment route.
+  - freshness 10/15：Current2025 lab research and2026 teaching/role, but full robot-learning execution sources are2019/2022, so no latest-method freshness uplift.
+- 未确认事项：Current Olin title and2024 arrival are official. Her WHOI Guest Investigator affiliation does not itself establish an independent WHOI university-host pathway.；Physical learning evidence is prior MIT/WHOI work from2019–2021, not new Olin execution. Current ASV building,2025 ocean research and2026 teaching verify ongoing activity but do not increase physical tier.；PLUMES uses GP learning/Bayesian planning, not a neural policy or VLA. Its reef experiment is one comparison per planner; simulated trials and simulated Dubins-car tests must not be counted as extra physical runs.；PHUMES optimizes constrained mission trajectories under operational rules; it is not unconstrained online replanning by a deep neural AUV controller.；No external-master visitor offer, duration, funding, remote option, summer2027 capacity or apparatus access is verified.；Olin institutional conditions: public paid summer research and semester volunteer/credit options target enrolled undergraduates. Partner-nominated semester exchange expressly excludes nonpartner short-term study; that restriction is not generalized to every research appointment. A separate external-master research category, immigration support, personal-funding approval, insurance and fees all remain unknown.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.；Timestamp scope: Earliest precisely retained official-name encounter in Olin2024 faculty cohort search; focused individual screen began13:49:09Z. No earlier incidental coauthor timestamp is reconstructed.；[Institutional review](../eligibility_notes.md#olin); the separately dated policy observations are not a lab offer or a new source reread.
+- 来源：
+  - [olin.edu / source 1](https://olin.edu/bios/victoria-preston-16)：Current active Assistant Professor, public email, CREST/environmental decision-making and WHOI Guest Investigator affiliation.（核查 2026-10-01T13:49:46Z；读取方式 complete-primary-page-or-paper）
+  - [olin.edu / source 2](https://olin.edu/articles/story-olin-welcomes-new-faculty-fall-2024)：September 17, 2024 official new-faculty article states she joined that summer as Assistant Professor after postdoctoral work.（核查 2026-10-01T13:50:36Z；读取方式 complete-primary-page-or-paper）
+  - [groups.csail.mit.edu / source 3](https://groups.csail.mit.edu/rrg/papers/flaspohler_preston_2019_ral.pdf)：Full2019 PLUMES paper §§III–IV-A: GP belief, information reward/MCTS and actual autonomous surface vessel execution; limited reef trials and prior GP hyperparameter training explicit.（核查 2026-10-01T13:51:27Z；读取方式 complete-primary-page-or-paper）
+  - [arxiv.org / source 4](https://arxiv.org/html/2206.01364v1)：Full2022 workshop paper §3.3 describes physically informed belief forecasts and constrained optimized AUV missions tested in November 2021, not modern deep-RL real-time deployment.（核查 2026-10-01T13:52:03Z；读取方式 complete-primary-page-or-paper）
+  - [olin.edu / source 5](https://olin.edu/articles/story-students-crest-lab-develop-autonomous-vessel-study-local-water-bodies)：Official October 6, 2025 report verifies current CREST ASV construction/water testing and local student mentoring; no learned-policy attribution for that new boat.（核查 2026-10-01T13:50:07Z；读取方式 complete-primary-page-or-paper）
+  - [www.olin.edu / source 6](https://www.olin.edu/articles/story-embracing-uncertainty-probabilistic-robotics-olin)：Official April 30, 2026 account verifies current probabilistic-robotics teaching, not a new research hardware result or visitor offer.（核查 2026-10-01T13:52:03Z；读取方式 complete-primary-page-or-paper）
+  - [vpreston.com / source 7](https://vpreston.com/)：Older personal page explicitly remains WHOI postdoc-era, with learned environmental-model research; current Olin role must use official sources.（核查 2026-10-01T13:49:46Z；读取方式 complete-primary-page-or-paper）
+  - [olin.edu / source 8](https://olin.edu/student-life/international-students)：Official international page covers undergraduate/F1 and nominated partner exchanges; nonpartner short-term study restriction is scoped to study/exchange, with separate research appointment unverified.（核查 2026-10-01T13:52:03Z；读取方式 complete-primary-page-or-paper）
+

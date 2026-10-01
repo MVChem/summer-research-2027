@@ -208,3 +208,9 @@
 - **lab明确不接收使用J1/F1之外签证类型的学生；另列无需签证和需要学校文件选项。不是普遍移民规则或签证/任命保证**
 - 核查：2026-10-01T14:17:53Z · [来源1](https://docs.google.com/forms/d/e/1FAIpQLScBQntuLWKkexBvx4h7GBGTL1Ujfgr2W4RuAzbmyyEezykgAA/viewform)
 
+### Zhu-Tian Chen（新增候选）
+
+- 适用范围：Possible RA support for visits exceeding four months
+- **超过4个月可能考虑RAship；不是最低访问时长、资助承诺或短访关闭**
+- 核查：2026-10-01T14:05:25Z · [来源1](https://chenzhutian.org/prospectives)
+

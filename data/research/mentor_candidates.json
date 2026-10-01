@@ -112,8 +112,10 @@
     "batches/control-111.json",
     "batches/control-113.json",
     "batches/control-114.json",
+    "batches/control-116.json",
     "batches/control-118.json",
     "batches/control-120.json",
+    "batches/control-121.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -208,6 +210,8 @@
     "batches/embodied-096.json",
     "batches/embodied-097.json",
     "batches/embodied-098.json",
+    "batches/embodied-100.json",
+    "batches/embodied-102.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -307,7 +311,8 @@
     "batches/hri-101.json",
     "batches/hri-103.json",
     "batches/hri-107.json",
-    "batches/hri-110.json"
+    "batches/hri-110.json",
+    "batches/hri-111.json"
   ],
   "candidates": [
     {
@@ -5914,6 +5919,66 @@
       "detailPage": "batches/control-114.md#wei-wang"
     },
     {
+      "id": "mingi-jeong",
+      "name": "Mingi Jeong",
+      "aliases": [],
+      "school": "Virginia Tech",
+      "title": "Assistant Professor",
+      "homepage": "https://mingijeong.github.io/",
+      "batch": "control-116",
+      "discoveredAt": "2026-10-01T13:20:39Z",
+      "verifiedAt": "2026-10-01T13:27:21Z",
+      "scores": {
+        "fit": 36,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 13
+      },
+      "researchAreas": [
+        "Learning-augmented marine autonomy",
+        "Safe navigation and intention inference",
+        "Multimodal perception",
+        "Autonomous surface vehicles"
+      ],
+      "discoveryTimestampNote": "Earliest precisely retained individual primary-source observation or dedicated screen; no earlier incidental encounter time was reconstructed.",
+      "physicalEvidenceStatus": "Prior Dartmouth physical ASV with virtual obstacle traffic; physical 20",
+      "physicalEvidenceLabel": "受限真机证据：Prior Dartmouth physical ASV with virtual obstacle traffic; physical 20",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-116.json",
+      "detailPage": "batches/control-116.md#mingi-jeong"
+    },
+    {
+      "id": "alberto-quattrini-li",
+      "name": "Alberto Quattrini Li",
+      "aliases": [
+        "Alberto Quattrini-Li"
+      ],
+      "school": "Dartmouth College",
+      "title": "Associate Professor",
+      "homepage": "https://www.cs.dartmouth.edu/~rlab/albertoq/",
+      "batch": "control-116",
+      "discoveredAt": "2026-10-01T00:27:36Z",
+      "verifiedAt": "2026-10-01T13:27:21Z",
+      "scores": {
+        "fit": 36,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 13
+      },
+      "researchAreas": [
+        "Field robotics",
+        "Learning-augmented marine autonomy",
+        "Multi-robot exploration",
+        "Environmental monitoring"
+      ],
+      "discoveryTimestampNote": "Earliest precisely retained individual primary-source observation or dedicated screen; no earlier incidental encounter time was reconstructed.",
+      "physicalEvidenceStatus": "Actual 2024 advised marine-robot field work; virtual obstacle traffic; physical 20",
+      "physicalEvidenceLabel": "受限真机证据：Actual 2024 advised marine-robot field work; virtual obstacle traffic; physical 20",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-116.json",
+      "detailPage": "batches/control-116.md#alberto-quattrini-li"
+    },
+    {
       "id": "chen-tang",
       "name": "Chen Tang",
       "aliases": [],
@@ -5971,6 +6036,35 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-120.json",
       "detailPage": "batches/control-120.md#brady-moon"
+    },
+    {
+      "id": "oguzhan-oruc",
+      "name": "Oguzhan Oruc",
+      "aliases": [],
+      "school": "The Citadel",
+      "title": "Assistant Professor",
+      "homepage": "https://www.citadel.edu/mechanical/faculty-staff/dr-oguzhan-oruc/",
+      "batch": "control-121",
+      "discoveredAt": "2026-10-01T13:49:28Z",
+      "verifiedAt": "2026-10-01T14:07:04Z",
+      "scores": {
+        "fit": 34,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Learned robot path planning",
+        "Autonomous surface and underwater vehicle control",
+        "Nonlinear system identification",
+        "Adaptive control"
+      ],
+      "discoveryTimestampNote": "Earliest precisely retained individual primary-source observation or dedicated screen; no earlier incidental encounter time was reconstructed.",
+      "physicalEvidenceStatus": "2024 collaborative learned path-planner execution on real JetRacer; current Citadel apparatus unverified",
+      "physicalEvidenceLabel": "受限真机证据：2024 collaborative learned path-planner execution on real JetRacer; current Citadel apparatus unverified",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-121.json",
+      "detailPage": "batches/control-121.md#oguzhan-oruc"
     },
     {
       "id": "tom-silver",
@@ -10835,6 +10929,70 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-098.json",
       "detailPage": "batches/embodied-098.md#lingfeng-tao"
+    },
+    {
+      "id": "victoria-preston",
+      "name": "Victoria Preston",
+      "aliases": [
+        "Victoria Lynn Preston",
+        "Victoria L. Preston"
+      ],
+      "school": "Olin College of Engineering",
+      "title": "Assistant Professor of Engineering",
+      "homepage": "https://olin.edu/bios/victoria-preston-16",
+      "batch": "embodied-100",
+      "discoveredAt": "2026-10-01T13:32:32Z",
+      "verifiedAt": "2026-10-01T13:53:04Z",
+      "scores": {
+        "fit": 33,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Bayesian active learning for field robots",
+        "Informative planning under uncertainty",
+        "Environmental and marine robotics",
+        "Data-driven physically informed spatiotemporal models"
+      ],
+      "discoveryTimestampNote": "Earliest precisely retained official-name encounter in Olin2024 faculty cohort search; focused individual screen began13:49:09Z. No earlier incidental coauthor timestamp is reconstructed.",
+      "candidateTier": "Bayesian野外机器人备选；非VLA/灵巧操作主线",
+      "physicalEvidenceStatus": "historical-or-indirect",
+      "physicalEvidenceLabel": "受限真机证据：historical-or-indirect",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-100.json",
+      "detailPage": "batches/embodied-100.md#victoria-preston"
+    },
+    {
+      "id": "xiwei-xuan",
+      "name": "Xiwei Xuan",
+      "aliases": [],
+      "school": "Virginia Commonwealth University",
+      "title": "Assistant Professor",
+      "homepage": "https://xiweix.github.io/",
+      "batch": "embodied-102",
+      "discoveredAt": "2026-10-01T14:14:32Z",
+      "verifiedAt": "2026-10-01T14:21:59Z",
+      "scores": {
+        "fit": 32,
+        "physical": 0,
+        "shortVisit": 10,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Open-vocabulary dense scene understanding",
+        "Multimodal foundation-model data curation",
+        "Reliable semantic segmentation",
+        "Human-guided model validation",
+        "World-aware visual learning"
+      ],
+      "discoveryTimestampNote": "First precisely retained name-specific primary observation; an earlier incidental encounter may have occurred but its exact time was not retained or reconstructed.",
+      "candidateTier": "空间视觉/数据方法备选；无机器人执行",
+      "physicalEvidenceStatus": "unverified",
+      "physicalEvidenceLabel": "真机待核实",
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/embodied-102.json",
+      "detailPage": "batches/embodied-102.md#xiwei-xuan"
     },
     {
       "id": "henny-admoni",
@@ -15877,6 +16035,69 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-110.json",
       "detailPage": "batches/hri-110.md#gilbert-yang-ye"
+    },
+    {
+      "id": "zhu-tian-chen",
+      "name": "Zhu-Tian Chen",
+      "aliases": [
+        "Chen Zhu-Tian",
+        "Zhutian Chen"
+      ],
+      "school": "University of Minnesota",
+      "title": "Assistant Professor of Computer Science and Engineering",
+      "homepage": "https://chenzhutian.org/",
+      "batch": "hri-111",
+      "discoveredAt": "2026-10-01T14:04:20Z",
+      "verifiedAt": "2026-10-01T14:09:52Z",
+      "scores": {
+        "fit": 35,
+        "physical": 0,
+        "shortVisit": 10,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Situated spatial AI",
+        "Augmented-reality interfaces",
+        "Learned visual/gaze perception",
+        "Human-AI collaboration",
+        "Generative interfaces for physical environments"
+      ],
+      "candidateTier": "空间AI/辅助感知备选；机器人执行未核",
+      "physicalEvidenceStatus": "unverified",
+      "physicalEvidenceLabel": "真机待核实",
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/hri-111.json",
+      "detailPage": "batches/hri-111.md#zhu-tian-chen"
+    },
+    {
+      "id": "jaylin-herskovitz",
+      "name": "Jaylin Herskovitz",
+      "aliases": [],
+      "school": "Tufts University",
+      "title": "Assistant Professor of Computer Science",
+      "homepage": "https://jayl.in/",
+      "batch": "hri-111",
+      "discoveredAt": "2026-10-01T14:04:20Z",
+      "verifiedAt": "2026-10-01T14:08:23Z",
+      "scores": {
+        "fit": 33,
+        "physical": 0,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "AI-based assistive perception",
+        "Spatial/mobile accessibility",
+        "Human-AI interaction",
+        "Augmented reality",
+        "End-user programming of visual assistance"
+      ],
+      "candidateTier": "空间AI/辅助感知备选；机器人执行未核",
+      "physicalEvidenceStatus": "unverified",
+      "physicalEvidenceLabel": "真机待核实",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-111.json",
+      "detailPage": "batches/hri-111.md#jaylin-herskovitz"
     }
   ]
 }

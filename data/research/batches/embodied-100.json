@@ -1,0 +1,155 @@
+[
+  {
+    "id": "victoria-preston",
+    "name": "Victoria Preston",
+    "aliases": [
+      "Victoria Lynn Preston",
+      "Victoria L. Preston"
+    ],
+    "school": "Olin College of Engineering",
+    "homepage": "https://olin.edu/bios/victoria-preston-16",
+    "title": "Assistant Professor of Engineering",
+    "department": "Engineering; Climate Robotics and Expeditionary Science Technology (CREST) Lab",
+    "batch": "embodied-100",
+    "discoveredAt": "2026-10-01T13:32:32Z",
+    "verifiedAt": "2026-10-01T13:53:04Z",
+    "researchAreas": [
+      "Bayesian active learning for field robots",
+      "Informative planning under uncertainty",
+      "Environmental and marine robotics",
+      "Data-driven physically informed spatiotemporal models"
+    ],
+    "fitReason": "A 2024 AP backup for field robotics and Bayesian active learning. PLUMES updates a learned Gaussian-process environmental belief and uses information-theoretic Monte Carlo tree search to decide where a robot should sample. Later PHUMES uses physically informed probabilistic forecasts to plan constrained AUV missions. This is planning/scientific robot learning, not current VLA or dexterous foundation-model research.",
+    "physicalEvidence": {
+      "status": "historical-or-indirect",
+      "summary": "Prior physical20. Full2019 PLUMES paper §IV-A documents a real custom ASV in Barbados: a GP kernel learned from earlier altimeter data, online belief updates and selected motion primitives executed through PixHawk. Only one field comparison per planner was feasible. Full2022 expeditionary paper §3.3 additionally describes PHUMES forecasts and optimized mission trajectories tested with AUV Sentry in November 2021. New2025 Olin ASV hardware and field expeditions are verified but are not proof that these learned algorithms have been redeployed at Olin.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Visitor0. Current official sources verify independent CREST lab/student mentoring, but no explicit outside-master research visit or summer2027 invitation was located. The public personal homepage is still WHOI postdoc-era and cannot establish current recruiting or Olin access.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "scores": {
+      "fit": 33,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "Substantive Bayesian active learning and POMDP/MCTS field robotics; secondary to direct VLA/foundation-model fit.",
+      "physical": "Full actual GP-informed ASV execution and later prior-host AUV mission tests; capped as historical/prior institution.",
+      "shortVisit": "No PI outside-master invitation or publicly confirmed external graduate appointment route.",
+      "freshness": "Current2025 lab research and2026 teaching/role, but full robot-learning execution sources are2019/2022, so no latest-method freshness uplift."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "olin.edu / source 1",
+        "url": "https://olin.edu/bios/victoria-preston-16",
+        "summary": "Current active Assistant Professor, public email, CREST/environmental decision-making and WHOI Guest Investigator affiliation.",
+        "verifiedAt": "2026-10-01T13:49:46Z",
+        "retrieval": "complete-primary-page-or-paper"
+      },
+      {
+        "id": "s2",
+        "label": "olin.edu / source 2",
+        "url": "https://olin.edu/articles/story-olin-welcomes-new-faculty-fall-2024",
+        "summary": "September 17, 2024 official new-faculty article states she joined that summer as Assistant Professor after postdoctoral work.",
+        "verifiedAt": "2026-10-01T13:50:36Z",
+        "retrieval": "complete-primary-page-or-paper"
+      },
+      {
+        "id": "s3",
+        "label": "groups.csail.mit.edu / source 3",
+        "url": "https://groups.csail.mit.edu/rrg/papers/flaspohler_preston_2019_ral.pdf",
+        "summary": "Full2019 PLUMES paper §§III–IV-A: GP belief, information reward/MCTS and actual autonomous surface vessel execution; limited reef trials and prior GP hyperparameter training explicit.",
+        "verifiedAt": "2026-10-01T13:51:27Z",
+        "retrieval": "complete-primary-page-or-paper"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2206.01364v1",
+        "summary": "Full2022 workshop paper §3.3 describes physically informed belief forecasts and constrained optimized AUV missions tested in November 2021, not modern deep-RL real-time deployment.",
+        "verifiedAt": "2026-10-01T13:52:03Z",
+        "retrieval": "complete-primary-page-or-paper"
+      },
+      {
+        "id": "s5",
+        "label": "olin.edu / source 5",
+        "url": "https://olin.edu/articles/story-students-crest-lab-develop-autonomous-vessel-study-local-water-bodies",
+        "summary": "Official October 6, 2025 report verifies current CREST ASV construction/water testing and local student mentoring; no learned-policy attribution for that new boat.",
+        "verifiedAt": "2026-10-01T13:50:07Z",
+        "retrieval": "complete-primary-page-or-paper"
+      },
+      {
+        "id": "s6",
+        "label": "www.olin.edu / source 6",
+        "url": "https://www.olin.edu/articles/story-embracing-uncertainty-probabilistic-robotics-olin",
+        "summary": "Official April 30, 2026 account verifies current probabilistic-robotics teaching, not a new research hardware result or visitor offer.",
+        "verifiedAt": "2026-10-01T13:52:03Z",
+        "retrieval": "complete-primary-page-or-paper"
+      },
+      {
+        "id": "s7",
+        "label": "vpreston.com / source 7",
+        "url": "https://vpreston.com/",
+        "summary": "Older personal page explicitly remains WHOI postdoc-era, with learned environmental-model research; current Olin role must use official sources.",
+        "verifiedAt": "2026-10-01T13:49:46Z",
+        "retrieval": "complete-primary-page-or-paper"
+      },
+      {
+        "id": "s8",
+        "label": "olin.edu / source 8",
+        "url": "https://olin.edu/student-life/international-students",
+        "summary": "Official international page covers undergraduate/F1 and nominated partner exchanges; nonpartner short-term study restriction is scoped to study/exchange, with separate research appointment unverified.",
+        "verifiedAt": "2026-10-01T13:52:03Z",
+        "retrieval": "complete-primary-page-or-paper"
+      }
+    ],
+    "unknowns": [
+      "Current Olin title and2024 arrival are official. Her WHOI Guest Investigator affiliation does not itself establish an independent WHOI university-host pathway.",
+      "Physical learning evidence is prior MIT/WHOI work from2019–2021, not new Olin execution. Current ASV building,2025 ocean research and2026 teaching verify ongoing activity but do not increase physical tier.",
+      "PLUMES uses GP learning/Bayesian planning, not a neural policy or VLA. Its reef experiment is one comparison per planner; simulated trials and simulated Dubins-car tests must not be counted as extra physical runs.",
+      "PHUMES optimizes constrained mission trajectories under operational rules; it is not unconstrained online replanning by a deep neural AUV controller.",
+      "No external-master visitor offer, duration, funding, remote option, summer2027 capacity or apparatus access is verified.",
+      "Olin institutional conditions: public paid summer research and semester volunteer/credit options target enrolled undergraduates. Partner-nominated semester exchange expressly excludes nonpartner short-term study; that restriction is not generalized to every research appointment. A separate external-master research category, immigration support, personal-funding approval, insurance and fees all remain unknown.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: Earliest precisely retained official-name encounter in Olin2024 faculty cohort search; focused individual screen began13:49:09Z. No earlier incidental coauthor timestamp is reconstructed.",
+      "[Institutional review](../eligibility_notes.md#olin); the separately dated policy observations are not a lab offer or a new source reread."
+    ],
+    "discoveryTimestampNote": "Earliest precisely retained official-name encounter in Olin2024 faculty cohort search; focused individual screen began13:49:09Z. No earlier incidental coauthor timestamp is reconstructed.",
+    "publicEmail": "vpreston@olin.edu",
+    "appointmentStart": {
+      "year": 2024,
+      "precision": "year",
+      "status": "current",
+      "appointmentType": "unresolved",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ],
+      "evidence": "Official September17,2024 new-faculty story says she joined that summer as Assistant Professor after postdoctoral work. Year2024 is verified; no exact month or first-ever faculty claim inferred."
+    },
+    "candidateTier": "Bayesian野外机器人备选；非VLA/灵巧操作主线"
+  }
+]

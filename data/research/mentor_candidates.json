@@ -96,6 +96,7 @@
     "batches/control-085.json",
     "batches/control-086.json",
     "batches/control-087.json",
+    "batches/control-088.json",
     "batches/control-090.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
@@ -5169,6 +5170,65 @@
       "shortVisitStatus": "degree-only · 已列MS/本科入口限本校",
       "recordFile": "batches/control-087.json",
       "detailPage": "batches/control-087.md#esen-yel"
+    },
+    {
+      "id": "renato-zanetti",
+      "name": "Renato Zanetti",
+      "aliases": [],
+      "school": "University of Texas at Austin",
+      "title": "Associate Professor; Cockrell Family Fellowship #4",
+      "homepage": "https://sites.utexas.edu/near/",
+      "batch": "control-088",
+      "discoveredAt": "2026-10-01T09:49:53Z",
+      "verifiedAt": "2026-10-01T09:56:14Z",
+      "scores": {
+        "fit": 35,
+        "physical": 0,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Learning-enabled spacecraft guidance",
+        "Neural adaptive navigation",
+        "Reinforcement learning for Bayesian filtering",
+        "Autonomous aerospace systems"
+      ],
+      "candidateTier": "Robotics-AI / physical-unverified visitor backup — space autonomy",
+      "physicalEvidenceStatus": "simulation-only",
+      "physicalEvidenceLabel": "仅仿真；真机待核实",
+      "shortVisitStatus": "inquiry-only · 独立visiting/exchange thesis入口；八周与经费未定",
+      "recordFile": "batches/control-088.json",
+      "detailPage": "batches/control-088.md#renato-zanetti"
+    },
+    {
+      "id": "jason-n-gross",
+      "name": "Jason N. Gross",
+      "aliases": [
+        "Jason Gross"
+      ],
+      "school": "West Virginia University",
+      "title": "Professor and Department Chair; Navigation Lab Director",
+      "homepage": "https://navigationlab.wvu.edu/team/dr-jason-n-gross",
+      "batch": "control-088",
+      "discoveredAt": "2026-10-01T01:39:31Z",
+      "verifiedAt": "2026-10-01T09:57:42Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Learning-enabled robot perception",
+        "Semantic traversability",
+        "Field navigation",
+        "Autonomous aerial and ground robotics"
+      ],
+      "physicalEvidenceStatus": "Current-institution learned perception and real staged navigation verified; collaborative project",
+      "physicalEvidenceLabel": "受限真机证据：Current-institution learned perception and real staged navigation verified; collaborative project",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-088.json",
+      "detailPage": "batches/control-088.md#jason-n-gross"
     },
     {
       "id": "jun-chen",

@@ -2,11 +2,11 @@
 
 [全部候选与总分排序](ranked_candidates.md) · [原始索引](mentor_candidates.json) · [机构规则](eligibility_notes.md) · [原200位后续补充](baseline_addenda.md)
 
-从现有记录筛出 **90 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。
+从现有记录筛出 **91 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。
 
 本页按研究匹配分优先，其次真机、短访、新鲜度及发现时间；不把一般询问、学校制度或个人自费能力当成已获资格。所有人的主办类别、八周安排、2027容量、经费和设备访问都需确认。具体奖学金要求、无资助、时间不匹配、任职时点及证据限制优先看下列加粗提示，再读完整资料。
 
-## 访问/短期研究问询线索（现场安排仍须确认） · 82 条
+## 访问/短期研究问询线索（现场安排仍须确认） · 83 条
 
 | 导师 / 机构 | 匹配 / 真机 / 短访 | 已知限制与证据状态 | 直接来源 / 机构规则 | 记录核查 UTC |
 |---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Jun Chen](batches/control-090.md#jun-chen) · San Diego State University | 36/0/8 | **独立访客询问；学习控制仅仿真；PhD广告标注2024，2027/八周未定；仅仿真；真机待核实** | [s2](https://junchen.sdsu.edu/) [s3](https://junchen.sdsu.edu/opening.html) [规则](eligibility_notes.md#san-diego-state) | 2026-10-01T10:11:53Z |
 | [Minghan Li](batches/embodied-080.md#minghan-li) · Colorado School of Mines | 35/0/10 | **独立硕士/访客表单明确外校及海外学生；无经费或2027承诺；仅视频方法；真机待核实** | [s4](https://mai-lab-2026.com/openings.html) [s5](https://docs.google.com/forms/d/e/1FAIpQLSd_qm4qF5swx6ax1kq3WKyUt6QPy_zCw1K7tBMV9qttsOcwLA/viewform) [规则](eligibility_notes.md#colorado-mines) | 2026-10-01T10:09:11Z |
 | [Andrea D’Ambrosio](batches/control-085.md#andrea-dambrosio) · University of South Florida | 35/0/8 | **访客独立询问入口；USF主要资金须非个人、个人仅补充；学习控制仅仿真；仅仿真；真机待核实** | [s3](https://ciro-lab.com/join/) [规则](eligibility_notes.md#south-florida) | 2026-10-01T09:43:52Z |
+| [Renato Zanetti](batches/control-088.md#renato-zanetti) · University of Texas at Austin | 35/0/8 | **独立visiting/exchange thesis询问；时长/经费未定；学习制导仅仿真；仅仿真；真机待核实** | [s3](https://sites.utexas.edu/near/about/) [规则](eligibility_notes.md#ut-austin) | 2026-10-01T09:56:14Z |
 | [Jiefeng Sun](batches/control-014.md#jiefeng-sun) · Arizona State University | 34/25/10 | **公开问询入口；详细资格与期限未定** | [s2](https://sunrobotics.lab.asu.edu/Openings/) [s3](https://sunrobotics.lab.asu.edu/) | 2026-09-30T23:20:06Z |
 | [Selma Šabanović](batches/hri-001.md#selma-sabanovic) · Indiana University Bloomington | 34/23/8 | **公开问询入口；详细资格与期限未定** | [s2](https://r-house.luddy.indiana.edu/index.html) [s3](https://r-house.luddy.indiana.edu/contact/index.html) | 2026-09-30T22:34:57Z |
 | [Jun Nishida](batches/hri-052.md#jun-nishida) · University of Maryland, College Park | 34/23/5 | **国际访客链接指向faculty政策；不能当作学生类别获批** | [s2](https://emd.cs.umd.edu/join) [s3](https://www.umiacs.umd.edu/appointment-evaluation-and-promotion) [规则](eligibility_notes.md#maryland-student-intern) | 2026-10-01T04:34:22Z |

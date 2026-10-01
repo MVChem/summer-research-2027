@@ -250,7 +250,8 @@
     "batches/hri-075.json",
     "batches/hri-076.json",
     "batches/hri-077.json",
-    "batches/hri-078.json"
+    "batches/hri-078.json",
+    "batches/hri-080.json"
   ],
   "candidates": [
     {
@@ -13575,6 +13576,39 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-078.json",
       "detailPage": "batches/hri-078.md#derek-g-kamper"
+    },
+    {
+      "id": "jundi-liu",
+      "name": "Jundi Liu",
+      "aliases": [
+        "刘珺迪"
+      ],
+      "school": "Iowa State University",
+      "title": "Assistant Professor; HCI Faculty Affiliate; VRAC Research Faculty",
+      "homepage": "https://jundiliu.me/",
+      "batch": "hri-080",
+      "discoveredAt": "2026-09-30T23:22:24Z",
+      "verifiedAt": "2026-10-01T10:03:27Z",
+      "scores": {
+        "fit": 34,
+        "physical": 0,
+        "shortVisit": 10,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Interactive reinforcement learning",
+        "Human-robot trust modeling",
+        "Human-in-the-loop autonomy",
+        "Inverse reinforcement learning",
+        "Human-vehicle interaction"
+      ],
+      "discoveryTimestampNote": "Earliest retained dated source-screening record from September 30; the original individual first-encounter time was not preserved and is not reconstructed.",
+      "candidateTier": "Robotics-AI visitor backup; learned physical execution unverified",
+      "physicalEvidenceStatus": "simulation-only",
+      "physicalEvidenceLabel": "仅仿真；真机待核实",
+      "shortVisitStatus": "inquiry-only · 独立外部访问研究生入口；2027与经费未定",
+      "recordFile": "batches/hri-080.json",
+      "detailPage": "batches/hri-080.md#jundi-liu"
     }
   ]
 }

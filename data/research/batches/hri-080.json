@@ -1,0 +1,156 @@
+[
+  {
+    "id": "jundi-liu",
+    "name": "Jundi Liu",
+    "aliases": [
+      "刘珺迪"
+    ],
+    "school": "Iowa State University",
+    "homepage": "https://jundiliu.me/",
+    "title": "Assistant Professor; HCI Faculty Affiliate; VRAC Research Faculty",
+    "department": "Industrial and Manufacturing Systems Engineering; Human-Computer Interaction; VRAC",
+    "batch": "hri-080",
+    "discoveredAt": "2026-09-30T23:22:24Z",
+    "verifiedAt": "2026-10-01T10:03:27Z",
+    "researchAreas": [
+      "Interactive reinforcement learning",
+      "Human-robot trust modeling",
+      "Human-in-the-loop autonomy",
+      "Inverse reinforcement learning",
+      "Human-vehicle interaction"
+    ],
+    "fitReason": "Visitor-first, lower-physical-confidence methods backup. Current research directly concerns interactive RL, implicit human feedback, trust-aware adaptive autonomy and human-robot interaction. The 2026 TARS work adds trust signals to reward shaping; her author-hosted 2022 work explains behavior extraction, clustering and inverse RL for customized lane-change decisions. This is relevant to human-aware autonomy, although a current executed learned robot project is not verified.",
+    "physicalEvidence": {
+      "status": "simulation-only",
+      "summary": "No learned physical robot execution is credited. The prior September 30 screen found the 2025 manufacturing-AGV study to use simulated/VR interactions. The September 2026 educational robot work involved curriculum and teaching activities rather than a demonstrated learned robot controller. The official 2025 NAVI project uses datasets, Unity mockups and scenario-driven simulation. The 2022 IRL study predicts lane-change actions from naturalistic driving data; collecting real vehicle data does not establish deployment of the learned controller. The 2026 TARS paper is supported by the author’s announcement and accessible abstract, but its full experimental methods were not retrieved, so platform, actual human-in-loop implementation and real-vehicle execution remain unverified.",
+      "sourceIds": [
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only · 独立外部访问研究生入口；2027与经费未定",
+      "summary": "The live personal openings page has a separate Visiting Students, Scholars and Postdocs section explicitly considering undergraduate or graduate visitors depending on research interests and funding. It requests a CV, student transcript, research interests and representative writing/publications. This is distinct from the preceding section that restricts ordinary undergraduate/master’s research to ISU students. It is a conditional general inquiry route, not a dated summer 2027 opening or eight-week acceptance.",
+      "sourceIds": [
+        "s3",
+        "s10",
+        "s11"
+      ]
+    },
+    "scores": {
+      "fit": 34,
+      "physical": 0,
+      "shortVisit": 10,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct interactive/inverse RL and trust-aware human-robot/vehicle autonomy methods; stronger human-factors orientation than general embodied perception.",
+      "physical": "No verified learned physical execution; documented robot-related evaluations are virtual/simulated or collected-data analyses.",
+      "shortVisit": "Explicit live graduate visiting-student inquiry route, conditional on fit and funding; no dated summer offer.",
+      "freshness": "Current official role, live recruitment and 2026 method/publication evidence; the old hold timestamp and hardware limitations are retained."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www2.vrac.iastate.edu / source 1",
+        "url": "https://www2.vrac.iastate.edu/directory/?filter=Faculty",
+        "summary": "Current official VRAC directory identifies Jundi Liu as Assistant Professor in IMSE, HCI Faculty Affiliate and VRAC Research Faculty.",
+        "verifiedAt": "2026-10-01T10:03:27Z"
+      },
+      {
+        "id": "s2",
+        "label": "jundiliu.me / source 2",
+        "url": "https://jundiliu.me/",
+        "summary": "Current first-person role, public email and explicit interactive RL / human-robot / trust-aware adaptive systems research.",
+        "verifiedAt": "2026-10-01T10:03:27Z"
+      },
+      {
+        "id": "s3",
+        "label": "jundiliu.me / source 3",
+        "url": "https://jundiliu.me/openings/",
+        "summary": "Directly read current conditional undergraduate/graduate visiting-student invitation, separate from ISU-only local master’s opportunities.",
+        "verifiedAt": "2026-10-01T10:03:27Z"
+      },
+      {
+        "id": "s4",
+        "label": "jundiliu.me / source 4",
+        "url": "https://jundiliu.me/publication/ieee-tvt-2022/",
+        "summary": "Author-hosted primary abstract details MFPCA, clustering and IRL on grouped naturalistic driving demonstrations, evaluated by action-prediction accuracy; no physical deployment inferred.",
+        "verifiedAt": "2026-10-01T10:03:27Z"
+      },
+      {
+        "id": "s5",
+        "label": "doi.org / source 5",
+        "url": "https://doi.org/10.1109/TITS.2026.3673636",
+        "summary": "2026 TARS publication identity. Full publisher text was unavailable; no unseen methods or hardware claims are credited.",
+        "verifiedAt": "2026-10-01T10:03:27Z",
+        "retrieval": "Publication identity only; full publisher methods were unavailable and are not treated as inspected"
+      },
+      {
+        "id": "s6",
+        "label": "www.linkedin.com / source 6",
+        "url": "https://www.linkedin.com/posts/jundi-liu-8b2a15106_tars-trust-aware-reward-shaping-for-vehicle-activity-7440773541261680640-iKx-",
+        "summary": "First-person 2026 TARS announcement describes interactive reinforcement learning that integrates user trust into automated lane-change decision making. This supports method identity, not real vehicle execution.",
+        "verifiedAt": "2026-10-01T10:03:27Z"
+      },
+      {
+        "id": "s7",
+        "label": "projects.vrac.iastate.edu / source 7",
+        "url": "https://projects.vrac.iastate.edu/reu2025/teams/navi/",
+        "summary": "Official directed NAVI project explicitly uses public datasets, Unity mockups and scenario-driven simulation evaluations. Undergraduates are the REU participants.",
+        "verifiedAt": "2026-10-01T10:03:27Z"
+      },
+      {
+        "id": "s8",
+        "label": "journals.sagepub.com / source 8",
+        "url": "https://journals.sagepub.com/doi/pdf/10.1177/10711813251357889",
+        "summary": "2025 AGV study reused from the September 30 screening record: simulated/VR, not verified physical learned execution.",
+        "verifiedAt": "2026-10-01T10:03:27Z",
+        "retrieval": "Reused September 30 full-paper review; exact original check second unavailable. This timestamp records later evidence review, not a fresh full retrieval."
+      },
+      {
+        "id": "s9",
+        "label": "www.mdpi.com / source 9",
+        "url": "https://www.mdpi.com/2227-7102/16/9/1464",
+        "summary": "September 2026 educational-robot study reused from the prior full-paper screen: teaching/curriculum activities, not an executed robot-learning controller.",
+        "verifiedAt": "2026-10-01T10:03:27Z",
+        "retrieval": "Reused September 30 full-paper review; exact original check second unavailable. This timestamp records later evidence review, not a fresh full retrieval."
+      },
+      {
+        "id": "s10",
+        "label": "isso.dso.iastate.edu / source 10",
+        "url": "https://isso.dso.iastate.edu/resources/department/how-do-i-bring-a-visiting-student-for-research-or-an-internship-/primary-options",
+        "summary": "Institutional guidance reused from 2026-10-01T02:58:12Z feasibility review; external foreign-degree objective, return to degree, 3 weeks–12 months and 32 hours/week.",
+        "verifiedAt": "2026-10-01T02:58:12Z",
+        "retrieval": "Reused prior Iowa State institutional-policy review"
+      },
+      {
+        "id": "s11",
+        "label": "isso.dso.iastate.edu / source 11",
+        "url": "https://isso.dso.iastate.edu/resources/department/minimum-required-financial-support-for-j-1-exchange-visitors",
+        "summary": "Reused FY 2027 review: $1,960/month includes $297 insurance, valid August 1, 2026–July 31, 2027; exact dates and later rates require confirmation.",
+        "verifiedAt": "2026-10-01T02:58:12Z",
+        "retrieval": "Reused prior Iowa State institutional-policy review"
+      }
+    ],
+    "unknowns": [
+      "Use the external visiting-student section rather than the ISU-only local master’s project section. An external master’s visitor is within the stated graduate category, but a particular project and appointment still require approval.",
+      "The SPIRE-EIT summer program is undergraduate-focused and ten weeks. Its anticipated Summer 2027 return does not establish an external-master placement.",
+      "Reuse the Iowa State feasibility review verified October 1 at 02:58:12 UTC: Student Intern includes outside foreign-degree students returning to their program, with degree-linked objectives, English verification, at least 32 hours/week and duration three weeks to twelve months. A willing host and formal approvals remain necessary.",
+      "The current-linked intern process requires prior Provost approval; personal-funding documentation is possible, subject to ISSO acceptance, export-control review and appointment classification. A general scholar pathway is separate.",
+      "FY 2027 support is $1,960/month through July 31, 2027, including $297 mandatory insurance. Do not add that insurance twice, treat the support minimum as total cost, or apply it to August 2027 without updated rates. Exact calendar-month billing and dates require confirmation.",
+      "Physical score is zero. Do not imply AGV hardware access, an autonomous road vehicle deployment, learned control of educational robots, or a fresh real-robot experiment from the currently verified sources.",
+      "TARS full methods remain unavailable in this review. The author’s method description supports research fit, not verified physical deployment.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: Earliest retained dated source-screening record from September 30; the original individual first-encounter time was not preserved and is not reconstructed.",
+      "[Institutional visitor rules](../eligibility_notes.md#iowa-state)"
+    ],
+    "discoveryTimestampNote": "Earliest retained dated source-screening record from September 30; the original individual first-encounter time was not preserved and is not reconstructed.",
+    "publicEmail": "jundiliu@iastate.edu",
+    "candidateTier": "Robotics-AI visitor backup; learned physical execution unverified"
+  }
+]

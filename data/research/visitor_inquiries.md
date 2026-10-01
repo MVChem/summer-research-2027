@@ -2,11 +2,11 @@
 
 [全部候选与总分排序](ranked_candidates.md) · [原始索引](mentor_candidates.json) · [机构规则](eligibility_notes.md) · [原200位后续补充](baseline_addenda.md)
 
-从现有记录筛出 **88 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。
+从现有记录筛出 **89 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。
 
 本页按研究匹配分优先，其次真机、短访、新鲜度及发现时间；不把一般询问、学校制度或个人自费能力当成已获资格。所有人的主办类别、八周安排、2027容量、经费和设备访问都需确认。具体奖学金要求、无资助、时间不匹配、任职时点及证据限制优先看下列加粗提示，再读完整资料。
 
-## 访问/短期研究问询线索（现场安排仍须确认） · 80 条
+## 访问/短期研究问询线索（现场安排仍须确认） · 81 条
 
 | 导师 / 机构 | 匹配 / 真机 / 短访 | 已知限制与证据状态 | 直接来源 / 机构规则 | 记录核查 UTC |
 |---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Michael W. Otte](batches/control-007.md#michael-w-otte) · University of Maryland, College Park | 34/22/8 | **必须有外部奖学金/奖项；仅个人自费明确不够** | [s2](https://ottelab.com/html_stuff/policies.html) | 2026-09-30T22:19:35Z |
 | [Shanshan Yao](batches/hri-065.md#shanshan-yao) · Stony Brook University | 34/20/10 | **明确外校在读学生；SBU学期注册/学分与费用需核** | [s2](https://you.stonybrook.edu/smmlab/sample-page/) [规则](eligibility_notes.md#stony-brook) | 2026-10-01T05:46:12Z |
 | [Feng Han](batches/embodied-048.md#feng-han) · New York Institute of Technology | 34/20/8 | **inquiry-only · 海外研究访问类别未确认** | [s3](https://sites.google.com/view/fenghan-homepage/join-us) | 2026-10-01T02:50:30Z |
+| [Jundi Liu](batches/hri-080.md#jundi-liu) · Iowa State University | 34/0/10 | **独立访问研究生入口，取决于匹配和资金；仅仿真方法，2027/八周未定；仅仿真；真机待核实** | [s3](https://jundiliu.me/openings/) [规则](eligibility_notes.md#iowa-state) | 2026-10-01T10:03:27Z |
 | [Allison Okamura](batches/hri-001.md#allison-okamura) · Stanford University | 32/20/5 | **须自备支持、方向匹配及有空位；学校资金分类另批** | [s2](https://charm.stanford.edu/Main/AllisonOkamura) [s3](https://charm.stanford.edu/Main/PastLabMeetings) | 2026-09-30T21:37:40Z |
 | [Pooyan Fazli](batches/hri-005.md#pooyan-fazli) · Arizona State University | 32/18/8 | **公开问询入口；详细资格与期限未定** | [s2](https://pooyanfazli.com/) | 2026-09-30T21:58:49Z |
 | [Preeya Khanna](batches/hri-071.md#preeya-khanna) · University of California, Berkeley | 30/10/10 | **明确硕士/访客询问；真机仅2017–2021历史线索；弱/历史真机线索** | [s1](https://neuralengatberkeley.github.io/join) [规则](eligibility_notes.md#berkeley-vsr) | 2026-10-01T06:33:21Z |

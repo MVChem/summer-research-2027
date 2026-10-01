@@ -193,7 +193,8 @@
     "batches/hri-057.json",
     "batches/hri-058.json",
     "batches/hri-059.json",
-    "batches/hri-060.json"
+    "batches/hri-060.json",
+    "batches/hri-061.json"
   ],
   "candidates": [
     {
@@ -10924,6 +10925,63 @@
       "shortVisitStatus": "unknown · separate 2026 NSAP restrictions",
       "recordFile": "batches/hri-060.json",
       "detailPage": "batches/hri-060.md#jose-luis-contreras-vidal"
+    },
+    {
+      "id": "bin-he",
+      "name": "Bin He",
+      "aliases": [],
+      "school": "Carnegie Mellon University",
+      "title": "Trustee Professor of Biomedical Engineering; Professor of Neuroscience Institute; Professor of Electrical and Computer Engineering by courtesy",
+      "homepage": "https://www.cmu.edu/bme/helab/People/faculty/bhe.html",
+      "batch": "hri-061",
+      "discoveredAt": "2026-10-01T05:07:29Z",
+      "verifiedAt": "2026-10-01T05:13:42Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Deep-learning neural decoding",
+        "Noninvasive brain-computer interfaces",
+        "Assistive robotic hands",
+        "Human-machine co-adaptation",
+        "Real-time signal processing"
+      ],
+      "shortVisitStatus": "degree-only",
+      "recordFile": "batches/hri-061.json",
+      "detailPage": "batches/hri-061.md#bin-he"
+    },
+    {
+      "id": "kathleen-candon",
+      "name": "Kathleen Candon",
+      "aliases": [
+        "Kate Candon",
+        "Kathleen (Kate) Candon"
+      ],
+      "school": "Skidmore College",
+      "title": "Assistant Professor of Computer Science",
+      "homepage": "https://www.skidmore.edu/computer-science/faculty/kahleen-candon.php",
+      "batch": "hri-061",
+      "discoveredAt": "2026-10-01T05:07:22Z",
+      "verifiedAt": "2026-10-01T05:13:42Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-robot interaction",
+        "Interactive preference learning",
+        "Gaussian-process classification",
+        "Learning from implicit and explicit feedback",
+        "Collaborative robotic manipulation"
+      ],
+      "shortVisitStatus": "unknown · internal Skidmore summer program only",
+      "recordFile": "batches/hri-061.json",
+      "detailPage": "batches/hri-061.md#kathleen-candon"
     }
   ]
 }

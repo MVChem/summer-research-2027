@@ -1,0 +1,223 @@
+[
+  {
+    "id": "bin-he",
+    "name": "Bin He",
+    "aliases": [],
+    "school": "Carnegie Mellon University",
+    "homepage": "https://www.cmu.edu/bme/helab/People/faculty/bhe.html",
+    "title": "Trustee Professor of Biomedical Engineering; Professor of Neuroscience Institute; Professor of Electrical and Computer Engineering by courtesy",
+    "department": "Biomedical Engineering; Neuroscience Institute; Electrical and Computer Engineering by courtesy",
+    "batch": "hri-061",
+    "discoveredAt": "2026-10-01T05:07:29Z",
+    "verifiedAt": "2026-10-01T05:13:42Z",
+    "researchAreas": [
+      "Deep-learning neural decoding",
+      "Noninvasive brain-computer interfaces",
+      "Assistive robotic hands",
+      "Human-machine co-adaptation",
+      "Real-time signal processing"
+    ],
+    "fitReason": "Strong specialized AI-to-physical-control fit through convolutional EEG decoding, same-day adaptation and human-machine learning. A software/decoding project on existing data could be narrower than participant-facing experiments, but is not an offered short-term project.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The complete June 2025 study deploys EEGNet-8.2 convolutional decoding with same-day fine-tuning to control an actual four-finger Allegro Hand. Twenty-one able-bodied participants had prior BCI experience and passed an offline decoding screen; decoded two- or three-finger choices drove visible physical finger movements. This establishes learned robotic execution, not arbitrary dexterous object manipulation or broad clinical effectiveness. Bin He conceived and supervised the study, with his CMU group and students explicitly identified. The distinct July 2026 joint-learning study uses cursor tasks and vibrotactile feedback; it is fresh AI work, not a new physical-hand deployment.",
+      "sourceIds": [
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "degree-only",
+      "summary": "The current lab positions page advertises prospective PhD and postdoctoral research participation. It does not establish an external-master summer 2027 research visit, eight-week project, stipend or remote arrangement.",
+      "sourceIds": [
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "38/40: concrete convolutional decoding and adaptive human-machine learning linked to assistive robots.",
+      "physical": "25/25: full 2025 primary methods and explicit group leadership establish actual learned Allegro execution.",
+      "shortVisit": "0/20: PhD/postdoc recruitment and institutional routes are not an external-master visit offer.",
+      "freshness": "15/15: distinct July 2026 primary machine-learning study, with its cursor-only scope preserved."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.cmu.edu / source 1",
+        "url": "https://www.cmu.edu/bme/helab/People/faculty/bhe.html",
+        "summary": "Official current faculty profile confirms named professorships and laboratory leadership.",
+        "verifiedAt": "2026-10-01T05:13:42Z"
+      },
+      {
+        "id": "s2",
+        "label": "www.cmu.edu / source 2",
+        "url": "https://www.cmu.edu/bme/People/resources/faculty/cv_bin_he2026.pdf",
+        "summary": "Current university-hosted CV verifies exact appointments and bhe1@andrew.cmu.edu.",
+        "verifiedAt": "2026-10-01T05:13:42Z"
+      },
+      {
+        "id": "s3",
+        "label": "www.nature.com / source 3",
+        "url": "https://www.nature.com/articles/s41467-025-61064-x",
+        "summary": "Full primary 2025 methods verify EEGNet-controlled physical Allegro fingers, selected participant population and He’s study supervision.",
+        "verifiedAt": "2026-10-01T05:13:42Z"
+      },
+      {
+        "id": "s4",
+        "label": "www.cmu.edu / source 4",
+        "url": "https://www.cmu.edu/ni/news-events/2025/bci-robotic-hand-control",
+        "summary": "July 2025 official CMU account identifies He’s students and physical robotic-hand study.",
+        "verifiedAt": "2026-10-01T05:13:42Z"
+      },
+      {
+        "id": "s5",
+        "label": "www.nature.com / source 5",
+        "url": "https://www.nature.com/articles/s41467-026-75435-5",
+        "summary": "Full July 2026 primary study provides current joint-learning work on cursor BCI tasks, not a new robotic-hand trial.",
+        "verifiedAt": "2026-10-01T05:13:42Z"
+      },
+      {
+        "id": "s6",
+        "label": "www.cmu.edu / source 6",
+        "url": "https://www.cmu.edu/bme/helab/Positions/index.html",
+        "summary": "Current lab openings concern PhD/postdoctoral recruitment; no external-master short visit verified.",
+        "verifiedAt": "2026-10-01T05:13:42Z"
+      }
+    ],
+    "unknowns": [
+      "Summer 2027 capacity, duration, funding, remote options and access to equipment or participant data remain unknown.",
+      "Reuse the existing CMU review: the university has Student Intern and collaborating-visitor processes, but classification and host acceptance require confirmation; undergraduate RISS/HCII routes are not master’s eligibility.",
+      "CMU institutional personal/external-funding documentation and departmental screening do not establish this lab’s offer or a guaranteed eight-week appointment. Exact 2027 support, fees, insurance and lead time must be confirmed.",
+      "The selected 2025 physical experiment used able-bodied, experienced, screened BCI users. Human-subjects onboarding is separate from computational project access.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#cmu-student-intern)"
+    ],
+    "publicEmail": "bhe1@andrew.cmu.edu"
+  },
+  {
+    "id": "kathleen-candon",
+    "name": "Kathleen Candon",
+    "aliases": [
+      "Kate Candon",
+      "Kathleen (Kate) Candon"
+    ],
+    "school": "Skidmore College",
+    "homepage": "https://www.skidmore.edu/computer-science/faculty/kahleen-candon.php",
+    "title": "Assistant Professor of Computer Science",
+    "department": "Computer Science",
+    "batch": "hri-061",
+    "discoveredAt": "2026-10-01T05:07:22Z",
+    "verifiedAt": "2026-10-01T05:13:42Z",
+    "researchAreas": [
+      "Human-robot interaction",
+      "Interactive preference learning",
+      "Gaussian-process classification",
+      "Learning from implicit and explicit feedback",
+      "Collaborative robotic manipulation"
+    ],
+    "fitReason": "Highly direct CS/HRI fit in learning reward and preference models from human action choices and evaluative feedback. Her current research identity is independent of her prior Yale advisors; the reviewed physical experiment is attributed to the Yale collaboration rather than claimed as Skidmore infrastructure.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The full September 2026 IMPLIED manuscript reports 20 participants collaborating with a real Franka Emika Panda to assemble toy pizzas. A Gaussian-process implication model and preference-weight learning update during interaction and influence ingredient choices; MoveIt Task Constructor handles pick-and-place motion while the Shutter robot provides social cues. The task uses known, discrete high-level actions and stable preferences. This is online learned physical collaboration at Yale, coauthored by Candon, not verified deployment in her new Skidmore lab. The earlier first-authored HRI 2026 PIE study used offline preference estimation, as the newer paper explicitly distinguishes.",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown · internal Skidmore summer program only",
+      "summary": "No current personal-page invitation for outside master’s students was found. Skidmore’s dated summer 2027 Faculty Student Summer Research Program is for Skidmore faculty and current students and offers five- or ten-week terms; it does not establish an external student’s eight-week placement. The separate institutional scholar process is only a possible administrative inquiry.",
+      "sourceIds": [
+        "s3",
+        "s6",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "39/40: direct interactive robot learning, Gaussian-process feedback inference and reward adaptation.",
+      "physical": "20/25: full current physical study is Yale collaborative work; no new Skidmore hardware execution established.",
+      "shortVisit": "0/20: no current external-master offer; internal summer program and scholar categories do not establish access.",
+      "freshness": "15/15: September 2026 primary online physical preference-learning study and current department appointment."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.skidmore.edu / source 1",
+        "url": "https://www.skidmore.edu/computer-science/faculty/kahleen-candon.php",
+        "summary": "Full official current bio retrieved directly verifies Assistant Professor and displayed email; mailto mismatch retained as caveat.",
+        "verifiedAt": "2026-10-01T05:13:42Z"
+      },
+      {
+        "id": "s2",
+        "label": "www.skidmore.edu / source 2",
+        "url": "https://www.skidmore.edu/computer-science/faculty/index.php",
+        "summary": "Current official indexed faculty listing corroborates Assistant Professor, while one older fetched version omitted the new appointment.",
+        "verifiedAt": "2026-10-01T05:13:42Z",
+        "retrieval": "official indexed listing; earlier fetched version omitted appointment"
+      },
+      {
+        "id": "s3",
+        "label": "kccandonk.github.io / source 3",
+        "url": "https://kccandonk.github.io/",
+        "summary": "Author announces Fall 2026 Skidmore Assistant Professor appointment and feedback-learning research; old Yale student header remains.",
+        "verifiedAt": "2026-10-01T05:13:42Z"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2609.13982v1",
+        "summary": "Complete September 2026 primary methods and Appendix E verify online GP preference learning, 20-person real Panda study, Shutter/MoveIt roles and Yale attribution.",
+        "verifiedAt": "2026-10-01T05:13:42Z"
+      },
+      {
+        "id": "s5",
+        "label": "github.com / source 5",
+        "url": "https://github.com/yale-img/pie_preflearning",
+        "summary": "Primary research code and citation corroborate Candon’s first-authored HRI 2026 PIE method; no live visitor opening implied.",
+        "verifiedAt": "2026-10-01T05:13:42Z"
+      },
+      {
+        "id": "s6",
+        "label": "www.skidmore.edu / source 6",
+        "url": "https://www.skidmore.edu/the-learning-commons/international-students/visa-employment.php",
+        "summary": "Official scholar section lists categories, six-month short-term maximum and host-department/Dean initiation; no external-master or self-funding guarantee.",
+        "verifiedAt": "2026-10-01T05:13:42Z"
+      },
+      {
+        "id": "s7",
+        "label": "www.skidmore.edu / source 7",
+        "url": "https://www.skidmore.edu/dof-vpaa/development/faculty_student_summer_research/index.php",
+        "summary": "Dated 2027 internal program explicitly limits eligibility to current Skidmore students, with five/ten-week periods and February 5 deadline.",
+        "verifiedAt": "2026-10-01T05:13:42Z"
+      },
+      {
+        "id": "s8",
+        "label": "catalog.skidmore.edu / source 8",
+        "url": "https://catalog.skidmore.edu/faculty/",
+        "summary": "Catalog still labels Candon Visiting Lecturer, a disclosed conflicting title rather than silently omitted evidence.",
+        "verifiedAt": "2026-10-01T05:13:42Z"
+      }
+    ],
+    "unknowns": [
+      "Current department profile and the author’s Fall 2026 announcement support Assistant Professor; a conflicting catalog entry still labels her Visiting Lecturer, so institutional pages are not fully synchronized.",
+      "The official bio’s visible email is kcandon@skidmore.edu, but its mailto target incorrectly points to another faculty member; use the displayed address only after reconfirmation, not the incorrect link.",
+      "Current Skidmore robot ownership, group capacity, summer 2027 funding, external-master acceptance and remote collaboration remain unknown.",
+      "The official J-1 page lists department-initiated Professor/Research Scholar and Short-Term Scholar categories with Dean of Faculty approval. It does not establish that an external master’s student fits those appointments, nor a Student Intern route.",
+      "Short-Term Scholar is described as up to six months. Personal-fund acceptance, minimum funding, local fees and processing time are not stated in the reviewed scholar section; the F-1 degree-student financial instructions must not be transferred to scholars.",
+      "The advertised 2027 internal summer program’s February 5 deadline and 5/10-week periods do not apply automatically to a privately arranged external research visit.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#skidmore)"
+    ],
+    "publicEmail": "kcandon@skidmore.edu"
+  }
+]

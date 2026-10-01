@@ -883,3 +883,13 @@ Sources: [Guides and Forms](https://www.lamar.edu/international-education/intern
 核查：2026-10-01T04:59:11Z。[Graduate School 类别页](https://grad.temple.edu/postdoctoral-affairs/postdoctoral-visiting-scholar-categories)明确包含美国境外学校持续在读、已有学士或硕士的 J-1 Graduate Student Intern，不包括双学位／联合学位项目；列每年至少24,000美元，并明确接受个人资金等来源。八周的财力折算、具体任命的全个人出资批准与2027金额须重核，不能套用相邻 Scholar in Residence 的个人资金禁令。
 
 [ISSS 分类](https://global.temple.edu/isss/faculty-staff-researchers/j-1-research-scholars-professor/prospective-j-1-exchange-visitors)要求研究服务原校毕业要求，Student Intern 为三周至十二个月；八周符合公开时长。需导师和院系先接收，再由 ISSS 核定身份。[申请页](https://global.temple.edu/isss/faculty-staff-researchers/j-1-research-scholars-professor/prospective-j-1-exchange-visitors/j-1-scholar-application-requirements)要求完整申请至少提前两个月，包含原校证明、任命、英语、保险和财力；五至七天只是文件处理阶段。处理费及全部成本未确证，学校机制不是实验室名额。
+
+<a id="skidmore"></a>
+## Skidmore College
+
+核验时间：2026-10-01。外校硕士的约八周访问、远程合作、实验室名额和经费均未确认，机会分为0。
+
+- [官方 J-1 说明](https://www.skidmore.edu/the-learning-commons/international-students/visa-employment.php)列出 Professor、Research Scholar 与 Short-Term Scholar；短期学者最长六个月。接收院系先向 Dean of Faculty 发起申请，获批后办理 DS-2019。该页面没有确认外校硕士适用资格或 Student Intern 类别；应由院系与 ISSS 判断实际访问身份。
+- 上述学者说明未给出自费接受规则、最低资金、本地费用或办理提前量。不要将同页 F-1 本校学位生的个人／家庭资金说明套用于访问学者。保险及与访问身份一致的研究活动另须确认。
+- [2027 Faculty Student Summer Research](https://www.skidmore.edu/dof-vpaa/development/faculty_student_summer_research/index.php)面向本校教师与在读学生，期限为五或十周，申请截止2027-02-05，已毕业学生不合资格。旧页面出现的八周不代表2027规则，也不能据此认定外校硕士可申请。此内部项目的限制不等于所有单独安排访问均被禁止。
+- Kate Candon 的当前院系页面确认 Assistant Professor；旧目录仍显示 Visiting Lecturer。已核验的2026实体机器人实验属于 Yale 合作，尚未证明 Skidmore 已有同样设备或可开放访问。

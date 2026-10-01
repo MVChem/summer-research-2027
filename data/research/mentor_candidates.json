@@ -271,6 +271,7 @@
     "batches/hri-084.json",
     "batches/hri-085.json",
     "batches/hri-086.json",
+    "batches/hri-087.json",
     "batches/hri-089.json"
   ],
   "candidates": [
@@ -14319,6 +14320,37 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-086.json",
       "detailPage": "batches/hri-086.md#william-t-freeman"
+    },
+    {
+      "id": "nadir-weibel",
+      "name": "Nadir Weibel",
+      "aliases": [],
+      "school": "University of California San Diego",
+      "title": "Professor of Computer Science and Engineering; Director, UCSD XR Lab; Associate Faculty Director, Design Lab",
+      "homepage": "https://hxi.ucsd.edu/people/nadir-weibel/",
+      "batch": "hri-087",
+      "discoveredAt": "2026-10-01T03:29:02Z",
+      "verifiedAt": "2026-10-01T11:04:36Z",
+      "scores": {
+        "fit": 32,
+        "physical": 0,
+        "shortVisit": 10,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Spatial AI and mixed reality",
+        "Vision-language models for 3D accessibility",
+        "Context-aware physical-task instructions",
+        "Human-AI interaction",
+        "Multimodal interaction"
+      ],
+      "discoveryTimestampNote": "Retains the earliest precisely saved source-screening timestamp. An earlier casual encounter was not separately timed and has not been reconstructed.",
+      "candidateTier": "Spatial-AI and Human-AI visitor backup; no physical robot execution verified",
+      "physicalEvidenceStatus": "unverified",
+      "physicalEvidenceLabel": "真机待核实",
+      "shortVisitStatus": "inquiry-only · 空间/人机AI备选；外校短访志愿/自筹，正式类别另批",
+      "recordFile": "batches/hri-087.json",
+      "detailPage": "batches/hri-087.md#nadir-weibel"
     },
     {
       "id": "maria-gorlatova",

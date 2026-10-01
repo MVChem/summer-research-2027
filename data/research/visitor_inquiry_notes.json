@@ -614,6 +614,13 @@
       "sourceIds": [
         "s3"
       ]
+    },
+    "nadir-weibel": {
+      "note": "空间AI/人机AI备选，机器人执行未核；外校短访均志愿/自筹，需正式VGS审批",
+      "sourceIds": [
+        "s3",
+        "s8"
+      ]
     }
   }
 }

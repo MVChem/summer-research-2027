@@ -1,0 +1,124 @@
+[
+  {
+    "id": "nadir-weibel",
+    "name": "Nadir Weibel",
+    "aliases": [],
+    "school": "University of California San Diego",
+    "homepage": "https://hxi.ucsd.edu/people/nadir-weibel/",
+    "title": "Professor of Computer Science and Engineering; Director, UCSD XR Lab; Associate Faculty Director, Design Lab",
+    "department": "Computer Science and Engineering; HXI Research Lab; Design Lab",
+    "batch": "hri-087",
+    "discoveredAt": "2026-10-01T03:29:02Z",
+    "verifiedAt": "2026-10-01T11:04:36Z",
+    "researchAreas": [
+      "Spatial AI and mixed reality",
+      "Vision-language models for 3D accessibility",
+      "Context-aware physical-task instructions",
+      "Human-AI interaction",
+      "Multimodal interaction"
+    ],
+    "fitReason": "A lower-physical-confidence spatial-AI/Human-AI research backup. SweeperBot uses CLIP relevance, Grounding DINO object evidence and multimodal answer generation to select informative rendered viewpoints and answer questions about 3D models. PaperToPlace fine-tunes BERT to associate instructions with workspace objects, then optimizes their presentation in mixed reality. These are concrete spatial interaction methods relevant to perception, accessibility and human-centered AI, but they are not robot-control research results.",
+    "physicalEvidence": {
+      "status": "unverified",
+      "summary": "No attributable physical robot execution was established. SweeperBot evaluates accessible browsing of digital 3D assets; the word Bot does not indicate a physical robot. PaperToPlace presents guidance through a headset while people perform tasks. Older autonomous-vehicle material inspected was a conceptual framework, not a vehicle trial. Do not infer robot deployment from Contextual Robotics affiliation, MR devices, surgical telementoring or a physical-world application.",
+      "sourceIds": [
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only · 空间/人机AI备选；外校短访志愿/自筹，正式类别另批",
+      "summary": "The live HXI join FAQ, updated September 16, 2026, explicitly welcomes short and longer visiting researchers who already hold a student, postdoctoral or faculty position at another institution. Such visits are volunteer/self-funded; the lab offers space/resources and asks prospective visitors to discuss project fit, timeline and financial documentation. This supports an outside-student inquiry, not an accepted eight-week summer 2027 placement. Master’s-level classification still requires UCSD approval.",
+      "sourceIds": [
+        "s3",
+        "s8"
+      ]
+    },
+    "scores": {
+      "fit": 32,
+      "physical": 0,
+      "shortVisit": 10,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantive spatial/3D vision-language and mixed-reality methods, but indirect fit to robot learning; explicit broader backup.",
+      "physical": "No physical robot execution established; virtual assets and headset guidance are not credited as robot hardware.",
+      "shortVisit": "Current lab-specific short-visit inquiry explicitly covers outside students, conditionally self-funded; acceptance and category approval unknown.",
+      "freshness": "Current September 2026 invitation/project pages and official 2026 SweeperBot publication record; original paper dates preserved."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "cse.ucsd.edu / source 1",
+        "url": "https://cse.ucsd.edu/people/faculty-profiles/nadir-weibel",
+        "summary": "Current official faculty profile corroborates CSE affiliation and professional contact.",
+        "verifiedAt": "2026-10-01T11:04:36Z"
+      },
+      {
+        "id": "s2",
+        "label": "hxi.ucsd.edu / source 2",
+        "url": "https://hxi.ucsd.edu/people/nadir-weibel/",
+        "summary": "Direct current university-hosted PI page gives Professor of CSE, XR Lab directorship and Design Lab role; broad human-centered AI/XR agenda.",
+        "verifiedAt": "2026-10-01T11:04:36Z"
+      },
+      {
+        "id": "s3",
+        "label": "hxi.ucsd.edu / source 3",
+        "url": "https://hxi.ucsd.edu/faq/join-us/",
+        "summary": "Direct live, September 2026 visitor FAQ expressly includes students based at other institutions, short visits and volunteer/self-funded conditions; no individual offer.",
+        "verifiedAt": "2026-10-01T11:04:36Z"
+      },
+      {
+        "id": "s4",
+        "label": "hxi.ucsd.edu / source 4",
+        "url": "https://hxi.ucsd.edu/project/mixed-dimensional/",
+        "summary": "Current official project agenda explicitly includes SweeperBot, PaperToPlace and spatialized instructions, supporting the spatial-AI scope rather than generic HCI alone.",
+        "verifiedAt": "2026-10-01T11:04:36Z"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2511.14567v1",
+        "summary": "Full SweeperBot methods inspected: view sampling/selection with CLIP and Grounding DINO, followed by foundation-model VQA; digital 3D browsing rather than hardware.",
+        "verifiedAt": "2026-10-01T11:04:36Z"
+      },
+      {
+        "id": "s6",
+        "label": "hxi.ucsd.edu / source 6",
+        "url": "https://hxi.ucsd.edu/publication/2026-chen-ijhci-sweeperbot/",
+        "summary": "Current official 2026 publication record for work whose preprint was posted November 2025; does not newly date experiments.",
+        "verifiedAt": "2026-10-01T11:04:36Z"
+      },
+      {
+        "id": "s7",
+        "label": "arxiv.org / source 7",
+        "url": "https://arxiv.org/html/2308.13924v1",
+        "summary": "Full 2023 PaperToPlace authoring and consumption methods inspected; BERT object associations and MR spatial-layout optimization, not autonomous robot actions.",
+        "verifiedAt": "2026-10-01T11:04:36Z"
+      },
+      {
+        "id": "s8",
+        "label": "www.grad.ucsd.edu / source 8",
+        "url": "https://www.grad.ucsd.edu/financial/non-uc-visiting-grads/index.html",
+        "summary": "Outside-MS visiting graduate rules reused from the September 30 institutional check; no current project approval inferred.",
+        "verifiedAt": "2026-09-30T21:34:48Z",
+        "retrieval": "Reused prior UCSD outside-graduate institutional review; individual approval remains necessary"
+      }
+    ],
+    "unknowns": [
+      "This is an explicitly spatial-AI/Human-AI backup, not an AI-on-physical-robot mentor row. A project must match the intended research scope before prioritizing it.",
+      "UCSD institutional evidence is reused from 2026-09-30T21:34:48Z. Non-UC Visiting Graduate Students includes outside master’s enrollment, research supporting the home degree, personal-funded non-salaried participation and no minimum appointment duration; host, department and graduate approval remain necessary.",
+      "The lab’s Visiting Researcher label is not itself a determination of the university appointment or immigration category. An enrolled external master’s student should have CSE/Design Lab and the graduate/international offices confirm the applicable route.",
+      "The existing institutional note asks for international materials at least three months ahead, and earlier if a visa is needed. Current support threshold, fees, insurance, any clinical/data-access restrictions and the 2027 budget must be confirmed; none is waived by the self-funded lab invitation.",
+      "Eight-week project fit, summer 2027 supervision, remote availability and acceptance remain unknown. Remote collaboration research describes the subject matter, not permission for a remote internship.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: Retains the earliest precisely saved source-screening timestamp. An earlier casual encounter was not separately timed and has not been reconstructed.",
+      "[Institutional visitor rules](../eligibility_notes.md#uc-san-diego)"
+    ],
+    "discoveryTimestampNote": "Retains the earliest precisely saved source-screening timestamp. An earlier casual encounter was not separately timed and has not been reconstructed.",
+    "publicEmail": "weibel@ucsd.edu",
+    "candidateTier": "Spatial-AI and Human-AI visitor backup; no physical robot execution verified"
+  }
+]

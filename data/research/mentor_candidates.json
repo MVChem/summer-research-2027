@@ -182,7 +182,8 @@
     "batches/hri-053.json",
     "batches/hri-054.json",
     "batches/hri-055.json",
-    "batches/hri-056.json"
+    "batches/hri-056.json",
+    "batches/hri-057.json"
   ],
   "candidates": [
     {
@@ -10370,6 +10371,37 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-056.json",
       "detailPage": "batches/hri-056.md#levi-j-hargrove"
+    },
+    {
+      "id": "jose-l-pons",
+      "name": "José L. Pons",
+      "aliases": [
+        "Jose L. Pons",
+        "José Pons",
+        "Jose Pons"
+      ],
+      "school": "Northwestern University; Shirley Ryan AbilityLab",
+      "title": "Professor of Physical Medicine and Rehabilitation; Professor of Mechanical Engineering (by courtesy)",
+      "homepage": "https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=45490",
+      "batch": "hri-057",
+      "discoveredAt": "2026-10-01T04:40:28Z",
+      "verifiedAt": "2026-10-01T04:47:03Z",
+      "scores": {
+        "fit": 37,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Learning-based exoskeleton control",
+        "Physical human-robot interaction",
+        "Neurorobotics",
+        "Probabilistic neural prediction",
+        "Robot-assisted gait rehabilitation"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-057.json",
+      "detailPage": "batches/hri-057.md#jose-l-pons"
     }
   ]
 }

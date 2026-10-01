@@ -268,6 +268,7 @@
     "batches/hri-081.json",
     "batches/hri-083.json",
     "batches/hri-084.json",
+    "batches/hri-085.json",
     "batches/hri-089.json"
   ],
   "candidates": [
@@ -14219,6 +14220,38 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-084.json",
       "detailPage": "batches/hri-084.md#xuanhe-zhao"
+    },
+    {
+      "id": "j-edward-colgate",
+      "name": "J. Edward Colgate",
+      "aliases": [
+        "Ed Colgate",
+        "Edward Colgate",
+        "James Edward Colgate",
+        "J. E. Colgate"
+      ],
+      "school": "Northwestern University",
+      "title": "Walter P. Murphy Professor of Mechanical Engineering; Director, NSF HAND Engineering Research Center",
+      "homepage": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/colgate-edward.html",
+      "batch": "hri-085",
+      "discoveredAt": "2026-10-01T10:28:02Z",
+      "verifiedAt": "2026-10-01T10:46:56Z",
+      "scores": {
+        "fit": 37,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Dexterous robot learning",
+        "Physics-informed reinforcement learning",
+        "Haptic human-machine interfaces",
+        "Contact-rich manipulation",
+        "Robotic hand design"
+      ],
+      "shortVisitStatus": "unknown · indexed MSc/BSc项目询问；外校短访适用性未核",
+      "recordFile": "batches/hri-085.json",
+      "detailPage": "batches/hri-085.md#j-edward-colgate"
     },
     {
       "id": "maria-gorlatova",

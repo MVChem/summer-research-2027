@@ -1,0 +1,101 @@
+[
+  {
+    "id": "j-edward-colgate",
+    "name": "J. Edward Colgate",
+    "aliases": [
+      "Ed Colgate",
+      "Edward Colgate",
+      "James Edward Colgate",
+      "J. E. Colgate"
+    ],
+    "school": "Northwestern University",
+    "homepage": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/colgate-edward.html",
+    "title": "Walter P. Murphy Professor of Mechanical Engineering; Director, NSF HAND Engineering Research Center",
+    "department": "Mechanical Engineering; NU Haptics Lab; HAND Engineering Research Center",
+    "batch": "hri-085",
+    "discoveredAt": "2026-10-01T10:28:02Z",
+    "verifiedAt": "2026-10-01T10:46:56Z",
+    "researchAreas": [
+      "Dexterous robot learning",
+      "Physics-informed reinforcement learning",
+      "Haptic human-machine interfaces",
+      "Contact-rich manipulation",
+      "Robotic hand design"
+    ],
+    "fitReason": "The current group links haptic and contact mechanics to algorithmic robot manipulation, with active postdoctoral supervision independently documented. This provides a concrete CS-facing learning/control topic beyond the broader haptic-device program; a short visitor would still need a tightly scoped project and host agreement.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Full July 2026 primary methods verify PPO/Rapid Motor Adaptation policies operating an actual 16-DoF Allegro V4 hand mounted on a Franka Research 3. The learned policy sends joint-position targets to conventional low-level PD control and observes proprioceptive history only. The arm sets palm orientation and then stays fixed; camera/AprilTag measurements are for post-hoc evaluation. Physical tests cover three objects and four palm tilts with fabricated fingertip variants. This is learned in-hand rotation, not autonomous grasp acquisition or moving-arm manipulation. The manuscript explicitly limits generalization and systematic external-perturbation evidence. Its 83% gated success measure requires at least ten seconds of maintained grasp and 0.15 turns, not a full rotation. Co-first author Shihan Lu is independently listed as Colgate’s current postdoctoral advisee.",
+      "sourceIds": [
+        "s2",
+        "s3"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown · indexed MSc/BSc项目询问；外校短访适用性未核",
+      "summary": "The indexed official lab openings page invites MSc/BSc project inquiries and separately recruits PhD/postdoctoral researchers, but it does not establish applicability to outside master’s visitors. Live web and shell retrieval returned timeout/502, so the indexed text is not presented as a freshly confirmed external invitation. No eight-week summer 2027 placement, remote option or funding commitment verified.",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Specific reinforcement-learning and haptic-manipulation methods fit a CS research project; broader devices work needs careful topic matching.",
+      "physical": "Full actual learned-hand protocol plus an independently verified current postdoctoral advising link.",
+      "shortVisit": "Outside-master inquiry and summer availability remain unknown; generic MSc projects and policy eligibility receive no opportunity credit.",
+      "freshness": "July 2026 primary study and current official role/advisee pages."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.mccormick.northwestern.edu / source 1",
+        "url": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/colgate-edward.html",
+        "summary": "Direct current university directory verifies exact endowed title, HAND directorship, Evanston host, public email and current dexterous-manipulation/haptics research.",
+        "verifiedAt": "2026-10-01T10:46:56Z"
+      },
+      {
+        "id": "s2",
+        "label": "arxiv.org / source 2",
+        "url": "https://arxiv.org/html/2607.12105v1",
+        "summary": "Full July 13, 2026 manuscript inspected, including learning formulation, actual hardware protocol, metric definition and limitations. Physical results are distinguished from simulation.",
+        "verifiedAt": "2026-10-01T10:46:56Z"
+      },
+      {
+        "id": "s3",
+        "label": "robotics.northwestern.edu / source 3",
+        "url": "https://robotics.northwestern.edu/people/profiles/students/lu-shihan.html",
+        "summary": "Direct official roster identifies Shihan Lu as a postdoctoral researcher advised by J. Edward Colgate, independently supporting current group attribution.",
+        "verifiedAt": "2026-10-01T10:46:56Z"
+      },
+      {
+        "id": "s4",
+        "label": "sites.northwestern.edu / source 4",
+        "url": "https://sites.northwestern.edu/hapticsgroup/open-positions/",
+        "summary": "Indexed official MSc/BSc project inquiry text, crawled about three months earlier; live retrieval failed. No outside-master or short-visit promise established.",
+        "verifiedAt": "2026-10-01T10:46:56Z"
+      },
+      {
+        "id": "s5",
+        "label": "www.northwestern.edu / source 5",
+        "url": "https://www.northwestern.edu/international/host-departments/j1-visas/student-visitors.html",
+        "summary": "Institutional host-department Student Intern process reused from the September 30 feasibility audit; no new policy or placement approval inferred.",
+        "verifiedAt": "2026-09-30T23:20:58Z",
+        "retrieval": "Reused earlier institutional-policy review; dated provisions remain subject to 2027 confirmation"
+      }
+    ],
+    "unknowns": [
+      "Northwestern institutional evidence is reused from 2026-09-30T23:20:58Z, not newly verified. Visiting Predoctoral Fellow expressly requires outside doctoral enrollment. Student Intern materials list MA/PhD examples, but the currently linked department checklist still says current undergraduate; OISS and McCormick must resolve external-master classification.",
+      "The Student Intern duration table includes eight weeks and requires at least 32 hours per week plus home-degree relevance. Personal funds are allowed by the central intern materials, but this does not resolve the appointment conflict or establish this lab’s acceptance.",
+      "The saved check records $2,470 monthly living support, excluding health costs; processing-fee sources conflict ($360 current table versus $325 linked form), and insurance was $7.93 per day before any 2027 change. These are not an approved individualized budget. Confirm departmental fee responsibility, insurance, dates and facility access.",
+      "Actual summer 2027 capacity, eight-week project feasibility, remote supervision and stipend or personal-funding approval remain unknown. Current degree-project recruitment and past advising do not guarantee a short visit.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#northwestern)"
+    ],
+    "publicEmail": "colgate@northwestern.edu"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "md-tanzil-shahria",
+    "name": "Md Tanzil Shahria",
+    "aliases": [
+      "MD Tanzil Shahria",
+      "Md. Tanzil Shahria",
+      "Tanzil Shahria"
+    ],
+    "school": "Lakeland University",
+    "homepage": "https://lakeland.edu/post/lakeland-university-welcomes-two-new-faculty-2026-08-17",
+    "title": "Assistant Professor of Computer Science",
+    "department": "Computer Science; Wisconsin campus",
+    "batch": "hri-088",
+    "discoveredAt": "2026-10-01T11:00:30Z",
+    "verifiedAt": "2026-10-01T11:06:17Z",
+    "researchAreas": [
+      "Vision-guided assistive manipulation",
+      "Human-centered robotics",
+      "Deep-learning object detection",
+      "Semi-autonomous daily-living assistance",
+      "Accessible robot interfaces"
+    ],
+    "fitReason": "New current US faculty with first-author experience integrating trained object perception into assistive robot actions. The university’s fall 2026 announcement identifies an ongoing AI/assistive-robotics agenda. This is a new-host backup: earlier experiments were at UW–Milwaukee and do not establish a present Lakeland robotics laboratory.",
+    "physicalEvidence": {
+      "status": "historical-or-indirect",
+      "summary": "Full 2024 Automation methods verify fine-tuned YOLOv5s detection feeding an actual xArm6/RealSense D435 pick-and-place system. A user selects the detected object; image-centering and distance-error rules plus SDK inverse kinematics guide approach, followed by predefined grasp/return movements. The learned component is perception, not a learned motor policy. The reported combined detection/localization/task success is 72.9%, with restricted tabletop workspace and grasping/depth limitations. All of this is former UW–Milwaukee work; current Lakeland apparatus and access are unverified. No clinical efficacy or unrestricted autonomous assistance is inferred.",
+      "sourceIds": [
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No lab-specific outside-master short-visit, remote internship or summer 2027 invitation was established. The current appointment announcement and prior graduate research demonstrate expertise, not visitor capacity. A current Lakeland professional email was not verified; the former UWM email is not presented as the current host contact.",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "Direct learned-perception integration in assistive manipulation and current related agenda; new-host project matching essential.",
+      "physical": "Actual first-author learned perception-to-action execution, capped for former-host 2024 apparatus and unverified current facilities.",
+      "shortVisit": "No outside-master invitation, current contact email or eight-week availability established.",
+      "freshness": "Current official Fall 2026 faculty appointment is verified separately; the fully inspected technical experiment remains April 2024. No separately sourced newer research/recruitment event is credited as fresh hardware or a current opening."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "lakeland.edu / source 1",
+        "url": "https://lakeland.edu/post/lakeland-university-welcomes-two-new-faculty-2026-08-17",
+        "summary": "Direct official August 2026 announcement identifies full-time CS Assistant Professor, completed UWM doctorate, and AI/assistive-robotics agenda.",
+        "verifiedAt": "2026-10-01T11:06:17Z"
+      },
+      {
+        "id": "s2",
+        "label": "www.linkedin.com / source 2",
+        "url": "https://www.linkedin.com/in/md-tanzil-shahria-579080a7",
+        "summary": "Public first-person professional profile corroborates current Lakeland assistant-professor appointment. No private contact or unrelated personal facts retained.",
+        "verifiedAt": "2026-10-01T11:06:17Z"
+      },
+      {
+        "id": "s3",
+        "label": "www.mdpi.com / source 3",
+        "url": "https://www.mdpi.com/2673-4052/5/2/6",
+        "summary": "Full April 2024 primary HTML read via direct shell retrieval after web extraction failed. Learning architecture, user selection, actual xArm6 execution, control boundaries, workspace and limitations verified.",
+        "verifiedAt": "2026-10-01T11:06:17Z"
+      },
+      {
+        "id": "s4",
+        "label": "sites.uwm.edu / source 4",
+        "url": "https://sites.uwm.edu/biorobotics-lab/team/",
+        "summary": "Prior lab roster links him specifically to vision-based robot manipulation; old student status is not used to override the newer current appointment.",
+        "verifiedAt": "2026-10-01T11:06:17Z"
+      },
+      {
+        "id": "s5",
+        "label": "lakeland.edu / source 5",
+        "url": "https://lakeland.edu/admissions/international",
+        "summary": "Current official international course/degree admissions page; not a verified research-visitor appointment.",
+        "verifiedAt": "2026-10-01T11:06:17Z"
+      },
+      {
+        "id": "s6",
+        "label": "lakeland.edu / source 6",
+        "url": "https://lakeland.edu/non-degree",
+        "summary": "Non-degree coursework rules, not authorization for outside-master laboratory research or a researcher funding rule.",
+        "verifiedAt": "2026-10-01T11:06:17Z"
+      }
+    ],
+    "unknowns": [
+      "Lakeland University means the Wisconsin campus here. University of Wisconsin–Milwaukee was the prior research host, and Lakeland Japan is a separate host location; their hardware and appointment processes must not be transferred.",
+      "The bounded institutional check of 2026-10-01T11:06:17Z found enrollment and non-degree coursework information, not an approved visiting-research route. Host acceptance, outside-master appointment, immigration sponsorship if needed, personal funding, support minimum, insurance, fees, lead time and facility access remain unresolved.",
+      "No lack-of-capacity conclusion is drawn from missing public policy. The institution must determine whether and how it can host this specific eight-week research project. Remote participation is also unknown.",
+      "Current faculty role is supported by the August 2026 university announcement and the first-person profile; the old UWM lab roster still listing him as a student is stale. Current Lakeland email, laboratory inventory, active projects and student-supervision capacity need confirmation.",
+      "The 2026 CHI-related assistive-technology work surfaced is human-perspective research, not proof of a newer physical learned execution. Research freshness is conservatively scored from the completed technical study rather than new appointment publicity.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#lakeland-wisconsin)"
+    ]
+  }
+]

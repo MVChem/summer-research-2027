@@ -1,0 +1,258 @@
+[
+  {
+    "id": "amna-mazen",
+    "name": "Amna Mazen",
+    "aliases": [],
+    "school": "Michigan Technological University",
+    "homepage": "https://www.mtu.edu/applied-computing/about/faculty/ac-faculty/mazen/index.html",
+    "title": "Assistant Professor, joint appointment in Applied Computing and Manufacturing and Mechanical Engineering Technology",
+    "department": "Applied Computing; Manufacturing and Mechanical Engineering Technology; Robotics and Remote Sensing Laboratory",
+    "batch": "hri-099",
+    "discoveredAt": "2026-10-01T12:35:49Z",
+    "verifiedAt": "2026-10-01T12:49:15Z",
+    "researchAreas": [
+      "Assistive robotics",
+      "Learned visual perception for manipulation",
+      "Human-robot interaction",
+      "Autonomous mobile manipulation",
+      "Remote sensing"
+    ],
+    "fitReason": "Officially dated 2024 Assistant Professor with substantive learned perception integrated into physical assistive object retrieval. Strong applied CS/robotics fit; current research-visit availability and access to the collaborative apparatus are unknown.",
+    "physicalEvidence": {
+      "status": "historical-or-indirect",
+      "summary": "The full February 2026 Robotics paper trains YOLOv8n on 247 custom images and uses RGB-D localization to drive actual ReactorX-200 grasping on a Pioneer P3-DX mobile platform. Speech recognition supplies commands; navigation and arm planning remain classical. Controlled laboratory retrieval/delivery was tested with four lightweight object categories, without external participants. Mazen is credited with methodology, validation and supervision; the student coauthors are affiliated with Detroit Mercy, and current Michigan Tech ownership/site is not established. Reported subsystem rates are not an end-to-end success estimate.",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The verified research recruitment is a dated Spring 2025 PhD call. The current lab describes graduate research and collaboration, but no distinct invitation for external master’s research visitors or summer interns was established.",
+      "sourceIds": [
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 36,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantive applied learned perception with assistive mobile manipulation, narrower than general robot policy learning.",
+      "physical": "Actual executed learned perception is verified; collaborative student affiliations and unverified current host apparatus cap the score.",
+      "shortVisit": "No current distinct external research-visitor invitation.",
+      "freshness": "Full 2026 experiment and current official role; 2024 appointment independently dated."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.mtu.edu / source 1",
+        "url": "https://www.mtu.edu/applied-computing/about/faculty/ac-faculty/mazen/index.html",
+        "summary": "Official current joint Assistant Professor title, research and professional email.",
+        "verifiedAt": "2026-10-01T12:49:15Z"
+      },
+      {
+        "id": "s2",
+        "label": "blogs.mtu.edu / source 2",
+        "url": "https://blogs.mtu.edu/computing/2024/09/17/faculty-profile-amna-mazen-assistant-professor-applied-computing-and-mmet/",
+        "summary": "Official 2024 appointment announcement; no exact start day inferred.",
+        "verifiedAt": "2026-10-01T12:49:15Z"
+      },
+      {
+        "id": "s3",
+        "label": "www.mdpi.com / source 3",
+        "url": "https://www.mdpi.com/2218-6581/15/2/41",
+        "summary": "Full 2026 learned-perception mobile manipulation methods, affiliations, contributions and laboratory limitations.",
+        "verifiedAt": "2026-10-01T12:49:15Z"
+      },
+      {
+        "id": "s4",
+        "label": "sites.google.com / source 4",
+        "url": "https://sites.google.com/mtu.edu/robotics-remote-sensing-lab-rr/home",
+        "summary": "Current co-led robotics laboratory and research scope.",
+        "verifiedAt": "2026-10-01T12:49:15Z"
+      },
+      {
+        "id": "s5",
+        "label": "blogs.mtu.edu / source 5",
+        "url": "https://blogs.mtu.edu/computing/2024/09/06/fully-funded-phd-opportunity-in-mechatronics-2/",
+        "summary": "Spring 2025 PhD recruitment, not an external summer-visitor invitation.",
+        "verifiedAt": "2026-10-01T12:49:15Z"
+      },
+      {
+        "id": "s6",
+        "label": "www.mtu.edu / source 6",
+        "url": "https://www.mtu.edu/faculty-handbook/faculty/chapter1/s1-6/",
+        "summary": "Terminal-degree requirement for Visiting Scholar courtesy appointments.",
+        "verifiedAt": "2026-10-01T12:49:15Z"
+      },
+      {
+        "id": "s7",
+        "label": "www.mtu.edu / source 7",
+        "url": "https://www.mtu.edu/international/j1-scholars/host-department/",
+        "summary": "Host approval, personal/home-institution funding and research-office screening.",
+        "verifiedAt": "2026-10-01T12:49:15Z"
+      },
+      {
+        "id": "s8",
+        "label": "www.mtu.edu / source 8",
+        "url": "https://www.mtu.edu/international/j1-scholars/",
+        "summary": "Scholar and prescribed non-degree academic categories; external-master appointment unresolved.",
+        "verifiedAt": "2026-10-01T12:49:15Z"
+      }
+    ],
+    "unknowns": [
+      "Summer 2027 capacity, visit duration, remote participation, funding and available hardware must be confirmed. No clinical benefit or deployment with disabled/older end users is established by the laboratory demonstration.",
+      "The article’s data-availability statement conflicts with its custom-dataset description, and its participant-count wording is internally inconsistent. No public dataset or independently replicated result is asserted.",
+      "Michigan Tech’s Visiting Scholar courtesy appointment requires a terminal degree. An external master’s researcher needs IPS and the host to identify a permissible appointment; the listed non-degree academic category is not automatic eligibility or a verified Student Intern pathway.",
+      "Personal or home-institution funding is contemplated by the official host process, with research-office approval and screening. Current financial minimum, university charges, total lead time and 2027 costs are not verified.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#michigan-tech)"
+    ],
+    "publicEmail": "amazen@mtu.edu",
+    "appointmentStart": {
+      "year": 2024,
+      "precision": "year",
+      "status": "current",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ],
+      "evidence": "Official September 17, 2024 new-faculty profile welcomes Mazen in the joint Assistant Professor appointment. Exact employment start day/month is not inferred from publication date."
+    }
+  },
+  {
+    "id": "joseph-a-campbell",
+    "name": "Joseph A. Campbell",
+    "aliases": [
+      "Joseph Campbell",
+      "Joe Campbell"
+    ],
+    "school": "Purdue University",
+    "homepage": "https://joe-campbell.github.io/",
+    "title": "Assistant Professor of Computer Science; CAMP Lab Director",
+    "department": "Computer Science; Collaborative AI for Machines and People (CAMP) Lab, West Lafayette",
+    "batch": "hri-099",
+    "discoveredAt": "2026-09-30T22:38:38Z",
+    "verifiedAt": "2026-10-01T12:49:15Z",
+    "researchAreas": [
+      "Robot learning",
+      "Vision-language-guided reinforcement learning",
+      "Explainable and lifelong AI",
+      "Human-agent collaboration",
+      "Concept-based learning"
+    ],
+    "fitReason": "Assistant Professor appointed in Fall 2024, with current lab-linked VLM-guided reinforcement learning and actual FR3 manipulation. Advertised BS/MS intake requires Purdue enrollment; a separate outside-master visiting route is unverified.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The March 2026 CDE revision uses VLM-derived object concepts for auxiliary representation learning and intrinsic rewards in visual RL. Section V-H transfers the learned controller to a real Franka Research 3 with a wrist camera, completing Lift in 8 of 10 trials without real-world fine-tuning. The other five-task benchmark is simulated, and the VLM is unnecessary at deployment. Lead author Le Mao is independently listed as a current CAMP visiting scholar with this project, supporting current-group attribution; this does not establish visitor hardware access.",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "degree-only · 已公布BS/MS通道要求Purdue在读",
+      "summary": "The current prospective page explicitly restricts its BS/MS research application route to students already enrolled at Purdue. The group has a current visiting scholar, but that precedent is not an open invitation or an external-master exception. Summer 2027 hosting is unconfirmed.",
+      "sourceIds": [
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Current VLM-guided visual RL, interpretability and robot learning directly match the research target.",
+      "physical": "Full actual FR3 methods plus independent current CAMP lead-author linkage; limited task scope stated.",
+      "shortVisit": "Advertised BS/MS route is explicitly internal; visiting-scholar precedent earns no opportunity points.",
+      "freshness": "Current 2026 research and faculty/lab verification; official Fall 2024 appointment."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.cs.purdue.edu / source 1",
+        "url": "https://www.cs.purdue.edu/people/faculty/joecamp.html",
+        "summary": "Official Assistant Professor title, Fall 2024 department start, CAMP leadership and email.",
+        "verifiedAt": "2026-10-01T12:49:15Z"
+      },
+      {
+        "id": "s2",
+        "label": "www.cs.purdue.edu / source 2",
+        "url": "https://www.cs.purdue.edu/news/articles/2024/14-new-faculty-members-join-purdue-computer-science.html",
+        "summary": "Official 2024 new-faculty cohort corroboration.",
+        "verifiedAt": "2026-10-01T12:49:15Z"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2510.08851v2",
+        "summary": "Full March 7, 2026 CDE methods and section V-H actual FR3 transfer experiment.",
+        "verifiedAt": "2026-10-01T12:49:15Z"
+      },
+      {
+        "id": "s4",
+        "label": "camplab.ai / source 4",
+        "url": "https://camplab.ai/people/le-mao/",
+        "summary": "Current CAMP visiting scholar and lead-author project linkage; precedent only.",
+        "verifiedAt": "2026-10-01T12:49:15Z"
+      },
+      {
+        "id": "s5",
+        "label": "camplab.ai / source 5",
+        "url": "https://camplab.ai/prospective/",
+        "summary": "Live BS/MS applicants must already be enrolled at Purdue; PhD/postdoc routes separate.",
+        "verifiedAt": "2026-10-01T12:49:15Z"
+      },
+      {
+        "id": "s6",
+        "label": "sites.google.com / source 6",
+        "url": "https://sites.google.com/view/concept-learn/home",
+        "summary": "Author project page lists physical deployment demonstrations.",
+        "verifiedAt": "2026-10-01T12:49:15Z"
+      },
+      {
+        "id": "s7",
+        "label": "www.purdue.edu / source 7",
+        "url": "https://www.purdue.edu/gpp/iss/scholar/immigration/j1/index.html",
+        "summary": "Institutional categories, reused at original verification time 2026-09-30T22:30:02Z.",
+        "verifiedAt": "2026-09-30T22:30:02Z",
+        "retrieval": "Reused earlier institutional review; not freshly retrieved"
+      },
+      {
+        "id": "s8",
+        "label": "www.purdue.edu / source 8",
+        "url": "https://www.purdue.edu/gpp/iss/scholar/hosts/procedures/visiting-scholars.html",
+        "summary": "Formal appointment requirements, reused at original policy verification time.",
+        "verifiedAt": "2026-09-30T22:30:02Z",
+        "retrieval": "Reused earlier institutional review; not freshly retrieved"
+      }
+    ],
+    "unknowns": [
+      "An outside master’s student should not treat the advertised BS/MS application form as an eligible route without a separately confirmed exception. No categorical no-visitors claim is made.",
+      "Research duration, funding, remote work, 2027 capacity and robot access are unknown. The real experiment is a limited lifting task rather than a five-task physical benchmark.",
+      "Purdue institutional feasibility is reused from the September 30 review. A qualifying Student Intern route and personal-funding evidence can exist institutionally, but require approved appointment, degree-objective alignment and host/ISS review; they do not override CAMP’s advertised applicant restriction.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: Earliest precisely retained completed source screen; an earlier preliminary encounter was not retained or reconstructed.",
+      "[Institutional visitor rules](../eligibility_notes.md#purdue)"
+    ],
+    "discoveryTimestampNote": "Earliest precisely retained completed source screen; an earlier preliminary encounter was not retained or reconstructed.",
+    "publicEmail": "joecamp@purdue.edu",
+    "appointmentStart": {
+      "year": 2024,
+      "precision": "year",
+      "status": "current",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ],
+      "evidence": "Official current directory explicitly says Joined department: Fall 2024; the 2024 faculty-hire article corroborates the cohort."
+    }
+  }
+]

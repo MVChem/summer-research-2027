@@ -199,6 +199,7 @@
     "batches/embodied-092.json",
     "batches/embodied-093.json",
     "batches/embodied-094.json",
+    "batches/embodied-096.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -286,10 +287,13 @@
     "batches/hri-085.json",
     "batches/hri-086.json",
     "batches/hri-087.json",
+    "batches/hri-088.json",
     "batches/hri-089.json",
     "batches/hri-091.json",
     "batches/hri-094.json",
-    "batches/hri-097.json"
+    "batches/hri-097.json",
+    "batches/hri-099.json",
+    "batches/hri-100.json"
   ],
   "candidates": [
     {
@@ -10466,6 +10470,37 @@
       "detailPage": "batches/embodied-094.md#jun-gao"
     },
     {
+      "id": "rohan-r-paleja",
+      "name": "Rohan R. Paleja",
+      "aliases": [
+        "Rohan Paleja",
+        "Rohan R Paleja"
+      ],
+      "school": "Purdue University",
+      "title": "Assistant Professor",
+      "homepage": "https://www.rohanpaleja.com/",
+      "batch": "embodied-096",
+      "discoveredAt": "2026-09-30T22:25:24Z",
+      "verifiedAt": "2026-10-01T12:52:33Z",
+      "scores": {
+        "fit": 39,
+        "physical": 22,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Mechanistic interpretability of vision-language-action policies",
+        "Interactive robot learning and imitation learning",
+        "Safe human-robot and multi-agent collaboration"
+      ],
+      "discoveryTimestampNote": "Earliest precisely retained completed source-screening time; exact first discovery was not separately preserved and no earlier time was reconstructed.",
+      "physicalEvidenceStatus": "limited-current-hardware-demonstration",
+      "physicalEvidenceLabel": "受限真机证据：limited-current-hardware-demonstration",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-096.json",
+      "detailPage": "batches/embodied-096.md#rohan-r-paleja"
+    },
+    {
       "id": "henny-admoni",
       "name": "Henny Admoni",
       "aliases": [],
@@ -14988,6 +15023,39 @@
       "detailPage": "batches/hri-087.md#nadir-weibel"
     },
     {
+      "id": "md-tanzil-shahria",
+      "name": "Md Tanzil Shahria",
+      "aliases": [
+        "MD Tanzil Shahria",
+        "Md. Tanzil Shahria",
+        "Tanzil Shahria"
+      ],
+      "school": "Lakeland University",
+      "title": "Assistant Professor of Computer Science",
+      "homepage": "https://lakeland.edu/post/lakeland-university-welcomes-two-new-faculty-2026-08-17",
+      "batch": "hri-088",
+      "discoveredAt": "2026-10-01T11:00:30Z",
+      "verifiedAt": "2026-10-01T11:06:17Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Vision-guided assistive manipulation",
+        "Human-centered robotics",
+        "Deep-learning object detection",
+        "Semi-autonomous daily-living assistance",
+        "Accessible robot interfaces"
+      ],
+      "physicalEvidenceStatus": "historical-or-indirect",
+      "physicalEvidenceLabel": "受限真机证据：historical-or-indirect",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-088.json",
+      "detailPage": "batches/hri-088.md#md-tanzil-shahria"
+    },
+    {
       "id": "maria-gorlatova",
       "name": "Maria Gorlatova",
       "aliases": [],
@@ -15136,6 +15204,99 @@
       "shortVisitStatus": "inquiry-only",
       "recordFile": "batches/hri-097.json",
       "detailPage": "batches/hri-097.md#feng-liu"
+    },
+    {
+      "id": "amna-mazen",
+      "name": "Amna Mazen",
+      "aliases": [],
+      "school": "Michigan Technological University",
+      "title": "Assistant Professor, joint appointment in Applied Computing and Manufacturing and Mechanical Engineering Technology",
+      "homepage": "https://www.mtu.edu/applied-computing/about/faculty/ac-faculty/mazen/index.html",
+      "batch": "hri-099",
+      "discoveredAt": "2026-10-01T12:35:49Z",
+      "verifiedAt": "2026-10-01T12:49:15Z",
+      "scores": {
+        "fit": 36,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Assistive robotics",
+        "Learned visual perception for manipulation",
+        "Human-robot interaction",
+        "Autonomous mobile manipulation",
+        "Remote sensing"
+      ],
+      "physicalEvidenceStatus": "historical-or-indirect",
+      "physicalEvidenceLabel": "受限真机证据：historical-or-indirect",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-099.json",
+      "detailPage": "batches/hri-099.md#amna-mazen"
+    },
+    {
+      "id": "joseph-a-campbell",
+      "name": "Joseph A. Campbell",
+      "aliases": [
+        "Joseph Campbell",
+        "Joe Campbell"
+      ],
+      "school": "Purdue University",
+      "title": "Assistant Professor of Computer Science; CAMP Lab Director",
+      "homepage": "https://joe-campbell.github.io/",
+      "batch": "hri-099",
+      "discoveredAt": "2026-09-30T22:38:38Z",
+      "verifiedAt": "2026-10-01T12:49:15Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Robot learning",
+        "Vision-language-guided reinforcement learning",
+        "Explainable and lifelong AI",
+        "Human-agent collaboration",
+        "Concept-based learning"
+      ],
+      "discoveryTimestampNote": "Earliest precisely retained completed source screen; an earlier preliminary encounter was not retained or reconstructed.",
+      "shortVisitStatus": "degree-only · 已公布BS/MS通道要求Purdue在读",
+      "recordFile": "batches/hri-099.json",
+      "detailPage": "batches/hri-099.md#joseph-a-campbell"
+    },
+    {
+      "id": "kyle-t-yoshida",
+      "name": "Kyle T. Yoshida",
+      "aliases": [
+        "Kyle Yoshida",
+        "Kyle Tadao Yoshida"
+      ],
+      "school": "University of California, Los Angeles",
+      "title": "Assistant Professor of Mechanical and Aerospace Engineering",
+      "homepage": "https://www.mohalalab.org/",
+      "batch": "hri-100",
+      "discoveredAt": "2026-10-01T12:41:51Z",
+      "verifiedAt": "2026-10-01T12:53:16Z",
+      "scores": {
+        "fit": 34,
+        "physical": 0,
+        "shortVisit": 10,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Soft-robot actuator learning",
+        "Data-driven forward and inverse modeling",
+        "Haptics",
+        "Human-robot interaction",
+        "Assistive mechatronics"
+      ],
+      "candidateTier": "AI相关 · 真机待核实；方法研究备选",
+      "physicalEvidenceStatus": "unverified",
+      "physicalEvidenceLabel": "真机待核实",
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/hri-100.json",
+      "detailPage": "batches/hri-100.md#kyle-t-yoshida"
     }
   ]
 }

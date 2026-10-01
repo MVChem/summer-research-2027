@@ -1120,3 +1120,15 @@ Part II第5页允许全额个人资金，但要求境外大学/研究机构关�
 核查：2026-10-01T10:58:59Z。[Red Binder III-25（第170页，2025年8月修订）](https://ap.ucsb.edu/policies.and.procedures/red.binder/complete.red.binder.pdf) 明确包含非UC院校在读研究生的 Visitor (Graduate Student)，通常不超过6个月、上限12个月，未列最低期限；须导师监督及院系正式审批，不等于UCSB学籍或雇佣，不能发工资，部分报销/生活补助可另审。
 
 [OISS现行流程](https://oiss.ucsb.edu/scholars/prospective-j-1-scholars/apply-for-ds-2019)要求先获学术单位邀请，建议提前3–6个月。[财力页](https://oiss.ucsb.edu/scholars/prospective-j-1-scholars/financial-requirements)列 Scholar 每月3000美元／每日100美元并接受个人资金证明；但 J-1 non-degree student 另需至少51%非个人资金。**外校硕士应先确认具体类别，不能一概认定可纯自费或一概套用51%规则。** [类别页](https://oiss.ucsb.edu/scholars/prospective-j-1-scholars/j-1-overview)的 Short-Term Scholar 为1天至6个月，资格须OISS认可。旧PDF的 Student Intern 和2400美元金额未作现行依据。八周项目、保险、费用、2027金额与导师接收仍需个案确认。
+
+<a id="michigan-tech"></a>
+### Michigan Technological University
+
+核查 2026-10-01T12:49:15Z。[Faculty Handbook](https://www.mtu.edu/faculty-handbook/faculty/chapter1/s1-6/) 的 Visiting Scholar 礼聘要求已取得终结学位；外校在读硕士须由导师与 IPS 确认适当任用类别。[IPS](https://www.mtu.edu/international/j1-scholars/) 列有最长六个月的 Short-Term Scholar，以及可包含研究的全日制非学位项目，但不能据此推定硕士实习资格。[院系流程](https://www.mtu.edu/international/j1-scholars/host-department/) 可接受个人/本校资助，仍需校内审批与研究安全审查。材料齐备后最多 14 个工作日的 DS-2019 处理期不是完整准备周期；最新资金门槛、学校费用及 2027 总成本未核实。制度路径不等于导师接收或暑期名额。
+
+
+<a id="lakeland-wisconsin"></a>
+## Lakeland University（Wisconsin）· 外校硕士短期研究路径未核实
+
+核查：2026-10-01T11:06:17Z。[国际招生页](https://lakeland.edu/admissions/international)说明课程与学位入学，[非学位页](https://lakeland.edu/non-degree)说明有限学分课程；两者均不能据此视为外校硕士研究访问通道。暂未核实 Wisconsin 校区的 Visiting Graduate Researcher、Student Intern 或 Visiting Scholar 具体流程，不等于断言不能访问。[2026 年访学教师案例](https://luj.lakeland.edu/post/luj-welcomes-visiting-faculty-from-the-university-of-makati-2026-06-16)发生在日本校区，不能移用于美国接收地点。八周研究、导师接收、任命与签证类别、个人资金、最低财力、保险、费用、提前期和实验室准入均需校方确认；无已确认的 2027 名额。
+

@@ -897,6 +897,154 @@
           "evidence": "Current published CV: AP2025–, MIT postdoc2022–24; publication list updated September 27, 2026."
         }
       ]
+    },
+    "kyle-t-yoshida": {
+      "appointmentStart": {
+        "year": 2025,
+        "month": 7,
+        "day": 1,
+        "precision": "day",
+        "status": "current",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "evidence": "Official UCLA new-faculty roster explicitly gives July 1, 2025 as start date. This is the start date, distinct from a 2024 advance appointment announcement.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2025-07-01",
+      "caveat": "2025-07-01到岗；全球硕士可询问，Summer2027优先截止2027-05-01；未核时长/表单，硕士远程及资助未知；只有软体驱动器建模、无学习控制执行",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.samueli.ucla.edu/new-faculty-2023-2026/",
+          "observedAt": "2026-10-01T12:53:16Z",
+          "evidence": "Official Assistant Professor and exact July 1, 2025 start."
+        },
+        {
+          "id": "s2",
+          "url": "https://samueli.ucla.edu/people/kyle-yoshida/",
+          "observedAt": "2026-10-01T12:53:16Z",
+          "evidence": "Current official appointment, research fields and email."
+        }
+      ]
+    },
+    "rohan-r-paleja": {
+      "appointmentStart": {
+        "year": 2025,
+        "month": 8,
+        "precision": "month",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ],
+        "evidence": "Official department profile and August29,2025 cohort confirm Fall2025 appointment; linked personal CV specifies August2025. Prior MITLincoln technical staff role is not faculty. No first-ever faculty claim inferred."
+      },
+      "display": "2025秋（官方）；8月（本人CV）",
+      "caveat": "当前MobileALOHA仅限色块接近与温和特征干预；已公布MS/UG入口仅限Purdue本校，不推断所有访客禁令",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.cs.purdue.edu/people/faculty/rpaleja.html",
+          "observedAt": "2026-10-01T12:52:33Z",
+          "evidence": "Full current title/contact and Fall2025 department joining date."
+        },
+        {
+          "id": "s2",
+          "url": "https://www.cs.purdue.edu/news/articles/2025/17-new-faculty-members-join-purdue-cs.html",
+          "observedAt": "2026-10-01T12:52:33Z",
+          "evidence": "Full official August 2025 cohort confirms actual Fall2025 hire from MITLincoln."
+        },
+        {
+          "id": "s3",
+          "url": "https://www.rohanpaleja.com/vitae.pdf",
+          "observedAt": "2026-10-01T12:52:33Z",
+          "evidence": "Full personal CV specifies August 2025 Purdue AP; older MITLincoln Present label is overridden by current official biography."
+        }
+      ]
+    },
+    "amna-mazen": {
+      "appointmentStart": {
+        "year": 2024,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "evidence": "Official September 17, 2024 new-faculty profile welcomes Mazen in the joint Assistant Professor appointment. Exact employment start day/month is not inferred from publication date.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2024",
+      "caveat": "2024新AP；真实感知抓取为合作设备，当前MTU装置未知；Visiting Scholar要求终结学位，在读外校硕士替代类别待核",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.mtu.edu/applied-computing/about/faculty/ac-faculty/mazen/index.html",
+          "observedAt": "2026-10-01T12:49:15Z",
+          "evidence": "Official current joint Assistant Professor title, research and professional email."
+        },
+        {
+          "id": "s2",
+          "url": "https://blogs.mtu.edu/computing/2024/09/17/faculty-profile-amna-mazen-assistant-professor-applied-computing-and-mmet/",
+          "observedAt": "2026-10-01T12:49:15Z",
+          "evidence": "Official 2024 appointment announcement; no exact start day inferred."
+        }
+      ]
+    },
+    "joseph-a-campbell": {
+      "appointmentStart": {
+        "year": 2024,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "evidence": "Official current directory explicitly says Joined department: Fall 2024; the 2024 faculty-hire article corroborates the cohort.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2024",
+      "caveat": "2024秋新AP；FR3真实Lift为8/10，其余多任务基准仿真；已公布BS/MS入口仅限Purdue本校，访问学者先例不等于邀请",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.cs.purdue.edu/people/faculty/joecamp.html",
+          "observedAt": "2026-10-01T12:49:15Z",
+          "evidence": "Official Assistant Professor title, Fall 2024 department start, CAMP leadership and email."
+        },
+        {
+          "id": "s2",
+          "url": "https://www.cs.purdue.edu/news/articles/2024/14-new-faculty-members-join-purdue-computer-science.html",
+          "observedAt": "2026-10-01T12:49:15Z",
+          "evidence": "Official 2024 new-faculty cohort corroboration."
+        }
+      ]
+    },
+    "md-tanzil-shahria": {
+      "appointmentStart": {
+        "year": 2026,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "h1"
+        ],
+        "evidence": "Official August 17, 2026 announcement names a new full-time Assistant Professor for that fall. Announcement date is not an exact appointment day.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2026秋（官方新教师公告；具体月日未知）",
+      "caveat": "前UWM视觉引导xArm6；Lakeland现有设备/外校硕士任命与当前邮箱均未核实，不沿用旧校邮件",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://lakeland.edu/post/lakeland-university-welcomes-two-new-faculty-2026-08-17",
+          "observedAt": "2026-10-01T12:33:44Z",
+          "evidence": "Official August 17, 2026 announcement names a new full-time Assistant Professor for that fall. Announcement date is not an exact appointment day."
+        }
+      ]
     }
   },
   "constraints": [

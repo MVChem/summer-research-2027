@@ -151,7 +151,8 @@
     "batches/hri-040.json",
     "batches/hri-041.json",
     "batches/hri-042.json",
-    "batches/hri-043.json"
+    "batches/hri-043.json",
+    "batches/hri-044.json"
   ],
   "candidates": [
     {
@@ -9336,6 +9337,33 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-043.json",
       "detailPage": "batches/hri-043.md#kasthuri-jayarajah"
+    },
+    {
+      "id": "nirmalya-roy",
+      "name": "Nirmalya Roy",
+      "aliases": [],
+      "school": "University of Maryland, Baltimore County",
+      "title": "Professor and Associate Chair of Information Systems",
+      "homepage": "https://mpsc.umbc.edu/nroy/",
+      "batch": "hri-044",
+      "discoveredAt": "2026-10-01T02:50:49Z",
+      "verifiedAt": "2026-10-01T02:56:33Z",
+      "scores": {
+        "fit": 36,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Cooperative robot perception",
+        "Edge AI",
+        "Multi-agent reinforcement learning for inference scheduling",
+        "Human-machine teaming",
+        "Networked autonomous systems"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-044.json",
+      "detailPage": "batches/hri-044.md#nirmalya-roy"
     }
   ]
 }

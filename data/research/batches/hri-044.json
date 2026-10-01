@@ -1,0 +1,101 @@
+[
+  {
+    "id": "nirmalya-roy",
+    "name": "Nirmalya Roy",
+    "aliases": [],
+    "school": "University of Maryland, Baltimore County",
+    "homepage": "https://mpsc.umbc.edu/nroy/",
+    "title": "Professor and Associate Chair of Information Systems",
+    "department": "Information Systems",
+    "batch": "hri-044",
+    "discoveredAt": "2026-10-01T02:50:49Z",
+    "verifiedAt": "2026-10-01T02:56:33Z",
+    "researchAreas": [
+      "Cooperative robot perception",
+      "Edge AI",
+      "Multi-agent reinforcement learning for inference scheduling",
+      "Human-machine teaming",
+      "Networked autonomous systems"
+    ],
+    "fitReason": "Strong CS-method overlap in efficient robot perception and cooperative edge AI. This is a systems/perception option rather than a direct manipulation-policy or socially interactive robot specialization. The current lab profile explicitly includes collaborative learning, agentic perception and human-machine teaming.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "COHORT (March 11, 2026) evaluates CLIP and Grounded-SAM pipelines on actual Husky, Jackal and Spot robots with ROS 2 and an edge laptop. Behavior cloning and offline advantage-weighted regression initialize an online MAPPO scheduler for local execution, auction bids and inference offloading. More than 20 hours of real traces include static and moving robots. The learned actions allocate computation; they do not establish learned navigation or manipulation. Reported joint throughput/deadline success remains partial, not a hard guarantee. The current RobSenCom project identifies Roy as PI and COHORT coauthors Mohammad Saeid Anwar and Gaurav Shinde as his students, establishing group attribution.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current external-master’s short-visit invitation was found on the current faculty or lab pages. The university’s summer REU listings are explicitly undergraduate programs and cannot establish a visiting master’s route.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 36,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "36/40: strong ML and robot-perception systems overlap, less direct HRI or physical-action learning.",
+      "physical": "25/25: current primary hardware study and independently verified current group attribution.",
+      "shortVisit": "0/20: undergraduate summer mentoring does not establish an external-master’s visit.",
+      "freshness": "15/15: substantive March 2026 primary experiment and current official faculty/lab verification."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "informationsystems.umbc.edu / source 1",
+        "url": "https://informationsystems.umbc.edu/home/faculty-and-staff/faculty/",
+        "summary": "Full current departmental directory confirms Professor, Associate Chair, MPSC leadership and university email.",
+        "verifiedAt": "2026-10-01T02:56:33Z"
+      },
+      {
+        "id": "s2",
+        "label": "mpsc.umbc.edu / source 2",
+        "url": "https://mpsc.umbc.edu/nroy/",
+        "summary": "Full current faculty page confirms role and AI/ML, robot perception, collaborative learning and human-machine teaming research directions; no external visitor invitation.",
+        "verifiedAt": "2026-10-01T02:56:33Z"
+      },
+      {
+        "id": "s3",
+        "label": "mpsc.umbc.edu / source 3",
+        "url": "https://mpsc.umbc.edu/projects/robsencom",
+        "summary": "Full current university-hosted project page identifies Roy as PI, Anwar and Shinde as students, physical networked robots and the group’s 2025 perception/compression work.",
+        "verifiedAt": "2026-10-01T02:56:33Z"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2603.10436v1",
+        "summary": "Full March 11, 2026 COHORT manuscript, especially sections V–VI, verifies real hardware and learned inference scheduling while distinguishing it from motion policies.",
+        "verifiedAt": "2026-10-01T02:56:33Z"
+      },
+      {
+        "id": "s5",
+        "label": "coeit.umbc.edu / source 5",
+        "url": "https://coeit.umbc.edu/nsf-reu/",
+        "summary": "Full official listings identify Roy’s summer mentoring within undergraduate REU programs; no external-master’s eligibility established.",
+        "verifiedAt": "2026-10-01T02:56:33Z"
+      }
+    ],
+    "unknowns": [
+      "UMBC policy already documented separately restricts scholar sponsorship to Faculty/Fellow appointments, explicitly requires an earned master’s for Research Scholar, and leaves the Short-Term Scholar degree threshold unclear. A current master’s student must not be assumed eligible.",
+      "UMBC’s existing policy note records conflicting $2,200/$2,300 monthly support thresholds and separate student funding restrictions. Personal-bank documentation for a scholar does not resolve the degree/category problem.",
+      "Some projects have defense collaborators. Public collaboration alone does not establish a nationality restriction; the host must verify project access and the applicable institutional review.",
+      "Eight-week feasibility, summer 2027 host capacity, appointment category and funding remain unconfirmed.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "nroy@umbc.edu"
+  }
+]

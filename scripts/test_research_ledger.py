@@ -77,6 +77,19 @@ class ResearchLedgerTests(unittest.TestCase):
         rows = ledger.inquiry_rows(self.full)
         self.assertEqual([r["scores"]["fit"] for r in rows], sorted((r["scores"]["fit"] for r in rows), reverse=True))
 
+    def test_zero_score_generic_inquiry_is_separate_without_rescoring(self):
+        data = copy.deepcopy(self.full)
+        row = data["candidates"][0]
+        row["scores"]["shortVisit"] = 0
+        row["shortVisit"]["status"] = "unknown"
+        row.pop("remoteInquiryEvidence", None)
+        notes = {"schemaVersion": 1, "notes": {row["id"]: {"note": "Generic intern inquiry; external eligibility unknown", "category": "generic-intern-eligibility-unconfirmed", "inclusionRationale": "Primary homepage explicitly invites intern inquiries", "sourceIds": [row["sources"][0]["id"]]}}}
+        ledger.validate_inquiry_notes(notes, data)
+        rendered = ledger.render_inquiries(data, notes)
+        self.assertIn(row["name"], rendered.split("## 一般 intern 入口", 1)[1].split("## 仅远程入口", 1)[0])
+        self.assertNotIn(row["name"], rendered.split("## 一般 intern 入口", 1)[0])
+        self.assertEqual(row["scores"]["shortVisit"], 0)
+
     def test_inquiry_annotations_require_source_references(self):
         row = ledger.inquiry_rows(self.full)[0]
         notes = {"schemaVersion": 1, "notes": {row["id"]: {"note": "A limitation", "sourceIds": ["missing"]}}}

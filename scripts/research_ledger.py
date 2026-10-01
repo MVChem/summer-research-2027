@@ -274,24 +274,27 @@ def render_batch(batch, rows):
     return "\n".join(lines) + "\n"
 
 
-def inquiry_rows(data):
+def inquiry_rows(data, notes=None):
     """Select evidence-bearing inquiries; never promote precedent-only rows."""
-    rows = [r for r in data["candidates"] if r["scores"]["shortVisit"] > 0 or r["shortVisit"]["status"].startswith("remote-only-inquiry") or r.get("remoteInquiryEvidence")]
+    generic_ids = {identity for identity, note in (notes or {}).get("notes", {}).items() if note.get("category") == "generic-intern-eligibility-unconfirmed"}
+    rows = [r for r in data["candidates"] if r["scores"]["shortVisit"] > 0 or r["shortVisit"]["status"].startswith("remote-only-inquiry") or r.get("remoteInquiryEvidence") or r["id"] in generic_ids]
     return sorted(rows, key=lambda r: (-r["scores"]["fit"], -r["scores"]["physical"], -r["scores"]["shortVisit"], -r["scores"]["freshness"], r["discoveredAt"], r["name"]))
 
 
 def validate_inquiry_notes(notes, data):
-    by_id = {r["id"]: r for r in inquiry_rows(data)}
+    by_id = {r["id"]: r for r in inquiry_rows(data, notes)}
     assert notes["schemaVersion"] == 1
     for identity, note in notes["notes"].items():
         assert identity in by_id, "Inquiry note must refer to a current inquiry row"
         assert isinstance(note["note"], str) and note["note"].strip()
         assert note["sourceIds"] and set(note["sourceIds"]) <= {s["id"] for s in by_id[identity]["sources"]}, "Inquiry note references unknown sources"
         assert note.get("category") in {None, "generic-intern-eligibility-unconfirmed"}
+        if by_id[identity]["scores"]["shortVisit"] == 0 and note.get("category"):
+            assert isinstance(note.get("inclusionRationale"), str) and note["inclusionRationale"].strip(), "Zero-score generic inquiries need a source-backed inclusion rationale"
 
 
 def render_inquiries(data, notes):
-    rows = inquiry_rows(data)
+    rows = inquiry_rows(data, notes)
     groups = {"onsite": [], "generic": [], "remote": []}
     for row in rows:
         if row["shortVisit"]["status"].startswith("remote-only-inquiry"):

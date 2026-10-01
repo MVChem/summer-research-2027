@@ -541,6 +541,14 @@
       "sourceIds": [
         "s3"
       ]
+    },
+    "jingwei-sun": {
+      "note": "一般research intern询问；外校硕士/八周/2027资格未明确，现场短访分0",
+      "category": "generic-intern-eligibility-unconfirmed",
+      "inclusionRationale": "The already verified current homepage explicitly welcomes research-intern inquiries, but provides no outside-university or short-visit qualification. Inclusion is restricted to the generic-intern bucket and does not change its zero onsite score.",
+      "sourceIds": [
+        "s2"
+      ]
     }
   }
 }

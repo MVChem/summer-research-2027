@@ -267,6 +267,7 @@
     "batches/hri-080.json",
     "batches/hri-081.json",
     "batches/hri-083.json",
+    "batches/hri-084.json",
     "batches/hri-089.json"
   ],
   "candidates": [
@@ -14189,6 +14190,35 @@
       "shortVisitStatus": "incompatible · 当前3–9个月；旧暑期至少9周且需工作许可",
       "recordFile": "batches/hri-083.json",
       "detailPage": "batches/hri-083.md#matthew-johnson"
+    },
+    {
+      "id": "xuanhe-zhao",
+      "name": "Xuanhe Zhao",
+      "aliases": [],
+      "school": "Massachusetts Institute of Technology",
+      "title": "Professor of Mechanical Engineering; Uncas (1923) and Helen Whitaker Professor; Area Head for Mechanics",
+      "homepage": "https://meche.mit.edu/people/faculty/ZHAOX@MIT.EDU",
+      "batch": "hri-084",
+      "discoveredAt": "2026-10-01T10:34:26Z",
+      "verifiedAt": "2026-10-01T10:38:13Z",
+      "scores": {
+        "fit": 37,
+        "physical": 23,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Neural wearable-ultrasound interfaces",
+        "Human-to-robot hand control",
+        "Soft robotics",
+        "Biomechanics-informed perception",
+        "AI-enabled human-machine interaction"
+      ],
+      "physicalEvidenceStatus": "directed MIT neural teleoperation; limited demonstrations; main article access incomplete",
+      "physicalEvidenceLabel": "受限真机证据：directed MIT neural teleoperation; limited demonstrations; main article access incomplete",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-084.json",
+      "detailPage": "batches/hri-084.md#xuanhe-zhao"
     },
     {
       "id": "maria-gorlatova",

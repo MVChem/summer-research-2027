@@ -1,0 +1,132 @@
+[
+  {
+    "id": "xuanhe-zhao",
+    "name": "Xuanhe Zhao",
+    "aliases": [],
+    "school": "Massachusetts Institute of Technology",
+    "homepage": "https://meche.mit.edu/people/faculty/ZHAOX@MIT.EDU",
+    "title": "Professor of Mechanical Engineering; Uncas (1923) and Helen Whitaker Professor; Area Head for Mechanics",
+    "department": "Mechanical Engineering; Civil and Environmental Engineering by courtesy; Zhao Lab",
+    "batch": "hri-084",
+    "discoveredAt": "2026-10-01T10:34:26Z",
+    "verifiedAt": "2026-10-01T10:38:13Z",
+    "researchAreas": [
+      "Neural wearable-ultrasound interfaces",
+      "Human-to-robot hand control",
+      "Soft robotics",
+      "Biomechanics-informed perception",
+      "AI-enabled human-machine interaction"
+    ],
+    "fitReason": "Direct human-robot interface research links ultrasound sensing to learned continuous hand-pose estimation and actual robotic-hand commands. Official MIT and publisher sources independently establish Zhao as the project supervisor and identify his graduate researchers. His broader materials program makes project matching important for a CS applicant; the neural interface is a more specific fit than soft materials alone.",
+    "physicalEvidence": {
+      "status": "directed MIT neural teleoperation; limited demonstrations; main article access incomplete",
+      "summary": "The March 2026 Nature Electronics article and official MIT demonstrations document a wearable ultrasound wristband driving a real robotic hand to reproduce user movements, including simple piano and desktop basketball actions. A hybrid Transformer–ResNet model estimates 22 human hand degrees of freedom; the reported tracking delay is below 120 ms. Public extended data explicitly retrain a model for each of eight participants, and the supplement checks cross-session tracking after one week. This is learned teleoperation, not autonomous manipulation or demonstrated general-purpose robot-policy training. The main article is subscription-restricted; public abstract, extended data, contribution statement and supplement were inspected. The manuscript was received April 7, 2025; publication in 2026 is not asserted to date every experiment.",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current lab-specific outside-master visitor or remote-intern invitation was verified. The lab website returned 502/connection refused in both web retrieval and the read-only cloud browser. Official MIT graduate and course information is not an external short-visit offer. Summer 2027 capacity, eight-week fit, funding and remote collaboration remain unknown.",
+      "sourceIds": [
+        "s1",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 23,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantive continuous neural sensing-to-robot control with a direct human-interaction application; project fit is more specialized than general robot learning.",
+      "physical": "Real current-group neural teleoperation is verified through primary public sections, supplement and official demonstrations; capped below 25 because full main methods remain unavailable and the demonstration is limited.",
+      "shortVisit": "No applicable lab-specific outside-master or Summer 2027 invitation verified.",
+      "freshness": "Current official role and March–April 2026 primary publication; underlying experiment chronology and access limits stated."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "meche.mit.edu / source 1",
+        "url": "https://meche.mit.edu/people/faculty/ZHAOX@MIT.EDU",
+        "summary": "Direct current MIT directory verifies Professor of Mechanical Engineering, named professorship, mechanics leadership, Cambridge office and public email.",
+        "verifiedAt": "2026-10-01T10:38:13Z"
+      },
+      {
+        "id": "s2",
+        "label": "www.nature.com / source 2",
+        "url": "https://www.nature.com/articles/s41928-026-01594-4",
+        "summary": "Primary article public sections directly read in the cloud browser: actual robotic-hand demonstration captions; subject-specific training in extended data; Zhao supervision and researcher contributions; received April 2025, published March 2026. Main full text is paywalled.",
+        "verifiedAt": "2026-10-01T10:38:13Z"
+      },
+      {
+        "id": "s3",
+        "label": "media.springernature.com / source 3",
+        "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41928-026-01594-4/MediaObjects/41928_2026_1594_MOESM1_ESM.pdf",
+        "summary": "Full public supplementary PDF downloaded from the visible publisher link and read locally: ultrasound/pose correspondence, T-R versus ResNet/CNN baselines, eight-participant cross-session tests. This is supplementary material, not the unseen main article.",
+        "verifiedAt": "2026-10-01T10:38:13Z"
+      },
+      {
+        "id": "s4",
+        "label": "www.nature.com / source 4",
+        "url": "https://www.nature.com/articles/s41928-026-01635-y",
+        "summary": "Publisher April 2026 editorial identifies the hybrid Transformer–ResNet architecture and physical robot-hand use, complementing the primary public sections.",
+        "verifiedAt": "2026-10-01T10:38:13Z"
+      },
+      {
+        "id": "s5",
+        "label": "news.mit.edu / source 5",
+        "url": "https://news.mit.edu/2026/wristband-enables-wearers-control-robotic-hand-with-own-movements-0325",
+        "summary": "Official March 25, 2026 MIT account independently documents trained wrist sensing controlling a real hand and names current graduate researchers. Future humanoid training datasets are a goal, not completed autonomous skill learning.",
+        "verifiedAt": "2026-10-01T10:38:13Z"
+      },
+      {
+        "id": "s6",
+        "label": "zhao.mit.edu / source 6",
+        "url": "https://zhao.mit.edu/",
+        "summary": "Officially linked lab homepage could not be read: web retrieval failed and cloud browser returned 502/connection refused. No recruitment claims derived from it.",
+        "verifiedAt": "2026-10-01T10:38:13Z",
+        "retrieval": "Failed web and cloud-browser retrieval; lab URL is known from the official profile but no recruitment content was verified"
+      },
+      {
+        "id": "s7",
+        "label": "iso.mit.edu / source 7",
+        "url": "https://iso.mit.edu/getting-started/visiting-students-faq/",
+        "summary": "Prior institutional source reused, not newly reopened: the earlier institutional review verified 2026-09-30T23:09:41Z. Three-week-to-12-month faculty-invited route, 51% non-personal support and advance documentation.",
+        "verifiedAt": "2026-09-30T23:09:41Z",
+        "retrieval": "Reused earlier institutional-policy review; dated provisions remain subject to 2027 confirmation"
+      },
+      {
+        "id": "s8",
+        "label": "iso.mit.edu / source 8",
+        "url": "https://iso.mit.edu/wp-content/uploads/2026/07/VS-Estimated-Expense-AY-2026-2027.pdf",
+        "summary": "Same prior institutional check: dated September 2026–August 2027 support estimate; amounts are not a guaranteed 2027 total cost.",
+        "verifiedAt": "2026-09-30T23:09:41Z",
+        "retrieval": "Reused earlier institutional-policy review; dated provisions remain subject to 2027 confirmation"
+      },
+      {
+        "id": "s9",
+        "label": "registrar.mit.edu / source 9",
+        "url": "https://registrar.mit.edu/registration-academics/tuition-fees/visiting-student",
+        "summary": "Same prior institutional check: monthly fees and separate PI-funded processing fee, with no inference of a lab opening.",
+        "verifiedAt": "2026-09-30T23:09:41Z",
+        "retrieval": "Reused earlier institutional-policy review; dated provisions remain subject to 2027 confirmation"
+      }
+    ],
+    "unknowns": [
+      "MIT Visiting Student policy is reused from the institutional check of 2026-09-30T23:09:41Z. Faculty-invited outside graduate research visits can last three weeks to 12 months, but at least 51% of total attendance costs must come from non-personal sources; full personal/family funding is not a valid assumption for that route.",
+      "Complete central documents are requested at least 90 days in advance. Confirm MechE-specific processing and date conventions; CSAIL/RLE local rules are not automatically Zhao Lab rules.",
+      "The July 2026 ISO estimate for September 2026–August 2027 lists $4,350 per month in documented support, including $3,725 living costs and a $625 monthly fee. A separate $1,000 processing fee must be paid from PI discretionary funds. Support proof is not an all-in bill; actual charges, travel and later 2027 rates require checking.",
+      "The trained human-to-robot interface was participant-calibrated. Broader cross-person performance, autonomous dexterity, clinical efficacy, prosthesis benefit and any clinical research access are not established by the demonstrations.",
+      "The full main article was not accessible without subscription. Methods are limited to directly inspected public publisher sections, the full public supplement, the publisher editorial and official MIT account. Do not imply an unseen robot architecture or broader trial.",
+      "Current apparatus access, a suitable software project and host availability at Cambridge rather than any partner site remain to be confirmed. The official profile also lists a Singapore Research Professor role; this does not relocate the MIT primary appointment.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#mit-visiting-students)"
+    ],
+    "publicEmail": "zhaox@mit.edu"
+  }
+]

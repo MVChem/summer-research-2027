@@ -85,6 +85,7 @@
     "batches/control-074.json",
     "batches/control-075.json",
     "batches/control-076.json",
+    "batches/control-077.json",
     "batches/control-081.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
@@ -4559,6 +4560,35 @@
       "shortVisitStatus": "inquiry-only · generic visiting scholar；八周与2027名额未定",
       "recordFile": "batches/control-076.json",
       "detailPage": "batches/control-076.md#jorge-i-poveda"
+    },
+    {
+      "id": "jennie-si",
+      "name": "Jennie Si",
+      "aliases": [
+        "Jenni Si"
+      ],
+      "school": "Arizona State University",
+      "title": "Professor; School of Life Sciences Interdisciplinary Graduate Faculty",
+      "homepage": "https://search.asu.edu/profile/48345",
+      "batch": "control-077",
+      "discoveredAt": "2026-10-01T06:44:53Z",
+      "verifiedAt": "2026-10-01T06:46:06Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Online actor-critic robot control",
+        "Imitation-initialized reinforcement learning",
+        "Wearable robot personalization",
+        "Data-efficient optimal control",
+        "Human-robot co-adaptation"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-077.json",
+      "detailPage": "batches/control-077.md#jennie-si"
     },
     {
       "id": "sihong-he",

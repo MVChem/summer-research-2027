@@ -78,6 +78,7 @@
     "batches/control-067.json",
     "batches/control-068.json",
     "batches/control-069.json",
+    "batches/control-070.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -4126,6 +4127,90 @@
       "shortVisitStatus": "degree-only · SMUL limited to Ljubljana students",
       "recordFile": "batches/control-069.json",
       "detailPage": "batches/control-069.md#milos-zefran"
+    },
+    {
+      "id": "ou-ma",
+      "name": "Ou Ma",
+      "aliases": [
+        "Ma Ou"
+      ],
+      "school": "University of Cincinnati",
+      "title": "Professor; Alan B. Shepard Chair; Director, Intelligent Robotics and Autonomous Systems Laboratory",
+      "homepage": "https://researchdirectory.uc.edu/p/maou",
+      "batch": "control-070",
+      "discoveredAt": "2026-10-01T05:55:00Z",
+      "verifiedAt": "2026-10-01T06:05:33Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Robot reinforcement learning",
+        "Sim-to-real transfer",
+        "Autonomous mobile manipulation",
+        "Space robotics"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-070.json",
+      "detailPage": "batches/control-070.md#ou-ma"
+    },
+    {
+      "id": "kira-barton",
+      "name": "Kira Barton",
+      "aliases": [],
+      "school": "University of Michigan, Ann Arbor",
+      "title": "Professor of Robotics and Mechanical Engineering; Barton Research Group",
+      "homepage": "https://robotics.umich.edu/people/faculty/kira-barton/",
+      "batch": "control-070",
+      "discoveredAt": "2026-10-01T05:58:13Z",
+      "verifiedAt": "2026-10-01T06:05:33Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Learning-enabled robotic manipulation",
+        "Distributed robot control",
+        "Multi-robot reinforcement learning",
+        "Smart manufacturing"
+      ],
+      "discoveryTimestampNote": "First precisely preserved source-observation time; earlier preliminary lead time is unavailable and was not reconstructed.",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-070.json",
+      "detailPage": "batches/control-070.md#kira-barton"
+    },
+    {
+      "id": "dawn-m-tilbury",
+      "name": "Dawn M. Tilbury",
+      "aliases": [
+        "Dawn Tilbury"
+      ],
+      "school": "University of Michigan, Ann Arbor",
+      "title": "Martha E. Pollack Distinguished University Professor of Robotics; Ronald D. and Regina C. McNeil Department Chair; Herrick Professor of Engineering",
+      "homepage": "https://robotics.umich.edu/people/faculty/dawn-tilbury/",
+      "batch": "control-070",
+      "discoveredAt": "2026-10-01T05:58:13Z",
+      "verifiedAt": "2026-10-01T06:05:33Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Learning-enabled robotic manipulation",
+        "Distributed robot control",
+        "Multi-robot reinforcement learning",
+        "Smart manufacturing"
+      ],
+      "discoveryTimestampNote": "First precisely preserved source-observation time; earlier preliminary lead time is unavailable and was not reconstructed.",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-070.json",
+      "detailPage": "batches/control-070.md#dawn-m-tilbury"
     },
     {
       "id": "tom-silver",

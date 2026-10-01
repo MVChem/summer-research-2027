@@ -1,0 +1,332 @@
+[
+  {
+    "id": "ou-ma",
+    "name": "Ou Ma",
+    "aliases": [
+      "Ma Ou"
+    ],
+    "school": "University of Cincinnati",
+    "homepage": "https://researchdirectory.uc.edu/p/maou",
+    "title": "Professor; Alan B. Shepard Chair; Director, Intelligent Robotics and Autonomous Systems Laboratory",
+    "department": "Aerospace Engineering and Engineering Mechanics",
+    "batch": "control-070",
+    "discoveredAt": "2026-10-01T05:55:00Z",
+    "verifiedAt": "2026-10-01T06:05:33Z",
+    "researchAreas": [
+      "Robot reinforcement learning",
+      "Sim-to-real transfer",
+      "Autonomous mobile manipulation",
+      "Space robotics"
+    ],
+    "fitReason": "Direct PPO and generative domain adaptation for executed service-robot manipulation, with a broader autonomous-robot control program.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "February 2025 primary preprint executes a Gazebo-trained PPO policy on a differential-drive electric-wheelchair base modified with a two-DOF assistive lever and side bar. VAE camera/force representations and CycleGAN real-to-simulation images support pulling actual self-closing office doors. Hardware results are 17/20 successes across two doors; the 95% headline is simulation. Left-hinged transfer uses mirrored observations/actions and a newly trained CycleGAN. Door approach and unlatching are separate perception/force-guided components. The paper’s IRAS affiliation plus an independent UC report naming lead author Yufeng Sun in Ma’s lab establish current-host project linkage. March 2026 dual-arm satellite work is simulation, not additional physical deployment.",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No applicable external-master short-visit invitation found on the official faculty or laboratory pages. University-level internship/scholar procedures are separate from an IRAS offer.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s6",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantive deep RL and generative sim-to-real adaptation in robot manipulation.",
+      "physical": "Real mobile door manipulation with independent current UC directed-group linkage.",
+      "shortVisit": "No lab-level invitation applicable to external master’s short research visits.",
+      "freshness": "Detailed 2025 physical manuscript, current 2026 official research activity and faculty record."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "researchdirectory.uc.edu / source 1",
+        "url": "https://researchdirectory.uc.edu/p/maou",
+        "summary": "Current professor/Shepard Chair, official contact and research record.",
+        "verifiedAt": "2026-10-01T06:05:33Z",
+        "retrieval": "Direct official or primary HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "www.ceas.uc.edu / source 2",
+        "url": "https://www.ceas.uc.edu/research/centers-labs/intelligent-robotics-and-autonomous-systems-laboratory.html",
+        "summary": "Official current IRAS laboratory and director attribution.",
+        "verifiedAt": "2026-10-01T06:05:33Z",
+        "retrieval": "Direct official or primary HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "assets-eu.researchsquare.com / source 3",
+        "url": "https://assets-eu.researchsquare.com/files/rs-6115186/v1_covered_789c1974-3a53-417f-bc5a-5191dd01323e.pdf?c=1740721117",
+        "summary": "Full February 2025 primary manuscript: PPO/VAE/CycleGAN implementation, wheelchair-based robot, real door results and left-hinge adaptation limits. Preprint status preserved.",
+        "verifiedAt": "2026-10-01T06:05:33Z",
+        "retrieval": "Direct primary full PDF via web.run; Research Square landing returned 403"
+      },
+      {
+        "id": "s4",
+        "label": "www.uc.edu / source 4",
+        "url": "https://www.uc.edu/news/articles/2024/01/space-force-awards-12m-grant-to-uc-to-develop-technology-to-fix-orbiting-satellites.html",
+        "summary": "Independent official report explicitly identifies Yufeng Sun’s door/outlet research in Ou Ma’s UC lab, supporting directed-group attribution.",
+        "verifiedAt": "2026-10-01T06:05:33Z",
+        "retrieval": "Direct official or primary HTML via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "www.uc.edu / source 5",
+        "url": "https://www.uc.edu/news/articles/2026/03/dual-arm-robot-stabilizes-satellite-for-repairs-in-space.html",
+        "summary": "Current 2026 satellite-control work explicitly described as simulation; no physical execution inferred.",
+        "verifiedAt": "2026-10-01T06:05:33Z",
+        "retrieval": "Direct official or primary HTML via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "www.uc.edu / source 6",
+        "url": "https://www.uc.edu/about/international/visa/faculty/intern.html",
+        "summary": "Institutional internship requirements and personal/family support, distinct from a lab invitation.",
+        "verifiedAt": "2026-10-01T06:05:33Z",
+        "retrieval": "Direct official or primary HTML via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "research.uc.edu / source 7",
+        "url": "https://research.uc.edu/international-collaboration/international-engagement---nsf-faqs",
+        "summary": "Research-only nondegree graduate participation limited to approved UC programs; host must identify an eligible route.",
+        "verifiedAt": "2026-10-01T06:05:33Z",
+        "retrieval": "Direct official or primary HTML via web.run"
+      }
+    ],
+    "unknowns": [
+      "Reuse Cincinnati feasibility supplement: international internship guidance accepts personal/family support and lists $2,000/month, but research-only nondegree graduate participation requires an approved UC program. The host must identify the approved program and correct category with UC International, including DS-7002 where applicable. Eight-week acceptance, laboratory access, category, insurance and 2027 costs remain unconfirmed. Space-related projects may require project-specific export/security review; no nationality-wide exclusion inferred.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#cincinnati)"
+    ],
+    "publicEmail": "maou@ucmail.uc.edu"
+  },
+  {
+    "id": "kira-barton",
+    "name": "Kira Barton",
+    "aliases": [],
+    "school": "University of Michigan, Ann Arbor",
+    "homepage": "https://robotics.umich.edu/people/faculty/kira-barton/",
+    "title": "Professor of Robotics and Mechanical Engineering; Barton Research Group",
+    "department": "Robotics; Mechanical Engineering",
+    "batch": "control-070",
+    "discoveredAt": "2026-10-01T05:58:13Z",
+    "verifiedAt": "2026-10-01T06:05:33Z",
+    "researchAreas": [
+      "Learning-enabled robotic manipulation",
+      "Distributed robot control",
+      "Multi-robot reinforcement learning",
+      "Smart manufacturing"
+    ],
+    "fitReason": "Verified learned grasp scoring on a physical manipulator and current graph-neural multi-robot RL research; manufacturing control is the application context.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "GraspMixer (IEEE T-ASE 2025) uses an MLP-Mixer grasp-quality classifier trained on synthetic data alongside analytical contact-pair generation. Real KUKA KMR iiwa 7/Weiss gripper trials use an Azure Kinect, 14 printed objects and 126 attempts. Complete object CAD geometry is assumed; classical HSV/ICP pose estimation is manually checked and MoveIt executes the selected grasp. This is learned grasp scoring coupled to control, not end-to-end learned perception. The author’s repository attributes the project to Michigan’s Barton Research Group, but his Michigan work predates his current Purdue appointment; current availability of that exact setup is unverified. September 2026 GNN-RL cooperative table lifting is Isaac Gym only. Current SMART 4.0 hardware is independently documented without assuming that the new neural method has executed there.",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current external-master short-visitor invitation verified from official faculty/lab pages. Historical visitor rosters and degree recruitment do not establish a summer 2027 place.",
+      "sourceIds": [
+        "s1",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct learned robot manipulation and current GNN-RL; broader program includes substantial manufacturing/control work.",
+      "physical": "Actual GraspMixer KUKA execution with author-verified Michigan group ownership; conservative cap for earlier member’s project and unverified current setup access.",
+      "shortVisit": "No applicable lab-level external-master short-visit invitation.",
+      "freshness": "2025 physical paper and September 2026 primary research/official activity; simulation is not relabeled as fresh hardware."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "robotics.umich.edu / source 1",
+        "url": "https://robotics.umich.edu/people/faculty/kira-barton/",
+        "summary": "Current official faculty role, public email and control/robotics research areas.",
+        "verifiedAt": "2026-10-01T06:05:33Z",
+        "retrieval": "Direct official or primary HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "www.researchgate.net / source 2",
+        "url": "https://www.researchgate.net/publication/388103002_GraspMixer_Hybrid_of_Contact_Surface_Sampling_and_Grasp_Feature_Mixing_for_Grasp_Synthesis",
+        "summary": "Complete accepted IEEE T-ASE 2025 author manuscript, CC BY 4.0, inspected including Section V-G and Table X. Real KUKA trials, MLP-Mixer grasp-quality model, known CAD geometry and manually verified pose-estimation limits.",
+        "verifiedAt": "2026-10-01T06:05:33Z",
+        "retrieval": "Open primary author-manuscript full text via web.run on ResearchGate; direct IEEE retrieval returned 418"
+      },
+      {
+        "id": "s3",
+        "label": "github.com / source 3",
+        "url": "https://github.com/kidpaul94/GraspMixer",
+        "summary": "Author’s project identifies both faculty and states work was done in Barton Research Group at Michigan; neural classifier and analytical contact sampling are distinguished.",
+        "verifiedAt": "2026-10-01T06:05:33Z",
+        "retrieval": "Direct official or primary HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "kidpaul94.github.io / source 4",
+        "url": "https://kidpaul94.github.io/",
+        "summary": "First author’s current Purdue appointment and earlier Michigan master’s/research-associate period; do not treat him as a current Michigan student.",
+        "verifiedAt": "2026-10-01T06:05:33Z",
+        "retrieval": "Direct official or primary HTML via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "advanced.onlinelibrary.wiley.com / source 5",
+        "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.70562",
+        "summary": "Full September 26, 2026 GNN-RL multi-robot manipulation paper uses Isaac Gym; real-world implementation remains future work.",
+        "verifiedAt": "2026-10-01T06:05:33Z",
+        "retrieval": "Direct official or primary HTML via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "news.engin.umich.edu / source 6",
+        "url": "https://news.engin.umich.edu/2026/09/academic-and-industry-center-to-solve-digital-twin-challenges-for-manufacturing/",
+        "summary": "September 2026 current faculty titles, both faculty’s center leadership and current SMART 4.0 testbed; future project goals do not establish new learned execution.",
+        "verifiedAt": "2026-10-01T06:05:33Z",
+        "retrieval": "Direct official or primary HTML via web.run"
+      }
+    ],
+    "unknowns": [
+      "Reuse existing Michigan–Ann Arbor eligibility notes: Covered Visitors includes outside graduate students, while host approval, onboarding and correct immigration category remain necessary. Current scholar funding guidance is $4,000/month through August 2027 with personal/family support allowed; this is a category-specific institutional threshold, not lab funding or a confirmed eight-week offer. The 2026 SMART 4.0 center is active, but access and project availability need host approval.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: First precisely preserved source-observation time; earlier preliminary lead time is unavailable and was not reconstructed.",
+      "[Institutional visitor rules](../eligibility_notes.md#michigan-ann-arbor)"
+    ],
+    "discoveryTimestampNote": "First precisely preserved source-observation time; earlier preliminary lead time is unavailable and was not reconstructed.",
+    "publicEmail": "bartonkl@umich.edu"
+  },
+  {
+    "id": "dawn-m-tilbury",
+    "name": "Dawn M. Tilbury",
+    "aliases": [
+      "Dawn Tilbury"
+    ],
+    "school": "University of Michigan, Ann Arbor",
+    "homepage": "https://robotics.umich.edu/people/faculty/dawn-tilbury/",
+    "title": "Martha E. Pollack Distinguished University Professor of Robotics; Ronald D. and Regina C. McNeil Department Chair; Herrick Professor of Engineering",
+    "department": "Robotics; Mechanical Engineering",
+    "batch": "control-070",
+    "discoveredAt": "2026-10-01T05:58:13Z",
+    "verifiedAt": "2026-10-01T06:05:33Z",
+    "researchAreas": [
+      "Learning-enabled robotic manipulation",
+      "Distributed robot control",
+      "Multi-robot reinforcement learning",
+      "Smart manufacturing"
+    ],
+    "fitReason": "Verified learned grasp scoring on a physical manipulator and current graph-neural multi-robot RL research; manufacturing control is the application context.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "GraspMixer (IEEE T-ASE 2025) uses an MLP-Mixer grasp-quality classifier trained on synthetic data alongside analytical contact-pair generation. Real KUKA KMR iiwa 7/Weiss gripper trials use an Azure Kinect, 14 printed objects and 126 attempts. Complete object CAD geometry is assumed; classical HSV/ICP pose estimation is manually checked and MoveIt executes the selected grasp. This is learned grasp scoring coupled to control, not end-to-end learned perception. The author’s repository attributes the project to Michigan’s Barton Research Group, but his Michigan work predates his current Purdue appointment; current availability of that exact setup is unverified. September 2026 GNN-RL cooperative table lifting is Isaac Gym only. Current SMART 4.0 hardware is independently documented without assuming that the new neural method has executed there.",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current external-master short-visitor invitation verified from official faculty/lab pages. Historical visitor rosters and degree recruitment do not establish a summer 2027 place.",
+      "sourceIds": [
+        "s1",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct learned robot manipulation and current GNN-RL; broader program includes substantial manufacturing/control work.",
+      "physical": "Actual GraspMixer KUKA execution with author-verified Michigan group ownership; conservative cap for earlier member’s project and unverified current setup access.",
+      "shortVisit": "No applicable lab-level external-master short-visit invitation.",
+      "freshness": "2025 physical paper and September 2026 primary research/official activity; simulation is not relabeled as fresh hardware."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "robotics.umich.edu / source 1",
+        "url": "https://robotics.umich.edu/people/faculty/dawn-tilbury/",
+        "summary": "Current official faculty role, public email and control/robotics research areas.",
+        "verifiedAt": "2026-10-01T06:05:33Z",
+        "retrieval": "Direct official or primary HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "www.researchgate.net / source 2",
+        "url": "https://www.researchgate.net/publication/388103002_GraspMixer_Hybrid_of_Contact_Surface_Sampling_and_Grasp_Feature_Mixing_for_Grasp_Synthesis",
+        "summary": "Complete accepted IEEE T-ASE 2025 author manuscript, CC BY 4.0, inspected including Section V-G and Table X. Real KUKA trials, MLP-Mixer grasp-quality model, known CAD geometry and manually verified pose-estimation limits.",
+        "verifiedAt": "2026-10-01T06:05:33Z",
+        "retrieval": "Open primary author-manuscript full text via web.run on ResearchGate; direct IEEE retrieval returned 418"
+      },
+      {
+        "id": "s3",
+        "label": "github.com / source 3",
+        "url": "https://github.com/kidpaul94/GraspMixer",
+        "summary": "Author’s project identifies both faculty and states work was done in Barton Research Group at Michigan; neural classifier and analytical contact sampling are distinguished.",
+        "verifiedAt": "2026-10-01T06:05:33Z",
+        "retrieval": "Direct official or primary HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "kidpaul94.github.io / source 4",
+        "url": "https://kidpaul94.github.io/",
+        "summary": "First author’s current Purdue appointment and earlier Michigan master’s/research-associate period; do not treat him as a current Michigan student.",
+        "verifiedAt": "2026-10-01T06:05:33Z",
+        "retrieval": "Direct official or primary HTML via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "advanced.onlinelibrary.wiley.com / source 5",
+        "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.70562",
+        "summary": "Full September 26, 2026 GNN-RL multi-robot manipulation paper uses Isaac Gym; real-world implementation remains future work.",
+        "verifiedAt": "2026-10-01T06:05:33Z",
+        "retrieval": "Direct official or primary HTML via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "news.engin.umich.edu / source 6",
+        "url": "https://news.engin.umich.edu/2026/09/academic-and-industry-center-to-solve-digital-twin-challenges-for-manufacturing/",
+        "summary": "September 2026 current faculty titles, both faculty’s center leadership and current SMART 4.0 testbed; future project goals do not establish new learned execution.",
+        "verifiedAt": "2026-10-01T06:05:33Z",
+        "retrieval": "Direct official or primary HTML via web.run"
+      }
+    ],
+    "unknowns": [
+      "Reuse existing Michigan–Ann Arbor eligibility notes: Covered Visitors includes outside graduate students, while host approval, onboarding and correct immigration category remain necessary. Current scholar funding guidance is $4,000/month through August 2027 with personal/family support allowed; this is a category-specific institutional threshold, not lab funding or a confirmed eight-week offer. The 2026 SMART 4.0 center is active, but access and project availability need host approval.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: First precisely preserved source-observation time; earlier preliminary lead time is unavailable and was not reconstructed.",
+      "[Institutional visitor rules](../eligibility_notes.md#michigan-ann-arbor)"
+    ],
+    "discoveryTimestampNote": "First precisely preserved source-observation time; earlier preliminary lead time is unavailable and was not reconstructed.",
+    "publicEmail": "tilbury@umich.edu"
+  }
+]

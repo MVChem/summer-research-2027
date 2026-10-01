@@ -1,0 +1,110 @@
+[
+  {
+    "id": "douglas-j-weber",
+    "name": "Douglas J. Weber",
+    "aliases": [
+      "Douglas Weber",
+      "Doug Weber"
+    ],
+    "school": "Carnegie Mellon University",
+    "homepage": "https://meche.engineering.cmu.edu/faculty/neuromechatronics-lab.html",
+    "title": "Akhtar and Bhutta Professor; courtesy Biomedical Engineering appointment",
+    "department": "Mechanical Engineering; Neuroscience Institute; NeuroMechatronics Lab",
+    "batch": "control-089",
+    "discoveredAt": "2026-10-01T09:59:39Z",
+    "verifiedAt": "2026-10-01T10:41:40Z",
+    "researchAreas": [
+      "Neural interfaces for robot control",
+      "EMG machine learning",
+      "Physically assistive manipulation",
+      "Human-machine interaction"
+    ],
+    "fitReason": "Trained neuromuscular decoding actually controls a mobile manipulator, with independently verified current co-advising.",
+    "physicalEvidence": {
+      "status": "Verified 2023 CMU learned decoding-to-robot experiment; current co-advising confirmed",
+      "summary": "The real Stretch RE2 experiment was already present in the December 12, 2023 first preprint, later published January 27, 2025 in npj Robotics. A personalized feedforward decoder with two512-node hidden layers classifies10gestures from 64-electrode EMG, driving8-DOF mobile manipulation through conventional PID control with 13participants. This is learned-input teleoperation, not autonomous task planning. Calibration/recalibration and clinical generalization remain limitations. Current CMU and lead-author rosters independently confirm Weber/Erickson co-advising; they do not turn the 2023 experiment into new 2025/2026 execution. Physical20 reflects older verified hardware.",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The current lab has graduate and master researchers, but no explicit outside-master short-visitor invitation or summer 2027 opening was verified. Existing CMU degree students and public summer-undergraduate precedents do not create an external-master offer.",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "Substantive learned human-to-robot interface, somewhat narrower than autonomous policy learning.",
+      "physical": "Complete older 2023 physical experiment, with current independent co-advising linkage;2025 publication is not a new deployment.",
+      "shortVisit": "No distinct external-master short-visitor offer.",
+      "freshness": "ExplicitJanuary 2025 research publication; undated current pages do not earn 2026 freshness."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "meche.engineering.cmu.edu / source 1",
+        "url": "https://meche.engineering.cmu.edu/directory/bios/weber-douglas.html",
+        "summary": "Current named professorship, affiliations and public email.",
+        "verifiedAt": "2026-10-01T10:01:07Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "meche.engineering.cmu.edu / source 2",
+        "url": "https://meche.engineering.cmu.edu/faculty/neuromechatronics-lab.html",
+        "summary": "Current lab and Jehan Yang roster entry with Erickson co-advisor; masters roster is not an outside-visitor invitation.",
+        "verifiedAt": "2026-10-01T10:01:07Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "jehanyang.github.io / source 3",
+        "url": "https://jehanyang.github.io/",
+        "summary": "Lead author independently names Weber/Erickson PhD advisors and linksJanuary 2025 physical EMG-robot paper.",
+        "verifiedAt": "2026-10-01T10:01:07Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "www.nature.com / source 4",
+        "url": "https://www.nature.com/articles/s44182-025-00018-3",
+        "summary": "FullCC-BY 2025 published study,13participants, real Stretch control and calibration/clinical limitations.",
+        "verifiedAt": "2026-10-01T10:01:07Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2312.07745v2",
+        "summary": "Complete primary manuscript verifies personalized two-layer decoder, sample split, gesture filtering and actual8-DOF robot control; original 2023 posting is historical.",
+        "verifiedAt": "2026-10-01T10:01:07Z",
+        "retrieval": "Direct official/primary source via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/pdf/2312.07745v1",
+        "summary": "Complete first preprint December 12, 2023 already contains13participants, the two512-node decoder and Stretch RE2 hardware experiment.",
+        "verifiedAt": "2026-10-01T10:41:40Z",
+        "retrieval": "Public primary PDF downloaded and completely extracted with pdftotext after web retrieval cache miss"
+      }
+    ],
+    "unknowns": [
+      "Reuse CMU Student Intern/Collaborating Visitor notes: outside degree students including Masters can use a host-approved research internship, up to12months; minimum stay and 2027 lab capacity require confirmation. June 2026 Pittsburgh support baseline is$3,253/month and permits documented personal/family/external funds; actual eight-week costs, insurance and 2027 amounts remain separate. Visitor review should start30days ahead, or60days when immigration documents are needed, without guaranteeing visa timing. Clinical, human-subject and system access must be explicitly approved for the proposed work. Do not treat current neuroscience projects or another institution’s device as automatically available.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#cmu-student-intern)"
+    ],
+    "publicEmail": "dougweber@cmu.edu"
+  }
+]

@@ -97,6 +97,7 @@
     "batches/control-086.json",
     "batches/control-087.json",
     "batches/control-088.json",
+    "batches/control-089.json",
     "batches/control-090.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
@@ -5232,6 +5233,37 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-088.json",
       "detailPage": "batches/control-088.md#jason-n-gross"
+    },
+    {
+      "id": "douglas-j-weber",
+      "name": "Douglas J. Weber",
+      "aliases": [
+        "Douglas Weber",
+        "Doug Weber"
+      ],
+      "school": "Carnegie Mellon University",
+      "title": "Akhtar and Bhutta Professor; courtesy Biomedical Engineering appointment",
+      "homepage": "https://meche.engineering.cmu.edu/faculty/neuromechatronics-lab.html",
+      "batch": "control-089",
+      "discoveredAt": "2026-10-01T09:59:39Z",
+      "verifiedAt": "2026-10-01T10:41:40Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Neural interfaces for robot control",
+        "EMG machine learning",
+        "Physically assistive manipulation",
+        "Human-machine interaction"
+      ],
+      "physicalEvidenceStatus": "Verified 2023 CMU learned decoding-to-robot experiment; current co-advising confirmed",
+      "physicalEvidenceLabel": "受限真机证据：Verified 2023 CMU learned decoding-to-robot experiment; current co-advising confirmed",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-089.json",
+      "detailPage": "batches/control-089.md#douglas-j-weber"
     },
     {
       "id": "jun-chen",

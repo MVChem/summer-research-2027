@@ -72,7 +72,8 @@
     "batches/hri-018.json",
     "batches/hri-019.json",
     "batches/hri-020.json",
-    "batches/hri-021.json"
+    "batches/hri-021.json",
+    "batches/hri-022.json"
   ],
   "candidates": [
     {
@@ -6773,6 +6774,34 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-021.json",
       "detailPage": "batches/hri-021.md#raj-korpan"
+    },
+    {
+      "id": "nadia-figueroa",
+      "name": "Nadia Figueroa",
+      "aliases": [],
+      "school": "University of Pennsylvania",
+      "title": "Shalini and Rajeev Misra Presidential Assistant Professor",
+      "homepage": "https://nbfigueroa.github.io/",
+      "batch": "hri-022",
+      "discoveredAt": "2026-10-01T00:04:43Z",
+      "verifiedAt": "2026-10-01T00:06:36Z",
+      "scores": {
+        "fit": 40,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Learning from demonstration",
+        "3D visuomotor flow matching",
+        "Physical human-robot collaboration",
+        "Compliant manipulation",
+        "Reactive and safe robot learning",
+        "Symbolic skill learning"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-022.json",
+      "detailPage": "batches/hri-022.md#nadia-figueroa"
     }
   ]
 }

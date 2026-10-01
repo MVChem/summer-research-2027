@@ -1,0 +1,121 @@
+[
+  {
+    "id": "nadia-figueroa",
+    "name": "Nadia Figueroa",
+    "aliases": [],
+    "school": "University of Pennsylvania",
+    "homepage": "https://nbfigueroa.github.io/",
+    "title": "Shalini and Rajeev Misra Presidential Assistant Professor",
+    "department": "Mechanical Engineering and Applied Mechanics; secondary appointments in CIS and ESE; GRASP Lab",
+    "batch": "hri-022",
+    "discoveredAt": "2026-10-01T00:04:43Z",
+    "verifiedAt": "2026-10-01T00:06:36Z",
+    "researchAreas": [
+      "Learning from demonstration",
+      "3D visuomotor flow matching",
+      "Physical human-robot collaboration",
+      "Compliant manipulation",
+      "Reactive and safe robot learning",
+      "Symbolic skill learning"
+    ],
+    "fitReason": "Excellent CS/AI-method and physical-robot overlap: point-cloud policies, flow matching, data-efficient imitation, learned symbolic skills and reactive manipulation. The lab connects learned representations and policies to contact-rich execution, rather than focusing solely on hardware or biomechanical measurement.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The April 2026 full primary version of Flow with the Force Field learns a point-cloud/force-conditioned flow-matching policy from synthetic data generated from one simulation demonstration, then deploys it on real Franka robots for block flipping and bimanual object movement. Methods specify joint-torque force estimates and a RealSense L515. Current lab facilities independently inventory Franka and KUKA arms, bimanual systems, a kitchenette, mobile robots and sensing. SymSkill, revised June 2026, also reports Franka manipulation learning from five minutes of play data; motion capture and a webcam support its learning setup.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The full current Joining page says application information will be posted soon; it gives no current visitor application route. The lab roster includes visiting PhD researchers and a summer 2026 external undergraduate visitor, but this is precedent only. Internal robotics master's students labeled interns must not be treated as proof of external master's eligibility.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 40,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "direct high-overlap robot-learning/perception, imitation and human-centered physical interaction.",
+      "physical": "full recent Penn-affiliated Franka deployment plus current local inventory.",
+      "shortVisit": "joining placeholder and precedent only.",
+      "freshness": "dated April/June 2026 primary versions and current 2026 lab activity. Provisional evidence-fit score, not acceptance probability or prestige."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "nbfigueroa.github.io / source 1",
+        "url": "https://nbfigueroa.github.io/",
+        "summary": "Full faculty homepage linked from official Penn lab verifies title, MEAM primary and CIS/ESE secondary roles, GRASP affiliation, research scope and public email.",
+        "verifiedAt": "2026-10-01T00:06:36Z"
+      },
+      {
+        "id": "s2",
+        "label": "almanac.upenn.edu / source 2",
+        "url": "https://almanac.upenn.edu/articles/nadia-figueroa-2025-nsf-career-award",
+        "summary": "Full official January 13, 2026 university record independently confirms professorship and active physical HRI research; grant is not visitor funding evidence.",
+        "verifiedAt": "2026-10-01T00:06:36Z"
+      },
+      {
+        "id": "s3",
+        "label": "figueroa.seas.upenn.edu / source 3",
+        "url": "https://figueroa.seas.upenn.edu/facilities/",
+        "summary": "Full current official lab inventory identifies Franka/KUKA arms, bimanual robots, local experimental space, sensors, kitchenette and mobile platforms.",
+        "verifiedAt": "2026-10-01T00:06:36Z"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2510.02738v3",
+        "summary": "Full primary April 16, 2026 version, Sections III-IV: Penn affiliation; point-cloud and force-conditioned flow matching, synthetic data generation and real Franka block-flipping/bimanual experiments.",
+        "verifiedAt": "2026-10-01T00:06:36Z"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2510.01661v3",
+        "summary": "Primary June 8, 2026 version: symbol/skill learning, real Franka manipulation and motion-capture/webcam data-collection setup, distinct from RoboCasa simulation.",
+        "verifiedAt": "2026-10-01T00:06:36Z"
+      },
+      {
+        "id": "s6",
+        "label": "figueroa.seas.upenn.edu / source 6",
+        "url": "https://figueroa.seas.upenn.edu/joining/",
+        "summary": "Full current Opportunities page is a placeholder stating joining information will be posted; no visitor application terms.",
+        "verifiedAt": "2026-10-01T00:06:36Z"
+      },
+      {
+        "id": "s7",
+        "label": "figueroa.seas.upenn.edu / source 7",
+        "url": "https://figueroa.seas.upenn.edu/people/",
+        "summary": "Full current official roster verifies PI, internal master's researchers, current/past visiting PhD scholars and one external summer 2026 undergraduate; precedent only.",
+        "verifiedAt": "2026-10-01T00:06:36Z"
+      }
+    ],
+    "unknowns": [
+      "No eight-week invitation, summer 2027 vacancy, stipend, international appointment or wholly self-funded eligibility was verified.",
+      "Current joining page is a placeholder, not an invitation. Existing visiting researchers and internal master's internships are not open positions.",
+      "Robot access and a feasible short project require PI and institutional approval; a current facility inventory alone is not permission to use it.",
+      "The primary methods include simulated data and actual hardware deployment; their demonstration-data and perception assumptions should not be generalized to unrestricted real-world autonomy.",
+      "Awards and research grants are used only to date or verify activity, never as evidence of visitor funding or acceptance likelihood.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "nadiafig@seas.upenn.edu"
+  }
+]

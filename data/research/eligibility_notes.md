@@ -427,3 +427,67 @@ Tacoma 补充核查：2026-10-01T01:02:36Z。[SET visiting appointments](https:/
 核查：2026-10-01T00:42:47Z。[ISSO Scholar 比较](https://global.unl.edu/isso/host-or-hire-international-scholar/) 允许无薪、个人资金支持的 scholar，Short-Term Scholar 最多六个月，通常预留 3–4 个月。[主办流程](https://global.unl.edu/isso/host-or-hire-j-1-scholar/) 要求导师、正式任命及英语材料，至少提前两个月提交；并非两个月保证获签。
 
 [学生类别指导](https://global.unl.edu/isso/immigration-status-information-international-students/) 的资金框架不同，不能将 scholar 许可直接套用于硕士学位研究。当前月支持最低额、处理费、具体硕士职称和 2027 资格未确证；索引中的旧 1,730 美元表及 2016 年工程流程不作为当前预算或自费批准。
+
+<a id="rutgers"></a>
+
+## Rutgers · Graduate Intern 资金比例与工时措辞需协调
+
+核查：2026-10-01T01:21:59Z。[Student Intern](https://global.rutgers.edu/short-term-non-degree) 明确包括海外全时本科/研究生，需学位关联、原校证明及返校完成学位，有薪/无薪均可，3 周至十二个月。该页写至少每周 32 小时、至多 40% 远程，并要求至少提前三个月发起；完整材料后的十四个工作日不是总流程时间。
+
+[通用 visa-type 页面](https://global.rutgers.edu/visa-types) 列主要机构/政府/agency 支持、个人最多 25%，而 Intern 页虽列个人/家庭资金却未豁免这一上限；两页的至少/至多 32 小时措辞也不同。完全个人资金及精确工时须 Rutgers Global 确认。链接的 [资金证明表](https://global.rutgers.edu/sites/default/files/2025-05/Certification-of-Funds.pdf) 内部更新于 2026 年 9 月，列年生活额 25,920 美元；Intern 按周折算说明不应被替换为普通学费账单。夏季全部费用、保险及 2027 实际安排未确认；实验室 volunteer 询问不是非正式入境工作许可。
+
+<a id="connecticut"></a>
+
+## Connecticut · 有明确个人资助 Student Intern 分类，但须学位关联
+
+核查：2026-10-01T01:23:48Z。[主办类别规则](https://international.global.uconn.edu/department-information/department-information-hosting-an-exchange-visitor/) 对主要个人/家庭支持且没有机构协议的情况提供 Student Intern 路径，在读学生使用 Visiting Student 类任命而非自动成为 Visiting Scholar。[Intern 规则](https://international.global.uconn.edu/department-information/department-information-hosting-an-exchange-visitor/student-intern-program-j-1-exchange-visitor/) 要求原学位目标、结束后返校，3 周至十二个月、每周至少 32 小时，正式培训计划、原校证明及评估。
+
+[中央财力页](https://international.global.uconn.edu/j-1-visa-eligibility/) 仍列每月 2,590 美元，但金额更新标签为 2022 年，2027 必须重查。主办页说明中央无访问相关收费，不等于保险、旅行、政府和生活费用为零；完整请求至少提前十二周。无薪 Intern 另需相当于 workers’ compensation 的保险保障。UConn Health 的 Visiting Scientist 自费禁令属于另一单位/职称，不覆盖此 Computing/Storrs 学生规则，也不能忽略实际项目如转到 Health 时的条件。
+
+<a id="brown"></a>
+
+## Brown · 研究生使用 Visiting Research Fellow
+
+核查：2026-10-01T01:28:13Z。[VRF](https://isss.brown.edu/international-scholars/j-1-scholars/types-j-1-scholars/visiting-research-fellows) 明确包括外校在读研究生的学位关联研究，需导师/院系和 Graduate School 任命；Brown 的 Student Intern 限本科，研究生 VRF 使用相应 scholar 分类。Short-Term 最多六个月，但八周仍需主办批准。总体流程 120–150 天，必须购买 Brown 指定保险，不能用外部保险替换。
+
+[2026 年 9 月起费用](https://isss.brown.edu/home/isss-administrative-fees) 对不超过六个月的初次 VRF 请求为 225 美元，另计保险等。[2026–27 财力规则](https://isss.brown.edu/international-scholars/j-1-scholars/j-1-scholar-funding-requirements) 列每月 3,375 美元并接受个人单独或补充支持，VRF 家长账户需 affidavit；旧 Graduate School 页仍列 2,770 美元，应使用明确年度的现行 ISSS 数并重查。可用资金来源不等于学校资助或导师空位。
+
+<a id="notre-dame"></a>
+
+## Notre Dame · Research Visitor 与本科、博士后类别分开
+
+核查：2026-10-01T01:17:16Z。[Research Visitor 任命](https://postdocs.nd.edu/faculty-administrative-staff/appointment-descriptions/) 明确包括外校在读的 predoctoral graduate student，做学位关联研究，无薪无福利，几天至约一年；六个月是常见时长，不是最低要求。[ISSA 分类](https://issa.nd.edu/departments/scholars-employees/j-1-ev-scholars/j-1-exchange-visitor-scholar-categories/) 另允许外国本科/研究生 Student Intern，3 周至一年、每周至少 32 小时并需返校完成学位。独立的本科 Non-Degree 51% 资金规则和博士后 self-pay 禁令不能泛化为研究生访客禁令。
+
+最新找到的 [2025–26 财力 PDF](https://issa.nd.edu/assets/604823/j_1_scholars_minimum_financial_requirements_for_initial_documents_2_.pdf) 列每月 1,900 美元并接受个人银行证据；当前院系页仍链接旧 2023 年 1,633 美元表，二者都不是已核实的 2027 报价。具体 graduate appointment / Intern 的完全个人支持仍需 ISSA 确认。主办方建议至少提前两个月，短期无薪访客须自备合规保险，完整费用和具体导师接收未确认。
+
+<a id="penn-state"></a>
+
+## Penn State · 学术最低资格与国际分类分开批准
+
+核查：2026-10-01T00:52:49Z。[AC01](https://policy.psu.edu/policies/ac01) 要求外部 affiliation、至少本科等同资格及个人/行政主办方，排除外校本科生但未排除研究生。因此在读外校硕士满足学术最低条件是待批准的推断，不是个人资格结论。至少十四天的访问需正式审批、背景和适用研究审查；初次 designation 通常至多一年。
+
+[J-1 Scholar 页](https://global.psu.edu/page/who-j-1-scholar) 列 Short-Term 为 1 天至六个月，建议至少提前三个月，并警示指导正在复核。[财力流程](https://global.psu.edu/landing/j-1-scholar-visa-process) 明确接受个人/家庭资金，2025 年 8 月起每月 2,625 美元，但指出实际生活费可能更高。处理费、保险和 2027 分类未核实，旧 Intern 表不作为当前硕士路径。
+
+<a id="william-mary"></a>
+
+## William & Mary · Graduate Intern 明确，完全个人资金待确认
+
+核查：2026-10-01T01:11:48Z。[分类指导](https://www.wm.edu/offices/revescenter/issp/intl-hiring-wm-vims/scholarvisas/j1/category/) 和 [Student Intern 页面](https://www.wm.edu/offices/revescenter/issp/intl-hiring-wm-vims/scholarvisas/j1studentintern/) 明确包括国外本科/研究生，3 周至十二个月、每周至少 32 小时，需原学位目标、良好学籍及返校完成学位。临床患者照护受限制，实际类别由 ISSP 选择。
+
+[主办流程](https://www.wm.edu/offices/revescenter/issp/intl-hiring-wm-vims/scholarvisas/j1studentintern/student-intern-scholarship/) 包括培训计划、英语、院系及原校说明，描述无薪 affiliate 账户；现列一次 350 美元 scholar fee，通常访客支付，雇员情形另有例外。[2026 财力页](https://www.wm.edu/offices/revescenter/issp/intl-hiring-wm-vims/scholarvisas/j1/scholarfunding/) 列每月 3,443 美元，但未明确全额个人/家庭支持，不能从无薪状态推断。完整费用、2027 金额、办理总时间与导师容量待确认。
+
+<a id="minnesota"></a>
+
+## Minnesota · 研究生 Student-Intern 的个人资金示例
+
+核查：2026-10-01T00:32:52Z。[邀请指导](https://isss.umn.edu/guidelines-writing-invitation-offer-letter-j-1-student-interns) 明确包含原校研究生，并给出无薪、个人资金支持的示例。仍需原校证明学位关联及返校完成学位。[现行流程](https://isss.umn.edu/departments/visitors/student-interns/invite) 为毕业前至多十二个月、每周至少 32 小时，未公布最低时长；建议提前三个月评估、至少提前两个月提交主办筛查，八周项目仍需导师及学校批准。
+
+[2026 年 7 月费用](https://isss.umn.edu/exchange-visitor-fees) 列 Intern 590 美元，由部门账户支付，可向访问者收回；600 美元 scholar 费是另一类别。当前 Intern 月财力最低额未核实，不采用旧纸质表数字充作 2027 预算。[保险规则](https://isss.umn.edu/scholars/j1-student-interns/new/before-you-arrive/health-insurance) 要求大学指定覆盖，不能默认用私人/原国保险替代。政策许可不代表实验室愿意或已有名额。
+
+<a id="boise-state"></a>
+
+## Boise State · Scholar 个人资金许可不等于硕士任命已批
+
+核查：2026-10-01T01:26:27Z。[Prospective Scholar](https://www.boisestate.edu/global-international-scholars-faculty/evp-overview/prospective-j1-scholars/) 要求完成本科等同学位，Short-Term 为 1 天至六个月，现列单人每月 2,325 美元生活支持，非学费或完整预算。[主办指导](https://www.boisestate.edu/global-international-scholars-faculty/evp-overview/departments-j1/) 明确无需学校发薪、可用个人资金，并要求至少提前三个月准备。
+
+[正式流程](https://www.boisestate.edu/global-international-scholars-faculty/j1-paperwork/) 需财力、英语及院系/学院批准，完整材料后的文件制作时间不是总体提前期。外校在读硕士的实际学术职称、项目和国际类别仍未明确，不能仅凭八周落在时长上限内就称已获资格；也未验证独立 Student Intern 路径。2027 资金数、保险和其他费用须重查。

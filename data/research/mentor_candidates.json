@@ -184,6 +184,7 @@
     "batches/embodied-079.json",
     "batches/embodied-080.json",
     "batches/embodied-081.json",
+    "batches/embodied-082.json",
     "batches/embodied-084.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
@@ -9803,6 +9804,66 @@
       "shortVisitStatus": "inquiry-only · 访客预期自筹支持；八周与类别未定",
       "recordFile": "batches/embodied-081.json",
       "detailPage": "batches/embodied-081.md#ross-greer"
+    },
+    {
+      "id": "keith-a-brown",
+      "name": "Keith A. Brown",
+      "aliases": [
+        "Keith Brown"
+      ],
+      "school": "Boston University",
+      "title": "Associate Professor; Head of Materials Science and Engineering Division",
+      "homepage": "https://www.kablab.org/home",
+      "batch": "embodied-082",
+      "discoveredAt": "2026-10-01T10:30:21Z",
+      "verifiedAt": "2026-10-01T11:28:46Z",
+      "scores": {
+        "fit": 35,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Autonomous robotic experimentation",
+        "Bayesian optimization and active learning",
+        "AI for materials discovery",
+        "Human-machine scientific discovery"
+      ],
+      "discoveryTimestampNote": "First precisely retained primary-name encounter in full 2024 Lipton/Brown foam paper; dedicated official-faculty result10:30:58Z.",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-082.json",
+      "detailPage": "batches/embodied-082.md#keith-a-brown"
+    },
+    {
+      "id": "jeffrey-ian-lipton",
+      "name": "Jeffrey Ian Lipton",
+      "aliases": [
+        "Jeffrey I. Lipton",
+        "Jeffrey Lipton",
+        "Jeff Lipton"
+      ],
+      "school": "Northeastern University",
+      "title": "Assistant Professor",
+      "homepage": "https://transformativerobotlab.com/",
+      "batch": "embodied-082",
+      "discoveredAt": "2026-10-01T10:29:00Z",
+      "verifiedAt": "2026-10-01T10:33:51Z",
+      "scores": {
+        "fit": 34,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 13
+      },
+      "researchAreas": [
+        "ML-guided soft-robot material design",
+        "Autonomous experimental active learning",
+        "Computational fabrication",
+        "Soft robotic mechanisms"
+      ],
+      "discoveryTimestampNote": "First precisely retained dedicated primary faculty result; an earlier untimed name-only lead was not reconstructed.",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-082.json",
+      "detailPage": "batches/embodied-082.md#jeffrey-ian-lipton"
     },
     {
       "id": "wojciech-matusik",

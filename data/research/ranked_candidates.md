@@ -2,7 +2,7 @@
 
 [字段与评分说明](README.md) · [结构化索引](mentor_candidates.json) · [机构访问规则](eligibility_notes.md)
 
-新增 **514 位**；原有 200 位保持不变。所有时间为 UTC。点击导师姓名查看完整证据、来源、评分理由和未确认事项。
+新增 **516 位**；原有 200 位保持不变。所有时间为 UTC。点击导师姓名查看完整证据、来源、评分理由和未确认事项。
 
 总分 = 匹配 40 + 真机 25 + 短访 20 + 新鲜度 15。括号内为四项分数。研究优先级不是录取概率；没有联系导师或发送邮件。学校路径、一般询问入口与导师实际接收是不同事项。
 
@@ -459,68 +459,70 @@
 | 449 | [Alexis E. Block](batches/hri-063.md#alexis-e-block) · Case Western Reserve University | 70 (35/20/0/15) | degree-only | 2026-10-01T05:22:17Z | 2026-10-01T05:25:19Z |
 | 450 | [Joseph E. Michaelis](batches/hri-064.md#joseph-e-michaelis) · University of Illinois Chicago | 70 (35/20/0/15) | unknown | 2026-10-01T05:30:03Z | 2026-10-01T05:32:23Z |
 | 451 | [Ramesh Karri](batches/embodied-074.md#ramesh-karri) · New York University | 70 (35/20/0/15) | unknown | 2026-10-01T07:06:08Z † | 2026-10-01T07:09:08Z |
-| 452 | [Luis Antonio Garcia](batches/control-091.md#luis-antonio-garcia) · University of Utah · **受限真机证据：Earlier UCLA collaborative physical RL verified; current Utah learned hardware unknown** | 70 (34/18/8/10) | inquiry-only · 短期scholar询问；硕士类别与八周需确认 | 2026-10-01T10:14:16Z | 2026-10-01T10:17:12Z |
-| 453 | [Ron Alterovitz](batches/embodied-005.md#ron-alterovitz) · University of North Carolina at Chapel Hill | 70 (31/24/0/15) | unknown | 2026-09-30T21:54:14Z | 2026-09-30T21:59:27Z |
-| 454 | [Lu Gan](batches/control-006.md#lu-gan) · Georgia Institute of Technology | 69 (39/20/0/10) | unknown | 2026-09-30T22:04:58Z | 2026-09-30T22:08:52Z |
-| 455 | [Patrick M. Wensing](batches/embodied-013.md#patrick-m-wensing) · University of Notre Dame | 69 (39/20/0/10) | unknown | 2026-09-30T23:01:38Z | 2026-09-30T23:06:18Z |
-| 456 | [Yisong Yue](batches/embodied-018.md#yisong-yue) · California Institute of Technology | 69 (39/20/0/10) | unknown | 2026-09-30T23:29:35Z | 2026-09-30T23:32:00Z |
-| 457 | [Michelle Zhao](batches/hri-062.md#michelle-zhao) · Indiana University Bloomington | 69 (39/20/0/10) | degree-only · current IU students | 2026-10-01T05:19:50Z | 2026-10-01T05:20:40Z |
-| 458 | [Michael M. Zavlanos](batches/control-004.md#michael-m-zavlanos) · Duke University | 69 (37/20/0/12) | unknown | 2026-09-30T21:41:52Z | 2026-09-30T21:47:35Z |
-| 459 | [Karen Leung](batches/control-001.md#karen-leung) · University of Washington | 69 (37/18/0/14) | unknown | 2026-09-30T21:21:57Z | 2026-09-30T21:24:34Z |
-| 460 | [Necmiye Ozay](batches/control-007.md#necmiye-ozay) · University of Michigan | 69 (37/18/0/14) | unknown | 2026-09-30T22:13:08Z | 2026-09-30T22:19:35Z |
-| 461 | [Mykel J. Kochenderfer](batches/control-003.md#mykel-j-kochenderfer) · Stanford University | 69 (36/18/0/15) | unknown | 2026-09-30T21:35:03Z | 2026-09-30T21:38:05Z |
-| 462 | [Yancy Diaz-Mercado](batches/control-007.md#yancy-diaz-mercado) · University of Maryland, College Park | 69 (35/20/0/14) | unknown | 2026-09-30T22:12:58Z | 2026-09-30T22:19:35Z |
-| 463 | [Francesco Bullo](batches/control-005.md#francesco-bullo) · University of California, Santa Barbara | 69 (34/20/0/15) | unknown | 2026-09-30T21:52:24Z | 2026-09-30T22:01:01Z |
-| 464 | [Jacob W. Crandall](batches/hri-005.md#jacob-w-crandall) · Brigham Young University | 69 (34/20/0/15) | unknown | 2026-09-30T21:54:52Z | 2026-09-30T21:58:49Z |
-| 465 | [Leia Stirling](batches/hri-006.md#leia-stirling) · University of Michigan | 69 (34/20/0/15) | unknown | 2026-09-30T22:03:10Z | 2026-09-30T22:07:05Z |
-| 466 | [Rebecca Kramer-Bottiglio](batches/embodied-015.md#rebecca-kramer-bottiglio) · Princeton University | 69 (34/20/0/15) | unknown | 2026-09-30T23:07:06Z | 2026-09-30T23:17:13Z |
-| 467 | [David Alexander Forsyth](batches/embodied-073.md#david-alexander-forsyth) · University of Illinois Urbana-Champaign | 69 (34/20/0/15) | unknown | 2026-10-01T07:00:41Z † | 2026-10-01T07:03:59Z |
-| 468 | [Matthias Scheutz](batches/hri-004.md#matthias-scheutz) · Tufts University | 68 (38/20/0/10) | unknown | 2026-09-30T21:44:20Z | 2026-09-30T21:50:22Z |
-| 469 | [Zhichao Liu](batches/control-084.md#zhichao-liu) · University of Houston–Clear Lake · **受限真机证据：Prior-host or collaborative learned robot verified; current-site learned execution unverified** | 68 (38/20/0/10) | degree-only · 所列入口面向UHCL本校学生 | 2026-10-01T00:49:45Z | 2026-10-01T07:27:22Z |
-| 470 | [Jie Fu](batches/control-084.md#jie-fu) · University of Florida · **受限真机证据：Prior-host or collaborative learned robot verified; current-site learned execution unverified** | 68 (38/20/0/10) | unknown | 2026-10-01T02:17:31Z | 2026-10-01T07:27:22Z |
-| 471 | [Kimon P. Valavanis](batches/control-078.md#kimon-p-valavanis) · University of Denver | 68 (38/20/0/10) | unknown | 2026-10-01T06:46:37Z | 2026-10-01T06:49:15Z |
-| 472 | [Honglak Lee](batches/embodied-004.md#honglak-lee) · University of Michigan | 68 (36/20/0/12) | unknown | 2026-09-30T21:47:15Z | 2026-09-30T21:52:53Z |
-| 473 | [Guannan Qu](batches/control-004.md#guannan-qu) · Carnegie Mellon University | 68 (35/20/0/13) | unknown | 2026-09-30T21:42:09Z | 2026-09-30T21:47:35Z |
-| 474 | [Jean Oh](batches/embodied-001.md#jean-oh) · Carnegie Mellon University | 68 (33/25/0/10) | unknown | 2026-09-30T21:24:15Z | 2026-09-30T21:28:42Z |
-| 475 | [Marcia K. O’Malley](batches/hri-004.md#marcia-k-omalley) · Rice University | 68 (33/25/0/10) | unknown | 2026-09-30T21:44:20Z | 2026-09-30T21:50:22Z |
-| 476 | [Tom Williams](batches/hri-002.md#tom-williams) · Colorado School of Mines | 68 (33/20/0/15) | unknown | 2026-09-30T21:30:51Z | 2026-09-30T21:35:06Z |
-| 477 | [Jorge Cortés](batches/control-003.md#jorge-cortes) · University of California, San Diego | 67 (37/20/0/10) | precedent-only | 2026-09-30T21:28:35Z | 2026-09-30T21:38:05Z |
-| 478 | [Aaron Steinfeld](batches/hri-004.md#aaron-steinfeld) · Carnegie Mellon University | 67 (37/20/0/10) | unknown | 2026-09-30T21:44:20Z | 2026-09-30T21:50:22Z |
-| 479 | [Andrew Owens](batches/embodied-005.md#andrew-owens) · Cornell University (Cornell Tech) | 67 (37/20/0/10) | unknown | 2026-09-30T21:53:37Z | 2026-09-30T21:59:27Z |
-| 480 | [Matthew J. Rutherford](batches/control-078.md#matthew-j-rutherford) · University of Denver | 67 (37/20/0/10) | unknown | 2026-10-01T06:46:37Z | 2026-10-01T06:49:15Z |
-| 481 | [Douglas J. Weber](batches/control-089.md#douglas-j-weber) · Carnegie Mellon University · **受限真机证据：Verified 2023 CMU learned decoding-to-robot experiment; current co-advising confirmed** | 67 (37/20/0/10) | unknown | 2026-10-01T09:59:39Z | 2026-10-01T10:41:40Z |
-| 482 | [Xi Jessie Yang](batches/hri-006.md#xi-jessie-yang) · University of Michigan | 67 (34/18/0/15) | stale-2022-inquiry; current route unverified | 2026-09-30T22:03:10Z | 2026-09-30T22:07:05Z |
-| 483 | [Dylan A. Shell](batches/hri-005.md#dylan-a-shell) · Texas A&M University | 67 (32/20/0/15) | unknown | 2026-09-30T21:54:58Z | 2026-09-30T21:58:49Z |
-| 484 | [Tony G. Chen](batches/control-043.md#tony-g-chen) · Georgia Institute of Technology | 67 (32/20/0/15) | unknown | 2026-10-01T02:18:30Z | 2026-10-01T02:23:10Z |
-| 485 | [Bill Smart](batches/hri-005.md#bill-smart) · Oregon State University | 66 (36/20/0/10) | unknown | 2026-09-30T21:55:19Z | 2026-09-30T21:58:49Z |
-| 486 | [Jeremy D. Brown](batches/hri-049.md#jeremy-d-brown) · Johns Hopkins University | 66 (36/20/0/10) | unknown | 2026-10-01T03:25:08Z | 2026-10-01T03:27:42Z |
-| 487 | [Safinah Ali](batches/hri-063.md#safinah-ali) · New York University | 66 (36/20/0/10) | unknown | 2026-10-01T05:22:17Z | 2026-10-01T05:25:19Z |
-| 488 | [Bahareh Abbasi](batches/hri-067.md#bahareh-abbasi) · California State University Channel Islands | 66 (36/20/0/10) | unknown · SURF undergraduate-only | 2026-10-01T05:49:35Z | 2026-10-01T05:53:13Z |
-| 489 | [Roni Khardon](batches/embodied-077.md#roni-khardon) · Indiana University Bloomington | 66 (36/20/0/10) | unknown | 2026-10-01T09:41:10Z † | 2026-10-01T09:42:49Z |
-| 490 | [Pragathi Praveena](batches/hri-002.md#pragathi-praveena) · Carnegie Mellon University (current); George Mason University (announced January 2027) | 65 (35/20/0/10) | unknown | 2026-09-30T21:28:48Z | 2026-09-30T21:35:06Z |
-| 491 | [Paul Robinette](batches/hri-006.md#paul-robinette) · University of Massachusetts Lowell | 65 (35/20/0/10) | unknown | 2026-09-30T22:03:32Z | 2026-09-30T22:07:05Z |
-| 492 | [Yezhou Yang](batches/embodied-002.md#yezhou-yang) · Arizona State University | 65 (32/20/0/13) | unknown | 2026-09-30T21:29:47Z | 2026-09-30T21:36:36Z |
-| 493 | [Lionel P. Robert Jr.](batches/hri-006.md#lionel-p-robert-jr) · University of Michigan | 65 (32/18/0/15) | stale-2022-inquiry; current route unverified | 2026-09-30T22:03:10Z | 2026-09-30T22:07:05Z |
-| 494 | [Nora Ayanian](batches/control-004.md#nora-ayanian) · Brown University | 64 (35/19/0/10) | unknown | 2026-09-30T21:42:18Z | 2026-09-30T21:47:35Z |
-| 495 | [Heather Knight](batches/hri-001.md#heather-knight) · Oregon State University | 64 (34/20/0/10) | unknown | 2026-09-30T21:22:28Z | 2026-09-30T21:27:42Z |
-| 496 | [Michael A. Goodrich](batches/hri-005.md#michael-a-goodrich) · Brigham Young University | 64 (34/20/0/10) | unknown | 2026-09-30T21:54:52Z | 2026-09-30T21:58:49Z |
-| 497 | [Laura Stegner](batches/hri-002.md#laura-stegner) · George Washington University | 63 (33/20/0/10) | unknown | 2026-09-30T21:29:03Z | 2026-09-30T21:35:06Z |
-| 498 | [Hee Rin Lee](batches/hri-005.md#hee-rin-lee) · Michigan State University | 63 (33/20/0/10) | unknown | 2026-09-30T21:54:45Z | 2026-09-30T22:00:03Z |
-| 499 | [Francesco Borrelli](batches/control-004.md#francesco-borrelli) · University of California, Berkeley | 62 (37/20/0/5) | unknown | 2026-09-30T21:42:36Z | 2026-09-30T21:47:35Z |
-| 500 | [Cagdas D. Onal](batches/embodied-007.md#cagdas-d-onal) · Worcester Polytechnic Institute | 62 (32/20/0/10) | unknown | 2026-09-30T22:13:28Z | 2026-09-30T22:18:19Z |
-| 501 | [Jorge I. Poveda](batches/control-076.md#jorge-i-poveda) · University of California, San Diego · **AI相关 · 真机待核实** | 60 (37/0/8/15) | inquiry-only · generic visiting scholar；八周与2027名额未定 | 2026-09-30T23:54:56Z | 2026-10-01T07:21:28Z |
-| 502 | [Sihong He](batches/control-081.md#sihong-he) · University of Texas at Arlington · **AI相关 · 真机待核实** | 60 (37/0/8/15) | inquiry-only · 页面标注2024；2027名额未核实 | 2026-10-01T05:07:07Z | 2026-10-01T07:07:38Z |
-| 503 | [Nick Cheney](batches/control-075.md#nick-cheney) · University of Vermont · **AI相关 · 真机待核实** | 60 (37/0/8/15) | inquiry-only · UVM学位相关Non-Degree需过半非个人资金 | 2026-10-01T06:34:16Z † | 2026-10-01T09:49:44Z |
-| 504 | [Minghan Li](batches/embodied-080.md#minghan-li) · Colorado School of Mines · **真机待核实** | 60 (35/0/10/15) | inquiry-only · 明确外校硕士/访客表单；唯一申请入口 | 2026-10-01T10:02:43Z † | 2026-10-01T10:09:11Z |
-| 505 | [Preeya Khanna](batches/hri-071.md#preeya-khanna) · University of California, Berkeley · **弱/历史真机线索** | 60 (30/10/10/10) | inquiry-only · historical physical-evidence backup | 2026-10-01T03:26:24Z † | 2026-10-01T06:33:21Z |
-| 506 | [Shan Zuo](batches/control-075.md#shan-zuo) · University of Connecticut · **AI相关 · 真机待核实** | 59 (36/0/8/15) | inquiry-only · 外部访问意向；八周与2027名额未定 | 2026-10-01T01:24:05Z † | 2026-10-01T06:37:33Z |
-| 507 | [Jun Chen](batches/control-090.md#jun-chen) · San Diego State University · **仅仿真；真机待核实** | 59 (36/0/8/15) | inquiry-only · 独立visiting student/scholar入口；2027与八周未定 | 2026-10-01T10:08:28Z | 2026-10-01T10:11:53Z |
-| 508 | [Jundi Liu](batches/hri-080.md#jundi-liu) · Iowa State University · **仅仿真；真机待核实** | 59 (34/0/10/15) | inquiry-only · 独立外部访问研究生入口；2027与经费未定 | 2026-09-30T23:22:24Z † | 2026-10-01T10:03:27Z |
-| 509 | [Andrea D’Ambrosio](batches/control-085.md#andrea-dambrosio) · University of South Florida · **仅仿真；真机待核实** | 58 (35/0/8/15) | conditional-inquiry · USF主要资金须机构支持，个人仅补充 | 2026-10-01T07:20:02Z | 2026-10-01T09:43:52Z |
-| 510 | [Renato Zanetti](batches/control-088.md#renato-zanetti) · University of Texas at Austin · **仅仿真；真机待核实** | 58 (35/0/8/15) | inquiry-only · 独立visiting/exchange thesis入口；八周与经费未定 | 2026-10-01T09:49:53Z | 2026-10-01T09:56:14Z |
-| 511 | [Nadir Weibel](batches/hri-087.md#nadir-weibel) · University of California San Diego · **真机待核实** | 57 (32/0/10/15) | inquiry-only · 空间/人机AI备选；外校短访志愿/自筹，正式类别另批 | 2026-10-01T03:29:02Z † | 2026-10-01T11:04:36Z |
-| 512 | [Jingwei Sun](batches/embodied-071.md#jingwei-sun) · University of Florida · **仅仿真；真机待核实** | 52 (37/0/0/15) | unknown · generic intern inquiry；外校短访条件未明确 | 2026-10-01T05:28:47Z | 2026-10-01T06:41:50Z |
-| 513 | [Ci-Jyun Liang](batches/embodied-069.md#ci-jyun-liang) · Stony Brook University · **AI相关 · 真机待核实** | 52 (37/0/0/15) | precedent-only · historical six-month MS visit | 2026-10-01T06:17:30Z † | 2026-10-01T06:30:08Z |
-| 514 | [Sarah H. Q. Li](batches/control-006.md#sarah-h-q-li) · Georgia Institute of Technology · **真机待核实** | 49 (34/0/0/15) | unknown | 2026-09-30T22:04:58Z | 2026-09-30T22:08:52Z |
+| 452 | [Keith A. Brown](batches/embodied-082.md#keith-a-brown) · Boston University | 70 (35/20/0/15) | unknown | 2026-10-01T10:30:21Z † | 2026-10-01T11:28:46Z |
+| 453 | [Luis Antonio Garcia](batches/control-091.md#luis-antonio-garcia) · University of Utah · **受限真机证据：Earlier UCLA collaborative physical RL verified; current Utah learned hardware unknown** | 70 (34/18/8/10) | inquiry-only · 短期scholar询问；硕士类别与八周需确认 | 2026-10-01T10:14:16Z | 2026-10-01T10:17:12Z |
+| 454 | [Ron Alterovitz](batches/embodied-005.md#ron-alterovitz) · University of North Carolina at Chapel Hill | 70 (31/24/0/15) | unknown | 2026-09-30T21:54:14Z | 2026-09-30T21:59:27Z |
+| 455 | [Lu Gan](batches/control-006.md#lu-gan) · Georgia Institute of Technology | 69 (39/20/0/10) | unknown | 2026-09-30T22:04:58Z | 2026-09-30T22:08:52Z |
+| 456 | [Patrick M. Wensing](batches/embodied-013.md#patrick-m-wensing) · University of Notre Dame | 69 (39/20/0/10) | unknown | 2026-09-30T23:01:38Z | 2026-09-30T23:06:18Z |
+| 457 | [Yisong Yue](batches/embodied-018.md#yisong-yue) · California Institute of Technology | 69 (39/20/0/10) | unknown | 2026-09-30T23:29:35Z | 2026-09-30T23:32:00Z |
+| 458 | [Michelle Zhao](batches/hri-062.md#michelle-zhao) · Indiana University Bloomington | 69 (39/20/0/10) | degree-only · current IU students | 2026-10-01T05:19:50Z | 2026-10-01T05:20:40Z |
+| 459 | [Michael M. Zavlanos](batches/control-004.md#michael-m-zavlanos) · Duke University | 69 (37/20/0/12) | unknown | 2026-09-30T21:41:52Z | 2026-09-30T21:47:35Z |
+| 460 | [Karen Leung](batches/control-001.md#karen-leung) · University of Washington | 69 (37/18/0/14) | unknown | 2026-09-30T21:21:57Z | 2026-09-30T21:24:34Z |
+| 461 | [Necmiye Ozay](batches/control-007.md#necmiye-ozay) · University of Michigan | 69 (37/18/0/14) | unknown | 2026-09-30T22:13:08Z | 2026-09-30T22:19:35Z |
+| 462 | [Mykel J. Kochenderfer](batches/control-003.md#mykel-j-kochenderfer) · Stanford University | 69 (36/18/0/15) | unknown | 2026-09-30T21:35:03Z | 2026-09-30T21:38:05Z |
+| 463 | [Yancy Diaz-Mercado](batches/control-007.md#yancy-diaz-mercado) · University of Maryland, College Park | 69 (35/20/0/14) | unknown | 2026-09-30T22:12:58Z | 2026-09-30T22:19:35Z |
+| 464 | [Francesco Bullo](batches/control-005.md#francesco-bullo) · University of California, Santa Barbara | 69 (34/20/0/15) | unknown | 2026-09-30T21:52:24Z | 2026-09-30T22:01:01Z |
+| 465 | [Jacob W. Crandall](batches/hri-005.md#jacob-w-crandall) · Brigham Young University | 69 (34/20/0/15) | unknown | 2026-09-30T21:54:52Z | 2026-09-30T21:58:49Z |
+| 466 | [Leia Stirling](batches/hri-006.md#leia-stirling) · University of Michigan | 69 (34/20/0/15) | unknown | 2026-09-30T22:03:10Z | 2026-09-30T22:07:05Z |
+| 467 | [Rebecca Kramer-Bottiglio](batches/embodied-015.md#rebecca-kramer-bottiglio) · Princeton University | 69 (34/20/0/15) | unknown | 2026-09-30T23:07:06Z | 2026-09-30T23:17:13Z |
+| 468 | [David Alexander Forsyth](batches/embodied-073.md#david-alexander-forsyth) · University of Illinois Urbana-Champaign | 69 (34/20/0/15) | unknown | 2026-10-01T07:00:41Z † | 2026-10-01T07:03:59Z |
+| 469 | [Matthias Scheutz](batches/hri-004.md#matthias-scheutz) · Tufts University | 68 (38/20/0/10) | unknown | 2026-09-30T21:44:20Z | 2026-09-30T21:50:22Z |
+| 470 | [Zhichao Liu](batches/control-084.md#zhichao-liu) · University of Houston–Clear Lake · **受限真机证据：Prior-host or collaborative learned robot verified; current-site learned execution unverified** | 68 (38/20/0/10) | degree-only · 所列入口面向UHCL本校学生 | 2026-10-01T00:49:45Z | 2026-10-01T07:27:22Z |
+| 471 | [Jie Fu](batches/control-084.md#jie-fu) · University of Florida · **受限真机证据：Prior-host or collaborative learned robot verified; current-site learned execution unverified** | 68 (38/20/0/10) | unknown | 2026-10-01T02:17:31Z | 2026-10-01T07:27:22Z |
+| 472 | [Kimon P. Valavanis](batches/control-078.md#kimon-p-valavanis) · University of Denver | 68 (38/20/0/10) | unknown | 2026-10-01T06:46:37Z | 2026-10-01T06:49:15Z |
+| 473 | [Honglak Lee](batches/embodied-004.md#honglak-lee) · University of Michigan | 68 (36/20/0/12) | unknown | 2026-09-30T21:47:15Z | 2026-09-30T21:52:53Z |
+| 474 | [Guannan Qu](batches/control-004.md#guannan-qu) · Carnegie Mellon University | 68 (35/20/0/13) | unknown | 2026-09-30T21:42:09Z | 2026-09-30T21:47:35Z |
+| 475 | [Jean Oh](batches/embodied-001.md#jean-oh) · Carnegie Mellon University | 68 (33/25/0/10) | unknown | 2026-09-30T21:24:15Z | 2026-09-30T21:28:42Z |
+| 476 | [Marcia K. O’Malley](batches/hri-004.md#marcia-k-omalley) · Rice University | 68 (33/25/0/10) | unknown | 2026-09-30T21:44:20Z | 2026-09-30T21:50:22Z |
+| 477 | [Tom Williams](batches/hri-002.md#tom-williams) · Colorado School of Mines | 68 (33/20/0/15) | unknown | 2026-09-30T21:30:51Z | 2026-09-30T21:35:06Z |
+| 478 | [Jorge Cortés](batches/control-003.md#jorge-cortes) · University of California, San Diego | 67 (37/20/0/10) | precedent-only | 2026-09-30T21:28:35Z | 2026-09-30T21:38:05Z |
+| 479 | [Aaron Steinfeld](batches/hri-004.md#aaron-steinfeld) · Carnegie Mellon University | 67 (37/20/0/10) | unknown | 2026-09-30T21:44:20Z | 2026-09-30T21:50:22Z |
+| 480 | [Andrew Owens](batches/embodied-005.md#andrew-owens) · Cornell University (Cornell Tech) | 67 (37/20/0/10) | unknown | 2026-09-30T21:53:37Z | 2026-09-30T21:59:27Z |
+| 481 | [Matthew J. Rutherford](batches/control-078.md#matthew-j-rutherford) · University of Denver | 67 (37/20/0/10) | unknown | 2026-10-01T06:46:37Z | 2026-10-01T06:49:15Z |
+| 482 | [Douglas J. Weber](batches/control-089.md#douglas-j-weber) · Carnegie Mellon University · **受限真机证据：Verified 2023 CMU learned decoding-to-robot experiment; current co-advising confirmed** | 67 (37/20/0/10) | unknown | 2026-10-01T09:59:39Z | 2026-10-01T10:41:40Z |
+| 483 | [Jeffrey Ian Lipton](batches/embodied-082.md#jeffrey-ian-lipton) · Northeastern University | 67 (34/20/0/13) | unknown | 2026-10-01T10:29:00Z † | 2026-10-01T10:33:51Z |
+| 484 | [Xi Jessie Yang](batches/hri-006.md#xi-jessie-yang) · University of Michigan | 67 (34/18/0/15) | stale-2022-inquiry; current route unverified | 2026-09-30T22:03:10Z | 2026-09-30T22:07:05Z |
+| 485 | [Dylan A. Shell](batches/hri-005.md#dylan-a-shell) · Texas A&M University | 67 (32/20/0/15) | unknown | 2026-09-30T21:54:58Z | 2026-09-30T21:58:49Z |
+| 486 | [Tony G. Chen](batches/control-043.md#tony-g-chen) · Georgia Institute of Technology | 67 (32/20/0/15) | unknown | 2026-10-01T02:18:30Z | 2026-10-01T02:23:10Z |
+| 487 | [Bill Smart](batches/hri-005.md#bill-smart) · Oregon State University | 66 (36/20/0/10) | unknown | 2026-09-30T21:55:19Z | 2026-09-30T21:58:49Z |
+| 488 | [Jeremy D. Brown](batches/hri-049.md#jeremy-d-brown) · Johns Hopkins University | 66 (36/20/0/10) | unknown | 2026-10-01T03:25:08Z | 2026-10-01T03:27:42Z |
+| 489 | [Safinah Ali](batches/hri-063.md#safinah-ali) · New York University | 66 (36/20/0/10) | unknown | 2026-10-01T05:22:17Z | 2026-10-01T05:25:19Z |
+| 490 | [Bahareh Abbasi](batches/hri-067.md#bahareh-abbasi) · California State University Channel Islands | 66 (36/20/0/10) | unknown · SURF undergraduate-only | 2026-10-01T05:49:35Z | 2026-10-01T05:53:13Z |
+| 491 | [Roni Khardon](batches/embodied-077.md#roni-khardon) · Indiana University Bloomington | 66 (36/20/0/10) | unknown | 2026-10-01T09:41:10Z † | 2026-10-01T09:42:49Z |
+| 492 | [Pragathi Praveena](batches/hri-002.md#pragathi-praveena) · Carnegie Mellon University (current); George Mason University (announced January 2027) | 65 (35/20/0/10) | unknown | 2026-09-30T21:28:48Z | 2026-09-30T21:35:06Z |
+| 493 | [Paul Robinette](batches/hri-006.md#paul-robinette) · University of Massachusetts Lowell | 65 (35/20/0/10) | unknown | 2026-09-30T22:03:32Z | 2026-09-30T22:07:05Z |
+| 494 | [Yezhou Yang](batches/embodied-002.md#yezhou-yang) · Arizona State University | 65 (32/20/0/13) | unknown | 2026-09-30T21:29:47Z | 2026-09-30T21:36:36Z |
+| 495 | [Lionel P. Robert Jr.](batches/hri-006.md#lionel-p-robert-jr) · University of Michigan | 65 (32/18/0/15) | stale-2022-inquiry; current route unverified | 2026-09-30T22:03:10Z | 2026-09-30T22:07:05Z |
+| 496 | [Nora Ayanian](batches/control-004.md#nora-ayanian) · Brown University | 64 (35/19/0/10) | unknown | 2026-09-30T21:42:18Z | 2026-09-30T21:47:35Z |
+| 497 | [Heather Knight](batches/hri-001.md#heather-knight) · Oregon State University | 64 (34/20/0/10) | unknown | 2026-09-30T21:22:28Z | 2026-09-30T21:27:42Z |
+| 498 | [Michael A. Goodrich](batches/hri-005.md#michael-a-goodrich) · Brigham Young University | 64 (34/20/0/10) | unknown | 2026-09-30T21:54:52Z | 2026-09-30T21:58:49Z |
+| 499 | [Laura Stegner](batches/hri-002.md#laura-stegner) · George Washington University | 63 (33/20/0/10) | unknown | 2026-09-30T21:29:03Z | 2026-09-30T21:35:06Z |
+| 500 | [Hee Rin Lee](batches/hri-005.md#hee-rin-lee) · Michigan State University | 63 (33/20/0/10) | unknown | 2026-09-30T21:54:45Z | 2026-09-30T22:00:03Z |
+| 501 | [Francesco Borrelli](batches/control-004.md#francesco-borrelli) · University of California, Berkeley | 62 (37/20/0/5) | unknown | 2026-09-30T21:42:36Z | 2026-09-30T21:47:35Z |
+| 502 | [Cagdas D. Onal](batches/embodied-007.md#cagdas-d-onal) · Worcester Polytechnic Institute | 62 (32/20/0/10) | unknown | 2026-09-30T22:13:28Z | 2026-09-30T22:18:19Z |
+| 503 | [Jorge I. Poveda](batches/control-076.md#jorge-i-poveda) · University of California, San Diego · **AI相关 · 真机待核实** | 60 (37/0/8/15) | inquiry-only · generic visiting scholar；八周与2027名额未定 | 2026-09-30T23:54:56Z | 2026-10-01T07:21:28Z |
+| 504 | [Sihong He](batches/control-081.md#sihong-he) · University of Texas at Arlington · **AI相关 · 真机待核实** | 60 (37/0/8/15) | inquiry-only · 页面标注2024；2027名额未核实 | 2026-10-01T05:07:07Z | 2026-10-01T07:07:38Z |
+| 505 | [Nick Cheney](batches/control-075.md#nick-cheney) · University of Vermont · **AI相关 · 真机待核实** | 60 (37/0/8/15) | inquiry-only · UVM学位相关Non-Degree需过半非个人资金 | 2026-10-01T06:34:16Z † | 2026-10-01T09:49:44Z |
+| 506 | [Minghan Li](batches/embodied-080.md#minghan-li) · Colorado School of Mines · **真机待核实** | 60 (35/0/10/15) | inquiry-only · 明确外校硕士/访客表单；唯一申请入口 | 2026-10-01T10:02:43Z † | 2026-10-01T10:09:11Z |
+| 507 | [Preeya Khanna](batches/hri-071.md#preeya-khanna) · University of California, Berkeley · **弱/历史真机线索** | 60 (30/10/10/10) | inquiry-only · historical physical-evidence backup | 2026-10-01T03:26:24Z † | 2026-10-01T06:33:21Z |
+| 508 | [Shan Zuo](batches/control-075.md#shan-zuo) · University of Connecticut · **AI相关 · 真机待核实** | 59 (36/0/8/15) | inquiry-only · 外部访问意向；八周与2027名额未定 | 2026-10-01T01:24:05Z † | 2026-10-01T06:37:33Z |
+| 509 | [Jun Chen](batches/control-090.md#jun-chen) · San Diego State University · **仅仿真；真机待核实** | 59 (36/0/8/15) | inquiry-only · 独立visiting student/scholar入口；2027与八周未定 | 2026-10-01T10:08:28Z | 2026-10-01T10:11:53Z |
+| 510 | [Jundi Liu](batches/hri-080.md#jundi-liu) · Iowa State University · **仅仿真；真机待核实** | 59 (34/0/10/15) | inquiry-only · 独立外部访问研究生入口；2027与经费未定 | 2026-09-30T23:22:24Z † | 2026-10-01T10:03:27Z |
+| 511 | [Andrea D’Ambrosio](batches/control-085.md#andrea-dambrosio) · University of South Florida · **仅仿真；真机待核实** | 58 (35/0/8/15) | conditional-inquiry · USF主要资金须机构支持，个人仅补充 | 2026-10-01T07:20:02Z | 2026-10-01T09:43:52Z |
+| 512 | [Renato Zanetti](batches/control-088.md#renato-zanetti) · University of Texas at Austin · **仅仿真；真机待核实** | 58 (35/0/8/15) | inquiry-only · 独立visiting/exchange thesis入口；八周与经费未定 | 2026-10-01T09:49:53Z | 2026-10-01T09:56:14Z |
+| 513 | [Nadir Weibel](batches/hri-087.md#nadir-weibel) · University of California San Diego · **真机待核实** | 57 (32/0/10/15) | inquiry-only · 空间/人机AI备选；外校短访志愿/自筹，正式类别另批 | 2026-10-01T03:29:02Z † | 2026-10-01T11:04:36Z |
+| 514 | [Jingwei Sun](batches/embodied-071.md#jingwei-sun) · University of Florida · **仅仿真；真机待核实** | 52 (37/0/0/15) | unknown · generic intern inquiry；外校短访条件未明确 | 2026-10-01T05:28:47Z | 2026-10-01T06:41:50Z |
+| 515 | [Ci-Jyun Liang](batches/embodied-069.md#ci-jyun-liang) · Stony Brook University · **AI相关 · 真机待核实** | 52 (37/0/0/15) | precedent-only · historical six-month MS visit | 2026-10-01T06:17:30Z † | 2026-10-01T06:30:08Z |
+| 516 | [Sarah H. Q. Li](batches/control-006.md#sarah-h-q-li) · Georgia Institute of Technology · **真机待核实** | 49 (34/0/0/15) | unknown | 2026-09-30T22:04:58Z | 2026-09-30T22:08:52Z |
 
 † 时间口径例外：此条使用首次可精确保留的来源观察/核查记录时间，不能断言为最早遇到该线索的时刻。未重建更早时间；原值保持不变，具体限制见详情和索引的 discoveryTimestampNote。

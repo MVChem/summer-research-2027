@@ -74,6 +74,7 @@
     "batches/control-063.json",
     "batches/control-064.json",
     "batches/control-065.json",
+    "batches/control-066.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -3904,6 +3905,96 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-065.json",
       "detailPage": "batches/control-065.md#manfred-huber"
+    },
+    {
+      "id": "renato-mancuso",
+      "name": "Renato Mancuso",
+      "aliases": [
+        "Renato Mancuso (Boston University)"
+      ],
+      "school": "Boston University",
+      "title": "Associate Professor; Director, Cyber-Physical Systems Lab",
+      "homepage": "https://cs-people.bu.edu/rmancuso/",
+      "batch": "control-066",
+      "discoveredAt": "2026-10-01T05:22:50Z",
+      "verifiedAt": "2026-10-01T05:27:36Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Deployed reinforcement learning control",
+        "Safe neural control",
+        "Sim-to-real adaptation",
+        "Embedded robot systems",
+        "Multi-objective reinforcement learning"
+      ],
+      "discoveryTimestampNote": "First precisely preserved source-observation time; earlier preliminary lead time is unavailable and was not reconstructed.",
+      "shortVisitStatus": "precedent-only",
+      "recordFile": "batches/control-066.json",
+      "detailPage": "batches/control-066.md#renato-mancuso"
+    },
+    {
+      "id": "hyunglae-lee",
+      "name": "Hyunglae Lee",
+      "aliases": [
+        "Hyunglae Lee (Arizona State University)"
+      ],
+      "school": "Arizona State University",
+      "title": "Associate Professor; Director, Neuromuscular Control and Human Robotics Laboratory",
+      "homepage": "https://sites.google.com/view/asuneurorobotics",
+      "batch": "control-066",
+      "discoveredAt": "2026-10-01T05:24:13Z",
+      "verifiedAt": "2026-10-01T05:27:36Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-in-the-loop robot learning",
+        "Bayesian optimization of wearable control",
+        "Reinforcement learning gait personalization",
+        "Learning-based wearable state estimation",
+        "Physical human-robot interaction"
+      ],
+      "shortVisitStatus": "degree-only",
+      "recordFile": "batches/control-066.json",
+      "detailPage": "batches/control-066.md#hyunglae-lee"
+    },
+    {
+      "id": "marcos-quinones-grueiro",
+      "name": "Marcos Quiñones-Grueiro",
+      "aliases": [
+        "Marcos Quinones-Grueiro",
+        "Marcos Quinones Grueiro",
+        "Marcos Quiñones Grueiro"
+      ],
+      "school": "Vanderbilt University",
+      "title": "Research Scientist; Adjunct Professor of Computer Science",
+      "homepage": "https://marcosqg.github.io/",
+      "batch": "control-066",
+      "discoveredAt": "2026-10-01T05:24:46Z",
+      "verifiedAt": "2026-10-01T05:27:36Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Safe continual reinforcement learning",
+        "Learning-based UAV disturbance rejection",
+        "Sim-to-real validation",
+        "Resilient cyber-physical systems",
+        "Multi-agent RL for transport infrastructure"
+      ],
+      "shortVisitStatus": "precedent-only",
+      "recordFile": "batches/control-066.json",
+      "detailPage": "batches/control-066.md#marcos-quinones-grueiro"
     },
     {
       "id": "tom-silver",

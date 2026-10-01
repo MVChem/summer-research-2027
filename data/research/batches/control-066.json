@@ -1,0 +1,342 @@
+[
+  {
+    "id": "renato-mancuso",
+    "name": "Renato Mancuso",
+    "aliases": [
+      "Renato Mancuso (Boston University)"
+    ],
+    "school": "Boston University",
+    "homepage": "https://cs-people.bu.edu/rmancuso/",
+    "title": "Associate Professor; Director, Cyber-Physical Systems Lab",
+    "department": "Computer Science; affiliated Electrical and Computer Engineering",
+    "batch": "control-066",
+    "discoveredAt": "2026-10-01T05:22:50Z",
+    "verifiedAt": "2026-10-01T05:27:36Z",
+    "researchAreas": [
+      "Deployed reinforcement learning control",
+      "Safe neural control",
+      "Sim-to-real adaptation",
+      "Embedded robot systems",
+      "Multi-objective reinforcement learning"
+    ],
+    "fitReason": "Strong applied robot-learning and deployment fit: neural flight control, online RL adaptation and embedded reliability, alongside a broader real-time computer-systems agenda.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Sim-Anchored Learning v3 (May 1, 2025) reports a real racing quadrotor with MATEK-F722 flight controller. A ground station fine-tunes anchored RL policies from flight data and transmits replacements while onboard inference continues; experiments include tethered failure tests and unconstrained flights. Physical evidence concerns low-level attitude response, not autonomous mission planning. First author Bassel El Mabsout and coauthor Shahin Roozkhosh are independently listed as Mancuso-supervised PhD alumni, and the current lab explicitly identifies neural flight control as a research area. The 2026 Lyapunov/FPL paper uses simulation and is not additional hardware evidence.",
+      "sourceIds": [
+        "s2",
+        "s4",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "precedent-only",
+      "summary": "Current central CS profile invites master and PhD research inquiries but does not explicitly invite outside-university short visitors. CV records 2022–24 visiting PhD scholars for three to seven months; this is historical precedent rather than an eight-week external-master offer.",
+      "sourceIds": [
+        "s1",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantive RL, neural flight control and sim-to-real methodology; some lab activity is systems architecture rather than robot learning.",
+      "physical": "Actual flight adaptation and current lab-topic plus independently verified directed-student lineage, not mere coauthorship.",
+      "shortVisit": "General master/PhD inquiry and past doctoral visitors do not establish an external short-master invitation.",
+      "freshness": "2026 neural-control publication and September 2026 active lab news, with May 2025 primary hardware revision."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.bu.edu / source 1",
+        "url": "https://www.bu.edu/cs/profiles/renato-mancuso/",
+        "summary": "Current Associate Professor, CPS lab director, email, broad master/PhD recruitment.",
+        "verifiedAt": "2026-10-01T05:27:36Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "cs-people.bu.edu / source 2",
+        "url": "https://cs-people.bu.edu/rmancuso/",
+        "summary": "Current neural-flight-control lab area, supervised alumni and 2026 activity. Autonomous-racing news alone is not used as learned-controller evidence.",
+        "verifiedAt": "2026-10-01T05:27:36Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/abs/2301.06987",
+        "summary": "Primary version history: first2023, latestv3 May 1, 2025.",
+        "verifiedAt": "2026-10-01T05:27:36Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/pdf/2301.06987v3",
+        "summary": "SectionsV–VI describe onboard neural inference, ground-station adaptation, tethered tests and actual unconstrained flight; no figure-only claims.",
+        "verifiedAt": "2026-10-01T05:27:36Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "cs-people.bu.edu / source 5",
+        "url": "https://cs-people.bu.edu/rmancuso/files/papers/FPL_Lyap_ACC26.pdf",
+        "summary": "ACC2026 neural Lyapunov/FPL paper; pendulum and unicycle simulations.",
+        "verifiedAt": "2026-10-01T05:27:36Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "cs-people.bu.edu / source 6",
+        "url": "https://cs-people.bu.edu/rmancuso/files/Renato_Mancuso_CV.pdf",
+        "summary": "Current direct PDF is 28 pages; pp15–16 supervised PhD alumni and past foreign doctoral scholars, distinct from current short-master opportunities.",
+        "verifiedAt": "2026-10-01T05:27:36Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      }
+    ],
+    "unknowns": [
+      "Reuse completed BU policy: Research/Short-Term Scholar wording includes completing a US-master-equivalent degree, but requires a qualifying appointment and ISSO judgment. Student Intern wording is undergraduate-specific. Current monthly support is a September 2026 figure, not a fixed 2027 budget; personal funding requires documentation and host approvals. Flight hardware availability and staff time for an eight-week project remain unknown. The 2025 sabbatical notice ended in Fall 2025; current Fall 2026 teaching is visible.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: First precisely preserved source-observation time; earlier preliminary lead time is unavailable and was not reconstructed.",
+      "[Institutional visitor rules](../eligibility_notes.md#boston-university)"
+    ],
+    "discoveryTimestampNote": "First precisely preserved source-observation time; earlier preliminary lead time is unavailable and was not reconstructed.",
+    "publicEmail": "rmancuso@bu.edu"
+  },
+  {
+    "id": "hyunglae-lee",
+    "name": "Hyunglae Lee",
+    "aliases": [
+      "Hyunglae Lee (Arizona State University)"
+    ],
+    "school": "Arizona State University",
+    "homepage": "https://sites.google.com/view/asuneurorobotics",
+    "title": "Associate Professor; Director, Neuromuscular Control and Human Robotics Laboratory",
+    "department": "School for Engineering of Matter, Transport and Energy; Mechanical and Aerospace Engineering",
+    "batch": "control-066",
+    "discoveredAt": "2026-10-01T05:24:13Z",
+    "verifiedAt": "2026-10-01T05:27:36Z",
+    "researchAreas": [
+      "Human-in-the-loop robot learning",
+      "Bayesian optimization of wearable control",
+      "Reinforcement learning gait personalization",
+      "Learning-based wearable state estimation",
+      "Physical human-robot interaction"
+    ],
+    "fitReason": "Substantive learned adaptation of real human-interactive robots through DQN gait personalization, GP/Bayesian impedance tuning and learned state-driven soft assistance.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "March 2026 primary soft back-support paper executes subject-specific random-forest state and load classification on Raspberry Pi 5; outputs select pneumatic pressure and clutch engagement during actual on-body lifting/lowering. It is closed-loop learned mode selection, not an end-to-end neural torque policy. April 2026 ASU reporting independently confirms lead student Rohan Khatavkar is co-supervised by Lee and Sun. Separate 2025 work uses DQN-guided in-situ gait-perturbation selection and GP/Bayesian optimization on an actual wearable ankle robot. Healthy-participant demonstrations do not establish clinical efficacy.",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "degree-only",
+      "summary": "Lab Opportunities page recruits MS/PhD students and local FURI/Honors undergraduates. It requests a CV and cover letter but does not explicitly specify external nondegree master visitors or eight-week research placements.",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Learned human-in-the-loop control and personalization are central to verified current robot work.",
+      "physical": "Actual wearable actuation and human experiments with current co-supervised lead-student linkage.",
+      "shortVisit": "Degree-focused recruitment is not an explicit external short-visit invitation.",
+      "freshness": "March 2026 primary learned-actuation paper, April 2026 official project attribution and current ASU appointment."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "search.asu.edu / source 1",
+        "url": "https://search.asu.edu/profile/2700375",
+        "summary": "Current Associate Professor and lab director.",
+        "verifiedAt": "2026-10-01T05:27:36Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "sites.google.com / source 2",
+        "url": "https://sites.google.com/view/asuneurorobotics/opportunities",
+        "summary": "MS/PhD recruitment and local undergraduate projects; no external short-visitor invitation.",
+        "verifiedAt": "2026-10-01T05:27:36Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2603.03724v1",
+        "summary": "Sections2.4.2,6 and7.1.2 explicitly connect random-forest outputs to physical assistance; on-body tests are separate from OpenSim force-profile optimization.",
+        "verifiedAt": "2026-10-01T05:27:36Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "news.asu.edu / source 4",
+        "url": "https://news.asu.edu/20260401-science-and-technology-giving-robots-more-muscle-can-help-them-lose-weight",
+        "summary": "April 1, 2026 official current co-supervision of Rohan Khatavkar by Sun and Lee on the back-support device.",
+        "verifiedAt": "2026-10-01T05:27:36Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "doi.org / source 5",
+        "url": "https://doi.org/10.1109/LRA.2025.3561574",
+        "summary": "Primary IEEE abstract:2025 DQN offline training on seven participants followed by in-situ adaptation on six; no patient efficacy inference.",
+        "verifiedAt": "2026-10-01T05:27:36Z",
+        "retrieval": "Primary publisher abstract indexed by web.run search"
+      },
+      {
+        "id": "s6",
+        "label": "pmc.ncbi.nlm.nih.gov / source 6",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12519907/",
+        "summary": "2025 author manuscript: GP/Bayesian ankle impedance optimization,15 healthy participants. Direct open showed browser check; only fully indexed primary text used.",
+        "verifiedAt": "2026-10-01T05:27:36Z",
+        "retrieval": "Primary manuscript text retrieved in search; direct HTML browser check not bypassed"
+      },
+      {
+        "id": "s7",
+        "label": "semte.engineering.asu.edu / source 7",
+        "url": "https://semte.engineering.asu.edu/wp-content/uploads/sites/90/2025/08/Omik-Save-Dissertation-Defense.pdf",
+        "summary": "Official defense document confirms Lee as advisor of gait-entrainment first author Omik Save.",
+        "verifiedAt": "2026-10-01T05:27:36Z",
+        "retrieval": "Official PDF indexed by web.run search"
+      }
+    ],
+    "unknowns": [
+      "Reuse ASU institution policy and keep Scholar versus Non-Degree Student funding rules separate. External-master appointment, eight-week plan, financial support, insurance and sponsor approvals remain unresolved. Human-participant work additionally needs applicable training/protocol access. The back-support classifier is subject-specific and calibrated; offline ground-reaction-force knowledge-distillation papers are not counted as executed robot control.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#asu-visiting-categories)"
+    ],
+    "publicEmail": "hyunglae.lee@asu.edu"
+  },
+  {
+    "id": "marcos-quinones-grueiro",
+    "name": "Marcos Quiñones-Grueiro",
+    "aliases": [
+      "Marcos Quinones-Grueiro",
+      "Marcos Quinones Grueiro",
+      "Marcos Quiñones Grueiro"
+    ],
+    "school": "Vanderbilt University",
+    "homepage": "https://marcosqg.github.io/",
+    "title": "Research Scientist; Adjunct Professor of Computer Science",
+    "department": "Institute for Software Integrated Systems; Computer Science",
+    "batch": "control-066",
+    "discoveredAt": "2026-10-01T05:24:46Z",
+    "verifiedAt": "2026-10-01T05:27:36Z",
+    "researchAreas": [
+      "Safe continual reinforcement learning",
+      "Learning-based UAV disturbance rejection",
+      "Sim-to-real validation",
+      "Resilient cyber-physical systems",
+      "Multi-agent RL for transport infrastructure"
+    ],
+    "fitReason": "Direct robotics relevance through actual hybrid PPO/LSTM aerial control and current safe continual RL. Highway speed-limit control is separate broader physical-CPS evidence.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "DX2024 primary paper reports five actual octocopter flights at Fort Devens with MIT Lincoln Laboratory assistance. A simulation-trained PPO agent runs on a ground station every 0.5 s, adjusting horizontal reference velocities based on an LSTM disturbance estimator; ArduPilot handles lower-level flight control. The paper calls the real platform DJI S100 and distinguishes the simulated Tarot T-18. This is actual learned supervisory control, not just recorded UAV data. Physical 20 reflects older off-site collaborative deployment with no verified current Vanderbilt visitor access. Separate2025 highway VSL work controls physical signs, not robot vehicles; April 2026 safe-continual-RL robot benchmarks are simulation.",
+      "sourceIds": [
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "precedent-only",
+      "summary": "Current homepage records an August 2026 one-month graduate return visit and March 2026 three-month graduate visit, plus an August 2025 three-month foreign graduate visit. These demonstrate graduate visiting precedent but are not an open invitation, verified master classification, or 2027 availability.",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Verified actual learned UAV supervisory control plus2026 safe continual robot RL; transport-sign control remains adjacent.",
+      "physical": "Actual five-flight robot deployment; cap20 for2024 off-site collaborative experiment and uncertain present access.",
+      "shortVisit": "Recent graduate visits are historical precedent without a qualifying current external-master invitation.",
+      "freshness": "April 2026 primary methods and homepage updatedSeptember10, 2026; hardware experiment is clearly dated2024."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "lab.vanderbilt.edu / source 1",
+        "url": "https://lab.vanderbilt.edu/vumacs/person/marcos-quinones-grueiro/",
+        "summary": "Official institutional role and public email, including adjunct CS appointment.",
+        "verifiedAt": "2026-10-01T05:27:36Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "engineering.vanderbilt.edu / source 2",
+        "url": "https://engineering.vanderbilt.edu/staff/isis/",
+        "summary": "Current central staff directory confirms Research Scientist.",
+        "verifiedAt": "2026-10-01T05:27:36Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "marcosqg.github.io / source 3",
+        "url": "https://marcosqg.github.io/",
+        "summary": "Current group co-leadership,2026 graduate visitor precedents and2024 flight-test notice.",
+        "verifiedAt": "2026-10-01T05:27:36Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "drops.dagstuhl.de / source 4",
+        "url": "https://drops.dagstuhl.de/storage/01oasics/oasics-vol125-dx2024/OASIcs.DX.2024.16/OASIcs.DX.2024.16.pdf",
+        "summary": "Primary2024 paper pp4–6 describes PPO/LSTM interface, real aircraft, five Fort Devens flights and MIT Lincoln assistance. Simulation and off-site access separated.",
+        "verifiedAt": "2026-10-01T05:27:36Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "www.vanderbilt.edu / source 5",
+        "url": "https://www.vanderbilt.edu/valiant/2025/01/28/quantifying-the-sim-to-real-gap-in-uav-disturbance-rejection/",
+        "summary": "Official January 2025 summary corroborates actual RL flight-transfer study.",
+        "verifiedAt": "2026-10-01T05:27:36Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2604.19737v1",
+        "summary": "April 2026 Safe EWC/CF-EWC research uses MuJoCo and continual-world simulations; no new physical execution.",
+        "verifiedAt": "2026-10-01T05:27:36Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "arxiv.org / source 7",
+        "url": "https://arxiv.org/html/2503.01017v1",
+        "summary": "Separate2025 primary MARL variable-speed-limit deployment on 67 highway signs. Adjacent physicalCPS, not onboard robotic actuation.",
+        "verifiedAt": "2026-10-01T05:27:36Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      }
+    ],
+    "unknowns": [
+      "Official Vanderbilt lab profile independently confirms both Research Scientist and CS Adjunct roles; formal visiting-student sponsorship authority is not assumed. Reuse Vanderbilt continuing foreign-degree Student Intern feasibility: host research review, degree linkage, English, insurance, full-time training and documented funding. Eight-week category, personal/family full-funding eligibility and current amount remain unresolved. Lincoln Laboratory flight access does not imply Vanderbilt or visiting-student access. No blanket safety guarantee is inferred from five flights.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#vanderbilt)"
+    ],
+    "publicEmail": "marcos.quinones.grueiro@vanderbilt.edu"
+  }
+]

@@ -257,12 +257,14 @@ CMU 学术任命补充核查：2026-10-01T00:16:30Z。[Collaborating Visitor](ht
 
 核查：2026-09-30T22:45:09Z。[HR Contingent Visiting Scholar 程序](https://helpcenter.mines.edu/TDClient/2657/maps/KB/Article/146738/Contingent-Connected-Appointments-How-To-Start-a-Job-Requisition-for-a-Contingent-Connected-Worker-t) 明确包括来自其他教育机构的研究生，主办方启动无薪任命，国际访问需院系、ISSS、研究合规及工作前背景审查。[J-1 办理规则](https://global.mines.edu/international-scholar-services/application-procedures-for-j-1-exchange-visitors-and-their-host-departments/) 建议提前 4–6 个月，现列单人每月 3,000 美元最低支持额，允许合规文件证明的个人/家庭资金。八周任命、保险、费用与 2027 要求仍需 ISSS 和导师确认。
 
+<a id="boston-university"></a>
 ## Boston University · 在读硕士的 Scholar 资格措辞
 
 核查：2026-09-30T22:52:12Z。[ISSO 类别页](https://www.bu.edu/isso/bu-admin/immigration-options/) 对 Research Scholar / Short-Term Scholar 使用已完成或正在完成美国硕士等同学位的措辞，仍须合格的 BU 研究任命。Short-Term Scholar 无最低时长、最多六个月，约提前三个月提交。页面的 Student Intern 面向国外本科生，不能用来证明硕士资格。
 
 [2026 年 9 月 1 日起资金要求](https://www.bu.edu/isso/scholars/scholar-processing-request-checklist/minimum-funding-requirements-for-j-1-scholars-employees/) 为每月 3,262 美元，个人及其他非 BU 资金可凭文件计入，实际费用可能更高。[主办文件](https://www.bu.edu/isso/bu-admin/immigration-processing-request-required-documentation/) 需导师、系主任、院长和正式任命材料；ISSO 判断学位等同及分类，不能把措辞视为个人批准或 2027 名额。
 
+<a id="vanderbilt"></a>
 ## Vanderbilt · 有条件的国外学位学生 Intern
 
 核查：2026-09-30T23:14:47Z。[Student Intern](https://www.vanderbilt.edu/isss/new-students-and-scholars/j-1-interns/) 要求国外持续在读、学位关联、良好学籍及结束后返校，可有薪/无薪，至少每周 32 小时，须有财力、英语、保险及培训计划。患者接触、临床、child/elder care 等活动受限制。没有核实最低访问时长或导师空位。

@@ -695,3 +695,27 @@ Tacoma 补充核查：2026-10-01T01:02:36Z。[SET visiting appointments](https:/
 核查：2026-10-01T02:30:05Z。[现行政策](https://policyking.ucr.edu/home/policy/68c20c43d79486300dff0888) 于 2025-08-21 修订，明确外部研究生的 CWR003 Visiting Student Res Graduate，原校在读/请假、监督教育项目、最长十二个月，须工作前建 UCPath 记录。[APM430](https://academicpersonnel.ucr.edu/sites/default/files/2019-03/apm-430.pdf) 的通常六个月不是最短访期。[当前链接的 2024 年 J-1 表](https://international.ucr.edu/media/2855/download?attachment=) 将本科 Student Intern/Non-Degree 与持学士以上者的 Research/Short-Term Scholar 分开，具体签证分类由 ISS 决定。
 
 无薪表允许访客自付开销；[现行主办页](https://international.ucr.edu/scholars/sponsoring-departments) 列每月 2,000 美元支持证明、Short-Term 服务费 961 美元、orientation 39 美元，适用时 shipping 192 美元，部分/全部费由访问者支付需条件批准。这不是 2027 完整预算。[行前页](https://international.ucr.edu/scholars/pre-departure) 又提原校资助文件，故完全个人资金的证明仍需 ISS 确认；普通 Student 的 51% 外部支持条件不直接覆盖上述 Scholar 路由。完整提前期、保险、项目和导师接收仍未验证。
+
+<a id="houston"></a>
+
+## Houston · 海外学位 Intern 与 Scholar 分类仍需核定
+
+核查：2026-10-01T02:38:25Z。[Student Intern 程序](https://www.uh.edu/issso/resources/files/j1-student-intern-information-and-application-procedure.pdf) 覆盖国外继续在读的学位学生，要求学位目标、返校、每周至少 32 小时及 DS-7002，最多十二个月，未核实最低访期；明确禁止患者照护/接触。[类别图](https://www.uh.edu/issso/resources/forms/prospective-j-1-category-chart.pdf) 与 [scholar 表](https://www.uh.edu/issso/resources/forms/ds2019-exchange-visitor-template.pdf) 也提供学士资历、Graduate Student 原职位等线索，不能代替具体学术任命和 ISSSO 审批。
+
+图中每月 1,220 美元未注明有效日期，不作 2026/27 预算保证；非 UH 资助的文件要求也未明确允许全部个人资金。图中的 admitted-study 非个人资金条款不可一概套用全部 Intern/Scholar。[当前邀请页](https://www.uh.edu/issso/departments/inviting-j1-visitors/index.php) 明确自 2026-09-01 起请求费：Intern 350 美元、Short-Term Scholar 150 美元、Research Scholar/Professor 每年 250 美元，替代旧表 160 美元。付款方、保险及财力金额仍待确认；部门发起 DocuSign、研究审查和最终类别批准必需，所列签证阶段 4–8 周不是完整准备时间。
+
+<a id="montclair-state"></a>
+
+## Montclair State · 非博士资格可申请个别审定
+
+核查：2026-10-01T02:44:13Z。[国际学者政策](https://inside.montclair.edu/departments/international-academic-initiatives/international-visiting-scholars) 通常面向博士/博士候选人及研究教学职位，但允许无博士的其他合格人士申请审定；这不自动确认在读硕士资格。[Short-Term Scholar](https://inside.montclair.edu/resources/global-engagement-office/j-1-scholars/visiting-scholar-categories) 最长六个月，须导师、Chair/Dean、研究合规及国际部门批准，主办方至少提前四个月。
+
+[当前 accepted-scholar 页面](https://inside.montclair.edu/resources/global-engagement-office/j-1-scholars/accepted-visiting-scholars) 链接的 [DS-2019 表](https://inside.montclair.edu/documents/ds-2019-scholars) 明确接受申请人或支持人的银行材料，至少每月 2,000 美元、两个月内文件，当前表未列资金比例上限。旧索引 2022 年表曾写 49%，但原 URL 已 404，不能当现行限制，也未验证有正式废止文件。具体非博士任命、全个人资金、保险、费用和 2027 接收仍需确认；证明数不是大学账单。
+
+<a id="mississippi-state"></a>
+
+## Mississippi State · 与 Michigan State 分开，学生协议有例外
+
+核查：2026-10-01T02:46:25Z。[ORC 当前表格入口](https://www.orc.msstate.edu/security/hosted-visitors/ova-visiting-scholar/forms) 链接的 [DS-2019 packet](https://www.international.msstate.edu/sites/www.international.msstate.edu/files/2021-09/DS2019Request.pdf) 覆盖国外 postsecondary 学位 Student Intern，也列学士及经验资历的 Scholar；Short-Term 最长六个月，具体外校硕士类别由主办方决定。仍链接的 [AOP 13.22](https://www.policies.msstate.edu/sites/www.policies.msstate.edu/files/2021-04/1322.pdf) 将学术访问任命通常定为两周至一年、非雇员，可能补充 stipend 不等于保证资助。
+
+2021 路径 packet 明列个人资金、scholar 每月 1,200 美元及部门 100 美元处理费，但没有独立核实的 2026–27 更新；精确类别和当前全自费认可、金额、保险及其他成本必须重确认。主办方先做 Official Visitor Agreement 和审查；[详细 OVA 指引](https://www.orc.msstate.edu/sites/www.orc.msstate.edu/files/inline-files/OVA_DS2019%20Guidlines_12.pdf) 允许不是原校正式雇员的访问学生自行作为 collaborating entity 签署，不能把一般页面的原校签字要求说成无例外。当前入口用 FileSender，旧指引用 Filelocker；至少两个月提前及 3–4 周文件制作不是总签证保证。学校路径不会把仅远程的导师邀请变成现场名额。

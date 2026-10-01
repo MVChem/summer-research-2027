@@ -1,0 +1,140 @@
+[
+  {
+    "id": "bahareh-abbasi",
+    "name": "Bahareh Abbasi",
+    "aliases": [],
+    "school": "California State University Channel Islands",
+    "homepage": "https://ciapps.csuci.edu/directory/Details?id=bahareh.abbasi",
+    "title": "Associate Professor - Mechatronics Engineering",
+    "department": "Computer Science; Mechatronics Engineering",
+    "batch": "hri-067",
+    "discoveredAt": "2026-10-01T05:49:35Z",
+    "verifiedAt": "2026-10-01T05:53:13Z",
+    "researchAreas": [
+      "Multimodal human-robot interaction",
+      "Reinforcement learning for interaction management",
+      "Language-conditioned robot assistance",
+      "Learning from demonstration",
+      "Assistive robotics"
+    ],
+    "fitReason": "Applied AI/HRI fit spanning neural dialogue interpretation, reinforcement-learned interaction policies and a local GPT-4o/Sawyer prototype. A short project could potentially focus on perception, language grounding or evaluation, but that is a proposed fit rather than an advertised research visit.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The complete July 2025 International Journal of Social Robotics article verifies DAgger-initialized DQN interaction management on a real Baxter, with ALBERT dialogue-act classification, speech/gesture inputs and executed pointing, drawer manipulation and object presentation. Its study involved 12 healthy adults and 75 trials. This is UIC-led collaborative hardware: the same study and core results already appear in the August 2024 preprint. A September 2026 preprint retells the experiment and is not counted as a newly executed study. Separately, CSUCI’s May 2025 undergraduate research publication describes Abbasi/Isaacs-supervised 2024 work integrating GPT-4o, speech services and ROS Melodic with a local Sawyer for a closed-loop teaching/correction prototype; formal human-subject testing was future work. Its linked student repository independently names both faculty mentors. The local report is a prototype/poster, not a peer-reviewed full experimental evaluation.",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown · SURF undergraduate-only",
+      "summary": "No explicit external-master visiting invitation was verified. CSUCI’s eight-week 2026 SURF is restricted to continuing local undergraduates and explicitly excludes graduate students. Prior SURF mentorship and local master’s thesis supervision do not establish a separate summer 2027 opening.",
+      "sourceIds": [
+        "s8",
+        "s9",
+        "s10"
+      ]
+    },
+    "scores": {
+      "fit": 36,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "36/40: concrete deep-RL, neural language interpretation and multimodal assistive interaction.",
+      "physical": "20/25: full collaborative Baxter execution plus local Sawyer prototype, with age and reporting limits explicit.",
+      "shortVisit": "0/20: no current external-master invitation; local SURF is inapplicable.",
+      "freshness": "10/15: full 2025 journal publication and local 2025 report, both describing older experiments; 2026 repost is not upgraded."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "ciapps.csuci.edu / source 1",
+        "url": "https://ciapps.csuci.edu/directory/Details?id=bahareh.abbasi",
+        "summary": "Current official Associate Professor title, faculty status, program and public email.",
+        "verifiedAt": "2026-10-01T05:53:13Z"
+      },
+      {
+        "id": "s2",
+        "label": "link.springer.com / source 2",
+        "url": "https://link.springer.com/article/10.1007/s12369-025-01287-6",
+        "summary": "Full July 21, 2025 journal article verifies DQN/DAgger/ALBERT methods, actual Baxter execution, human evaluation, institutional affiliations and author contributions.",
+        "verifiedAt": "2026-10-01T05:53:13Z"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/abs/2303.07265",
+        "summary": "Submission history establishes March 2023 first preprint and August 2024 revision; full v2 already contains the 12-participant, 75-trial Baxter experiment.",
+        "verifiedAt": "2026-10-01T05:53:13Z"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2609.25274v1",
+        "summary": "September 2026 text reports the same physical experiment and core results; not used as evidence of a new deployment.",
+        "verifiedAt": "2026-10-01T05:53:13Z"
+      },
+      {
+        "id": "s5",
+        "label": "journals.calstate.edu / source 5",
+        "url": "https://journals.calstate.edu/cic/article/view/5372",
+        "summary": "Official undergraduate journal identifies the 2024 SURF project, faculty direction and May 7, 2025 publication.",
+        "verifiedAt": "2026-10-01T05:53:13Z"
+      },
+      {
+        "id": "s6",
+        "label": "journals.calstate.edu / source 6",
+        "url": "https://journals.calstate.edu/cic/article/download/5372/4361/16441",
+        "summary": "Complete indexed poster describes the local GPT-4o/Sawyer closed-loop prototype and lists human-subject testing as future work; direct fetch unavailable.",
+        "verifiedAt": "2026-10-01T05:53:13Z",
+        "retrieval": "complete indexed primary poster; direct PDF unavailable"
+      },
+      {
+        "id": "s7",
+        "label": "github.com / source 7",
+        "url": "https://github.com/andrewge677/SURF_2024",
+        "summary": "Public student repository linked from the poster names Abbasi and Jason Isaacs as faculty mentors and describes the real Sawyer/ROS integration; README directly read.",
+        "verifiedAt": "2026-10-01T05:53:13Z"
+      },
+      {
+        "id": "s8",
+        "label": "compsci.csuci.edu / source 8",
+        "url": "https://compsci.csuci.edu/degrees/mscs/mscs-theses.htm",
+        "summary": "Official record of local master’s supervision, not an external short-visit offer.",
+        "verifiedAt": "2026-10-01T05:53:13Z"
+      },
+      {
+        "id": "s9",
+        "label": "www.csuci.edu / source 9",
+        "url": "https://www.csuci.edu/academics/student-research/opportunities/surf-summer-research/info-for-students.html",
+        "summary": "Current 2026 SURF eligibility explicitly excludes graduate and post-baccalaureate students and requires continuing CI undergraduate enrollment.",
+        "verifiedAt": "2026-10-01T05:53:13Z"
+      },
+      {
+        "id": "s10",
+        "label": "www.csuci.edu / source 10",
+        "url": "https://www.csuci.edu/academics/international/admissions/incoming-exchange.html",
+        "summary": "Partner-course exchange requires institutional nomination; no independent research-intern eligibility inferred.",
+        "verifiedAt": "2026-10-01T05:53:13Z"
+      }
+    ],
+    "unknowns": [
+      "Current official directory says Associate Professor; older papers and project descriptions say Assistant Professor. Use the current university title.",
+      "The Baxter work is attributable collaborative learned execution, but not evidence of a Baxter at CSUCI. Local Sawyer evidence is separate and older.",
+      "Do not label the September 2026 preprint a new physical study: participant count, trial count and core results match the August 2024 version and July 2025 journal paper.",
+      "The official partner-exchange route requires home-institution nomination and concerns course enrollment. It does not establish an independent eight-week research appointment.",
+      "Outside-master appointment, immigration category if applicable, host approval, personal funding, stipend, insurance, fees, processing time, remote participation and summer 2027 dates remain unknown.",
+      "The 2024 Sawyer project poster was available as complete indexed primary text, while direct journal PDF retrieval returned 403. The public author repository was directly read; no code was executed.",
+      "Healthy-adult HRI experiments and intended assistive applications do not demonstrate clinical effectiveness or permission for a visitor to access protected participant data.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[CSU Channel Islands institutional visitor rules](../eligibility_notes.md#csuci)"
+    ],
+    "publicEmail": "bahareh.abbasi@csuci.edu"
+  }
+]

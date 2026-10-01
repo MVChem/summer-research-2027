@@ -208,7 +208,8 @@
     "batches/hri-063.json",
     "batches/hri-064.json",
     "batches/hri-065.json",
-    "batches/hri-066.json"
+    "batches/hri-066.json",
+    "batches/hri-067.json"
   ],
   "candidates": [
     {
@@ -11571,6 +11572,33 @@
       "shortVisitStatus": "degree-only · courtesy role, host authority unknown",
       "recordFile": "batches/hri-066.json",
       "detailPage": "batches/hri-066.md#jonathan-francis"
+    },
+    {
+      "id": "bahareh-abbasi",
+      "name": "Bahareh Abbasi",
+      "aliases": [],
+      "school": "California State University Channel Islands",
+      "title": "Associate Professor - Mechatronics Engineering",
+      "homepage": "https://ciapps.csuci.edu/directory/Details?id=bahareh.abbasi",
+      "batch": "hri-067",
+      "discoveredAt": "2026-10-01T05:49:35Z",
+      "verifiedAt": "2026-10-01T05:53:13Z",
+      "scores": {
+        "fit": 36,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Multimodal human-robot interaction",
+        "Reinforcement learning for interaction management",
+        "Language-conditioned robot assistance",
+        "Learning from demonstration",
+        "Assistive robotics"
+      ],
+      "shortVisitStatus": "unknown · SURF undergraduate-only",
+      "recordFile": "batches/hri-067.json",
+      "detailPage": "batches/hri-067.md#bahareh-abbasi"
     }
   ]
 }

@@ -925,3 +925,13 @@ Sources: [Guides and Forms](https://www.lamar.edu/international-education/intern
 [ISSS 现行说明](https://international.ua.edu/isss/international-faculty-staff/j-1-exchange-visitors/) 要求持续在国外攻读学位、项目服务本校学位目标、每周至少32小时；每个学位层级最多12个月，可有薪或无薪。有薪需本校批准；临床/患者接触、航空等受限活动需单独确认。未核实能直接确认或排除约八周访问的学术最低时长。
 
 [主办流程](https://international.ua.edu/isss/international-faculty-staff/determining-the-right-visa-type/) 需导师、院系、Academic Affairs、HR及ISSS办理，实验室/计算资源权限另行申请。现行 Intern 表格要求提前约三个月规划，完整材料后的ISSS阶段至少四周，签证/入境可能更久；并包含研究安全/出口管制审查。实际八周安排、2027名额、费用、财力按月计算及个人资格仍由主办方确认。现行页面另提示移民政策更新，应在办理时重新核实；这属于学校路径，不是导师邀请。
+
+<a id="csuci"></a>
+## California State University Channel Islands
+
+核验时间：2026-10-01。外校硕士的独立研究访问路径尚未确认，不能把本校暑研或交换课程当作访问许可；机会分为 0。
+
+- [2026 SURF 学生资格](https://www.csuci.edu/academics/student-research/opportunities/surf-summer-research/info-for-students.html)要求秋季继续在 CI 攻读本科，明确排除毕业生、post-bac 和研究生。[项目 RFP](https://www.csuci.edu/academics/student-research/opportunities/surf-summer-research/summer-surf-program-rfp.html)虽为八周，也不适用于外校硕士；2026 日期不能改写为 2027 名额。
+- [Incoming Exchange](https://www.csuci.edu/academics/international/admissions/incoming-exchange.html)是合作院校课程交换，要求原学校国际办公室提名、财力和英语材料。这不是已确认的单独研究实习类别。
+- 尚未核实适用于外校硕士的研究任命／Student Intern 路径、自费规则、最低财力、费用、保险、提前量或远程形式。须由导师及国际办公室确认；没有找到公开路径不等于所有个别访问均被禁止。
+- Bahareh Abbasi 的本校 Sawyer／GPT-4o 项目是 2024 SURF 原型，发表于 2025 本科研究刊物；合作的 Baxter 强化学习实验已出现在 2024 预印本，不能因 2026 再次发布就称为新实验。

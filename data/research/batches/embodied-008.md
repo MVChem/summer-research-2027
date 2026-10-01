@@ -86,15 +86,15 @@
 - 任职：Research Professor
 - 方向：Embodied semantic navigation；Vision-language reasoning；Robot memory；Learning-based perception；Aerial robotics
 - 匹配理由：RAVEN (ICRA2026) combines persistent semantic spatial memory and adaptive search with vision-language cues for long-range object-goal navigation. AirLab’s2026 portfolio also includes temporal spatial memory and aerial-manipulation learning benchmarks.
-- 真机证据（public-hardware-evidence）：RAVEN’s primary full text reports physical outdoor aerial-robot tests finding a water tower and red building with onboard mapping/search. Crucially, the real-world experiment leaves onboard LVLM integration to future work; the full LVLM component was tested in simulation.
+- 真机证据（public-hardware-evidence）：RAVEN’s primary full text reports physical outdoor aerial-robot tests finding a water tower and red building with onboard mapping/search. Crucially, the real-world experiment leaves onboard LVLM integration to future work; the full LVLM component was tested in simulation. Separately, the coauthored AM-Bench paper executes a Diffusion Policy for physical lemon harvesting on FA-Hexa; its twelve-task VLA/IL comparison is simulated, and current CMU visitor access to that apparatus is unconfirmed.
 - 短访证据（unknown）：AirLab openings list centrally admitted graduate students, current CMU students, and staff/postdocs. No external master’s eight-week summer pathway is explicitly offered.
-- 首次发现：2026-09-30T22:19:00Z；最后核查：2026-10-01T01:25:21Z
+- 首次发现：2026-09-30T22:19:00Z；最后核查：2026-10-01T03:10:43Z
 - 当前总分：76/100；评分依据：
   - fit 37/40：Strong embodied memory/perception/navigation, lower manipulation emphasis.
   - physical 24/25：Explicit autonomous aerial field trials; full LVLM pipeline not physically deployed.
   - shortVisit 0/20：Only degree/current-campus/staff categories published.
   - freshness 15/15：2026 project acceptance and current official appointment.
-- 未确认事项：Use research professor from the current official RI profile; the lab contact page retains older associate-research wording. Do not call AM-Bench a hardware demonstration or claim full onboard VLM reasoning in RAVEN field trials.；Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.；Later source check on 2026-10-01T01:25:21Z directly reproduced the RI Research Professor title/contact and the unchanged AirLab recruitment scope; scores and original discovery time are unchanged.
+- 未确认事项：Use research professor from the current official RI profile; the lab contact page retains older associate-research wording. AM-Bench’s twelve-task benchmark is simulated, with a separate physical Diffusion Policy lemon-harvesting experiment. Do not imply all benchmark methods were run on hardware or claim full onboard VLM reasoning in RAVEN field trials.；Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.；Later source check on 2026-10-01T01:25:21Z directly reproduced the RI Research Professor title/contact and the unchanged AirLab recruitment scope; scores and original discovery time are unchanged.；Later primary-paper check at 2026-10-01T03:10:43Z narrows an earlier overly broad AM-Bench caveat. Existing scores and original discovery time remain unchanged.
 - 来源：
   - [www.ri.cmu.edu / source 1](https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/)：Official current research professor appointment and explicit email.（核查 2026-10-01T01:25:21Z；读取方式 direct-primary-page）
   - [theairlab.org / source 2](https://theairlab.org/)：Current lab affiliation.（核查 2026-09-30T22:25:24Z；读取方式 direct-primary-page）
@@ -102,6 +102,8 @@
   - [theairlab.org / source 4](https://theairlab.org/research/)：2026 memory/navigation and simulation-benchmark work.（核查 2026-09-30T22:25:24Z；读取方式 direct-primary-page）
   - [raven-semantic.github.io / source 5](https://raven-semantic.github.io/)：Primary project identifies ICRA2026 presentation and physical field evaluation.（核查 2026-09-30T22:25:24Z；读取方式 indexed-primary-excerpt）
   - [arxiv.org / source 6](https://arxiv.org/html/2509.23563v1)：Physical field tests and explicit exclusion of onboard LVLM from these trials.（核查 2026-09-30T22:25:24Z；读取方式 direct-primary-page）
+  - [AM-Bench primary paper, physical validation](https://arxiv.org/html/2609.00641v1)：Sections 4.4 and D.4.2 separately execute a Diffusion Policy for physical FA-Hexa lemon harvesting using UMI demonstrations, end-effector imagery/proprioception and IK-PID. The twelve-task VLA/IL comparison remains simulated.（核查 2026-10-01T03:10:43Z；读取方式 direct-primary-page）
+  - [AM-Bench author project](https://ambench.github.io/)：Author project lists Sebastian Scherer (CMU) among coauthors; this does not establish current visitor access to the experimental platform.（核查 2026-10-01T03:10:24Z；读取方式 indexed-primary-excerpt）
 
 <a id="maxim-likhachev"></a>
 

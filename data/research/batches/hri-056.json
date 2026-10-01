@@ -1,0 +1,105 @@
+[
+  {
+    "id": "levi-j-hargrove",
+    "name": "Levi J. Hargrove",
+    "aliases": [
+      "Levi Hargrove"
+    ],
+    "school": "Northwestern University; Shirley Ryan AbilityLab",
+    "homepage": "https://www.mccormick.northwestern.edu/research-faculty/directory/affiliated/hargrove-levi.html",
+    "title": "Professor of Physical Medicine and Rehabilitation; Professor of Biomedical Engineering (by courtesy)",
+    "department": "Physical Medicine and Rehabilitation; Biomedical Engineering by courtesy",
+    "batch": "hri-056",
+    "discoveredAt": "2026-10-01T04:40:28Z",
+    "verifiedAt": "2026-10-01T04:41:48Z",
+    "researchAreas": [
+      "Learned assistive-device control",
+      "Neural and myoelectric interfaces",
+      "Exoskeleton learning",
+      "Pattern recognition",
+      "Human-robot physical interaction"
+    ],
+    "fitReason": "Substantive applied ML and physical-assistive robotics fit: learned intent, gait and controller prediction, embedded inference and human-in-the-loop evaluation. A computational or bench-focused contribution is more plausible to scope tightly than promising access to clinical trials in a short visit.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The full April 2025 revision of Deep-Learning Control of Lower-Limb Exoskeletons verifies learned gait-feature and command prediction on an ExoMotus-X2. TensorFlow Lite inference updates references at about 50 Hz for a 333 Hz ROS/C++ torque controller; two healthy participants outside the training dataset performed treadmill and stair tests. This is closed-loop learned physical assistance. The separate March 2026 Synthetic Therapist paper trains on previously collected patient–therapist data and validates ROS inference on live exoskeleton streams, but explicitly leaves actual patient training with the new learned therapist for future work. Do not turn its offline patient validation into an eight-patient prospective deployment.",
+      "sourceIds": [
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The Neural Engineering lab’s People page offers a general contact route for joining the team, without specifying external master’s visitors, duration, summer availability or support. No applicable short-visit invitation was verified. Recreational-therapy internship advertisements are a different discipline/program and are not used.",
+      "sourceIds": [
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "37/40: strong learned physical assistance and embedded inference; more specialized biomedical scope than general embodied agents.",
+      "physical": "25/25: actual learned exoskeleton torque assistance directly verified in the 2025 revised primary manuscript; newer clinical data claims carefully delimited.",
+      "shortVisit": "0/20: generic team contact without an explicit external-student short-visit route.",
+      "freshness": "15/15: distinct March 2026 learning research, with physical execution evidence dated separately."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.mccormick.northwestern.edu / source 1",
+        "url": "https://www.mccormick.northwestern.edu/research-faculty/directory/affiliated/hargrove-levi.html",
+        "summary": "Full official current directory confirms both professorial titles, courtesy BME status, MS Robotics affiliation and institutional contact.",
+        "verifiedAt": "2026-10-01T04:41:48Z"
+      },
+      {
+        "id": "s2",
+        "label": "www.feinberg.northwestern.edu / source 2",
+        "url": "https://www.feinberg.northwestern.edu/sites/pmr/faculty/profile.html?xid=18501",
+        "summary": "Current official header corroborates Professor and applied ML/robotic-device scope; stale Associate biography distinguished.",
+        "verifiedAt": "2026-10-01T04:41:48Z"
+      },
+      {
+        "id": "s3",
+        "label": "www.sralab.org / source 3",
+        "url": "https://www.sralab.org/researchers/levi-hargrove-phd",
+        "summary": "Full institutional research profile establishes concurrent AbilityLab research role; university affiliation does not settle visitor sponsor.",
+        "verifiedAt": "2026-10-01T04:41:48Z"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2412.07959v2",
+        "summary": "Full April 2025 revised primary methods and online validation verify learned closed-loop ExoMotus-X2 control with two healthy users.",
+        "verifiedAt": "2026-10-01T04:41:48Z"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2603.02458v1",
+        "summary": "Full March 2026 primary methods and conclusion separate retrospective patient data and live-stream inference from future patient training.",
+        "verifiedAt": "2026-10-01T04:41:48Z"
+      },
+      {
+        "id": "s6",
+        "label": "www.sralab.org / source 6",
+        "url": "https://www.sralab.org/research/labs/neural-engineering/people",
+        "summary": "Full current lab People page provides generic join-team contact only, with no external-master duration or summer eligibility.",
+        "verifiedAt": "2026-10-01T04:41:48Z"
+      }
+    ],
+    "unknowns": [
+      "An eight-week summer 2027 research project, mentor capacity, remote work, funding and all-personal support remain unconfirmed.",
+      "The experiments are in the Northwestern–Shirley Ryan AbilityLab research setting. The actual host/employer, location, laboratory onboarding and immigration sponsor must be established; Northwestern visitor rules must not automatically be transferred to the hospital.",
+      "The saved Northwestern policy review found conflicting graduate/undergraduate wording for Student Intern and a doctoral-only Visiting Predoctoral Fellow title. Any external-master appointment still needs school/OISS approval.",
+      "Patient contact, clinical privileges, human-subject access and research-data access are not implied by faculty willingness. A short project would need appropriate approvals and a feasible nonclinical or already-approved scope.",
+      "Current Engineering and Feinberg directory headers say Professor; an older Feinberg biography paragraph still says Associate Professor. This record follows the current directory headings.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Northwestern institutional visitor rules](../eligibility_notes.md#northwestern)"
+    ],
+    "publicEmail": "l-hargrove@northwestern.edu"
+  }
+]

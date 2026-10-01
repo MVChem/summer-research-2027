@@ -181,7 +181,8 @@
     "batches/hri-052.json",
     "batches/hri-053.json",
     "batches/hri-054.json",
-    "batches/hri-055.json"
+    "batches/hri-055.json",
+    "batches/hri-056.json"
   ],
   "candidates": [
     {
@@ -10340,6 +10341,35 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-055.json",
       "detailPage": "batches/hri-055.md#wenhao-yang"
+    },
+    {
+      "id": "levi-j-hargrove",
+      "name": "Levi J. Hargrove",
+      "aliases": [
+        "Levi Hargrove"
+      ],
+      "school": "Northwestern University; Shirley Ryan AbilityLab",
+      "title": "Professor of Physical Medicine and Rehabilitation; Professor of Biomedical Engineering (by courtesy)",
+      "homepage": "https://www.mccormick.northwestern.edu/research-faculty/directory/affiliated/hargrove-levi.html",
+      "batch": "hri-056",
+      "discoveredAt": "2026-10-01T04:40:28Z",
+      "verifiedAt": "2026-10-01T04:41:48Z",
+      "scores": {
+        "fit": 37,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Learned assistive-device control",
+        "Neural and myoelectric interfaces",
+        "Exoskeleton learning",
+        "Pattern recognition",
+        "Human-robot physical interaction"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-056.json",
+      "detailPage": "batches/hri-056.md#levi-j-hargrove"
     }
   ]
 }

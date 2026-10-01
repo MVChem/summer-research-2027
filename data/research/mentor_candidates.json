@@ -266,6 +266,7 @@
     "batches/hri-079.json",
     "batches/hri-080.json",
     "batches/hri-081.json",
+    "batches/hri-082.json",
     "batches/hri-083.json",
     "batches/hri-084.json",
     "batches/hri-085.json",
@@ -14160,6 +14161,37 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-081.json",
       "detailPage": "batches/hri-081.md#zhidong-su"
+    },
+    {
+      "id": "shyam-gollakota",
+      "name": "Shyam Gollakota",
+      "aliases": [
+        "Shyamnath Gollakota"
+      ],
+      "school": "University of Washington",
+      "title": "Professor; Washington Research Foundation / Thomas J. Cable Professor in Computer Science & Engineering",
+      "homepage": "https://homes.cs.washington.edu/~gshyam/",
+      "batch": "hri-082",
+      "discoveredAt": "2026-10-01T10:25:41Z",
+      "verifiedAt": "2026-10-01T10:29:10Z",
+      "scores": {
+        "fit": 36,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Applied embodied perception",
+        "Neural acoustic scene understanding",
+        "Robotic microphone swarms",
+        "Wearable vision-language interfaces",
+        "Assistive human-AI interaction"
+      ],
+      "physicalEvidenceStatus": "historical-or-indirect",
+      "physicalEvidenceLabel": "受限真机证据：historical-or-indirect",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-082.json",
+      "detailPage": "batches/hri-082.md#shyam-gollakota"
     },
     {
       "id": "matthew-johnson",

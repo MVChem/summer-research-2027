@@ -196,3 +196,9 @@
 - **仅确认Fall2026休假；未说明2027暑期不可接收，不推断永久离开或访客关闭**
 - 核查：2026-10-01T13:05:09Z · [来源1](https://eecsis.mit.edu/research_interests.pcgi?pdf=true)
 
+### Gilbert Yang Ye（新增候选）
+
+- 适用范围：Advertised CRAFT opportunities page
+- **已公布入口仅滚动PhD招募，未据此推断访客禁止**
+- 核查：2026-10-01T14:01:10Z · [来源1](https://gilbert-yangye.github.io/opportunities/)
+

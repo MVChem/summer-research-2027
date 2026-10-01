@@ -1564,6 +1564,52 @@
           "evidence": "Official2023 appointment approval lists Lingfeng Tao as Assistant Professor of Engineering Technology; previousfaculty role, so2025 is a move."
         }
       ]
+    },
+    "gilbert-yang-ye": {
+      "appointmentStart": {
+        "year": 2025,
+        "month": 1,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "s2"
+        ],
+        "evidence": "Official December 11, 2024 faculty spotlight explicitly announces January 2025 Assistant Professor start.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2025-01（官方新教师公告）",
+      "caveat": "当前博士生主导真实FR3/ARX控制，但仅7/20与9/20成功；只核实PhD招募，外校访客未知；学校要求过半非个人/家庭资金",
+      "sources": [
+        {
+          "id": "s2",
+          "url": "https://coe.northeastern.edu/news/new-faculty-spotlight-yang-gilbert-ye/",
+          "observedAt": "2026-10-01T14:01:39Z",
+          "evidence": "Official December 11, 2024 faculty spotlight explicitly announces January 2025 Assistant Professor start."
+        }
+      ]
+    },
+    "brady-moon": {
+      "appointmentStart": {
+        "year": 2025,
+        "month": 7,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "s1"
+        ],
+        "evidence": "University-hosted faculty biography explicitly states joined the faculty in July 2025 after CMU Robotics PhD.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2025-07（官方大学托管履历）；未独立断言首次faculty",
+      "caveat": "前CMU真实感知避障；当前BYU海事VLM只测已录影像；MS/PhD是学位招募，外校暑研仅本科REU，硕士访客未知",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://frostlab.byu.edu/people/brady-moon/",
+          "observedAt": "2026-10-01T14:02:48Z",
+          "evidence": "University-hosted faculty biography explicitly dates first AP arrival July 2025 after CMU PhD."
+        }
+      ]
     }
   },
   "constraints": [
@@ -2140,6 +2186,21 @@
           "url": "https://viterbi.usc.edu/directory/faculty/Albee/Keenan",
           "evidence": "Official current Assistant Professor and prior education, safe autonomy research and university email.",
           "observedAt": "2026-10-01T13:34:36Z"
+        }
+      ]
+    },
+    {
+      "key": "gilbert-yang-ye-advertised-degree-intake",
+      "candidateId": "gilbert-yang-ye",
+      "name": "Gilbert Yang Ye",
+      "kind": "capacity-or-role",
+      "scope": "Advertised CRAFT opportunities page",
+      "summary": "已公布入口仅滚动PhD招募，未据此推断访客禁止",
+      "observedAt": "2026-10-01T14:01:10Z",
+      "sources": [
+        {
+          "url": "https://gilbert-yangye.github.io/opportunities/",
+          "evidence": "Live opportunities page advertises rolling PhD recruitment; accepts CS backgrounds but does not separately invite outside-master research visitors."
         }
       ]
     }

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "gilbert-yang-ye",
+    "name": "Gilbert Yang Ye",
+    "aliases": [
+      "Yang Ye",
+      "Yang (Gilbert) Ye",
+      "Gilbert Ye"
+    ],
+    "school": "Northeastern University",
+    "homepage": "https://gilbert-yangye.github.io/",
+    "title": "Assistant Professor of Civil and Environmental Engineering",
+    "department": "Civil and Environmental Engineering; Cognitive Robotics & AI for Future Technology (CRAFT) Lab",
+    "batch": "hri-110",
+    "discoveredAt": "2026-10-01T13:58:00Z",
+    "verifiedAt": "2026-10-01T14:02:13Z",
+    "researchAreas": [
+      "Human-robot teaming",
+      "Learned world models and model-based control",
+      "Diffusion imitation learning",
+      "Gaze-guided assistive manipulation",
+      "Embodied AI for civil infrastructure"
+    ],
+    "fitReason": "Verified January 2025 Assistant Professor with direct CS-compatible robot-learning methods and current master’s/PhD advising. Strong technical target; visitor capacity is unknown and Northeastern’s funding restrictions materially limit fully self-funded alternatives.",
+    "physicalEvidence": {
+      "status": "verified-current-directed-execution",
+      "summary": "June 2026 PRISM trains an MLP Gaussian action prior from frozen JEPA features and fuses it into MPPI. Its physical proof of concept reports FR3 PushT success in 7/20 trials and ARX X5 cube manipulation in 9/20. FR3 actions execute at 10 Hz with replanning every 0.5 seconds. The lead author is Ye’s current PhD advisee, independently corroborated by the lab roster. Separately, full 2025 RaycastGrasp uses trained YOLOv8 and two-second gaze selection to trigger real Franka grasping; its lead author is a current master’s advisee. Perception is learned, while semantic matching and low-level arm execution are conventional.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9",
+        "s10",
+        "s11",
+        "s12"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The live CRAFT opportunities page advertises rolling PhD positions. No separate external-master visiting, summer-intern or remote-research invitation was established. Local master’s and doctoral supervision do not imply an outside placement.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9",
+        "s10",
+        "s11",
+        "s12"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct world-model control, imitation learning and applied assistive HRI, with current CS-compatible graduate research.",
+      "physical": "Full current-group actual learned control, independently linked to the PI’s current PhD and master’s advisees; preliminary performance limits explicit.",
+      "shortVisit": "No distinct outside-master visitor invitation; institutional eligibility and local advisees do not create a vacancy.",
+      "freshness": "Full June 2026 learned physical study and current student project evidence."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "coe.northeastern.edu / source 1",
+        "url": "https://coe.northeastern.edu/people/ye-gilbert/",
+        "summary": "Current official CEE Assistant Professor, Boston location, professional email and embodied-AI research focus.",
+        "verifiedAt": "2026-10-01T14:01:10Z"
+      },
+      {
+        "id": "s2",
+        "label": "coe.northeastern.edu / source 2",
+        "url": "https://coe.northeastern.edu/news/new-faculty-spotlight-yang-gilbert-ye/",
+        "summary": "Official December 11, 2024 faculty spotlight explicitly announces January 2025 Assistant Professor start.",
+        "verifiedAt": "2026-10-01T14:01:39Z"
+      },
+      {
+        "id": "s3",
+        "label": "gilbert-yangye.github.io / source 3",
+        "url": "https://gilbert-yangye.github.io/opportunities/",
+        "summary": "Live opportunities page advertises rolling PhD recruitment; accepts CS backgrounds but does not separately invite outside-master research visitors.",
+        "verifiedAt": "2026-10-01T14:01:10Z"
+      },
+      {
+        "id": "s4",
+        "label": "gilbert-yangye.github.io / source 4",
+        "url": "https://gilbert-yangye.github.io/people/",
+        "summary": "PI-controlled roster links current PhD students Xiao Hu and Yuhai Wang.",
+        "verifiedAt": "2026-10-01T14:01:39Z"
+      },
+      {
+        "id": "s5",
+        "label": "yuhaiw.github.io / source 5",
+        "url": "https://yuhaiw.github.io/",
+        "summary": "Current PRISM lead author explicitly identifies Ye as PhD advisor at Northeastern CRAFT Lab and lists the 2026 project.",
+        "verifiedAt": "2026-10-01T14:01:39Z"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2606.07974v1",
+        "summary": "Full June 2026 PRISM methods and Appendix G: JEPA/MLP prior guides MPPI and controls actual FR3 and ARX X5; physical comparative baselines remain pending.",
+        "verifiedAt": "2026-10-01T14:01:51Z"
+      },
+      {
+        "id": "s7",
+        "label": "arxiv.org / source 7",
+        "url": "https://arxiv.org/html/2510.22113v1",
+        "summary": "Full October 2025 RaycastGrasp methods: trained YOLOv8 links headset gaze and robot camera labels to actual Franka grasping; reported 88% figure is detection confidence, with no trial denominator.",
+        "verifiedAt": "2026-10-01T14:00:59Z"
+      },
+      {
+        "id": "s8",
+        "label": "zitiantaolin.github.io / source 8",
+        "url": "https://zitiantaolin.github.io/",
+        "summary": "Current local master’s author identifies Ye as CRAFT research supervisor from February 2025; this verifies current advising, not external-master eligibility.",
+        "verifiedAt": "2026-10-01T14:01:39Z"
+      },
+      {
+        "id": "s9",
+        "label": "arxiv.org / source 9",
+        "url": "https://arxiv.org/html/2509.23021v1",
+        "summary": "Full September 2025 UniPrototype reports compositional diffusion imitation on actual FR3; collaboration with Mines, physical site not independently explicit.",
+        "verifiedAt": "2026-10-01T14:00:29Z"
+      },
+      {
+        "id": "s10",
+        "label": "coe.northeastern.edu / source 10",
+        "url": "https://coe.northeastern.edu/about/exchange/",
+        "summary": "Reused Engineering visitor process includes currently enrolled outside master’s students, faculty sponsorship and a five-to-seven-month submission-to-arrival estimate.",
+        "verifiedAt": "2026-09-30T23:48:24Z"
+      },
+      {
+        "id": "s11",
+        "label": "international.northeastern.edu / source 11",
+        "url": "https://international.northeastern.edu/ogs/exchange-visitor-program/j-1-scholars/financial-requirements-for-j-1-scholars/",
+        "summary": "Reused Visiting Student majority non-personal/non-family funding rule; fully personal funding unsupported. Financial figures must be rechecked for 2027.",
+        "verifiedAt": "2026-09-30T23:48:24Z"
+      },
+      {
+        "id": "s12",
+        "label": "international.northeastern.edu / source 12",
+        "url": "https://international.northeastern.edu/ogs/exchange-visitor-program/j-1-scholars/information-for-new-j-1-scholars/",
+        "summary": "Reused Student Non-Degree route, three weeks to two years, at least four months initiation and formal registration; no individual acceptance implied.",
+        "verifiedAt": "2026-09-30T23:48:24Z"
+      }
+    ],
+    "unknowns": [
+      "Summer 2027 availability, a scoped visit project, duration, external-master acceptance, remote collaboration and lab funding all require direct confirmation.",
+      "PRISM is a preliminary preprint; controlled comparative gains are simulation results, and matched physical baselines are pending. The FR3 GPU is inconsistently listed as RTX 5080 in the body and RTX 5090 in Appendix G.",
+      "The RaycastGrasp 88% number is a detector confidence, not an 88% manipulation success estimate. Its physical demonstration lacks a reported participant/trial denominator and has same-class-object ambiguity.",
+      "Current-group student leadership is verified; ownership and access to each particular robot during Summer 2027 still require confirmation. Older UF teleoperation and Mines collaborative apparatus are not automatically Northeastern inventory.",
+      "Northeastern policy reused at 2026-09-30T23:48:24Z explicitly provides an outside-master Visiting Student process with faculty sponsorship. It requires a majority of support from non-personal/non-family sources; fully personal funding is not supported.",
+      "The engineering process estimates five to seven months from complete submission to arrival; central OGS asks at least four months. Student Non-Degree duration is three weeks to two years, but institutional approval, registration, insurance, current financial minimums and 2027 fees remain separate.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Northeastern institutional note](../eligibility_notes.md#northeastern); policy observations remain dated 2026-09-30T23:48:24Z."
+    ],
+    "publicEmail": "y.ye@northeastern.edu",
+    "appointmentStart": {
+      "year": 2025,
+      "month": 1,
+      "precision": "month",
+      "status": "current",
+      "sourceIds": [
+        "s2"
+      ],
+      "evidence": "Official December 11, 2024 faculty spotlight explicitly announces January 2025 Assistant Professor start.",
+      "appointmentType": "unresolved"
+    }
+  }
+]

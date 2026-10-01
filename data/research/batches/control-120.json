@@ -1,0 +1,147 @@
+[
+  {
+    "id": "brady-moon",
+    "name": "Brady Moon",
+    "aliases": [
+      "Brady G. Moon"
+    ],
+    "school": "Brigham Young University",
+    "homepage": "https://bradymoon.com/",
+    "title": "Assistant Professor",
+    "department": "Mechanical Engineering; Field Robotic Systems (FROST) Lab",
+    "batch": "control-120",
+    "discoveredAt": "2026-10-01T13:58:00Z",
+    "verifiedAt": "2026-10-01T14:02:48Z",
+    "researchAreas": [
+      "Field robot information gathering",
+      "Learning-based aerial perception and safe navigation",
+      "Informative path planning",
+      "Marine vision-language perception"
+    ],
+    "fitReason": "July 2025 Assistant Professor with current field-robotics co-leadership and substantive perception-to-physical-avoidance experience, plus current marine VLM research.",
+    "physicalEvidence": {
+      "status": "Prior CMU collaborative learned-perception-to-real-flight-control evidence, physical 20",
+      "summary": "Full 2025 ViSafe deploys learned AirTrack aircraft detection/tracking into an onboard control-barrier-function pipeline that sends yaw-rate navigation commands to a real Aurelia X6 autopilot. Physical trials at two US outdoor sites used multirotor and VTOL intruders; simulation is evaluated separately. This is prior CMU collaborative hardware, not current BYU apparatus. The paper acknowledges below-horizon detection failures and conditional perception assumptions; no unconditional safety guarantee is inferred. The September 2026 BYU coastal VLM study analyzes recorded WAM-V imagery and does not establish learned vessel control.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The current lab accepts graduate research inquiries but instructs prospective MS/PhD students to apply to BYU degree programs. The explicit external summer pathway is an undergraduate REU. Neither constitutes an external-master visitor invitation; past CMU internship mentoring is also not a present BYU offer.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong field autonomy, learned aerial perception and current coastal VLM methods.",
+      "physical": "Actual learned-perception-to-avoidance execution at prior CMU; current BYU learned control not independently verified.",
+      "shortVisit": "No current explicit external-master visitor invitation; advertised graduate intake is degree-based.",
+      "freshness": "Full September 2026 current-BYU VLM methods, distinct from older physical evidence."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "frostlab.byu.edu / source 1",
+        "url": "https://frostlab.byu.edu/people/brady-moon/",
+        "summary": "University-hosted faculty biography explicitly dates first AP arrival July 2025 after CMU PhD.",
+        "verifiedAt": "2026-10-01T14:02:48Z",
+        "retrieval": "Direct primary source via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "bradymoon.com / source 2",
+        "url": "https://bradymoon.com/",
+        "summary": "Current first-person BYU role and robotics/learning research agenda.",
+        "verifiedAt": "2026-10-01T14:02:48Z",
+        "retrieval": "Direct primary source via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2505.03694v1",
+        "summary": "Full May 2025 ViSafe: AirTrack learned detection/tracking feeds onboard CBF yaw-avoidance commands; real aircraft tests, separate from digital-twin evaluation.",
+        "verifiedAt": "2026-10-01T14:02:48Z",
+        "retrieval": "Direct primary source via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2609.10855v1",
+        "summary": "Full September 2026 BYU coauthored study evaluates seven VLMs on WAM-V coastal images; this is recorded-data analysis, not new learned vessel control.",
+        "verifiedAt": "2026-10-01T14:02:48Z",
+        "retrieval": "Direct primary source via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "frostlab.byu.edu / source 5",
+        "url": "https://frostlab.byu.edu/get-involved/",
+        "summary": "Graduate recruitment routes to BYU thesis/PhD admission; external summer route explicitly undergraduate REU. No external-master visit invitation or refusal.",
+        "verifiedAt": "2026-10-01T14:02:48Z",
+        "retrieval": "Direct primary source via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "frostlab.byu.edu / source 6",
+        "url": "https://frostlab.byu.edu/people/",
+        "summary": "Current university lab co-lead and graduate-research roster.",
+        "verifiedAt": "2026-10-01T14:02:48Z",
+        "retrieval": "Direct primary source via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "frostlab.byu.edu / source 7",
+        "url": "https://frostlab.byu.edu/publications/",
+        "summary": "Current lab research through 2026, including Moon coauthorship. Other co-lead-only papers not attributed to Moon.",
+        "verifiedAt": "2026-10-01T14:02:48Z",
+        "retrieval": "Direct primary source via web.run"
+      },
+      {
+        "id": "s8",
+        "label": "bradymoon.com / source 8",
+        "url": "https://bradymoon.com/cv.pdf",
+        "summary": "Author CV identifies Brady G. Moon alias and prior CMU mentoring; historical mentoring is not a current BYU visit offer.",
+        "verifiedAt": "2026-10-01T14:00:16Z",
+        "retrieval": "Primary author PDF indexed text; not claimed as a complete fresh PDF read"
+      }
+    ],
+    "unknowns": [
+      "Previously reviewed BYU institutional conditions: an external-degree Student Intern category exists with departmental sponsorship, degree relevance, English and insurance requirements. Published exchange-visitor support is at least $2,000 monthly, with personal funds allowed in principle; actual category and 2027 budget require ISSS confirmation. BYU also requires a personal commitment to its published Honor Code. These institutional conditions do not confirm lab capacity or an accepted visit.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "BYU institutional evidence was reviewed on 2026-10-01T03:07:03Z, not freshly retrieved for this record. [Institutional note](../eligibility_notes.md#brigham-young)"
+    ],
+    "publicEmail": "brady.moon@byu.edu",
+    "appointmentStart": {
+      "year": 2025,
+      "month": 7,
+      "precision": "month",
+      "status": "current",
+      "sourceIds": [
+        "s1"
+      ],
+      "evidence": "University-hosted faculty biography explicitly states joined the faculty in July 2025 after CMU Robotics PhD.",
+      "appointmentType": "unresolved"
+    },
+    "discoveryTimestampNote": "First precisely retained individual official-role observation; dedicated source verification followed."
+  }
+]

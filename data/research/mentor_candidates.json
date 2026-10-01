@@ -113,6 +113,7 @@
     "batches/control-113.json",
     "batches/control-114.json",
     "batches/control-118.json",
+    "batches/control-120.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -305,7 +306,8 @@
     "batches/hri-100.json",
     "batches/hri-101.json",
     "batches/hri-103.json",
-    "batches/hri-107.json"
+    "batches/hri-107.json",
+    "batches/hri-110.json"
   ],
   "candidates": [
     {
@@ -5938,6 +5940,37 @@
       "shortVisitStatus": "inquiry-only",
       "recordFile": "batches/control-118.json",
       "detailPage": "batches/control-118.md#chen-tang"
+    },
+    {
+      "id": "brady-moon",
+      "name": "Brady Moon",
+      "aliases": [
+        "Brady G. Moon"
+      ],
+      "school": "Brigham Young University",
+      "title": "Assistant Professor",
+      "homepage": "https://bradymoon.com/",
+      "batch": "control-120",
+      "discoveredAt": "2026-10-01T13:58:00Z",
+      "verifiedAt": "2026-10-01T14:02:48Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Field robot information gathering",
+        "Learning-based aerial perception and safe navigation",
+        "Informative path planning",
+        "Marine vision-language perception"
+      ],
+      "discoveryTimestampNote": "First precisely retained individual official-role observation; dedicated source verification followed.",
+      "physicalEvidenceStatus": "Prior CMU collaborative learned-perception-to-real-flight-control evidence, physical 20",
+      "physicalEvidenceLabel": "受限真机证据：Prior CMU collaborative learned-perception-to-real-flight-control evidence, physical 20",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-120.json",
+      "detailPage": "batches/control-120.md#brady-moon"
     },
     {
       "id": "tom-silver",
@@ -15811,6 +15844,39 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-107.json",
       "detailPage": "batches/hri-107.md#lindsay-sanneman"
+    },
+    {
+      "id": "gilbert-yang-ye",
+      "name": "Gilbert Yang Ye",
+      "aliases": [
+        "Yang Ye",
+        "Yang (Gilbert) Ye",
+        "Gilbert Ye"
+      ],
+      "school": "Northeastern University",
+      "title": "Assistant Professor of Civil and Environmental Engineering",
+      "homepage": "https://gilbert-yangye.github.io/",
+      "batch": "hri-110",
+      "discoveredAt": "2026-10-01T13:58:00Z",
+      "verifiedAt": "2026-10-01T14:02:13Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-robot teaming",
+        "Learned world models and model-based control",
+        "Diffusion imitation learning",
+        "Gaze-guided assistive manipulation",
+        "Embodied AI for civil infrastructure"
+      ],
+      "physicalEvidenceStatus": "verified-current-directed-execution",
+      "physicalEvidenceLabel": "受限真机证据：verified-current-directed-execution",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-110.json",
+      "detailPage": "batches/hri-110.md#gilbert-yang-ye"
     }
   ]
 }

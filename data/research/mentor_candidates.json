@@ -2147,6 +2147,7 @@
         "risk-aware navigation",
         "model predictive control"
       ],
+      "discoveryTimestampNote": "First primary-source discovery in this verification pass; the name had been reserved earlier without a recorded timestamp.",
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-018.json",
       "detailPage": "batches/control-018.md#jonathan-p-how"
@@ -3435,6 +3436,7 @@
         "Distributed task assignment",
         "Sensorimotor learning and control"
       ],
+      "discoveryTimestampNote": "discoveredAt denotes the earliest preserved timestamped source observation. No precise earlier discovery time is asserted.",
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-056.json",
       "detailPage": "batches/control-056.md#silvia-ferrari"
@@ -3719,6 +3721,7 @@
         "Trustworthy robot coordination",
         "Field robot autonomy"
       ],
+      "discoveryTimestampNote": "First precisely preserved source-observation time. An earlier preliminary lead was noticed, but its exact timestamp is unavailable; no earlier discovery time was reconstructed.",
       "shortVisitStatus": "precedent-only · Harvard normally at least 3 months",
       "recordFile": "batches/control-062.json",
       "detailPage": "batches/control-062.md#stephanie-gil"
@@ -3746,6 +3749,7 @@
         "Safe cyber-physical systems",
         "Learning and control"
       ],
+      "discoveryTimestampNote": "First precisely preserved source-observation time. An earlier preliminary lead was noticed, but its exact timestamp is unavailable; no earlier discovery time was reconstructed.",
       "shortVisitStatus": "degree-only",
       "recordFile": "batches/control-062.json",
       "detailPage": "batches/control-062.md#miroslav-pajic"

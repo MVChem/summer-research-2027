@@ -78,6 +78,8 @@ def validate(data):
         assert homepage not in urls, f"Duplicate homepage: {row['name']}"
         urls.add(homepage)
         assert timestamp(row["discoveredAt"]) <= timestamp(row["verifiedAt"])
+        if "discoveryTimestampNote" in row:
+            assert isinstance(row["discoveryTimestampNote"], str) and row["discoveryTimestampNote"].strip(), "Discovery timestamp note must be nonempty text"
         assert row["sources"] and row["unknowns"] and row["researchAreas"]
         source_ids = set()
         for source in row["sources"]:
@@ -177,6 +179,8 @@ def compact_index(data, record_files):
     rows = []
     for row in data["candidates"]:
         summary = {key: row[key] for key in keys}
+        if row.get("discoveryTimestampNote"):
+            summary["discoveryTimestampNote"] = row["discoveryTimestampNote"]
         summary["shortVisitStatus"] = row["shortVisit"]["status"]
         summary["recordFile"] = f"batches/{row['batch']}.json"
         summary["detailPage"] = f"batches/{row['batch']}.md#{row['id']}"
@@ -189,7 +193,10 @@ def render_compact(data):
     for index, row in enumerate(ranked_rows(data), 1):
         scores = "/".join(str(row["scores"][key]) for key in CAPS)
         detail = f"batches/{row['batch']}.md#{row['id']}"
-        lines.append(f"| {index} | [{cell(row['name'])}]({detail}) · {cell(row['school'])} | {sum(row['scores'].values())} ({scores}) | {cell(row['shortVisit']['status'])} | {row['discoveredAt']} | {row['verifiedAt']} |")
+        discovery = row["discoveredAt"] + (" †" if row.get("discoveryTimestampNote") else "")
+        lines.append(f"| {index} | [{cell(row['name'])}]({detail}) · {cell(row['school'])} | {sum(row['scores'].values())} ({scores}) | {cell(row['shortVisit']['status'])} | {discovery} | {row['verifiedAt']} |")
+    if any(row.get("discoveryTimestampNote") for row in data["candidates"]):
+        lines += ["", "† 时间口径例外：此条使用首次可精确保留的来源观察/核查记录时间，不能断言为最早遇到该线索的时刻。未重建更早时间；原值保持不变，具体限制见详情和索引的 discoveryTimestampNote。"]
     return "\n".join(lines) + "\n"
 
 

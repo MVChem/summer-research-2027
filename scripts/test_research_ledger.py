@@ -151,6 +151,35 @@ class ResearchLedgerTests(unittest.TestCase):
             self.assertIn(row["name"], text)
             self.assertTrue((ledger.LEDGER.parent / summary["recordFile"]).is_file())
 
+    def test_timestamp_qualification_survives_compact_index(self):
+        data = copy.deepcopy(self.full)
+        row = data["candidates"][0]
+        row["discoveryTimestampNote"] = "First preserved source observation; earlier exact time unavailable."
+        summary = ledger.compact_index(data, self.paths)["candidates"][0]
+        self.assertEqual(summary["discoveryTimestampNote"], row["discoveryTimestampNote"])
+        self.assertEqual(summary["discoveredAt"], row["discoveredAt"])
+
+    def test_ranked_view_marks_qualified_timestamp_without_changing_it(self):
+        data = copy.deepcopy(self.full)
+        row = data["candidates"][0]
+        row["discoveryTimestampNote"] = "First preserved source observation."
+        text = ledger.render_compact(data)
+        self.assertIn(row["discoveredAt"] + " †", text)
+        self.assertIn("† 时间口径例外", text)
+
+    def test_unqualified_timestamp_has_no_marker(self):
+        data = copy.deepcopy(self.full)
+        for row in data["candidates"]:
+            row.pop("discoveryTimestampNote", None)
+        self.assertNotIn("†", ledger.render_compact(data))
+        self.assertTrue(all("discoveryTimestampNote" not in row for row in ledger.compact_index(data, self.paths)["candidates"]))
+
+    def test_empty_timestamp_qualification_rejected(self):
+        data = copy.deepcopy(self.full)
+        data["candidates"][0]["discoveryTimestampNote"] = " "
+        with self.assertRaises(AssertionError):
+            ledger.validate(data)
+
 
 if __name__ == "__main__":
     unittest.main()

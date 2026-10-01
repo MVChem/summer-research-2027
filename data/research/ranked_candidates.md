@@ -104,7 +104,7 @@
 | 94 | [Rohan Chandra](batches/control-017.md#rohan-chandra) · University of Virginia | 79 (39/25/0/15) | unknown | 2026-09-30T23:31:39Z | 2026-09-30T23:37:07Z |
 | 95 | [Ramviyas Nattanmai Parasuraman](batches/hri-018.md#ramviyas-nattanmai-parasuraman) · University of Georgia | 79 (39/25/0/15) | unknown | 2026-09-30T23:35:47Z | 2026-09-30T23:38:36Z |
 | 96 | [Karthik Dantu](batches/embodied-021.md#karthik-dantu) · University at Buffalo, State University of New York | 79 (39/25/0/15) | unknown | 2026-09-30T23:44:08Z | 2026-09-30T23:48:21Z |
-| 97 | [Jonathan P. How](batches/control-018.md#jonathan-p-how) · Massachusetts Institute of Technology | 79 (39/25/0/15) | unknown | 2026-09-30T23:45:32Z | 2026-09-30T23:47:45Z |
+| 97 | [Jonathan P. How](batches/control-018.md#jonathan-p-how) · Massachusetts Institute of Technology | 79 (39/25/0/15) | unknown | 2026-09-30T23:45:32Z † | 2026-09-30T23:47:45Z |
 | 98 | [Minghui Zheng](batches/embodied-024.md#minghui-zheng) · Texas A&M University | 79 (39/25/0/15) | unknown | 2026-10-01T00:06:03Z | 2026-10-01T00:11:50Z |
 | 99 | [Xiaomin Lin](batches/control-024.md#xiaomin-lin) · University of South Florida | 79 (39/25/0/15) | unknown | 2026-10-01T00:24:12Z | 2026-10-01T00:25:13Z |
 | 100 | [Zhi-Qi Cheng](batches/embodied-029.md#zhi-qi-cheng) · University of Washington Tacoma | 79 (39/25/0/15) | unknown | 2026-10-01T00:54:06Z | 2026-10-01T01:00:00Z |
@@ -122,7 +122,7 @@
 | 112 | [Arash Adel](batches/control-054.md#arash-adel) · Princeton University | 79 (39/25/0/15) | unknown | 2026-10-01T03:10:19Z | 2026-10-01T03:11:08Z |
 | 113 | [Yue (Sophie) Wang](batches/control-058.md#yue-sophie-wang) · Clemson University | 79 (39/25/0/15) | unknown | 2026-10-01T04:26:03Z | 2026-10-01T04:39:13Z |
 | 114 | [Nicola Bezzo](batches/control-061.md#nicola-bezzo) · University of Virginia | 79 (39/25/0/15) | unknown | 2026-10-01T04:43:58Z | 2026-10-01T04:49:51Z |
-| 115 | [Miroslav Pajic](batches/control-062.md#miroslav-pajic) · Duke University | 79 (39/25/0/15) | degree-only | 2026-10-01T04:51:54Z | 2026-10-01T04:55:05Z |
+| 115 | [Miroslav Pajic](batches/control-062.md#miroslav-pajic) · Duke University | 79 (39/25/0/15) | degree-only | 2026-10-01T04:51:54Z † | 2026-10-01T04:55:05Z |
 | 116 | [Homanga Bharadhwaj](batches/control-002.md#homanga-bharadhwaj) · Johns Hopkins University | 79 (39/20/5/15) | inquiry-only | 2026-09-30T21:29:01Z | 2026-09-30T21:56:57Z |
 | 117 | [Kaylene Stocking](batches/embodied-009.md#kaylene-stocking) · Toyota Technological Institute at Chicago | 79 (39/20/5/15) | inquiry-only · 通常12–15周，8周未确认 | 2026-09-30T22:35:24Z | 2026-09-30T22:44:51Z |
 | 118 | [Xusheng Luo](batches/embodied-011.md#xusheng-luo) · North Carolina State University | 79 (39/20/5/15) | inquiry-only | 2026-09-30T22:47:45Z | 2026-09-30T22:50:54Z |
@@ -183,7 +183,7 @@
 | 173 | [Juan Rojas](batches/hri-026.md#juan-rojas) · Lipscomb University | 77 (37/25/0/15) | unknown | 2026-10-01T01:00:00Z | 2026-10-01T01:02:08Z |
 | 174 | [Nancy Pollard](batches/hri-034.md#nancy-pollard) · Carnegie Mellon University | 77 (37/25/0/15) | unknown | 2026-10-01T01:44:44Z | 2026-10-01T01:47:01Z |
 | 175 | [Kaveh Akbari Hamed](batches/control-049.md#kaveh-akbari-hamed) · Virginia Tech | 77 (37/25/0/15) | unknown | 2026-10-01T02:40:24Z | 2026-10-01T02:47:23Z |
-| 176 | [Silvia Ferrari](batches/control-056.md#silvia-ferrari) · Cornell University | 77 (37/25/0/15) | unknown | 2026-10-01T03:21:37Z | 2026-10-01T03:29:11Z |
+| 176 | [Silvia Ferrari](batches/control-056.md#silvia-ferrari) · Cornell University | 77 (37/25/0/15) | unknown | 2026-10-01T03:21:37Z † | 2026-10-01T03:29:11Z |
 | 177 | [John T. Wen](batches/control-060.md#john-t-wen) · Rensselaer Polytechnic Institute | 77 (37/25/0/15) | precedent-only | 2026-10-01T04:34:09Z | 2026-10-01T04:36:46Z |
 | 178 | [José L. Pons](batches/hri-057.md#jose-l-pons) · Northwestern University; Shirley Ryan AbilityLab | 77 (37/25/0/15) | unknown | 2026-10-01T04:40:28Z | 2026-10-01T05:07:02Z |
 | 179 | [Jun Nishida](batches/hri-052.md#jun-nishida) · University of Maryland, College Park | 77 (34/23/5/15) | inquiry-only · student appointment category unresolved | 2026-10-01T03:36:49Z | 2026-10-01T04:34:22Z |
@@ -201,7 +201,7 @@
 | 191 | [Jong-Hoon Kim](batches/hri-053.md#jong-hoon-kim) · Kent State University | 76 (36/25/0/15) | precedent-only | 2026-10-01T04:26:05Z | 2026-10-01T04:27:25Z |
 | 192 | [Rushikesh L. Kamalapurkar](batches/control-059.md#rushikesh-l-kamalapurkar) · University of Florida | 76 (36/25/0/15) | degree-only | 2026-10-01T04:28:50Z | 2026-10-01T04:37:50Z |
 | 193 | [Cynthia A. Chestek](batches/hri-059.md#cynthia-a-chestek) · University of Michigan–Ann Arbor | 76 (36/25/0/15) | degree-only | 2026-10-01T04:50:35Z | 2026-10-01T05:00:15Z |
-| 194 | [Stephanie Gil](batches/control-062.md#stephanie-gil) · Harvard University | 76 (36/25/0/15) | precedent-only · Harvard normally at least 3 months | 2026-10-01T04:51:54Z | 2026-10-01T05:07:02Z |
+| 194 | [Stephanie Gil](batches/control-062.md#stephanie-gil) · Harvard University | 76 (36/25/0/15) | precedent-only · Harvard normally at least 3 months | 2026-10-01T04:51:54Z † | 2026-10-01T05:07:02Z |
 | 195 | [Geng Yuan](batches/embodied-020.md#geng-yuan) · University of Georgia | 76 (36/20/5/15) | inquiry-only | 2026-09-30T23:39:49Z | 2026-09-30T23:43:11Z |
 | 196 | [Glen Chou](batches/control-006.md#glen-chou) · Georgia Institute of Technology | 75 (40/20/0/15) | unknown | 2026-09-30T22:04:48Z | 2026-09-30T22:08:52Z |
 | 197 | [Maria Kyrarini](batches/hri-008.md#maria-kyrarini) · Santa Clara University | 75 (40/20/0/15) | unknown | 2026-09-30T22:23:11Z | 2026-09-30T22:26:44Z |
@@ -398,3 +398,5 @@
 | 388 | [Francesco Borrelli](batches/control-004.md#francesco-borrelli) · University of California, Berkeley | 62 (37/20/0/5) | unknown | 2026-09-30T21:42:36Z | 2026-09-30T21:47:35Z |
 | 389 | [Cagdas D. Onal](batches/embodied-007.md#cagdas-d-onal) · Worcester Polytechnic Institute | 62 (32/20/0/10) | unknown | 2026-09-30T22:13:28Z | 2026-09-30T22:18:19Z |
 | 390 | [Sarah H. Q. Li](batches/control-006.md#sarah-h-q-li) · Georgia Institute of Technology | 49 (34/0/0/15) | unknown | 2026-09-30T22:04:58Z | 2026-09-30T22:08:52Z |
+
+† 时间口径例外：此条使用首次可精确保留的来源观察/核查记录时间，不能断言为最早遇到该线索的时刻。未重建更早时间；原值保持不变，具体限制见详情和索引的 discoveryTimestampNote。

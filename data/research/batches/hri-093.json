@@ -1,0 +1,118 @@
+[
+  {
+    "id": "hugh-m-herr",
+    "name": "Hugh M. Herr",
+    "aliases": [
+      "Hugh Herr",
+      "Hugh M Herr"
+    ],
+    "school": "Massachusetts Institute of Technology",
+    "homepage": "https://www.media.mit.edu/people/hherr/overview/",
+    "title": "Professor of Media Arts and Sciences",
+    "department": "Media Arts and Sciences; Biomechatronics Group; Yang Center for Bionics",
+    "batch": "hri-093",
+    "discoveredAt": "2026-10-01T03:26:24Z",
+    "verifiedAt": "2026-10-01T11:33:48Z",
+    "researchAreas": [
+      "Adaptive neural decoding for prostheses",
+      "Hybrid learned and biophysical controllers",
+      "Human-machine neural interfaces",
+      "Online learning from EMG",
+      "Bionic limbs and assistive robotics"
+    ],
+    "fitReason": "Visitor-first, method-focused assistive-AI backup. The current group offers a formal visiting-student inquiry route, and a full recent technical paper verifies artificial neural-network learning for prosthetic intent decoding. This is a specialized bioengineering setting; CS project scope and required physiology background need discussion.",
+    "physicalEvidence": {
+      "status": "unverified",
+      "summary": "The full 2025 TNSRE paper uses a four-layer neural network to map eight EMG inputs into virtual muscle activation, coupled to biophysical dynamics for seven-degree-of-freedom hand/wrist kinematic prediction. Offline, streamed-data and live online adaptation were evaluated using human EMG and camera-derived trajectories. Experiments occurred in August–September 2024 at MIT; the later publication is not a new experiment date. The paper explicitly leaves integration into actual prosthetic controllers and dexterity assessments to further work. This demonstrates a substantive learned method, not verified learned control of an actuated prosthesis. Other laboratory bionic hardware and biological neural interfaces must not fill that missing execution link.",
+      "sourceIds": [
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "The current official Biomechatronics FAQ explicitly accepts domestic and international Visiting Students through MIT’s formal Visiting Student Program and directs CV inquiries to Senior Lab Administrator Lindsey Reynolds at a2biomech@media.mit.edu. Due to budget constraints, support must come through the visitor’s institution, fellowship or another program. The FAQ separately says the lab has no volunteer or internship program. This is an inquiry route, not eight-week admission, funding or summer 2027 availability.",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "scores": {
+      "fit": 36,
+      "physical": 0,
+      "shortVisit": 10,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "Substantive current artificial-learning controller design for assistive prosthetics, with specialized biophysical scope.",
+      "physical": "Inspected learning study predicts kinematics and leaves actuated prosthesis integration to further work; physical lab reputation and biological neural control are not substitutes.",
+      "shortVisit": "Direct formal visiting-student inquiry with explicit external support condition; no confirmed dates, acceptance or funding.",
+      "freshness": "Full technical publication is2025 with experiments in2024. The undated current FAQ/role and institutional2026–27 fee table do not establish a specifically dated2026 research or recruitment event."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.media.mit.edu / source 1",
+        "url": "https://www.media.mit.edu/people/hherr/overview/",
+        "summary": "Current Professor of Media Arts and Sciences, Biomechatronics affiliation, Yang Center role and professional email.",
+        "verifiedAt": "2026-10-01T11:33:48Z"
+      },
+      {
+        "id": "s2",
+        "label": "www.media.mit.edu / source 2",
+        "url": "https://www.media.mit.edu/groups/biomechatronics/frequently-asked-questions/",
+        "summary": "Live formal domestic/international visiting-student invitation, administrator contact, institution/fellowship/program funding condition and separate absence of volunteer/intern program.",
+        "verifiedAt": "2026-10-01T11:33:48Z"
+      },
+      {
+        "id": "s3",
+        "label": "dam-prod.media.mit.edu / source 3",
+        "url": "https://dam-prod.media.mit.edu/x/2025/12/07/Biophysical_Models_With_Adaptive_Online_Learning_for_Direct_Neural_Control_of_Prostheses.pdf",
+        "summary": "Full 11-page MIT-hosted primary study: artificial NN/biophysical decoder and online adaptation with live/recorded human inputs; 2024 experiment dates and future actual-controller integration explicitly distinguished.",
+        "verifiedAt": "2026-10-01T11:33:48Z"
+      },
+      {
+        "id": "s4",
+        "label": "www.media.mit.edu / source 4",
+        "url": "https://www.media.mit.edu/people/mfernan/publications/",
+        "summary": "Current group-author publication page directly links the complete 2025 TNSRE manuscript.",
+        "verifiedAt": "2026-10-01T11:33:48Z"
+      },
+      {
+        "id": "s5",
+        "label": "iso.mit.edu / source 5",
+        "url": "https://iso.mit.edu/getting-started/visiting-students-faq/",
+        "summary": "Prior 23:09:41Z central MIT sponsor/duration/nonpersonal-funding review reused; not lab acceptance.",
+        "verifiedAt": "2026-09-30T23:09:41Z",
+        "retrieval": "Previously completed institutional review, reused without a new fetch"
+      },
+      {
+        "id": "s6",
+        "label": "iso.mit.edu / source 6",
+        "url": "https://iso.mit.edu/wp-content/uploads/2026/07/VS-Estimated-Expense-AY-2026-2027.pdf",
+        "summary": "Reused 2026–27 published support estimate, including monthly visiting-student fee; not an all-in fee quote.",
+        "verifiedAt": "2026-09-30T23:09:41Z",
+        "retrieval": "Previously completed institutional review, reused without a new fetch"
+      },
+      {
+        "id": "s7",
+        "label": "registrar.mit.edu / source 7",
+        "url": "https://registrar.mit.edu/registration-academics/tuition-fees/visiting-student",
+        "summary": "Reused host-paid $1,000 processing fee reference; departmental terms need confirmation.",
+        "verifiedAt": "2026-09-30T23:09:41Z",
+        "retrieval": "Previously completed institutional review, reused without a new fetch"
+      }
+    ],
+    "unknowns": [
+      "The FAQ’s self-funded wording explicitly refers to home-institution, fellowship or other-program support; do not advertise unrestricted personal savings as sufficient. The formal Visiting Student pathway is distinct from the lab’s unavailable volunteer/intern program.",
+      "MIT institutional eligibility reviewed 2026-09-30T23:09:41Z: current home-university enrollment, faculty sponsorship, approximately three-week to twelve-month duration, and at least 51% nonpersonal funding. Exact master’s classification, home-degree connection, dates and department approval remain unresolved.",
+      "The previously checked 2026–27 MIT estimate is $4,350 monthly support, comprising $3,725 living estimate plus a $625 monthly Visiting Student fee; do not add the $625 again. A separate $1,000 processing charge is paid from host discretionary funds. These figures and other costs require confirmation for the precise 2027 arrangement. Central lead time is at least 90 days; older CSAIL-specific rules are not automatically applied to the Media Lab.",
+      "A computational decoding/modeling project and any access to human-subject data, training or devices require a separate host-approved research scope.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: Earliest precisely retained dedicated screening time; the visitor FAQ was first retained at11:29:32Z and fully read on the later verification date. No earlier incidental discovery was reconstructed.",
+      "[Institutional review](../eligibility_notes.md#mit-visiting-students); policy observations retain their stated dates."
+    ],
+    "discoveryTimestampNote": "Earliest precisely retained dedicated screening time; the visitor FAQ was first retained at11:29:32Z and fully read on the later verification date. No earlier incidental discovery was reconstructed.",
+    "publicEmail": "hherr@media.mit.edu",
+    "candidateTier": "神经解码/辅助机器人方法备选；实际学习驱动义肢未核"
+  }
+]

@@ -2,11 +2,11 @@
 
 [新AP优先视图](ap_priority.md) · [全部候选偏好排序](ranked_candidates.md) · [原名单AP后续核查](baseline_ap.md) · [原始索引](mentor_candidates.json) · [机构规则](eligibility_notes.md) · [原200位后续补充](baseline_addenda.md)
 
-从现有记录筛出 **116 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。
+从现有记录筛出 **118 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。
 
 本页各类入口内按已核实任职与限制分层：新AP优先，明确长时段偏好/最低期限靠后；同层按研究匹配、真机、短访、新鲜度及发现时间。约八周不是硬筛选；不把一般询问、学校制度或个人自费能力当成已获资格。所有人的主办类别、具体时长、2027容量、经费和设备访问都需确认。具体奖学金要求、无资助、时间不匹配、任职时点及证据限制优先看下列加粗提示，再读完整资料。
 
-## 访问/短期研究问询线索（现场安排仍须确认） · 107 条
+## 访问/短期研究问询线索（现场安排仍须确认） · 108 条
 
 | 导师 / 机构 | 匹配 / 真机 / 短访 | 已知限制与证据状态 | 直接来源 / 机构规则 | 记录核查 UTC |
 |---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Jorge I. Poveda](batches/control-076.md#jorge-i-poveda) · University of California, San Diego | 37/0/8 | **inquiry-only · generic visiting scholar；八周与2027名额未定；AI相关 · 真机待核实** | [s1](https://poveda.ucsd.edu/home) [s2](https://poveda.ucsd.edu/research-lab) [规则](eligibility_notes.md#uc-san-diego) | 2026-10-01T07:21:28Z |
 | [Nick Cheney](batches/control-075.md#nick-cheney) · University of Vermont | 37/0/8 | **学位相关Non-Degree需过半非个人资金；DS-2019至少提前10周申请；AI相关 · 真机待核实** | [s2](https://www.uvm.edu/neurobotics/join-us) [s6](https://www.uvm.edu/oie/uvm-departments-hosting-j-1-exchange-visitors) [规则](eligibility_notes.md#vermont) | 2026-10-01T09:49:44Z |
 | [Maja Matarić](batches/hri-001.md#maja-mataric) · University of Southern California | 36/20/5 | **公开问询入口；详细资格与期限未定** | [s2](https://robotics.usc.edu/~maja/applicants.html) | 2026-09-30T21:27:42Z |
+| [Hugh M. Herr](batches/hri-093.md#hugh-m-herr) · Massachusetts Institute of Technology | 36/0/10 | **正式Visiting Student可询问，须机构/奖学金/其他项目支持；另无志愿者或intern项目，不代表正式访学关闭；MIT过半非个人资金，神经解码但实际义肢学习执行未核；真机待核实** | [s2](https://www.media.mit.edu/groups/biomechatronics/frequently-asked-questions/) [s3](https://dam-prod.media.mit.edu/x/2025/12/07/Biophysical_Models_With_Adaptive_Online_Learning_for_Direct_Neural_Control_of_Prostheses.pdf) [s5](https://iso.mit.edu/getting-started/visiting-students-faq/) [s6](https://iso.mit.edu/wp-content/uploads/2026/07/VS-Estimated-Expense-AY-2026-2027.pdf) [s7](https://registrar.mit.edu/registration-academics/tuition-fees/visiting-student) [规则](eligibility_notes.md#mit-visiting-students) | 2026-10-01T11:33:48Z |
 | [Jun Chen](batches/control-090.md#jun-chen) · San Diego State University | 36/0/8 | **独立访客询问；学习控制仅仿真；PhD广告标注2024，2027/八周未定；仅仿真；真机待核实** | [s2](https://junchen.sdsu.edu/) [s3](https://junchen.sdsu.edu/opening.html) [规则](eligibility_notes.md#san-diego-state) | 2026-10-01T10:11:53Z |
 | [Renato Zanetti](batches/control-088.md#renato-zanetti) · University of Texas at Austin | 35/0/8 | **独立visiting/exchange thesis询问；时长/经费未定；学习制导仅仿真；仅仿真；真机待核实** | [s3](https://sites.utexas.edu/near/about/) [规则](eligibility_notes.md#ut-austin) | 2026-10-01T09:56:14Z |
 | [Selma Šabanović](batches/hri-001.md#selma-sabanovic) · Indiana University Bloomington | 34/23/8 | **公开问询入口；详细资格与期限未定** | [s2](https://r-house.luddy.indiana.edu/index.html) [s3](https://r-house.luddy.indiana.edu/contact/index.html) | 2026-09-30T22:34:57Z |
@@ -118,10 +119,11 @@
 | [Kyle T. Yoshida](batches/hri-100.md#kyle-t-yoshida) · University of California, Los Angeles | 34/0/10 | **官方2025-07-01到岗；全球硕士询问，2027-05-01优先截止；表单强烈偏好超过1个quarter（非硬最低期限，不换算精确月数）；硕士资助/远程未知，软驱动器仅建模；真机待核实** | [s1](https://www.samueli.ucla.edu/new-faculty-2023-2026/) [s2](https://samueli.ucla.edu/people/kyle-yoshida/) [s3](https://www.mohalalab.org/opportunities) [s4](https://onlinelibrary.wiley.com/doi/10.1155/joro/8827476) [s9](https://docs.google.com/forms/d/e/1FAIpQLSeCeV21VKoS_qMpmSczt8RAub7gcQS8soGOwdFTVXQJx116Rg/viewform?usp=send_form) [规则](eligibility_notes.md#ucla-vgr) | 2026-10-01T13:23:59Z |
 | [Xiaofan Yu](batches/control-106.md#xiaofan-yu) · University of California, Merced | 32/0/8 | **外校硕士访客入口明确；最低3–6个月并提前3–6个月申请；方法/仿真备选，真机未核；仅仿真；真机待核实** | [s4](https://yuccalab.ucmerced.edu/join.html) [s5](https://arxiv.org/html/2509.21523v1) [s6](https://arxiv.org/html/2604.12331v1) [规则](eligibility_notes.md#uc-merced) | 2026-10-01T12:07:29Z |
 
-## 一般 intern 入口（外校硕士适用性未明确） · 8 条
+## 一般 intern 入口（外校硕士适用性未明确） · 9 条
 
 | 导师 / 机构 | 匹配 / 真机 / 短访 | 已知限制与证据状态 | 直接来源 / 机构规则 | 记录核查 UTC |
 |---|---|---|---|---|
+| [Zhu Wang](batches/hri-105.md#zhu-wang) · University of New Mexico | 32/0/8 | **2025 AP；独立年度intern邀请，但外校硕士身份/时长/资金未定，8分；XR生成地形备选，真机0；真机待核实** | [s1](https://advance.unm.edu/dr-zhu-wang-computer-science/) [s3](https://cs.unm.edu/~zhuwang/) [s4](https://mirai.cs.unm.edu/) [s5](https://cs.unm.edu/~zhuwang/assets/pdf/VR_Terrain_Generation_VRST_2024.pdf) [规则](eligibility_notes.md#new-mexico) | 2026-10-01T13:24:28Z |
 | [Yaqi Xie](batches/embodied-063.md#yaqi-xie) · University of Illinois Urbana-Champaign (incoming lab; current adjunct listing) | 39/20/7 | **官方adjunct与本人incoming表述并存；准确开始时间未知** | [s2](https://yaqi-xie.me/) [规则](eligibility_notes.md#illinois-urbana-champaign) | 2026-10-01T05:35:01Z |
 | [Xuan Wang](batches/control-095.md#xuan-wang) · George Mason University | 39/25/8 | **一般intern邀请；GMU不赞助intern身份、不可纯个人资助；硕士其他类别待核；受限真机证据：Current directed-group collaborative physical RL; manual data collection and autonomous policy trials distinguished** | [s2](https://mason.gmu.edu/~xwang64/index.html) [规则](eligibility_notes.md#george-mason) | 2026-10-01T10:44:03Z |
 | [Chengzhi Mao](batches/embodied-056.md#chengzhi-mao) · Rutgers University–New Brunswick | 38/20/7 | **一般intern询问；外校硕士适用性与短访条件未明确** | [s2](https://chengzhi-mao.github.io/) [s4](https://yangmarino.li/) [规则](eligibility_notes.md#rutgers) | 2026-10-01T03:39:04Z |

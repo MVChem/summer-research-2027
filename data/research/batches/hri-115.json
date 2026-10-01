@@ -1,0 +1,135 @@
+[
+  {
+    "id": "francis-baek",
+    "name": "Francis Baek",
+    "aliases": [],
+    "school": "Georgia Institute of Technology",
+    "homepage": "https://www.ce.gatech.edu/directory/person/francis-baek",
+    "title": "Assistant Professor of Civil and Environmental Engineering",
+    "department": "Civil and Environmental Engineering; HARMONIC Lab",
+    "batch": "hri-115",
+    "discoveredAt": "2026-10-01T14:34:27Z",
+    "verifiedAt": "2026-10-01T14:36:48Z",
+    "researchAreas": [
+      "Human-centered construction robotics",
+      "Multimodal robot reasoning",
+      "Language-guided navigation",
+      "Human-response sensing",
+      "Human-robot collaboration"
+    ],
+    "fitReason": "Recent Assistant Professor with verified foundation-model-to-robot navigation and human-centered sensing interests. Suitable computational directions include robot reasoning, perception, software integration and HRI evaluation, subject to actual project and visitor capacity.",
+    "physicalEvidence": {
+      "status": "historical-or-indirect",
+      "summary": "The full March 2026 study executes three GPT-4o reasoning modules on an actual Unitree Go2, combining drawing-label YOLO/EasyOCR, a preloaded occupancy map, classical Nav2/A* navigation and visually selected short movements. In a controlled office mock-up, it succeeds at 95/103 positioning tasks across 45 sessions; complete-session success is 37/45. It tests reaching and facing targets, not carrying, welding or assembly; real construction-site testing remains future work. Offboard API reasoning adds latency. Baek is the Georgia Tech coauthor in a Michigan-led collaboration; neither current Georgia Tech apparatus ownership nor independent direction of this experiment is established. Physical score is capped at 20.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Indexed official HARMONIC/HIT joining pages welcome PhD, MS and undergraduate students with relevant AI/robot skills. They do not separately identify external degree-enrolled visitors or summer interns. Direct lab page retrieval failed; no outside-master duration or Summer 2027 invitation is verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantive multimodal reasoning coupled to physical navigation and human-centered construction robotics.",
+      "physical": "Complete collaborative physical experiment; current campus attribution remains limited.",
+      "shortVisit": "Degree-level MS interest is not an outside-master visitor offer.",
+      "freshness": "Full March 2026 technical methods and physical evaluation."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.ce.gatech.edu / source 1",
+        "url": "https://www.ce.gatech.edu/directory/person/francis-baek",
+        "summary": "Official current Assistant Professor, professional email, human-centered robotics/AI research and August 2025 joining after Michigan PhD.",
+        "verifiedAt": "2026-10-01T14:35:35Z"
+      },
+      {
+        "id": "s2",
+        "label": "arxiv.org / source 2",
+        "url": "https://arxiv.org/html/2603.22903v1",
+        "summary": "Full March 2026 paper, methods and physical Go2 evaluation. Michigan-led collaboration; exact apparatus ownership/current Georgia Tech access unverified.",
+        "verifiedAt": "2026-10-01T14:36:48Z"
+      },
+      {
+        "id": "s3",
+        "label": "harmoniclab.ce.gatech.edu / source 3",
+        "url": "https://harmoniclab.ce.gatech.edu/join-hit-laboratory/",
+        "summary": "Complete indexed official group invitation for PhD, MS and undergraduates, with AI/robot control/sensing skills. Direct retrieval failed; outside-degree visitor applicability unspecified.",
+        "verifiedAt": "2026-10-01T14:36:14Z",
+        "retrieval": "Indexed official laboratory invitation; direct retrieval unavailable"
+      },
+      {
+        "id": "s4",
+        "label": "sites.gatech.edu / source 4",
+        "url": "https://sites.gatech.edu/ce-hit/join-hit-laboratory/",
+        "summary": "Older official HIT group page has matching degree-level recruitment, no explicit external visitor or summer invitation; direct retrieval failed.",
+        "verifiedAt": "2026-10-01T14:36:14Z",
+        "retrieval": "Indexed official laboratory invitation; direct retrieval unavailable"
+      },
+      {
+        "id": "s5",
+        "label": "wkdalswns0427.github.io / source 5",
+        "url": "https://wkdalswns0427.github.io/research/",
+        "summary": "Current first-person doctoral researcher names Baek and Yong K. Cho as co-advisors, confirming active Georgia Tech group; humanoid deployment portfolio is not independently scored as learned execution.",
+        "verifiedAt": "2026-10-01T14:36:48Z"
+      },
+      {
+        "id": "s6",
+        "label": "isss.oie.gatech.edu / source 6",
+        "url": "https://isss.oie.gatech.edu/isss/j-scholar-or-j-student-intern-ds-2019-request-process",
+        "summary": "Reused explicit external undergraduate/graduate Student Intern route: home-degree objectives, return to degree, 32 hours/week, up to 12 months and published $1,800/month support.",
+        "verifiedAt": "2026-09-30T22:26:44Z"
+      },
+      {
+        "id": "s7",
+        "label": "isss.oie.gatech.edu / source 7",
+        "url": "https://isss.oie.gatech.edu/exchange-visitors-faqs",
+        "summary": "Reused self-funded or department-funded Student Intern rules and faculty/department initiation; administrative fee may be charged to department or visitor.",
+        "verifiedAt": "2026-09-30T22:25:15Z"
+      }
+    ],
+    "unknowns": [
+      "Exact university start is August 2025; this is a current research appointment following Michigan doctoral training.",
+      "Real robot evidence is a current Michigan–Georgia Tech collaboration, not proof of Baek-owned Georgia Tech hardware or host-campus availability.",
+      "The evaluated capability is autonomous target positioning with natural-language updates; manipulation, construction operations and field-site deployment are not established.",
+      "Generic MS recruitment is not treated as an invitation for an external master’s visit. Duration, funding, remote options and Summer 2027 supervision require confirmation.",
+      "Existing Georgia Tech Student Intern policy explicitly includes external graduate students, requires home-degree relevance and return, at least 32 hours/week and no more than 12 months. Department/OIE classification and approval remain necessary.",
+      "Existing guidance allows self-funding or departmental sponsorship and lists $1,800/month proof of support. This is not an all-in cost or university bill; insurance, travel, administrative charges and 2027 amounts need confirmation.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional review](../eligibility_notes.md#georgia-tech-student-intern); policy observations retain their stated dates."
+    ],
+    "publicEmail": "francis.baek@ce.gatech.edu",
+    "appointmentStart": {
+      "year": 2025,
+      "month": 8,
+      "precision": "month",
+      "status": "current",
+      "sourceIds": [
+        "s1"
+      ],
+      "evidence": "Official directory explicitly states August 2025 faculty joining after Michigan PhD.",
+      "appointmentType": "unresolved"
+    }
+  }
+]

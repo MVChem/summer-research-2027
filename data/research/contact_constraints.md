@@ -214,3 +214,9 @@
 - **当前表单停止收件；招募邮箱仍明确欢迎intern/visitor询问，不改写成不接收访客或2027关闭**
 - 核查：2026-10-01T14:27:56Z · [来源1](https://taco-group.github.io/) · [来源2](https://docs.google.com/forms/u/0/d/e/1FAIpQLSf63eX33LTNmb_vzDFQJW2CINC3ZjLjSOJP2RISfv_TDTKcpA/closedform)
 
+### Hugh M. Herr（新增候选）
+
+- 适用范围：Formal Visiting Student route versus unavailable volunteer/intern program
+- **正式Visiting Student仍可询问；另外不设volunteer/intern项目，机构/奖学金/项目支持必要，不宣称个人存款即可或所有访客关闭**
+- 核查：2026-10-01T11:33:48Z · [来源1](https://www.media.mit.edu/groups/biomechatronics/frequently-asked-questions/)
+

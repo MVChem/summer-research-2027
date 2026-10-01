@@ -1,0 +1,289 @@
+[
+  {
+    "id": "binghan-he",
+    "name": "Binghan He",
+    "aliases": [],
+    "school": "University of Texas at San Antonio",
+    "homepage": "https://www.isabe-lab.com/",
+    "title": "Assistant Professor",
+    "department": "Mechanical, Aerospace, and Industrial Engineering",
+    "batch": "hri-105",
+    "discoveredAt": "2026-10-01T13:13:56Z",
+    "verifiedAt": "2026-10-01T13:24:28Z",
+    "researchAreas": [
+      "Physical human-robot interaction",
+      "Learned human-impedance estimation",
+      "Safe learning-based control",
+      "Exoskeletons and bionics"
+    ],
+    "fitReason": "A recent Assistant Professor with a current graduate lab and an AI-relevant assistive-control agenda. The verified learned physical experiment is older, from his UT Austin doctoral period, so current UTSA apparatus and new learning experiments remain separate unknowns.",
+    "physicalEvidence": {
+      "status": "historical-or-indirect",
+      "summary": "Full ACC 2020 methods train a subject-specific random forest on EMG, stretch, position and velocity signals. Its online stiffness estimate changes compliance-shaping gains on an actual Apptronik P0 elbow exoskeleton, with physical stability and bandwidth tests. The study uses one participant, at UT Austin; it is not evidence of current UTSA hardware or cross-person generalization. The later MRI actuator work alone does not establish neural control.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The live ISABEL joining page advertises one full-time Spring/Fall 2027 PhD position and explicitly lists safe learning-based control, deep learning and reinforcement learning. It does not invite external master’s visitors. Current local MS/PhD students and undergraduate interns are evidence of mentoring, not a Summer 2027 outside-master offer.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "scores": {
+      "fit": 35,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "Substantive learned human-state estimation linked to assistive control, with a current safe-learning agenda.",
+      "physical": "Detailed real older doctoral-period experiment, capped at 20; current UTSA execution not established.",
+      "shortVisit": "The current 2027 PhD vacancy is not a visiting-master route.",
+      "freshness": "Current recruitment and active group verified, but the full executed learning anchor is 2020; no maximum freshness from a new title."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "klesse.utsa.edu / source 1",
+        "url": "https://klesse.utsa.edu/faculty/profiles/binghan-he.html",
+        "summary": "Current official Assistant Professor title, department, professional email and lab link.",
+        "verifiedAt": "2026-10-01T13:24:28Z"
+      },
+      {
+        "id": "s2",
+        "label": "pe.linkedin.com / source 2",
+        "url": "https://pe.linkedin.com/posts/utsa-department-of-mechanical-aerospace-industrial-engineering_mechanical-kleese-engineering-activity-7279734831494701056-sHPO",
+        "summary": "Official department announcement expressly places his joining in 2025; current directory confirms appointment. Social-post provenance retained.",
+        "verifiedAt": "2026-10-01T13:21:07Z"
+      },
+      {
+        "id": "s3",
+        "label": "www.isabe-lab.com / source 3",
+        "url": "https://www.isabe-lab.com/people",
+        "summary": "Current PI role, graduate advisees and UTSA lab activity; prior Berkeley and UT Austin roles remain distinct.",
+        "verifiedAt": "2026-10-01T13:19:44Z"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/pdf/1910.12902",
+        "summary": "Full 2020 paper, especially II and III-B/C: trained random-forest stiffness prediction changes actual exoskeleton gains; single-subject former-UT-Austin validation.",
+        "verifiedAt": "2026-10-01T13:20:25Z"
+      },
+      {
+        "id": "s5",
+        "label": "www.isabe-lab.com / source 5",
+        "url": "https://www.isabe-lab.com/joining",
+        "summary": "Current Spring/Fall 2027 PhD vacancy and explicit safe-learning/DL/RL agenda; no external-master visit invitation.",
+        "verifiedAt": "2026-10-01T13:20:38Z"
+      },
+      {
+        "id": "s6",
+        "label": "www.isabe-lab.com / source 6",
+        "url": "https://www.isabe-lab.com/research",
+        "summary": "Current exoskeleton, shared-autonomy and safe-control agenda. Bayesian intent inference and classical controller components are distinguished.",
+        "verifiedAt": "2026-10-01T13:19:44Z"
+      },
+      {
+        "id": "s7",
+        "label": "global.utsa.edu / source 7",
+        "url": "https://global.utsa.edu/students/forms/",
+        "summary": "Current form directory requires contacting International Services for present J-1 request forms.",
+        "verifiedAt": "2026-10-01T13:23:44Z"
+      },
+      {
+        "id": "s8",
+        "label": "global.utsa.edu / source 8",
+        "url": "https://global.utsa.edu/faculty-scholars/J-1-arrival-and-departure.html",
+        "summary": "Institutional scholar duration/insurance/orientation information; not proof of outside-master qualification.",
+        "verifiedAt": "2026-10-01T13:22:30Z"
+      }
+    ],
+    "unknowns": [
+      "New-institution appointment year 2025 is supported by an official department social announcement; exact month/day and first-ever faculty date are not established.",
+      "Summer 2027 external-master hosting, visit length, project availability, remote collaboration, funding and current UTSA learned-hardware access remain unknown.",
+      "UTSA’s live forms page directs departments to request current forms. Indexed 2020/2022 packets differ on Student Intern scope and return 404 when fetched live, so external-master classification and personal-only funding require International Services review.",
+      "Historical $1,500/month figures and short internal processing estimates are not confirmed current 2027 requirements; fees, insurance and full lead time remain to be established. Use the dated UT San Antonio institutional section.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional review](../eligibility_notes.md#ut-san-antonio); policy observations retain their stated dates."
+    ],
+    "publicEmail": "binghan.he@utsa.edu",
+    "appointmentStart": {
+      "year": 2025,
+      "precision": "year",
+      "status": "current",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ],
+      "evidence": "The department’s public year-end announcement explicitly places Binghan He among faculty joining in 2025; the current university directory verifies the completed Assistant Professor appointment. Month/day are not established. The source is an official department social post, not an independently dated university hire article.",
+      "appointmentType": "unresolved"
+    }
+  },
+  {
+    "id": "zhu-wang",
+    "name": "Zhu Wang",
+    "aliases": [
+      "王铸"
+    ],
+    "school": "University of New Mexico",
+    "homepage": "https://cs.unm.edu/~zhuwang/",
+    "title": "Assistant Professor of Computer Science; MIRAI Lab Director",
+    "department": "Computer Science; MIRAI Lab",
+    "batch": "hri-105",
+    "discoveredAt": "2026-10-01T13:15:39Z",
+    "verifiedAt": "2026-10-01T13:24:28Z",
+    "researchAreas": [
+      "Spatial human-AI interaction",
+      "Generative 3D environments",
+      "Extended reality",
+      "Multimodal interfaces",
+      "Human-robot interaction"
+    ],
+    "fitReason": "Explicit spatial-AI research backup under the recent-AP priority. Full generative-terrain methods establish more than generic HCI, and the current lab separately recruits research interns; robot execution remains unverified.",
+    "physicalEvidence": {
+      "status": "unverified",
+      "summary": "The full VRST 2024 study uses Pix2Pix conditional GANs trained on satellite-derived terrain height maps, integrated with Quest 3 hand sketches to produce editable virtual terrain. Eight participants evaluated usability without a baseline. This is executed XR/spatial-AI software, not learned robot actuation. Separate tabletop robot and shape-changing-interface titles are not used as proof that the same learned method controls physical robots.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "The current MIRAI lab explicitly recruits research interns each year. The PI’s university homepage separately welcomes undergraduate and master’s research inquiries. External-institution eligibility, an eight-week summer duration, payment and remote participation are not specified; this is a generic inquiry route rather than a confirmed Summer 2027 slot.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9"
+      ]
+    },
+    "scores": {
+      "fit": 32,
+      "physical": 0,
+      "shortVisit": 8,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "Verified generative spatial interaction method; less direct robot-learning fit.",
+      "physical": "XR and terrain generation do not demonstrate learned robot execution.",
+      "shortVisit": "Explicit current generic research-intern invitation earns inquiry-level8; separate master interest does not independently establish outside-master eligibility, duration or acceptance.",
+      "freshness": "Full 2024 technical anchor and 2025 group/co-advising evidence; no dated 2026 research method or summer cycle established."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "advance.unm.edu / source 1",
+        "url": "https://advance.unm.edu/dr-zhu-wang-computer-science/",
+        "summary": "Official 2025–26 faculty feature identifies current CS Assistant Professor and XR/robotics/AI agenda.",
+        "verifiedAt": "2026-10-01T13:23:44Z"
+      },
+      {
+        "id": "s2",
+        "label": "cs.unm.edu / source 2",
+        "url": "https://cs.unm.edu/directory/faculty-profiles/cvs/cv_zw_aug2025.pdf",
+        "summary": "Department-hosted first-person CV dates current appointment to August 2025; distinguished from independent university start evidence.",
+        "verifiedAt": "2026-10-01T13:22:13Z"
+      },
+      {
+        "id": "s3",
+        "label": "cs.unm.edu / source 3",
+        "url": "https://cs.unm.edu/~zhuwang/",
+        "summary": "Current university-hosted PI page, research scope and separate undergraduate/master’s inquiry language.",
+        "verifiedAt": "2026-10-01T13:19:57Z"
+      },
+      {
+        "id": "s4",
+        "label": "mirai.cs.unm.edu / source 4",
+        "url": "https://mirai.cs.unm.edu/",
+        "summary": "Current lab established 2025, explicit annual research-intern recruitment and professional email.",
+        "verifiedAt": "2026-10-01T13:20:38Z"
+      },
+      {
+        "id": "s5",
+        "label": "cs.unm.edu / source 5",
+        "url": "https://cs.unm.edu/~zhuwang/assets/pdf/VR_Terrain_Generation_VRST_2024.pdf",
+        "summary": "Full technical paper: trained Pix2Pix height-map translation inside an interactive VR terrain-authoring pipeline; no robot-actuation experiment.",
+        "verifiedAt": "2026-10-01T13:23:23Z"
+      },
+      {
+        "id": "s6",
+        "label": "cs.unm.edu / source 6",
+        "url": "https://cs.unm.edu/~zhuwang/publications/",
+        "summary": "2024 paper marked equal co-advising; separate 2025 HCI/robot-interface work retained without assuming learned physical control.",
+        "verifiedAt": "2026-10-01T13:20:38Z"
+      },
+      {
+        "id": "s7",
+        "label": "isss.unm.edu / source 7",
+        "url": "https://isss.unm.edu/scholars/department-info/overview.html",
+        "summary": "Conditional paid/unpaid scholar appointments and at least three-month preparation recommendation; no automatic master’s classification.",
+        "verifiedAt": "2026-10-01T13:22:13Z"
+      },
+      {
+        "id": "s8",
+        "label": "isss.unm.edu / source 8",
+        "url": "https://isss.unm.edu/scholars/department-info/scholar-coordinator-training-20240920.pdf",
+        "summary": "Currently linked 2024 category/academic-preparation and $2,000/month guidance; recheck for 2027.",
+        "verifiedAt": "2026-10-01T13:22:13Z"
+      },
+      {
+        "id": "s9",
+        "label": "isss.unm.edu / source 9",
+        "url": "https://isss.unm.edu/assets/documents/j1-coordinator-meeting.pdf",
+        "summary": "Current-linked Fall 2025 full PDF: $200 new/transfer charge; self-funded scholar insurance discussion, not blanket personal-only funding permission.",
+        "verifiedAt": "2026-10-01T13:23:52Z"
+      }
+    ],
+    "unknowns": [
+      "Current institution start is 2025, with August reported in the department-hosted CV; do not substitute the July 21 feature publication date for the start date.",
+      "This row is a spatial-AI/Human-AI backup with physical score 0. Former NYU research and current UNM lab establishment are distinct; current learned robotic execution is not verified.",
+      "Generic master’s interest plus an intern invitation does not automatically confirm that visiting external master’s students qualify. Summer 2027 capacity, duration, funding and remote work remain unknown.",
+      "UNM’s current scholar framework offers potential Short-Term Scholar review, with relevant preparation/experience and host sponsorship. Student Intern sponsorship was not established. Personal-only funds require office confirmation; use the dated New Mexico section for current versus historical funding/fee evidence.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional review](../eligibility_notes.md#new-mexico); policy observations retain their stated dates."
+    ],
+    "publicEmail": "zhuwang@unm.edu",
+    "appointmentStart": {
+      "year": 2025,
+      "precision": "year",
+      "status": "current",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ],
+      "evidence": "University 2025–26 faculty cohort confirms the new Assistant Professor appointment. The department-hosted, first-person CV gives August 2025, retained as supporting detail rather than an independently verified month.",
+      "appointmentType": "unresolved"
+    },
+    "candidateTier": "空间AI/人机感知备选；无已核实机器人执行"
+  }
+]

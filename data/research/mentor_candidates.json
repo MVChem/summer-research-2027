@@ -102,7 +102,9 @@
     "batches/control-091.json",
     "batches/control-092.json",
     "batches/control-093.json",
+    "batches/control-094.json",
     "batches/control-095.json",
+    "batches/control-097.json",
     "batches/control-101.json",
     "batches/control-106.json",
     "batches/control-107.json",
@@ -302,6 +304,7 @@
     "batches/hri-088.json",
     "batches/hri-089.json",
     "batches/hri-091.json",
+    "batches/hri-093.json",
     "batches/hri-094.json",
     "batches/hri-096.json",
     "batches/hri-097.json",
@@ -310,9 +313,15 @@
     "batches/hri-100.json",
     "batches/hri-101.json",
     "batches/hri-103.json",
+    "batches/hri-105.json",
     "batches/hri-107.json",
+    "batches/hri-108.json",
+    "batches/hri-109.json",
     "batches/hri-110.json",
-    "batches/hri-111.json"
+    "batches/hri-111.json",
+    "batches/hri-113.json",
+    "batches/hri-114.json",
+    "batches/hri-115.json"
   ],
   "candidates": [
     {
@@ -5472,6 +5481,34 @@
       "detailPage": "batches/control-093.md#hakki-erhan-sevil"
     },
     {
+      "id": "micah-corah",
+      "name": "Micah Corah",
+      "aliases": [],
+      "school": "Colorado School of Mines",
+      "title": "Assistant Professor",
+      "homepage": "https://www.micahcorah.com/",
+      "batch": "control-094",
+      "discoveredAt": "2026-10-01T10:34:43Z",
+      "verifiedAt": "2026-10-01T10:36:26Z",
+      "scores": {
+        "fit": 36,
+        "physical": 23,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Safe model-based reinforcement learning",
+        "Active robot perception",
+        "Language-guided aerial robotics",
+        "Multi-robot exploration and coordination"
+      ],
+      "physicalEvidenceStatus": "Verified current-host supervised physical prototype, with limited evaluation and external sensing",
+      "physicalEvidenceLabel": "受限真机证据：Verified current-host supervised physical prototype, with limited evaluation and external sensing",
+      "shortVisitStatus": "precedent-only · 已核实以往外校硕士；当前访客名额未定",
+      "recordFile": "batches/control-094.json",
+      "detailPage": "batches/control-094.md#micah-corah"
+    },
+    {
       "id": "xuan-wang",
       "name": "Xuan Wang",
       "aliases": [
@@ -5500,6 +5537,39 @@
       "shortVisitStatus": "inquiry-only · generic intern；GMU不赞助intern身份，硕士类别未定",
       "recordFile": "batches/control-095.json",
       "detailPage": "batches/control-095.md#xuan-wang"
+    },
+    {
+      "id": "xianlian-zhou",
+      "name": "Xianlian Zhou",
+      "aliases": [
+        "Xianlian Alex Zhou",
+        "Xianlian A. Zhou",
+        "Alex Zhou (NJIT)"
+      ],
+      "school": "New Jersey Institute of Technology",
+      "title": "Associate Professor",
+      "homepage": "https://web.njit.edu/~alexzhou/",
+      "batch": "control-097",
+      "discoveredAt": "2026-10-01T11:05:37Z",
+      "verifiedAt": "2026-10-01T11:07:30Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Multi-agent reinforcement learning for exoskeletons",
+        "Musculoskeletal simulation and sim-to-real transfer",
+        "Co-adaptive wearable robot control",
+        "Biomechanics-informed robot learning"
+      ],
+      "discoveryTimestampNote": "First precisely preserved source-observation time; earlier incidental lead time and source are unavailable and were not reconstructed.",
+      "physicalEvidenceStatus": "Current directed-group actual physical RL exoskeletons; small healthy-adult studies and collaborator access limits explicit",
+      "physicalEvidenceLabel": "受限真机证据：Current directed-group actual physical RL exoskeletons; small healthy-adult studies and collaborator access limits explicit",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-097.json",
+      "detailPage": "batches/control-097.md#xianlian-zhou"
     },
     {
       "id": "ziran-wang",
@@ -15612,6 +15682,40 @@
       "detailPage": "batches/hri-091.md#louis-philippe-morency"
     },
     {
+      "id": "hugh-m-herr",
+      "name": "Hugh M. Herr",
+      "aliases": [
+        "Hugh Herr",
+        "Hugh M Herr"
+      ],
+      "school": "Massachusetts Institute of Technology",
+      "title": "Professor of Media Arts and Sciences",
+      "homepage": "https://www.media.mit.edu/people/hherr/overview/",
+      "batch": "hri-093",
+      "discoveredAt": "2026-10-01T03:26:24Z",
+      "verifiedAt": "2026-10-01T11:33:48Z",
+      "scores": {
+        "fit": 36,
+        "physical": 0,
+        "shortVisit": 10,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Adaptive neural decoding for prostheses",
+        "Hybrid learned and biophysical controllers",
+        "Human-machine neural interfaces",
+        "Online learning from EMG",
+        "Bionic limbs and assistive robotics"
+      ],
+      "discoveryTimestampNote": "Earliest precisely retained dedicated screening time; the visitor FAQ was first retained at11:29:32Z and fully read on the later verification date. No earlier incidental discovery was reconstructed.",
+      "candidateTier": "神经解码/辅助机器人方法备选；实际学习驱动义肢未核",
+      "physicalEvidenceStatus": "unverified",
+      "physicalEvidenceLabel": "真机待核实",
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/hri-093.json",
+      "detailPage": "batches/hri-093.md#hugh-m-herr"
+    },
+    {
       "id": "karan-ahuja",
       "name": "Karan Ahuja",
       "aliases": [],
@@ -15951,6 +16055,66 @@
       "detailPage": "batches/hri-103.md#serena-booth"
     },
     {
+      "id": "binghan-he",
+      "name": "Binghan He",
+      "aliases": [],
+      "school": "University of Texas at San Antonio",
+      "title": "Assistant Professor",
+      "homepage": "https://www.isabe-lab.com/",
+      "batch": "hri-105",
+      "discoveredAt": "2026-10-01T13:13:56Z",
+      "verifiedAt": "2026-10-01T13:24:28Z",
+      "scores": {
+        "fit": 35,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Physical human-robot interaction",
+        "Learned human-impedance estimation",
+        "Safe learning-based control",
+        "Exoskeletons and bionics"
+      ],
+      "physicalEvidenceStatus": "historical-or-indirect",
+      "physicalEvidenceLabel": "受限真机证据：historical-or-indirect",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-105.json",
+      "detailPage": "batches/hri-105.md#binghan-he"
+    },
+    {
+      "id": "zhu-wang",
+      "name": "Zhu Wang",
+      "aliases": [
+        "王铸"
+      ],
+      "school": "University of New Mexico",
+      "title": "Assistant Professor of Computer Science; MIRAI Lab Director",
+      "homepage": "https://cs.unm.edu/~zhuwang/",
+      "batch": "hri-105",
+      "discoveredAt": "2026-10-01T13:15:39Z",
+      "verifiedAt": "2026-10-01T13:24:28Z",
+      "scores": {
+        "fit": 32,
+        "physical": 0,
+        "shortVisit": 8,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Spatial human-AI interaction",
+        "Generative 3D environments",
+        "Extended reality",
+        "Multimodal interfaces",
+        "Human-robot interaction"
+      ],
+      "candidateTier": "空间AI/人机感知备选；无已核实机器人执行",
+      "physicalEvidenceStatus": "unverified",
+      "physicalEvidenceLabel": "真机待核实",
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/hri-105.json",
+      "detailPage": "batches/hri-105.md#zhu-wang"
+    },
+    {
       "id": "yi-ding",
       "name": "Yi Ding",
       "aliases": [],
@@ -16005,6 +16169,69 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-107.json",
       "detailPage": "batches/hri-107.md#lindsay-sanneman"
+    },
+    {
+      "id": "liang-he",
+      "name": "Liang He",
+      "aliases": [
+        "何亮"
+      ],
+      "school": "University of Texas at Dallas",
+      "title": "Assistant Professor of Computer Science; DE4M Lab Director",
+      "homepage": "https://lianghe.me/",
+      "batch": "hri-108",
+      "discoveredAt": "2026-10-01T13:41:56Z",
+      "verifiedAt": "2026-10-01T13:45:09Z",
+      "scores": {
+        "fit": 32,
+        "physical": 0,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Accessible spatial AI",
+        "Multimodal language-grounded 3D modeling",
+        "AI-assisted digital fabrication",
+        "Interactive physical agents and haptic interfaces"
+      ],
+      "candidateTier": "空间AI/人机感知备选；无已核实机器人执行",
+      "physicalEvidenceStatus": "unverified",
+      "physicalEvidenceLabel": "真机待核实",
+      "shortVisitStatus": "precedent-only",
+      "recordFile": "batches/hri-108.json",
+      "detailPage": "batches/hri-108.md#liang-he"
+    },
+    {
+      "id": "junyi-zhu",
+      "name": "Junyi Zhu",
+      "aliases": [
+        "朱均逸"
+      ],
+      "school": "University of Michigan",
+      "title": "Assistant Professor",
+      "homepage": "https://www.junyizhu.com/",
+      "batch": "hri-109",
+      "discoveredAt": "2026-10-01T13:43:58Z",
+      "verifiedAt": "2026-10-01T13:58:17Z",
+      "scores": {
+        "fit": 34,
+        "physical": 0,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Learned 3D hand-pose sensing",
+        "Human-computer interaction",
+        "Impedance and tactile sensing",
+        "Interactive embodied interfaces"
+      ],
+      "discoveryTimestampNote": "Earliest precisely retained name observation was a coauthor entry in Liang He’s CV read at 13:43:58Z. Dedicated current-faculty verification began at 13:53:47Z; neither timestamp is reconstructed from a website publication date.",
+      "candidateTier": "空间AI/人机感知备选；无已核实机器人执行",
+      "physicalEvidenceStatus": "unverified",
+      "physicalEvidenceLabel": "真机待核实",
+      "shortVisitStatus": "precedent-only",
+      "recordFile": "batches/hri-109.json",
+      "detailPage": "batches/hri-109.md#junyi-zhu"
     },
     {
       "id": "gilbert-yang-ye",
@@ -16101,6 +16328,100 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-111.json",
       "detailPage": "batches/hri-111.md#jaylin-herskovitz"
+    },
+    {
+      "id": "randi-williams",
+      "name": "Randi Williams",
+      "aliases": [
+        "Randi C. Williams"
+      ],
+      "school": "Carnegie Mellon University",
+      "title": "Assistant Research Professor",
+      "homepage": "https://hcii.cmu.edu/people/randi-williams",
+      "batch": "hri-113",
+      "discoveredAt": "2026-10-01T05:30:26Z",
+      "verifiedAt": "2026-10-01T14:27:10Z",
+      "scores": {
+        "fit": 34,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Human-robot interaction",
+        "Generative robot drawing",
+        "AI literacy and educational robots",
+        "Human-agent interaction"
+      ],
+      "discoveryTimestampNote": "Earliest precisely preserved dedicated source screen; the initial incidental lead time was not reconstructed.",
+      "candidateTier": "大学研究轨faculty；非tenure-track新AP组",
+      "physicalEvidenceStatus": "historical-or-indirect",
+      "physicalEvidenceLabel": "受限真机证据：historical-or-indirect",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-113.json",
+      "detailPage": "batches/hri-113.md#randi-williams"
+    },
+    {
+      "id": "lidia-al-zogbi",
+      "name": "Lidia Al-Zogbi",
+      "aliases": [
+        "Lidia Al Zogbi",
+        "Lidia Alzogbi"
+      ],
+      "school": "Tufts University",
+      "title": "Assistant Professor of Electrical and Computer Engineering",
+      "homepage": "https://engineering.tufts.edu/ece/people/faculty/lidia-al-zogbi",
+      "batch": "hri-114",
+      "discoveredAt": "2026-10-01T14:27:35Z",
+      "verifiedAt": "2026-10-01T14:29:30Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Autonomous medical robotics",
+        "Learned ultrasound perception",
+        "Surgical scene reconstruction",
+        "Multimodal sensor fusion",
+        "Embodied AI"
+      ],
+      "discoveryTimestampNote": "Earliest precisely retained individual university-announcement observation; direct current-role verification followed. No earlier encounter time was reconstructed.",
+      "physicalEvidenceStatus": "historical-or-indirect",
+      "physicalEvidenceLabel": "受限真机证据：historical-or-indirect",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-114.json",
+      "detailPage": "batches/hri-114.md#lidia-al-zogbi"
+    },
+    {
+      "id": "francis-baek",
+      "name": "Francis Baek",
+      "aliases": [],
+      "school": "Georgia Institute of Technology",
+      "title": "Assistant Professor of Civil and Environmental Engineering",
+      "homepage": "https://www.ce.gatech.edu/directory/person/francis-baek",
+      "batch": "hri-115",
+      "discoveredAt": "2026-10-01T14:34:27Z",
+      "verifiedAt": "2026-10-01T14:36:48Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-centered construction robotics",
+        "Multimodal robot reasoning",
+        "Language-guided navigation",
+        "Human-response sensing",
+        "Human-robot collaboration"
+      ],
+      "physicalEvidenceStatus": "historical-or-indirect",
+      "physicalEvidenceLabel": "受限真机证据：historical-or-indirect",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-115.json",
+      "detailPage": "batches/hri-115.md#francis-baek"
     }
   ]
 }

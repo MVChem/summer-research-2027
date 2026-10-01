@@ -2939,6 +2939,163 @@
         ],
         "evidence": "Earlier ASU-hosted CV dates NJIT Assistant Professor September 2021–July 2023."
       }
+    },
+    "binghan-he": {
+      "appointmentStart": {
+        "year": 2025,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "evidence": "The department’s public year-end announcement explicitly places Binghan He among faculty joining in 2025; the current university directory verifies the completed Assistant Professor appointment. Month/day are not established. The source is an official department social post, not an independently dated university hire article.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2025（官方院系社交公告及当前目录）",
+      "caveat": "早期UT Austin RF驱动肘外骨骼；当前只公布2027 PhD招募，访客未知；旧UTSA申请包404，类别/资金须问现行办公室",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://klesse.utsa.edu/faculty/profiles/binghan-he.html",
+          "observedAt": "2026-10-01T13:24:28Z",
+          "evidence": "Current official Assistant Professor title, department, professional email and lab link."
+        },
+        {
+          "id": "s2",
+          "url": "https://pe.linkedin.com/posts/utsa-department-of-mechanical-aerospace-industrial-engineering_mechanical-kleese-engineering-activity-7279734831494701056-sHPO",
+          "observedAt": "2026-10-01T13:21:07Z",
+          "evidence": "Official department announcement expressly places his joining in 2025; current directory confirms appointment. Social-post provenance retained."
+        }
+      ]
+    },
+    "zhu-wang": {
+      "appointmentStart": {
+        "year": 2025,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "evidence": "University 2025–26 faculty cohort confirms the new Assistant Professor appointment. The department-hosted, first-person CV gives August 2025, retained as supporting detail rather than an independently verified month.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2025（官方）；8月来自本人大学托管CV",
+      "caveat": "空间AI备选、无机器人执行；独立generic intern邀请存在，外校硕士具体资格未核，8分",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://advance.unm.edu/dr-zhu-wang-computer-science/",
+          "observedAt": "2026-10-01T13:23:44Z",
+          "evidence": "Official 2025–26 faculty feature identifies current CS Assistant Professor and XR/robotics/AI agenda."
+        },
+        {
+          "id": "s2",
+          "url": "https://cs.unm.edu/directory/faculty-profiles/cvs/cv_zw_aug2025.pdf",
+          "observedAt": "2026-10-01T13:22:13Z",
+          "evidence": "Department-hosted first-person CV dates current appointment to August 2025; distinguished from independent university start evidence."
+        }
+      ]
+    },
+    "liang-he": {
+      "appointmentStart": {
+        "year": 2025,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "evidence": "Official UT Dallas profile dates the CS Assistant Professor appointment 2025–present and prior Purdue Interactive Media AP role 2022–2025. The PI CV independently reports August 2025 at month precision, retained as first-person detail rather than official month verification.",
+        "appointmentType": "institution-move"
+      },
+      "display": "2025转入UTD；此前Purdue AP2022–2025",
+      "caveat": "明确转校；空间3D辅助软件，无机器人执行；表单401与历史访客不等于当前拒绝或邀请",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://profiles.utdallas.edu/liang.he",
+          "observedAt": "2026-10-01T13:43:58Z",
+          "evidence": "Official current title, lab/personal links, 2025–present UTD appointment and prior Purdue 2022–2025 AP appointment."
+        },
+        {
+          "id": "s2",
+          "url": "https://lianghe.me/cv/Liang_CV_2026_JUNE.pdf",
+          "observedAt": "2026-10-01T13:43:58Z",
+          "evidence": "Full first-person CV reports August 2025 UTD start and prior faculty experience; professional email."
+        }
+      ]
+    },
+    "junyi-zhu": {
+      "appointmentStart": {
+        "year": 2025,
+        "month": 1,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "s1"
+        ],
+        "evidence": "Official April 14, 2025 Michigan ECE new-faculty Q&A explicitly states January 2025 joining; retrieved from complete indexed primary article text, with direct fetch unavailable.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2025-01（官方全文索引；直接提取失败）",
+      "caveat": "学习3D手势感知备选、无机器人动作；以往外校MS四个月访问仅作先例，非当前最低期限或邀请",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://ece.engin.umich.edu/stories/qa-with-new-faculty-member-junyi-zhu",
+          "observedAt": "2026-10-01T13:55:58Z",
+          "evidence": "Official April 14, 2025 ECE feature explicitly dates joining to January 2025 and identifies Assistant Professor and SIX Lab. Full indexed primary text was available; direct article fetch failed."
+        }
+      ]
+    },
+    "lidia-al-zogbi": {
+      "appointmentStart": {
+        "year": 2026,
+        "month": 8,
+        "day": 1,
+        "precision": "day",
+        "status": "current",
+        "sourceIds": [
+          "s2"
+        ],
+        "evidence": "Official Tufts July 20, 2026 introduction gives August 1, 2026 effective appointment date.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2026-08-01（官方任命生效日）",
+      "caveat": "前JHU真实UR10e扫描定位，针尖仍需人工标注；当前Tufts设备/外校访客未知，不推断临床准入",
+      "sources": [
+        {
+          "id": "s2",
+          "url": "https://engineering.tufts.edu/news-events/news/lidia-al-zogbi-joins-department-electrical-and-computer-engineering",
+          "observedAt": "2026-10-01T14:28:51Z",
+          "evidence": "Full official July 20 introduction explicitly dates appointment effective August 1, 2026, following Vanderbilt postdoc and JHU PhD."
+        }
+      ]
+    },
+    "francis-baek": {
+      "appointmentStart": {
+        "year": 2025,
+        "month": 8,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "s1"
+        ],
+        "evidence": "Official directory explicitly states August 2025 faculty joining after Michigan PhD.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2025-08（官方当前目录）",
+      "caveat": "Go2真实定位来自Michigan合作；95/103任务与37/45完整session分开，非操作/施工现场；泛MS招募未证明访客",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.ce.gatech.edu/directory/person/francis-baek",
+          "observedAt": "2026-10-01T14:35:35Z",
+          "evidence": "Official current Assistant Professor, professional email, human-centered robotics/AI research and August 2025 joining after Michigan PhD."
+        }
+      ]
     }
   },
   "constraints": [
@@ -3564,6 +3721,21 @@
         {
           "url": "https://docs.google.com/forms/u/0/d/e/1FAIpQLSf63eX33LTNmb_vzDFQJW2CINC3ZjLjSOJP2RISfv_TDTKcpA/closedform",
           "evidence": "Form title names Zhengzhong Tu CSE@TAMU; public Chinese notice states the form no longer accepts responses. Reached from known current-linked https://tinyurl.com/zhvvm85y; no bypass or submission attempted."
+        }
+      ]
+    },
+    {
+      "key": "hugh-herr-formal-visit-only",
+      "candidateId": "hugh-m-herr",
+      "name": "Hugh M. Herr",
+      "kind": "capacity-or-role",
+      "scope": "Formal Visiting Student route versus unavailable volunteer/intern program",
+      "summary": "正式Visiting Student仍可询问；另外不设volunteer/intern项目，机构/奖学金/项目支持必要，不宣称个人存款即可或所有访客关闭",
+      "observedAt": "2026-10-01T11:33:48Z",
+      "sources": [
+        {
+          "url": "https://www.media.mit.edu/groups/biomechatronics/frequently-asked-questions/",
+          "evidence": "Live formal domestic/international visiting-student invitation, administrator contact, institution/fellowship/program funding condition and separate absence of volunteer/intern program."
         }
       ]
     }

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "junyi-zhu",
+    "name": "Junyi Zhu",
+    "aliases": [
+      "朱均逸"
+    ],
+    "school": "University of Michigan",
+    "homepage": "https://www.junyizhu.com/",
+    "title": "Assistant Professor",
+    "department": "Electrical and Computer Engineering; Sensing, Intelligence and eXperience (SIX) Lab",
+    "batch": "hri-109",
+    "discoveredAt": "2026-10-01T13:43:58Z",
+    "verifiedAt": "2026-10-01T13:58:17Z",
+    "researchAreas": [
+      "Learned 3D hand-pose sensing",
+      "Human-computer interaction",
+      "Impedance and tactile sensing",
+      "Interactive embodied interfaces"
+    ],
+    "fitReason": "Verified January 2025 Assistant Professor, suitable as a lower-physical-confidence embodied-sensing and spatial-interface backup. Detailed learned hand-pose estimation is established, but no robot action loop or current outside-master invitation is verified.",
+    "physicalEvidence": {
+      "status": "unverified",
+      "summary": "Full CHI 2024 EITPose uses 48 impedance features with 100-tree ExtraTrees regression to predict 21 three-dimensional hand keypoints, plus a separate gesture classifier. The 22-person evaluation reports mean joint errors of 11.06 mm within session, 17.81 mm across sessions and 18.91 mm across users. This is learned wearable spatial sensing at prior institutions, not robotic actuation. The current lab also lists liquid-sensing gripper work, but its inspected abstract establishes sensing/data collection rather than closed-loop learned manipulation.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9",
+        "s10"
+      ]
+    },
+    "shortVisit": {
+      "status": "precedent-only",
+      "summary": "Current lab joining text specifically welcomes undergraduate researchers, PhD students and postdoctoral fellows. The associated interest form returned 401. A first-person external master-student account documents a four-month 2025 visit, but this precedent is not a current invitation, duration minimum or Summer 2027 offer.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9",
+        "s10"
+      ]
+    },
+    "scores": {
+      "fit": 34,
+      "physical": 0,
+      "shortVisit": 0,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "Substantive learned 3D human-pose method and current embodied-sensing agenda.",
+      "physical": "No learned robot actuation established; spatial-sensing backup only.",
+      "shortVisit": "Current invitation does not explicitly include external master visitors; prior visit alone scores 0.",
+      "freshness": "Detailed technical anchor is 2024 and primary follow-on sensing research is 2025; 2026 lab news is not treated as a verified new robot method."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "ece.engin.umich.edu / source 1",
+        "url": "https://ece.engin.umich.edu/stories/qa-with-new-faculty-member-junyi-zhu",
+        "summary": "Official April 14, 2025 ECE feature explicitly dates joining to January 2025 and identifies Assistant Professor and SIX Lab. Full indexed primary text was available; direct article fetch failed.",
+        "verifiedAt": "2026-10-01T13:55:58Z",
+        "retrieval": "Complete indexed official article; direct fetch unavailable"
+      },
+      {
+        "id": "s2",
+        "label": "midas.umich.edu / source 2",
+        "url": "https://midas.umich.edu/directory/junyi-zhu/",
+        "summary": "Current official Michigan Assistant Professor affiliation and HCI/sensing agenda.",
+        "verifiedAt": "2026-10-01T13:53:47Z"
+      },
+      {
+        "id": "s3",
+        "label": "www.junyizhu.com / source 3",
+        "url": "https://www.junyizhu.com/",
+        "summary": "Current PI role, professional contact, impedance-sensing and 3D hand-pose research; undergraduate/graduate recruitment is generic.",
+        "verifiedAt": "2026-10-01T13:54:18Z"
+      },
+      {
+        "id": "s4",
+        "label": "sixlab-eecs.com / source 4",
+        "url": "https://sixlab-eecs.com/join",
+        "summary": "Read-only publicly served application bundle gives undergraduate, PhD and postdoctoral inquiry categories; not an explicit outside-master visitor invitation. Linked interest form returned 401 Unauthorized and was not bypassed.",
+        "verifiedAt": "2026-10-01T13:55:19Z"
+      },
+      {
+        "id": "s5",
+        "label": "karan-ahuja.com / source 5",
+        "url": "https://karan-ahuja.com/assets/docs/paper/eitpose.pdf",
+        "summary": "Full CHI 2024 author-hosted EITPose paper: ExtraTrees regression/classification from impedance signals; 3D hand-pose evaluation, not robot actuation.",
+        "verifiedAt": "2026-10-01T13:58:17Z"
+      },
+      {
+        "id": "s6",
+        "label": "research.google / source 6",
+        "url": "https://research.google/pubs/ei-lite-electrical-impedance-sensing-for-micro-gesture-recognition-and-pinch-force-estimation/",
+        "summary": "Primary coauthor organization reports the 2025 EI-Lite learned micro-gesture/force-sensing study; full publisher text was unavailable, so not used to establish robotic execution.",
+        "verifiedAt": "2026-10-01T13:55:19Z"
+      },
+      {
+        "id": "s7",
+        "label": "guokaiyi-zzu.github.io / source 7",
+        "url": "https://guokaiyi-zzu.github.io/KaiyiGuo7.github.io/",
+        "summary": "First-person master-student account of a September–December 2025 Michigan research visit. Historical four-month precedent, not a minimum rule or current invitation.",
+        "verifiedAt": "2026-10-01T13:54:07Z"
+      },
+      {
+        "id": "s8",
+        "label": "spg.umich.edu / source 8",
+        "url": "https://spg.umich.edu/policy/601.42",
+        "summary": "Reused Michigan Covered Visitors policy includes external graduate students and remote access; host approval and onboarding required.",
+        "verifiedAt": "2026-10-01T02:02:57Z"
+      },
+      {
+        "id": "s9",
+        "label": "rackham.umich.edu / source 9",
+        "url": "https://rackham.umich.edu/admissions/non-degree-and-guest-students-and-scholars/",
+        "summary": "Reused host-unit administration of graduate research visitors; separate from course-based nondegree study.",
+        "verifiedAt": "2026-10-01T02:02:57Z"
+      },
+      {
+        "id": "s10",
+        "label": "internationalcenter.umich.edu / source 10",
+        "url": "https://internationalcenter.umich.edu/sites/default/files/info/J1_Scholar_Funding.pdf",
+        "summary": "Reused live 2026–27 scholar support requirement of $4,000/month, accepting personal/family sources; $308.72 monthly insurance is deducted in the example, not automatically added. Exact external-master category still needs office decision.",
+        "verifiedAt": "2026-10-01T02:02:57Z"
+      }
+    ],
+    "unknowns": [
+      "External-master applicability, duration, Summer 2027 capacity, funding and remote collaboration remain unresolved. The form access limitation is not a no-visitors finding.",
+      "A September–December 2025 external-master visit demonstrates historical experience only; no minimum-duration rule is inferred.",
+      "Physical score 0 means learned robot execution was not verified. Actual impedance hardware, 3D pose inference and liquid-data collection are kept distinct from robot actuation.",
+      "Michigan feasibility is reused from 2026-10-01T02:02:57Z: external graduate students can fall within Covered Visitors policy, including remote access, subject to host-unit screening, agreements and approval.",
+      "The current 2026–27 scholar funding document accepts personal/family support at $4,000 per month. Its $308.72 monthly insurance is deducted in the example; do not automatically add it. International Center must determine the external-master category before applying scholar funding rules.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: Earliest precisely retained name observation was a coauthor entry in Liang He’s CV read at 13:43:58Z. Dedicated current-faculty verification began at 13:53:47Z; neither timestamp is reconstructed from a website publication date.",
+      "[Institutional review](../eligibility_notes.md#michigan-ann-arbor); policy observations retain their stated dates."
+    ],
+    "discoveryTimestampNote": "Earliest precisely retained name observation was a coauthor entry in Liang He’s CV read at 13:43:58Z. Dedicated current-faculty verification began at 13:53:47Z; neither timestamp is reconstructed from a website publication date.",
+    "publicEmail": "zhujunyi@umich.edu",
+    "appointmentStart": {
+      "year": 2025,
+      "month": 1,
+      "precision": "month",
+      "status": "current",
+      "sourceIds": [
+        "s1"
+      ],
+      "evidence": "Official April 14, 2025 Michigan ECE new-faculty Q&A explicitly states January 2025 joining; retrieved from complete indexed primary article text, with direct fetch unavailable.",
+      "appointmentType": "unresolved"
+    },
+    "candidateTier": "空间AI/人机感知备选；无已核实机器人执行"
+  }
+]

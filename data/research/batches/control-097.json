@@ -1,0 +1,122 @@
+[
+  {
+    "id": "xianlian-zhou",
+    "name": "Xianlian Zhou",
+    "aliases": [
+      "Xianlian Alex Zhou",
+      "Xianlian A. Zhou",
+      "Alex Zhou (NJIT)"
+    ],
+    "school": "New Jersey Institute of Technology",
+    "homepage": "https://web.njit.edu/~alexzhou/",
+    "title": "Associate Professor",
+    "department": "Biomedical Engineering; BioDynamics Laboratory",
+    "batch": "control-097",
+    "discoveredAt": "2026-10-01T11:05:37Z",
+    "verifiedAt": "2026-10-01T11:07:30Z",
+    "researchAreas": [
+      "Multi-agent reinforcement learning for exoskeletons",
+      "Musculoskeletal simulation and sim-to-real transfer",
+      "Co-adaptive wearable robot control",
+      "Biomechanics-informed robot learning"
+    ],
+    "fitReason": "Current BioDynamics PI with a verified current doctoral researcher and two 2026 primary studies deploying learned hip-assistance policies on real human-worn hardware.",
+    "physicalEvidence": {
+      "status": "Current directed-group actual physical RL exoskeletons; small healthy-adult studies and collaborator access limits explicit",
+      "summary": "August 2026 SMAT trains PPO-based human/exoskeleton actors in a four-stage curriculum and deploys the exoskeleton actor on a custom5.94kg hip device, RaspberryPi5,50Hz, IMU observations and bounded motor-torque outputs. Eight healthy adults underwent treadmill metabolic measurement; the reported reduction is19.7% versus the passive device and 9.1% versus no device. Operator supervision/emergency stop remain required. Speed testing involved four participants and outdoor terrain was a one-participant feasibility demonstration. September 2026 UniExo separately distills four human-motion experts, fine-tunes with PPO and co-adapts an exoskeleton actor, then runs a4.23kg device at 100Hz in six participants at four treadmill speeds; one participant completes a mixed-skill route five times. UniExo measures mechanical output rather than metabolism. Neither preprint establishes patient efficacy. Lead Yuan identifies himself as a current BioDynamics doctoral researcher; the work includes Kessler collaboration, without assuming exclusive platform ownership or visitor access.",
+      "sourceIds": [
+        "s2",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The current lab and official faculty pages establish research leadership and contact but no explicit external-master summer invitation. Lead student Yuan’s statement that he is seeking internships is his own job search, not a lab hiring offer. Short-visit capacity, funding, duration and remote options remain unknown.",
+      "sourceIds": [
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct staged/distilled multi-agent RL for sim-to-real wearable control.",
+      "physical": "Two recent complete physical deployment studies, current lead-student membership and faculty lab leadership verified; collaboration and human-study limits retained.",
+      "shortVisit": "No explicit external visitor invitation; current student’s internship search is not a lab opening.",
+      "freshness": "Explicit August and September 2026 methods plus current 2026 lead-student research activity."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "people.njit.edu / source 1",
+        "url": "https://people.njit.edu/profile/alexzhou",
+        "summary": "Current official Associate Professor, BioDynamics director and public contact.",
+        "verifiedAt": "2026-10-01T11:05:37Z",
+        "retrieval": "Direct primary/official source via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "biomedical.njit.edu / source 2",
+        "url": "https://biomedical.njit.edu/research/centers.php",
+        "summary": "Official department confirms current BioDynamics wearable-robotics/AI program and director.",
+        "verifiedAt": "2026-10-01T11:05:37Z",
+        "retrieval": "Direct primary/official source via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "web.njit.edu / source 3",
+        "url": "https://web.njit.edu/~alexzhou/",
+        "summary": "Current-linked lab research and contact; no outside-master short-visit invitation verified.",
+        "verifiedAt": "2026-10-01T11:07:19Z",
+        "retrieval": "Direct primary/official source via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "web.njit.edu / source 4",
+        "url": "https://web.njit.edu/~alexzhou/people.html",
+        "summary": "Official lab profile independently confirms exact faculty rank; degree recruitment is not a visitor offer.",
+        "verifiedAt": "2026-10-01T11:07:19Z",
+        "retrieval": "Direct primary/official source via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "fitz-yuan.github.io / source 5",
+        "url": "https://fitz-yuan.github.io/",
+        "summary": "Lead author identifies current BioDynamics doctoral status, joinedAugust 2024, withSeptember 2026 activity; seeking his own internship is not lab intake.",
+        "verifiedAt": "2026-10-01T11:07:19Z",
+        "retrieval": "Direct primary/official source via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2608.00715v1",
+        "summary": "Complete August 1, 2026 SMAT preprint: actual torque-policy deployment and 8-person metabolic protocol with small-cohort/terrain limitations.",
+        "verifiedAt": "2026-10-01T11:07:30Z",
+        "retrieval": "Complete primary HTML via web.run and local public-HTML text inspection"
+      },
+      {
+        "id": "s7",
+        "label": "arxiv.org / source 7",
+        "url": "https://arxiv.org/html/2609.19690v1",
+        "summary": "Complete September 17, 2026 UniExo preprint: six-person physical speed tests and one-person mixed-skill route; no metabolic measurement.",
+        "verifiedAt": "2026-10-01T11:07:30Z",
+        "retrieval": "Complete primary HTML via web.run and local public-HTML text inspection"
+      }
+    ],
+    "unknowns": [
+      "Previously reviewed NJIT conditions apply. Prescribed Study supports outside continuing-degree research without courses; the currently linked Spring 2023 packet explicitly includes master students, at least20hours weekly and initial duration up to12months, with no verified minimum stay. It generally requires51% nonpersonal support; personal-funding exceptions depend on a school agreement and cannot be presumed. The packet’s$2000/month threshold and other fees need 2027 confirmation, and department sponsorship should begin at least3months ahead. Any human-subject research role, training and access need host/IRB approval; CS preparation does not establish permission for clinical activities.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: First precisely preserved source-observation time; earlier incidental lead time and source are unavailable and were not reconstructed.",
+      "[Institutional visitor rules](../eligibility_notes.md#njit)",
+      "[Institutional review](../eligibility_notes.md#njit); policy observations retain their stated dates."
+    ],
+    "discoveryTimestampNote": "First precisely preserved source-observation time; earlier incidental lead time and source are unavailable and were not reconstructed.",
+    "publicEmail": "alexzhou@njit.edu"
+  }
+]

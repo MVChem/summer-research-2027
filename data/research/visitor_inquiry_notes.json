@@ -816,6 +816,26 @@
         "s7",
         "s8"
       ]
+    },
+    "zhu-wang": {
+      "category": "generic-intern-eligibility-unconfirmed",
+      "note": "2025 AP；独立年度intern邀请，但外校硕士身份/时长/资金未定，8分；XR生成地形备选，真机0",
+      "sourceIds": [
+        "s1",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "hugh-m-herr": {
+      "note": "正式Visiting Student可询问，须机构/奖学金/其他项目支持；另无志愿者或intern项目，不代表正式访学关闭；MIT过半非个人资金，神经解码但实际义肢学习执行未核",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s5",
+        "s6",
+        "s7"
+      ]
     }
   }
 }

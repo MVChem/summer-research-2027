@@ -1199,3 +1199,31 @@ Part II第5页允许全额个人资金，但要求境外大学/研究机构关�
 
 [主办流程](https://global.vcu.edu/outreach/partnerships/hosting-visiting-scholars/) 要求院系/HR邀请、移民与出口管制审查、到校前至少10天预审及访问协议；10天不等于全流程。页面有旧日期及DS-2019交付方式冲突，具体2027类别、资金、保险、费用和时长仍须重核。实验室表单的MS/远程选项不代替学校批准。
 
+
+<a id="ut-san-antonio"></a>
+### University of Texas at San Antonio — current forms require office review
+
+Verified 2026-10-01T13:24:28Z. This is institutional feasibility, not a lab invitation or an individual eligibility determination.
+
+- The live [forms directory](https://global.utsa.edu/students/forms/) lists both Exchange Visitor and Non-Degree-Seeking Student/Intern requests, but directs departments to International Services for the **current forms**. An external master's researcher needs explicit host and International Services approval of the academic appointment, immigration category, project and dates.
+- Historical indexed PDFs are inconsistent in scope: the [October 2022 general packet](https://global.utsa.edu/students/forms/j-1-exchange-visitor-request-form1.pdf) labels Intern for undergraduates, whereas the [March 2020 non-degree/intern packet](https://global.utsa.edu/students/forms/J1-Request-Form-NonDegree-Seeking.pdf) describes students enrolled abroad without a graduate exclusion. Both original URLs returned HTTP 404 in a fresh direct check. Neither is used to declare a master's visitor eligible or ineligible today.
+- Those historical packets mention personal/family funds, a $1,500/month minimum, and short internal processing estimates. **Current personal-funding permission, amounts, fees and total lead time remain unverified**; obtain the present packet rather than budget from these old figures.
+- The current [arrival and departure guidance](https://global.utsa.edu/faculty-scholars/J-1-arrival-and-departure.html) identifies a six-month Short-Term Scholar ceiling and mandatory insurance/orientation. This ceiling does not itself establish external-master eligibility or an eight-week offer.
+- The university's [B-1 guidance](https://global.utsa.edu/faculty-scholars/Visa%20Types/B1.html) says active in-lab or collaborative research benefiting UTSA requires the appropriate sponsored route. Personal payment of expenses is not a reason to substitute tourist/business entry for approved research status.
+
+Remote collaboration, Summer 2027 capacity, laboratory access and funding are separate questions for the prospective host. Recheck policy and costs for 2027; institutional offices decide applicable eligibility.
+
+
+<a id="new-mexico"></a>
+### University of New Mexico — conditional scholar route; outside-master classification unresolved
+
+Verified 2026-10-01T13:24:28Z. Institutional feasibility is separate from a mentor's invitation.
+
+- The current [department overview](https://isss.unm.edu/scholars/department-info/overview.html) permits paid or unpaid scholar appointments and recommends completed submissions **at least three months before arrival**. It lists Research Scholar, Professor, Short-Term Scholar and Specialist sponsorship; it does not establish a Student Intern route for an outside master's student.
+- The currently linked [2024 coordinator training](https://isss.unm.edu/scholars/department-info/scholar-coordinator-training-20240920.pdf) describes academic preparation generally at least a bachelor's degree plus relevant experience. Its Short-Term Scholar category has no minimum and a six-month maximum. This provides a potential category to ask about, not automatic approval of an external master's visit. The same training gives $2,000/month visitor support and mandatory compliant insurance; recheck the 2027 amounts and appointment classification.
+- The latest linked [Fall 2025 coordinator meeting](https://isss.unm.edu/assets/documents/j1-coordinator-meeting.pdf), read in full through its public PDF, lists a $200 new/transfer processing charge and discusses insurance for self-funded scholars. It does **not** establish that personal funds alone suffice for every proposed appointment. The current form and fund-source review are still needed. This old presentation's immigration-change discussion is not treated as a current legal determination.
+- The live [forms page](https://isss.unm.edu/scholars/department-info/forms.html) requires departmental training and an office-provided online request link. Host support, academic affiliation, workspace, English assessment and category approval should be settled through ISSS/GEO. No form was submitted.
+- Current [visa-process guidance](https://isss.unm.edu/scholars/coming-to-unm/visa-process.html) cautions against entering in tourist status for the planned research. University and government fees, insurance, housing, travel and any lab charges are distinct; none establishes salary or a stipend.
+
+The older DS-2019 PDF's two-month minimum is superseded for planning by the live three-month recommendation. Exact external-master eligibility, personal-only funding, remote options, Summer 2027 dates and lab capacity remain unresolved.
+

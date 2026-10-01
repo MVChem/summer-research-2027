@@ -1,0 +1,124 @@
+[
+  {
+    "id": "micah-corah",
+    "name": "Micah Corah",
+    "aliases": [],
+    "school": "Colorado School of Mines",
+    "homepage": "https://www.micahcorah.com/",
+    "title": "Assistant Professor",
+    "department": "Computer Science; Robotics",
+    "batch": "control-094",
+    "discoveredAt": "2026-10-01T10:34:43Z",
+    "verifiedAt": "2026-10-01T10:36:26Z",
+    "researchAreas": [
+      "Safe model-based reinforcement learning",
+      "Active robot perception",
+      "Language-guided aerial robotics",
+      "Multi-robot exploration and coordination"
+    ],
+    "fitReason": "Current robotics faculty with a directly supervised external AI master’s thesis deploying learned perception and language planning on a real aerial robot, alongside 2026 safe-RL methods.",
+    "physicalEvidence": {
+      "status": "Verified current-host supervised physical prototype, with limited evaluation and external sensing",
+      "summary": "March 2025 master’s thesis verifies Corah-supervised Mines experiments: GPT-4o parameterizes predefined filming actions; offboard YOLO-World/RealSense sensing and Kalman tracking guide conventional Crazyswarm2 waypoint execution on a real Crazyflie with Lighthouse positioning.20 successful indoor recordings include general maneuvers,10single-action and 5multi-action sequences. Failed flights were repeated without a denominator; no success rate is supported. The onboard camera was removed and displayed filming views are simulated. This is a limited language/perception-to-flight prototype, not learned low-level control or outdoor filming.",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "precedent-only · 已核实以往外校硕士；当前访客名额未定",
+      "summary": "Rubatscher’s lab visiting-student entry and 2025 JKU AI master’s thesis establish a funded outside-master precedent. Current recruitment targets graduate applicants/current Mines students, without an explicit new external-master short-visit offer, so visit0. The 2026–27 MURF inspection project is undergraduate-only.",
+      "sourceIds": [
+        "s5",
+        "s6",
+        "s8"
+      ]
+    },
+    "scores": {
+      "fit": 36,
+      "physical": 23,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantive safe-RL and learned perception/language-to-robot methods, within a wider planning program.",
+      "physical": "Real current-host deployment with explicit external-master supervision; prototype and evaluation limitations prevent maximum credit.",
+      "shortVisit": "Verified past outside-master stay, but current recruitment does not establish a new visitor invitation.",
+      "freshness": "DatedJanuary 2026 safe-RL manuscript and current 2026–27 official robotics project."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "research.mines.edu / source 1",
+        "url": "https://research.mines.edu/project/corah-micah/",
+        "summary": "Current official assistant-professor role and public email.",
+        "verifiedAt": "2026-10-01T10:36:26Z",
+        "retrieval": "Direct primary/official source via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "www.micahcorah.com / source 2",
+        "url": "https://www.micahcorah.com/",
+        "summary": "Current NAPPLab director and robotics research focus.",
+        "verifiedAt": "2026-10-01T10:36:26Z",
+        "retrieval": "Direct primary/official source via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "www.marshallplan.at / source 3",
+        "url": "https://www.marshallplan.at/s/2530.PDF",
+        "summary": "CompleteMarch 2025 primary thesis, title/acknowledgments and methods/results. See physical-evidence limits; exact supervised outside-master precedent.",
+        "verifiedAt": "2026-10-01T10:36:26Z",
+        "retrieval": "Direct primary/official source via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "www.napplab.org / source 4",
+        "url": "https://www.napplab.org/projects/llmvideography",
+        "summary": "Lab project independently links Corah and Rubatscher to the physical prototype.",
+        "verifiedAt": "2026-10-01T10:36:26Z",
+        "retrieval": "Direct primary/official source via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "www.napplab.org / source 5",
+        "url": "https://www.napplab.org/people",
+        "summary": "Current roster lists Rubatscher under visiting students.",
+        "verifiedAt": "2026-10-01T10:36:26Z",
+        "retrieval": "Direct primary/official source via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "www.napplab.org / source 6",
+        "url": "https://www.napplab.org/contact",
+        "summary": "Current recruitment distinctions; no explicit external-master visit offer.",
+        "verifiedAt": "2026-10-01T10:36:26Z",
+        "retrieval": "Direct primary/official source via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "arxiv.org / source 7",
+        "url": "https://arxiv.org/html/2601.04686v1",
+        "summary": "CompleteJanuary 2026 Nightmare Dreamer method uses learned world-model risk prediction and separate reward/safety actors; Safety Gymnasium simulation only, not additional physical evidence.",
+        "verifiedAt": "2026-10-01T10:36:26Z",
+        "retrieval": "Direct primary/official source via web.run"
+      },
+      {
+        "id": "s8",
+        "label": "undergraduateresearch.mines.edu / source 8",
+        "url": "https://undergraduateresearch.mines.edu/robot-systems-for-semantic-search-and-inspection/",
+        "summary": "Current 2026–27 undergraduate project with Corah and PhD lead; future learned robot integration is project intent, not a completed deployment or graduate visitor route.",
+        "verifiedAt": "2026-10-01T10:36:26Z",
+        "retrieval": "Direct primary/official source via web.run"
+      }
+    ],
+    "unknowns": [
+      "Previously reviewed Colorado School of Mines conditions: contingent visiting-scholar appointment can include outside graduate students, requires host-initiated approvals and international/research-compliance review. Existing official review records4–6months planning and$3000monthly support with documented personal/family funds permitted;2027 amounts, insurance, fees and approximately eight-week appointment remain to be confirmed. The past Marshall Plan scholarship does not establish funding eligibility for another applicant or duration.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#colorado-mines)",
+      "[Institutional review](../eligibility_notes.md#colorado-mines); policy observations retain their stated dates."
+    ],
+    "publicEmail": "micah.corah@mines.edu"
+  }
+]

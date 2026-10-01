@@ -1,0 +1,152 @@
+[
+  {
+    "id": "liang-he",
+    "name": "Liang He",
+    "aliases": [
+      "何亮"
+    ],
+    "school": "University of Texas at Dallas",
+    "homepage": "https://lianghe.me/",
+    "title": "Assistant Professor of Computer Science; DE4M Lab Director",
+    "department": "Computer Science; Design & Engineering for Making (DE4M) Lab",
+    "batch": "hri-108",
+    "discoveredAt": "2026-10-01T13:41:56Z",
+    "verifiedAt": "2026-10-01T13:45:09Z",
+    "researchAreas": [
+      "Accessible spatial AI",
+      "Multimodal language-grounded 3D modeling",
+      "AI-assisted digital fabrication",
+      "Interactive physical agents and haptic interfaces"
+    ],
+    "fitReason": "Recent-institution AP transfer and explicit spatial-AI research backup. Full A11yShape methods and contribution statement verify PI-directed multimodal 3D interaction, while learned robot-actuation evidence remains unverified. Prior 2022 faculty employment is disclosed rather than treating 2025 as a first-ever faculty start.",
+    "physicalEvidence": {
+      "status": "unverified",
+      "summary": "Full ASSETS 2025 A11yShape combines GPT-4o, OpenSCAD source and six rendered viewpoints to describe and edit 3D geometry, synchronizing code, semantic hierarchy, text and renderings. Four blind/low-vision programmers completed a multi-session evaluation. Liang led research ideation and contributed to system/study design. This is spatial-AI software, not robot actuation. The paper reports geometric misalignment/overlap and language-model limits; current robot-interface/fabrication projects are not used as learned-control evidence.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9"
+      ]
+    },
+    "shortVisit": {
+      "status": "precedent-only",
+      "summary": "The current lab generically welcomes technically prepared students through a joining form. That public link returned 401 Unauthorized, so its eligibility fields were not inspected or bypassed. The roster includes a Summer 2026 visiting student and older outside-institution visitors, but those precedents do not establish an open external-master route or Summer 2027 capacity.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9"
+      ]
+    },
+    "scores": {
+      "fit": 32,
+      "physical": 0,
+      "shortVisit": 0,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "Full multimodal spatial-AI method with direct PI contribution and current research group.",
+      "physical": "No learned robot actuation established; keep a clearly labeled spatial-AI backup.",
+      "shortVisit": "Generic joining form and prior visitors do not establish a distinct current outside-master invitation.",
+      "freshness": "Detailed technical anchor is 2025; later 2026 titles/news are not substituted for fully inspected new methods."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "profiles.utdallas.edu / source 1",
+        "url": "https://profiles.utdallas.edu/liang.he",
+        "summary": "Official current title, lab/personal links, 2025–present UTD appointment and prior Purdue 2022–2025 AP appointment.",
+        "verifiedAt": "2026-10-01T13:43:58Z"
+      },
+      {
+        "id": "s2",
+        "label": "lianghe.me / source 2",
+        "url": "https://lianghe.me/cv/Liang_CV_2026_JUNE.pdf",
+        "summary": "Full first-person CV reports August 2025 UTD start and prior faculty experience; professional email.",
+        "verifiedAt": "2026-10-01T13:43:58Z"
+      },
+      {
+        "id": "s3",
+        "label": "lianghe.me / source 3",
+        "url": "https://lianghe.me/",
+        "summary": "Current PI agenda in physical/spatial interactivity, current graduate advising and dated 2026 research news; no summer opening inferred.",
+        "verifiedAt": "2026-10-01T13:42:27Z"
+      },
+      {
+        "id": "s4",
+        "label": "www.de4m.xyz / source 4",
+        "url": "https://www.de4m.xyz/",
+        "summary": "Generic student joining invitation, current lab locations and Summer 2026 visitor roster; joining form returned 401 and was not inspected.",
+        "verifiedAt": "2026-10-01T13:43:16Z"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2508.03852v1",
+        "summary": "Full A11yShape multimodal GPT-4o/OpenSCAD spatial methods, four-person study, limitations and explicit research-ideation leadership by Liang.",
+        "verifiedAt": "2026-10-01T13:44:51Z"
+      },
+      {
+        "id": "s6",
+        "label": "github.com / source 6",
+        "url": "https://github.com/DE4M-Lab/A11yShape",
+        "summary": "Author-lab code repository corroborates project identity; inspected read-only, not installed or run.",
+        "verifiedAt": "2026-10-01T13:44:20Z"
+      },
+      {
+        "id": "s7",
+        "label": "isso.utdallas.edu / source 7",
+        "url": "https://isso.utdallas.edu/employment-and-internships/j-intern/",
+        "summary": "Reused degree-linked Student Intern route; individual admission/funding unresolved.",
+        "verifiedAt": "2026-09-30T22:57:39Z"
+      },
+      {
+        "id": "s8",
+        "label": "isso.utdallas.edu / source 8",
+        "url": "https://isso.utdallas.edu/employment-and-internships/j1-visitors/",
+        "summary": "Reused separate Scholar academic and financial rules.",
+        "verifiedAt": "2026-09-30T22:57:39Z"
+      },
+      {
+        "id": "s9",
+        "label": "research.utdallas.edu / source 9",
+        "url": "https://research.utdallas.edu/security-ethics/research-security/hosting-visitors",
+        "summary": "Reused formal research visitor approval and agreement requirements.",
+        "verifiedAt": "2026-09-30T22:57:39Z"
+      }
+    ],
+    "unknowns": [
+      "Official current-institution start is 2025, with August in the PI CV; prior Purdue AP employment began in 2022. This is a recent transfer, not a first-time academic hire.",
+      "Physical score 0 indicates no verified learned robotic execution in the inspected method. Historical machine-building and current hardware inventory should be discussed separately from the full spatial-AI paper.",
+      "External-master visitor applicability, duration, supervision, payment, self-funding, remote collaboration and Summer 2027 project capacity are all unresolved. Form access failure is not a no-visitors policy.",
+      "UT Dallas institutional feasibility reused from 2026-09-30T22:57:39Z: degree-linked Student Intern can span 3 weeks–12 months at at least 32 hours/week, subject to approval and return to the home degree. Personal-only intern funding and its current monthly minimum remain unverified.",
+      "The separate Scholar page’s personal-support and $2,000/month language cannot automatically be applied to Student Interns. Formal pre-offer research approval, agreement, insurance, fees and 2027 financial requirements require office confirmation.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional review](../eligibility_notes.md#ut-dallas); policy observations retain their stated dates."
+    ],
+    "publicEmail": "liang.he@utdallas.edu",
+    "appointmentStart": {
+      "year": 2025,
+      "precision": "year",
+      "status": "current",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ],
+      "evidence": "Official UT Dallas profile dates the CS Assistant Professor appointment 2025–present and prior Purdue Interactive Media AP role 2022–2025. The PI CV independently reports August 2025 at month precision, retained as first-person detail rather than official month verification.",
+      "appointmentType": "institution-move"
+    },
+    "candidateTier": "空间AI/人机感知备选；无已核实机器人执行"
+  }
+]

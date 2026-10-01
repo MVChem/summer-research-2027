@@ -1,0 +1,159 @@
+[
+  {
+    "id": "lidia-al-zogbi",
+    "name": "Lidia Al-Zogbi",
+    "aliases": [
+      "Lidia Al Zogbi",
+      "Lidia Alzogbi"
+    ],
+    "school": "Tufts University",
+    "homepage": "https://engineering.tufts.edu/ece/people/faculty/lidia-al-zogbi",
+    "title": "Assistant Professor of Electrical and Computer Engineering",
+    "department": "Electrical and Computer Engineering",
+    "batch": "hri-114",
+    "discoveredAt": "2026-10-01T14:27:35Z",
+    "verifiedAt": "2026-10-01T14:29:30Z",
+    "researchAreas": [
+      "Autonomous medical robotics",
+      "Learned ultrasound perception",
+      "Surgical scene reconstruction",
+      "Multimodal sensor fusion",
+      "Embodied AI"
+    ],
+    "fitReason": "New 2026 Assistant Professor with a strong CS-facing perception, spatial reconstruction and robotic autonomy portfolio. Full prior-institution methods establish real neural-perception-to-robot planning; a nonclinical software/phantom project would be the appropriate inquiry scope.",
+    "physicalEvidence": {
+      "status": "historical-or-indirect",
+      "summary": "AURA-CVC, first posted July 2025 and published February 2026, uses Dense-UNet anatomical landmarks to generate scanning paths for an actual UR10e, then learned vessel segmentation to select and revisit an insertion pose. Its vessel model builds on Al-Zogbi’s first-author temporal-memory TransUNet work. Ten commercial-phantom scenarios produced ten successful first-attempt needle placements, but insertion is supervised: a person marks the vessel center once and the needle tip after each step for a proportional controller. This is real JHU-era hardware, not a patient trial or fully autonomous needle tracking. Current Tufts apparatus is unverified, hence physical 20. Separately, full 2026 Perseus integrates SAM2 adapters, DepthAnythingV2 and DROID-SLAM for endoscopic reconstruction; video experiments and offline scale registration do not independently establish robot-action execution.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No explicit outside-master short-visit, summer or remote invitation was established on inspected current university pages. New faculty status and broad autonomous-robot research plans do not imply visitor capacity.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct deep perception, multimodal reconstruction and autonomous robot planning with attributable methods.",
+      "physical": "Full real UR10e neural-perception-guided pipeline at previous JHU affiliation, capped at 20; supervised needle annotations explicit.",
+      "shortVisit": "No external-master invitation; institutional compatibility does not award mentor opportunity points.",
+      "freshness": "Full 2026 Perseus method plus February 2026 AURA-CVC publication, with actual underlying prior-hardware date separated."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.tufts.edu / source 1",
+        "url": "https://engineering.tufts.edu/ece/people/faculty/lidia-al-zogbi",
+        "summary": "Complete indexed official profile confirms current Tufts ECE Assistant Professor, professional email, and autonomous medical robotics/embodied AI agenda; direct page retrieval failed.",
+        "verifiedAt": "2026-10-01T14:28:16Z",
+        "retrieval": "Complete indexed official profile; direct retrieval unavailable"
+      },
+      {
+        "id": "s2",
+        "label": "engineering.tufts.edu / source 2",
+        "url": "https://engineering.tufts.edu/news-events/news/lidia-al-zogbi-joins-department-electrical-and-computer-engineering",
+        "summary": "Full official July 20 introduction explicitly dates appointment effective August 1, 2026, following Vanderbilt postdoc and JHU PhD.",
+        "verifiedAt": "2026-10-01T14:28:51Z"
+      },
+      {
+        "id": "s3",
+        "label": "engineering.tufts.edu / source 3",
+        "url": "https://engineering.tufts.edu/news-events/news/tufts-welcomes-new-faculty-2026",
+        "summary": "Full September 2 cohort confirms current full-time Assistant Professor and continuing autonomous medical-robot agenda.",
+        "verifiedAt": "2026-10-01T14:28:39Z"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2507.05979v1",
+        "summary": "Full July 2025 AURA-CVC author manuscript: Dense-UNet landmarks and learned vessel segmentation drive actual UR10e scan planning/positioning and supervised needle insertion on commercial phantom. Human marking of needle tip after each insertion step is explicit.",
+        "verifiedAt": "2026-10-01T14:29:03Z"
+      },
+      {
+        "id": "s5",
+        "label": "link.springer.com / source 5",
+        "url": "https://link.springer.com/article/10.1007/s11548-026-03572-9",
+        "summary": "Public publisher record confirms February 25, 2026 journal publication and authorship; subscription full text not accessed. Detailed methods derive from the public 2025 manuscript.",
+        "verifiedAt": "2026-10-01T14:29:17Z"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2503.06795v1",
+        "summary": "Full first-author 2025 vascular-video segmentation paper describes R50-ViT-B16 TransUNet with temporal memory; this model is explicitly reused in AURA-CVC, linking her prior work to executed perception-driven planning.",
+        "verifiedAt": "2026-10-01T14:28:51Z"
+      },
+      {
+        "id": "s7",
+        "label": "link.springer.com / source 7",
+        "url": "https://link.springer.com/article/10.1007/s11548-026-03717-w",
+        "summary": "Full 2026 Perseus methods combine SAM2-adapter segmentation, adapted DepthAnythingV2 and DROID-SLAM on actual endoscopic videos. Registration is offline and downstream autonomous control remains future work. Explicit Al-Zogbi conceptualization/methodology contribution.",
+        "verifiedAt": "2026-10-01T14:29:30Z"
+      },
+      {
+        "id": "s8",
+        "label": "icenter.tufts.edu / source 8",
+        "url": "https://icenter.tufts.edu/departments/j1-student-intern/",
+        "summary": "Reused outside-degree Student Intern route, 3 weeks to 12 months, at least 32 hours/week; $650 processing must be paid by host/sponsor, not the intern. Patient-contact clinical work excluded.",
+        "verifiedAt": "2026-09-30T23:45:55Z"
+      },
+      {
+        "id": "s9",
+        "label": "icenter.tufts.edu / source 9",
+        "url": "https://icenter.tufts.edu/coming-to-tufts/visa-certificate/j-1-student-intern-program/",
+        "summary": "Reused personal/family support documentation and $2,900 monthly published threshold; confirm 2027 category/rate. One-to-two-week office review excludes host and visa steps.",
+        "verifiedAt": "2026-09-30T23:45:55Z"
+      }
+    ],
+    "unknowns": [
+      "Current Tufts appointment is confirmed as effective August 1, 2026; Vanderbilt and JHU roles are previous appointments/training, not alternative current hosting sites.",
+      "Prior learned-hardware experiments are commercial-phantom research at the former institution. No clinical, patient-contact or current Tufts equipment access is implied.",
+      "Tufts Student Intern policy permits outside postsecondary students, host-approved 3-week to 12-month visits and personal support documentation; the exact external-master appointment remains subject to chair/dean and International Center review.",
+      "Patient-contact clinical work is excluded under the inspected Student Intern route. A proposed CS project should be limited to approved software, synthetic/authorized data or nonclinical phantom robotics.",
+      "The $650 Student Intern processing fee is a host/sponsor obligation and cannot be charged to the intern as a placement condition. Personal living support does not remove that obligation.",
+      "Published support guidance currently lists $2,900/month; insurance, actual costs and 2027 rates require confirmation. Office processing of a complete case is not total host/visa lead time.",
+      "Summer 2027 supervision, visit duration, outside-master suitability, funding, remote participation and a concrete project all remain unknown.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: Earliest precisely retained individual university-announcement observation; direct current-role verification followed. No earlier encounter time was reconstructed.",
+      "[Institutional review](../eligibility_notes.md#tufts-student-intern); policy observations retain their stated dates."
+    ],
+    "discoveryTimestampNote": "Earliest precisely retained individual university-announcement observation; direct current-role verification followed. No earlier encounter time was reconstructed.",
+    "publicEmail": "lidia.al_zogbi@tufts.edu",
+    "appointmentStart": {
+      "year": 2026,
+      "month": 8,
+      "day": 1,
+      "precision": "day",
+      "status": "current",
+      "sourceIds": [
+        "s2"
+      ],
+      "evidence": "Official Tufts July 20, 2026 introduction gives August 1, 2026 effective appointment date.",
+      "appointmentType": "unresolved"
+    }
+  }
+]

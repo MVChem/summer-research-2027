@@ -387,3 +387,43 @@ Tacoma 补充核查：2026-10-01T01:02:36Z。[SET visiting appointments](https:/
 核查：2026-10-01T00:22:26Z。[Penn Student Intern](https://global.upenn.edu/isss/j1studentintern/) 明确包括国外本科、硕士、博士在读，需学位关联、返校完成学位，以及 Penn 全时导师和原校管理员签署的 placement agreement；每周至少 32 小时、最长十二个月，活动限 Philadelphia 校园，未公布最低时长。可有薪/无薪并使用个人/家庭或第三方支持，当前每月 2,839 美元为财力证明，另列 865 美元处理费和不足三十天提交的 700 美元附加费，最终付款方须确认。患者接触（包括动物）等工作受限制。
 
 [主办材料](https://global.upenn.edu/isss/wp-content/uploads/sites/2/2025/07/J-1-Student-Intern-App-Checklist.pdf) 和 [外国访客审查](https://research.upenn.edu/resource/hosting-foreign-visitors-for-international-partners/) 是正式要求，旧 PDF 费用不覆盖当前网页金额。另一个 [Scholar 规则](https://global.upenn.edu/isss/scholar_dept/j1scholar/) 的 330 美元部门支付费用属于不同类别，不能因为更便宜就假定适用于外校硕士。保险、个人任命、精确日期和 2027 接收仍须确认。
+
+<a id="chicago"></a>
+
+## Chicago · NDVS 季度收费与 J-1 资金条件需分开
+
+核查：2026-10-01T00:25:20Z。[PSD NDVS](https://physicalsciences.uchicago.edu/current-students/ndvs/) 明确包括外校 MS/PhD 研究访问者，需 faculty 邀请和批准，通常最长四季度，至少提前三个月申请。Summer 2027 页面列 6 月 14 日开始；即使只停留一天也按完整季度收费，不按短访比例折算。[OIA](https://internationalaffairs.uchicago.edu/students/non-degree-visiting-students) 将 graduate NDVS 描述为处于学位研究/写作阶段、继续外校学籍的全时研究，并使用 J-1 student，不能自动改用 scholar。
+
+[2026–27 PSD 学费](https://bursar.uchicago.edu/tuition-and-fees/tuition-and-fees-2026-27/tuition-and-fees-2026-27-physical-sciences-division) 每季度 1,565 美元，[学生服务费](https://bursar.uchicago.edu/tuition-and-fees/graduate-student-fees) 520 美元；合计 2,085 美元仅是这两项算术小计，不含保险、生活和其他费用。接受个人财力文件不等于资金资格已解决：[一般 OIA J-1 说明](https://internationalaffairs.uchicago.edu/students/admitted-students/understanding-f-1-and-j-1-visas) 使用外部资金或短期交流项目条件，并描述至少 50% 学费的外部支持，不能改写成 51% 全部费用。完全个人资助的独立硕士 NDVS 能否适用短期交流条件，须 OIA/PSD 确认。
+
+<a id="nyu"></a>
+
+## New York University · 外校学生无薪研究任命不等于签证批准
+
+核查：2026-10-01T00:25:20Z。[NYU 无薪研究政策](https://www.nyu.edu/about/policies-guidelines-compliance/policies-and-guidelines/volunteerinternshiptrainee-protocol.html) 于 2024 年 9 月生效，包含开展自身论文/研究的外校 Research Affiliates，须全时 faculty sponsor、HR 和安全审查；通常至少提前两个月发起。教育培训应主要使 intern 受益，不替代员工或给部门直接劳动利益。一次一般批准三个月、可续至一年，不是三个月最低访问时长。此页已在浏览器中完整读取，但不确证海外签证或全额个人资金。
+
+[Tandon](https://engineering.nyu.edu/research/office-research/visiting-scholars) 将学生导向该任命流程，而非通常要求博士/原机构受薪职位的 Visiting Scholar。[Courant 访客指引](https://cims.nyu.edu/dynamic/resources/for_faculty/) 的签证协助至少需十三周，不能默认为 Tandon 全部流程；链接费用表返回 401，本轮未读取。实际学校/院系类别、资金和 2027 项目须确认，实验室独立的更长时长要求仍有效。
+
+<a id="rit"></a>
+
+## Rochester Institute of Technology · IVRS 与表单资金范围冲突
+
+核查：2026-10-01T00:40:54Z。[IVRS](https://www.rit.edu/global/international-visiting-research-student) 明确包括国外在读本科/研究生，2 周至两年、每周至少 30 小时，零学分全时研究注册及 J-1 Student Non-Degree，需原校、导师、院系和学校审批。页面接受个人/家庭资金来源，规划提前 4–6 个月，400 美元处理费由部门/学院承担。
+
+页面列住房、餐食、保险按月和 health-center fee 按学期，却给出 2,325 美元的月总估算，不能不经日期核算直接乘月份。[ISS 表单](https://www.rit.edu/iss/ds-2019-request-visiting-j-1-faculty-and-researchers) 前言是 scholar，但类别下拉也包括学生，并要求部分机构资金；它与 IVRS 的关系不清，因此不能保证完全个人资金可获批。[E09](https://www.rit.edu/policies/e090) 已在浏览器确认 2026 年 8 月最终版，文本抓取曾显示旧 interim 版；学生 IVRS 与其他访客任命须分开。导师接受、资金和 2027 实际费用待 ISS 确认。
+
+<a id="virginia"></a>
+
+## Virginia · VGR 学术任命与国际身份单独核定
+
+核查：2026-10-01T00:53:14Z。[PROV-032](https://uvapolicy.virginia.edu/policy/PROV-032) 支持仍在外校攻读研究生学位的 Visiting Graduate Researcher，全年可研究访问、最长连续两年，需导师和学校批准。涉及的每个日历月不按比例折算。[2026–27 中央费用表](https://uvafinance.virginia.edu/resources/2026-2027-components-mandatory-fees) 每月 179 美元，旧 GSAS 页仍列 173 美元，应采用有年度的现行表并在 2027 复核。
+
+[VGR FAQ](https://gradstudies.virginia.edu/VGR) 将国际申请导向 ISO，不能领取研究工资或担任 UVA GRA/GTA。另一个 [Scholar 资格页](https://issp.virginia.edu/j-1-introduction-and-eligibility) 对 graduate Research Scholar 有通常硕士等同的资格要求；普通 scholar 的个人资金许可及每月 1,550 美元不能自动变为在读硕士 VGR 预算或批准。Student Intern 与 VGR 的对应也未确证，具体分类、个人资金、国际处理费和全部成本须由 ISO 确认。
+
+<a id="nebraska-lincoln"></a>
+
+## Nebraska–Lincoln · Scholar 可个人资助，但在读硕士分类未明
+
+核查：2026-10-01T00:42:47Z。[ISSO Scholar 比较](https://global.unl.edu/isso/host-or-hire-international-scholar/) 允许无薪、个人资金支持的 scholar，Short-Term Scholar 最多六个月，通常预留 3–4 个月。[主办流程](https://global.unl.edu/isso/host-or-hire-j-1-scholar/) 要求导师、正式任命及英语材料，至少提前两个月提交；并非两个月保证获签。
+
+[学生类别指导](https://global.unl.edu/isso/immigration-status-information-international-students/) 的资金框架不同，不能将 scholar 许可直接套用于硕士学位研究。当前月支持最低额、处理费、具体硕士职称和 2027 资格未确证；索引中的旧 1,730 美元表及 2016 年工程流程不作为当前预算或自费批准。

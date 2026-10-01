@@ -1,0 +1,119 @@
+[
+  {
+    "id": "gautam-biswas",
+    "name": "Gautam Biswas",
+    "aliases": [
+      "Gautam Biswas (Vanderbilt University)"
+    ],
+    "school": "Vanderbilt University",
+    "homepage": "https://my.vanderbilt.edu/gautambiswas/",
+    "title": "Cornelius Vanderbilt Professor of Engineering; Professor of Computer Science; Senior Research Scientist, ISIS",
+    "department": "Computer Science; Institute for Convergent Software Integrated Systems",
+    "batch": "control-068",
+    "discoveredAt": "2026-10-01T05:38:44Z",
+    "verifiedAt": "2026-10-01T05:46:03Z",
+    "researchAreas": [
+      "Safe and continual reinforcement learning",
+      "UAV disturbance rejection",
+      "Sim-to-real transfer assessment",
+      "Learning-enabled fault-adaptive autonomy",
+      "Risk-aware cyber-physical systems"
+    ],
+    "fitReason": "The MACS research program develops deep RL, neural disturbance estimation and safety analysis for autonomous vehicles, with executed UAV transfer and current safe continual-learning methods.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "DX 2024 primary paper reports five actual flights at Fort Devens, Massachusetts, using the vehicle labeled DJI S100 octocopter in the paper. A ground-station PPO controller adjusts X/Y velocity references every 0.5 seconds using an LSTM disturbance estimate; ArduPilot performs low-level control. This is executed learned supervision, separate from the simulated Tarot T-18 and from neural models used afterward to analyze flight data. MIT Lincoln Laboratory flight support is acknowledged, so current Vanderbilt-local access is not established. The directed-group connection is independently supported by Biswas’s staff/student roster. April 2026 SafeEWC uses MuJoCo and Continual World simulation, not fresh robot execution.",
+      "sourceIds": [
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "precedent-only",
+      "summary": "No explicit current external-master short-visit invitation found on the official faculty/home/lab pages. MACS co-lead Marcos Quiñones-Grueiro records 2025–2026 graduate visitors, including one- and three-month stays, but these are past group-level precedents without a confirmed master category or open offer from Biswas.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong safe and adaptive deep RL/control methods, alongside a broader intelligent-systems portfolio.",
+      "physical": "Actual learned UAV flights with independent directed-group linkage, capped for older off-site collaborative hardware and unverified present local access.",
+      "shortVisit": "Graduate-visit precedent is not a current qualifying invitation.",
+      "freshness": "April 2026 safe continual RL and current official faculty/lab activity; the physical flight paper remains 2024."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "lab.vanderbilt.edu / source 1",
+        "url": "https://lab.vanderbilt.edu/vumacs/person/gautam-biswas/",
+        "summary": "Current endowed engineering/CS professor and ISIS role; email typo not used.",
+        "verifiedAt": "2026-10-01T05:46:03Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "my.vanderbilt.edu / source 2",
+        "url": "https://my.vanderbilt.edu/gautambiswas/",
+        "summary": "Current 2026 award/news, deep-RL and safety agenda, MACS lab link, correct public email.",
+        "verifiedAt": "2026-10-01T05:46:03Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "www.vanderbilt.edu / source 3",
+        "url": "https://www.vanderbilt.edu/valiant/person/gautam-biswas/",
+        "summary": "Independent official current role and correctly spelled email.",
+        "verifiedAt": "2026-10-01T05:46:03Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "my.vanderbilt.edu / source 4",
+        "url": "https://my.vanderbilt.edu/gautambiswas/students/",
+        "summary": "Named research scientist Marcos Quiñones-Grueiro and supervised graduate group; Austin Coursey’s enrollment label is not treated as current after his March 2026 defense.",
+        "verifiedAt": "2026-10-01T05:46:03Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "drops.dagstuhl.de / source 5",
+        "url": "https://drops.dagstuhl.de/storage/01oasics/oasics-vol125-dx2024/OASIcs.DX.2024.16/OASIcs.DX.2024.16.pdf",
+        "summary": "Sections 4.1–4.2 distinguish PPO/LSTM training, ground-station learned execution and five Fort Devens flights; flight support attribution on page 1.",
+        "verifiedAt": "2026-10-01T05:46:03Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2604.19737v1",
+        "summary": "Current coauthored SafeEWC safe continual RL; simulated locomotion/manipulation benchmarks only.",
+        "verifiedAt": "2026-10-01T05:46:03Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "marcosqg.github.io / source 7",
+        "url": "https://marcosqg.github.io/",
+        "summary": "Current MACS co-lead records short graduate visits and March 2026 Coursey defense; no inference of an open Biswas visitor offer.",
+        "verifiedAt": "2026-10-01T05:46:03Z",
+        "retrieval": "Direct official or primary HTML/PDF via web.run"
+      }
+    ],
+    "unknowns": [
+      "Reuse the existing Vanderbilt institutional supplement. Host sponsorship, research-only category, continuing overseas degree eligibility, funding, insurance, research access and eight-week summer 2027 capacity require individual confirmation. Distinct from UT Austin roboticist Joydeep Biswas and the Indian mechanical-engineering professor also named Gautam Biswas. The MACS profile contains a misspelled email; the address here is corroborated by the official personal and VALIANT profiles.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: First precisely preserved source-observation time; earlier preliminary lead time is unavailable and was not reconstructed.",
+      "[Vanderbilt institutional visitor rules](../eligibility_notes.md#vanderbilt)"
+    ],
+    "discoveryTimestampNote": "First precisely preserved source-observation time; earlier preliminary lead time is unavailable and was not reconstructed.",
+    "publicEmail": "gautam.biswas@vanderbilt.edu"
+  }
+]

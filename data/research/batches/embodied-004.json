@@ -108,7 +108,7 @@
     "department": "Siebel School of Computing and Data Science; Mechanical Science and Engineering",
     "batch": "embodied-004",
     "discoveredAt": "2026-09-30T21:46:34Z",
-    "verifiedAt": "2026-09-30T21:52:53Z",
+    "verifiedAt": "2026-10-01T15:25:26Z",
     "researchAreas": [
       "Robot learning",
       "Dexterous manipulation",
@@ -130,14 +130,10 @@
     },
     "shortVisit": {
       "status": "unknown",
-      "summary": "RoboTouch Join Us offers an undergraduate/master’s interest form, but does not explicitly identify external visitors, visit length or summer openings.",
+      "summary": "Complete form has undergraduate/master status, major, graduation date, research interests/goals and weekly-hours fields. It conditionally asks UIUC students to use their Illinois email. No institution field, external-visitor/intern role, proposed start, duration, mode or financial terms are supplied.",
       "sourceIds": [
-        "s1",
-        "s2",
-        "s3",
-        "s4",
-        "s5",
-        "s6"
+        "s7",
+        "s8"
       ]
     },
     "scores": {
@@ -149,7 +145,7 @@
     "scoreReasons": {
       "fit": "Direct video-to-robot, tactile and dexterous learning match.",
       "physical": "Multiple current physical tasks and named arm evidence.",
-      "shortVisit": "Generic campus-style student form does not verify an external visitor route.",
+      "shortVisit": "Complete current form includes Masters and conditional UIUC-email instructions, but no separate external visitor/intern role or research-visit terms; keep zero until applicability is established.",
       "freshness": "Current university page and 2026 projects."
     },
     "sources": [
@@ -200,12 +196,30 @@
         "summary": "2026 VLA project with named physical xArm6 hardware.",
         "verifiedAt": "2026-09-30T21:52:53Z",
         "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s7",
+        "label": "Later public research-interest source r1",
+        "url": "https://www.robotouchlab.com/join-us/",
+        "summary": "Current landing page actually observed before form click.",
+        "verifiedAt": "2026-10-01T15:25:10Z",
+        "retrieval": "complete-live-cloud-browser-page"
+      },
+      {
+        "id": "s8",
+        "label": "Later public research-interest source r2",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdkTxJYbbW8mqUAjAVVBUkTvYk4mcEeQU5guFxSmhynO35SvQ/viewform",
+        "summary": "Complete single-page form; external visit conditions remain unspecified.",
+        "verifiedAt": "2026-10-01T15:25:26Z",
+        "retrieval": "complete-live-cloud-browser-form"
       }
     ],
     "unknowns": [
-      "The interest form destination could not be read; external-student eligibility cannot be inferred from the generic master’s invitation. LUCID is a 2026 preprint.",
+      "The form could not be read at the earlier observation. A complete current form was subsequently read on 2026-10-01T15:25:26Z: Masters is offered and Illinois email is requested conditionally for UIUC students, but no external-visitor role, host institution, visit dates, duration or mode is supplied. Outside-master visitor applicability remains unresolved. LUCID remains a 2026 preprint.",
       "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
-      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Conditional UIUC-email wording suggests wider research inquiries, but does not independently establish external-master visiting eligibility. Keep visitor0 pending clearer evidence.",
+      "[Previously reviewed institutional visitor conditions](../eligibility_notes.md#illinois-urbana-champaign); category, funding and host approval remain separate from a laboratory inquiry."
     ],
     "publicEmail": "yuanwz@illinois.edu"
   },

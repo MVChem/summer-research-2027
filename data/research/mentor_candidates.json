@@ -6811,7 +6811,7 @@
       "homepage": "https://jason718.github.io/",
       "batch": "embodied-003",
       "discoveredAt": "2026-09-30T21:37:18Z",
-      "verifiedAt": "2026-09-30T21:42:30Z",
+      "verifiedAt": "2026-10-01T15:46:17Z",
       "scores": {
         "fit": 39,
         "physical": 20,
@@ -6824,7 +6824,7 @@
         "Multimodal generation",
         "Robot reward models"
       ],
-      "shortVisitStatus": "unknown",
+      "shortVisitStatus": "longer-visit inquiry · generally minimum one semester / four months",
       "recordFile": "batches/embodied-003.json",
       "detailPage": "batches/embodied-003.md#zhongzheng-jason-ren"
     },
@@ -7019,7 +7019,7 @@
       "homepage": "https://www.robotouchlab.com/",
       "batch": "embodied-004",
       "discoveredAt": "2026-09-30T21:46:34Z",
-      "verifiedAt": "2026-09-30T21:52:53Z",
+      "verifiedAt": "2026-10-01T15:25:26Z",
       "scores": {
         "fit": 40,
         "physical": 25,
@@ -8468,11 +8468,11 @@
       "homepage": "https://www.huaxiuyao.io/",
       "batch": "embodied-017",
       "discoveredAt": "2026-09-30T23:18:57Z",
-      "verifiedAt": "2026-09-30T23:29:02Z",
+      "verifiedAt": "2026-10-01T15:14:41Z",
       "scores": {
         "fit": 36,
         "physical": 20,
-        "shortVisit": 8,
+        "shortVisit": 10,
         "freshness": 14
       },
       "researchAreas": [
@@ -8481,7 +8481,7 @@
         "Adaptive foundation-model agents",
         "Preference learning"
       ],
-      "shortVisitStatus": "inquiry-only",
+      "shortVisitStatus": "inquiry-only · outside graduate intern form; duration/support unknown",
       "recordFile": "batches/embodied-017.json",
       "detailPage": "batches/embodied-017.md#huaxiu-yao"
     },

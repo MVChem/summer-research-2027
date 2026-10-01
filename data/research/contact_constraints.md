@@ -142,6 +142,12 @@
 - **当前明确没有short-term positions；匹配的长期访问至少6个月，短访分0、显著后置。不等于所有未来访问拒绝，2027 PhD招募不证明任何访学资助**
 - 核查：2026-10-01T14:32:57Z · [来源1](https://docs.google.com/document/d/1CGNidaVyv7eNTsphIewjxNKlgeKSbwAN0EJdyCZMyxE/edit?tab=t.0)
 
+### Zhongzheng (Jason) Ren（新增候选）
+
+- 适用范围：Visiting students; minimum is generally required, with no verified shorter exception
+- **通常至少1学期或4个月；短访例外未核，降低首联优先级；表单remote与常规现场会议需个别协调**
+- 核查：2026-10-01T15:45:46Z · [来源1](https://jason718.github.io/rair-lab/)
+
 ## 时长偏好或常态，不是硬性禁令
 
 ### Minchen Li（原名单 #28）

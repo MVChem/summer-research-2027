@@ -202,9 +202,10 @@
       ]
     },
     "huaxiu-yao": {
-      "note": "全年访客/intern邀请；链接表单读取受限，资格字段未核",
+      "note": "完整graduate/intern表单已读，现场/远程；须AI及编程经验，按页面交表并发CV；无明确MS身份勾选项，访问类别/期限/资金/2027容量未定",
       "sourceIds": [
-        "s3"
+        "s6",
+        "s7"
       ]
     },
     "nick-cheney": {
@@ -862,6 +863,15 @@
         "s8"
       ],
       "category": "generic-intern-eligibility-unconfirmed"
+    },
+    "zhongzheng-jason-ren": {
+      "note": "真实外校MS访客表单；一般至少1学期/4个月，短期例外未核、优先级降低；表单有远程但FAQ常规会议要求现场，资金/签证问题非承诺",
+      "category": "generic-intern-eligibility-unconfirmed",
+      "inclusionRationale": "The later complete form establishes external-MS visiting applicability. It is shown only as a longer-duration, exception-unconfirmed inquiry; the generally required semester/four-month stay keeps shortVisit at0.",
+      "sourceIds": [
+        "s5",
+        "s6"
+      ]
     }
   }
 }

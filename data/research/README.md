@@ -1,6 +1,6 @@
 # 持续导师检索记录
 
-[新进AP优先看](ap_priority.md) · [原有名单AP后续核查](baseline_ap.md) · [全部候选偏好排序](ranked_candidates.md) · [明确限制与暑期关闭](contact_constraints.md) · [明确访问问询入口](visitor_inquiries.md) · [结构化记录](mentor_candidates.json) · [机构访问规则](eligibility_notes.md) · [旧名单后续补充](baseline_addenda.md) · [项目周期](program_watch.md)
+[新进AP优先看](ap_priority.md) · [原有名单AP后续核查](baseline_ap.md) · [全部候选偏好排序](ranked_candidates.md) · [明确限制与暑期关闭](contact_constraints.md) · [明确访问问询入口](visitor_inquiries.md) · [结构化记录](mentor_candidates.json) · [机构访问规则](eligibility_notes.md) · [旧名单后续补充](baseline_addenda.md) · [项目周期](program_watch.md) · [论文可靠性补充](source_reliability_notes.md)
 
 这里只记录新发现候选。原有 **200 位**及其编号、姓名、资料和浏览器联系记录保持不变；不为旧记录补造发现时间。现有应用仍读取原 200 位，新候选先在此通过 GitHub 浏览。
 

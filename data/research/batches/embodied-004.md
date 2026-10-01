@@ -60,14 +60,14 @@
 - 方向：Robot learning；Dexterous manipulation；Tactile sensing；Learning from human videos
 - 匹配理由：LUCID (2026) learns embodiment-agnostic task intent from human videos and transfers simulation-trained control to dexterous hands and grippers; PALM adds progress-aware VLA manipulation.
 - 真机证据（public-hardware-evidence）：LUCID demonstrates five physical manipulation tasks including stirring, wiping, binning, push-T and cable routing. PALM separately uses a UFACTORY xArm6 for six-step manipulation.
-- 短访证据（unknown）：RoboTouch Join Us offers an undergraduate/master’s interest form, but does not explicitly identify external visitors, visit length or summer openings.
-- 首次发现：2026-09-30T21:46:34Z；最后核查：2026-09-30T21:52:53Z
+- 短访证据（unknown）：Complete form has undergraduate/master status, major, graduation date, research interests/goals and weekly-hours fields. It conditionally asks UIUC students to use their Illinois email. No institution field, external-visitor/intern role, proposed start, duration, mode or financial terms are supplied.
+- 首次发现：2026-09-30T21:46:34Z；最后核查：2026-10-01T15:25:26Z
 - 当前总分：80/100；评分依据：
   - fit 40/40：Direct video-to-robot, tactile and dexterous learning match.
   - physical 25/25：Multiple current physical tasks and named arm evidence.
-  - shortVisit 0/20：Generic campus-style student form does not verify an external visitor route.
+  - shortVisit 0/20：Complete current form includes Masters and conditional UIUC-email instructions, but no separate external visitor/intern role or research-visit terms; keep zero until applicability is established.
   - freshness 15/15：Current university page and 2026 projects.
-- 未确认事项：The interest form destination could not be read; external-student eligibility cannot be inferred from the generic master’s invitation. LUCID is a 2026 preprint.；Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.
+- 未确认事项：The form could not be read at the earlier observation. A complete current form was subsequently read on 2026-10-01T15:25:26Z: Masters is offered and Illinois email is requested conditionally for UIUC students, but no external-visitor role, host institution, visit dates, duration or mode is supplied. Outside-master visitor applicability remains unresolved. LUCID remains a 2026 preprint.；Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.；Conditional UIUC-email wording suggests wider research inquiries, but does not independently establish external-master visiting eligibility. Keep visitor0 pending clearer evidence.；[Previously reviewed institutional visitor conditions](../eligibility_notes.md#illinois-urbana-champaign); category, funding and host approval remain separate from a laboratory inquiry.
 - 来源：
   - [mechse.illinois.edu / source 1](https://mechse.illinois.edu/people/profile/yuanwz)：University directory gives current assistant professor title and email.（核查 2026-09-30T21:52:53Z；读取方式 direct-primary-page）
   - [www.robotouchlab.com / source 2](https://www.robotouchlab.com/)：University-linked lab establishes tactile perception/manipulation scope and Illinois location.（核查 2026-09-30T21:52:53Z；读取方式 direct-primary-page）
@@ -75,6 +75,8 @@
   - [lucid-robot.github.io / source 4](https://lucid-robot.github.io/)：Primary 2026 project: equal advising, real manipulation on two embodiments.（核查 2026-09-30T21:52:53Z；读取方式 direct-primary-page）
   - [arxiv.org / source 5](https://arxiv.org/abs/2606.11628)：Dated 2026 primary preprint.（核查 2026-09-30T21:52:53Z；读取方式 direct-primary-page）
   - [plan-lab.github.io / source 6](https://plan-lab.github.io/projects/palm/)：2026 VLA project with named physical xArm6 hardware.（核查 2026-09-30T21:52:53Z；读取方式 direct-primary-page）
+  - [Later public research-interest source r1](https://www.robotouchlab.com/join-us/)：Current landing page actually observed before form click.（核查 2026-10-01T15:25:10Z；读取方式 complete-live-cloud-browser-page）
+  - [Later public research-interest source r2](https://docs.google.com/forms/d/e/1FAIpQLSdkTxJYbbW8mqUAjAVVBUkTvYk4mcEeQU5guFxSmhynO35SvQ/viewform)：Complete single-page form; external visit conditions remain unspecified.（核查 2026-10-01T15:25:26Z；读取方式 complete-live-cloud-browser-form）
 
 <a id="honglak-lee"></a>
 

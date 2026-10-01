@@ -59,19 +59,21 @@
 - 方向：Robot foundation models；Action reasoning；Multimodal generation；Robot reward models
 - 匹配理由：MolmoAct2 (CoRL 2026 per faculty news) and TOPReward connect embodied reasoning, open action models and robot reward learning.
 - 真机证据（public-hardware-evidence）：MolmoAct2 reports real-world Franka manipulation trials and bimanual YAM demonstrations; the primary paper lists Ren as a coauthor.
-- 短访证据（unknown）：No current external short-visit recruitment instructions verified in reviewed faculty sources.
-- 首次发现：2026-09-30T21:37:18Z；最后核查：2026-09-30T21:42:30Z
+- 短访证据（longer-visit inquiry · generally minimum one semester / four months）：Separate visitor section explicitly welcomes visiting students. Complete current form includes current MS degree, visitor home institution/advisor, remote/on-campus modes, start and availability, and visa/financial-assistance questions. This independently establishes applicability beyond UNC-local admitted master’s students. Robotics/embodiedAI is an explicit research choice. The current lab generally requires at least one semester or four months, so a shorter arrangement remains unverified.
+- 首次发现：2026-09-30T21:37:18Z；最后核查：2026-10-01T15:46:17Z
 - 当前总分：74/100；评分依据：
   - fit 39/40：Direct embodied action-reasoning/foundation-model match.
   - physical 20/25：Current primary coauthored project demonstrates physical manipulation; Ai2 experiments do not establish new UNC lab equipment.
-  - shortVisit 0/20：No verified visitor route.
+  - shortVisit 0/20：A later complete page and form establish a genuine outside-MS visitor route, but the lab generally requires a minimum semester or four months. Preserve zero short-visit points while displaying the longer-duration route and unverified shorter exception.
   - freshness 15/15：Current appointment corroboration and September 2026 news.
-- 未确认事项：New UNC faculty homepage also lists an Ai2 role; Ai2 datasets and hardware do not imply availability in a UNC visitor appointment. No 2027 hosting claim.；Summer 2027 acceptance, supervision, exact dates, funding, appointment and university/immigration approvals are unconfirmed. Self-funding alone does not establish eligibility.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.
+- 未确认事项：New UNC faculty homepage also lists an Ai2 role; Ai2 datasets and hardware do not imply availability in a UNC visitor appointment. No 2027 hosting claim.；Summer 2027 acceptance, supervision, exact dates, funding, appointment and university/immigration approvals are unconfirmed. Self-funding alone does not establish eligibility.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.；Current lab says a minimum1semester or4months is generally required. This materially lowers practical priority for a roughly8week stay; any shorter exception is unverified.；Although the form explicitly offers remote, the general advising FAQ says regular meetings occur in person. A fully remote arrangement must be agreed specifically.；The form asks whether assistance is required; this does not promise funding, visa sponsorship or2027capacity.；The PhD section contains a Fall2027 heading but a December2025 deadline; this stale degree-admission inconsistency does not erase the distinct live visitor route.；[Previously reviewed institutional visitor conditions](../eligibility_notes.md#unc-chapel-hill); category, funding and host approval remain separate from a laboratory inquiry.
 - 来源：
   - [jason718.github.io / source 1](https://jason718.github.io/)：Current UNC assistant professorship, explicit email and September 2026 research updates.（核查 2026-09-30T21:42:30Z）
   - [raivn.cs.washington.edu / source 2](https://raivn.cs.washington.edu/people/)：UW lab alumni listing independently identifies his UNC assistant professorship.（核查 2026-09-30T21:42:30Z）
   - [arxiv.org / source 3](https://arxiv.org/abs/2605.02881)：Primary MolmoAct2 authorship and real-robot study.（核查 2026-09-30T21:42:30Z）
   - [allenai.org / source 4](https://allenai.org/blog/molmoact2)：May 2026 release details real Franka trials and bimanual robot data.（核查 2026-09-30T21:42:30Z）
+  - [Later public research-interest source r1](https://jason718.github.io/rair-lab/)：Visitor invitation separate from local/master admission route; semester/4month general minimum; in-person meeting FAQ.（核查 2026-10-01T15:45:46Z；读取方式 complete-live-cloud-browser-page-and-expanded-section）
+  - [Later public research-interest source r2](https://docs.google.com/forms/d/e/1FAIpQLSdFuIFHQxCOzwogLJ3GaIt4AM70IKqXPm3Hplj5gfB4wKWOsw/viewform)：MS and external-school visitor fields; remote/onsite options, availability and support questions. No input.（核查 2026-10-01T15:46:17Z；读取方式 complete-live-cloud-browser-form）
 
 <a id="ranjay-krishna"></a>
 

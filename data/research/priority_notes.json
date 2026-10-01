@@ -3813,6 +3813,454 @@
           "evidence": "Official Fall 2023 arrival after Assistant Professor at Syracuse; institution move, not first faculty appointment."
         }
       ]
+    },
+    "feng-han": {
+      "appointmentStart": {
+        "year": 2024,
+        "precision": "year",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "Official current NYIT biography explicitly gives2024 arrival; personal lab news narrows toFall2024. No exact month or first-faculty status asserted."
+      },
+      "display": "2024（官方；Fall为本人）",
+      "caveat": "2024到校；独立研究生intern/visitor入口，硕士类别/资助/2027容量未知",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://www.nyit.edu/bio/feng-han/",
+          "evidence": "Official current Assistant Professor and2024 joining year.",
+          "retrieval": "complete-primary-page",
+          "observedAt": "2026-10-01T15:12:30Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://sites.google.com/view/fenghan-homepage",
+          "evidence": "Full lab homepage explicitly saysFall2024 appointment start.",
+          "retrieval": "complete-primary-page",
+          "observedAt": "2026-10-01T15:12:47Z"
+        },
+        {
+          "id": "h3",
+          "url": "https://www.nyit.edu/news/articles/new-academic-year-brings-new-faculty/",
+          "evidence": "August28,2024 university cohort independently lists Han as incoming/current ME AP.",
+          "retrieval": "complete-primary-page",
+          "observedAt": "2026-10-01T15:12:57Z"
+        },
+        {
+          "id": "h4",
+          "url": "https://sites.google.com/view/fenghan-homepage/join-us",
+          "evidence": "Full public HTML retrieved by curl: separate graduate intern/visiting-student section includes semester and winter/summer breaks.",
+          "retrieval": "complete-public-primary-HTML",
+          "observedAt": "2026-10-01T15:15:55Z"
+        }
+      ]
+    },
+    "huaxiu-yao": {
+      "appointmentStart": {
+        "year": 2023,
+        "precision": "year",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "First-person public hiring announcement explicitly givesFall2023 UNC AP start. Current official2026–27 catalog confirms AP role; no exact month inferred."
+      },
+      "display": "Fall 2023（本人公告；官方现任）",
+      "caveat": "较早AP；完整外部graduate/intern表单已核，现场/远程，要求AI及编程经验；期限/资金未知",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://www.linkedin.com/posts/huaxiuyao_huaxius-lab-recruitment-activity-7072646463222120448-CsMt",
+          "evidence": "Complete first-person professional post givesFall2023 UNC AP start.",
+          "retrieval": "complete-first-person-professional-post",
+          "observedAt": "2026-10-01T15:15:29Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://catalog.unc.edu/undergraduate/departments/computer-science/",
+          "evidence": "Current official catalog independently lists Huaxiu Yao among APs.",
+          "retrieval": "complete-primary-page",
+          "observedAt": "2026-10-01T15:15:29Z"
+        },
+        {
+          "id": "h3",
+          "url": "https://www.huaxiuyao.io/aiming-lab",
+          "evidence": "Current separate year-round intern/visitor recruitment.",
+          "retrieval": "complete-primary-page",
+          "observedAt": "2026-10-01T15:13:26Z"
+        }
+      ]
+    },
+    "andrew-ilyas": {
+      "appointmentStart": {
+        "year": 2024,
+        "precision": "range",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "h1",
+          "h2",
+          "h3",
+          "h4",
+          "h5"
+        ],
+        "evidence": "Primary sources conflict: official ECE catalog prints CMU2024–, whereas current official department biography and2026 new-faculty cohort explicitly saySpring2026; personal homepage saysJanuary2026 and author CV says2026–. Preserve2024–2026 range/conflict rather than silently choosing a date.",
+        "endYear": 2026
+      },
+      "display": "2024–2026（官方目录与官方到岗公告冲突）",
+      "caveat": "目录写2024，现任官方简介/新教师页写Spring2026，本人Jan2026；保留冲突，有限intern容量",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofelectricalandcomputerengineering/",
+          "evidence": "Official faculty roster prints CMU2024– for Ilyas; disagrees with targeted biographies.",
+          "retrieval": "complete-primary-page",
+          "observedAt": "2026-10-01T15:16:48Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://www.ece.cmu.edu/directory/bios/andrew-ilyas.html",
+          "evidence": "Current AP title; biography retains incomingSpring2026 wording.",
+          "retrieval": "complete-primary-page",
+          "observedAt": "2026-10-01T15:15:55Z"
+        },
+        {
+          "id": "h3",
+          "url": "https://engineering.cmu.edu/faculty-staff/professional-development/center-faculty-success/new-faculty-directory/index.html",
+          "evidence": "Official2026 new-faculty cohort repeatsSpring2026 start.",
+          "retrieval": "complete-primary-page",
+          "observedAt": "2026-10-01T15:16:48Z"
+        },
+        {
+          "id": "h4",
+          "url": "https://andrewilyas.com/",
+          "evidence": "Current personal page givesJanuary2026 start and limited intern email inquiry.",
+          "retrieval": "complete-primary-page",
+          "observedAt": "2026-10-01T15:12:57Z"
+        },
+        {
+          "id": "h5",
+          "url": "https://andrewilyas.com/AndrewIlyasCV.pdf",
+          "evidence": "Full author CV records CMUAP2026–; Stanford Stein fellowship2024–25.",
+          "retrieval": "complete-primary-CV",
+          "observedAt": "2026-10-01T15:15:10Z"
+        }
+      ]
+    },
+    "ross-greer": {
+      "appointmentStart": {
+        "year": 2024,
+        "precision": "year",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "Full current personal homepage explicitly says joined UC Merced as AP in2024; current official EECS profile corroborates title/contact, without a start date. Year is first-person provenance, not an official personnel-date claim."
+      },
+      "display": "2024（本人；官方确认现职）",
+      "caveat": "先前外校短/长访客入口保持，预期自筹；本次访客页重新读取失败，不更新原邀请观察时间；实体仅学习感知",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://rossgreer.com/",
+          "evidence": "Complete current personal page explicitly lists2024 AP arrival.",
+          "retrieval": "complete-primary-page",
+          "observedAt": "2026-10-01T15:15:42Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://eecs.ucmerced.edu/content/ross-greer",
+          "evidence": "Official current Assistant Professor and professional email.",
+          "retrieval": "complete-primary-page",
+          "observedAt": "2026-10-01T15:15:55Z"
+        },
+        {
+          "id": "h3",
+          "url": "https://mi3-lab.github.io/prospective",
+          "evidence": "Reuse prior full outside-institution short/long visiting route; self-funded expectation.",
+          "retrieval": "reused-completed-primary-observation",
+          "observedAt": "2026-10-01T10:21:01Z"
+        }
+      ]
+    },
+    "ismini-lourentzou": {
+      "appointmentStart": {
+        "year": 2024,
+        "precision": "month",
+        "status": "current",
+        "appointmentType": "institution-move",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "Official hiring announcement explicitly gives January 2024 Illinois start and prior Virginia Tech Assistant Professor role. Recent institution move, not first faculty appointment.",
+        "month": 1
+      },
+      "display": "2024-01（官方；此前Virginia Tech AP）",
+      "caveat": "转校；当前本校/学位招聘与一般合作未证明外校硕士访学，访客0",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://ischool.illinois.edu/news-events/news/2024/01/lourentzou-join-ischool-faculty",
+          "evidence": "Official exact start month and prior AP institution.",
+          "retrieval": "complete-primary-page",
+          "observedAt": "2026-10-01T15:22:32Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://ece.illinois.edu/about/directory/faculty/lourent2",
+          "evidence": "Current official Illinois faculty appointments.",
+          "retrieval": "complete-primary-page",
+          "observedAt": "2026-10-01T15:23:52Z"
+        },
+        {
+          "id": "h3",
+          "url": "https://isminoula.github.io/",
+          "evidence": "Current personal research/role; January2024 arrival news corroborates.",
+          "retrieval": "complete-primary-page",
+          "observedAt": "2026-10-01T15:21:19Z"
+        }
+      ]
+    },
+    "wenzhen-yuan": {
+      "appointmentStart": {
+        "year": 2023,
+        "precision": "month",
+        "status": "current",
+        "appointmentType": "institution-move",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "Official Illinois CS hiring story explicitly gives August 2023 start and existing CMU Assistant Professor role. Current university directory confirms Illinois AP; treat as institution move and older secondary tier.",
+        "month": 8
+      },
+      "display": "2023-08（官方；此前CMU AP）",
+      "caveat": "转校；完整表单有Masters但没有独立外校visitor角色或访问条件，访客0",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://siebelschool.illinois.edu/news/12-new-faculty-add-to-expertise-in-research-and-education-at-illinois-computer-science",
+          "evidence": "Full hiring story gives August2023 arrival from CMU AP.",
+          "retrieval": "complete-primary-page",
+          "observedAt": "2026-10-01T15:22:32Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://mechse.illinois.edu/people/profile/yuanwz",
+          "evidence": "Current official Assistant Professor and email.",
+          "retrieval": "complete-primary-page",
+          "observedAt": "2026-10-01T15:23:52Z"
+        },
+        {
+          "id": "h3",
+          "url": "https://www.robotouchlab.com/join-us/",
+          "evidence": "Current UG/master interest-form landing page, outside eligibility not stated.",
+          "retrieval": "complete-primary-page",
+          "observedAt": "2026-10-01T15:22:53Z"
+        }
+      ]
+    },
+    "preston-culbertson": {
+      "appointmentStart": {
+        "year": 2025,
+        "precision": "year",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "Personal announcement explicitly dates Cornell AP start to Fall 2025. Official October1,2025 new-faculty introduction confirms current role after an industry research-scientist position; exact month and first-ever faculty status not inferred."
+      },
+      "display": "Fall 2025（本人；官方2025新教师）",
+      "caveat": "现任Cornell；MS/UG说明面向本校，暂无postdoc与外校访客未知须分开，访客0",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://pculbertson.github.io/",
+          "evidence": "Full personal page explicitly gives Fall2025 Cornell AP start; current title and local research instructions.",
+          "retrieval": "complete-primary-page",
+          "observedAt": "2026-10-01T15:21:32Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://bowers.cornell.edu/news-stories/meet-new-faculty-preston-culbertson",
+          "evidence": "Official October2025 new-faculty profile confirms present Cornell CS role.",
+          "retrieval": "complete-primary-page",
+          "observedAt": "2026-10-01T15:21:55Z"
+        }
+      ]
+    },
+    "zhi-qi-cheng": {
+      "appointmentStart": {
+        "year": 2025,
+        "precision": "year",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "Official UW Tacoma new-faculty account explicitly labels start as Winter Quarter 2025. Current official directory confirms AP at Tacoma, with UW graduate-faculty endorsement; do not infer a specific January day/month from quarter label."
+      },
+      "display": "Winter Quarter 2025（官方）",
+      "caveat": "Tacoma任职，非Seattle实验室；本校学位指导/历史visitor不构成短访邀请，访客0",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://www.tacoma.uw.edu/news/welcoming-new-faculty-uw-tacoma-2024-25",
+          "evidence": "Complete official hiring cohort gives Winter Quarter2025 start. Earlier long-domain alias timed out; canonical university page read fully.",
+          "retrieval": "complete-primary-page",
+          "observedAt": "2026-10-01T15:23:52Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://directory.tacoma.uw.edu/node/1433",
+          "evidence": "Current official Tacoma AP, graduate-advising eligibility and public contact.",
+          "retrieval": "complete-primary-page",
+          "observedAt": "2026-10-01T15:21:55Z"
+        },
+        {
+          "id": "h3",
+          "url": "https://faculty.washington.edu/zhiqics/",
+          "evidence": "Full current research and degree-oriented recruitment instructions.",
+          "retrieval": "complete-primary-page",
+          "observedAt": "2026-10-01T15:21:32Z"
+        }
+      ]
+    },
+    "sherry-yang": {
+      "appointmentStart": {
+        "year": 2025,
+        "precision": "year",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "The official 2025–26 Courant announcement places Yang under Fall 2025. The earlier 2024–25 announcement explicitly said she would join in 2025. Retain the season in prose; no exact month, day or first-ever faculty status is inferred."
+      },
+      "display": "Fall 2025（官方）",
+      "caveat": "NYU现任及Google DeepMind并行角色；外校访客历史不等于当前入口，协作设备20",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://cims.nyu.edu/dynamic/news/1484/",
+          "retrieval": "complete-primary-page",
+          "evidence": "Official September 2, 2025 announcement lists Yang under Fall 2025 as CS Assistant Professor, following Google DeepMind research employment.",
+          "observedAt": "2026-10-01T17:14:44Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://cims.nyu.edu/dynamic/news/1465/",
+          "retrieval": "complete-primary-page",
+          "evidence": "The earlier 2024–25 cohort explicitly states a 2025 arrival, rather than a 2024 appointment.",
+          "observedAt": "2026-10-01T17:14:44Z"
+        },
+        {
+          "id": "h3",
+          "url": "https://sherryy.github.io/",
+          "retrieval": "complete-primary-page",
+          "evidence": "Current NYU CS Assistant Professor with a concurrent Staff Research Scientist role at Google DeepMind. No leave or new visitor route inferred.",
+          "observedAt": "2026-10-01T17:14:24Z"
+        }
+      ]
+    },
+    "georgios-pavlakos": {
+      "appointmentStart": {
+        "year": 2024,
+        "month": 1,
+        "precision": "month",
+        "status": "current",
+        "appointmentType": "first-faculty-as-described",
+        "sourceIds": [
+          "h1",
+          "h2",
+          "h3"
+        ],
+        "evidence": "The official UT profile confirms Assistant Professor. The author homepage explicitly dates the start to January 2024, agreeing with the complete CV. The CV lists the earlier Berkeley postdoc from August 2020 to December 2023. This is the first listed faculty appointment in that career history; the month comes from first-person sources."
+      },
+      "display": "2024-01（本人主页/CV；官方确认现任）",
+      "caveat": "职业履历首个列出的faculty任职；外校访问未知，合作设备20",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://www.cs.utexas.edu/people/faculty-researchers/georgios-pavlakos",
+          "retrieval": "complete-primary-page",
+          "evidence": "Current official UT CS Assistant Professor following a Berkeley postdoc. The unrelated Glasgow law professor is a namesake.",
+          "observedAt": "2026-10-01T17:15:00Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://geopavlakos.github.io/",
+          "retrieval": "complete-primary-page",
+          "evidence": "Direct news statement says the UT CS Assistant Professor appointment started in January 2024.",
+          "observedAt": "2026-10-01T17:15:12Z"
+        },
+        {
+          "id": "h3",
+          "url": "https://geopavlakos.github.io/files/pavlakos-cv.pdf",
+          "retrieval": "complete-primary-page",
+          "evidence": "Complete seven-page CV lists January 2024–current AP and prior Berkeley postdoc August 2020–December 2023, with 2026 publications.",
+          "observedAt": "2026-10-01T17:15:12Z"
+        }
+      ]
+    },
+    "ranjay-krishna": {
+      "appointmentStart": {
+        "year": 2022,
+        "precision": "year",
+        "status": "current",
+        "appointmentType": "first-faculty-as-described",
+        "sourceIds": [
+          "h1",
+          "h2",
+          "h3"
+        ],
+        "evidence": "The complete current CV dates the UW Assistant Professor appointment to 2022–present. An official November 2021 story planned the arrival for the next September, after Stanford doctoral study and FAIR research. Encode the actual year corroborated by the CV, rather than turn the planned month into a verified actual month. This is the first listed faculty appointment in the CV."
+      },
+      "display": "2022（现任CV与官方预告相符）",
+      "caveat": "UW任职持续；2026起Microsoft Superintelligence，Ai2主任为2024–26往职；不推断离岗或设备转移",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://homes.cs.washington.edu/~ranjay/personal/resume.pdf",
+          "retrieval": "complete-primary-page",
+          "evidence": "Complete 30-page CV: UW AP 2022–present; Microsoft Superintelligence MTS 2026–present; Ai2 Research Director 2024–2026 under past appointments. The search index still displayed Ai2 as current, so the full current PDF takes precedence.",
+          "observedAt": "2026-10-01T17:15:12Z"
+        },
+        {
+          "id": "h2",
+          "url": "https://news.cs.washington.edu/2021/11/15/recent-faculty-hires-expand-the-allen-schools-leadership-in-machine-learning-computational-biology-systems-security-and-more/",
+          "retrieval": "complete-primary-page",
+          "evidence": "Official November 2021 announcement planned a September 2022 arrival from FAIR after the Stanford PhD. The year agrees with the current CV.",
+          "observedAt": "2026-10-01T17:15:00Z"
+        },
+        {
+          "id": "h3",
+          "url": "https://www.cs.washington.edu/people/faculty/ranjay-krishna/",
+          "retrieval": "complete-primary-page",
+          "evidence": "Current official faculty profile independently confirms an ongoing UW Assistant Professor appointment.",
+          "observedAt": "2026-10-01T17:15:28Z"
+        },
+        {
+          "id": "h4",
+          "url": "https://www.ranjaykrishna.com/index.html",
+          "retrieval": "complete-primary-page",
+          "evidence": "The current homepage also identifies Microsoft Superintelligence membership and Ai2 as a past role, while retaining UW AP and RAIVN leadership. Do not infer leave or transfer of Ai2 hardware access.",
+          "observedAt": "2026-10-01T17:15:12Z"
+        }
+      ]
     }
   },
   "constraints": [
@@ -4694,6 +5142,22 @@
           "evidence": "Current research-intern invitation from Spring 2027 expressly requires interns physically in the USA; August 2025 start news, June 2026 VLA-rescue-robot award and September 2026 activity."
         }
       ]
+    },
+    {
+      "key": "jason-ren-general-semester-minimum",
+      "candidateId": "zhongzheng-jason-ren",
+      "name": "Zhongzheng (Jason) Ren",
+      "kind": "minimum-duration",
+      "scope": "Visiting students; minimum is generally required, with no verified shorter exception",
+      "summary": "通常至少1学期或4个月；短访例外未核，降低首联优先级；表单remote与常规现场会议需个别协调",
+      "observedAt": "2026-10-01T15:45:46Z",
+      "sources": [
+        {
+          "url": "https://jason718.github.io/rair-lab/",
+          "evidence": "Current lab says a minimum1semester or4months is generally required. This materially lowers practical priority for a roughly8week stay; any shorter exception is unverified."
+        }
+      ],
+      "months": 4
     }
   ]
 }

@@ -1,0 +1,179 @@
+[
+  {
+    "id": "qingzhao-zhang",
+    "name": "Qingzhao Zhang",
+    "aliases": [],
+    "school": "University of Arizona",
+    "homepage": "https://zqzqz.github.io/",
+    "title": "Assistant Professor (tenure-track)",
+    "department": "School of Electrical, Computing, and Software Engineering; Secure Autonomous Systems group",
+    "batch": "embodied-106",
+    "discoveredAt": "2026-10-01T15:36:39Z",
+    "verifiedAt": "2026-10-01T15:41:04Z",
+    "researchAreas": [
+      "Trustworthy autonomous perception",
+      "Camera–LiDAR and collaborative perception",
+      "Robot/vehicle visual tracking robustness",
+      "Neural spatial representations",
+      "Safety and security of cyber-physical systems"
+    ],
+    "fitReason": "New-AP autonomy/perception robustness option for CS-oriented research. Current learned spatial fusion, trajectory-prediction and sensor-robustness work is directly relevant to embodied perception, though not a core manipulation/VLA-policy lab.",
+    "physicalEvidence": {
+      "status": "limited-live-neural-tracking; no learned flight",
+      "summary": "Physical10 for limited live learned perception, not learned flight/control. Full2026 Banshee §V-C executes SiamRPN/DaSiamRPN and other trackers in actual gimbal/drone benchtop tests. Separate hovering-flight experiments use a proprietary tracker with undisclosed internals. The proposed surrogate replaces neural proposal generation with geometry-based mock proposals, so it is not credited as a newly learned controller. Joint Michigan/Arizona authorship does not establish current Arizona apparatus or visitor access. The separate May 2026 collaborative-perception paper uses only simulated/recorded datasets.",
+      "sourceIds": [
+        "s9"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "Visitor10. Complete current recruiting PDF separately welcomes research interns at any time; relevant bachelor/master degree and strong programming/research interest required. This is not limited to local degree students. A separate first-person Summer2026 advertisement allowed remote interns with funding TBD, but cannot be treated as Summer2027 availability or a guaranteed remote policy. Current duration, onsite format and support remain unspecified.",
+      "sourceIds": [
+        "s6",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 36,
+      "physical": 10,
+      "shortVisit": 10,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct neural spatial/autonomous-perception safety, below core manipulation/VLA fit.",
+      "physical": "Actual live neural tracking on a physical gimbal testbed; not demonstrated learned action policy or verified own-campus hardware.",
+      "shortVisit": "Separate year-round research-intern invitation with relevant degree requirement; current duration/funding2027unknown.",
+      "freshness": "Full2026 primary methods, September 2026 research update, current AP and recruitment pages."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "ecse.engineering.arizona.edu / source 1",
+        "url": "https://ecse.engineering.arizona.edu/faculty-staff/faculty/qingzhao-zhang",
+        "summary": "Current official tenure-track Assistant Professor, public email and CPS/AI-security agenda.",
+        "verifiedAt": "2026-10-01T15:37:01Z",
+        "retrieval": "complete-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "zqzqz.github.io / source 2",
+        "url": "https://zqzqz.github.io/files/resume.pdf",
+        "summary": "Complete current author CV: Arizona Assistant Professor August 2025 onward, SAS lab, current 2026 papers and students.",
+        "verifiedAt": "2026-10-01T15:38:17Z",
+        "retrieval": "complete-primary-CV"
+      },
+      {
+        "id": "s3",
+        "label": "azti.arizona.edu / source 3",
+        "url": "https://azti.arizona.edu/sites/default/files/CV.pdf",
+        "summary": "Official-hosted author CV independently preserves August 2025 start; provenance is still author supplied.",
+        "verifiedAt": "2026-10-01T15:37:42Z",
+        "retrieval": "complete-primary-CV"
+      },
+      {
+        "id": "s4",
+        "label": "ece.engin.umich.edu / source 4",
+        "url": "https://ece.engin.umich.edu/stories/these-cse-phd-alums-have-accepted-faculty-positions-2",
+        "summary": "Official Michigan alumni search result says January 2026 anticipated start, conflicting with current CV. Full-page retrieval failed; do not claim complete-page verification.",
+        "verifiedAt": "2026-10-01T15:37:31Z",
+        "retrieval": "primary-search-result"
+      },
+      {
+        "id": "s5",
+        "label": "news.engineering.arizona.edu / source 5",
+        "url": "https://news.engineering.arizona.edu/sites/default/files/2026-01/2025magazine_winter.pdf",
+        "summary": "Complete official Winter2025 magazine downloaded; profiles current AP Qingzhao Zhang but gives no exact start date.",
+        "verifiedAt": "2026-10-01T15:39:20Z",
+        "retrieval": "complete-primary-PDF"
+      },
+      {
+        "id": "s6",
+        "label": "zqzqz.github.io / source 6",
+        "url": "https://zqzqz.github.io/files/student_recruit_ad.pdf",
+        "summary": "Full one-page recruiting PDF: separate research interns welcome at any time; related bachelor/master degree and strong programming required. Fall2026 funding applies to PhD intake, not all interns.",
+        "verifiedAt": "2026-10-01T15:37:42Z",
+        "retrieval": "complete-primary-PDF"
+      },
+      {
+        "id": "s7",
+        "label": "www.linkedin.com / source 7",
+        "url": "https://www.linkedin.com/posts/qingzhao-zhang-zqzqz_qingzhao-zhang-activity-7378501605094125568-t1Rr",
+        "summary": "Full first-person Summer2026 internship post explicitly permits remote work with funding TBD. Historical summer scope, not a2027 offer.",
+        "verifiedAt": "2026-10-01T15:39:20Z",
+        "retrieval": "complete-first-person-recruitment-post"
+      },
+      {
+        "id": "s8",
+        "label": "arxiv.org / source 8",
+        "url": "https://arxiv.org/html/2605.01301v1",
+        "summary": "Full May 2026 learned collaborative-perception safety paper. OPV2V simulation and V2X-Real recorded data; ethics appendix explicitly rules out deployed-system experiments.",
+        "verifiedAt": "2026-10-01T15:38:17Z",
+        "retrieval": "complete-primary-paper"
+      },
+      {
+        "id": "s9",
+        "label": "arxiv.org / source 9",
+        "url": "https://arxiv.org/html/2607.09930v1",
+        "summary": "Full accepted IEEE S&P2026 Banshee paper. Actual benchtop tracking includes neural SiamRPN/DaSiamRPN; separate real hovering-flight tracker is undisclosed. Surrogate proposal stage mocks rather than executes neural feature proposals.",
+        "verifiedAt": "2026-10-01T15:39:20Z",
+        "retrieval": "complete-primary-paper"
+      },
+      {
+        "id": "s10",
+        "label": "zqzqz.github.io / source 10",
+        "url": "https://zqzqz.github.io/forms/news.yaml",
+        "summary": "Homepage-linked public content asset: September 2026 paper acceptance and August 2025 joined Arizona statement.",
+        "verifiedAt": "2026-10-01T15:38:04Z",
+        "retrieval": "complete-primary-site-content"
+      },
+      {
+        "id": "s11",
+        "label": "international.arizona.edu / source 11",
+        "url": "https://international.arizona.edu/international-students/j-1-student-intern",
+        "summary": "Full official overseas-master pathway, graduate category review, three-week minimum, department initiation, personal funds and aviation restriction; see institution supplement.",
+        "verifiedAt": "2026-10-01T15:40:27Z",
+        "retrieval": "complete-primary-policy"
+      },
+      {
+        "id": "s12",
+        "label": "international.arizona.edu / source 12",
+        "url": "https://international.arizona.edu/international-faculty/j-1-exchange-visitor",
+        "summary": "Separate scholar categories/funding rules, with linked older packet and invitation template; see supplement.",
+        "verifiedAt": "2026-10-01T15:40:27Z",
+        "retrieval": "complete-primary-policy"
+      }
+    ],
+    "unknowns": [
+      "2025–2026 appointment-source conflict preserved. Current tenure-track AP role is official; exact start and first-faculty status not silently inferred.",
+      "Intern funding is not established. The fully funded wording belongs to Fall2026 PhD degree recruitment; Summer2026 internship funding was explicitly TBD.",
+      "No minimum lab duration is stated. Roughly eight weeks, remote/in-person mode and summer2027 capacity require host confirmation.",
+      "Physical evidence is limited to real-time benchtop perception. Do not label commercial hovering tests as a learned flight policy, a VLA manipulation experiment or current Arizona-owned apparatus.",
+      "University of Arizona Student Intern route expressly includes overseas master’s students, but graduate cases first go to International Faculty and Scholars for possible scholar classification. Department sponsorship, degree benefit, English, insurance and individual approval remain necessary.",
+      "Posted on-campus Student Intern range is3weeks–12months with32+hours/week; personal funds accepted and at least3months planning recommended. Its aviation restriction requires project-specific review for drone research. It does not establish remote authorization.",
+      "Category-specific current costs and2027 amounts must be confirmed. Scholar and Student Intern funding figures differ; self-funding is not automatic admission.",
+      "No outreach or application occurred. Research summaries support defensive robustness study; no operational attack procedure is recommended.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor review](../eligibility_notes.md#university-of-arizona); institution and lab observations retain their separate source times.",
+      "Timestamp scope: Earliest precisely retained name appeared in an indexed repost/mirror search result at15:36:39Z. First authoritative named primary search result/homepage identification15:36:51Z; full current official role15:37:01Z. No claims rely on the mirror."
+    ],
+    "discoveryTimestampNote": "Earliest precisely retained name appeared in an indexed repost/mirror search result at15:36:39Z. First authoritative named primary search result/homepage identification15:36:51Z; full current official role15:37:01Z. No claims rely on the mirror.",
+    "publicEmail": "qzzhang@arizona.edu",
+    "appointmentStart": {
+      "year": 2025,
+      "endYear": 2026,
+      "precision": "range",
+      "status": "current",
+      "appointmentType": "unresolved",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s10"
+      ],
+      "evidence": "Current author CV, official-hosted author CV and homepage news say August2025; an official Michigan alumni announcement indexed in search says January2026 anticipated start. Winter2025 Arizona magazine profiles him as AP. Preserve2025–2026 source conflict rather than invent one exact reconciled date; first-ever faculty status not separately asserted."
+    },
+    "candidateTier": "自主感知稳健性备选；仅实物神经跟踪，非学习飞控"
+  }
+]

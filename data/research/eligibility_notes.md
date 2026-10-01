@@ -1264,3 +1264,43 @@ Additional check 2026-10-01T16:23:24Z; reuse central WSU caveats. The [official 
 
 [Scholar 流程](https://itservice.lsu.edu/TDClient/62/intlservices/KB/Article/1362/Overview-J-1-Visiting-Scholars) 允许个人资金，要求导师邀请、院系材料与 IFSO 审批及相应资历；Short-Term Scholar 上限六个月，但外校硕士能否使用尚未明确。页面列示每月至少1300美元，仅为核查时公开财力底线，不是2027总预算。Scholar 的五个工作日与 Intern 的三周是材料办理时间，不含全部准备/签证；Intern 另建议提前三个月。Intern 的航空及临床/患者接触限制也须按具体项目确认。最终类别、学位资格、经费和设备接入都需独立获批。
 
+
+<a id="ut-rio-grande-valley"></a>
+### University of Texas Rio Grande Valley（UTRGV）
+
+核实：2026-10-01T18:44:14Z。学校流程，不代表导师2027名额或个人资格。
+
+- [Student Intern](https://www.utrgv.edu/iss/j-1-and-nse-exchange-programs/j-1-exchange-visitor-program/j-1-student-intern-program/index.htm)明确接受海外在读学位学生；研究训练须满足本校学位要求，至少每周32小时，3周–12个月，期间不能毕业。约8周在时长范围内，仍需导师/院系及本校认证、DS-7002、英语与保险等审批。可不支付薪酬，页面列有unpaid agreement；不能据此认定任何自费方案自动获批。
+- 提前4–5个月咨询，学校称距开始不足2个月不签发DS-2019；院系承担$105处理费。页面概述写约$2000/月，申请清单写$2500/月；[现行财务页](https://www.utrgv.edu/iss/j-1-and-nse-exchange-programs/j-1-student-scholar-financial-requirements/index.htm)也写$2500/月。暂按较高额规划，并请ISS确认类别和可接受资金来源；父母/其他赞助证明可用，纯个人资金许可未单独证实。
+- [Short-Term Scholar](https://www.utrgv.edu/iss/j-1-and-nse-exchange-programs/j-1-exchange-visitor-program/professor-and-research-scholar/index.htm)最长6个月，要求相当教育/成就，不等于所有外校硕士均适用。旧2025–26财务PDF现已404，不沿用其较低额度。无远程许可或访问名额保证。
+
+
+<a id="university-of-arizona"></a>
+## University of Arizona · Tucson 的校外硕士访问类别需先审定
+核验：2026-10-01T15:41:04Z。此校不是 Arizona State。
+
+- [Student Intern 官方页面](https://international.arizona.edu/international-students/j-1-student-intern)明确覆盖境外高校在读本科/硕士，但研究生应先由 International Faculty and Scholars 判断是否适用 scholar 类别。须与原学位目标相关、访后返校完成学业，由接收院系发起；校内3周–12个月、每周32小时以上，可有薪或无薪，建议提前至少3个月。
+- 该页面接受个人/外部经费，现列每月$2,028；院系$400不可退申请处理费，另有签证/SEVIS费用、英语及保险要求。2027金额仍需复核。航空等活动在禁止项内，涉及无人机的具体研究须单独审定；不能把校内类别套用为远程许可。
+- [Scholar 页面](https://international.arizona.edu/international-faculty/j-1-exchange-visitor)另列每月$2,000及每位家属$700，勿与 Student Intern 混用。[邀请信模板](https://international.arizona.edu/sites/default/files/2019/12/J-1%20Letter%20of%20Invitation%202022.pdf)容许无津贴/自筹并要求资金证明，但不等于所有在读硕士自动合格。导师接收、院系手续、类别及2027容量均待确认。
+- 官网现链接的[较早版本信息包](https://international.arizona.edu/sites/default/files/documents/ifs/j-1_information_packet_2020.pdf)将 Short-Term Scholar 设为最长6个月，要求本科及相关丰富经验；不能仅凭在读硕士身份跳过个案审核。
+
+
+<a id="oklahoma-norman"></a>
+### University of Oklahoma, Norman
+
+Checked 2026-10-01T16:15:08Z. The [current Student Intern route](https://www.ou.edu/globalengagement/iss/j-1-internship-program) explicitly accepts master's students enrolled outside the US for home-degree-related research: 3 weeks–12 months, at least 32 hours/week, paid or unpaid, onsite faculty supervision. English, insurance and $2,000/month funding proof are required. Current fee: $500 for ≤6 months, $800 for longer, subject to change; an older brochure lists $1,000 for the longer category, so reconfirm. A roughly eight-week visit is within the published range, without being a lab offer.
+
+The [home-advisor form](https://www.ou.edu/content/dam/International/ISS/Forms/Academic%20Adviser%20Form.pdf) requires return to finish the home degree. [Host attestation](https://www.ou.edu/content/dam/International/ISS/Forms/Student%20Intern%20Host%20Department%20Attestation.pdf) requires supervisor/chair approval and continuous onsite mentoring; off-campus research or a faculty member's business needs Legal Counsel approval. This is relevant to vehicle field tests. Housing is limited and not included.
+
+A separate [Norman Affiliate/scholar route](https://www.ou.edu/immigration/employees/j-1-exchange-visitors) explicitly permits personal funding and outside students with completed bachelor's degrees, subject to qualification. Its $2,000/month floor and early 6–12-month planning recommendation do not automatically transfer to the Student Intern process. Student Intern personal-funding-source approval and processing time remain to be confirmed. Bin Xu explicitly offers no funding for the visitor/graduate inquiry category; summer 2027 capacity is unknown.
+
+
+<a id="texas-tech"></a>
+### Texas Tech University
+
+Checked 2026-10-01T16:03:31Z. **External-master onsite category unresolved.** The [current-linked Student Intern page](https://www.depts.ttu.edu/international/isss/impforms.php) limits its description to undergraduates/bachelor objectives, at least 32 hours/week and at most 12 months. The newer [February 2026 university policy](https://www.depts.ttu.edu/opmanual/OP70.37.php) uses generic current-degree wording without expressly confirming graduate eligibility; an alternate scholar route also needs ISSS approval. No minimum weeks or fixed preparation lead time was verified.
+
+Department/chair/ISSS approvals, security screening and insurance apply. Personal funds may be documented. The [published scholar/intern minimum](https://www.depts.ttu.edu/international/isss/j1intlstu/j2dep.php) is $1,700/month, subject to 2027 recheck. Host-department processing fees are currently $360 for Student Intern and $200 for initial/transfer scholar, with approximately 2% annual increases; these are not automatically student charges. [Application guidance](https://www.depts.ttu.edu/international/isss/scholarstaff/J-1%20Student%20Intern%20Application%20Process%20-%20Updated%20Sep%202025.pdf) requires HR volunteer approval when unpaid. Aviation-related Student Intern duties need project-specific clarification. [Research-security policy](https://www.depts.ttu.edu/opmanual/OP75.04.php) can also cover sensitive/nonpublic virtual work.
+
+Liangkai Liu's explicit route is remote internship; onsite hosting, summer 2027 and compensation remain unknown. University policy is not a lab offer.
+

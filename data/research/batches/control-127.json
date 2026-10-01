@@ -1,0 +1,152 @@
+[
+  {
+    "id": "bin-xu",
+    "name": "Bin Xu",
+    "aliases": [
+      "Brian Xu",
+      "Bin (Brian) Xu"
+    ],
+    "school": "University of Oklahoma",
+    "homepage": "https://sites.google.com/view/binxu/home?authuser=0",
+    "title": "Assistant Professor",
+    "department": "Aerospace and Mechanical Engineering",
+    "batch": "control-127",
+    "discoveredAt": "2026-10-01T16:12:08Z",
+    "verifiedAt": "2026-10-01T16:16:38Z",
+    "researchAreas": [
+      "Learned vehicle dynamics and control",
+      "Neural steering control",
+      "Autonomous driving",
+      "Reinforcement learning for vehicle energy management"
+    ],
+    "fitReason": "Established Assistant Professor with an explicit unfunded graduate/visiting-scholar inquiry route and current supervised neural vehicle-control hardware. The 2021 OU arrival is secondary to the recent-AP preference. Physical evidence is actuator-level validation, with important limits stated in the full paper.",
+    "physicalEvidence": {
+      "status": "limited-current-stationary-neural-steering; not moving navigation",
+      "summary": "The complete July 2026 Sensors paper tests a real 2025 Nissan Leaf in OU’s lab, held stationary on rotating supports. A trained MLP forward model supplies synthetic examples for a learned inverse steering map, used as feedforward with integral feedback. Section 4.2 runs that neural controller in closed loop through the vehicle electronics, reaching ±135° commands; negative-direction overshoot and CAN-feedback glitches remain. The separately tested PID covers a wider range, so its performance is not attributed to the neural controller. Moving-vehicle path tracking remains future work in this paper. Xu is explicitly the supervisor, resource provider and project administrator; the current lab roster identifies the first author as his doctoral student. The official 2026 fleet article verifies wider current vehicle testing but does not prove that this neural controller performed autonomous road navigation.",
+      "sourceIds": [
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only · explicitly unfunded visitor/graduate research",
+      "summary": "The live openings page separates PhD intake from a broader invitation to visiting scholars and graduate/undergraduate students interested in research. The latter explicitly has no funding. This supports a genuine research inquiry, but outside-master acceptance, proposed project, summer 2027, duration and campus presence still require agreement. The university separately has an applicable outside-master Student Intern route; that policy is not a PI offer.",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 22,
+      "shortVisit": 10,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct substantive neural vehicle-control methods and current autonomous-systems advising.",
+      "physical": "Current supervised learned actuation is verified; stationary component validation receives 22 rather than full mobile-navigation credit.",
+      "shortVisit": "Current distinct visitor/graduate research invitation, explicitly unfunded; no summer dates or length promised. University eligibility alone adds no extra lab-offer points.",
+      "freshness": "July 2026 full methods and September 2026 official research report."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.ou.edu / source 1",
+        "url": "https://www.ou.edu/coe/ame/people/faculty/bin-xu",
+        "summary": "Official current Assistant Professor, public email and autonomous-vehicle research agenda.",
+        "verifiedAt": "2026-10-01T16:12:37Z",
+        "retrieval": "Direct primary HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "sites.google.com / source 2",
+        "url": "https://sites.google.com/view/binxu/opening",
+        "summary": "Separate from PhD applications, invites visiting scholars and graduate/undergraduate students to send resumes for research; explicitly no funding. Duration and summer 2027 not stated.",
+        "verifiedAt": "2026-10-01T16:13:43Z",
+        "retrieval": "Direct primary HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "sites.google.com / source 3",
+        "url": "https://sites.google.com/view/binxu/team",
+        "summary": "Current PI Brian alias and current advising, including first author Fabrice Simpore as 2026 doctoral student; prior Clemson Research Assistant Professor May 2020–July 2021.",
+        "verifiedAt": "2026-10-01T16:13:18Z",
+        "retrieval": "Direct primary HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "www.mdpi.com / source 4",
+        "url": "https://www.mdpi.com/1424-8220/26/15/4827",
+        "summary": "Complete July 30, 2026 publisher article, especially sections 2, 3.2.2 and 4.2: neural inverse feedforward plus integral feedback on stationary real vehicle steering. Author contributions identify Xu as supervisor/resource and project lead.",
+        "verifiedAt": "2026-10-01T16:14:36Z",
+        "retrieval": "Complete live publisher page in cloud browser; web parser failed. PMC separately showed CAPTCHA and was not bypassed."
+      },
+      {
+        "id": "s5",
+        "label": "www.ou.edu / source 5",
+        "url": "https://www.ou.edu/news/articles/2026/September/driving-down-cost-self-driving-cars",
+        "summary": "Dated September 3, 2026 official report confirms current OU fleet and campus vehicle-testing program, independent of the stationary steering-paper experiment.",
+        "verifiedAt": "2026-10-01T16:12:08Z",
+        "retrieval": "Direct primary HTML via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "sites.google.com / source 6",
+        "url": "https://sites.google.com/view/binxu/home?authuser=0",
+        "summary": "Current autonomous driving, physical AI, supervised/RL research and projects; grant availability is not visitor-pay availability.",
+        "verifiedAt": "2026-10-01T16:12:56Z",
+        "retrieval": "Direct primary HTML via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "ouccoe100.blogspot.com / source 7",
+        "url": "https://ouccoe100.blogspot.com/2021/08/gcoe-welcomes-new-faculty.html",
+        "summary": "College-authored August 19, 2021 cohort report names Xu as new OU AP after Clemson Research Assistant Professor. Its unrelated erroneous PhD-institution wording is not used; current faculty profile correctly says Clemson.",
+        "verifiedAt": "2026-10-01T16:12:56Z",
+        "retrieval": "Direct primary HTML via web.run"
+      },
+      {
+        "id": "s8",
+        "label": "www.ou.edu / source 8",
+        "url": "https://www.ou.edu/content/dam/cfe/docs/NFO%20Profiles_for%20Web.pdf",
+        "summary": "Official indexed 2021 new-faculty profiles names Bin Xu as AME Assistant Professor with Clemson PhD, corroborating the 2021 cohort; direct current PDF URL is 404, so indexed-only limitation retained.",
+        "verifiedAt": "2026-10-01T16:16:38Z",
+        "retrieval": "Primary indexed text verified; direct URL now 404"
+      },
+      {
+        "id": "s9",
+        "label": "www.ou.edu / source 9",
+        "url": "https://www.ou.edu/globalengagement/iss/j-1-internship-program",
+        "summary": "Current program expressly accepts outside-US master students with three-week to twelve-month visits, ≥32 hours/week, $2,000/month proof, and $500 fee for ≤6 months.",
+        "verifiedAt": "2026-10-01T16:15:08Z",
+        "retrieval": "Direct primary HTML via web.run"
+      },
+      {
+        "id": "s10",
+        "label": "www.ou.edu / source 10",
+        "url": "https://www.ou.edu/content/dam/International/ISS/Forms/Student%20Intern%20Host%20Department%20Attestation.pdf",
+        "summary": "Current-linked complete host form requires resources, onsite mentoring and chair/dean approval. Off-campus or faculty-business research requires prior Legal Counsel approval.",
+        "verifiedAt": "2026-10-01T16:15:08Z",
+        "retrieval": "Complete primary PDF via web.run"
+      }
+    ],
+    "unknowns": [
+      "OU Norman Student Intern explicitly covers master students enrolled outside the US: 3 weeks–12 months, at least 32 hours/week, onsite supervision and home-degree educational purpose. Current funding proof floor $2,000/month and fee $500 for ≤6 months; longer-visit current $800 conflicts with older brochure $1,000 and needs recheck. Home advisor must confirm return to finish the degree. Host resources and chair/dean approval are required. Off-campus vehicle research or a faculty business requires prior Legal Counsel approval. Separate Norman Affiliate route expressly permits personal funding; Student Intern funding-source approval is not assumed identical. Insurance, English evidence and project screening apply. Summer 2027 capacity, total costs and Student Intern lead time remain unknown. See Oklahoma Norman feasibility supplement.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor review](../eligibility_notes.md#oklahoma-norman); institution and lab observations retain their separate source times."
+    ],
+    "publicEmail": "binxu@ou.edu",
+    "appointmentStart": {
+      "year": 2021,
+      "precision": "year",
+      "status": "current",
+      "sourceIds": [
+        "s3",
+        "s5",
+        "s7",
+        "s8"
+      ],
+      "evidence": "College 2021–2022 cohort and indexed official 2021 profiles name new OU AP; September 2026 university story says arrival five years earlier. Previous Clemson Research Assistant Professor May 2020–July 2021 is explicitly listed by the PI. Exact OU month is not asserted.",
+      "appointmentType": "institution-move"
+    }
+  }
+]

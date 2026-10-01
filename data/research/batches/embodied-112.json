@@ -1,0 +1,124 @@
+[
+  {
+    "id": "yu-zhang",
+    "name": "Yu Zhang",
+    "aliases": [],
+    "school": "Boise State University",
+    "homepage": "https://yuzhang03.github.io/",
+    "title": "Assistant Professor",
+    "department": "Computer Science; School of Computing",
+    "batch": "embodied-112",
+    "discoveredAt": "2026-10-01T17:16:33Z",
+    "verifiedAt": "2026-10-01T17:18:40Z",
+    "researchAreas": [
+      "Learned 3D occupancy world models",
+      "Active mapping and next-view planning",
+      "Domain-adaptive robot perception",
+      "Continual and efficient embodied AI"
+    ],
+    "fitReason": "A recent Assistant Professor and useful lower-physical-confidence backup for CS-centered embodied perception. Current advised work studies how learned occupancy errors affect closed-loop viewpoint planning, rather than generic image editing. The substantive implementation is a simulated 3D exploration benchmark.",
+    "physicalEvidence": {
+      "status": "simulation-only",
+      "summary": "Physical evidence is zero. The complete September 2026 papers evaluate active camera trajectories on Macarons++ 3D scenes with generated RGB-D observations. No actual robot, rover, drone or current Boise apparatus execution is established. Prior industry robotics work is too nonspecific to credit as a physical experiment.",
+      "sourceIds": [
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "The current NICE lab page explicitly welcomes all levels and lists research volunteer, independent study and visiting scholar among inquiry categories, without a university-only restriction. It asks for intent, CV, transcripts and optional publications. The same roster lists a Stanford undergraduate research assistant in summer 2026; this is a prior outside-undergraduate example, not proof of outside-master eligibility or a 2027 slot. Generic visitor inquiry receives8.",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 34,
+      "physical": 0,
+      "shortVisit": 8,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct learned spatial world-model and active-mapping research, but a focused early workshop implementation rather than a mature VLA/physical robot program.",
+      "physical": "Only simulated 3D exploration and generated RGB-D observations verified; industry robotics summary is not a hardware experiment.",
+      "shortVisit": "Live generic visiting-scholar/research-volunteer inquiry applies beyond degree admission; master-specific appointment and duration remain unknown.",
+      "freshness": "Two full September 2026 methods papers and current lab roster/recruitment, with official July 2025 arrival."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.boisestate.edu / source 1",
+        "url": "https://www.boisestate.edu/coen-cs/2025/09/29/computer-science-welcomes-new-faculty-fall-2025/",
+        "summary": "Complete official cohort page explicitly dates July 2025 CS Assistant Professor appointment and documents earlier Kentucky doctorate and Bastian/Toyota industry role.",
+        "verifiedAt": "2026-10-01T17:17:32Z",
+        "retrieval": "complete-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "www.boisestate.edu / source 2",
+        "url": "https://www.boisestate.edu/coen-cs/people/faculty/yu-zhang/",
+        "summary": "Current official role, yzhang@boisestate.edu and direct link to yuzhang03 homepage; 3D/robotics vision and efficient ML agenda.",
+        "verifiedAt": "2026-10-01T17:18:02Z",
+        "retrieval": "complete-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "yuzhang03.github.io / source 3",
+        "url": "https://yuzhang03.github.io/",
+        "summary": "Current tenure-track AP, July 2025 arrival news, September 2026 IROS workshop work, 3D embodied perception and outside-institution collaboration interest.",
+        "verifiedAt": "2026-10-01T17:18:02Z",
+        "retrieval": "complete-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "yuzhang03.github.io / source 4",
+        "url": "https://yuzhang03.github.io/lab.html",
+        "summary": "Complete joining text welcomes all levels and explicitly names visiting scholar/research volunteer inquiries. Current PhD/MS advising and historical Stanford undergraduate research assistant; no outside-master duration or funding promise.",
+        "verifiedAt": "2026-10-01T17:18:02Z",
+        "retrieval": "complete-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2609.06820v1",
+        "summary": "Full September 6 paper retrieved17:18:22; §§III-B andIV read17:18:40. Macarons++ generated RGB-D exploration, five scenes and25 starts. Fixed pretrained occupancy/planner diagnosis; observation-gated filtering on two targeted failure starts. Corresponding author Yu uses Boise email.",
+        "verifiedAt": "2026-10-01T17:18:40Z",
+        "retrieval": "complete-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2609.09069v1",
+        "summary": "Full September 8 paper retrieved17:18:22; §§III-B/III-C/IV verify simulated closed-loop trajectories and observation-aware filtering. Coverage efficiency metrics are not actual energy consumption. Authors include current NICE students Jiahui Zhang and Bonian Han.",
+        "verifiedAt": "2026-10-01T17:18:40Z",
+        "retrieval": "complete-primary-page"
+      }
+    ],
+    "unknowns": [
+      "This is a spatial/embodied-method research backup with physical0, not a robot-access recommendation. Current experiments are simulated camera exploration, even though the papers describe robotic and space applications.",
+      "The filter does not retrain the occupancy network. The diagnosis holds the learned model and planner fixed while changing occupancy inputs; filtering improvements are preliminary targeted failure cases rather than broad real-world navigation validation.",
+      "Live visiting-scholar wording is generic, with outside-master academic title, degree applicability, duration, funding, onsite versus remote arrangement and 2027 capacity still unknown. Research volunteer wording does not waive university appointment or immigration requirements.",
+      "Boise State institutional conditions: bachelor-qualified Short-Term Scholar can span one day to six months, and personal support is allowed by host guidance. The actual external enrolled-master appointment remains unresolved and needs department/Center for Global Engagement approval.",
+      "Institutional note last verified2026-10-01T01:26:27Z: at least three months preparation, current listed single-visitor living support floor$2,325/month, English/financial evidence and unit approvals. This is not an all-in fee quote or guaranteed2027 minimum. No separate Student Intern pathway is inferred.",
+      "Identity is the Kentucky/Nathan Jacobs alumnus at Boise, verified through official email and homepage. Do not borrow robot-control or VLA papers from unrelated Yu Zhang authors at SUSTech, other Chinese universities, or other US campuses.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor review](../eligibility_notes.md#boise-state); institution and lab observations retain their separate source times.",
+      "Timestamp scope: Earliest precisely retained primary-name observation was the official Boise cohort page. Dedicated identity and route verification began17:17:32Z; no earlier individual timestamp was reconstructed."
+    ],
+    "discoveryTimestampNote": "Earliest precisely retained primary-name observation was the official Boise cohort page. Dedicated identity and route verification began17:17:32Z; no earlier individual timestamp was reconstructed.",
+    "publicEmail": "yzhang@boisestate.edu",
+    "appointmentStart": {
+      "year": 2025,
+      "month": 7,
+      "precision": "month",
+      "status": "current",
+      "appointmentType": "unresolved",
+      "sourceIds": [
+        "s1",
+        "s3"
+      ],
+      "evidence": "Official September 2025 faculty announcement explicitly says the CS AP appointment began in July 2025; current first-person news agrees. Earlier Kentucky doctoral study and industry employment are documented, but first-ever faculty status is not explicitly stated."
+    },
+    "candidateTier": "空间主动探索方法备选；仅仿真"
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "id": "fengying-dang",
+    "name": "Fengying Dang",
+    "aliases": [
+      "Dang Fengying"
+    ],
+    "school": "Michigan Technological University",
+    "homepage": "https://dangfengying.github.io/",
+    "title": "Assistant Professor",
+    "department": "Electrical and Computer Engineering",
+    "batch": "control-135",
+    "discoveredAt": "2026-10-01T17:16:33Z",
+    "verifiedAt": "2026-10-01T17:20:05Z",
+    "researchAreas": [
+      "Deep reinforcement learning for event-triggered control",
+      "Robot perception and localization",
+      "Autonomous vehicle model predictive control",
+      "Marine robotic flow sensing"
+    ],
+    "fitReason": "Recent2024 Assistant Professor with a current graduate-intern invitation and substantive applied robot/vehicle RL methods. Useful method-focused backup; current learned robot execution and institutional external-master category remain unverified.",
+    "physicalEvidence": {
+      "status": "simulation-only",
+      "summary": "The full T-IV study (onlineNovember2023,2024issue) learns when to invoke MPC using DDQN/PPO/SAC with LSTM or prioritized replay, evaluated on a nonlinear vehicle simulation. It does not demonstrate real-car deployment. Earlier flow-sensing prototypes verify physical sensing but are not proof that the RL controller or a learned navigation policy ran on a robot. Current lab robots and2025underwater communication work likewise do not by themselves establish learned actuation. Physical score0 preserves the simulation-only verified AI boundary.",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "Current homepage explicitly opens undergraduate and graduate internships, separately from PhD intake, master’s thesis inquiries and MTU course-credit research. It does not expressly define external enrollment eligibility, internship length, summer2027 capacity, funding or remote options. General GRA/GTA availability is not an intern funding promise.",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 34,
+      "physical": 0,
+      "shortVisit": 8,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "Applied deepRL event-triggered vehicle control and current robot sensing agenda, with full methods checked.",
+      "physical": "AI method independently verified only in simulation; physical sensing/robot ownership not conflated with learned execution.",
+      "shortVisit": "Graduate internship label verified, but external-master scope and institutional appointment require clarification.",
+      "freshness": "Current2025research news and current 2026mentoring corroboration; no new dated2026robotAIexperiment verified."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.mtu.edu / source 1",
+        "url": "https://www.mtu.edu/icc/members/deng/",
+        "summary": "Official current Michigan Tech faculty affiliation, robotics sensing/perception/control. The /deng/ path corresponds to Fengying Dang.",
+        "verifiedAt": "2026-10-01T17:20:05Z",
+        "retrieval": "Direct primary HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "blogs.mtu.edu / source 2",
+        "url": "https://blogs.mtu.edu/engineering/2024/11/07/college-of-engineering-welcomes-new-faculty-members/",
+        "summary": "Official2024 new AP cohort after Michigan postdoctoral research.",
+        "verifiedAt": "2026-10-01T17:19:17Z",
+        "retrieval": "Indexed primary full cohort text"
+      },
+      {
+        "id": "s3",
+        "label": "dangfengying.github.io / source 3",
+        "url": "https://dangfengying.github.io/",
+        "summary": "Live current homepage explicitly advertises undergraduate and graduate interns, separately describing degree applications and MTU credit. Reports August 2024 start and2025 research activity.",
+        "verifiedAt": "2026-10-01T17:19:31Z",
+        "retrieval": "Direct primary HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "jchen2020.net / source 4",
+        "url": "https://jchen2020.net/pubs/j_tiv2024-e.pdf",
+        "summary": "Full IEEE T-IV article compares DDQN/PPO/SAC learned event triggering for MPC in nonlinear vehicle simulation. OnlineNov2023,Jan2024issue; no real-car experiment.",
+        "verifiedAt": "2026-10-01T17:19:48Z",
+        "retrieval": "Full author-hosted primary PDF"
+      },
+      {
+        "id": "s5",
+        "label": "dangfengying.github.io / source 5",
+        "url": "https://dangfengying.github.io/cv/",
+        "summary": "Current CV dates2024AP after Michigan/MSUpostdocs;2023RL paper and older flow-sensing publications.",
+        "verifiedAt": "2026-10-01T17:20:05Z",
+        "retrieval": "Direct primary HTML via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "dangfengying.github.io / source 6",
+        "url": "https://dangfengying.github.io/lab/",
+        "summary": "Current doctoral researchers and2025MS/2026UGalumni establish active mentoring; no external-master visitor precedent inferred.",
+        "verifiedAt": "2026-10-01T17:20:05Z",
+        "retrieval": "Direct primary HTML via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "dangfengying.github.io / source 7",
+        "url": "https://dangfengying.github.io/publications/",
+        "summary": "Older linked publication list distinguishes physical flow-sensing prototypes from simulated NN/flow-control studies; not current learned actuation proof.",
+        "verifiedAt": "2026-10-01T17:20:05Z",
+        "retrieval": "Direct primary HTML via web.run"
+      },
+      {
+        "id": "s8",
+        "label": "www.mtu.edu / source 8",
+        "url": "https://www.mtu.edu/faculty-handbook/faculty/chapter1/s1-6/",
+        "summary": "Visiting Scholar courtesy title requires completed terminal degree, so outsideMS requires another approved appointment.",
+        "verifiedAt": "2026-10-01T12:49:15Z",
+        "retrieval": "Reused institutional review"
+      },
+      {
+        "id": "s9",
+        "label": "www.mtu.edu / source 9",
+        "url": "https://www.mtu.edu/international/j1-scholars/",
+        "summary": "Scholar and prescribed fulltime nondegree categories; not automatic external-master eligibility.",
+        "verifiedAt": "2026-10-01T12:49:15Z",
+        "retrieval": "Reused institutional review"
+      },
+      {
+        "id": "s10",
+        "label": "www.mtu.edu / source 10",
+        "url": "https://www.mtu.edu/international/j1-scholars/host-department/",
+        "summary": "Host/office approvals; personal or home funding contemplated with research-office/security review.14business days only after complete DS2019packet.",
+        "verifiedAt": "2026-10-01T12:49:15Z",
+        "retrieval": "Reused institutional review"
+      }
+    ],
+    "unknowns": [
+      "Important institution gap: Michigan Tech’s Visiting Scholar courtesy appointment requires a completed terminal degree. The host and IPS must identify another compatible appointment for an outside master’s student; published nondegree J1 language is not a verified generic StudentIntern route. Personal/home funding requires review, and no current financial minimum or2027fee total was verified. Published14business-day processing begins only after a complete packet and is not the full preparation/visa lead time.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor review](../eligibility_notes.md#michigan-tech); institution and lab observations retain their separate source times."
+    ],
+    "publicEmail": "fdang1@mtu.edu",
+    "appointmentStart": {
+      "year": 2024,
+      "precision": "year",
+      "status": "current",
+      "sourceIds": [
+        "s2",
+        "s5"
+      ],
+      "evidence": "Official2024cohort confirms newAP after postdoctoral work. PI homepage refines toAugust2024; official precise month not independently verified.",
+      "appointmentType": "unresolved"
+    },
+    "candidateTier": "学习控制方法备选；仅仿真"
+  }
+]

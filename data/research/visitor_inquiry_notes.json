@@ -926,6 +926,56 @@
       "sourceIds": [
         "s6"
       ]
+    },
+    "tianlu-wang": {
+      "note": "live exchange-student/intern单列，但有2024招聘上下文；外校硕士/期限/资金/远程/2027容量未定，共享超声导航硬件",
+      "sourceIds": [
+        "s4"
+      ],
+      "category": "generic-intern-eligibility-unconfirmed"
+    },
+    "qingzhao-zhang": {
+      "note": "全年intern邀请、相关本科/硕士及编程资格；2026远程/资金TBD广告只是历史；2027安排未知，实物仅跟踪感知10",
+      "sourceIds": [
+        "s6",
+        "s7"
+      ]
+    },
+    "weitong-zhang": {
+      "note": "完整现场/远程intern表单、任意graduate机构及Summer2027例子；无期限/资助/名额承诺，仿真RL物理0，UNC类别/资金另审",
+      "sourceIds": [
+        "s2",
+        "s3"
+      ]
+    },
+    "yu-zhang": {
+      "note": "一般visitor/volunteer询问，非本校专属；外校硕士任命/经费/期限/2027未知，3D探索物理0；volunteer不豁免手续",
+      "sourceIds": [
+        "s4"
+      ],
+      "category": "generic-intern-eligibility-unconfirmed"
+    },
+    "fengying-dang": {
+      "note": "当前graduate intern可询问，但外校硕士资格未明确；MTU Visiting Scholar要求已获终结学位，其他合适任命须另审，物理0",
+      "sourceIds": [
+        "s3",
+        "s8"
+      ],
+      "category": "generic-intern-eligibility-unconfirmed"
+    },
+    "bin-xu": {
+      "note": "访问/研究生研究询问明确无资助；OU外校硕士制度存在但资金类别仍另批；真实静止车辆转向22，非自动驾驶道路验证",
+      "sourceIds": [
+        "s2",
+        "s9",
+        "s10"
+      ]
+    },
+    "liangkai-liu": {
+      "note": "仅remote intern；现场短访0，Fall2026/Spring2027表单并非Summer2027承诺，报酬/时长未知；功耗预测不是学习运动控制",
+      "sourceIds": [
+        "s4"
+      ]
     }
   }
 }

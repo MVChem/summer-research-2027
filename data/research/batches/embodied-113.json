@@ -1,0 +1,119 @@
+[
+  {
+    "id": "jinghao-yang",
+    "name": "Jinghao Yang",
+    "aliases": [],
+    "school": "University of Texas Rio Grande Valley",
+    "homepage": "https://www.jinghao-yang.com/",
+    "title": "Assistant Professor",
+    "department": "Electrical and Computer Engineering; Computer Science doctoral-program research faculty",
+    "batch": "embodied-113",
+    "discoveredAt": "2026-10-01T18:39:16Z",
+    "verifiedAt": "2026-10-01T18:44:46Z",
+    "researchAreas": [
+      "Vision-language-action model deployment",
+      "Physical manipulation of manufactured parts",
+      "Parameter-efficient robot adaptation",
+      "Machine vision and intelligent sensing"
+    ],
+    "fitReason": "A strong systems-oriented embodied-AI match: current advised research adapts OpenVLA to physical manipulation through LoRA, calibrated action interfaces and cloud-edge inference. Manufacturing perception is broader than general-purpose policy research, but the VLA deployment is concrete.",
+    "physicalEvidence": {
+      "status": "limited-current-FR3-VLA; no finalized quantitative protocol",
+      "summary": "Full CVPRW2026 methods deploy OpenVLA7B on a real Franka FR3 with RGB camera and parallel gripper. Successful teleoperation trains rank32 LoRA; returned delta actions pass calibration, binary gripper conversion and a deterministic safety envelope before actual execution at2–3Hz. Own current PhD lead and several current lab members are coauthors, with Yang corresponding author. This is a limited single-platform deployment study: trial counts and a finalized quantitative protocol are not supplied.",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No external-master visitor/intern invitation was found on the current lab pages. The separate Spring/Fall2026 PhD call is degree-specific and restricts those positions to US citizens/permanent residents. Local master’s advising and an institutional Student Intern category do not establish PI willingness; visitor0.",
+      "sourceIds": [
+        "s6",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 22,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct current VLA adaptation and deployment; broader industrial-sensing agenda modestly narrows fit.",
+      "physical": "Own current directed physical FR3 execution; limited workshop evaluation and unfinished quantitative protocol keep this below25.",
+      "shortVisit": "No applicable external-master invitation. Institution procedures are not PI recruiting.",
+      "freshness": "Dated May 2026 university presentation and June 2026 full workshop paper, current lab/adviser links."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.utrgv.edu / source 1",
+        "url": "https://www.utrgv.edu/iam/about-us/index.htm",
+        "summary": "Official current Assistant Professor, public institutional email and prior Tesla senior vision engineer; exact faculty start date not stated.",
+        "verifiedAt": "2026-10-01T18:44:46Z",
+        "retrieval": "complete-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "faculty.utrgv.edu / source 2",
+        "url": "https://faculty.utrgv.edu/emmett.tomai/phd/faculty.html",
+        "summary": "University-hosted CS doctoral-program research faculty list confirms ECE AP and machine-vision/sensing focus.",
+        "verifiedAt": "2026-10-01T18:42:45Z",
+        "retrieval": "complete-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "www.jinghao-yang.com / source 3",
+        "url": "https://www.jinghao-yang.com/people",
+        "summary": "Current PhD lead Zhugang (Tony) Liu explicitly works in Yang’s robotic-manipulation lab; coauthors Asare, Ermolinsky and Hernandez also belong to current lab. Local graduate mentoring is not a visitor offer.",
+        "verifiedAt": "2026-10-01T18:44:46Z",
+        "retrieval": "complete-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "openaccess.thecvf.com / source 4",
+        "url": "https://openaccess.thecvf.com/content/CVPR2026W/MEIS/papers/Liu_Bridging_the_Pretrain-to-Real_Gap_Alignment_Challenges_in_Deploying_Generalist_VLA_CVPRW_2026_paper.pdf",
+        "summary": "Full9-page CVPR2026 workshop paper downloaded18:42:30Z; methods read18:42:45Z and limitations completed18:43:22Z. Current UTRGV corresponding PI, actual FR3/OpenVLA control, LoRA and deterministic calibration/safety layers; finalized quantitative report remains future work.",
+        "verifiedAt": "2026-10-01T18:43:22Z",
+        "retrieval": "complete-primary-PDF-local-extraction"
+      },
+      {
+        "id": "s5",
+        "label": "www.utrgv.edu / source 5",
+        "url": "https://www.utrgv.edu/mecis/technology-transfer/webinars1/crest-mecis_spring-2026-webinar-series.pdf",
+        "summary": "May 1, 2026 official webinar identifies Zhugang Liu and Jinghao Yang with the same physical FR3 project. Earlier independent peer full read18:40:01Z preserved.",
+        "verifiedAt": "2026-10-01T18:41:11Z",
+        "retrieval": "complete-primary-PDF"
+      },
+      {
+        "id": "s6",
+        "label": "www.jinghao-yang.com / source 6",
+        "url": "https://www.jinghao-yang.com/",
+        "summary": "Current IMVSS PI/contact and lab agenda; no visitor/intern terms in the inspected page.",
+        "verifiedAt": "2026-10-01T18:43:10Z",
+        "retrieval": "complete-primary-cloud-browser"
+      },
+      {
+        "id": "s7",
+        "label": "www.linkedin.com / source 7",
+        "url": "https://www.linkedin.com/posts/jinghao-yang-4772aa187_phd-opportunity-in-ai-and-digital-twin-activity-7380122583871967232-GIwi",
+        "summary": "Specific Spring/Fall2026 PhD advertisement restricts those positions to US citizens/permanent residents and asks CV/transcripts/research description. Not an external-master visitor call or universal lab ban.",
+        "verifiedAt": "2026-10-01T18:42:45Z",
+        "retrieval": "complete-first-person-professional-post"
+      }
+    ],
+    "unknowns": [
+      "Exact current-institution appointment year and first-faculty status remain unverified; do not label a2024–26 recent hire from degree dates or first teaching traces. Current AP role and graduate advising are independently verified.",
+      "Physical22 reflects real current directed hardware with limited evaluation reporting. The paper’s98% spatial-error reduction and99% gripper-state convergence are not standardized end-to-end grasp success and are deliberately not carried as success promises. Section5.12 says finalized quantitative reporting remains future work. One robot class/camera topology and manipulation primitives only.",
+      "The citizenship/permanent-resident condition applies to the named Spring/Fall2026 PhD positions; no universal international-visitor exclusion or summer2027 ban is inferred. No presumed funding from that call.",
+      "UTRGV’s outside-degree Student Intern pathway can cover3weeks–12months and unpaid training, but requires home-degree relevance/certification,32hours weekly, host approval and preparation4–5months ahead. Use$2500/month as conservative planning evidence while ISS resolves the page’s internal$2000/$2500 inconsistency. Personal-only funding, exact2027 appointment and remote collaboration remain unconfirmed.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor review](../eligibility_notes.md#ut-rio-grande-valley); institution and lab observations retain their separate source times.",
+      "Timestamp scope: Earliest precisely retained individual primary mention was an ASME abstract observation; the stronger official VLA webinar was first read at18:40:01Z, followed by dedicated role verification. No earlier time was reconstructed."
+    ],
+    "discoveryTimestampNote": "Earliest precisely retained individual primary mention was an ASME abstract observation; the stronger official VLA webinar was first read at18:40:01Z, followed by dedicated role verification. No earlier time was reconstructed.",
+    "publicEmail": "jinghao.yang@utrgv.edu"
+  }
+]

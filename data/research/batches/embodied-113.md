@@ -1,0 +1,32 @@
+# 检索批次 embodied-113
+
+[返回完整排序](../ranked_candidates.md) · [本批完整 JSON](embodied-113.json) · [评分与字段](../README.md)
+
+本批 **1 位**。首次发现时间保持不变；资料修正通过独立提交保留历史。分数是研究筛选优先级，不是接收概率。
+
+<a id="jinghao-yang"></a>
+
+## Jinghao Yang · University of Texas Rio Grande Valley
+
+- 稳定键：`jinghao-yang`；[导师主页](https://www.jinghao-yang.com/)
+- 任职：Assistant Professor
+- 方向：Vision-language-action model deployment；Physical manipulation of manufactured parts；Parameter-efficient robot adaptation；Machine vision and intelligent sensing
+- 匹配理由：A strong systems-oriented embodied-AI match: current advised research adapts OpenVLA to physical manipulation through LoRA, calibrated action interfaces and cloud-edge inference. Manufacturing perception is broader than general-purpose policy research, but the VLA deployment is concrete.
+- 真机证据（limited-current-FR3-VLA; no finalized quantitative protocol）：Full CVPRW2026 methods deploy OpenVLA7B on a real Franka FR3 with RGB camera and parallel gripper. Successful teleoperation trains rank32 LoRA; returned delta actions pass calibration, binary gripper conversion and a deterministic safety envelope before actual execution at2–3Hz. Own current PhD lead and several current lab members are coauthors, with Yang corresponding author. This is a limited single-platform deployment study: trial counts and a finalized quantitative protocol are not supplied.
+- 短访证据（unknown）：No external-master visitor/intern invitation was found on the current lab pages. The separate Spring/Fall2026 PhD call is degree-specific and restricts those positions to US citizens/permanent residents. Local master’s advising and an institutional Student Intern category do not establish PI willingness; visitor0.
+- 首次发现：2026-10-01T18:39:16Z；最后核查：2026-10-01T18:44:46Z
+- 当前总分：75/100；评分依据：
+  - fit 38/40：Direct current VLA adaptation and deployment; broader industrial-sensing agenda modestly narrows fit.
+  - physical 22/25：Own current directed physical FR3 execution; limited workshop evaluation and unfinished quantitative protocol keep this below25.
+  - shortVisit 0/20：No applicable external-master invitation. Institution procedures are not PI recruiting.
+  - freshness 15/15：Dated May 2026 university presentation and June 2026 full workshop paper, current lab/adviser links.
+- 未确认事项：Exact current-institution appointment year and first-faculty status remain unverified; do not label a2024–26 recent hire from degree dates or first teaching traces. Current AP role and graduate advising are independently verified.；Physical22 reflects real current directed hardware with limited evaluation reporting. The paper’s98% spatial-error reduction and99% gripper-state convergence are not standardized end-to-end grasp success and are deliberately not carried as success promises. Section5.12 says finalized quantitative reporting remains future work. One robot class/camera topology and manipulation primitives only.；The citizenship/permanent-resident condition applies to the named Spring/Fall2026 PhD positions; no universal international-visitor exclusion or summer2027 ban is inferred. No presumed funding from that call.；UTRGV’s outside-degree Student Intern pathway can cover3weeks–12months and unpaid training, but requires home-degree relevance/certification,32hours weekly, host approval and preparation4–5months ahead. Use$2500/month as conservative planning evidence while ISS resolves the page’s internal$2000/$2500 inconsistency. Personal-only funding, exact2027 appointment and remote collaboration remain unconfirmed.；Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.；[Institutional visitor review](../eligibility_notes.md#ut-rio-grande-valley); institution and lab observations retain their separate source times.；Timestamp scope: Earliest precisely retained individual primary mention was an ASME abstract observation; the stronger official VLA webinar was first read at18:40:01Z, followed by dedicated role verification. No earlier time was reconstructed.
+- 来源：
+  - [www.utrgv.edu / source 1](https://www.utrgv.edu/iam/about-us/index.htm)：Official current Assistant Professor, public institutional email and prior Tesla senior vision engineer; exact faculty start date not stated.（核查 2026-10-01T18:44:46Z；读取方式 complete-primary-page）
+  - [faculty.utrgv.edu / source 2](https://faculty.utrgv.edu/emmett.tomai/phd/faculty.html)：University-hosted CS doctoral-program research faculty list confirms ECE AP and machine-vision/sensing focus.（核查 2026-10-01T18:42:45Z；读取方式 complete-primary-page）
+  - [www.jinghao-yang.com / source 3](https://www.jinghao-yang.com/people)：Current PhD lead Zhugang (Tony) Liu explicitly works in Yang’s robotic-manipulation lab; coauthors Asare, Ermolinsky and Hernandez also belong to current lab. Local graduate mentoring is not a visitor offer.（核查 2026-10-01T18:44:46Z；读取方式 complete-primary-page）
+  - [openaccess.thecvf.com / source 4](https://openaccess.thecvf.com/content/CVPR2026W/MEIS/papers/Liu_Bridging_the_Pretrain-to-Real_Gap_Alignment_Challenges_in_Deploying_Generalist_VLA_CVPRW_2026_paper.pdf)：Full9-page CVPR2026 workshop paper downloaded18:42:30Z; methods read18:42:45Z and limitations completed18:43:22Z. Current UTRGV corresponding PI, actual FR3/OpenVLA control, LoRA and deterministic calibration/safety layers; finalized quantitative report remains future work.（核查 2026-10-01T18:43:22Z；读取方式 complete-primary-PDF-local-extraction）
+  - [www.utrgv.edu / source 5](https://www.utrgv.edu/mecis/technology-transfer/webinars1/crest-mecis_spring-2026-webinar-series.pdf)：May 1, 2026 official webinar identifies Zhugang Liu and Jinghao Yang with the same physical FR3 project. Earlier independent peer full read18:40:01Z preserved.（核查 2026-10-01T18:41:11Z；读取方式 complete-primary-PDF）
+  - [www.jinghao-yang.com / source 6](https://www.jinghao-yang.com/)：Current IMVSS PI/contact and lab agenda; no visitor/intern terms in the inspected page.（核查 2026-10-01T18:43:10Z；读取方式 complete-primary-cloud-browser）
+  - [www.linkedin.com / source 7](https://www.linkedin.com/posts/jinghao-yang-4772aa187_phd-opportunity-in-ai-and-digital-twin-activity-7380122583871967232-GIwi)：Specific Spring/Fall2026 PhD advertisement restricts those positions to US citizens/permanent residents and asks CV/transcripts/research description. Not an external-master visitor call or universal lab ban.（核查 2026-10-01T18:42:45Z；读取方式 complete-first-person-professional-post）
+

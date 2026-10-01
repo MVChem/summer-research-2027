@@ -1,0 +1,167 @@
+[
+  {
+    "id": "liangkai-liu",
+    "name": "Liangkai Liu",
+    "aliases": [
+      "刘良凯"
+    ],
+    "school": "Texas Tech University",
+    "homepage": "https://liangkai.org/",
+    "title": "Assistant Professor",
+    "department": "Computer Science",
+    "batch": "control-126",
+    "discoveredAt": "2026-10-01T15:53:37Z",
+    "verifiedAt": "2026-10-01T16:04:49Z",
+    "researchAreas": [
+      "Real-time learned perception",
+      "Autonomous robot computing systems",
+      "Energy-aware mobile robotics",
+      "Cooperative drone perception"
+    ],
+    "fitReason": "Recent Assistant Professor with a genuine remote-intern inquiry route and substantive robotics-AI systems methods. Best treated as a remote, lower-physical-confidence backup: the current papers optimize learned perception on replayed data, and older robot experiments validate power prediction rather than learned motion control.",
+    "physicalEvidence": {
+      "status": "limited-old-robot-energy-prediction; no learned-action loop",
+      "summary": "ICRA 2023 uses an actual Donkey Mecanum platform with four motors, RealSense, lidar and Jetson, including 10 m straight and 2π spin experiments. Linear, polynomial and ten-layer MLP models predict measured motor power. The three-path energy comparison is analytical; deployment of the learned regressor in a physical decision/action loop is not established. Darknet appears in the architecture but its output-to-motion execution is not verified. The 2024 RT-BEV evaluation replays nuScenes; the 2026 Context Plane study combines UAV3D frames with simulated-agent trace replay on Jetson. These are not live driving or flight. Prior Wayne State robot work does not prove TTU research hardware access.",
+      "sourceIds": [
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "remote-only-inquiry · no onsite visit established",
+      "summary": "The complete current-linked research-interest form explicitly names remote interns, alongside PhD recruitment, and permits arbitrary current affiliations with an optional graduate transcript. It names Fall 2026 or Spring 2027, not summer 2027. No onsite internship offer or minimum duration was found. Mixed RA funding language does not independently promise remote-intern compensation. External-university master students on the roster are collaborators, not proven onsite visitors.",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 35,
+      "physical": 10,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantive robot/vehicle perception and execution-system research rather than generic AI; current algorithms verified in full.",
+      "physical": "Actual older mobile-robot power trials and learned prediction, without proven learned-action deployment; limited credit, not a robot-learning execution claim.",
+      "shortVisit": "The explicit internship route is remote only; no onsite visit points. Separate remote score 8 records the inquiry route without adding to the onsite total.",
+      "freshness": "Dated September 2026 technical paper and current Fall 2026 recruitment."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.depts.ttu.edu / source 1",
+        "url": "https://www.depts.ttu.edu/cs/faculty/Liangkai_Liu/liangkai_liu.php?v=preview",
+        "summary": "Official current Computer Science Assistant Professor; Michigan postdoctoral work 2023–2026 and Wayne State PhD 2018–2023.",
+        "verifiedAt": "2026-10-01T15:56:55Z",
+        "retrieval": "Direct primary HTML or complete author-hosted paper via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "liangkai.org / source 2",
+        "url": "https://liangkai.org/",
+        "summary": "Current TTU role, SEAL directorship, PhD and intern recruitment, and dated September 2026 DroneSys paper news.",
+        "verifiedAt": "2026-10-01T16:03:11Z",
+        "retrieval": "Direct primary HTML or complete author-hosted paper via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "liangkai.org / source 3",
+        "url": "https://liangkai.org/openings/",
+        "summary": "PI-reported Fall 2026 faculty start; dedicated page recruits Spring/Fall 2027 PhD students and describes cross-layer AI/robotics systems. RA funding is not a separate intern funding promise.",
+        "verifiedAt": "2026-10-01T16:03:11Z",
+        "retrieval": "Direct primary HTML or complete author-hosted paper via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "docs.google.com / source 4",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSea4ocykyiOsp-uoxQg72iiNcKTXn2gk3swSwZ923mYu0gCDQ/viewform?usp=dialog",
+        "summary": "Complete public form explicitly recruits PhD students and remote interns for Fall 2026 or Spring 2027; arbitrary university/company affiliation and optional graduate transcript fields. No onsite internship, summer 2027 duration, or separate intern-pay terms.",
+        "verifiedAt": "2026-10-01T15:59:16Z",
+        "retrieval": "Live cloud-browser rendered single-page form; read only, no entries or submission"
+      },
+      {
+        "id": "s5",
+        "label": "rtcl.eecs.umich.edu / source 5",
+        "url": "https://rtcl.eecs.umich.edu/rtclweb/assets/publications/2024/rtss24-liu.pdf",
+        "summary": "Complete RT-BEV 2024 paper: CNN/UniAD perception scheduling and ROI processing using nuScenes recorded-data replay through ROS; no live vehicle action demonstrated.",
+        "verifiedAt": "2026-10-01T16:04:49Z",
+        "retrieval": "Complete primary paper inspected during the retained 15:56–15:59 research interval; this is the first precisely preserved verification record, not an invented earlier read time."
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2609.00659v1",
+        "summary": "Complete September 2026 Context Plane paper: pretrained DiscoNet on 80 UAV3D frames and four simulated agents replaying traces on a Jetson ROS2 prototype. Physical drone flight and real wireless validation remain future work.",
+        "verifiedAt": "2026-10-01T16:04:49Z",
+        "retrieval": "Complete primary paper inspected during the retained 15:56–15:59 research interval; this is the first precisely preserved verification record, not an invented earlier read time."
+      },
+      {
+        "id": "s7",
+        "label": "weisongshi.org / source 7",
+        "url": "https://weisongshi.org/papers/liu23-ICRA.pdf",
+        "summary": "Complete ICRA 2023 Donkey Mecanum robot paper: actual straight/spin trials and energy prediction comparing linear, polynomial and ten-layer MLP regressors. Three-shape path comparison is an analytical energy sweep; no verified MLP-to-motion action loop.",
+        "verifiedAt": "2026-10-01T16:04:49Z",
+        "retrieval": "Complete primary paper inspected during the retained 15:56–15:59 research interval; this is the first precisely preserved verification record, not an invented earlier read time."
+      },
+      {
+        "id": "s8",
+        "label": "liangkai.org / source 8",
+        "url": "https://liangkai.org/lab/",
+        "summary": "Current roster includes external-university master students; collaboration precedent does not establish their onsite visitor status.",
+        "verifiedAt": "2026-10-01T15:56:55Z",
+        "retrieval": "Direct primary HTML or complete author-hosted paper via web.run"
+      },
+      {
+        "id": "s9",
+        "label": "liangkai.org / source 9",
+        "url": "https://liangkai.org/mobile-robot-systems/",
+        "summary": "Fall 2026 course lists Jetson robot and Crazyflie platforms, but physical deployment lab is scheduled for November 12, after this observation; no completed research deployment inferred.",
+        "verifiedAt": "2026-10-01T15:56:55Z",
+        "retrieval": "Direct primary HTML or complete author-hosted paper via web.run"
+      },
+      {
+        "id": "s10",
+        "label": "www.depts.ttu.edu / source 10",
+        "url": "https://www.depts.ttu.edu/international/isss/impforms.php",
+        "summary": "Current-linked Student Intern page limits the program to undergraduates and bachelor-degree objectives; this leaves outside-master eligibility unresolved.",
+        "verifiedAt": "2026-10-01T16:03:02Z",
+        "retrieval": "Direct primary HTML or complete author-hosted paper via web.run"
+      },
+      {
+        "id": "s11",
+        "label": "www.depts.ttu.edu / source 11",
+        "url": "https://www.depts.ttu.edu/opmanual/OP70.37.php",
+        "summary": "February 12, 2026 operating policy uses generic current-degree wording and documents approved categories, chair/ISSS screening, financial evidence including personal funds and host-paid processing fees. It does not expressly override the narrower category page.",
+        "verifiedAt": "2026-10-01T16:03:11Z",
+        "retrieval": "Direct primary HTML or complete author-hosted paper via web.run"
+      }
+    ],
+    "unknowns": [
+      "Texas Tech Student Intern page currently specifies undergraduates and bachelor-degree objectives, while its newer February 2026 operating policy uses generic current-degree language. Outside-master onsite sponsorship is unresolved, including any alternative scholar category. Current published financial minimum is $1,700/month; personal funds can be documented. Department/ISSS/chair approval, research-security screening and insurance apply. Student Intern aviation restrictions require task-level clarification for drone work. These onsite rules do not turn the remote invitation into an onsite offer. See Texas Tech feasibility supplement.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor review](../eligibility_notes.md#texas-tech); institution and lab observations retain their separate source times."
+    ],
+    "publicEmail": "liangkai.liu@ttu.edu",
+    "appointmentStart": {
+      "year": 2026,
+      "precision": "year",
+      "status": "current",
+      "sourceIds": [
+        "s1",
+        "s3"
+      ],
+      "evidence": "Official current faculty profile follows a 2023–2026 Michigan postdoc; PI openings page explicitly says Fall 2026. Exact semester is PI-reported, not independently dated by a university hiring announcement.",
+      "appointmentType": "unresolved"
+    },
+    "remoteInquiryEvidence": {
+      "status": "explicit-current-remote-intern-inquiry",
+      "summary": "The complete current-linked research-interest form explicitly names remote interns, alongside PhD recruitment, and permits arbitrary current affiliations with an optional graduate transcript. It names Fall 2026 or Spring 2027, not summer 2027. No onsite internship offer or minimum duration was found. Mixed RA funding language does not independently promise remote-intern compensation. External-university master students on the roster are collaborators, not proven onsite visitors.",
+      "sourceIds": [
+        "s4"
+      ],
+      "verifiedAt": "2026-10-01T15:59:16Z"
+    },
+    "remoteInquiryScore": 8
+  }
+]

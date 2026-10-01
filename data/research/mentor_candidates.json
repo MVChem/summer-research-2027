@@ -121,13 +121,18 @@
     "batches/control-119.json",
     "batches/control-120.json",
     "batches/control-121.json",
+    "batches/control-126.json",
+    "batches/control-127.json",
     "batches/control-128.json",
     "batches/control-129.json",
     "batches/control-132.json",
     "batches/control-133.json",
+    "batches/control-135.json",
     "batches/control-136.json",
     "batches/control-137.json",
     "batches/control-138.json",
+    "batches/control-139.json",
+    "batches/control-140.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -226,9 +231,12 @@
     "batches/embodied-101.json",
     "batches/embodied-102.json",
     "batches/embodied-103.json",
+    "batches/embodied-106.json",
     "batches/embodied-107.json",
     "batches/embodied-109.json",
     "batches/embodied-110.json",
+    "batches/embodied-112.json",
+    "batches/embodied-113.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -6279,6 +6287,67 @@
       "detailPage": "batches/control-121.md#oguzhan-oruc"
     },
     {
+      "id": "liangkai-liu",
+      "name": "Liangkai Liu",
+      "aliases": [
+        "刘良凯"
+      ],
+      "school": "Texas Tech University",
+      "title": "Assistant Professor",
+      "homepage": "https://liangkai.org/",
+      "batch": "control-126",
+      "discoveredAt": "2026-10-01T15:53:37Z",
+      "verifiedAt": "2026-10-01T16:04:49Z",
+      "scores": {
+        "fit": 35,
+        "physical": 10,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Real-time learned perception",
+        "Autonomous robot computing systems",
+        "Energy-aware mobile robotics",
+        "Cooperative drone perception"
+      ],
+      "physicalEvidenceStatus": "limited-old-robot-energy-prediction; no learned-action loop",
+      "physicalEvidenceLabel": "弱/历史真机线索",
+      "shortVisitStatus": "remote-only-inquiry · no onsite visit established",
+      "recordFile": "batches/control-126.json",
+      "detailPage": "batches/control-126.md#liangkai-liu"
+    },
+    {
+      "id": "bin-xu",
+      "name": "Bin Xu",
+      "aliases": [
+        "Brian Xu",
+        "Bin (Brian) Xu"
+      ],
+      "school": "University of Oklahoma",
+      "title": "Assistant Professor",
+      "homepage": "https://sites.google.com/view/binxu/home?authuser=0",
+      "batch": "control-127",
+      "discoveredAt": "2026-10-01T16:12:08Z",
+      "verifiedAt": "2026-10-01T16:16:38Z",
+      "scores": {
+        "fit": 37,
+        "physical": 22,
+        "shortVisit": 10,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Learned vehicle dynamics and control",
+        "Neural steering control",
+        "Autonomous driving",
+        "Reinforcement learning for vehicle energy management"
+      ],
+      "physicalEvidenceStatus": "limited-current-stationary-neural-steering; not moving navigation",
+      "physicalEvidenceLabel": "受限真机证据：limited-current-stationary-neural-steering; not moving navigation",
+      "shortVisitStatus": "inquiry-only · explicitly unfunded visitor/graduate research",
+      "recordFile": "batches/control-127.json",
+      "detailPage": "batches/control-127.md#bin-xu"
+    },
+    {
       "id": "mengyu-liu",
       "name": "Mengyu Liu",
       "aliases": [
@@ -6462,6 +6531,37 @@
       "detailPage": "batches/control-133.md#shuzhen-luo"
     },
     {
+      "id": "fengying-dang",
+      "name": "Fengying Dang",
+      "aliases": [
+        "Dang Fengying"
+      ],
+      "school": "Michigan Technological University",
+      "title": "Assistant Professor",
+      "homepage": "https://dangfengying.github.io/",
+      "batch": "control-135",
+      "discoveredAt": "2026-10-01T17:16:33Z",
+      "verifiedAt": "2026-10-01T17:20:05Z",
+      "scores": {
+        "fit": 34,
+        "physical": 0,
+        "shortVisit": 8,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Deep reinforcement learning for event-triggered control",
+        "Robot perception and localization",
+        "Autonomous vehicle model predictive control",
+        "Marine robotic flow sensing"
+      ],
+      "candidateTier": "学习控制方法备选；仅仿真",
+      "physicalEvidenceStatus": "simulation-only",
+      "physicalEvidenceLabel": "仅仿真；真机待核实",
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/control-135.json",
+      "detailPage": "batches/control-135.md#fengying-dang"
+    },
+    {
       "id": "omkar-sudhir-patil",
       "name": "Omkar Sudhir Patil",
       "aliases": [
@@ -6580,6 +6680,63 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-138.json",
       "detailPage": "batches/control-138.md#tan-chen"
+    },
+    {
+      "id": "weitong-zhang",
+      "name": "Weitong Zhang",
+      "aliases": [],
+      "school": "University of North Carolina at Chapel Hill",
+      "title": "Assistant Professor",
+      "homepage": "https://zeroweight.github.io/",
+      "batch": "control-139",
+      "discoveredAt": "2026-10-01T17:56:41Z",
+      "verifiedAt": "2026-10-01T18:08:16Z",
+      "scores": {
+        "fit": 31,
+        "physical": 0,
+        "shortVisit": 10,
+        "freshness": 13
+      },
+      "researchAreas": [
+        "Offline reinforcement learning",
+        "Flow and diffusion policy optimization",
+        "Simulated locomotion and navigation",
+        "Exploration and robust decision making"
+      ],
+      "candidateTier": "生成控制策略方法备选；仅仿真",
+      "physicalEvidenceStatus": "simulation-only",
+      "physicalEvidenceLabel": "仅仿真；真机待核实",
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/control-139.json",
+      "detailPage": "batches/control-139.md#weitong-zhang"
+    },
+    {
+      "id": "tianlu-wang",
+      "name": "Tianlu Wang",
+      "aliases": [],
+      "school": "University of Hawaiʻi at Mānoa",
+      "title": "Assistant Professor",
+      "homepage": "https://sites.google.com/view/uhm-sail",
+      "batch": "control-140",
+      "discoveredAt": "2026-10-01T18:20:23Z",
+      "verifiedAt": "2026-10-01T18:26:49Z",
+      "scores": {
+        "fit": 35,
+        "physical": 20,
+        "shortVisit": 8,
+        "freshness": 13
+      },
+      "researchAreas": [
+        "Learning-assisted miniature robot navigation",
+        "Ultrasound perception",
+        "Soft medical and underwater robotics",
+        "Magnetic actuation"
+      ],
+      "physicalEvidenceStatus": "historical-or-indirect",
+      "physicalEvidenceLabel": "受限真机证据：historical-or-indirect",
+      "shortVisitStatus": "inquiry-only · live exchange/intern line with 2024-era context",
+      "recordFile": "batches/control-140.json",
+      "detailPage": "batches/control-140.md#tianlu-wang"
     },
     {
       "id": "tom-silver",
@@ -11572,6 +11729,37 @@
       "detailPage": "batches/embodied-103.md#cheng-zhang-tamu"
     },
     {
+      "id": "qingzhao-zhang",
+      "name": "Qingzhao Zhang",
+      "aliases": [],
+      "school": "University of Arizona",
+      "title": "Assistant Professor (tenure-track)",
+      "homepage": "https://zqzqz.github.io/",
+      "batch": "embodied-106",
+      "discoveredAt": "2026-10-01T15:36:39Z",
+      "verifiedAt": "2026-10-01T15:41:04Z",
+      "scores": {
+        "fit": 36,
+        "physical": 10,
+        "shortVisit": 10,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Trustworthy autonomous perception",
+        "Camera–LiDAR and collaborative perception",
+        "Robot/vehicle visual tracking robustness",
+        "Neural spatial representations",
+        "Safety and security of cyber-physical systems"
+      ],
+      "discoveryTimestampNote": "Earliest precisely retained name appeared in an indexed repost/mirror search result at15:36:39Z. First authoritative named primary search result/homepage identification15:36:51Z; full current official role15:37:01Z. No claims rely on the mirror.",
+      "candidateTier": "自主感知稳健性备选；仅实物神经跟踪，非学习飞控",
+      "physicalEvidenceStatus": "limited-live-neural-tracking; no learned flight",
+      "physicalEvidenceLabel": "弱/历史真机线索",
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/embodied-106.json",
+      "detailPage": "batches/embodied-106.md#qingzhao-zhang"
+    },
+    {
       "id": "kenneth-marino",
       "name": "Kenneth Marino",
       "aliases": [],
@@ -11664,6 +11852,65 @@
       "shortVisitStatus": "inquiry-only · non-NJIT graduate form; institution funding rule unresolved",
       "recordFile": "batches/embodied-110.json",
       "detailPage": "batches/embodied-110.md#shivvrat-arya"
+    },
+    {
+      "id": "yu-zhang",
+      "name": "Yu Zhang",
+      "aliases": [],
+      "school": "Boise State University",
+      "title": "Assistant Professor",
+      "homepage": "https://yuzhang03.github.io/",
+      "batch": "embodied-112",
+      "discoveredAt": "2026-10-01T17:16:33Z",
+      "verifiedAt": "2026-10-01T17:18:40Z",
+      "scores": {
+        "fit": 34,
+        "physical": 0,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Learned 3D occupancy world models",
+        "Active mapping and next-view planning",
+        "Domain-adaptive robot perception",
+        "Continual and efficient embodied AI"
+      ],
+      "discoveryTimestampNote": "Earliest precisely retained primary-name observation was the official Boise cohort page. Dedicated identity and route verification began17:17:32Z; no earlier individual timestamp was reconstructed.",
+      "candidateTier": "空间主动探索方法备选；仅仿真",
+      "physicalEvidenceStatus": "simulation-only",
+      "physicalEvidenceLabel": "仅仿真；真机待核实",
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/embodied-112.json",
+      "detailPage": "batches/embodied-112.md#yu-zhang"
+    },
+    {
+      "id": "jinghao-yang",
+      "name": "Jinghao Yang",
+      "aliases": [],
+      "school": "University of Texas Rio Grande Valley",
+      "title": "Assistant Professor",
+      "homepage": "https://www.jinghao-yang.com/",
+      "batch": "embodied-113",
+      "discoveredAt": "2026-10-01T18:39:16Z",
+      "verifiedAt": "2026-10-01T18:44:46Z",
+      "scores": {
+        "fit": 38,
+        "physical": 22,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Vision-language-action model deployment",
+        "Physical manipulation of manufactured parts",
+        "Parameter-efficient robot adaptation",
+        "Machine vision and intelligent sensing"
+      ],
+      "discoveryTimestampNote": "Earliest precisely retained individual primary mention was an ASME abstract observation; the stronger official VLA webinar was first read at18:40:01Z, followed by dedicated role verification. No earlier time was reconstructed.",
+      "physicalEvidenceStatus": "limited-current-FR3-VLA; no finalized quantitative protocol",
+      "physicalEvidenceLabel": "受限真机证据：limited-current-FR3-VLA; no finalized quantitative protocol",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-113.json",
+      "detailPage": "batches/embodied-113.md#jinghao-yang"
     },
     {
       "id": "henny-admoni",

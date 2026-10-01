@@ -104,6 +104,20 @@
 - **当前不招MS；已确定独立GT行程的访客按对应学段规则询问。尚无独立行程时无签证申请费/stipend资金；不是所有访客的先决资格或普遍暑期禁令**
 - 核查：2026-10-01T17:59:54Z · [来源1](https://robotdangerlab.me.gatech.edu/student-recruitment/)
 
+### Tomer Weiss（限制目录；未计入新增排名）
+
+- 公开任职：Assistant Professor in official individual/current rosters; graphics report Associate discrepancy retained · New Jersey Institute of Technology · [主页](https://tomerwei.github.io/)
+- 适用范围：External applicants who completed a BS, MS or PhD outside NJIT and seek visiting, summer or postdoctoral positions
+- **当前不接收该类外部visiting/summer/postdoc申请；限已在NJIT之外取得BS/MS/PhD者。NJIT本校课程/PhD入口另列，未声明永久或专门Summer2027禁令；职级冲突待核**
+- 核查：2026-10-01T18:46:45Z · [来源1](https://tomerwei.github.io/) · [来源2](https://computing.njit.edu/computer-graphics-0) · [来源3](https://people.njit.edu/profile/tweiss)
+
+### Shilong Liu（限制目录；未计入新增排名）
+
+- 公开任职：Peretsman Scully Postdoctoral Research Fellow; incoming tenure-track Assistant Professor of Electrical Engineering · Princeton University; incoming Columbia University · [主页](https://lsl.zone/)
+- 适用范围：Current additional-intern capacity statement; not a permanent ban or closure of the separate postdoc category
+- **目前无精力接收额外intern，remote-intern文字划除；不扩为永久或postdoc关闭。Columbia同页写July2027与Fall2027，可能涉及暑期后段，独立主办能力未核**
+- 核查：2026-10-01T18:51:30Z · [来源1](https://lsl.zone/) · [来源2](https://www.ee.columbia.edu/content/shilong-liu) · [来源3](https://ai.princeton.edu/news/2026/meet-postdoc-qa-shilong-liu)
+
 ## 明确最短时长
 
 ### Deepak Pathak（原名单 #108）
@@ -345,4 +359,10 @@
 - 适用范围：Remote opportunities at the current observation; onsite outside-master status remains unknown
 - **当前不招聘remote机会；本校CMU MS/PhD咨询与未来PhD入学另列，不据此称所有现场访客关闭**
 - 核查：2026-10-01T18:21:03Z · [来源1](https://anayebi.github.io/contact/)
+
+### Jinghao Yang（新增候选）
+
+- 适用范围：Named Spring/Fall2026 PhD positions only
+- **指定2026 PhD职位要求US citizen/permanent resident；不扩为所有访客/2027禁令。无单独外校硕士访问邀请**
+- 核查：2026-10-01T18:42:45Z · [来源1](https://www.linkedin.com/posts/jinghao-yang-4772aa187_phd-opportunity-in-ai-and-digital-twin-activity-7380122583871967232-GIwi)
 

@@ -5111,6 +5111,254 @@
           "evidence": "Full official 2024 new-faculty cohort names Assistant Professor. Year only; no exact start month inferred."
         }
       ]
+    },
+    "tianlu-wang": {
+      "appointmentStart": {
+        "year": 2024,
+        "month": 1,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "s2"
+        ],
+        "evidence": "Official January 2026 UCLA seminar biography states UH Mānoa Assistant Professor since January 2024 and prior MPI postdoctoral training.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2024-01（官方大学讲座履历）",
+      "caveat": "独立exchange/intern询问，但页面保留2024上下文；共享超声导航20，2027/硕士类别未确认",
+      "sources": [
+        {
+          "id": "s2",
+          "url": "https://www.mae.ucla.edu/upcoming-events/mae-department-seminar-1-16-1215pm-8500-bh-featurng-tianlu-wang-advancing-miniature-soft-robotics-for-one-health-towards-biomedical-and-environmental-applications/",
+          "observedAt": "2026-10-01T18:26:49Z",
+          "evidence": "Official January 16, 2026 seminar biography dates the primary UH appointment to January 2024 after MPI postdoc; 2026 ORE/Queen’s appointments are additional roles."
+        }
+      ]
+    },
+    "qingzhao-zhang": {
+      "appointmentStart": {
+        "year": 2025,
+        "endYear": 2026,
+        "precision": "range",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5",
+          "s10"
+        ],
+        "evidence": "Current author CV, official-hosted author CV and homepage news say August2025; an official Michigan alumni announcement indexed in search says January2026 anticipated start. Winter2025 Arizona magazine profiles him as AP. Preserve2025–2026 source conflict rather than invent one exact reconciled date; first-ever faculty status not separately asserted."
+      },
+      "display": "2025–2026（本人8月2025与官方校友预告1月2026冲突）",
+      "caveat": "全年intern/相关本科硕士资格；实体仅神经跟踪感知10，非学习飞控；资金与2027形式未定",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://ecse.engineering.arizona.edu/faculty-staff/faculty/qingzhao-zhang",
+          "observedAt": "2026-10-01T15:37:01Z",
+          "evidence": "Current official tenure-track Assistant Professor, public email and CPS/AI-security agenda."
+        },
+        {
+          "id": "s2",
+          "url": "https://zqzqz.github.io/files/resume.pdf",
+          "observedAt": "2026-10-01T15:38:17Z",
+          "evidence": "Complete current author CV: Arizona Assistant Professor August 2025 onward, SAS lab, current 2026 papers and students."
+        },
+        {
+          "id": "s3",
+          "url": "https://azti.arizona.edu/sites/default/files/CV.pdf",
+          "observedAt": "2026-10-01T15:37:42Z",
+          "evidence": "Official-hosted author CV independently preserves August 2025 start; provenance is still author supplied."
+        },
+        {
+          "id": "s4",
+          "url": "https://ece.engin.umich.edu/stories/these-cse-phd-alums-have-accepted-faculty-positions-2",
+          "observedAt": "2026-10-01T15:37:31Z",
+          "evidence": "Official Michigan alumni search result says January 2026 anticipated start, conflicting with current CV. Full-page retrieval failed; do not claim complete-page verification."
+        },
+        {
+          "id": "s5",
+          "url": "https://news.engineering.arizona.edu/sites/default/files/2026-01/2025magazine_winter.pdf",
+          "observedAt": "2026-10-01T15:39:20Z",
+          "evidence": "Complete official Winter2025 magazine downloaded; profiles current AP Qingzhao Zhang but gives no exact start date."
+        },
+        {
+          "id": "s10",
+          "url": "https://zqzqz.github.io/forms/news.yaml",
+          "observedAt": "2026-10-01T15:38:04Z",
+          "evidence": "Homepage-linked public content asset: September 2026 paper acceptance and August 2025 joined Arizona statement."
+        }
+      ]
+    },
+    "weitong-zhang": {
+      "appointmentStart": {
+        "year": 2024,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "s1",
+          "s6",
+          "s7"
+        ],
+        "evidence": "Official current university profile says he joined after UCLA PhD; PI CV dates AP2024 onward. PI homepage news says April2024, while a separate first-person announcement says July2024; year only is retained, not an invented resolved month.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2024（本人CV；4月/7月说法冲突）",
+      "caveat": "完整现场/远程intern表单有Summer2027例子，不是名额；仿真RL方法备选物理0",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://sdis.unc.edu/person/weitong-zhang/",
+          "observedAt": "2026-10-01T18:08:16Z",
+          "evidence": "Current official Assistant Professor, school, professional email and direct arrival after UCLA PhD. Current canonical page redirects from former datascience.unc.edu."
+        },
+        {
+          "id": "s6",
+          "url": "https://zeroweight.github.io/files/cv.pdf",
+          "observedAt": "2026-10-01T18:01:31Z",
+          "evidence": "December 12, 2024 PI CV lists UNC tenure-track AP2024 onward after UCLA PhD. Historical first-person year evidence."
+        },
+        {
+          "id": "s7",
+          "url": "https://www.linkedin.com/posts/weitong-zhang-382671221_thrilled-to-announce-ive-defended-my-phd-activity-7201732724045324289-h3Fk",
+          "observedAt": "2026-10-01T18:01:31Z",
+          "evidence": "PI-authored announcement says July 2024 start, conflicting with homepage April 2024; month not resolved."
+        }
+      ]
+    },
+    "yu-zhang": {
+      "appointmentStart": {
+        "year": 2025,
+        "month": 7,
+        "precision": "month",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "s1",
+          "s3"
+        ],
+        "evidence": "Official September 2025 faculty announcement explicitly says the CS AP appointment began in July 2025; current first-person news agrees. Earlier Kentucky doctoral study and industry employment are documented, but first-ever faculty status is not explicitly stated."
+      },
+      "display": "2025-07（官方）",
+      "caveat": "一般visiting scholar/research volunteer可询问，硕士类别/期限/资金未知；三维主动探索为仿真物理0",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.boisestate.edu/coen-cs/2025/09/29/computer-science-welcomes-new-faculty-fall-2025/",
+          "observedAt": "2026-10-01T17:17:32Z",
+          "evidence": "Complete official cohort page explicitly dates July 2025 CS Assistant Professor appointment and documents earlier Kentucky doctorate and Bastian/Toyota industry role."
+        },
+        {
+          "id": "s3",
+          "url": "https://yuzhang03.github.io/",
+          "observedAt": "2026-10-01T17:18:02Z",
+          "evidence": "Current tenure-track AP, July 2025 arrival news, September 2026 IROS workshop work, 3D embodied perception and outside-institution collaboration interest."
+        }
+      ]
+    },
+    "fengying-dang": {
+      "appointmentStart": {
+        "year": 2024,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "s2",
+          "s5"
+        ],
+        "evidence": "Official2024cohort confirms newAP after postdoctoral work. PI homepage refines toAugust2024; official precise month not independently verified.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2024（官方索引；8月仅本人）",
+      "caveat": "研究生intern入口但MTU Visiting Scholar要求终结学位，外校硕士其他任命未核；控制证据仿真物理0",
+      "sources": [
+        {
+          "id": "s2",
+          "url": "https://blogs.mtu.edu/engineering/2024/11/07/college-of-engineering-welcomes-new-faculty-members/",
+          "observedAt": "2026-10-01T17:19:17Z",
+          "evidence": "Official2024 new AP cohort after Michigan postdoctoral research."
+        },
+        {
+          "id": "s5",
+          "url": "https://dangfengying.github.io/cv/",
+          "observedAt": "2026-10-01T17:20:05Z",
+          "evidence": "Current CV dates2024AP after Michigan/MSUpostdocs;2023RL paper and older flow-sensing publications."
+        }
+      ]
+    },
+    "bin-xu": {
+      "appointmentStart": {
+        "year": 2021,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "s3",
+          "s5",
+          "s7",
+          "s8"
+        ],
+        "evidence": "College 2021–2022 cohort and indexed official 2021 profiles name new OU AP; September 2026 university story says arrival five years earlier. Previous Clemson Research Assistant Professor May 2020–July 2021 is explicitly listed by the PI. Exact OU month is not asserted.",
+        "appointmentType": "institution-move"
+      },
+      "display": "2021（官方；此前Clemson Research AP）",
+      "caveat": "较早转校AP；访问/研究生询问明确无资助，真实静止转向执行22不是自主道路导航",
+      "sources": [
+        {
+          "id": "s3",
+          "url": "https://sites.google.com/view/binxu/team",
+          "observedAt": "2026-10-01T16:13:18Z",
+          "evidence": "Current PI Brian alias and current advising, including first author Fabrice Simpore as 2026 doctoral student; prior Clemson Research Assistant Professor May 2020–July 2021."
+        },
+        {
+          "id": "s5",
+          "url": "https://www.ou.edu/news/articles/2026/September/driving-down-cost-self-driving-cars",
+          "observedAt": "2026-10-01T16:12:08Z",
+          "evidence": "Dated September 3, 2026 official report confirms current OU fleet and campus vehicle-testing program, independent of the stationary steering-paper experiment."
+        },
+        {
+          "id": "s7",
+          "url": "https://ouccoe100.blogspot.com/2021/08/gcoe-welcomes-new-faculty.html",
+          "observedAt": "2026-10-01T16:12:56Z",
+          "evidence": "College-authored August 19, 2021 cohort report names Xu as new OU AP after Clemson Research Assistant Professor. Its unrelated erroneous PhD-institution wording is not used; current faculty profile correctly says Clemson."
+        },
+        {
+          "id": "s8",
+          "url": "https://www.ou.edu/content/dam/cfe/docs/NFO%20Profiles_for%20Web.pdf",
+          "observedAt": "2026-10-01T16:16:38Z",
+          "evidence": "Official indexed 2021 new-faculty profiles names Bin Xu as AME Assistant Professor with Clemson PhD, corroborating the 2021 cohort; direct current PDF URL is 404, so indexed-only limitation retained."
+        }
+      ]
+    },
+    "liangkai-liu": {
+      "appointmentStart": {
+        "year": 2026,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "s1",
+          "s3"
+        ],
+        "evidence": "Official current faculty profile follows a 2023–2026 Michigan postdoc; PI openings page explicitly says Fall 2026. Exact semester is PI-reported, not independently dated by a university hiring announcement.",
+        "appointmentType": "unresolved"
+      },
+      "display": "Fall 2026（本人；官方现任）",
+      "caveat": "明确仅远程intern；现场访问0，Fall2026/Spring2027不等于Summer2027；实体仅旧机器人功耗预测10",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.depts.ttu.edu/cs/faculty/Liangkai_Liu/liangkai_liu.php?v=preview",
+          "observedAt": "2026-10-01T15:56:55Z",
+          "evidence": "Official current Computer Science Assistant Professor; Michigan postdoctoral work 2023–2026 and Wayne State PhD 2018–2023."
+        },
+        {
+          "id": "s3",
+          "url": "https://liangkai.org/openings/",
+          "observedAt": "2026-10-01T16:03:11Z",
+          "evidence": "PI-reported Fall 2026 faculty start; dedicated page recruits Spring/Fall 2027 PhD students and describes cross-layer AI/robotics systems. RA funding is not a separate intern funding promise."
+        }
+      ]
     }
   },
   "constraints": [
@@ -6131,6 +6379,93 @@
         {
           "url": "https://anayebi.github.io/contact/",
           "evidence": "Full current first-person page explicitly says no remote opportunities are being hired at this time. Separate current CMU PhD/MS inquiry and prospective PhD-admission instructions do not establish an outside-master visit."
+        }
+      ]
+    },
+    {
+      "key": "jinghao-yang-2026-phd-scope",
+      "candidateId": "jinghao-yang",
+      "name": "Jinghao Yang",
+      "kind": "capacity-or-role",
+      "scope": "Named Spring/Fall2026 PhD positions only",
+      "summary": "指定2026 PhD职位要求US citizen/permanent resident；不扩为所有访客/2027禁令。无单独外校硕士访问邀请",
+      "observedAt": "2026-10-01T18:42:45Z",
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/posts/jinghao-yang-4772aa187_phd-opportunity-in-ai-and-digital-twin-activity-7380122583871967232-GIwi",
+          "evidence": "Specific Spring/Fall2026 PhD advertisement restricts those positions to US citizens/permanent residents and asks CV/transcripts/research description. Not an external-master visitor call or universal lab ban."
+        }
+      ]
+    },
+    {
+      "key": "tomer-weiss-current-external-positions",
+      "name": "Tomer Weiss",
+      "catalogueIdentity": {
+        "title": "Assistant Professor in official individual/current rosters; graphics report Associate discrepancy retained",
+        "institution": "New Jersey Institute of Technology",
+        "homepage": "https://tomerwei.github.io/",
+        "name": "Tomer Weiss",
+        "roleVerifiedAt": "2026-10-01T19:52:39Z"
+      },
+      "kind": "no-visitors",
+      "scope": "External applicants who completed a BS, MS or PhD outside NJIT and seek visiting, summer or postdoctoral positions",
+      "summary": "当前不接收该类外部visiting/summer/postdoc申请；限已在NJIT之外取得BS/MS/PhD者。NJIT本校课程/PhD入口另列，未声明永久或专门Summer2027禁令；职级冲突待核",
+      "observedAt": "2026-10-01T18:46:45Z",
+      "firstRecordedAt": "2026-10-01T18:45:40Z",
+      "sources": [
+        {
+          "url": "https://tomerwei.github.io/",
+          "evidence": "Full primary page, footer updated September2026, explicit scoped external-position closure and local course prerequisite.",
+          "observedAt": "2026-10-01T18:46:45Z",
+          "retrieval": "Full primary HTML via web.run"
+        },
+        {
+          "url": "https://computing.njit.edu/computer-graphics-0",
+          "evidence": "Official faculty graphics listing confirms current NJIT role and research but uses Associate rather than homepage Assistant title.",
+          "observedAt": "2026-10-01T18:46:30Z",
+          "retrieval": "Primary indexed official page"
+        },
+        {
+          "url": "https://people.njit.edu/profile/tweiss",
+          "observedAt": "2026-10-01T19:52:39Z",
+          "retrieval": "Complete official individual profile independently inspected",
+          "evidence": "Current Informatics Assistant Professor; joined January2020. The official graphics report Associate label remains a source discrepancy; no promotion date is inferred."
+        }
+      ]
+    },
+    {
+      "key": "shilong-liu-additional-intern-capacity",
+      "name": "Shilong Liu",
+      "catalogueIdentity": {
+        "name": "Shilong Liu",
+        "title": "Peretsman Scully Postdoctoral Research Fellow; incoming tenure-track Assistant Professor of Electrical Engineering",
+        "institution": "Princeton University; incoming Columbia University",
+        "homepage": "https://lsl.zone/"
+      },
+      "kind": "no-visitors",
+      "scope": "Current additional-intern capacity statement; not a permanent ban or closure of the separate postdoc category",
+      "summary": "目前无精力接收额外intern，remote-intern文字划除；不扩为永久或postdoc关闭。Columbia同页写July2027与Fall2027，可能涉及暑期后段，独立主办能力未核",
+      "observedAt": "2026-10-01T18:51:30Z",
+      "firstRecordedAt": "2026-10-01T18:41:40Z",
+      "sources": [
+        {
+          "url": "https://lsl.zone/",
+          "evidence": "Complete first-person page: current Princeton postdoc, incoming Columbia Fall2027, explicit no bandwidth for additional interns, remote-intern text struck through. Public research contact is not an open intern offer.",
+          "observedAt": "2026-10-01T18:47:55Z",
+          "retrieval": "complete-primary-page",
+          "recheckedAt": "2026-10-01T18:51:30Z"
+        },
+        {
+          "url": "https://www.ee.columbia.edu/content/shilong-liu",
+          "evidence": "Complete official faculty page: note says will officially join July2027; same-page biography says Fall2027 tenure-track AP. Current Princeton postdoc is explicit.",
+          "observedAt": "2026-10-01T18:51:30Z",
+          "retrieval": "complete-primary-page"
+        },
+        {
+          "url": "https://ai.princeton.edu/news/2026/meet-postdoc-qa-shilong-liu",
+          "evidence": "Complete April8,2026 university profile confirms AI Lab postdoctoral research fellow under Mengdi Wang; robotics potential is research context, not independent visiting-student host authority.",
+          "observedAt": "2026-10-01T18:51:30Z",
+          "retrieval": "complete-primary-page"
         }
       ]
     }

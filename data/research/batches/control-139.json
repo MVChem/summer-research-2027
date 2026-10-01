@@ -1,0 +1,125 @@
+[
+  {
+    "id": "weitong-zhang",
+    "name": "Weitong Zhang",
+    "aliases": [],
+    "school": "University of North Carolina at Chapel Hill",
+    "homepage": "https://zeroweight.github.io/",
+    "title": "Assistant Professor",
+    "department": "School of Data and Information Sciences",
+    "batch": "control-139",
+    "discoveredAt": "2026-10-01T17:56:41Z",
+    "verifiedAt": "2026-10-01T18:08:16Z",
+    "researchAreas": [
+      "Offline reinforcement learning",
+      "Flow and diffusion policy optimization",
+      "Simulated locomotion and navigation",
+      "Exploration and robust decision making"
+    ],
+    "fitReason": "Method-focused robot-control backup: energy-guided generative policies are evaluated on simulated locomotion and AntMaze tasks. The broader programme is RL theory, language models and scientific AI, so direct robotics-project alignment must be confirmed.",
+    "physicalEvidence": {
+      "status": "simulation-only",
+      "summary": "Full ICLR2025 QIPO paper develops Q-weighted flow/diffusion policy optimization and evaluates D4RL HalfCheetah, Hopper, Walker2d and AntMaze tasks. These are offline datasets and simulated environments, not real robots. No learned physical execution was verified; self-driving-laboratory interests on the research page are not evidence of an executed autonomous laboratory.",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "Current primary homepage separately invites prospective interns. The complete live single-page form explicitly lists in-person or remote internships separately from local UNC graduate/undergraduate research, asks the applicant’s undergraduate/graduate institution, and gives2027 Summer as a possible timing example for interns/UNC students. It requests CV and research interests, with optional transcript/additional information. No duration, stipend, outside-master appointment category or summer place is promised.",
+      "sourceIds": [
+        "s2",
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 31,
+      "physical": 0,
+      "shortVisit": 10,
+      "freshness": 13
+    },
+    "scoreReasons": {
+      "fit": "Concrete generative control-policy methodology for simulated robot tasks, but broad RL/scientific-AI rather than a verified dedicated physical-robot project.",
+      "physical": "Only simulated/offline benchmarks verified; no hardware credit.",
+      "shortVisit": "Explicit current in-person/remote intern form with arbitrary graduate institution and summer timing example; exact placement/appointment unresolved.",
+      "freshness": "Current2027 recruiting form plus explicit2026 grant activity; most direct robot-control method is2025."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "sdis.unc.edu / source 1",
+        "url": "https://sdis.unc.edu/person/weitong-zhang/",
+        "summary": "Current official Assistant Professor, school, professional email and direct arrival after UCLA PhD. Current canonical page redirects from former datascience.unc.edu.",
+        "verifiedAt": "2026-10-01T18:08:16Z",
+        "retrieval": "Full live university profile in cloud browser"
+      },
+      {
+        "id": "s2",
+        "label": "zeroweight.github.io / source 2",
+        "url": "https://zeroweight.github.io/",
+        "summary": "Current2027 student hiring text separates prospective interns from current UNC students; March 2026 grant news. Homepage April 2024 start text conflicts with separate July 2024 first-person announcement.",
+        "verifiedAt": "2026-10-01T18:00:22Z",
+        "retrieval": "Full live primary homepage in cloud browser"
+      },
+      {
+        "id": "s3",
+        "label": "docs.google.com / source 3",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSekmLONd2H_cVTyNWtbsklhfH4h8l9zd5HAVYFjRyjjyz-iaA/viewform?usp=send_form",
+        "summary": "Complete single-page form explicitly lists onsite/remote internship, non-institution-specific degree institution field and2027 Summer timing example. No minimum duration or funding statement; no data entered.",
+        "verifiedAt": "2026-10-01T18:01:14Z",
+        "retrieval": "Full live primary form in cloud browser"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2503.04975v1",
+        "summary": "Full March 2025 QIPO methods and Section5.2/AppendixE: D4RL simulated locomotion and AntMaze only; no real robot.",
+        "verifiedAt": "2026-10-01T17:59:40Z",
+        "retrieval": "Full primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "zeroweight.github.io / source 5",
+        "url": "https://zeroweight.github.io/research/",
+        "summary": "Broader RL and scientific-AI programme; self-driving lab aspirations do not establish physical execution.",
+        "verifiedAt": "2026-10-01T17:58:05Z",
+        "retrieval": "Full primary HTML/PDF via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "zeroweight.github.io / source 6",
+        "url": "https://zeroweight.github.io/files/cv.pdf",
+        "summary": "December 12, 2024 PI CV lists UNC tenure-track AP2024 onward after UCLA PhD. Historical first-person year evidence.",
+        "verifiedAt": "2026-10-01T18:01:31Z",
+        "retrieval": "Primary indexed CV text"
+      },
+      {
+        "id": "s7",
+        "label": "www.linkedin.com / source 7",
+        "url": "https://www.linkedin.com/posts/weitong-zhang-382671221_thrilled-to-announce-ive-defended-my-phd-activity-7201732724045324289-h3Fk",
+        "summary": "PI-authored announcement says July 2024 start, conflicting with homepage April 2024; month not resolved.",
+        "verifiedAt": "2026-10-01T18:01:31Z",
+        "retrieval": "Public first-person indexed post"
+      }
+    ],
+    "unknowns": [
+      "A Summer2027 example in a form is an inquiry option, not a confirmed summer programme or offer. Form fields were read without entering data, uploading or submitting; operability was not tested. UNC Chapel Hill policy: relevant bachelor’s qualification and host sponsorship, category-specific experience requirements, current published $2,776/month plus host costs, English/insurance and at least three months preparation. Old funding PDF gives a conflicting $2,000/month and personal funds, so full personal-funding approval must not be inferred from that old document. Exact outside-master category, funding sources, total costs and2027 acceptance require ISSS/host confirmation.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor review](../eligibility_notes.md#unc-chapel-hill); institution and lab observations retain their separate source times."
+    ],
+    "publicEmail": "weitongz@unc.edu",
+    "appointmentStart": {
+      "year": 2024,
+      "precision": "year",
+      "status": "current",
+      "sourceIds": [
+        "s1",
+        "s6",
+        "s7"
+      ],
+      "evidence": "Official current university profile says he joined after UCLA PhD; PI CV dates AP2024 onward. PI homepage news says April2024, while a separate first-person announcement says July2024; year only is retained, not an invented resolved month.",
+      "appointmentType": "unresolved"
+    },
+    "candidateTier": "生成控制策略方法备选；仅仿真"
+  }
+]

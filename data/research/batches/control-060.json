@@ -1,0 +1,91 @@
+[
+  {
+    "id": "john-t-wen",
+    "name": "John T. Wen",
+    "aliases": [
+      "John Wen"
+    ],
+    "school": "Rensselaer Polytechnic Institute",
+    "homepage": "https://john-wen.com/people/john-t-wen",
+    "title": "Russell Sage Professor of Engineering",
+    "department": "Electrical, Computer, and Systems Engineering; joint Mechanical, Aerospace, and Nuclear Engineering",
+    "batch": "control-060",
+    "discoveredAt": "2026-10-01T04:34:09Z",
+    "verifiedAt": "2026-10-01T04:36:46Z",
+    "researchAreas": [
+      "Recurrent neural process models",
+      "Learning-based robot control",
+      "Industrial robotics",
+      "Iterative learning and adaptation",
+      "Robotic additive manufacturing"
+    ],
+    "fitReason": "Physical AI through learned nonlinear process models embedded in closed-loop industrial robot control; more manufacturing-specific than generalist manipulation.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "May 2026 primary preprint executes learned-model geometry control during actual stainless-steel wire-arc additive manufacturing. A Yaskawa MA2010 welding robot, FujiCam line scanner, D500B trunnion table and Fronius TPS500i power source are coordinated by a PC. Trained RNN predictions and online model adaptation adjust torch speed and wire feed at 10 Hz. RNN/LSTM/GRU/NARX comparison includes offline model evaluation; the reported RNN control is physical deposition. It learns process dynamics and adjusts robot/process commands, not an end-to-end RL manipulation policy.",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "shortVisit": {
+      "status": "precedent-only",
+      "summary": "Current official faculty page and PI group site verify active supervision and 2026 learning/control work, but no explicit current external-master’s short-visit invitation was found. Historical visiting master’s alumni are precedent only.",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantive neural dynamics learning and adaptation controlling physical robot manufacturing; focused industrial scope.",
+      "physical": "Named robotic cell and executed 10-Hz neural predictive/adaptive deposition control, separated from offline architecture evaluation.",
+      "shortVisit": "No applicable current external-master’s short-visit invitation verified.",
+      "freshness": "May 2026 primary robot study and September 29, 2026 current PI academic activity."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "faculty.rpi.edu / source 1",
+        "url": "https://faculty.rpi.edu/john-wen",
+        "summary": "Current official endowed Professor, joint department, public email and past department-head dates.",
+        "verifiedAt": "2026-10-01T04:35:25Z",
+        "retrieval": "Direct official or author-primary HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "john-wen.com / source 2",
+        "url": "https://john-wen.com/people/john-t-wen",
+        "summary": "Current active research and September 29, 2026 industrial robotics keynote; no external short-visitor invitation established.",
+        "verifiedAt": "2026-10-01T04:35:25Z",
+        "retrieval": "Direct official or author-primary HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2605.29144v1",
+        "summary": "Full May 2026 primary preprint: neural time-series dynamics, RNN predictive/adaptive control, actual Yaskawa robotic WAAM cell and steel-deposition results.",
+        "verifiedAt": "2026-10-01T04:35:25Z",
+        "retrieval": "Direct official or author-primary HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "isss.rpi.edu / source 4",
+        "url": "https://isss.rpi.edu/exchange-students-scholars/host-departments",
+        "summary": "Directly read official host page: undergraduate-only Student Intern; separate scholar categories and personal-bank-evidence option. See RPI feasibility supplement for unresolved external-master’s classification.",
+        "verifiedAt": "2026-10-01T04:36:46Z",
+        "retrieval": "Direct official HTML via web.run"
+      }
+    ],
+    "unknowns": [
+      "Current official profile identifies Russell Sage Professor; the 2019–2025 department-head role is past. RPI Student Intern webpage is explicitly undergraduate-only, so an external master’s would require a separately approved academic/scholar classification. Host agreement, eight-week dates, laboratory training, access, funding and 2027 capacity remain unknown.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[RPI institutional visitor rules](../eligibility_notes.md#rpi)"
+    ],
+    "publicEmail": "wenj@rpi.edu"
+  }
+]

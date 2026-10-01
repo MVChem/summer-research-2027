@@ -842,3 +842,14 @@ Source: [URI International J-1 Student Interns](https://web.uri.edu/global/comin
 目前未核实纯研究访问的硕士资格、最低/最高时长、资金来源比例、完全个人支持、保险、办理费和 2027 提前量。应由导师、院系和 Global Education Center（international@lamar.edu）确认具体任命及移民类别；不要把本科 SURF、修课 exchange 或普通 degree-admission 财力数字用于八周研究访问。
 
 Sources: [Guides and Forms](https://www.lamar.edu/international-education/international-students-and-scholars/guide-and-forms.html); [Sponsor signature sheet](https://www.lamar.edu/international-education/_files/documents/old-files/j-1-application-approval-letter-2018.pdf); [Linked DS-7002, 2018 version](https://www.lamar.edu/international-education/_files/documents/old-files/j-1-application_a-j-1-application-a-ds7002.pdf); [J-1 application entry](https://www.lamar.edu/forms/international/j-1-exchange-visitor-application.html)
+
+<a id="rpi"></a>
+## RPI · Student Intern 仅本科，硕士研究访问需另定类别
+
+核查 2026-10-01T04:36:46Z。[ISSS 主办院系指引](https://isss.rpi.edu/exchange-students-scholars/host-departments) 将 Student Intern 限于美国境外高校本科生；另列有薪或无薪 Scholar 类别，Short-Term Scholar 最长六个月。该页接受个人银行证明，列出每月至少 $1,700、财力文件六个月内；这是支持证明标准，不是总费用或已确认的 2027 预算。
+
+[类别总览](https://isss.rpi.edu/exchange-visitors-scholars-and-students) 的 Scholar 说明使用“不修课或攻读学位”措辞，但未清楚区分 RPI 学位与保留外校学籍。不能据此承诺或全面排除海外硕士；应由 ISSS 和院系决定具体学术任命、活动与签证类别。各校 Student Intern 条件不可相互套用。
+
+国际访客须先做 Export Control review，可能耗时四周以上；这不等于全部任命与签证总办理时间。当前链接的两个 Box DS-2019 表地址读取失败，未用旧表代替。准确时长、个人资金比例、费用支付方、实验室训练及系统访问仍需确认。
+
+[Other Visitors](https://isss.rpi.edu/exchange-visitors-scholars/other-visitors) 区分观察/咨询性独立研究与动手协作、受指导研究；不能因无薪或停留短就把 B-1 视作替代途径。[现有 J-1 访客指引](https://isss.rpi.edu/exchange-students-scholars/current-j-1-exchange-visitors) 另要求持续医疗、撤离及遗体运返保险，保费及其他学校费用未核实。上述制度不代表任何导师提供 2027 约八周名额。

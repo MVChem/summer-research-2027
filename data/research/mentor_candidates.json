@@ -68,6 +68,7 @@
     "batches/control-057.json",
     "batches/control-058.json",
     "batches/control-059.json",
+    "batches/control-060.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -3574,6 +3575,35 @@
       "shortVisitStatus": "degree-only",
       "recordFile": "batches/control-059.json",
       "detailPage": "batches/control-059.md#rushikesh-l-kamalapurkar"
+    },
+    {
+      "id": "john-t-wen",
+      "name": "John T. Wen",
+      "aliases": [
+        "John Wen"
+      ],
+      "school": "Rensselaer Polytechnic Institute",
+      "title": "Russell Sage Professor of Engineering",
+      "homepage": "https://john-wen.com/people/john-t-wen",
+      "batch": "control-060",
+      "discoveredAt": "2026-10-01T04:34:09Z",
+      "verifiedAt": "2026-10-01T04:36:46Z",
+      "scores": {
+        "fit": 37,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Recurrent neural process models",
+        "Learning-based robot control",
+        "Industrial robotics",
+        "Iterative learning and adaptation",
+        "Robotic additive manufacturing"
+      ],
+      "shortVisitStatus": "precedent-only",
+      "recordFile": "batches/control-060.json",
+      "detailPage": "batches/control-060.md#john-t-wen"
     },
     {
       "id": "tom-silver",

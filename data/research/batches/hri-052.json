@@ -1,0 +1,112 @@
+[
+  {
+    "id": "jun-nishida",
+    "name": "Jun Nishida",
+    "aliases": [],
+    "school": "University of Maryland, College Park",
+    "homepage": "https://www.cs.umd.edu/people/jun",
+    "title": "Assistant Professor",
+    "department": "Computer Science; UMIACS",
+    "batch": "hri-052",
+    "discoveredAt": "2026-10-01T03:36:49Z",
+    "verifiedAt": "2026-10-01T04:34:22Z",
+    "researchAreas": [
+      "Personalized haptic feedback",
+      "Human-centered AI",
+      "Wearable robotic exoskeletons",
+      "Human motor-skill assistance",
+      "Embodied interaction"
+    ],
+    "fitReason": "A narrower assistive/physical human-AI option for CS work on interactive personalization and user-aware feedback. The lab builds on-body devices; interest and skill in experimental HCI and hardware integration matter alongside coding.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The official Haptimize project page reports a 2026 system that learns modality-selection values from objective performance and subjective ratings, choosing among electrical muscle stimulation, vibrotactile feedback and an exoskeleton. It reports an 18-person piano-learning study. A separate 2026 FIXical I/O project documents an actual magnetic hand exoskeleton with real-time motion sensing and active physical error interventions; its human motor-learning result must not itself be called machine learning. Current lab and first-author pages establish Kyungyeon Lee as Nishida’s advisee. Full Haptimize manuscript and exact device/control implementation were not available in this pass, so physical points are below a fully inspected deployed-method paper.",
+      "sourceIds": [
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only · student appointment category unresolved",
+      "summary": "The live EmD Join page has a distinct international Research Assistants & Visiting Scholars paragraph and offers to discuss support for international student scholarship applications. This is a broad inquiry route, not a confirmed external-master’s internship. Its linked UMIACS page now resolves to professional-track faculty appointment policies, which does not settle visiting-student eligibility.",
+      "sourceIds": [
+        "s2",
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 34,
+      "physical": 23,
+      "shortVisit": 5,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "34/40: learned physical feedback personalization and human-centered AI, but specialized wearable/motor-learning scope.",
+      "physical": "23/25: own-group current physical learning system and separate concrete exoskeleton implementation on primary lab pages; full learned-system manuscript and device specifics remain unverified.",
+      "shortVisit": "5/20: explicit international visiting-scholar inquiry, with student category, duration and summer capacity unresolved.",
+      "freshness": "15/15: distinct substantive 2026 Haptimize and CHI physical-interaction projects establish current activity."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.cs.umd.edu / source 1",
+        "url": "https://www.cs.umd.edu/people/jun",
+        "summary": "Full current official faculty directory verifies Assistant Professor, CS/UMIACS appointments, public email and haptics/augmentation research.",
+        "verifiedAt": "2026-10-01T04:34:22Z"
+      },
+      {
+        "id": "s2",
+        "label": "emd.cs.umd.edu / source 2",
+        "url": "https://emd.cs.umd.edu/join",
+        "summary": "Full live page distinguishes internal student projects from potential international visiting positions and scholarship-support inquiries, but gives no duration or degree eligibility.",
+        "verifiedAt": "2026-10-01T04:34:22Z"
+      },
+      {
+        "id": "s3",
+        "label": "www.umiacs.umd.edu / source 3",
+        "url": "https://www.umiacs.umd.edu/appointment-evaluation-and-promotion",
+        "summary": "The current destination of the lab’s visitor link is a professional-track faculty appointment page. It does not establish a visiting-master’s category.",
+        "verifiedAt": "2026-10-01T03:38:47Z"
+      },
+      {
+        "id": "s4",
+        "label": "emd.cs.umd.edu / source 4",
+        "url": "https://emd.cs.umd.edu/work/project-hpm",
+        "summary": "Full official 2026 Haptimize project describes online reward-value updating for selection of physical feedback modalities and reports an N=18 study; full conference manuscript not retrieved.",
+        "verifiedAt": "2026-10-01T04:34:22Z"
+      },
+      {
+        "id": "s5",
+        "label": "emd.cs.umd.edu / source 5",
+        "url": "https://emd.cs.umd.edu/work/project-fx",
+        "summary": "Full official CHI2026 project verifies a magnetic hand exoskeleton with real-time sensing and physical error intervention, distinct from the Haptimize optimization study.",
+        "verifiedAt": "2026-10-01T04:34:22Z"
+      },
+      {
+        "id": "s6",
+        "label": "emd.cs.umd.edu / source 6",
+        "url": "https://emd.cs.umd.edu/",
+        "summary": "Full current lab page identifies local wearable-device facilities and first author Kyungyeon Lee as current PhD student.",
+        "verifiedAt": "2026-10-01T03:38:47Z"
+      },
+      {
+        "id": "s7",
+        "label": "kylee.vercel.app / source 7",
+        "url": "https://kylee.vercel.app/",
+        "summary": "Full current first-author page confirms Nishida advising and personalized haptics/human-centered AI focus.",
+        "verifiedAt": "2026-10-01T03:38:47Z"
+      }
+    ],
+    "unknowns": [
+      "No eight-week duration, external-master’s lab acceptance, summer 2027 capacity, funding amount or all-personal-funding permission is established by the lab page.",
+      "The international visitor link currently leads to professional-track faculty appointment information. The correct enrolled-student category must be resolved with the host and UMD; do not treat a faculty-appointment page as student eligibility.",
+      "Previously verified UMD central visitor policy remains the relevant starting point; host appointment, immigration, required support, fees and insurance still need case-specific approval.",
+      "This is wearable haptic/robotic assistance, not general-purpose manipulation or autonomous navigation. Haptimize’s detailed learning algorithm and quantitative claims have only been read on the primary lab project page, not in its full manuscript.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[UMD institutional visitor rules](../eligibility_notes.md#maryland-student-intern)"
+    ],
+    "publicEmail": "jun@umd.edu"
+  }
+]

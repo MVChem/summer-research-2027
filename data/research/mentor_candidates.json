@@ -171,7 +171,8 @@
     "batches/hri-048.json",
     "batches/hri-049.json",
     "batches/hri-050.json",
-    "batches/hri-051.json"
+    "batches/hri-051.json",
+    "batches/hri-052.json"
   ],
   "candidates": [
     {
@@ -10026,6 +10027,33 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-051.json",
       "detailPage": "batches/hri-051.md#karen-m-feigh"
+    },
+    {
+      "id": "jun-nishida",
+      "name": "Jun Nishida",
+      "aliases": [],
+      "school": "University of Maryland, College Park",
+      "title": "Assistant Professor",
+      "homepage": "https://www.cs.umd.edu/people/jun",
+      "batch": "hri-052",
+      "discoveredAt": "2026-10-01T03:36:49Z",
+      "verifiedAt": "2026-10-01T04:34:22Z",
+      "scores": {
+        "fit": 34,
+        "physical": 23,
+        "shortVisit": 5,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Personalized haptic feedback",
+        "Human-centered AI",
+        "Wearable robotic exoskeletons",
+        "Human motor-skill assistance",
+        "Embodied interaction"
+      ],
+      "shortVisitStatus": "inquiry-only · student appointment category unresolved",
+      "recordFile": "batches/hri-052.json",
+      "detailPage": "batches/hri-052.md#jun-nishida"
     }
   ]
 }

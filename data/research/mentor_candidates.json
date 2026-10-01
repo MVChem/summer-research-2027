@@ -196,7 +196,8 @@
     "batches/hri-058.json",
     "batches/hri-059.json",
     "batches/hri-060.json",
-    "batches/hri-061.json"
+    "batches/hri-061.json",
+    "batches/hri-062.json"
   ],
   "candidates": [
     {
@@ -11039,6 +11040,33 @@
       "shortVisitStatus": "unknown · internal Skidmore summer program only",
       "recordFile": "batches/hri-061.json",
       "detailPage": "batches/hri-061.md#kathleen-candon"
+    },
+    {
+      "id": "michelle-zhao",
+      "name": "Michelle Zhao",
+      "aliases": [],
+      "school": "Indiana University Bloomington",
+      "title": "Assistant Professor of Computer Science",
+      "homepage": "https://luddy.iu.edu/people/zhao-michelle.html",
+      "batch": "hri-062",
+      "discoveredAt": "2026-10-01T05:19:50Z",
+      "verifiedAt": "2026-10-01T05:20:40Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Interactive imitation learning",
+        "Conformal uncertainty quantification",
+        "Diffusion policies",
+        "Learning from human feedback",
+        "Human-robot collaboration"
+      ],
+      "shortVisitStatus": "degree-only · current IU students",
+      "recordFile": "batches/hri-062.json",
+      "detailPage": "batches/hri-062.md#michelle-zhao"
     }
   ]
 }

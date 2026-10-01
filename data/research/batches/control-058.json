@@ -1,0 +1,198 @@
+[
+  {
+    "id": "souma-chowdhury",
+    "name": "Souma Chowdhury",
+    "aliases": [],
+    "school": "University at Buffalo, State University of New York",
+    "homepage": "https://adams.eng.buffalo.edu/",
+    "title": "Associate Professor; Director, Adaptive Design Algorithms, Models and Systems Laboratory",
+    "department": "Mechanical and Aerospace Engineering; adjunct Computer Science and Engineering",
+    "batch": "control-058",
+    "discoveredAt": "2026-10-01T04:26:03Z",
+    "verifiedAt": "2026-10-01T04:37:24Z",
+    "researchAreas": [
+      "Learning-based traversability",
+      "Multi-robot autonomy",
+      "Evolutionary and neural design",
+      "Robot co-design",
+      "Swarm learning"
+    ],
+    "fitReason": "Direct physical-AI overlap through learned terrain costs for real off-road navigation, alongside a broader swarm and autonomous-system design program.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "RSS 2026 MAT runs a U-Net learned traversability map, MPPI planning and PID execution on a physical Losi 1/5-scale Racer with Livox MID-360, Jetson Nano and Arduino. Real outdoor trials cross manmade and snow ditches and navigate curbs, rocks and trees. Training begins in BeamNG and is fine-tuned on real data; the long-range maps are simulation. This is a joint Buffalo project hosted by SAIR, not proof of exclusive ADAMS ownership or guaranteed visitor access to its hardware.",
+      "sourceIds": [
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "ADAMS homepage has a 2022–2023 recruitment section for PhD, master’s and undergraduate researchers. It is stale, degree/general research intake rather than a current external-master’s eight-week invitation. No current short-visitor route found in reviewed lab pages.",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantive neural perception-cost learning feeding physical autonomous navigation; broader program includes learning and robot co-design.",
+      "physical": "Fresh executed learned navigation in joint Buffalo SAIR-hosted work. Current ADAMS-directed student/project or hardware linkage was not independently established, so collaborator-hardware cap20 applies.",
+      "shortVisit": "No current external-master’s short-visit invitation verified; stale general degree intake earns zero.",
+      "freshness": "RSS 2026 project and primary manuscript, plus current official faculty identity."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.buffalo.edu / source 1",
+        "url": "https://www.buffalo.edu/cear/people.host.html/content/shared/engineering/mechanical-aerospace/profiles/chowdhury-souma.detail.latest-news.html?par_list_start=7",
+        "summary": "Official current Associate Professor, adjunct CSE and public email.",
+        "verifiedAt": "2026-10-01T04:27:14Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "adams.eng.buffalo.edu / source 2",
+        "url": "https://adams.eng.buffalo.edu/staff-members/souma-chowdhury/",
+        "summary": "Current biography identifies Associate Professor and ADAMS director; stale Assistant header is not controlling.",
+        "verifiedAt": "2026-10-01T04:27:14Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "adams.eng.buffalo.edu / source 3",
+        "url": "https://adams.eng.buffalo.edu/",
+        "summary": "Recruitment is explicitly labeled 2022–2023; no current external-master’s visitor offer established.",
+        "verifiedAt": "2026-10-01T04:27:14Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "sairlab.org / source 4",
+        "url": "https://sairlab.org/mat/",
+        "summary": "RSS 2026 project confirms Chowdhury authorship and physical outdoor system, with primary paper link.",
+        "verifiedAt": "2026-10-01T04:27:14Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2602.00877v1",
+        "summary": "Sections III and IV distinguish U-Net/MPPI/PID, physical Racer tests, and BeamNG simulation. Joint Buffalo authorship does not prove exclusive hardware ownership.",
+        "verifiedAt": "2026-10-01T04:27:14Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      }
+    ],
+    "unknowns": [
+      "Reuse the existing Buffalo Student Intern/Non-Degree policy supplement. A university route, local master’s research advertisement or coauthored experiment does not establish individual acceptance, eight-week dates, funding or laboratory access. Current central profile and lab biography say Associate Professor; the lab profile header retains older Assistant wording.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#buffalo)"
+    ],
+    "publicEmail": "soumacho@buffalo.edu"
+  },
+  {
+    "id": "yue-sophie-wang",
+    "name": "Yue (Sophie) Wang",
+    "aliases": [
+      "Yue Wang (Clemson)",
+      "Sophie Wang"
+    ],
+    "school": "Clemson University",
+    "homepage": "https://yue6.people.clemson.edu/index.php",
+    "title": "Professor; Warren H. Owen–Duke Energy Professor of Engineering; Associate Dean for Research, CECAS",
+    "department": "Mechanical Engineering",
+    "batch": "control-058",
+    "discoveredAt": "2026-10-01T04:26:03Z",
+    "verifiedAt": "2026-10-01T04:39:13Z",
+    "researchAreas": [
+      "Safe reinforcement learning",
+      "Vision-guided neural robot control",
+      "Runtime verification",
+      "Human-robot collaboration",
+      "Generative models for robot safety"
+    ],
+    "fitReason": "Strong safe-learning control fit with actual vision-guided RL execution on a collaborative manipulator and generative-model runtime analysis.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The May 2026 author-uploaded preprint reports a physical UR5 and ZED2 RGBD camera running PPO/SAC visuomotor control at 10 Hz under a slower asynchronous safety verifier, with safe-stop switching during human-arm intrusions. Policies train in Isaac Lab; the later reported UR5 tests are hardware. The attention GAN synthesizes bounded obstacle variants for verification. Safety is conditional on bounded-motion, visibility and model assumptions; this is not a universal safety guarantee. The manuscript is a preprint, not independently verified peer-reviewed publication.",
+      "sourceIds": [
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current official and PI pages establish a Clemson laboratory and public contact. No external-master’s visitor or eight-week summer invitation was verified. A PhD recruitment posting does not establish short-visit eligibility.",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct safe RL, generative visual-model verification and deployed learned robot control.",
+      "physical": "Named actual UR5/ZED2, ROS2 control loop and physical human-arm avoidance documented in full author-primary manuscript.",
+      "shortVisit": "No applicable current external short-visitor invitation verified.",
+      "freshness": "May 2026 primary technical manuscript; current official faculty profile, with NSF/campus-capacity caveat."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.clemson.edu / source 1",
+        "url": "https://www.clemson.edu/cecas/departments/me/people/faculty/wang.html",
+        "summary": "Official current Professor, endowed title, Associate Dean, public email and retained NSF program-director wording.",
+        "verifiedAt": "2026-10-01T04:39:13Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "yue6.people.clemson.edu / source 2",
+        "url": "https://yue6.people.clemson.edu/index.php",
+        "summary": "Professor and I2R director; university-hosted identity disambiguates USC/Zhejiang namesakes.",
+        "verifiedAt": "2026-10-01T04:27:14Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "www.clemson.edu / source 3",
+        "url": "https://www.clemson.edu/cecas/departments/me/research/labs/i2r.html",
+        "summary": "Official I2R learning/control program and concrete UR5/Baxter/mobile-robot infrastructure.",
+        "verifiedAt": "2026-10-01T04:27:14Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "www.researchgate.net / source 4",
+        "url": "https://www.researchgate.net/publication/404881932_Runtime_Verification_of_Vision-Guided_Neural_Network_Controllers_in_Human-Robot_Collaborative_Manufacturing",
+        "summary": "Author-uploaded May 2026 full preprint, Sections 6–8: physical UR5/ZED2 and ROS2, 10-Hz RL control with slower safety monitor; Isaac Lab is training. Visibility/motion assumptions limit the guarantee.",
+        "verifiedAt": "2026-10-01T04:27:14Z",
+        "retrieval": "Direct official or author-primary page via web.run"
+      }
+    ],
+    "unknowns": [
+      "Distinct from Yue Wang at USC and Zhejiang University. Current official profile says Professor and Associate Dean, and retains current NSF program-director wording; campus presence and visitor supervision in summer 2027 are therefore unresolved. Reuse the existing Clemson policy supplement and its student-category/funding uncertainties. Lab equipment availability does not itself establish a visitor placement.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#clemson)",
+      "Manual namesake review: current Clemson professorship, WPI 2011 PhD and institutional contact distinguish this record from USC CS Assistant Professor Yue Wang, whose official USC biography documents an MIT PhD and 2023 arrival. No identity traits were inferred."
+    ],
+    "publicEmail": "yue6@clemson.edu",
+    "verificationAttempts": [
+      {
+        "attemptedAt": "2026-10-01T04:39:13Z",
+        "sourceIds": [
+          "s2"
+        ],
+        "outcome": "Subsequent homepage extraction failed; earlier source verification remains recorded. The current official Clemson directory was read successfully in this pass."
+      }
+    ]
+  }
+]

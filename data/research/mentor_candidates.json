@@ -66,6 +66,7 @@
     "batches/control-055.json",
     "batches/control-056.json",
     "batches/control-057.json",
+    "batches/control-058.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -3482,6 +3483,63 @@
       "shortVisitStatus": "unknown · FSU extended screening timeline",
       "recordFile": "batches/control-057.json",
       "detailPage": "batches/control-057.md#christian-hubicki"
+    },
+    {
+      "id": "souma-chowdhury",
+      "name": "Souma Chowdhury",
+      "aliases": [],
+      "school": "University at Buffalo, State University of New York",
+      "title": "Associate Professor; Director, Adaptive Design Algorithms, Models and Systems Laboratory",
+      "homepage": "https://adams.eng.buffalo.edu/",
+      "batch": "control-058",
+      "discoveredAt": "2026-10-01T04:26:03Z",
+      "verifiedAt": "2026-10-01T04:37:24Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Learning-based traversability",
+        "Multi-robot autonomy",
+        "Evolutionary and neural design",
+        "Robot co-design",
+        "Swarm learning"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-058.json",
+      "detailPage": "batches/control-058.md#souma-chowdhury"
+    },
+    {
+      "id": "yue-sophie-wang",
+      "name": "Yue (Sophie) Wang",
+      "aliases": [
+        "Yue Wang (Clemson)",
+        "Sophie Wang"
+      ],
+      "school": "Clemson University",
+      "title": "Professor; Warren H. Owen–Duke Energy Professor of Engineering; Associate Dean for Research, CECAS",
+      "homepage": "https://yue6.people.clemson.edu/index.php",
+      "batch": "control-058",
+      "discoveredAt": "2026-10-01T04:26:03Z",
+      "verifiedAt": "2026-10-01T04:39:13Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Safe reinforcement learning",
+        "Vision-guided neural robot control",
+        "Runtime verification",
+        "Human-robot collaboration",
+        "Generative models for robot safety"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-058.json",
+      "detailPage": "batches/control-058.md#yue-sophie-wang"
     },
     {
       "id": "tom-silver",

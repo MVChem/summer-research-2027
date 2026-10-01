@@ -75,7 +75,8 @@
     "batches/hri-019.json",
     "batches/hri-020.json",
     "batches/hri-021.json",
-    "batches/hri-022.json"
+    "batches/hri-022.json",
+    "batches/hri-023.json"
   ],
   "candidates": [
     {
@@ -6913,6 +6914,35 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-022.json",
       "detailPage": "batches/hri-022.md#nadia-figueroa"
+    },
+    {
+      "id": "tsung-chi-lin",
+      "name": "Tsung-Chi Lin",
+      "aliases": [
+        "Tsung Chi Lin"
+      ],
+      "school": "New Jersey Institute of Technology",
+      "title": "Assistant Professor of Computer Science",
+      "homepage": "https://lintsungchi.com/",
+      "batch": "hri-023",
+      "discoveredAt": "2026-10-01T00:07:54Z",
+      "verifiedAt": "2026-10-01T00:08:52Z",
+      "scores": {
+        "fit": 36,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-robot collaboration",
+        "Shared autonomy",
+        "Robot teleoperation",
+        "Speech-mediated preference correction",
+        "Physical AI interfaces"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-023.json",
+      "detailPage": "batches/hri-023.md#tsung-chi-lin"
     }
   ]
 }

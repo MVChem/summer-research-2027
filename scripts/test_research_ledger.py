@@ -32,6 +32,21 @@ class ResearchLedgerTests(unittest.TestCase):
         with self.assertRaises(AssertionError):
             ledger.validate(data)
 
+    def test_remote_only_invitation_cannot_score_as_onsite(self):
+        data = copy.deepcopy(self.full)
+        row = data["candidates"][0]
+        row["shortVisit"]["status"] = "remote-only-inquiry · in-person route unverified"
+        row["scores"]["shortVisit"] = 5
+        with self.assertRaises(AssertionError):
+            ledger.validate(data)
+
+    def test_remote_inquiry_requires_known_source(self):
+        data = copy.deepcopy(self.full)
+        row = data["candidates"][0]
+        row["remoteInquiryEvidence"] = {"status": "explicit-inquiry", "summary": "Remote research inquiry only", "sourceIds": ["missing-source"], "verifiedAt": row["verifiedAt"]}
+        with self.assertRaises(AssertionError):
+            ledger.validate(data)
+
     def test_qualified_unknown_opportunity_cannot_score(self):
         data = copy.deepcopy(self.full)
         data["candidates"][0]["shortVisit"]["status"] = "unknown · future host unconfirmed"

@@ -86,6 +86,12 @@ def validate(data):
             source_ids.add(source["id"])
             url_key(source["url"])
             assert timestamp(source["verifiedAt"]) <= timestamp(row["verifiedAt"])
+        remote = row.get("remoteInquiryEvidence")
+        if remote is not None:
+            assert {"status", "summary", "sourceIds", "verifiedAt"} <= remote.keys()
+            assert remote["status"] and remote["summary"]
+            assert remote["sourceIds"] and set(remote["sourceIds"]) <= source_ids
+            assert timestamp(remote["verifiedAt"]) <= timestamp(row["verifiedAt"])
         for attempt in row.get("verificationAttempts", []):
             assert {"attemptedAt", "sourceIds", "outcome"} <= attempt.keys()
             assert timestamp(row["discoveredAt"]) <= timestamp(attempt["attemptedAt"])
@@ -102,7 +108,7 @@ def validate(data):
             assert isinstance(score, int) and not isinstance(score, bool) and 0 <= score <= cap
             assert isinstance(row["scoreReasons"][field], str) and row["scoreReasons"][field].strip()
         status = row["shortVisit"]["status"].split(" · ", 1)[0]
-        if status in {"unknown", "incompatible", "degree-only", "long-term-only", "precedent-only", "stale-2022-inquiry; current route unverified"}:
+        if status in {"unknown", "incompatible", "degree-only", "long-term-only", "precedent-only", "remote-only-inquiry", "stale-2022-inquiry; current route unverified"}:
             assert row["scores"]["shortVisit"] == 0, "Unknown/incompatible short-visit opportunity must score 0"
 
 

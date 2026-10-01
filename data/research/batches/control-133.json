@@ -1,0 +1,293 @@
+[
+  {
+    "id": "guanrui-li",
+    "name": "Guanrui Li",
+    "aliases": [
+      "李冠睿"
+    ],
+    "school": "Worcester Polytechnic Institute",
+    "homepage": "https://acp-lab.github.io/acplab-web/",
+    "title": "Assistant Professor",
+    "department": "Robotics Engineering; affiliated Mechanical and Materials Engineering",
+    "batch": "control-133",
+    "discoveredAt": "2026-10-01T16:50:05Z",
+    "verifiedAt": "2026-10-01T17:09:54Z",
+    "researchAreas": [
+      "Learning-based aerial robot control",
+      "Neural tactile perception and control",
+      "Multi-robot manipulation",
+      "Perception-aware model predictive control"
+    ],
+    "fitReason": "Recent Assistant Professor with current learned tactile perception feeding real manipulation, aerial learning background and a visiting-scholar inquiry route. External-master eligibility under that broad label remains unconfirmed.",
+    "physicalEvidence": {
+      "status": "collaborative-hardware",
+      "summary": "Full May 2026 VBT-MPC uses a trained U-Net++/ResNet18 segmenter, line fitting and EKF to extract tactile contours, then classical constrained MPC commands a real Kinova Gen3 with GelSight Mini. Physical tests include printed corners and household objects, at50Hz control with15fps tactile images. Accuracy worsens on ambiguous or deformable contours. Current ACP doctoral student Luis Recalde is co-first author with an Alicante researcher. This is a current WPI–Alicante collaboration; the paper does not independently establish that the apparatus is at WPI, so shared-hardware credit is capped20. Other physical aerial MPC demos are not automatically neural methods.",
+      "sourceIds": [
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "Current ACP contact page welcomes PhD, postdoc and visiting-scholar inquiries by email with CV/transcript and an important prior paper if available. Its separate project form is explicitly for WPI students. The visiting label provides an inquiry path but does not establish outside-master eligibility, summer2027 capacity, duration, funding or remote options. The roster’s high-school intern is not a master’s precedent.",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 36,
+      "physical": 20,
+      "shortVisit": 8,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantive neural tactile segmentation feeds actual constrained robot motion; strong control/autonomy fit.",
+      "physical": "Current own student co-leads real experiments, but shared WPI/Alicante apparatus site unconfirmed; capped20.",
+      "shortVisit": "Visitor-labeled current inquiry, but external-master status and duration unconfirmed.",
+      "freshness": "Dated2026 research with full physical methods and current roster."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.wpi.edu / source 1",
+        "url": "https://www.wpi.edu/people/faculty/gli7",
+        "summary": "Current AP and ACP director, official lab link, NYUPhD2024 and publicemail.",
+        "verifiedAt": "2026-10-01T17:06:30Z",
+        "retrieval": "Direct primary HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "www.wpi.edu / source 2",
+        "url": "https://www.wpi.edu/news/announcements/welcome-new-employees-august-september-2024",
+        "summary": "Official hire table August 12, 2024.",
+        "verifiedAt": "2026-10-01T17:09:23Z",
+        "retrieval": "Direct primary HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "acp-lab.github.io / source 3",
+        "url": "https://acp-lab.github.io/acplab-web/contact/",
+        "summary": "Explicit visiting-scholar inquiry distinct from WPI-local student form.",
+        "verifiedAt": "2026-10-01T17:06:47Z",
+        "retrieval": "Direct primary HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/pdf/2605.20392",
+        "summary": "Full sectionsIII-C andV prove neural tactile segmentation integrated with MPC on real Kinova; WPI/Alicante coauthorship and current student linkage.",
+        "verifiedAt": "2026-10-01T17:09:54Z",
+        "retrieval": "Full primary PDF, web extraction and local text"
+      },
+      {
+        "id": "s5",
+        "label": "acp-lab.github.io / source 5",
+        "url": "https://acp-lab.github.io/acplab-web/people/",
+        "summary": "Recalde is current PhD student. Visiting-scholar roster item is high-school intern, not graduate precedent.",
+        "verifiedAt": "2026-10-01T17:06:30Z",
+        "retrieval": "Direct primary HTML via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "www.wpi.edu / source 6",
+        "url": "https://www.wpi.edu/sites/default/files/2024-09/wpi-faculty-sep-04-2024-v4-%281%29.pdf",
+        "summary": "Official2024 cohort biography describes doctorate and prior research-associate career.",
+        "verifiedAt": "2026-10-01T17:07:10Z",
+        "retrieval": "Primary indexed university PDF"
+      },
+      {
+        "id": "s7",
+        "label": "acp-lab.github.io / source 7",
+        "url": "https://acp-lab.github.io/acplab-web/",
+        "summary": "Dated May 13, 2026 acceptance of tactile MPC paper; current control/manipulation portfolio.",
+        "verifiedAt": "2026-10-01T17:06:38Z",
+        "retrieval": "Direct primary HTML via web.run"
+      },
+      {
+        "id": "s8",
+        "label": "www.wpi.edu / source 8",
+        "url": "https://www.wpi.edu/academics/graduate/graduate-student-experience/visiting-grads",
+        "summary": "Host faculty/Provost appointment required for visiting graduates.",
+        "verifiedAt": "2026-09-30T23:35:03Z",
+        "retrieval": "Reused institutional review"
+      },
+      {
+        "id": "s9",
+        "label": "www.wpi.edu / source 9",
+        "url": "https://www.wpi.edu/offices/international-house/faculty/visa-classification",
+        "summary": "Nondegree student and scholar classifications are distinct.",
+        "verifiedAt": "2026-09-30T23:35:03Z",
+        "retrieval": "Reused institutional review"
+      },
+      {
+        "id": "s10",
+        "label": "www.wpi.edu / source 10",
+        "url": "https://www.wpi.edu/offices/international-house/faculty/apply-for-visa",
+        "summary": "Personal documents possible; detailed old forms do not establish2027 amounts or wholly self-funded eligibility.",
+        "verifiedAt": "2026-09-30T23:35:03Z",
+        "retrieval": "Reused institutional review"
+      },
+      {
+        "id": "s11",
+        "label": "PI identity and nickname clarification",
+        "url": "https://lguanrui.github.io/",
+        "summary": "First-person bio explicitly gives Chinese name李冠睿 and says Rui(Ray) for short. Rui Li/Ray Li are not presented as full-name aliases and are omitted. Sidebar remains an oldNYUPhD label; current WPI body/official profile controls affiliation.",
+        "verifiedAt": "2026-10-01T17:06:38Z",
+        "retrieval": "Full primary HTML via web.run"
+      }
+    ],
+    "unknowns": [
+      "WPI host/Provost appointment and International House category approval are separate from the lab inquiry. Do not transfer scholar limits to a nondegree graduate student or assume personal funds suffice. Confirm current category, duration, financial minimum, fees, insurance, lead time and access to collaborative hardware.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: First precisely preserved individual primary-source observation; earlier incidental paper references were not assigned reconstructed times.",
+      "[Institutional visitor review](../eligibility_notes.md#wpi); original observation times and category-specific limits remain applicable."
+    ],
+    "discoveryTimestampNote": "First precisely preserved individual primary-source observation; earlier incidental paper references were not assigned reconstructed times.",
+    "publicEmail": "gli7@wpi.edu",
+    "appointmentStart": {
+      "year": 2024,
+      "month": 8,
+      "day": 12,
+      "precision": "day",
+      "status": "current",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ],
+      "evidence": "Official employee announcement gives August12,2024 AP hire. Official cohort biography places this after NYU PhD and previous research-associate work.",
+      "appointmentType": "unresolved"
+    }
+  },
+  {
+    "id": "shuzhen-luo",
+    "name": "Shuzhen Luo",
+    "aliases": [],
+    "school": "Embry-Riddle Aeronautical University, Daytona Beach",
+    "homepage": "https://intelligentrobotlearning.github.io/",
+    "title": "Assistant Professor",
+    "department": "Mechanical Engineering",
+    "batch": "control-133",
+    "discoveredAt": "2026-10-01T17:00:21Z",
+    "verifiedAt": "2026-10-01T17:09:54Z",
+    "researchAreas": [
+      "Deep reinforcement learning for wearable robots",
+      "Teacher-student policy distillation",
+      "Musculoskeletal–exoskeleton simulation",
+      "Human-robot interaction"
+    ],
+    "fitReason": "Visitor-friendly wearable-RL methods backup. Current university role and graduate supervision are verified, but independent recent technical evidence is simulated. Her2024 Nature physical-results paper carries a2026 Editor’s Note and is not used alone to award physical credit.",
+    "physicalEvidence": {
+      "status": "simulation-only",
+      "summary": "The full JNER study published December 31, 2025 (2026 issue) trains PPO teacher policies and distills sensor-limited student controllers in DART musculoskeletal–exoskeleton simulation; it explicitly places physical deployment in future work. The2024 Nature paper reports learned hip-exoskeleton execution, but its July 27, 2026 Editor’s Note raises unresolved data/code-availability concerns supporting results and advises caution. Preserve that reported history without using it alone as verified hardware or benefit evidence. A September 2026 NIH grant and device photograph establish active work, not completed deployment of the new learned controller.",
+      "sourceIds": [
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "Current lab opportunity page separately welcomes visiting scholars alongside PhD, master’s and undergraduate students. It requests CV/transcript by email. Only PhD tuition/stipend support is expressly promised; no visitor funding, external-master classification, dates, duration, summer2027 place or remote arrangement is confirmed.",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 35,
+      "physical": 0,
+      "shortVisit": 8,
+      "freshness": 13
+    },
+    "scoreReasons": {
+      "fit": "Strong independently readable robotics-RL policy-distillation methodology.",
+      "physical": "Simulation independently verified. Concerned2024 paper is not used alone for credit;2026 grant is future work.",
+      "shortVisit": "Explicit visiting-scholar inquiry but outside-master category, duration and funding unknown.",
+      "freshness": "2025online technical paper plus datedSep2026 current research award/mentorship, not a new2026 executed result."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "erau.edu / source 1",
+        "url": "https://erau.edu/faculty/Shuzhen.Luo",
+        "summary": "Current faculty biography links PI lab; wearableAI, RL and graduate courses.",
+        "verifiedAt": "2026-10-01T17:09:54Z",
+        "retrieval": "Direct primary HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "intelligentrobotlearning.github.io / source 2",
+        "url": "https://intelligentrobotlearning.github.io/",
+        "summary": "PI-authored Fall2023 AP start; prior research appointments, not independent official hire-date evidence.",
+        "verifiedAt": "2026-10-01T17:06:30Z",
+        "retrieval": "Direct primary HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "intelligentrobotlearning.github.io / source 3",
+        "url": "https://intelligentrobotlearning.github.io/joining.html",
+        "summary": "Current visiting-scholar inquiry; degree groups separately listed, guaranteed funding statement only forPhD.",
+        "verifiedAt": "2026-10-01T17:06:58Z",
+        "retrieval": "Direct primary HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "link.springer.com / source 4",
+        "url": "https://link.springer.com/article/10.1186/s12984-025-01854-y",
+        "summary": "Full methods/results: PPO, DART and policy distillation evaluated in simulation; physical deployment explicitly future. PublishedDec31, 2025,2026issue.",
+        "verifiedAt": "2026-10-01T17:09:34Z",
+        "retrieval": "Direct primary HTML via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "www.nature.com / source 5",
+        "url": "https://www.nature.com/articles/s41586-024-07382-4",
+        "summary": "Publisher July 27, 2026 Editor’s Note cautions about results due to unresolved data/code availability. This is not a retraction or misconduct finding.",
+        "verifiedAt": "2026-10-01T17:08:26Z",
+        "retrieval": "Live cloud-browser article banner and Change history"
+      },
+      {
+        "id": "s6",
+        "label": "erau.edu / source 6",
+        "url": "https://erau.edu/about/news-and-stories/news/embry-riddle-researchers-secure-nih-grant-to-develop-exoskeleton-that-assists-walking",
+        "summary": "OfficialSep28, 2026 NIH award and current advisees. Prospective development, not completed learned-control validation.",
+        "verifiedAt": "2026-10-01T17:09:54Z",
+        "retrieval": "Direct primary HTML via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "erau.edu / source 7",
+        "url": "https://erau.edu/research-and-innovation/labs/robotics-and-intelligent-learning-lab",
+        "summary": "Official current lab director and AP; physical educational hardware does not independently prove learned execution.",
+        "verifiedAt": "2026-10-01T17:09:34Z",
+        "retrieval": "Direct primary HTML via web.run"
+      },
+      {
+        "id": "s8",
+        "label": "erau.edu / source 8",
+        "url": "https://erau.edu/student-experience/international-programs/international-education/incoming-exchange-and-visiting-scholars",
+        "summary": "Daytona research visitors require PI acceptance then ISSS DS2019 process; most unpaid.",
+        "verifiedAt": "2026-10-01T10:42:30Z",
+        "retrieval": "Reused completed institutional review"
+      }
+    ],
+    "unknowns": [
+      "Daytona’s current research-visitor route requires lead-professor acceptance followed by ISSS DS-2019 intake; most internships are unpaid. Detailed outside-master category, personal-funding acceptance, minimum support, fees, lead time and insurance remain unknown. Clinical activities need appropriate project/institution approval. Lab-reported Fall2023 appointment predates the recent2024–26 priority band; official exact start remains unresolved.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor review](../eligibility_notes.md#embry-riddle-daytona-beach); original observation times and category-specific limits remain applicable.",
+      "[Paper-specific publisher reliability note](../source_reliability_notes.md); the reviewed independent simulation study remains distinct from the questioned paper."
+    ],
+    "publicEmail": "luos@erau.edu",
+    "appointmentStart": {
+      "year": 2023,
+      "precision": "year",
+      "status": "current",
+      "appointmentType": "unresolved",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ],
+      "evidence": "The PI homepage reports Fall2023; university source confirms current role only. This is a first-person start-year statement, not an independently dated official appointment."
+    },
+    "candidateTier": "可穿戴强化学习方法备选；独立近期证据为仿真"
+  }
+]

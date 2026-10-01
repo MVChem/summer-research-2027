@@ -298,3 +298,9 @@
 - **必须实际位于美国；申请阶段还是实习阶段未说明，海外主办与校园模式未知；不转化为国籍限制**
 - 核查：2026-10-01T16:20:07Z · [来源1](https://mengyuliu0520.github.io/)
 
+### Huaijin (George) Chen（新增候选）
+
+- 适用范围：Emails asking about openings; not a universal no-visitors statement
+- **开口询问岗位前须有PI合作者合作经历或相关指定主要会议论文；本校MS/UG路线另列，外校访客未知**
+- 核查：2026-10-01T16:20:34Z · [来源1](https://hgchen.com/cirp-lab/)
+

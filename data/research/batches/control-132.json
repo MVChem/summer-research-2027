@@ -1,0 +1,145 @@
+[
+  {
+    "id": "connor-m-mccann",
+    "name": "Connor M. McCann",
+    "aliases": [
+      "Connor McCann",
+      "Connor Michael McCann"
+    ],
+    "school": "Worcester Polytechnic Institute",
+    "homepage": "https://wp.wpi.edu/prismlab/",
+    "title": "Assistant Professor",
+    "department": "Robotics Engineering; affiliated Mechanical & Materials and Biomedical Engineering",
+    "batch": "control-132",
+    "discoveredAt": "2026-10-01T16:57:48Z",
+    "verifiedAt": "2026-10-01T17:05:03Z",
+    "researchAreas": [
+      "Learned wearable-robot intention detection",
+      "Hybrid rigid-soft robotics",
+      "Personalized physical human-robot interaction",
+      "Robot manipulation"
+    ],
+    "fitReason": "Recent Assistant Professor with a specifically external-master visiting-internship inquiry option and substantive prior learned assistive-robot execution. Current group spans mechanics and prototyping, so a software/ML project needs individual alignment.",
+    "physicalEvidence": {
+      "status": "historical-or-indirect",
+      "summary": "The August 2025 Nature Communications paper runs a personalized two-layer neural classifier on IMU/compression data at 100Hz onboard a portable shoulder-assist robot. Its UP/HOLD/DOWN output modifies assistance through a physics-based hysteresis model. Nine participants were evaluated, with two later home demonstrations; simulated functional tasks means real physical tasks approximating daily activities. McCann is credited for methodology and software, but Harvard led this prior work. WPI hardware transfer and current access are unverified. Results do not establish unrestricted clinical efficacy.",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "The current PRiSM form has an external-student branch with an explicit current outside-master visiting-internship category, separately from prospective WPI degree applications. This is an inquiry route, not an acceptance or funded summer2027 offer. Duration, onsite scheduling, funding and remote availability are unstated. The postdoc funding caveat is scoped to postdocs.",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 35,
+      "physical": 20,
+      "shortVisit": 10,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "Verified neural intention-to-actuation method alongside a mechanics-heavy current portfolio.",
+      "physical": "Actual prior Harvard collaboration with explicit methodology/software credit; no current WPI hardware claim.",
+      "shortVisit": "Explicit outside-master internship inquiry, but no duration, dates, funding or place confirmed.",
+      "freshness": "Substantive2025 publication and hire;2026 issue assignment alone is not new research execution."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.wpi.edu / source 1",
+        "url": "https://www.wpi.edu/people/faculty/cmccann1",
+        "summary": "Current Robotics Engineering AP, affiliated Mechanical/Materials and Biomedical Engineering; Harvard PhD2025 before WPI.",
+        "verifiedAt": "2026-10-01T17:02:30Z",
+        "retrieval": "Direct primary HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "www.wpi.edu / source 2",
+        "url": "https://www.wpi.edu/news/announcements/welcome-new-employees-july-2025",
+        "summary": "Official employee table gives July 1, 2025 hire as Assistant Professor.",
+        "verifiedAt": "2026-10-01T17:04:50Z",
+        "retrieval": "Direct primary HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "wp.wpi.edu / source 3",
+        "url": "https://wp.wpi.edu/prismlab/contact/",
+        "summary": "Live external-student branch explicitly offers a visiting-internship inquiry category for current master’s students at another institution. Duration, funding and 2027 capacity unstated. No personal data entered or inquiry submitted.",
+        "verifiedAt": "2026-10-01T17:03:26Z",
+        "retrieval": "Live cloud-browser form branch, corroborating indexed primary full form"
+      },
+      {
+        "id": "s4",
+        "label": "www.nature.com / source 4",
+        "url": "https://www.nature.com/articles/s41467-025-62538-8",
+        "summary": "Full August 2025 study: personalized two-layer neural intention detector plus hysteresis model commands portable soft shoulder robot; nine participants, two at-home demonstrations. McCann credited for methodology/software; Harvard-led prior work.",
+        "verifiedAt": "2026-10-01T17:05:03Z",
+        "retrieval": "Direct primary HTML via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "wp.wpi.edu / source 5",
+        "url": "https://wp.wpi.edu/prismlab/people/",
+        "summary": "Current WPI PI and doctoral/master’s advisees; no transfer of Harvard apparatus established.",
+        "verifiedAt": "2026-10-01T17:02:30Z",
+        "retrieval": "Indexed primary roster"
+      },
+      {
+        "id": "s6",
+        "label": "wp.wpi.edu / source 6",
+        "url": "https://wp.wpi.edu/prismlab/publications/",
+        "summary": "Current lab lists 2025 learned shoulder study and 2026 IJRR issue for hysteresis paper that was already published online2025. Issue date does not establish new2026 execution.",
+        "verifiedAt": "2026-10-01T17:02:30Z",
+        "retrieval": "Indexed primary publications"
+      },
+      {
+        "id": "s7",
+        "label": "www.wpi.edu / source 7",
+        "url": "https://www.wpi.edu/academics/graduate/graduate-student-experience/visiting-grads",
+        "summary": "Existing institutional review: host faculty and Provost appointment for visiting graduate students/scholars.",
+        "verifiedAt": "2026-09-30T23:35:03Z",
+        "retrieval": "Reused completed institutional review"
+      },
+      {
+        "id": "s8",
+        "label": "www.wpi.edu / source 8",
+        "url": "https://www.wpi.edu/offices/international-house/faculty/visa-classification",
+        "summary": "Nondegree-student versus scholar classification requires university decision.",
+        "verifiedAt": "2026-09-30T23:35:03Z",
+        "retrieval": "Reused completed institutional review"
+      },
+      {
+        "id": "s9",
+        "label": "www.wpi.edu / source 9",
+        "url": "https://www.wpi.edu/offices/international-house/faculty/apply-for-visa",
+        "summary": "Personal financial documents can be provided, but current eligibility for wholly personal funding depends on category. Old linked forms do not prove2027 amounts.",
+        "verifiedAt": "2026-09-30T23:35:03Z",
+        "retrieval": "Reused completed institutional review"
+      }
+    ],
+    "unknowns": [
+      "WPI visiting-graduate appointments require host faculty and Provost approval. International House must decide nondegree-student versus scholar classification. Personal financial documentation is possible but does not establish wholly personal-funded eligibility. Linked2015/2019 forms are historical; confirm current duration, funding minimum, fees, insurance and lead time. Clinical or participant work needs separately approved scope.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: First precisely preserved individual primary-source observation; earlier incidental references were not assigned reconstructed times.",
+      "[Institutional visitor review](../eligibility_notes.md#wpi); original observation times and category-specific limits remain applicable."
+    ],
+    "discoveryTimestampNote": "First precisely preserved individual primary-source observation; earlier incidental references were not assigned reconstructed times.",
+    "publicEmail": "cmccann1@wpi.edu",
+    "appointmentStart": {
+      "year": 2025,
+      "month": 7,
+      "day": 1,
+      "precision": "day",
+      "status": "current",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ],
+      "evidence": "Official employee table gives July1,2025 AP hire. Official bio identifies Harvard PhD immediately before joining WPI.",
+      "appointmentType": "unresolved"
+    }
+  }
+]

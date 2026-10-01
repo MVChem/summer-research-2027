@@ -4261,6 +4261,246 @@
           "observedAt": "2026-10-01T17:15:12Z"
         }
       ]
+    },
+    "yiyue-luo": {
+      "appointmentStart": {
+        "year": 2024,
+        "month": 9,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "s2"
+        ],
+        "evidence": "Official 2024 new-faculty biography explicitly dates UW ECE joining to September after the MIT PhD.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2024-09（官方）",
+      "caveat": "非UW/Masters表单与summer-intern例子；6个月只是例子，不是要求；合作Go1设备20，时长/资金未知",
+      "sources": [
+        {
+          "id": "s2",
+          "url": "https://www.engr.washington.edu/faculty-research/new-faculty-2024/yiyue",
+          "observedAt": "2026-10-01T17:13:54Z",
+          "evidence": "Full official 2024 cohort biography explicitly says joining ECE in September as Assistant Professor after MIT PhD."
+        }
+      ]
+    },
+    "connor-m-mccann": {
+      "appointmentStart": {
+        "year": 2025,
+        "month": 7,
+        "day": 1,
+        "precision": "day",
+        "status": "current",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "evidence": "Official employee table gives July1,2025 AP hire. Official bio identifies Harvard PhD immediately before joining WPI.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2025-07-01（官方Hire Date）",
+      "caveat": "表单明确外校在读MS访问实习；前Harvard真实软体助力20，现WPI设备/期限/资金未知",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.wpi.edu/people/faculty/cmccann1",
+          "observedAt": "2026-10-01T17:02:30Z",
+          "evidence": "Current Robotics Engineering AP, affiliated Mechanical/Materials and Biomedical Engineering; Harvard PhD2025 before WPI."
+        },
+        {
+          "id": "s2",
+          "url": "https://www.wpi.edu/news/announcements/welcome-new-employees-july-2025",
+          "observedAt": "2026-10-01T17:04:50Z",
+          "evidence": "Official employee table gives July 1, 2025 hire as Assistant Professor."
+        }
+      ]
+    },
+    "guanrui-li": {
+      "appointmentStart": {
+        "year": 2024,
+        "month": 8,
+        "day": 12,
+        "precision": "day",
+        "status": "current",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "evidence": "Official employee announcement gives August12,2024 AP hire. Official cohort biography places this after NYU PhD and previous research-associate work.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2024-08-12（官方Hire Date）",
+      "caveat": "当前一般visiting-scholar询问，硕士类别未定；神经触觉Kinova为WPI/Alicante合作20",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.wpi.edu/people/faculty/gli7",
+          "observedAt": "2026-10-01T17:06:30Z",
+          "evidence": "Current AP and ACP director, official lab link, NYUPhD2024 and publicemail."
+        },
+        {
+          "id": "s2",
+          "url": "https://www.wpi.edu/news/announcements/welcome-new-employees-august-september-2024",
+          "observedAt": "2026-10-01T17:09:23Z",
+          "evidence": "Official hire table August 12, 2024."
+        }
+      ]
+    },
+    "shuzhen-luo": {
+      "appointmentStart": {
+        "year": 2023,
+        "precision": "year",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "evidence": "The PI homepage reports Fall2023; university source confirms current role only. This is a first-person start-year statement, not an independently dated official appointment."
+      },
+      "display": "Fall 2023（本人；官方仅确认现职）",
+      "caveat": "一般visitor询问；独立近期研究为仿真，旧Nature论文有特定编辑提示，物理0；访客资金未知",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://erau.edu/faculty/Shuzhen.Luo",
+          "observedAt": "2026-10-01T17:09:54Z",
+          "evidence": "Current faculty biography links PI lab; wearableAI, RL and graduate courses."
+        },
+        {
+          "id": "s2",
+          "url": "https://intelligentrobotlearning.github.io/",
+          "observedAt": "2026-10-01T17:06:30Z",
+          "evidence": "PI-authored Fall2023 AP start; prior research appointments, not independent official hire-date evidence."
+        }
+      ]
+    },
+    "igor-spasojevic": {
+      "appointmentStart": {
+        "year": 2025,
+        "precision": "year",
+        "status": "current",
+        "season": "fall",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ],
+        "evidence": "Official October 2025 new-faculty cohort and September 2025 faculty seminar establish the 2025 arrival. The university biography identifies the immediately preceding role as Penn GRASP postdoctoral scholar. No exact start month is inferred.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2025（官方；月份未核）",
+      "caveat": "前Penn学习轨迹/语义导航真实执行20；当前UCR访客邀请与设备未知",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://profiles.ucr.edu/app/home/profile/igors",
+          "observedAt": "2026-10-01T16:41:49Z",
+          "evidence": "Cloud-browser profile explicitly identifies current ECE Assistant Professor and public contact. No research-lab or visitor-opening link is supplied."
+        },
+        {
+          "id": "s2",
+          "url": "https://webarchive.ucr.edu/insideucr.ucr.edu/stories/2025/10/14/ucr-welcomes-new-faculty-members.html",
+          "observedAt": "2026-10-01T16:42:05Z",
+          "evidence": "Institutional 2025 cohort identifies Spasojevic, robotics/trajectory planning and prior Penn postdoctoral work."
+        },
+        {
+          "id": "s3",
+          "url": "https://raise.ucr.edu/event-list/2025/09/26/ai-seminar-fast-navigation-identifying-structure-and-leveraging-learning",
+          "observedAt": "2026-10-01T16:42:05Z",
+          "evidence": "September 26, 2025 seminar describes learning-augmented trajectory optimization and confirms current UCR faculty role after Penn postdoc."
+        }
+      ]
+    },
+    "huaijin-george-chen": {
+      "appointmentStart": {
+        "year": 2024,
+        "precision": "year",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ],
+        "evidence": "Official current AP role, complete author CV stating since 2024, and an August 1, 2024 first-person announcement that he had joined. The post date is not treated as the exact employment start; first faculty status is unresolved."
+      },
+      "display": "2024（本人CV/公告；官方确认现职）",
+      "caveat": "询问前须有PI合作者合作经历或相关指定会议论文；并非全面访客禁令，当前访客入口未知",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.ics.hawaii.edu/aii/people.html",
+          "observedAt": "2026-10-01T16:21:02Z",
+          "evidence": "Complete current institutional faculty list: Huaijin(George)Chen is AssistantProfessor, computational imaging,computer vision and robotic perception; links to exact PI homepage."
+        },
+        {
+          "id": "s2",
+          "url": "https://hgchen.com/assets/pdf/hgc_cv.pdf",
+          "observedAt": "2026-10-01T16:20:34Z",
+          "evidence": "Complete8pageauthorCV: HawaiiAPsince2024 afterVayu2022–24/SenseBrain2019–22; currentPhD adviseeAgastyaKalra is2024– atUHM/Google and lead3PTauthor. Prior academic entries are visiting-researcher/student roles, not asserted faculty appointments."
+        },
+        {
+          "id": "s3",
+          "url": "https://hgchen.com/news/uhm_2024/",
+          "observedAt": "2026-10-01T16:21:02Z",
+          "evidence": "Full first-person announcement postedAugust1, 2024 says hasjoined asAP. Publicationday is not assumed exactemploymentstart; year2024supported."
+        }
+      ]
+    },
+    "shivvrat-arya": {
+      "appointmentStart": {
+        "year": 2025,
+        "precision": "year",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "evidence": "Official September2025 announcement places Arya in the recently appointed AY2025–26 AP cohort. Current title is independently confirmed. Exact month/day and first-ever faculty status are not inferred."
+      },
+      "display": "2025（官方2025–26新教师）",
+      "caveat": "外校/graduate/Visiting Scholar表单，依表单询问；空间AR备选物理0，NJIT通常51%非个人支持",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://people.njit.edu/profile/sa3339",
+          "observedAt": "2026-10-01T16:26:46Z",
+          "evidence": "Complete current official Assistant Professor of Computer Science role, ARIA direction and institutional contact."
+        },
+        {
+          "id": "s2",
+          "url": "https://news.njit.edu/ying-wu-college-computing-honored-announce-six-new-faculty-2025-2026",
+          "observedAt": "2026-10-01T16:28:56Z",
+          "evidence": "Complete September 22, 2025 official new-faculty article names Arya among recently appointed AY2025–26 APs and specifically identifies real-time AR guidance research."
+        }
+      ]
+    },
+    "yue-jiang": {
+      "appointmentStart": {
+        "year": 2025,
+        "month": 12,
+        "day": 1,
+        "precision": "day",
+        "status": "current",
+        "sourceIds": [
+          "s1"
+        ],
+        "evidence": "Official institutional appointments section states Assistant Professor, School of Computing, 1 Dec 2025–present.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2025-12-01（官方）",
+      "caveat": "完整Master/外校/现场或远程intern表单；空间/界面方法备选物理0，时长/经费/2027容量未知",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://profiles.faculty.utah.edu/u6071349",
+          "observedAt": "2026-10-01T16:45:25Z",
+          "evidence": "Live official profile verifies Assistant Professor, School of Computing, and institutional appointment from 1 December 2025 to present. Public professional email is yue.jiang@utah.edu."
+        }
+      ]
     }
   },
   "constraints": [
@@ -5158,6 +5398,21 @@
         }
       ],
       "months": 4
+    },
+    {
+      "key": "huaijin-chen-contact-prerequisite",
+      "candidateId": "huaijin-george-chen",
+      "name": "Huaijin (George) Chen",
+      "kind": "capacity-or-role",
+      "scope": "Emails asking about openings; not a universal no-visitors statement",
+      "summary": "开口询问岗位前须有PI合作者合作经历或相关指定主要会议论文；本校MS/UG路线另列，外校访客未知",
+      "observedAt": "2026-10-01T16:20:34Z",
+      "sources": [
+        {
+          "url": "https://hgchen.com/cirp-lab/",
+          "evidence": "Full current lab describes multimodal/VLA and tactileperception agenda, but inquiry section says not to email about openings unless worked with aPIcollaborator or published relevant major-venuework. CurrentUHMS/UG and graduateadmissionroutes are separate; outside-mastervisitorinvitation notverified."
+        }
+      ]
     }
   ]
 }

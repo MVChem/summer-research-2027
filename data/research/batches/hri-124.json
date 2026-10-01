@@ -1,0 +1,129 @@
+[
+  {
+    "id": "yue-jiang",
+    "name": "Yue Jiang",
+    "aliases": [],
+    "school": "University of Utah",
+    "homepage": "https://yuejiang-nj.github.io/",
+    "title": "Assistant Professor",
+    "department": "School of Computing",
+    "batch": "hri-124",
+    "discoveredAt": "2026-10-01T16:38:54Z",
+    "verifiedAt": "2026-10-01T16:45:45Z",
+    "researchAreas": [
+      "Neural 3D human reconstruction",
+      "Human-centered spatial interfaces",
+      "Generative interfaces",
+      "Gaze and adaptive AI"
+    ],
+    "fitReason": "Visitor-first spatial-AI backup with an officially dated recent AP appointment. First-author neural human capture supplies substantive 3D methods; current work is predominantly computational UI and human-AI interaction, so fit to robot learning is secondary.",
+    "physicalEvidence": {
+      "status": "unverified",
+      "summary": "No executed robot policy verified. HiFECap reconstructs human geometry from recorded RGB videos; Spatula generates graphical controls, including a small 3D-mesh editing demonstration. Neither establishes physical robot execution or current Utah robot apparatus.",
+      "sourceIds": [
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "A current PI-linked form explicitly includes in-person and remote internships, Master, arbitrary graduate institution and expected start. This supports an external-master-compatible inquiry, subject to project selection. Duration, funding and Summer 2027 availability are unspecified.",
+      "sourceIds": [
+        "s2",
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 29,
+      "physical": 0,
+      "shortVisit": 10,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantive neural 3D reconstruction plus current generative spatial-interface example, but the primary current lab direction is UI, so this is a secondary spatial research fit.",
+      "physical": "Video reconstruction and digital 3D interaction only; no physical robot policy verified.",
+      "shortVisit": "Live external-master-compatible form explicitly distinguishes onsite and remote internships; duration and 2027 capacity remain unknown.",
+      "freshness": "Full July 2026 research and current linked recruitment establish current activity; the neural human-capture anchor remains correctly dated 2022."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "profiles.faculty.utah.edu / source 1",
+        "url": "https://profiles.faculty.utah.edu/u6071349",
+        "summary": "Live official profile verifies Assistant Professor, School of Computing, and institutional appointment from 1 December 2025 to present. Public professional email is yue.jiang@utah.edu.",
+        "verifiedAt": "2026-10-01T16:45:25Z"
+      },
+      {
+        "id": "s2",
+        "label": "yuejiang-nj.github.io / source 2",
+        "url": "https://yuejiang-nj.github.io/",
+        "summary": "Current LUNA director invites research inquiries, names AR/VR among interests, and links the form below. Core current agenda is computational interfaces, user behavior and adaptive AI; prior neural human capture and 3D reconstruction remain explicitly listed.",
+        "verifiedAt": "2026-10-01T16:45:32Z"
+      },
+      {
+        "id": "s3",
+        "label": "docs.google.com / source 3",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSf7u2MNrf2vnhvTReE7uFU2amSN8zM9-dDKyVNAzJeykp5DbA/viewform",
+        "summary": "Live linked inquiry form separately offers Master, in-person internship, remote internship and collaboration choices; asks arbitrary undergraduate/graduate institutions and expected start. Controls became enabled after loading. Read only; no submission, duration or Summer 2027 placement established.",
+        "verifiedAt": "2026-10-01T16:44:30Z"
+      },
+      {
+        "id": "s4",
+        "label": "people.mpi-inf.mpg.de / source 4",
+        "url": "https://people.mpi-inf.mpg.de/~mhaberma/projects/2022-HiFECap/data/supp.pdf",
+        "summary": "Full BMVC 2022 supplement verifies neural 3D human reconstruction: image/graph-convolution displacement model, staged PoseNet/EDefNet/DisplaceNet training, multiview studio training and single-view video inference. This is captured-data reconstruction, without robot actuation.",
+        "verifiedAt": "2026-10-01T16:45:32Z"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2607.10405v1",
+        "summary": "Full July 2026 Spatula methods use Gemini-3-Pro agents and structured interface templates for motion-graphics controls. Twelve-person evaluation concerns graphics authoring; separate proof-of-concept extends to editable 3D meshes. No robot control or deployed AR system is established.",
+        "verifiedAt": "2026-10-01T16:44:39Z"
+      },
+      {
+        "id": "s6",
+        "label": "regulations.utah.edu / source 6",
+        "url": "https://regulations.utah.edu/academics/6-317.php",
+        "summary": "Reused institutional audit: Visiting Graduate Student requires academic-unit and Graduate School approvals; honorary nonemployee appointment. The separate Visiting Scholar semester wording should not automatically be imposed on this category.",
+        "verifiedAt": "2026-10-01T01:45:00Z"
+      },
+      {
+        "id": "s7",
+        "label": "gradschool.utah.edu / source 7",
+        "url": "https://gradschool.utah.edu/_resources/documents/the_graduate_school_visiting_scholar_registry_form_updated_7-1-2026.pdf",
+        "summary": "Reused July 2026 form explicitly includes master and PhD candidates. It does not itself promise an individual faculty opening.",
+        "verifiedAt": "2026-10-01T01:45:00Z"
+      },
+      {
+        "id": "s8",
+        "label": "isss.utah.edu / source 8",
+        "url": "https://isss.utah.edu/j-1-visa-program/host-department-resources/student-intern-guide/index.php",
+        "summary": "Reused institutional audit: outside-US degree-linked internships can be 3 weeks to 12 months at at least 32 hours weekly, with continued home enrollment, required approvals and return to finish degree. Personal bank support is permitted; recommend at least 3 months preparation.",
+        "verifiedAt": "2026-10-01T01:45:00Z"
+      }
+    ],
+    "unknowns": [
+      "Treat as a spatial-AI/Human-AI backup, with physical evidence 0; current work is primarily interfaces rather than robotics.",
+      "The Master and internship form choices support an inquiry, not admission or an offer. No eight-week or Summer 2027 term was stated.",
+      "Remote participation is explicitly an inquiry option; compensation, supervision format and project access remain unknown.",
+      "For an onsite visit, Utah academic and immigration offices must approve the correct category; the institutional route does not guarantee host sponsorship. Reused policy source dates remain unchanged.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor review](../eligibility_notes.md#utah); original observation times and category-specific limits remain applicable."
+    ],
+    "publicEmail": "yue.jiang@utah.edu",
+    "appointmentStart": {
+      "year": 2025,
+      "month": 12,
+      "day": 1,
+      "precision": "day",
+      "status": "current",
+      "sourceIds": [
+        "s1"
+      ],
+      "evidence": "Official institutional appointments section states Assistant Professor, School of Computing, 1 Dec 2025–present.",
+      "appointmentType": "unresolved"
+    },
+    "candidateTier": "空间AI/数字界面备选；无机器人执行"
+  }
+]

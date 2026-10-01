@@ -1,0 +1,144 @@
+[
+  {
+    "id": "huaijin-george-chen",
+    "name": "Huaijin (George) Chen",
+    "aliases": [
+      "Huaijin Chen",
+      "George Chen (University of Hawaii at Manoa)"
+    ],
+    "school": "University of Hawaiʻi at Mānoa",
+    "homepage": "https://hgchen.com/",
+    "title": "Assistant Professor",
+    "department": "Information and Computer Sciences; Computational Imaging and Robotic Perception (CIRP) Lab",
+    "batch": "embodied-109",
+    "discoveredAt": "2026-10-01T16:20:04Z",
+    "verifiedAt": "2026-10-01T16:22:19Z",
+    "researchAreas": [
+      "Zero-shot 3D robot perception",
+      "Vision foundation models",
+      "Multimodal vision-language-action systems",
+      "Physics-informed computational imaging",
+      "Tactile shape sensing"
+    ],
+    "fitReason": "A 2024 Assistant Professor with substantive 3D foundation-model-to-real-robot evidence, current graduate advising and a robotic perception agenda. Explicit prerequisites for opening inquiries and no verified external-master visitor offer lower practical priority.",
+    "physicalEvidence": {
+      "status": "collaborative-hardware",
+      "summary": "Physical 20. Full CVPR 2026 3PT trains two transformers conditioned on 3D CAD prompts for detection and 6D pose refinement. Section 4.3 reports real vision-guided bin clearing and DIMM insertion using these poses. Chen and lead author Agastya Kalra have Intrinsic/UHM affiliations; the complete CV lists Kalra as his current PhD student. This establishes attributable collaborative robot perception, not ownership of the industrial arms in Hawaii or visitor access. No learned low-level controller or VLA policy is claimed. Local farm and tactile demonstrations are not used to inflate this cap.",
+      "sourceIds": [
+        "s2",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown · opening-email collaborator/publication prerequisite",
+      "summary": "Visitor 0. CIRP asks people not to email about openings unless they previously worked with a PI collaborator or published relevant work in a listed major venue. Applicants must independently check whether they meet this condition. The separate graduate-admission and current-UH MS/undergraduate routes do not establish an external-master visitor invitation. Summer 2027 capacity, duration, funding and remote availability are unknown.",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong modern 3D foundation perception and robot integration, alongside broader computational imaging.",
+      "physical": "Full 2026 learned-pose-based real industrial tasks; collaborative apparatus is capped at 20.",
+      "shortVisit": "No external-master visitor route. Contact prerequisites prevent treating general openings as an unrestricted invitation.",
+      "freshness": "Full CVPR 2026 methods, current CV, institutional role and live joining conditions."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.ics.hawaii.edu / source 1",
+        "url": "https://www.ics.hawaii.edu/aii/people.html",
+        "summary": "Complete current institutional faculty list: Huaijin(George)Chen is AssistantProfessor, computational imaging,computer vision and robotic perception; links to exact PI homepage.",
+        "verifiedAt": "2026-10-01T16:21:02Z",
+        "retrieval": "complete-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "hgchen.com / source 2",
+        "url": "https://hgchen.com/assets/pdf/hgc_cv.pdf",
+        "summary": "Complete8pageauthorCV: HawaiiAPsince2024 afterVayu2022–24/SenseBrain2019–22; currentPhD adviseeAgastyaKalra is2024– atUHM/Google and lead3PTauthor. Prior academic entries are visiting-researcher/student roles, not asserted faculty appointments.",
+        "verifiedAt": "2026-10-01T16:20:34Z",
+        "retrieval": "complete-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "hgchen.com / source 3",
+        "url": "https://hgchen.com/news/uhm_2024/",
+        "summary": "Full first-person announcement postedAugust1, 2024 says hasjoined asAP. Publicationday is not assumed exactemploymentstart; year2024supported.",
+        "verifiedAt": "2026-10-01T16:21:02Z",
+        "retrieval": "complete-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "hgchen.com / source 4",
+        "url": "https://hgchen.com/cirp-lab/",
+        "summary": "Full current lab describes multimodal/VLA and tactileperception agenda, but inquiry section says not to email about openings unless worked with aPIcollaborator or published relevant major-venuework. CurrentUHMS/UG and graduateadmissionroutes are separate; outside-mastervisitorinvitation notverified.",
+        "verifiedAt": "2026-10-01T16:20:34Z",
+        "retrieval": "complete-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "44706966.fs1.hubspotusercontent-na1.net / source 5",
+        "url": "https://44706966.fs1.hubspotusercontent-na1.net/hubfs/44706966/Website%20Files/Publications/CVPR%202026%20Intrinsic%20-%203D-Object%20Perception%20Transformer%20-%20Main.pdf",
+        "summary": "Complete author/company-hostedCVPR2026paper read after web11MBsizeerror; §4.3 actualneuralpose-assisted industrialbinpicking andDIMMinsertion. Author affiliationsIntrinsic+UHM; apparatusownership notspecified.",
+        "verifiedAt": "2026-10-01T16:21:58Z",
+        "retrieval": "complete-primary-paper"
+      },
+      {
+        "id": "s6",
+        "label": "www.intrinsic.ai / source 6",
+        "url": "https://www.intrinsic.ai/publications/3pt-cvpr2026",
+        "summary": "Complete primaryprojectpage and verified links to fullpaper/supplement; realrobotapplications separated frombenchmarkresults. Companycollaboration notUHMvisitoraccess.",
+        "verifiedAt": "2026-10-01T16:21:02Z",
+        "retrieval": "complete-primary-page"
+      },
+      {
+        "id": "s7",
+        "label": "hgchen.com / source 7",
+        "url": "https://hgchen.com/",
+        "summary": "Complete currenthomepage confirms PIrole, robotperception/physics-informedAI agenda and2026research activity; prior industrialimaging work notautomatically currentUHMhardware.",
+        "verifiedAt": "2026-10-01T16:20:34Z",
+        "retrieval": "complete-primary-page"
+      }
+    ],
+    "unknowns": [
+      "The contact prerequisite is material. An opening inquiry requires prior work with a PI collaborator or a qualifying relevant publication. This is not an absolute no-visitors or no-summer statement.",
+      "Current UH undergraduate/master’s research instructions are local-student scope. Assistantships are typically offered to students who have already worked in CIRP, not promised to visitors.",
+      "The 2024 appointment year comes from the author CV and first-person news, paired with the official current role. August 1 is the news date, not an exact employment start. Vayu and SenseBrain were prior industry posts.",
+      "3PT hardware is collaborative Intrinsic/UHM. Own-student attribution is verified, but campus location, independent UHM arm ownership and visitor equipment access are not established. Physical evidence is capped at 20.",
+      "The hawaii-manoa institution note supports a possible host-initiated Student Intern route for outside-enrolled masters and personal/family funding. Live-linked forms date to 2015/2016; ISS must confirm 2027 costs, classification, lead time and eligibility.",
+      "Approximate eight-week availability, remote collaboration, supervision, funding and academic approval remain unknown. No application or outreach occurred.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: First precisely retained named primary lead was the indexed official 2024 UH new-faculty article. Its full fetch failed; current role was verified independently from the complete institutional AII faculty list.",
+      "[Institutional visitor review](../eligibility_notes.md#hawaii-manoa); original observation times and category-specific limits remain applicable."
+    ],
+    "discoveryTimestampNote": "First precisely retained named primary lead was the indexed official 2024 UH new-faculty article. Its full fetch failed; current role was verified independently from the complete institutional AII faculty list.",
+    "publicEmail": "huaijin@hawaii.edu",
+    "appointmentStart": {
+      "year": 2024,
+      "precision": "year",
+      "status": "current",
+      "appointmentType": "unresolved",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ],
+      "evidence": "Official current AP role, complete author CV stating since 2024, and an August 1, 2024 first-person announcement that he had joined. The post date is not treated as the exact employment start; first faculty status is unresolved."
+    },
+    "contactPrerequisite": {
+      "scope": "emails inquiring about openings",
+      "detail": "Opening emails require prior work with a PI collaborator or a relevant publication in a listed major venue; individual satisfaction of the condition remains unverified.",
+      "sourceIds": [
+        "s4"
+      ],
+      "observedAt": "2026-10-01T16:20:34Z"
+    }
+  }
+]

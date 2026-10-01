@@ -122,6 +122,9 @@
     "batches/control-120.json",
     "batches/control-121.json",
     "batches/control-128.json",
+    "batches/control-129.json",
+    "batches/control-132.json",
+    "batches/control-133.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -220,6 +223,8 @@
     "batches/embodied-101.json",
     "batches/embodied-102.json",
     "batches/embodied-103.json",
+    "batches/embodied-109.json",
+    "batches/embodied-110.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -332,7 +337,9 @@
     "batches/hri-116.json",
     "batches/hri-118.json",
     "batches/hri-121.json",
-    "batches/hri-125.json"
+    "batches/hri-124.json",
+    "batches/hri-125.json",
+    "batches/hri-126.json"
   ],
   "candidates": [
     {
@@ -6325,6 +6332,129 @@
       "detailPage": "batches/control-128.md#fanxin-kong"
     },
     {
+      "id": "igor-spasojevic",
+      "name": "Igor Spasojevic",
+      "aliases": [
+        "Igor Spasojević"
+      ],
+      "school": "University of California, Riverside",
+      "title": "Assistant Professor",
+      "homepage": "https://profiles.ucr.edu/app/home/profile/igors",
+      "batch": "control-129",
+      "discoveredAt": "2026-10-01T16:38:46Z",
+      "verifiedAt": "2026-10-01T16:43:43Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 13
+      },
+      "researchAreas": [
+        "Learning-augmented trajectory optimization",
+        "Semantic SLAM and autonomous exploration",
+        "Safe quadrotor planning",
+        "Multi-robot localization"
+      ],
+      "discoveryTimestampNote": "First precisely preserved mentor-screening source observation; earlier incidental bibliographic mentions have no retained individual timestamp and were not reconstructed.",
+      "physicalEvidenceStatus": "historical-or-indirect",
+      "physicalEvidenceLabel": "受限真机证据：historical-or-indirect",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-129.json",
+      "detailPage": "batches/control-129.md#igor-spasojevic"
+    },
+    {
+      "id": "connor-m-mccann",
+      "name": "Connor M. McCann",
+      "aliases": [
+        "Connor McCann",
+        "Connor Michael McCann"
+      ],
+      "school": "Worcester Polytechnic Institute",
+      "title": "Assistant Professor",
+      "homepage": "https://wp.wpi.edu/prismlab/",
+      "batch": "control-132",
+      "discoveredAt": "2026-10-01T16:57:48Z",
+      "verifiedAt": "2026-10-01T17:05:03Z",
+      "scores": {
+        "fit": 35,
+        "physical": 20,
+        "shortVisit": 10,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Learned wearable-robot intention detection",
+        "Hybrid rigid-soft robotics",
+        "Personalized physical human-robot interaction",
+        "Robot manipulation"
+      ],
+      "discoveryTimestampNote": "First precisely preserved individual primary-source observation; earlier incidental references were not assigned reconstructed times.",
+      "physicalEvidenceStatus": "historical-or-indirect",
+      "physicalEvidenceLabel": "受限真机证据：historical-or-indirect",
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/control-132.json",
+      "detailPage": "batches/control-132.md#connor-m-mccann"
+    },
+    {
+      "id": "guanrui-li",
+      "name": "Guanrui Li",
+      "aliases": [
+        "李冠睿"
+      ],
+      "school": "Worcester Polytechnic Institute",
+      "title": "Assistant Professor",
+      "homepage": "https://acp-lab.github.io/acplab-web/",
+      "batch": "control-133",
+      "discoveredAt": "2026-10-01T16:50:05Z",
+      "verifiedAt": "2026-10-01T17:09:54Z",
+      "scores": {
+        "fit": 36,
+        "physical": 20,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Learning-based aerial robot control",
+        "Neural tactile perception and control",
+        "Multi-robot manipulation",
+        "Perception-aware model predictive control"
+      ],
+      "discoveryTimestampNote": "First precisely preserved individual primary-source observation; earlier incidental paper references were not assigned reconstructed times.",
+      "physicalEvidenceStatus": "collaborative-hardware",
+      "physicalEvidenceLabel": "受限真机证据：collaborative-hardware",
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/control-133.json",
+      "detailPage": "batches/control-133.md#guanrui-li"
+    },
+    {
+      "id": "shuzhen-luo",
+      "name": "Shuzhen Luo",
+      "aliases": [],
+      "school": "Embry-Riddle Aeronautical University, Daytona Beach",
+      "title": "Assistant Professor",
+      "homepage": "https://intelligentrobotlearning.github.io/",
+      "batch": "control-133",
+      "discoveredAt": "2026-10-01T17:00:21Z",
+      "verifiedAt": "2026-10-01T17:09:54Z",
+      "scores": {
+        "fit": 35,
+        "physical": 0,
+        "shortVisit": 8,
+        "freshness": 13
+      },
+      "researchAreas": [
+        "Deep reinforcement learning for wearable robots",
+        "Teacher-student policy distillation",
+        "Musculoskeletal–exoskeleton simulation",
+        "Human-robot interaction"
+      ],
+      "candidateTier": "可穿戴强化学习方法备选；独立近期证据为仿真",
+      "physicalEvidenceStatus": "simulation-only",
+      "physicalEvidenceLabel": "仅仿真；真机待核实",
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/control-133.json",
+      "detailPage": "batches/control-133.md#shuzhen-luo"
+    },
+    {
       "id": "tom-silver",
       "name": "Tom Silver",
       "aliases": [],
@@ -11313,6 +11443,70 @@
       "shortVisitStatus": "minimum-6-months · 明确无短期岗位，较长访问仅条件性询问",
       "recordFile": "batches/embodied-103.json",
       "detailPage": "batches/embodied-103.md#cheng-zhang-tamu"
+    },
+    {
+      "id": "huaijin-george-chen",
+      "name": "Huaijin (George) Chen",
+      "aliases": [
+        "Huaijin Chen",
+        "George Chen (University of Hawaii at Manoa)"
+      ],
+      "school": "University of Hawaiʻi at Mānoa",
+      "title": "Assistant Professor",
+      "homepage": "https://hgchen.com/",
+      "batch": "embodied-109",
+      "discoveredAt": "2026-10-01T16:20:04Z",
+      "verifiedAt": "2026-10-01T16:22:19Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Zero-shot 3D robot perception",
+        "Vision foundation models",
+        "Multimodal vision-language-action systems",
+        "Physics-informed computational imaging",
+        "Tactile shape sensing"
+      ],
+      "discoveryTimestampNote": "First precisely retained named primary lead was the indexed official 2024 UH new-faculty article. Its full fetch failed; current role was verified independently from the complete institutional AII faculty list.",
+      "physicalEvidenceStatus": "collaborative-hardware",
+      "physicalEvidenceLabel": "受限真机证据：collaborative-hardware",
+      "shortVisitStatus": "unknown · opening-email collaborator/publication prerequisite",
+      "recordFile": "batches/embodied-109.json",
+      "detailPage": "batches/embodied-109.md#huaijin-george-chen"
+    },
+    {
+      "id": "shivvrat-arya",
+      "name": "Shivvrat Arya",
+      "aliases": [],
+      "school": "New Jersey Institute of Technology",
+      "title": "Assistant Professor",
+      "homepage": "https://shivvrat.github.io/",
+      "batch": "embodied-110",
+      "discoveredAt": "2026-10-01T16:19:53Z",
+      "verifiedAt": "2026-10-01T16:29:08Z",
+      "scores": {
+        "fit": 32,
+        "physical": 0,
+        "shortVisit": 10,
+        "freshness": 13
+      },
+      "researchAreas": [
+        "Spatial AI for augmented-reality task guidance",
+        "Neurosymbolic procedural reasoning",
+        "Egocentric activity and error understanding",
+        "Multimodal perception",
+        "Probabilistic inference"
+      ],
+      "discoveryTimestampNote": "Earliest precisely retained named primary lead was the indexed official NJIT2025cohort result; focused full role/route screen began16:26:36Z. Subsequent form and methods checks retain their actual times.",
+      "candidateTier": "空间AR/程序推理备选；无机器人执行",
+      "physicalEvidenceStatus": "unverified",
+      "physicalEvidenceLabel": "真机待核实",
+      "shortVisitStatus": "inquiry-only · non-NJIT graduate form; institution funding rule unresolved",
+      "recordFile": "batches/embodied-110.json",
+      "detailPage": "batches/embodied-110.md#shivvrat-arya"
     },
     {
       "id": "henny-admoni",
@@ -16797,6 +16991,35 @@
       "detailPage": "batches/hri-121.md#yudai-tanaka"
     },
     {
+      "id": "yue-jiang",
+      "name": "Yue Jiang",
+      "aliases": [],
+      "school": "University of Utah",
+      "title": "Assistant Professor",
+      "homepage": "https://yuejiang-nj.github.io/",
+      "batch": "hri-124",
+      "discoveredAt": "2026-10-01T16:38:54Z",
+      "verifiedAt": "2026-10-01T16:45:45Z",
+      "scores": {
+        "fit": 29,
+        "physical": 0,
+        "shortVisit": 10,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Neural 3D human reconstruction",
+        "Human-centered spatial interfaces",
+        "Generative interfaces",
+        "Gaze and adaptive AI"
+      ],
+      "candidateTier": "空间AI/数字界面备选；无机器人执行",
+      "physicalEvidenceStatus": "unverified",
+      "physicalEvidenceLabel": "真机待核实",
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/hri-124.json",
+      "detailPage": "batches/hri-124.md#yue-jiang"
+    },
+    {
       "id": "fengpei-fiona-yuan",
       "name": "Fengpei (Fiona) Yuan",
       "aliases": [
@@ -16828,6 +17051,37 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-125.json",
       "detailPage": "batches/hri-125.md#fengpei-fiona-yuan"
+    },
+    {
+      "id": "yiyue-luo",
+      "name": "Yiyue Luo",
+      "aliases": [
+        "Luo Yiyue"
+      ],
+      "school": "University of Washington",
+      "title": "Assistant Professor",
+      "homepage": "https://yyueluo.com/",
+      "batch": "hri-126",
+      "discoveredAt": "2026-10-01T17:12:48Z",
+      "verifiedAt": "2026-10-01T17:16:38Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 10,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Tactile robot learning",
+        "Human-robot interaction",
+        "Intelligent wearable interfaces",
+        "Multimodal sensing",
+        "Learning-based haptic feedback"
+      ],
+      "physicalEvidenceStatus": "verified-collaborative-hardware",
+      "physicalEvidenceLabel": "受限真机证据：verified-collaborative-hardware",
+      "shortVisitStatus": "inquiry-only · external Masters; summer and six-month examples, no minimum",
+      "recordFile": "batches/hri-126.json",
+      "detailPage": "batches/hri-126.md#yiyue-luo"
     }
   ]
 }

@@ -1246,3 +1246,12 @@ Additional check 2026-10-01T16:23:24Z; reuse central WSU caveats. The [official 
 
 [Mengyu Liu's current intern invitation](https://mengyuliu0520.github.io/) starts from Spring 2027 and requires interns to be physically in the USA. It does not clarify application-time residence versus internship-time presence, campus location, or international sponsorship. Do not infer citizenship eligibility or a blanket no-visitors restriction.
 
+
+<a id="hawaii-manoa"></a>
+
+## Hawaiʻi Mānoa · 外校硕士可走 Student Intern，但在用表格版本较旧
+
+核查：2026-10-01T16:22:19Z。[ISS 当前说明](https://www.hawaii.edu/issmanoa/?page_id=18)允许美国境外在读学生在主办部门邀请下进行与原学位课程要求相关的实习，每周至少32小时、最长12个月、不要求注册课程，资金可来自任何来源。[在用表格目录](https://www.hawaii.edu/issmanoa/?page_id=14548)链接的[FormD](https://www.hawaii.edu/issmanoa/wp-content/uploads/ISSForms/JS_Intern_FormD.pdf)明确列硕士及个人/家庭资金；[FormE](https://www.hawaii.edu/issmanoa/wp-content/uploads/ISSForms/JS_Intern_FormE.pdf)要求原校确认学业良好、研究有益及返校完成学位。
+
+但这些表格标注2015年，[申请指南](https://www.hawaii.edu/issmanoa/wp-content/uploads/ISSForms/JS_Intern_Directions.pdf)标注2016年。指南的3周至12个月、至少提前90天联系ISS，以及旧财力/费用金额须在2027前重新确认，不能作为当前预算或签证保证。八周大致落在指南范围内；导师接收、具体研究安排、资助及审批仍未知，远程不由此路径自动覆盖。学校接受个人财力材料，也不覆盖具体实验室的联系门槛。
+

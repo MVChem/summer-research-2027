@@ -1,0 +1,159 @@
+[
+  {
+    "id": "shivvrat-arya",
+    "name": "Shivvrat Arya",
+    "aliases": [],
+    "school": "New Jersey Institute of Technology",
+    "homepage": "https://shivvrat.github.io/",
+    "title": "Assistant Professor",
+    "department": "Computer Science; Algorithms and Architectures for Reasoning and Intelligent Automation (ARIA) Lab",
+    "batch": "embodied-110",
+    "discoveredAt": "2026-10-01T16:19:53Z",
+    "verifiedAt": "2026-10-01T16:29:08Z",
+    "researchAreas": [
+      "Spatial AI for augmented-reality task guidance",
+      "Neurosymbolic procedural reasoning",
+      "Egocentric activity and error understanding",
+      "Multimodal perception",
+      "Probabilistic inference"
+    ],
+    "fitReason": "Visitor-first spatial/embodied-method backup. Full prior work grounds learned object recognition and procedural inference in real-time 3D AR guidance, while the current lab retains this direction. Less direct than robot control or manipulation; appropriate only for a spatial perception/procedural reasoning project within the wider target scope.",
+    "physicalEvidence": {
+      "status": "unverified",
+      "summary": "Physical0. Full VRW2024 system runs on HoloLens2: GroundingDINO/CLIP/ProtoCLIP/MobileSAM detections are mapped from RGB-D to 3D, and Omnivore features plus a dynamic probabilistic model infer procedural steps and update user guidance. The paper reports a working AR prototype, not robot actuation or learned robot policy. CaptainCook4D records human cooking for offline reasoning benchmarks. Prior UTD/Florida equipment is not current NJIT robot access.",
+      "sourceIds": [
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only · non-NJIT graduate form; institution funding rule unresolved",
+      "summary": "Visitor10. The complete current lab-linked form was read in the cloud browser on October 1, 2026 at16:28:14Z. It explicitly distinguishes Non-NJIT student seeking research experience and Visiting Scholar from NJIT MS thesis/project and degree PhD options; it accepts graduate institution information and an arbitrary desired start semester. This is a genuine outside-student inquiry route, including graduate-level background, but no promised summer2027 place, duration, remote arrangement or funding. The lab asks applicants to use the form because email can be missed.",
+      "sourceIds": [
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 32,
+      "physical": 0,
+      "shortVisit": 10,
+      "freshness": 13
+    },
+    "scoreReasons": {
+      "fit": "Substantive learned 3D AR/procedural intelligence, but less direct robot-control overlap than core pool.",
+      "physical": "AR sensing/interface and human video data are not physical robot execution; zero retained.",
+      "shortVisit": "Live form explicitly admits non-NJIT student/visitor interest and graduate background; no duration/funding assurance.",
+      "freshness": "Current2026 lab, March 2026 spatial-AI talk and form; complete spatial implementation is2024, not a new2026 robot experiment."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "people.njit.edu / source 1",
+        "url": "https://people.njit.edu/profile/sa3339",
+        "summary": "Complete current official Assistant Professor of Computer Science role, ARIA direction and institutional contact.",
+        "verifiedAt": "2026-10-01T16:26:46Z",
+        "retrieval": "complete-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "news.njit.edu / source 2",
+        "url": "https://news.njit.edu/ying-wu-college-computing-honored-announce-six-new-faculty-2025-2026",
+        "summary": "Complete September 22, 2025 official new-faculty article names Arya among recently appointed AY2025–26 APs and specifically identifies real-time AR guidance research.",
+        "verifiedAt": "2026-10-01T16:28:56Z",
+        "retrieval": "complete-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "aria-research-lab.github.io / source 3",
+        "url": "https://aria-research-lab.github.io/research/",
+        "summary": "Complete current agenda explicitly includes procedural activity reasoning, error detection, predictive AR task guidance and multimodal perception, alongside broader probabilistic AI.",
+        "verifiedAt": "2026-10-01T16:26:46Z",
+        "retrieval": "complete-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "aria-research-lab.github.io / source 4",
+        "url": "https://aria-research-lab.github.io/hiring/",
+        "summary": "Complete live hiring page read by web and cloud browser: visiting scholars welcome; mandatory/preferred form route, separate funded degree PhD and local credit-based MS sections. No visitor stipend or duration promise.",
+        "verifiedAt": "2026-10-01T16:27:35Z",
+        "retrieval": "complete-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "docs.google.com / source 5",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSe0FSKOOZ6IWN-Goh9pUnLkRnPXBxlJHvJRZtip1Zq5w6Dr_A/viewform",
+        "summary": "Complete blank single-page public form: distinct Non-NJIT student seeking research experience and Visiting Scholar choices, current-NJIT Yes/No, graduate institution and arbitrary start-semester fields. Actual lab link clicked16:27:47Z, finalURLfound16:27:58Z. Nothing entered, selected, uploaded or submitted; no account data retained.",
+        "verifiedAt": "2026-10-01T16:28:14Z",
+        "retrieval": "complete-browser-primary"
+      },
+      {
+        "id": "s6",
+        "label": "cise.ufl.edu / source 6",
+        "url": "https://cise.ufl.edu/~bbenda/files/PTGwithAIinAR.pdf",
+        "summary": "Full two-page IEEE VRW2024 primary paper: HoloLens2 combines learned object detection/segmentation, RGB-D spatial mapping and neural plus probabilistic step inference to guide cooking. Arya then UTD; no robot-policy execution.",
+        "verifiedAt": "2026-10-01T16:28:45Z",
+        "retrieval": "complete-primary-paper"
+      },
+      {
+        "id": "s7",
+        "label": "arxiv.org / source 7",
+        "url": "https://arxiv.org/html/2312.14556v3",
+        "summary": "Complete November 2024 CaptainCook4D methods and evaluation: egocentric RGB-D procedural recordings, task graphs, error recognition and procedure learning. Human activities and offline model benchmarks, not robot deployment.",
+        "verifiedAt": "2026-10-01T16:28:45Z",
+        "retrieval": "complete-primary-paper"
+      },
+      {
+        "id": "s8",
+        "label": "shivvrat.github.io / source 8",
+        "url": "https://shivvrat.github.io/talks/",
+        "summary": "Complete first-person March 2026 NJIT seminar description continues perceptually enabled AR guidance with object detection, spatial mapping, neural-symbolic dynamic models and HoloLens2; not treated as a new controlled robot experiment.",
+        "verifiedAt": "2026-10-01T16:26:46Z",
+        "retrieval": "complete-primary-page"
+      },
+      {
+        "id": "s9",
+        "label": "aria-research-lab.github.io / source 9",
+        "url": "https://aria-research-lab.github.io/hiring/undergraduate-ms-research",
+        "summary": "Complete local-course MS/undergraduate pathways, distinct from external options visibly present in the shared form.",
+        "verifiedAt": "2026-10-01T16:28:56Z",
+        "retrieval": "complete-primary-page"
+      },
+      {
+        "id": "s10",
+        "label": "shivvrat.github.io / source 10",
+        "url": "https://shivvrat.github.io/",
+        "summary": "Complete current PI homepage, ongoing structured multimodal/AR research and September 24, 2026 research news.",
+        "verifiedAt": "2026-10-01T16:29:08Z",
+        "retrieval": "complete-primary-page"
+      }
+    ],
+    "unknowns": [
+      "This is a spatial/AR and procedural-reasoning backup, not a verified robot-deployment lab. Current work also covers general probabilistic AI, graph optimization and biology; a focused embodied project must be agreed.",
+      "The full AR methods are prior UTD/Florida work from2024; current March 2026 talk and lab agenda demonstrate continuity, not proof of a new NJIT robot installation.",
+      "Funded Fall2026/Spring2027 PhD positions are a separate degree route. Neither the external-student form option nor local MS course credit promises a visiting stipend, summer availability or admission.",
+      "The form explicitly accommodates non-NJIT students and graduate background. It does not separately promise every international master’s case; home enrollment, project, duration and host approval require confirmation.",
+      "NJIT Prescribed Study conditions: outside continuing-degree masters can be considered for degree-linked research, usually with at least51% nonpersonal support unless a specific partner-university exception applies. Entirely personal self-funding cannot be presumed.",
+      "Existing NJIT note describes at least20hours/week, initial duration up to12months and at least3months planning lead. Old linked2023 costs and any agreement exception require2027 confirmation; no minimum stay or remote authorization is inferred.",
+      "No form fields were filled, radio options selected, files uploaded or application submitted. The form is the advertised inquiry channel; the public email remains a contact only.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: Earliest precisely retained named primary lead was the indexed official NJIT2025cohort result; focused full role/route screen began16:26:36Z. Subsequent form and methods checks retain their actual times.",
+      "[Institutional visitor review](../eligibility_notes.md#njit); original observation times and category-specific limits remain applicable."
+    ],
+    "discoveryTimestampNote": "Earliest precisely retained named primary lead was the indexed official NJIT2025cohort result; focused full role/route screen began16:26:36Z. Subsequent form and methods checks retain their actual times.",
+    "publicEmail": "shivvrat.arya@njit.edu",
+    "appointmentStart": {
+      "year": 2025,
+      "precision": "year",
+      "status": "current",
+      "appointmentType": "unresolved",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ],
+      "evidence": "Official September2025 announcement places Arya in the recently appointed AY2025–26 AP cohort. Current title is independently confirmed. Exact month/day and first-ever faculty status are not inferred."
+    },
+    "candidateTier": "空间AR/程序推理备选；无机器人执行"
+  }
+]

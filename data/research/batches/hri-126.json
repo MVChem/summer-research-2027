@@ -1,0 +1,161 @@
+[
+  {
+    "id": "yiyue-luo",
+    "name": "Yiyue Luo",
+    "aliases": [
+      "Luo Yiyue"
+    ],
+    "school": "University of Washington",
+    "homepage": "https://yyueluo.com/",
+    "title": "Assistant Professor",
+    "department": "Electrical and Computer Engineering",
+    "batch": "hri-126",
+    "discoveredAt": "2026-10-01T17:12:48Z",
+    "verifiedAt": "2026-10-01T17:16:38Z",
+    "researchAreas": [
+      "Tactile robot learning",
+      "Human-robot interaction",
+      "Intelligent wearable interfaces",
+      "Multimodal sensing",
+      "Learning-based haptic feedback"
+    ],
+    "fitReason": "Strong recent-AP tactile/embodied-AI option with a direct external-master-compatible inquiry form. Computational tactile learning and multimodal sensing align with CS research, alongside substantial fabrication and hardware work.",
+    "physicalEvidence": {
+      "status": "verified-collaborative-hardware",
+      "summary": "LocoTouch trains a PPO teacher and distills a tactile convnet-GRU policy with behavior cloning/DAgger, then executes learned joint-position control on a real Unitree Go1 transporting unsecured objects. This is shared CMU/UW/Google apparatus, not verified UW-local access. Separately, the 2026 CPR glove uses personalized LDA force/pose classification to drive actual vibrotactile cues in an eight-person manikin pilot; it does not autonomously perform CPR.",
+      "sourceIds": [
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only · external Masters; summer and six-month examples, no minimum",
+      "summary": "The live PI-linked interest form accepts non-UW affiliation and Masters designation. Its free-text desired-position field explicitly gives summer internship and six-month visiting-student examples. The homepage separately invites visitors/interns. This is a real inquiry route, with Summer 2027 availability, exact duration, remote participation and funding still unknown.",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 20,
+      "shortVisit": 10,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct robot tactile learning plus current embodied wearable/HRI AI methods and a verified independent UW lab.",
+      "physical": "Full real learned Go1 methods verified, conservatively capped at 20 for collaborative apparatus. Current learned haptic pilot is separately identified and limited.",
+      "shortVisit": "Explicit live non-UW master form and summer-intern example, but no specified compatible duration or 2027 offer.",
+      "freshness": "Full March 2026 technical study and August 2026 paper establish current research beyond appointment publicity."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.ee.washington.edu / source 1",
+        "url": "https://www.ee.washington.edu/faculty/",
+        "summary": "Current official faculty roster identifies Electrical and Computer Engineering Assistant Professor and public professional email. Indexed primary roster text read.",
+        "verifiedAt": "2026-10-01T17:16:38Z",
+        "retrieval": "Indexed primary university roster; separate complete official cohort source also inspected"
+      },
+      {
+        "id": "s2",
+        "label": "www.engr.washington.edu / source 2",
+        "url": "https://www.engr.washington.edu/faculty-research/new-faculty-2024/yiyue",
+        "summary": "Full official 2024 cohort biography explicitly says joining ECE in September as Assistant Professor after MIT PhD.",
+        "verifiedAt": "2026-10-01T17:13:54Z"
+      },
+      {
+        "id": "s3",
+        "label": "yyueluo.com / source 3",
+        "url": "https://yyueluo.com/",
+        "summary": "Full live cloud-browser page verifies current UW role, tactile/robot/applied-ML agenda, professional email and distinct invitation for visiting students and interns. Lists LocoTouch, 3D-ViTac and 2026 CPR glove.",
+        "verifiedAt": "2026-10-01T17:15:25Z"
+      },
+      {
+        "id": "s4",
+        "label": "yyueluo.com / source 4",
+        "url": "https://yyueluo.com/opportunity.html",
+        "summary": "Full live primary page recruits undergraduate and master researchers for tactile sensing, multimodal sensing and LLM smart-wearable projects, with PI email and interest form.",
+        "verifiedAt": "2026-10-01T17:14:05Z"
+      },
+      {
+        "id": "s5",
+        "label": "docs.google.com / source 5",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSf8ilJwE73YR-Iju6E1oayrJmAlf1NP_Q0F_D0kr23A-rPpoA/viewform",
+        "summary": "PI-linked live form inspected read-only in cloud browser; fully enabled controls verified. Allows non-UW affiliation and Masters designation. Desired-position field gives a six-month visiting position and summer internship as examples, not minimum durations. Asks for project and CV. No entries, uploads or submission. No Summer 2027 commitment, funding or remote term stated.",
+        "verifiedAt": "2026-10-01T17:15:25Z"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2505.23175v1",
+        "summary": "Full May 2025 LocoTouch methods: PPO teacher; tactile convnet-GRU student via behavior cloning and DAgger; joint-position outputs deploy on actual Unitree Go1. Section 6 and Appendix E document real object transport trials. Joint CMU/UW/Google project; campus ownership/access not established.",
+        "verifiedAt": "2026-10-01T17:16:24Z"
+      },
+      {
+        "id": "s7",
+        "label": "linchangyi1.github.io / source 7",
+        "url": "https://linchangyi1.github.io/LocoTouch/",
+        "summary": "Primary project names Luo and Yuxin Ray Song as UW coauthors and describes actual learned tactile locomotion/transport, not just simulation.",
+        "verifiedAt": "2026-10-01T17:15:50Z"
+      },
+      {
+        "id": "s8",
+        "label": "arxiv.org / source 8",
+        "url": "https://arxiv.org/html/2603.05793v1",
+        "summary": "Full March 2026 current UW/GIST study: personalized LDA classifies tactile force/pose, predictions drive physical vibrotactile feedback in an eight-person CPR-manikin pilot. Compression rate uses deterministic peak intervals; computation is offboard. It is preliminary training-interface evidence, not clinical efficacy or autonomous chest-compression robotics. Headline latency/accuracy claims are not reused because full methods distinguish sensor and model timing and within-person calibration.",
+        "verifiedAt": "2026-10-01T17:16:38Z"
+      },
+      {
+        "id": "s9",
+        "label": "arxiv.org / source 9",
+        "url": "https://arxiv.org/abs/2608.13412",
+        "summary": "August 2026 Sensorimotor Stickies abstract explicitly describes rule-based sensing/feedback logic. Current research freshness only; not independently scored as learned robot control.",
+        "verifiedAt": "2026-10-01T17:13:54Z"
+      },
+      {
+        "id": "s10",
+        "label": "www.ielp.uw.edu / source 10",
+        "url": "https://www.ielp.uw.edu/programs/research-programs/visit/overview",
+        "summary": "Reused UW institutional audit: outside graduate students may use VISIT for three weeks to one year and at least 32 hours/week, conditional on host/project approval. Institutional duration compatibility is not an individual offer.",
+        "verifiedAt": "2026-09-30T23:59:13Z"
+      },
+      {
+        "id": "s11",
+        "label": "www.ielp.uw.edu / source 11",
+        "url": "https://www.ielp.uw.edu/programs/research-programs/visit/how-to-apply",
+        "summary": "Reused audit: continuing overseas enrollment, return-home degree completion, host and home-institution participation; bank statements and/or sponsor letters. All-personal funding approval and current 2027 costs require office confirmation.",
+        "verifiedAt": "2026-09-30T23:59:13Z"
+      },
+      {
+        "id": "s12",
+        "label": "www.ielp.uw.edu / source 12",
+        "url": "https://www.ielp.uw.edu/programs/research-programs/visit-program-application-timeline",
+        "summary": "Reused audit: complete department application at least 12 weeks ahead, with overall processing estimates longer. No approval guarantee.",
+        "verifiedAt": "2026-09-30T23:59:13Z"
+      }
+    ],
+    "unknowns": [
+      "Six months is an example in an open-ended form, not a stated minimum or preference. Summer 2027 capacity and an approximately eight-week project are unconfirmed.",
+      "No paid placement, remote arrangement or guaranteed hardware access is stated. The form requires a proposed project and CV and may require a Google sign-in for upload.",
+      "LocoTouch hardware is collaborative; the 2026 glove is a preliminary manikin-training interface with offboard inference and user-specific calibration. Do not present it as validated clinical assistance or autonomous CPR.",
+      "UW VISIT is the relevant institutional research-visitor route for enrolled outside graduate students; supervisor, department and home-institution approval are still needed. Confirm funding documentation, current fees and processing lead time with the office.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor review](../eligibility_notes.md#washington-visit); original observation times and category-specific limits remain applicable."
+    ],
+    "publicEmail": "yiyueluo@uw.edu",
+    "appointmentStart": {
+      "year": 2024,
+      "month": 9,
+      "precision": "month",
+      "status": "current",
+      "sourceIds": [
+        "s2"
+      ],
+      "evidence": "Official 2024 new-faculty biography explicitly dates UW ECE joining to September after the MIT PhD.",
+      "appointmentType": "unresolved"
+    }
+  }
+]

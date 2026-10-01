@@ -872,6 +872,51 @@
         "s5",
         "s6"
       ]
+    },
+    "yiyue-luo": {
+      "note": "非UW/Masters表单，summer intern/6个月visit只是开放示例；不作最低时长或2027承诺；合作设备、经费/远程未知",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "connor-m-mccann": {
+      "note": "当前表单明确外校在读MS访问实习；时长/2027/资金/远程未说明，前Harvard助力机器人非已转移WPI设备",
+      "sourceIds": [
+        "s3",
+        "s4"
+      ]
+    },
+    "guanrui-li": {
+      "note": "一般visiting-scholar问询；CV/成绩单及已有重要论文，硕士类别/期限/资金未定；WPI学生项目表单另列",
+      "sourceIds": [
+        "s3"
+      ],
+      "category": "generic-intern-eligibility-unconfirmed"
+    },
+    "shuzhen-luo": {
+      "note": "一般visiting-scholar入口；仅PhD资金明确，访客/硕士类别与期限未知；独立研究仿真物理0，旧Nature编辑提示见详情",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5"
+      ],
+      "category": "generic-intern-eligibility-unconfirmed"
+    },
+    "shivvrat-arya": {
+      "note": "完整Non-NJIT/graduate/Visiting Scholar表单，要求走表单；期限/远程/资助未知；NJIT通常需51%非个人支持，空间AR物理0",
+      "sourceIds": [
+        "s4",
+        "s5"
+      ]
+    },
+    "yue-jiang": {
+      "note": "Master/外校信息和现场或远程intern选项；起始日期可填，期限/资金/2027容量未知；数字空间方法备选、物理0",
+      "sourceIds": [
+        "s2",
+        "s3"
+      ]
     }
   }
 }

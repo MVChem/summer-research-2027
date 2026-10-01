@@ -1,0 +1,122 @@
+[
+  {
+    "id": "yu-gu",
+    "name": "Yu Gu",
+    "aliases": [],
+    "school": "West Virginia University",
+    "homepage": "https://yugu.faculty.wvu.edu/home",
+    "title": "Professor; MMAE Academy of Distinguished Alumni Professor",
+    "department": "Mechanical, Materials and Aerospace Engineering; Interactive Robotics Laboratory",
+    "batch": "control-034",
+    "discoveredAt": "2026-10-01T01:34:26Z",
+    "verifiedAt": "2026-10-01T01:39:31Z",
+    "researchAreas": [
+      "Learned robot perception",
+      "Precision agricultural manipulation",
+      "Field robot autonomy",
+      "Multi-agent robotics"
+    ],
+    "fitReason": "Substantial learned perception integrated with actual contact-rich agricultural robots, with newer physical model-identification work and a public exchange/visitor inquiry route.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "FloPE (March 2025 preprint; IROS 2025) distills perception into YOLOv11-nano and predicts flower poses, driving UR5 and six-arm StickBug visual-servoed contact. Physical tests use artificial bramble flowers, with success defined as tip-to-pistil contact, not biological fertilization. June 2026 branch work uses real UR5 interaction data to fit a FEM material model and guide deformation-aware manipulation; it is classical parameter estimation, not a new RL policy.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "dated-live-inquiry · 页面2021文本，2027未确认",
+      "summary": "Live official Join Us page has a dedicated Exchange/Visiting Position section inviting interested visitors to contact Gu. It was last modified May 16, 2021, so the currently visible inquiry route is dated and no 2027 capacity is established. The separate self-funded M.S. paragraph concerns pursuing a WVU degree, not permission for a self-funded external visit.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 5,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong perception-to-action agricultural robot methods; not primarily RL.",
+      "physical": "Two named lab robots physically execute learned-pose-guided contact; artificial-target limitation explicit.",
+      "shortVisit": "Live general exchange/visitor invitation, but old 2021 modification and no duration or external-master's eligibility stated.",
+      "freshness": "Explicit June 2026 physical robot/model-identification research and dated 2026 institutional activity establish recent research; the neural FloPE experiment remains correctly dated 2025."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "yugu.faculty.wvu.edu / source 1",
+        "url": "https://yugu.faculty.wvu.edu/home",
+        "summary": "Official faculty/lab homepage confirms Professor, lab affiliation and public email; last modified October 8, 2023.",
+        "verifiedAt": "2026-10-01T01:39:31Z",
+        "retrieval": "Direct rendered official page in cloud browser; web.run live retrieval failed"
+      },
+      {
+        "id": "s2",
+        "label": "media.statler.wvu.edu / source 2",
+        "url": "https://media.statler.wvu.edu/news/2026/06/03/wvu-robotics-team-places-fourth-overall-earns-top-marks-at-international-university-rover-challenge",
+        "summary": "June 3, 2026 official news confirms current MMAE Academy of Distinguished Alumni Professor and active robotics leadership. Competition hardware is not the learning evidence.",
+        "verifiedAt": "2026-10-01T01:39:31Z",
+        "retrieval": "Official indexed page via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "yugu.faculty.wvu.edu / source 3",
+        "url": "https://yugu.faculty.wvu.edu/join-us",
+        "summary": "Dedicated Exchange/Visiting Position inquiry invitation; May 16, 2021 page modification. Separate PhD, WVU MS degree and local undergraduate directions retained in scope.",
+        "verifiedAt": "2026-10-01T01:39:31Z",
+        "retrieval": "Direct rendered official page in cloud browser; web.run live retrieval failed"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2503.11692v1",
+        "summary": "FloPE primary full paper: learned perception plus physical UR5/StickBug tests on artificial flowers; pollination metric is contact, not fertilization. Jetson Nano speed 3.45 FPS.",
+        "verifiedAt": "2026-10-01T01:39:31Z",
+        "retrieval": "Direct primary full-text HTML via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "wvu-irl.github.io / source 5",
+        "url": "https://wvu-irl.github.io/flope-irl/",
+        "summary": "Lab project page supplies IROS 2025 paper and demonstrations.",
+        "verifiedAt": "2026-10-01T01:39:31Z",
+        "retrieval": "Direct lab project HTML via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2606.19314v1",
+        "summary": "June 17, 2026 physical branch-robot data, UR5 force sensing and FEM parameter estimation; do not rebrand as neural RL.",
+        "verifiedAt": "2026-10-01T01:39:31Z",
+        "retrieval": "Direct primary full-text HTML via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "media.statler.wvu.edu / source 7",
+        "url": "https://media.statler.wvu.edu/news/2026/04/10/april-2026-statler-circuit-department-digest-and-awards",
+        "summary": "April 2026 university news identifies robotic-pollination researcher Trevor Smith as Gu's advisee.",
+        "verifiedAt": "2026-10-01T01:39:31Z",
+        "retrieval": "Official indexed page via web.run"
+      }
+    ],
+    "unknowns": [
+      "External master's eligibility, eight-week duration, exact institutional appointment, funding rules and remote arrangements need verification through WVU and the lab. General visitor wording has no degree-level or duration commitment. Do not attribute unrelated same-name Microsoft/LLM research to this WVU faculty member.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "yu.gu@mail.wvu.edu"
+  }
+]

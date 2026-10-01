@@ -42,6 +42,7 @@
     "batches/control-031.json",
     "batches/control-032.json",
     "batches/control-033.json",
+    "batches/control-034.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -2598,6 +2599,32 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-033.json",
       "detailPage": "batches/control-033.md#shaoshuai-mou"
+    },
+    {
+      "id": "yu-gu",
+      "name": "Yu Gu",
+      "aliases": [],
+      "school": "West Virginia University",
+      "title": "Professor; MMAE Academy of Distinguished Alumni Professor",
+      "homepage": "https://yugu.faculty.wvu.edu/home",
+      "batch": "control-034",
+      "discoveredAt": "2026-10-01T01:34:26Z",
+      "verifiedAt": "2026-10-01T01:39:31Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 5,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Learned robot perception",
+        "Precision agricultural manipulation",
+        "Field robot autonomy",
+        "Multi-agent robotics"
+      ],
+      "shortVisitStatus": "dated-live-inquiry · 页面2021文本，2027未确认",
+      "recordFile": "batches/control-034.json",
+      "detailPage": "batches/control-034.md#yu-gu"
     },
     {
       "id": "tom-silver",

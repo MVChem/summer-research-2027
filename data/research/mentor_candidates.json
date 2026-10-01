@@ -44,6 +44,7 @@
     "batches/embodied-015.json",
     "batches/embodied-016.json",
     "batches/embodied-017.json",
+    "batches/embodied-018.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -4181,6 +4182,33 @@
       "shortVisitStatus": "inquiry-only",
       "recordFile": "batches/embodied-017.json",
       "detailPage": "batches/embodied-017.md#huaxiu-yao"
+    },
+    {
+      "id": "yisong-yue",
+      "name": "Yisong Yue",
+      "aliases": [],
+      "school": "California Institute of Technology",
+      "title": "Professor",
+      "homepage": "https://www.yisongyue.com/",
+      "batch": "embodied-018",
+      "discoveredAt": "2026-09-30T23:29:35Z",
+      "verifiedAt": "2026-09-30T23:32:00Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Robot reinforcement learning",
+        "Online policy optimization",
+        "Learning-guided control",
+        "Humanoid locomotion",
+        "Adaptive robot controllers"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-018.json",
+      "detailPage": "batches/embodied-018.md#yisong-yue"
     },
     {
       "id": "henny-admoni",

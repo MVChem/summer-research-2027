@@ -1,0 +1,104 @@
+[
+  {
+    "id": "minghui-zheng",
+    "name": "Minghui Zheng",
+    "aliases": [],
+    "school": "Texas A&M University",
+    "homepage": "https://zh.engr.tamu.edu/",
+    "title": "Associate Professor",
+    "department": "J. Mike Walker ’66 Department of Mechanical Engineering",
+    "batch": "embodied-024",
+    "discoveredAt": "2026-10-01T00:06:03Z",
+    "verifiedAt": "2026-10-01T00:11:50Z",
+    "researchAreas": [
+      "Vision-language-action manipulation",
+      "Contact-rich robotic disassembly",
+      "Learning-based motion planning",
+      "Human-robot collaboration",
+      "Robot policy editing"
+    ],
+    "fitReason": "The current CtrlRobot lab combines VLA planning, explicit skills and learned recovery for disassembly, plus neural motion planning and human-aware manipulation. SELF-VLA supplies a direct foundation-model-to-physical-action research fit.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The March 2026 SELF-VLA primary study uses an actual UR5e with customized Robotiq 2F-85 extension, wrist RealSense D435i and fixed OAK-D Pro. It tests RAM removal and CPU extraction, with 20 trials per reported setting and 528 teleoperated demonstrations. Zheng is a Texas A&M corresponding author and the lab lists this work.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The live opportunities page specifically advertises rolling fully funded PhD and postdoctoral positions. No external-master’s short internship or visitor opening was established. Texas A&M’s central master’s student-intern route is administrative feasibility only.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct VLA-based physical industrial manipulation and learned recovery.",
+      "physical": "Detailed current hardware experiment tied to the current Texas A&M group.",
+      "shortVisit": "Degree/postdoctoral recruitment only; university policy does not establish faculty capacity.",
+      "freshness": "March 2026 primary hardware work and current 2026 lab activity."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.tamu.edu / source 1",
+        "url": "https://engineering.tamu.edu/mechanical/profiles/zheng-minghui.html",
+        "summary": "Direct current official associate professor, mechanical engineering, public email and learning/control research interests.",
+        "verifiedAt": "2026-10-01T00:11:50Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "zh.engr.tamu.edu / source 2",
+        "url": "https://zh.engr.tamu.edu/",
+        "summary": "Direct current lab activity through August 2026 and explicit foundation-model/manipulation direction.",
+        "verifiedAt": "2026-10-01T00:11:50Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "zh.engr.tamu.edu / source 3",
+        "url": "https://zh.engr.tamu.edu/publications/",
+        "summary": "Lab publication list identifies SELF-VLA and 2026 neural-planning/physical-interaction work.",
+        "verifiedAt": "2026-10-01T00:11:50Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "zh.engr.tamu.edu / source 4",
+        "url": "https://zh.engr.tamu.edu/opportunities/",
+        "summary": "Current recruitment is PhD and postdoc; no short visitor pathway verified.",
+        "verifiedAt": "2026-10-01T00:11:50Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2603.11080v1",
+        "summary": "March 10, 2026 primary paper: UR5e configuration, tabletop fixture, demonstrations, 20-trial protocol and explicit skill-library architecture.",
+        "verifiedAt": "2026-10-01T00:11:50Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "The disassembly components are relocated to a fixture board; the experiment is not autonomous removal from an intact closed desktop. SELF-VLA uses a learned planner/corrector with an explicit recorded skill library, rather than one end-to-end learned controller. Performance varies substantially by backbone; no universal task-success claim is implied. Prospective research scope and access must be confirmed by the host.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "mhzheng@tamu.edu"
+  }
+]

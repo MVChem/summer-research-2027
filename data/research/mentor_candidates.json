@@ -56,6 +56,7 @@
     "batches/embodied-021.json",
     "batches/embodied-022.json",
     "batches/embodied-023.json",
+    "batches/embodied-024.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -4690,6 +4691,33 @@
       "shortVisitStatus": "conditional-inquiry · intern需US-based，访客范围未明",
       "recordFile": "batches/embodied-023.json",
       "detailPage": "batches/embodied-023.md#zhiwen-fan"
+    },
+    {
+      "id": "minghui-zheng",
+      "name": "Minghui Zheng",
+      "aliases": [],
+      "school": "Texas A&M University",
+      "title": "Associate Professor",
+      "homepage": "https://zh.engr.tamu.edu/",
+      "batch": "embodied-024",
+      "discoveredAt": "2026-10-01T00:06:03Z",
+      "verifiedAt": "2026-10-01T00:11:50Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Vision-language-action manipulation",
+        "Contact-rich robotic disassembly",
+        "Learning-based motion planning",
+        "Human-robot collaboration",
+        "Robot policy editing"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-024.json",
+      "detailPage": "batches/embodied-024.md#minghui-zheng"
     },
     {
       "id": "henny-admoni",

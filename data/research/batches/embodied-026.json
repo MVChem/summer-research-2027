@@ -1,0 +1,96 @@
+[
+  {
+    "id": "quan-khanh-luu",
+    "name": "Quan Khanh Luu",
+    "aliases": [
+      "Quan Luu"
+    ],
+    "school": "University of Nebraska–Lincoln",
+    "homepage": "https://quan-luu.github.io/",
+    "title": "Assistant Professor",
+    "department": "Electrical and Computer Engineering",
+    "batch": "embodied-026",
+    "discoveredAt": "2026-10-01T00:29:54Z",
+    "verifiedAt": "2026-10-01T00:33:48Z",
+    "researchAreas": [
+      "Visuotactile robot learning",
+      "Contact-rich manipulation",
+      "Diffusion policies",
+      "Soft tactile sensing",
+      "Quadrupedal loco-manipulation"
+    ],
+    "fitReason": "Tactile representation learning connects directly to embodied manipulation: TacImag predicts useful contact representations from vision and proprioception, while tactile-aware loco-manipulation combines imitation learning and reinforcement learning on mobile hardware.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "July 2026 TacImag reports a real Franka Panda with front/wrist RealSense D415 cameras. GelSight records paired training demonstrations, but is replaced by a geometrically matched dummy finger during deployment. Diffusion policies are evaluated over 15 trials per configuration on bulb installation, wiping, belt insertion and ball sorting. April 2026 tactile-aware loco-manipulation additionally uses a real Unitree Go2 with D1 arm and FlexiTac sensor array.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No dedicated external visiting-student or short-term internship invitation was found on the directly inspected homepage. A public professional email is available, but availability is unknown and receives zero short-visit points.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct tactile-policy, imitation and reinforcement learning relevance to physical embodied AI.",
+      "physical": "Detailed contemporary real-robot studies, capped for prior-institution collaboration and unverified new-campus equipment.",
+      "shortVisit": "No published external short-visit invitation found.",
+      "freshness": "Two direct 2026 physical-learning papers and current UNL appointment."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.unl.edu / source 1",
+        "url": "https://engineering.unl.edu/ece/about/faculty-staff/",
+        "summary": "Direct cloud-browser faculty directory confirms Assistant Professor in ECE, public email and homepage link.",
+        "verifiedAt": "2026-10-01T00:33:48Z",
+        "retrieval": "direct-browser-primary"
+      },
+      {
+        "id": "s2",
+        "label": "quan-luu.github.io / source 2",
+        "url": "https://quan-luu.github.io/",
+        "summary": "Current UNL appointment, prior Purdue postdoc, full name, public email, tactile-learning focus and no dedicated external visitor invitation.",
+        "verifiedAt": "2026-10-01T00:33:48Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2607.01684v1",
+        "summary": "July 2, 2026 primary TacImag paper, Purdue affiliation, real Panda, tactile-free learned deployment and 15 trials per configuration.",
+        "verifiedAt": "2026-10-01T00:33:48Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2604.27224v1",
+        "summary": "April 29, 2026 primary tactile-aware loco-manipulation paper: physical Go2/D1, FlexiTac, high-level diffusion and sim-trained low-level RL deployment.",
+        "verifiedAt": "2026-10-01T00:33:48Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "The verified 2026 hardware papers identify Luu with Purdue, preceding the new UNL appointment; current UNL lab equipment, access and visitor-hosting readiness are not established. TacImag hardware is corroborated collaboration, not evidence that the new UNL lab owns that Panda. Its reported contact-task gain is 44.4 percentage points, not relative percent; fixed task fixtures and viewpoint sensitivity limit generalization. ManiFeel on the homepage is explicitly a simulation benchmark and is not used as physical robot evidence.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "qluu3@unl.edu"
+  }
+]

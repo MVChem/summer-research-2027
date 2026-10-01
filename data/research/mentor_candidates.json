@@ -60,6 +60,7 @@
     "batches/embodied-023.json",
     "batches/embodied-024.json",
     "batches/embodied-025.json",
+    "batches/embodied-026.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -4802,6 +4803,35 @@
       "shortVisitStatus": "inquiry-only",
       "recordFile": "batches/embodied-025.json",
       "detailPage": "batches/embodied-025.md#lifeng-zhou"
+    },
+    {
+      "id": "quan-khanh-luu",
+      "name": "Quan Khanh Luu",
+      "aliases": [
+        "Quan Luu"
+      ],
+      "school": "University of Nebraska–Lincoln",
+      "title": "Assistant Professor",
+      "homepage": "https://quan-luu.github.io/",
+      "batch": "embodied-026",
+      "discoveredAt": "2026-10-01T00:29:54Z",
+      "verifiedAt": "2026-10-01T00:33:48Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Visuotactile robot learning",
+        "Contact-rich manipulation",
+        "Diffusion policies",
+        "Soft tactile sensing",
+        "Quadrupedal loco-manipulation"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-026.json",
+      "detailPage": "batches/embodied-026.md#quan-khanh-luu"
     },
     {
       "id": "henny-admoni",

@@ -123,7 +123,11 @@
     "batches/hri-031.json",
     "batches/hri-032.json",
     "batches/hri-033.json",
-    "batches/hri-034.json"
+    "batches/hri-034.json",
+    "batches/hri-035.json",
+    "batches/hri-036.json",
+    "batches/hri-037.json",
+    "batches/hri-038.json"
   ],
   "candidates": [
     {
@@ -8472,6 +8476,122 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-034.json",
       "detailPage": "batches/hri-034.md#nancy-pollard"
+    },
+    {
+      "id": "vineet-r-kamat",
+      "name": "Vineet R. Kamat",
+      "aliases": [
+        "Vineet Kamat"
+      ],
+      "school": "University of Michigan, Ann Arbor",
+      "title": "John L. Tishman Family Professor of Construction Management and Sustainability",
+      "homepage": "https://live.engin.umich.edu/",
+      "batch": "hri-035",
+      "discoveredAt": "2026-10-01T01:42:57Z",
+      "verifiedAt": "2026-10-01T01:49:17Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Assistive mobile robots",
+        "Vision-language object search",
+        "Planning under partial observability",
+        "Human–robot shared control",
+        "Construction robotics"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-035.json",
+      "detailPage": "batches/hri-035.md#vineet-r-kamat"
+    },
+    {
+      "id": "md-jahidul-islam",
+      "name": "Md Jahidul Islam",
+      "aliases": [
+        "Jahidul Islam",
+        "Md. Jahidul Islam"
+      ],
+      "school": "University of Florida",
+      "title": "Yangbin Wang Rising Star Endowed Assistant Professor",
+      "homepage": "https://faculty.eng.ufl.edu/jahid/",
+      "batch": "hri-036",
+      "discoveredAt": "2026-10-01T02:04:30Z",
+      "verifiedAt": "2026-10-01T02:08:37Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Deep robot perception",
+        "Underwater visual navigation",
+        "Human–robot teleoperation",
+        "3D reconstruction and SLAM",
+        "Edge AI"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-036.json",
+      "detailPage": "batches/hri-036.md#md-jahidul-islam"
+    },
+    {
+      "id": "christoffer-heckman",
+      "name": "Christoffer Heckman",
+      "aliases": [
+        "Chris Heckman",
+        "Christoffer Roger Heckman"
+      ],
+      "school": "University of Colorado Boulder",
+      "title": "Associate Professor; Jacques I. Pankove Faculty Fellow; Faculty Director for Artificial Intelligence",
+      "homepage": "https://arpg.colorado.edu/",
+      "batch": "hri-037",
+      "discoveredAt": "2026-10-01T02:11:28Z",
+      "verifiedAt": "2026-10-01T02:13:02Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Generative 3D occupancy mapping",
+        "Learned robot perception",
+        "Vision-language spatial grounding",
+        "Probabilistic robotics",
+        "Autonomous exploration"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-037.json",
+      "detailPage": "batches/hri-037.md#christoffer-heckman"
+    },
+    {
+      "id": "ken-nakagaki",
+      "name": "Ken Nakagaki",
+      "aliases": [],
+      "school": "University of Chicago",
+      "title": "Assistant Professor of Computer Science",
+      "homepage": "https://www.axlab.cs.uchicago.edu/",
+      "batch": "hri-038",
+      "discoveredAt": "2026-10-01T02:11:44Z",
+      "verifiedAt": "2026-10-01T02:16:55Z",
+      "scores": {
+        "fit": 37,
+        "physical": 25,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Physically grounded human–AI interaction",
+        "LLM robot programming",
+        "Tangible swarm robots",
+        "Actuated interfaces",
+        "Creative human–robot collaboration"
+      ],
+      "shortVisitStatus": "inquiry-only · NDVS资金与类别待确认",
+      "recordFile": "batches/hri-038.json",
+      "detailPage": "batches/hri-038.md#ken-nakagaki"
     }
   ]
 }

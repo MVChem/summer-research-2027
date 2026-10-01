@@ -1,0 +1,104 @@
+[
+  {
+    "id": "christoffer-heckman",
+    "name": "Christoffer Heckman",
+    "aliases": [
+      "Chris Heckman",
+      "Christoffer Roger Heckman"
+    ],
+    "school": "University of Colorado Boulder",
+    "homepage": "https://arpg.colorado.edu/",
+    "title": "Associate Professor; Jacques I. Pankove Faculty Fellow; Faculty Director for Artificial Intelligence",
+    "department": "Computer Science",
+    "batch": "hri-037",
+    "discoveredAt": "2026-10-01T02:11:28Z",
+    "verifiedAt": "2026-10-01T02:13:02Z",
+    "researchAreas": [
+      "Generative 3D occupancy mapping",
+      "Learned robot perception",
+      "Vision-language spatial grounding",
+      "Probabilistic robotics",
+      "Autonomous exploration"
+    ],
+    "fitReason": "Direct match to physically grounded 3D/embodied vision: diffusion geometry is integrated into an actual robot exploration stack, with complementary foundation-model belief calibration. A short CS project could address observed-versus-generated geometry, uncertainty or robust spatial semantics.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "SceneSense is integrated with GBPlanner on an actual Boston Dynamics Spot, with physical hallway traversal and exploration tests. The full journal article specifies off-board GPU inference, so this is not an entirely onboard edge system. Locally enhanced maps improve traversal; the frontier-based full-exploration variant sometimes fails. The paper was published December 29, 2025, despite its 2026 volume. A separate May 2026 belief-consistency paper evaluates KITTI-360/ScanNet with dataset poses; it is not a new closed-loop robot deployment.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current official profile, ARPG and personal homepage verify the host and contact but do not provide an explicit external visiting-student or summer invitation. Technical consulting availability and degree recruitment are not research-visit pathways.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "39/40: strong learned3D perception, generative mapping and uncertainty-aware embodied semantics.",
+      "physical": "25/25: specific current-institution physical Spot exploration experiments, with off-board computation and failure caveats.",
+      "shortVisit": "0/20: no current external short-visit invitation.",
+      "freshness": "15/15: substantive May 2026 semantic-mapping methods paper; physical SceneSense article remains explicitly 2025."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.colorado.edu / source 1",
+        "url": "https://www.colorado.edu/cs/christoffer-heckman",
+        "summary": "Full current department profile verifies rank, endowed fellowship, AI leadership role and public email.",
+        "verifiedAt": "2026-10-01T02:13:02Z"
+      },
+      {
+        "id": "s2",
+        "label": "arpg.colorado.edu / source 2",
+        "url": "https://arpg.colorado.edu/",
+        "summary": "Full university lab page identifies director, active generative geometry/spatial AI scope and lab contact; no explicit external visit invitation.",
+        "verifiedAt": "2026-10-01T02:13:02Z"
+      },
+      {
+        "id": "s3",
+        "label": "ristoffer.ch / source 3",
+        "url": "https://ristoffer.ch/",
+        "summary": "Current personal homepage confirms associate professorship and only a technical-consulting inquiry route.",
+        "verifiedAt": "2026-10-01T02:13:02Z"
+      },
+      {
+        "id": "s4",
+        "label": "link.springer.com / source 4",
+        "url": "https://link.springer.com/article/10.1007/s10514-025-10229-0",
+        "summary": "Full primary article sections7–9: physical Spot/GBPlanner evaluation, off-board GPU, failure cases; version of record December 29, 2025.",
+        "verifiedAt": "2026-10-01T02:13:02Z"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2606.00318v1",
+        "summary": "May 29, 2026 primary preprint, section5: foundation-model/geometric belief consistency evaluated on KITTI-360 and ScanNet with ground-truth dataset poses, no SLAM or new robot execution.",
+        "verifiedAt": "2026-10-01T02:13:02Z"
+      }
+    ],
+    "unknowns": [
+      "External-master’s appointment, roughly eight-week project, summer presence, funding and equipment access require confirmation.",
+      "Use the separately verified Colorado Boulder visitor-policy supplement; it does not establish lab capacity or remove project-specific research-access checks.",
+      "Real hardware is supported by the 2025 SceneSense study, not the 2026 dataset-only calibration evaluation.",
+      "Off-board inference and incomplete frontier-exploration results constrain deployment claims.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "christoffer.heckman@colorado.edu"
+  }
+]

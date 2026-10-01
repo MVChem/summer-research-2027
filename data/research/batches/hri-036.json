@@ -1,0 +1,113 @@
+[
+  {
+    "id": "md-jahidul-islam",
+    "name": "Md Jahidul Islam",
+    "aliases": [
+      "Jahidul Islam",
+      "Md. Jahidul Islam"
+    ],
+    "school": "University of Florida",
+    "homepage": "https://faculty.eng.ufl.edu/jahid/",
+    "title": "Yangbin Wang Rising Star Endowed Assistant Professor",
+    "department": "Electrical and Computer Engineering",
+    "batch": "hri-036",
+    "discoveredAt": "2026-10-01T02:04:30Z",
+    "verifiedAt": "2026-10-01T02:08:37Z",
+    "researchAreas": [
+      "Deep robot perception",
+      "Underwater visual navigation",
+      "Human–robot teleoperation",
+      "3D reconstruction and SLAM",
+      "Edge AI"
+    ],
+    "fitReason": "Strong CS-method overlap through learned semantic perception deployed on marine robots, plus geometric scene reconstruction for human teleoperation. A bounded project could study robust perception or operator interfaces rather than require designing new underwater hardware.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "CavePI (RSS 2025) runs MobileNetV3/DeepLabV3 segmentation on a Jetson Nano, feeding visual waypoints to a physical AUV controller in tank, spring and cave trials. Its dark-cave tests needed diver repositioning after perception failures; the navigation was not uniformly autonomous. EgoExo++ (IJRR 2026) adds geometry-based exocentric views using actual BlueROV2 cave imagery. Its 15-person real-data study is playback, while the second active-teleoperation study and performance gains are Gazebo simulation.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No explicit external short-visit invitation verified. The main RoboPI and education pages returned retrieval errors, so no visitor claim is inferred from indexed undergraduate outreach or historical internships. The official faculty site verifies the contact.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "38/40: direct deep visual robot perception, 3D scene understanding and HRI interface methods.",
+      "physical": "25/25: explicit deployed perception-to-control pipeline and current lab field activity, with failure/intervention caveats.",
+      "shortVisit": "0/20: no current external short-visit invitation verified.",
+      "freshness": "15/15: expanded 2026 IJRR study and dated March 2026 institutional deployment report; CavePI itself is2025."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "faculty.eng.ufl.edu / source 1",
+        "url": "https://faculty.eng.ufl.edu/jahid/",
+        "summary": "Full official profile verifies current ECE assistant professorship, RoboPI leadership, perception/AI research and public email.",
+        "verifiedAt": "2026-10-01T02:08:37Z"
+      },
+      {
+        "id": "s2",
+        "label": "ece.ufl.edu / source 2",
+        "url": "https://ece.ufl.edu/2026/03/09/ufs-robopi-lab-making-waves-with-marine-robots/",
+        "summary": "Dated March 2026 university article verifies endowed title and current field deployment activity.",
+        "verifiedAt": "2026-10-01T02:08:37Z"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2502.05384v2",
+        "summary": "Primary CavePI manuscript sections4–7: onboard learned segmentation, actual thruster commands, physical field trials, diver-assisted recovery and limitations.",
+        "verifiedAt": "2026-10-01T02:08:37Z"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2407.00848v7",
+        "summary": "Full May 2026 journal-version manuscript: actual BlueROV2 field imagery, geometric view synthesis, playback usability study and separate simulated active-teleoperation study.",
+        "verifiedAt": "2026-10-01T02:08:37Z"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/abs/2407.00848",
+        "summary": "Version history distinguishes 2024 initial work, 2025 version and expanded April/May 2026 IJRR version.",
+        "verifiedAt": "2026-10-01T02:08:37Z"
+      },
+      {
+        "id": "s6",
+        "label": "research.ufl.edu / source 6",
+        "url": "https://research.ufl.edu/services/risc/research-security/international-scholar-visit/international-scholar-visit-faqs",
+        "summary": "Current RISC FAQ excludes undergraduate/graduate students; scope must be reconciled with EVS shared checklist for an external Student Intern.",
+        "verifiedAt": "2026-10-01T02:08:37Z"
+      }
+    ],
+    "unknowns": [
+      "Host capacity, approximately eight-week project, summer presence and funding need confirmation.",
+      "Host and EVS must resolve the applicable UF review route: the shared visa checklist asks for RISC clearance, while the current RISC policy/FAQ exclude undergraduate and graduate students. Do not assume either an automatic ban or a blanket exemption.",
+      "Physical field access may require separate training and supervision; a visitor is not promised diving participation.",
+      "CavePI uses learned perception with classical control, not a foundation-model action policy. EgoExo++ is geometric vision, and its user-study performance gains must not be described as physical-robot trial outcomes.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "jahid@ece.ufl.edu"
+  }
+]

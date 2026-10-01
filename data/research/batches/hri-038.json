@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ken-nakagaki",
+    "name": "Ken Nakagaki",
+    "aliases": [],
+    "school": "University of Chicago",
+    "homepage": "https://www.axlab.cs.uchicago.edu/",
+    "title": "Assistant Professor of Computer Science",
+    "department": "Computer Science",
+    "batch": "hri-038",
+    "discoveredAt": "2026-10-01T02:11:44Z",
+    "verifiedAt": "2026-10-01T02:16:55Z",
+    "researchAreas": [
+      "Physically grounded human–AI interaction",
+      "LLM robot programming",
+      "Tangible swarm robots",
+      "Actuated interfaces",
+      "Creative human–robot collaboration"
+    ],
+    "fitReason": "Concrete LLM-to-physical-robot authoring and human evaluation fit a CS researcher interested in grounded collaboration. The emphasis is interactive systems and creative tabletop robotics, rather than general-purpose manipulation policy training.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Shape n’ Swarm (UIST 2025) uses five GPT-4o agents, speech input and custom control APIs to generate and execute motion scripts on physical toio tabletop robots. The paper details Bluetooth bridges, live position feedback and an 11-person study. Robot collisions and script/interpretation failures remain limitations. The 2026 penPal project adds a tendon-driven continuum drawing tool and 10-person co-creation study; it is physical HRI, without an asserted learned policy.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only · NDVS资金与类别待确认",
+      "summary": "The live AxLab Contact & Apply page explicitly lists Non-Degree Visiting Students enrolled in another graduate or undergraduate program and asks applicants to email a portfolio, CV and intention to axlab_apply@lists.uchicago.edu. It also points to summer programs, whose separate eligibility limits must not be generalized. No 2027 visitor date, eight-week agreement or funding offer is promised.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 25,
+      "shortVisit": 8,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "37/40: direct physically grounded LLM authoring/HRI; primarily creative tangible interaction rather than general robot learning.",
+      "physical": "25/25: actual LLM-generated tabletop robot motion plus current 2026 physical co-creation system.",
+      "shortVisit": "8/20: current explicit external graduate non-degree visitor inquiry; duration, funding and2027 capacity unconfirmed.",
+      "freshness": "15/15: dated2026 physical project/publication details and a current intake page; principal LLM robot paper is explicitly 2025."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.computerscience.uchicago.edu / source 1",
+        "url": "https://www.computerscience.uchicago.edu/people/ken-nakagaki/",
+        "summary": "Full current official profile verifies CS assistant professorship, AxLab and public email.",
+        "verifiedAt": "2026-10-01T02:16:55Z"
+      },
+      {
+        "id": "s2",
+        "label": "www.axlab.cs.uchicago.edu / source 2",
+        "url": "https://www.axlab.cs.uchicago.edu/contact",
+        "summary": "Current page mentions Fall2027 PhD status and separately lists outside-institution graduate/undergraduate non-degree visitors with portfolio/CV/email instructions.",
+        "verifiedAt": "2026-10-01T02:16:55Z"
+      },
+      {
+        "id": "s3",
+        "label": "www.axlab.cs.uchicago.edu / source 3",
+        "url": "https://www.axlab.cs.uchicago.edu/_files/ugd/bef049_918c3cd47a5149a8bf42ab5bd960742e.pdf",
+        "summary": "Full UIST2025 primary manuscript, sections4–7: five GPT-4o agents, real toio execution and live positioning, user study and unresolved collision prevention. Downloaded/read directly after web-PDF fetch failed.",
+        "verifiedAt": "2026-10-01T02:16:55Z"
+      },
+      {
+        "id": "s4",
+        "label": "www.axlab.cs.uchicago.edu / source 4",
+        "url": "https://www.axlab.cs.uchicago.edu/projects/shape-n'-swarm",
+        "summary": "Lab project corroborates tabletop robots, generative authoring and UIST2025.",
+        "verifiedAt": "2026-10-01T02:16:55Z"
+      },
+      {
+        "id": "s5",
+        "label": "www.axlab.cs.uchicago.edu / source 5",
+        "url": "https://www.axlab.cs.uchicago.edu/projects/penpal",
+        "summary": "Current2026 project report specifies tendon-driven continuum robot, CHI2026 publication and10-person study; no AI-policy claim.",
+        "verifiedAt": "2026-10-01T02:16:55Z"
+      },
+      {
+        "id": "s6",
+        "label": "datascience.uchicago.edu / source 6",
+        "url": "https://datascience.uchicago.edu/education/summerlab/",
+        "summary": "Live program is undergraduate/high-school scoped;2026 concluded and2027 application not yet posted.",
+        "verifiedAt": "2026-10-01T02:16:55Z"
+      },
+      {
+        "id": "s7",
+        "label": "cs.uchicago.edu / source 7",
+        "url": "https://cs.uchicago.edu/academics/undergraduate/summer-research/student-summer-research-fellowship-program/",
+        "summary": "Full2026 eight-week program page: partner universities only, occasional master’s eligibility, and no work/pay during program.",
+        "verifiedAt": "2026-10-01T02:16:55Z"
+      }
+    ],
+    "unknowns": [
+      "General visitor inquiry is explicit, but host acceptance, approximately eight weeks, summer presence, appointment, funding and fees need confirmation.",
+      "DSI Summer Lab is undergraduate/high-school scoped. CS Summer Research Fellowship allows master’s students only occasionally and from partner universities; it is not an open international-master’s pathway.",
+      "The current contact page does not promise lab funding or certify entirely personal financial support; confirm the permitted arrangement with the host and university.",
+      "Use the existing UChicago PSD NDVS policy supplement: quarterly fees and the unresolved fully personal J-1 funding/category distinction apply.",
+      "The system authors physical robot motions using LLM code generation; it is not evidence of general-purpose learned grasping or safety-certified swarm autonomy.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Public visitor-intake address: axlab_apply@lists.uchicago.edu. No email has been sent."
+    ],
+    "publicEmail": "knakagaki@uchicago.edu",
+    "publicRecruitingEmail": "axlab_apply@lists.uchicago.edu"
+  }
+]

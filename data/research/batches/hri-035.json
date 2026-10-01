@@ -1,0 +1,95 @@
+[
+  {
+    "id": "vineet-r-kamat",
+    "name": "Vineet R. Kamat",
+    "aliases": [
+      "Vineet Kamat"
+    ],
+    "school": "University of Michigan, Ann Arbor",
+    "homepage": "https://live.engin.umich.edu/",
+    "title": "John L. Tishman Family Professor of Construction Management and Sustainability",
+    "department": "Civil and Environmental Engineering",
+    "batch": "hri-035",
+    "discoveredAt": "2026-10-01T01:42:57Z",
+    "verifiedAt": "2026-10-01T01:49:17Z",
+    "researchAreas": [
+      "Assistive mobile robots",
+      "Vision-language object search",
+      "Planning under partial observability",
+      "Human–robot shared control",
+      "Construction robotics"
+    ],
+    "fitReason": "Concrete embodied AI and physically grounded human collaboration: foundation-model semantic search plus belief-space navigation, complemented by actual shared-control manipulation. A focused perception/planning project can use CS methods without requiring a construction-only background.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "OpenGuide (September 2025) uses an actual TurtleBot 2-based GuideBot with ZED RGB-D, language/vision models and POMDP/POUCT-based search in an apartment and office: 48 physical trials, 26 end-to-end search successes. It finds/localizes objects; grasping and carrying them were not demonstrated. KUKAloha (March 2026) additionally evaluates actual 6-DoF KUKA shared-control pickup with human coarse positioning and AprilTag-based autonomous fine alignment. Its learned-policy extension is future work, not the current control method.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current university faculty and LIVE lab pages verify the host and public contact, but no explicit external visiting-student or short summer invitation was found. Grants and a master’s-mentoring award are not a visiting position.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "38/40: strong semantic robot perception, uncertainty-aware planning and assistive/shared-control overlap.",
+      "physical": "25/25: specific real mobile search and 2026 industrial-arm execution at current institution.",
+      "shortVisit": "0/20: no explicit external short-visit pathway verified.",
+      "freshness": "15/15: substantive March 2026 physical HRI/manipulation study, with separate 2025 VLM navigation evidence."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "cee.engin.umich.edu / source 1",
+        "url": "https://cee.engin.umich.edu/people/kamat-vineet-r/",
+        "summary": "Current official department profile verifies endowed professorship and research affiliation.",
+        "verifiedAt": "2026-10-01T01:49:17Z"
+      },
+      {
+        "id": "s2",
+        "label": "live.engin.umich.edu / source 2",
+        "url": "https://live.engin.umich.edu/",
+        "summary": "Current university lab homepage verifies director, public email and research scope; no specific external short-visit invitation.",
+        "verifiedAt": "2026-10-01T01:49:17Z"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2509.02425v1",
+        "summary": "Full primary manuscript §§4.1–4.5 verifies GuideBot/TurtleBot 2, 48 physical search trials, model-based/VLM pipeline and documented failures; no physical picking/carrying test.",
+        "verifiedAt": "2026-10-01T01:49:17Z"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2603.20129v1",
+        "summary": "Full March 2026 paper §§3–4 verifies KUKA shared control and pickup study; learning-based control is explicitly future work.",
+        "verifiedAt": "2026-10-01T01:49:17Z"
+      }
+    ],
+    "unknowns": [
+      "External-master’s appointment, approximately eight-week project, faculty capacity, summer presence, funding and access require confirmation.",
+      "OpenGuide is a physical object-search study; its title does not establish manipulation/retrieval or evaluation with blind participants.",
+      "KUKAloha is teleoperation plus fiducial-based alignment; do not call it an end-to-end learned manipulation policy.",
+      "The current endowed title is verified as of the research date, not promised for summer 2027.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Institutional appointment and category requirements: [Michigan visitor notes](../eligibility_notes.md#michigan-ann-arbor)."
+    ],
+    "publicEmail": "vkamat@umich.edu"
+  }
+]

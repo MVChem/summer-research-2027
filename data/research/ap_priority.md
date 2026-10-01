@@ -8,10 +8,11 @@
 
 工作排序暂以 **2024年起**作为约近两三年的范围，并单列2027暑期前已公告入职者；这是可调整的整理约定，不是年龄判断、用户硬性年限或接收概率。各层内部先按研究匹配，再按真机证据及原总分。原四项分数和发现时间均未改写。
 
-## 近期已到岗 AP（2024起）（36）
+## 近期已到岗 AP（2024起）（37）
 
 | 导师 / 学校 | 准确任职与入职证据 | 原分数：匹配/真机/访问/新鲜 | 访问与时点提醒 |
 |---|---|---|---|
+| [Mingyu Ding](batches/embodied-002.md#mingyu-ding) · University of North Carolina at Chapel Hill | Assistant Professor；**2024（官方新教师公告；未推断具体月日）** [核查来源1](https://cs.unc.edu/news-article/unc-cs-announces-new-chair-7-new-faculty-additions/) [核查来源2](https://cs.unc.edu/person/mingyu-ding/) | 90（40/25/10/15） | **2024新AP；完整表单有外校Masters及现场/远程兴趣，先填表再邮件；旧will-be-joining标题仍在，时长/资金/2027容量未知；VICON/固定物体位姿限制保留**；inquiry-only · 硕士/外校/现场或远程；先表单后邮件 |
 | [Mike Hagenow](batches/hri-028.md#mike-hagenow) · University of Wisconsin–Madison | Assistant Professor；**2025** [核查来源1](https://www.cs.wisc.edu/2025/09/17/welcome-new-faculty-member-mike-hagenow/) | 84（39/25/5/15） | **不主动招访客，仅强匹配的特别询问；本科一年投入不适用于所有访客；外校硕士和2027容量待核**；restricted-inquiry · 不主动招访客，仅特殊匹配询问 |
 | [Joseph A. Campbell](batches/hri-099.md#joseph-a-campbell) · Purdue University | Assistant Professor of Computer Science; CAMP Lab Director；**2024** [核查来源1](https://www.cs.purdue.edu/people/faculty/joecamp.html) [核查来源2](https://www.cs.purdue.edu/news/articles/2024/14-new-faculty-members-join-purdue-computer-science.html) | 79（39/25/0/15） | **2024秋新AP；FR3真实Lift为8/10，其余多任务基准仿真；已公布BS/MS入口仅限Purdue本校，访问学者先例不等于邀请**；degree-only · 已公布BS/MS通道要求Purdue在读 |
 | [Rohan R. Paleja](batches/embodied-096.md#rohan-r-paleja) · Purdue University | Assistant Professor；**2025秋（官方）；8月（本人CV）** [核查来源1](https://www.cs.purdue.edu/people/faculty/rpaleja.html) [核查来源2](https://www.cs.purdue.edu/news/articles/2025/17-new-faculty-members-join-purdue-cs.html) [核查来源3](https://www.rohanpaleja.com/vitae.pdf) | 76（39/22/0/15） | **当前MobileALOHA仅限色块接近与温和特征干预；已公布MS/UG入口仅限Purdue本校，不推断所有访客禁令；受限真机证据：limited-current-hardware-demonstration**；unknown |
@@ -66,7 +67,7 @@
 | [Chenfeng Xu](batches/embodied-003.md#chenfeng-xu) · The University of Texas at Austin | Assistant Professor (faculty directory also uses incoming in biography)；**任职起始时间尚未单独核实**  | 73（39/20/0/14） | **时长、2027容量、经费与主办批准另核**；unknown |
 | [Karthik Mahadevan](batches/hri-003.md#karthik-mahadevan) · Massachusetts Institute of Technology (current postdoc); University of Texas at Austin (incoming Spring 2027) | Incoming Assistant Professor; current MIT postdoctoral researcher；**任职起始时间尚未单独核实**  | 73（38/20/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |
 
-## 其他 AP；较早任职、转校或入职年待核（191）
+## 其他 AP；较早任职、转校或入职年待核（190）
 
 | 导师 / 学校 | 准确任职与入职证据 | 原分数：匹配/真机/访问/新鲜 | 访问与时点提醒 |
 |---|---|---|---|
@@ -74,7 +75,6 @@
 | [Yue Wang](batches/embodied-001.md#yue-wang) · University of Southern California | Assistant Professor；**任职起始时间尚未单独核实**  | 88（40/25/8/15） | **时长、2027容量、经费与主办批准另核**；inquiry-only |
 | [Kuan Fang](batches/embodied-023.md#kuan-fang) · Cornell University | Assistant Professor；**任职起始时间尚未单独核实**  | 88（40/25/8/15） | **时长、2027容量、经费与主办批准另核**；inquiry-only |
 | [Jaime Fernández Fisac](batches/control-001.md#jaime-fernandez-fisac) · Princeton University | Assistant Professor；**任职起始时间尚未单独核实**  | 80（40/25/0/15） | **时长、2027容量、经费与主办批准另核**；precedent-only |
-| [Mingyu Ding](batches/embodied-002.md#mingyu-ding) · University of North Carolina at Chapel Hill | Assistant Professor；**任职起始时间尚未单独核实**  | 80（40/25/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |
 | [Wenzhen Yuan](batches/embodied-004.md#wenzhen-yuan) · University of Illinois Urbana-Champaign | Assistant Professor；**任职起始时间尚未单独核实**  | 80（40/25/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |
 | [Ismini Lourentzou](batches/embodied-004.md#ismini-lourentzou) · University of Illinois Urbana-Champaign | Assistant Professor；**任职起始时间尚未单独核实**  | 80（40/25/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |
 | [Ryan K. Cosner](batches/control-016.md#ryan-k-cosner) · Tufts University | Glenn R. Stevens Assistant Professor；**任职起始时间尚未单独核实**  | 80（40/25/0/15） | **时长、2027容量、经费与主办批准另核**；unknown |
@@ -383,3 +383,5 @@
 - Yan Zeng：[来源](https://www.vanderbilt.edu/faculty-affairs/2026-new-faculty/) · Full official2026 cohort lists Yan Zeng as Mechanical Engineering Assistant Professor.（核查 2026-10-01T12:45:34Z）
 - Yan Zeng：[来源](https://www.vanderbilt.edu/vinse/personnel/?bio=yan+zeng) · Full current official role, email, autonomous robotic experimentation and2026 research listing.（核查 2026-10-01T12:45:34Z）
 - Yan Zeng：[来源](https://www.yan-zeng.com/team) · Full current academic history: Vanderbilt2026, FSU2024–2026; graduate/master advising is not outside-visitor evidence.（核查 2026-10-01T12:45:34Z）
+- Mingyu Ding：[来源](https://cs.unc.edu/news-article/unc-cs-announces-new-chair-7-new-faculty-additions/) · Dated official 2024 cohort announces Mingyu Ding among Assistant Professors; current role independently confirmed.（核查 2026-10-01T13:36:55Z）
+- Mingyu Ding：[来源](https://cs.unc.edu/person/mingyu-ding/) · Current official Assistant Professor of Computer Science profile.（核查 2026-10-01T13:36:55Z）

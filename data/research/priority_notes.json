@@ -1429,6 +1429,35 @@
           "evidence": "Full current academic history: Vanderbilt2026, FSU2024–2026; graduate/master advising is not outside-visitor evidence."
         }
       ]
+    },
+    "mingyu-ding": {
+      "appointmentStart": {
+        "year": 2024,
+        "precision": "year",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "h1",
+          "h2"
+        ],
+        "evidence": "Official August 7, 2024 new-faculty announcement places Ding among the new Assistant Professors and says he was a Berkeley postdoc before joining UNC. Use year precision: the story date is not an exact appointment day."
+      },
+      "display": "2024（官方新教师公告；未推断具体月日）",
+      "caveat": "2024新AP；完整表单有外校Masters及现场/远程兴趣，先填表再邮件；旧will-be-joining标题仍在，时长/资金/2027容量未知；VICON/固定物体位姿限制保留",
+      "sources": [
+        {
+          "id": "h1",
+          "url": "https://cs.unc.edu/news-article/unc-cs-announces-new-chair-7-new-faculty-additions/",
+          "observedAt": "2026-10-01T13:36:55Z",
+          "evidence": "Dated official 2024 cohort announces Mingyu Ding among Assistant Professors; current role independently confirmed."
+        },
+        {
+          "id": "h2",
+          "url": "https://cs.unc.edu/person/mingyu-ding/",
+          "observedAt": "2026-10-01T13:36:55Z",
+          "evidence": "Current official Assistant Professor of Computer Science profile."
+        }
+      ]
     }
   },
   "constraints": [

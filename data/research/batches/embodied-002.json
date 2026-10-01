@@ -9,7 +9,7 @@
     "department": "Computer Science",
     "batch": "embodied-002",
     "discoveredAt": "2026-09-30T21:32:25Z",
-    "verifiedAt": "2026-09-30T21:46:12Z",
+    "verifiedAt": "2026-10-01T13:44:20Z",
     "researchAreas": [
       "Dexterous manipulation",
       "Vision-language-action models",
@@ -20,28 +20,32 @@
     "fitReason": "IDEAL is a full-stack robot-learning lab. OHRA (RSS 2026) studies cross-hand policy representations, and Current as Touch learns compliant contact feedback from proprioception.",
     "physicalEvidence": {
       "status": "public-hardware-evidence",
-      "summary": "OHRA provides actual grasp trials on multiple LEAP hand configurations; Current as Touch demonstrates cup stacking, wiping, card retrieval and dynamic holding with dexterous hands.",
+      "summary": "Full OHRA methods execute learned grasp synthesis on Franka FR3 with LEAP variants and L515 depth; each of two zero-shot real-hand variants succeeds in71/100 trials. The headline81.9% and in-hand PPO reorientation concern simulation. Full Current-as-Touch executes learned motor-current-conditioned compliance on FR3/LEAP and G1/Dex3: cup stacking/wiping use learned assistance during human teleoperation; card picking and dynamic bottle holding use autonomous learned policies. Card pose relies on VICON at training/inference and bottle holding on a fixed precomputed pose. All-UNC papers plus the current IDEAL roster establish current directed work, including equal Ding/Szafir advising; visitor apparatus access is still unconfirmed.",
       "sourceIds": [
-        "s2",
-        "s4",
-        "s5"
+        "s8",
+        "s9",
+        "s10",
+        "s11"
       ]
     },
     "shortVisit": {
-      "status": "unknown",
-      "summary": "External short-visit recruitment is unverified. The UNC lab join page could not be retrieved during review; no current opening or eligibility is inferred.",
-      "sourceIds": []
+      "status": "inquiry-only · 硕士/外校/现场或远程；先表单后邮件",
+      "summary": "The currently linked complete IDEAL form independently includes current Masters status, arbitrary home institution, interns/visiting students, Summer start, duration and in-person/remote interest. The live join page lists a rolling visitor/intern route distinct from current UNC students. Complete the form before emailing; relevant STEM background and a bachelor’s degree or higher are expected. The old future-tense appointment introduction remains, and duration, funding, individual eligibility and summer2027 capacity are not guaranteed.",
+      "sourceIds": [
+        "s6",
+        "s7"
+      ]
     },
     "scores": {
       "fit": 40,
       "physical": 25,
-      "shortVisit": 0,
+      "shortVisit": 10,
       "freshness": 15
     },
     "scoreReasons": {
       "fit": "Exact dexterous learning/VLA/physical intelligence match.",
-      "physical": "Named hand hardware and multiple physical manipulation tasks.",
-      "shortVisit": "No reproducible current visitor invitation was verified: the UNC lab join page could not be retrieved and no matching current indexed result was found.",
+      "physical": "Full primary hardware methods plus independently linked current UNC PhD authors and explicit equal-advising evidence support current directed-group25. Teleoperation, autonomous-policy tasks, simulator results and object-pose dependencies are separated.",
+      "shortVisit": "Previously0 because source retrieval failed. Newly reproducible complete join page and outside-master-compatible visitor form establish inquiry-level10. This is current evidence recovery, not acceptance or a duration/funding promise.",
       "freshness": "2026 university-hosted lab and current primary projects."
     },
     "sources": [
@@ -65,13 +69,80 @@
         "url": "https://cat.chenyangma.com/",
         "summary": "Real contact-rich dexterous manipulation and learned feedback.",
         "verifiedAt": "2026-09-30T21:36:36Z"
+      },
+      {
+        "id": "s6",
+        "label": "ideal.cs.unc.edu / later verification 6",
+        "url": "https://ideal.cs.unc.edu/join.html",
+        "summary": "Complete public HTML successfully read; rolling interns and visiting students are listed separately from UNC master’s/undergraduates. Later cloud-browser corroboration at13:39:09Z.",
+        "verifiedAt": "2026-10-01T13:37:12Z",
+        "retrieval": "complete-public-HTTPS-HTML; later live browser"
+      },
+      {
+        "id": "s7",
+        "label": "docs.google.com / later verification 7",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfk4MocjDLd3yfgn5xWOqO_bh9Jt_3GgIB8TtMXKVPnARZbGA/viewform?usp=send_form",
+        "summary": "Entire public form read in cloud browser. Distinct interns/visiting category, current Masters student option, arbitrary current institution, Summer/start-date field and visit-duration field; introduction expressly allows in-person or remote interns. No fields, checkboxes, uploads or submission entered. Independently read in full again: form first, then email; expected bachelor’s degree or higher and relevant STEM background. No minimum duration or funding guarantee is stated. The future-tense joining header is legacy wording retained in a currently linked form.",
+        "verifiedAt": "2026-10-01T13:44:20Z",
+        "retrieval": "complete-live-cloud-browser-form"
+      },
+      {
+        "id": "s8",
+        "label": "arxiv.org / later verification 8",
+        "url": "https://arxiv.org/html/2602.16712v2",
+        "summary": "May15,2026 v2, §IV-C and V-E/TableVI: diffusion wrist-translation generator plus MLP joint prediction; real FR3, LEAP hand variants and L515, ten objects with ten trials each per listed configuration. All three authors list UNC. The zero-shot physical variants each record71/100; no abstract metric substituted.",
+        "verifiedAt": "2026-10-01T13:43:55Z",
+        "retrieval": "complete-primary-paper-HTML"
+      },
+      {
+        "id": "s9",
+        "label": "arxiv.org / later verification 9",
+        "url": "https://arxiv.org/html/2607.03529v1",
+        "summary": "July3,2026 preprint, §4.1–4.3/App.A: learned current-conditioned compliance references feed position-control/PD commands on FR3+LEAP and G1+Dex3. Autonomous card task150 demos/52trials; bottle100demos/12trials per load. Separate cup/wiping tasks use human teleoperation. VICON/fixed object pose limitations explicit.",
+        "verifiedAt": "2026-10-01T13:43:55Z",
+        "retrieval": "complete-primary-paper-HTML"
+      },
+      {
+        "id": "s10",
+        "label": "ideal.cs.unc.edu / later verification 10",
+        "url": "https://ideal.cs.unc.edu/people.html",
+        "summary": "Official lab roster names Mingyu Ding lab director and PhD students Zhenyu Wei, Yunchao Yao and Chenyang Ma; Ma is co-advised with Daniel Szafir. Saved public HTML/text corroborates current advising.",
+        "verifiedAt": "2026-10-01T13:43:55Z",
+        "retrieval": "complete-public-HTTPS-HTML"
+      },
+      {
+        "id": "s11",
+        "label": "dingmyu.github.io / later verification 11",
+        "url": "https://dingmyu.github.io/",
+        "summary": "Current PI homepage independently lists Wei/Yao as2025 PhD entrants and Ma as co-advised PhD; highlights both OHRA and Current-as-Touch.",
+        "verifiedAt": "2026-10-01T13:43:35Z",
+        "retrieval": "complete-primary-page"
+      },
+      {
+        "id": "s12",
+        "label": "cs.unc.edu / later verification 12",
+        "url": "https://cs.unc.edu/news-article/unc-cs-announces-new-chair-7-new-faculty-additions/",
+        "summary": "Dated official 2024 cohort announces Mingyu Ding among Assistant Professors; current role independently confirmed.",
+        "verifiedAt": "2026-10-01T13:36:55Z",
+        "retrieval": "complete-primary-page"
+      },
+      {
+        "id": "s13",
+        "label": "cs.unc.edu / later verification 13",
+        "url": "https://cs.unc.edu/person/mingyu-ding/",
+        "summary": "Current official Assistant Professor of Computer Science profile.",
+        "verifiedAt": "2026-10-01T13:36:55Z",
+        "retrieval": "complete-primary-page"
       }
     ],
     "unknowns": [
-      "No duration, summer-2027 vacancy, funding or international visitor eligibility is specified. Linear algebra, probability and Python are expected; ROS/PyTorch/simulator/hardware experience is helpful.",
-      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
-      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
-      "UNC lab root/join pages were inaccessible during review (https://ideal.cs.unc.edu/join.html); earlier provisional visitor wording could not be reproduced and is not counted as evidence."
+      "The form requires completion before email and relevant STEM/bachelor-level preparation. No application, upload, selection or email was performed. The current page links a form retaining legacy future-joining prose; intake capacity must be confirmed.",
+      "No minimum duration, summer2027 placement, funding guarantee or approval of fully personal funding is stated. Onsite/remote interest choices are inquiry options, not project approval.",
+      "OHRA physical results are separate from simulated reorientation/headline metrics. Current-as-Touch teleoperation assistance is separate from autonomous card/bottle policy tests; VICON or fixed object-pose information limits generalization.",
+      "The papers and current roster establish directed UNC research, not exclusive apparatus ownership or guaranteed access for a new visitor.",
+      "Earlier published review recorded failure to retrieve the join page; this later successful page/form verification replaces the unknown-route assessment. Old source observation times and original discovery remain preserved.",
+      "UNC institutional evidence is reused from2026-09-30T23:36:23Z: current academic appointment for an external enrolled master, funding-source approval and2027 costs remain unresolved. The saved current support figure differs from an old funding PDF; do not infer personal-only eligibility from the form.",
+      "[Institutional visitor rules](../eligibility_notes.md#unc-chapel-hill)"
     ],
     "publicEmail": "md@cs.unc.edu"
   },

@@ -2,14 +2,15 @@
 
 [新AP优先视图](ap_priority.md) · [全部候选偏好排序](ranked_candidates.md) · [原名单AP后续核查](baseline_ap.md) · [原始索引](mentor_candidates.json) · [机构规则](eligibility_notes.md) · [原200位后续补充](baseline_addenda.md)
 
-从现有记录筛出 **111 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。
+从现有记录筛出 **112 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。
 
 本页各类入口内按已核实任职与限制分层：新AP优先，明确长时段偏好/最低期限靠后；同层按研究匹配、真机、短访、新鲜度及发现时间。约八周不是硬筛选；不把一般询问、学校制度或个人自费能力当成已获资格。所有人的主办类别、具体时长、2027容量、经费和设备访问都需确认。具体奖学金要求、无资助、时间不匹配、任职时点及证据限制优先看下列加粗提示，再读完整资料。
 
-## 访问/短期研究问询线索（现场安排仍须确认） · 101 条
+## 访问/短期研究问询线索（现场安排仍须确认） · 102 条
 
 | 导师 / 机构 | 匹配 / 真机 / 短访 | 已知限制与证据状态 | 直接来源 / 机构规则 | 记录核查 UTC |
 |---|---|---|---|---|
+| [Mingyu Ding](batches/embodied-002.md#mingyu-ding) · University of North Carolina at Chapel Hill | 40/25/10 | **2024新AP；完整表单有外校Masters及现场/远程兴趣，先填表再邮件；旧will-be-joining标题仍在，时长/资金/2027容量未知；VICON/固定物体位姿限制保留** | [s6](https://ideal.cs.unc.edu/join.html) [s7](https://docs.google.com/forms/d/e/1FAIpQLSfk4MocjDLd3yfgn5xWOqO_bh9Jt_3GgIB8TtMXKVPnARZbGA/viewform?usp=send_form) [s8](https://arxiv.org/html/2602.16712v2) [s9](https://arxiv.org/html/2607.03529v1) [规则](eligibility_notes.md#unc-chapel-hill) | 2026-10-01T13:44:20Z |
 | [Mike Hagenow](batches/hri-028.md#mike-hagenow) · University of Wisconsin–Madison | 39/25/5 | **不主动招访客；只允许特殊匹配询问** | [s3](https://wisc-rt2.github.io/joinus/) | 2026-10-01T01:18:40Z |
 | [Jiatao Gu](batches/embodied-093.md#jiatao-gu) · University of Pennsylvania | 39/20/8 | **官方2025-07-01任职；访客表单仍有旧施工说明，未列硕士/时长/经费；共享真机49步开环，不保证本组设备访问** | [s1](https://archives.upenn.edu/wp-content/uploads/2025/09/20250228tr.pdf) [s3](https://jiataogu.me/) [s4](https://jiataogu.me/team/) [s5](https://docs.google.com/forms/d/e/1FAIpQLSc4bpBa2m0m3wFse8n8cL1_ClEWL5KVONW8SwrywUa63725aQ/viewform?usp=send_form) [s6](https://arxiv.org/html/2606.03943v1) [规则](eligibility_notes.md#penn) | 2026-10-01T12:30:15Z |
 | [Jun Gao](batches/embodied-094.md#jun-gao) · University of Michigan–Ann Arbor | 39/20/8 | **官方2026-01与本人CV2025-08入职冲突；独立访客邀请在大学托管页面，硕士/时长/经费未知；Franka为合作平台** | [s1](https://midas.umich.edu/directory/jun-gao/) [s2](https://news.engin.umich.edu/2025/08/strengthening-research-and-education-with-new-michigan-engineering-faculty-hires/) [s3](https://j-lab.ai/pdf/jungao_cv.pdf) [s4](https://www.cs.toronto.edu/~jungao/students.html) [s5](https://arxiv.org/html/2606.02551v1) [s6](https://www.zhaoningwang.com/AFUN/) [规则](eligibility_notes.md#michigan-ann-arbor) | 2026-10-01T12:39:50Z |

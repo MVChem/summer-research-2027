@@ -6153,11 +6153,11 @@
       "homepage": "https://dingmyu.github.io/",
       "batch": "embodied-002",
       "discoveredAt": "2026-09-30T21:32:25Z",
-      "verifiedAt": "2026-09-30T21:46:12Z",
+      "verifiedAt": "2026-10-01T13:44:20Z",
       "scores": {
         "fit": 40,
         "physical": 25,
-        "shortVisit": 0,
+        "shortVisit": 10,
         "freshness": 15
       },
       "researchAreas": [
@@ -6167,7 +6167,7 @@
         "Sim-to-real",
         "Robot world models"
       ],
-      "shortVisitStatus": "unknown",
+      "shortVisitStatus": "inquiry-only · 硕士/外校/现场或远程；先表单后邮件",
       "recordFile": "batches/embodied-002.json",
       "detailPage": "batches/embodied-002.md#mingyu-ding"
     },

@@ -64,6 +64,7 @@
     "batches/embodied-025.json",
     "batches/embodied-026.json",
     "batches/embodied-027.json",
+    "batches/embodied-028.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -4916,6 +4917,33 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-027.json",
       "detailPage": "batches/embodied-027.md#ruoshi-liu"
+    },
+    {
+      "id": "huan-zhang",
+      "name": "Huan Zhang",
+      "aliases": [],
+      "school": "University of Illinois Urbana-Champaign",
+      "title": "Assistant Professor",
+      "homepage": "https://www.huan-zhang.com/index.html",
+      "batch": "embodied-028",
+      "discoveredAt": "2026-10-01T00:54:14Z",
+      "verifiedAt": "2026-10-01T00:56:48Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Trustworthy embodied AI",
+        "Robot world models",
+        "Certified neural control",
+        "Vision-language-guided manipulation",
+        "Robust policy evaluation"
+      ],
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/embodied-028.json",
+      "detailPage": "batches/embodied-028.md#huan-zhang"
     },
     {
       "id": "henny-admoni",

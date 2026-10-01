@@ -104,6 +104,7 @@
     "batches/control-093.json",
     "batches/control-095.json",
     "batches/control-106.json",
+    "batches/control-107.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -5496,6 +5497,38 @@
       "shortVisitStatus": "inquiry-only · 最低3–6个月；降低短期优先级",
       "recordFile": "batches/control-106.json",
       "detailPage": "batches/control-106.md#xiaofan-yu"
+    },
+    {
+      "id": "mingyo-seo",
+      "name": "Mingyo Seo",
+      "aliases": [
+        "Seo Mingyo",
+        "서민교",
+        "徐民教"
+      ],
+      "school": "University of Central Florida",
+      "title": "Assistant Professor (joined fall 2026)",
+      "homepage": "https://www.cecs.ucf.edu/faculty/mingyo-seo/",
+      "batch": "control-107",
+      "discoveredAt": "2026-10-01T12:10:19Z",
+      "verifiedAt": "2026-10-01T12:11:43Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 13
+      },
+      "researchAreas": [
+        "Cross-embodiment imitation learning",
+        "Humanoid manipulation",
+        "Embodiment-aware skill transfer",
+        "Robot learning and whole-body control"
+      ],
+      "physicalEvidenceStatus": "Verified prior-UT-Austin learned Panda/GR1 execution; physical20 cap; current UCF hardware unknown",
+      "physicalEvidenceLabel": "受限真机证据：Verified prior-UT-Austin learned Panda/GR1 execution; physical20 cap; current UCF hardware unknown",
+      "shortVisitStatus": "unknown · 无明确邀请或拒绝；时长未知",
+      "recordFile": "batches/control-107.json",
+      "detailPage": "batches/control-107.md#mingyo-seo"
     },
     {
       "id": "tom-silver",

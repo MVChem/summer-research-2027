@@ -290,6 +290,28 @@
           "evidence": "Official lab news specifies July 2025 arrival, June 2026 IROS acceptance and active agricultural robot/embedded-AI projects."
         }
       ]
+    },
+    "mingyo-seo": {
+      "appointmentStart": {
+        "year": 2026,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "s2"
+        ],
+        "evidence": "Official August24,2026 announcement says new faculty joined for the fall2026 semester; exact contractual start day/month not supplied.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2026秋（官方新教师公告；具体日未定）",
+      "caveat": "当前校园设备、2027容量、访客条件仍待确认；未声明首次faculty任职",
+      "sources": [
+        {
+          "id": "s2",
+          "url": "https://www.ece.ucf.edu/two-faculty-join-ece-department-for-fall-2026/",
+          "observedAt": "2026-10-01T12:11:43Z",
+          "evidence": "August 24, 2026 university announcement explicitly identifies Seo as new Assistant Professor joining for fall2026."
+        }
+      ]
     }
   },
   "constraints": [

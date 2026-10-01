@@ -52,6 +52,7 @@
     "batches/embodied-019.json",
     "batches/embodied-020.json",
     "batches/embodied-021.json",
+    "batches/embodied-022.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -4467,6 +4468,86 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-021.json",
       "detailPage": "batches/embodied-021.md#prashant-doshi"
+    },
+    {
+      "id": "zhengzhong-tu",
+      "name": "Zhengzhong Tu",
+      "aliases": [],
+      "school": "Texas A&M University",
+      "title": "Assistant Professor",
+      "homepage": "https://taco-group.github.io/",
+      "batch": "embodied-022",
+      "discoveredAt": "2026-09-30T23:50:26Z",
+      "verifiedAt": "2026-09-30T23:58:03Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 7,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Vision-language navigation",
+        "Robust embodied AI",
+        "Multimodal foundation models",
+        "Perception-policy robustness"
+      ],
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/embodied-022.json",
+      "detailPage": "batches/embodied-022.md#zhengzhong-tu"
+    },
+    {
+      "id": "haozhi-qi",
+      "name": "Haozhi Qi",
+      "aliases": [],
+      "school": "University of Chicago (incoming January 2027)",
+      "title": "Incoming Assistant Professor, starting January 2027; currently Member of Technical Staff at Amazon FAR",
+      "homepage": "https://haozhi.io/",
+      "batch": "embodied-022",
+      "discoveredAt": "2026-09-30T23:51:05Z",
+      "verifiedAt": "2026-09-30T23:58:03Z",
+      "scores": {
+        "fit": 40,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Dexterous robot learning",
+        "Learning from human demonstrations",
+        "Multisensory manipulation",
+        "Sim-to-real reinforcement learning",
+        "Force-aware imitation learning"
+      ],
+      "shortVisitStatus": "unknown · 2027年1月入职，实验室待确认",
+      "recordFile": "batches/embodied-022.json",
+      "detailPage": "batches/embodied-022.md#haozhi-qi"
+    },
+    {
+      "id": "preston-culbertson",
+      "name": "Preston Culbertson",
+      "aliases": [],
+      "school": "Cornell University",
+      "title": "Assistant Professor",
+      "homepage": "https://pculbertson.github.io/",
+      "batch": "embodied-022",
+      "discoveredAt": "2026-09-30T23:51:53Z",
+      "verifiedAt": "2026-09-30T23:58:03Z",
+      "scores": {
+        "fit": 40,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Robust robot learning",
+        "Dexterous manipulation",
+        "Contact-rich tool use",
+        "Sim-to-real transfer",
+        "Learning and control"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-022.json",
+      "detailPage": "batches/embodied-022.md#preston-culbertson"
     },
     {
       "id": "henny-admoni",

@@ -1,0 +1,300 @@
+[
+  {
+    "id": "zhengzhong-tu",
+    "name": "Zhengzhong Tu",
+    "aliases": [],
+    "school": "Texas A&M University",
+    "homepage": "https://taco-group.github.io/",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "batch": "embodied-022",
+    "discoveredAt": "2026-09-30T23:50:26Z",
+    "verifiedAt": "2026-09-30T23:58:03Z",
+    "researchAreas": [
+      "Vision-language navigation",
+      "Robust embodied AI",
+      "Multimodal foundation models",
+      "Perception-policy robustness"
+    ],
+    "fitReason": "NavTrust tests navigation policies under degraded images, depth and instructions, then evaluates mitigations on a physical platform. This is a concrete trustworthy embodied AI direction within a broader multimodal-learning lab.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The March 2026 NavTrust primary paper deploys Uni-NaVid and ETPNav on a RealMan mobile robot in a laboratory. It reports navigation step counts and failures with sensor/language corruption, and improvements after training augmentation or an LLM instruction safeguard.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "The current TACO group page explicitly invites internship and visiting-student inquiries alongside RA/TA applicants. Its recruiting address is tzzhire@gmail.com. The linked form could not be retrieved; no duration, external-master’s eligibility or summer 2027 commitment was established.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 20,
+      "shortVisit": 7,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Concrete VLM navigation robustness, though broader lab is not exclusively physical robot learning.",
+      "physical": "NavTrust physical RealMan work is led by UCR TASL with Tu as a TAMU collaborator; current TACO-local platform access is unverified.",
+      "shortVisit": "Current internship/visitor invitation; duration and external-master’s terms unknown.",
+      "freshness": "Current 2026 paper and lab updates."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.tamu.edu / source 1",
+        "url": "https://engineering.tamu.edu/cse/profiles/tu-zhengzhong.html",
+        "summary": "Current official assistant professor, department, public university email and embodied/trustworthy AI interests.",
+        "verifiedAt": "2026-09-30T23:58:03Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "taco-group.github.io / source 2",
+        "url": "https://taco-group.github.io/",
+        "summary": "Direct current lab page, September 2026 activity and explicit internship/visiting-student inquiry route with recruiting email.",
+        "verifiedAt": "2026-09-30T23:58:03Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2603.19229v1",
+        "summary": "March 19, 2026 primary paper, section IV-D: actual RealMan robot and robustness mitigations; broader results use simulation.",
+        "verifiedAt": "2026-09-30T23:58:03Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "navtrust.github.io / source 4",
+        "url": "https://navtrust.github.io/",
+        "summary": "Primary project identifies Tu as a Texas A&M coauthor and presents IROS 2026 work.",
+        "verifiedAt": "2026-09-30T23:58:03Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "The large benchmark is primarily simulated. The physical section reports illustrative navigation cases rather than a clearly stated large repeated-trial protocol. This is collaborative work; access to a Texas A&M-local robot and the exact division of supervision remain unconfirmed.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Designated public recruiting address: tzzhire@gmail.com. No message has been sent.",
+      "Designated public recruiting address: tzzhire@gmail.com. No message has been sent."
+    ],
+    "publicEmail": "tzz@tamu.edu",
+    "publicRecruitingEmail": "tzzhire@gmail.com"
+  },
+  {
+    "id": "haozhi-qi",
+    "name": "Haozhi Qi",
+    "aliases": [],
+    "school": "University of Chicago (incoming January 2027)",
+    "homepage": "https://haozhi.io/",
+    "title": "Incoming Assistant Professor, starting January 2027; currently Member of Technical Staff at Amazon FAR",
+    "department": "Computer Science",
+    "batch": "embodied-022",
+    "discoveredAt": "2026-09-30T23:51:05Z",
+    "verifiedAt": "2026-09-30T23:58:03Z",
+    "researchAreas": [
+      "Dexterous robot learning",
+      "Learning from human demonstrations",
+      "Multisensory manipulation",
+      "Sim-to-real reinforcement learning",
+      "Force-aware imitation learning"
+    ],
+    "fitReason": "A particularly direct physical-intelligence match: human demonstrations guide dexterous learning, while ForceBand transfers human muscle-signal-derived force supervision into robot manipulation policies.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "ForceBand (2026) evaluates a learned motion/force policy on a UR-5, Robotiq gripper, ZED 2i camera and fingertip force sensors, using 15 human demonstrations per object and ten trials on each of nine objects. REGRIND separately transfers residual RL policies to LEAP and WUJI robot hands.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown · 2027年1月入职，实验室待确认",
+      "summary": "Only PhD recruitment was verified. This does not establish a summer internship or visitor opening. UChicago’s official faculty announcement explicitly sets the academic start to January 2027, before the target summer.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 40,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Very strong dexterous and multisensory robot-learning overlap.",
+      "physical": "The hardware studies predate the January 2027 UChicago appointment and involve Amazon/Cornell/UMD/JHU collaborators; new-campus equipment is unverified.",
+      "shortVisit": "No external internship or visitor route verified; PhD recruiting is not counted.",
+      "freshness": "June/July 2026 physical studies and September 2026 current academic announcement."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "physicalsciences.uchicago.edu / source 1",
+        "url": "https://physicalsciences.uchicago.edu/news/article/introducing-new-faculty-PSD-26-27/",
+        "summary": "Direct university announcement: Computer Science assistant professor starting January 2027.",
+        "verifiedAt": "2026-09-30T23:58:03Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "haozhi.io / source 2",
+        "url": "https://haozhi.io/",
+        "summary": "Direct current page: Amazon FAR role, incoming UChicago role, public email, PhD-only recruiting and September 2026 CoRL acceptance announcements.",
+        "verifiedAt": "2026-09-30T23:58:03Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2606.26093v1",
+        "summary": "Primary ForceBand paper: physical arm evaluation and force-feedback controller, section 5 and appendix F.",
+        "verifiedAt": "2026-09-30T23:58:03Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "forceband-emg.github.io / source 4",
+        "url": "https://forceband-emg.github.io/",
+        "summary": "Primary project demonstrates learned force-aware manipulation and identifies Qi as co-advisor.",
+        "verifiedAt": "2026-09-30T23:58:03Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2607.11874v1",
+        "summary": "Primary REGRIND paper: residual RL deployment on dexterous hands, with successful transfer limited to three of four hand/task combinations.",
+        "verifiedAt": "2026-09-30T23:58:03Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "This is an incoming university appointment, not a currently operating UChicago lab verified here. Campus laboratory readiness, robot availability, visitor sponsorship and supervision by summer 2027 must be confirmed. Existing experimental work is collaborative and predates the UChicago start. ForceBand uses a stabilizing pre-grasp controller and force feedback; it is not unconstrained human-only control.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "haozhi@uchicago.edu"
+  },
+  {
+    "id": "preston-culbertson",
+    "name": "Preston Culbertson",
+    "aliases": [],
+    "school": "Cornell University",
+    "homepage": "https://pculbertson.github.io/",
+    "title": "Assistant Professor",
+    "department": "Computer Science",
+    "batch": "embodied-022",
+    "discoveredAt": "2026-09-30T23:51:53Z",
+    "verifiedAt": "2026-09-30T23:58:03Z",
+    "researchAreas": [
+      "Robust robot learning",
+      "Dexterous manipulation",
+      "Contact-rich tool use",
+      "Sim-to-real transfer",
+      "Learning and control"
+    ],
+    "fitReason": "Praxis Lab studies reliable learning under imperfect sensing and dynamics. REGRIND provides a current, tightly matched dexterous reinforcement-learning project rather than only optimization theory.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The July 2026 REGRIND study runs learned residual policies on LEAP and WUJI hands with arm support and motion capture. Ten trials per configuration show successful scissors/screwdriver transfer on three hand/task pairings; WUJI-scissors fails all ten trials.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The personal join section explicitly addresses Cornell undergraduates/master’s students and PhD applicants. It does not offer a current external-master’s internship or short visit. Cornell’s undergraduate summer program precedent is not evidence of external graduate eligibility.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 40,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct robust dexterous learning and tool-use match.",
+      "physical": "Current primary hardware study with explicit trial counts and limitations.",
+      "shortVisit": "Verified recruiting text is restricted to degree applicants or current Cornell students; no external visit route established.",
+      "freshness": "Current July 2026 physical paper and live official affiliation."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.cs.cornell.edu / source 1",
+        "url": "https://www.cs.cornell.edu/directory?page=1",
+        "summary": "Direct current department directory confirms assistant professor in Computer Science; also lists public address pdc79@cornell.edu.",
+        "verifiedAt": "2026-09-30T23:58:03Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "bowers.cornell.edu / source 2",
+        "url": "https://bowers.cornell.edu/news-stories/meet-new-faculty-preston-culbertson",
+        "summary": "Official October 2025 faculty introduction: physically robust learning and real contact-rich systems.",
+        "verifiedAt": "2026-09-30T23:58:03Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "pculbertson.github.io / source 3",
+        "url": "https://pculbertson.github.io/",
+        "summary": "Direct current role, public email, Praxis Lab interests and Cornell-specific undergraduate/master’s inquiry instructions.",
+        "verifiedAt": "2026-09-30T23:58:03Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2607.11874v1",
+        "summary": "July 13, 2026 primary hardware study; Table 2 records both successful pairings and the failed WUJI-scissors transfer.",
+        "verifiedAt": "2026-09-30T23:58:03Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "www.yunhaifeng.com / source 5",
+        "url": "https://www.yunhaifeng.com/REGRIND/",
+        "summary": "Primary project associates Culbertson with Cornell and demonstrates the physical learned policies.",
+        "verifiedAt": "2026-09-30T23:58:03Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "REGRIND depends on motion capture and careful system identification, so its learned policies are not yet general vision-only deployment. Cornell resources and Praxis Lab participation are acknowledged, but a summer visitor’s access and project scope remain unconfirmed. Current local-student research guidance should not be generalized to external students.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "pculbertson@cornell.edu"
+  }
+]

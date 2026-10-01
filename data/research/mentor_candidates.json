@@ -36,6 +36,7 @@
     "batches/control-025.json",
     "batches/control-026.json",
     "batches/control-027.json",
+    "batches/control-028.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -2320,6 +2321,33 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-027.json",
       "detailPage": "batches/control-027.md#nikhil-chopra"
+    },
+    {
+      "id": "konstantinos-karydis",
+      "name": "Konstantinos Karydis",
+      "aliases": [],
+      "school": "University of California, Riverside",
+      "title": "Professor",
+      "homepage": "https://profiles.ucr.edu/app/home/profile/karydis",
+      "batch": "control-028",
+      "discoveredAt": "2026-10-01T00:45:53Z",
+      "verifiedAt": "2026-10-01T00:47:57Z",
+      "scores": {
+        "fit": 37,
+        "physical": 23,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Learning-enabled agricultural robotics",
+        "Resilient autonomous navigation",
+        "Multi-robot control",
+        "Aerial manipulation",
+        "Uncertainty-aware planning"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-028.json",
+      "detailPage": "batches/control-028.md#konstantinos-karydis"
     },
     {
       "id": "tom-silver",

@@ -1,0 +1,133 @@
+[
+  {
+    "id": "konstantinos-karydis",
+    "name": "Konstantinos Karydis",
+    "aliases": [],
+    "school": "University of California, Riverside",
+    "homepage": "https://profiles.ucr.edu/app/home/profile/karydis",
+    "title": "Professor",
+    "department": "Electrical and Computer Engineering; Center for Robotics and Intelligent Systems",
+    "batch": "control-028",
+    "discoveredAt": "2026-10-01T00:45:53Z",
+    "verifiedAt": "2026-10-01T00:47:57Z",
+    "researchAreas": [
+      "Learning-enabled agricultural robotics",
+      "Resilient autonomous navigation",
+      "Multi-robot control",
+      "Aerial manipulation",
+      "Uncertainty-aware planning"
+    ],
+    "fitReason": "Strong intersection of machine learning, robot perception, field deployment and nonlinear control. Current work includes learned multimodal vineyard perception on a moving robot, with prior perception-to-manipulation integration; the latest learned multi-robot control study itself remains simulation-only.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "March 20, 2026 paper deploys SAM-assisted pseudo-labeling and a YOLOv10n-based cross-modal detector with AG-LOAM/tree association on a Clearpath Jackal carrying ZED2i, Mapir NIR, FLIR thermal and Velodyne VLP-16 sensors. Section V reports on-the-go detection/localization in two actual Gallo vineyards at 0.5 m/s; it establishes learned field perception, not a learned motion controller. June 2026 UCR reporting identifies first author Dimitrios Chatziparaschis as a current UCR graduate researcher. Separate avocado work, first published May 2025, integrates YOLOv8n-seg and motion planning on a dual-arm UAV platform. The accessible 2024 author manuscript distinguishes static-UAV tests with real fruit from teleoperated flight with artificial fruit; it does not demonstrate fully autonomous flight harvesting in a natural orchard.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current ARCS joining page recruits PhD/postdoc and local undergraduate work. Its rolling MS openings require acceptance into UCR ROBO/EE/CE/CS/ME programs; it directs non-UCR degree applicants to central admissions. No current external-master's visitor or eight-week route is explicitly offered.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 23,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong robot ML/perception/control overlap; newest learned multi-robot controller has only simulation validation.",
+      "physical": "Current named field robot and online learned perception, plus older learned-perception manipulation. Reduced from25 because strongest recent hardware evidence concerns detection/localization rather than learned physical control.",
+      "shortVisit": "Current MS recruitment is for UCR-admitted students; no external short-visit route verified.",
+      "freshness": "March and September2026 technical records, June2026 institutional research and direct current rendered faculty profile."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "profiles.ucr.edu / source 1",
+        "url": "https://profiles.ucr.edu/app/home/profile/karydis",
+        "summary": "Current Professor title, ECE/CRIS appointment, both public email aliases and faculty-linked ARCS lab; control/ML/robotics research.",
+        "verifiedAt": "2026-10-01T00:47:57Z",
+        "retrieval": "Direct current rendered official profile in cloud browser; web.run returned empty HTML"
+      },
+      {
+        "id": "s2",
+        "label": "sites.google.com / source 2",
+        "url": "https://sites.google.com/view/arcs-lab",
+        "summary": "UCR lab directed by Karydis studies adaptive/resilient ground and aerial robot systems.",
+        "verifiedAt": "2026-10-01T00:47:57Z",
+        "retrieval": "Direct official-faculty-linked lab HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2603.26724v1",
+        "summary": "March 2026 full paper, Sections III–V: named Jackal sensors, learned detector and online vineyard localization; no learned motion-control claim.",
+        "verifiedAt": "2026-10-01T00:47:57Z",
+        "retrieval": "Direct author full-text HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "engr.ucr.edu / source 4",
+        "url": "https://engr.ucr.edu/news/2026/06/22/smarter-way-map-orchard-soil",
+        "summary": "June 2026 institutional article identifies Karydis and current UCR graduate researcher Chatziparaschis in field-robot research.",
+        "verifiedAt": "2026-10-01T00:47:57Z",
+        "retrieval": "Official university indexed full text via web search"
+      },
+      {
+        "id": "s5",
+        "label": "advanced.onlinelibrary.wiley.com / source 5",
+        "url": "https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adrr.202500003",
+        "summary": "Journal paper first published May 27, 2025, with 2026 issue label; describes learning-enabled bimanual avocado harvesting in controlled/semi-controlled settings.",
+        "verifiedAt": "2026-10-01T00:47:57Z",
+        "retrieval": "Official publisher indexed full text via web search; direct web open failed"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2408.09058v1",
+        "summary": "Accessible author manuscript Sections III–IV: onboard YOLOv8n-seg, static real-fruit and teleoperated artificial-fruit flight distinctions.",
+        "verifiedAt": "2026-10-01T00:47:57Z",
+        "retrieval": "Direct author full-text HTML via web.run; 2024 version, not assumed identical to 2025 journal revision"
+      },
+      {
+        "id": "s7",
+        "label": "arxiv.org / source 7",
+        "url": "https://arxiv.org/abs/2609.14058",
+        "summary": "September 2026 learned Koopman/NMPC multi-robot work explicitly validates via numerical simulations.",
+        "verifiedAt": "2026-10-01T00:47:57Z",
+        "retrieval": "Author abstract indexed via web search"
+      },
+      {
+        "id": "s8",
+        "label": "sites.google.com / source 8",
+        "url": "https://sites.google.com/view/arcs-lab/joining",
+        "summary": "Current limited recruitment; rolling MS opportunity is for students accepted to UCR programs, with no explicit external visitor route.",
+        "verifiedAt": "2026-10-01T00:47:57Z",
+        "retrieval": "Direct official-faculty-linked lab HTML via web.run"
+      }
+    ],
+    "unknowns": [
+      "Host interest, external-student classification, funding and eight-week feasibility remain unknown. The current central directory visibly says Professor, while June 2026 news and other departmental pages still say Associate Professor. September 2026 Koopman multi-robot navigation uses numerical simulations only. No inference that local degree-recruiting rules constitute a blanket visitor ban.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "kkarydis@ece.ucr.edu"
+  }
+]

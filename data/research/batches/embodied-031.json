@@ -1,0 +1,103 @@
+[
+  {
+    "id": "peng-gao",
+    "name": "Peng Gao",
+    "aliases": [],
+    "school": "North Carolina State University",
+    "homepage": "https://research.csc.ncsu.edu/corob/index.html",
+    "title": "Assistant Professor",
+    "department": "Computer Science; N.C. Plant Sciences Initiative",
+    "batch": "embodied-031",
+    "discoveredAt": "2026-10-01T01:01:01Z",
+    "verifiedAt": "2026-10-01T01:09:40Z",
+    "researchAreas": [
+      "Vision foundation models for multi-robot perception",
+      "Collaborative robot learning",
+      "Relative-pose estimation",
+      "Resilient robot coordination"
+    ],
+    "fitReason": "Current CoRob work deploys vision foundation models for coordinated robot perception, offering a concrete CS project area in model integration, uncertainty and communication-aware autonomy.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "July 2026 CERPE tests three physical Agilex Limo Pro robots in 13 indoor scenarios. Quantitative pose evaluation uses 130 sampled keyframes and 382 image pairs with motion-capture ground truth. A separate online 2–3 robot integration test runs perception on a laptop RTX 4080, with 438/780 ms updates for two/three robots and a 50 Hz low-level controller. Current CoRob student authors are verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The live Join page invites motivated students to email about concrete technical contributions and prioritizes hands-on robot experience. It does not explicitly establish an external-master’s visitor or short internship pathway, so no short-visit points are assigned.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong foundation-model perception and collaborative autonomy, somewhat less manipulation/policy-centric.",
+      "physical": "Detailed named hardware, current group student authors and explicit online controller integration.",
+      "shortVisit": "General student inquiry instructions do not verify external short-visit eligibility.",
+      "freshness": "July 2026 physical deployment paper and current official/lab records."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "csc.ncsu.edu / source 1",
+        "url": "https://csc.ncsu.edu/people/pgao5/",
+        "summary": "Official current Assistant Professor in Computer Science.",
+        "verifiedAt": "2026-10-01T01:09:40Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "research.csc.ncsu.edu / source 2",
+        "url": "https://research.csc.ncsu.edu/corob/index.html",
+        "summary": "Current CoRob program and 2026 robotics activity.",
+        "verifiedAt": "2026-10-01T01:09:40Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "research.csc.ncsu.edu / source 3",
+        "url": "https://research.csc.ncsu.edu/corob/team.html",
+        "summary": "Current group student authors support attribution of CERPE to the host lab.",
+        "verifiedAt": "2026-10-01T01:09:40Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "research.csc.ncsu.edu / source 4",
+        "url": "https://research.csc.ncsu.edu/corob/contact.html",
+        "summary": "Direct public pgao5@ncsu.edu contact; technical-fit student inquiries, but no explicit short external-visitor route.",
+        "verifiedAt": "2026-10-01T01:09:40Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2607.14539v1",
+        "summary": "July 16, 2026 primary CERPE paper: physical Limo team, sampled quantitative pose protocol, separate online test, laptop inference and actual metric-depth source.",
+        "verifiedAt": "2026-10-01T01:09:40Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "The method coordinates pretrained VGGT and SALAD without new training; onboard depth is used for metric scale in real deployments. Pose-estimation success means producing an estimate, not successful autonomous navigation. Quantitative mocap-covered scenes are separate from the online integration test. NCSU’s J-1 Student Intern minimum is two calendar months, which should not be equated automatically with eight weeks; university appointment, host support and duration approval remain necessary.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "pgao5@ncsu.edu"
+  }
+]

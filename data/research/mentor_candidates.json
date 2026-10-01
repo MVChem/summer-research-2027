@@ -68,6 +68,7 @@
     "batches/embodied-028.json",
     "batches/embodied-029.json",
     "batches/embodied-030.json",
+    "batches/embodied-031.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -5053,6 +5054,32 @@
       "shortVisitStatus": "conditional-inquiry · 要求正式交流或fellowship",
       "recordFile": "batches/embodied-030.json",
       "detailPage": "batches/embodied-030.md#lirong-xiang"
+    },
+    {
+      "id": "peng-gao",
+      "name": "Peng Gao",
+      "aliases": [],
+      "school": "North Carolina State University",
+      "title": "Assistant Professor",
+      "homepage": "https://research.csc.ncsu.edu/corob/index.html",
+      "batch": "embodied-031",
+      "discoveredAt": "2026-10-01T01:01:01Z",
+      "verifiedAt": "2026-10-01T01:09:40Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Vision foundation models for multi-robot perception",
+        "Collaborative robot learning",
+        "Relative-pose estimation",
+        "Resilient robot coordination"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-031.json",
+      "detailPage": "batches/embodied-031.md#peng-gao"
     },
     {
       "id": "henny-admoni",

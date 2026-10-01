@@ -225,7 +225,8 @@
     "batches/hri-069.json",
     "batches/hri-070.json",
     "batches/hri-071.json",
-    "batches/hri-074.json"
+    "batches/hri-074.json",
+    "batches/hri-076.json"
   ],
   "candidates": [
     {
@@ -12404,6 +12405,33 @@
       "shortVisitStatus": "unknown · WHOI制度存在；导师短访意向未核实",
       "recordFile": "batches/hri-074.json",
       "detailPage": "batches/hri-074.md#nare-karapetyan"
+    },
+    {
+      "id": "fabrizio-sergi",
+      "name": "Fabrizio Sergi",
+      "aliases": [],
+      "school": "University of Delaware",
+      "title": "Associate Professor of Biomedical and Mechanical Engineering",
+      "homepage": "https://sites.udel.edu/hurolab/",
+      "batch": "hri-076",
+      "discoveredAt": "2026-10-01T07:16:01Z",
+      "verifiedAt": "2026-10-01T07:18:47Z",
+      "scores": {
+        "fit": 37,
+        "physical": 25,
+        "shortVisit": 10,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-in-the-loop robot learning",
+        "Dynamic Bayesian optimization",
+        "Wearable assistive robotics",
+        "Personalized exoskeleton control",
+        "Robot-assisted motor training"
+      ],
+      "shortVisitStatus": "inquiry-only · 明确访问研究生入口；需共同署名论文，2027/八周未定",
+      "recordFile": "batches/hri-076.json",
+      "detailPage": "batches/hri-076.md#fabrizio-sergi"
     }
   ]
 }

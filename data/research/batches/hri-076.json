@@ -1,0 +1,109 @@
+[
+  {
+    "id": "fabrizio-sergi",
+    "name": "Fabrizio Sergi",
+    "aliases": [],
+    "school": "University of Delaware",
+    "homepage": "https://sites.udel.edu/hurolab/",
+    "title": "Associate Professor of Biomedical and Mechanical Engineering",
+    "department": "Biomedical Engineering and Mechanical Engineering; Human Robotics (HuRo) Lab",
+    "batch": "hri-076",
+    "discoveredAt": "2026-10-01T07:16:01Z",
+    "verifiedAt": "2026-10-01T07:18:47Z",
+    "researchAreas": [
+      "Human-in-the-loop robot learning",
+      "Dynamic Bayesian optimization",
+      "Wearable assistive robotics",
+      "Personalized exoskeleton control",
+      "Robot-assisted motor training"
+    ],
+    "fitReason": "Strong assistive-robotics AI match for Gaussian-process modeling, online optimization and human-robot adaptation. The recent work learns time-varying human input-output relationships and changes an actual exoskeleton control parameter, rather than merely studying human motor learning or collecting clinical data.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Full January 2026 accepted RA-L paper validates dynamic Bayesian optimization against standard BO on a real Active Pelvis Orthosis hip exoskeleton with 16 healthy participants at Delaware. The Gaussian-process covariance includes time to discount older observations; the learned optimizer iteratively updates one hip-torque amplitude parameter through Simulink, while gait phase and low-level execution remain classical. Participants complete two approximately 15-minute sessions, with an unannounced-to-the-optimizer treadmill-speed increase inducing non-stationarity. DBO performs better in later validation stages, but both methods have residual error and no significant difference in secondary propulsion outcomes. This is single-parameter laboratory training with healthy adults, not demonstrated clinical efficacy after stroke, generalized whole-body control, or an autonomous outdoor wearable policy. First author GilHwan Kim is independently verified as Sergi’s lab doctoral graduate in April 2026.",
+      "sourceIds": [
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only · 明确访问研究生入口；需共同署名论文，2027/八周未定",
+      "summary": "The live official HuRo People page explicitly invites prospective visiting graduate students to send a CV and a coauthored research-paper PDF to the PI. The invitation was verified in the cloud browser at 2026-10-01T07:18:24Z after direct text fetches failed. It is distinct from the separate Joining page, which describes degree-program PhD applications and undergraduate winter/summer interns. No eight-week minimum/maximum, summer 2027 place, remote arrangement or funding promise is supplied for visiting graduates.",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 25,
+      "shortVisit": 10,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantive online Gaussian-process and dynamic Bayesian learning for personalized robot control, with strong HRI fit.",
+      "physical": "Full current paper establishes actual powered exoskeleton experiments at Delaware and independently verified directed-student linkage; limited single-parameter laboratory scope is explicit.",
+      "shortVisit": "Current live lab page explicitly invites visiting graduate inquiries; no 2027 place, eight-week commitment or funding is asserted.",
+      "freshness": "Current faculty/lab role, 2026 paper, 2026 doctoral lineage and live invitation verified."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "me.udel.edu / source 1",
+        "url": "https://me.udel.edu/faculty/fabrizio-sergi/",
+        "summary": "Current official Associate Professor profile, public fabs@udel.edu, HuRo director and mechanical/biomedical appointments.",
+        "verifiedAt": "2026-10-01T07:18:47Z"
+      },
+      {
+        "id": "s2",
+        "label": "sites.udel.edu / source 2",
+        "url": "https://sites.udel.edu/hurolab/huro-people/",
+        "summary": "Live cloud-browser observation at 07:18:24 UTC confirms Associate Professor of Biomedical and Mechanical Engineering, current 2026 lab roster, GilHwan Kim doctoral alumnus, and explicit prospective visiting-graduate invitation requiring CV plus coauthored research-paper PDF.",
+        "verifiedAt": "2026-10-01T07:18:24Z",
+        "retrieval": "Live official page read in cloud browser after direct text retrieval failed"
+      },
+      {
+        "id": "s3",
+        "label": "sites.udel.edu / source 3",
+        "url": "https://sites.udel.edu/hurolab/openings/",
+        "summary": "Live cloud-browser observation at 07:18:39 UTC: separate degree-program PhD application instructions and undergraduate winter/summer internships. No conflicting explicit prohibition on graduate visitors, but no 2027 short-visit terms.",
+        "verifiedAt": "2026-10-01T07:18:39Z",
+        "retrieval": "Live official page read in cloud browser"
+      },
+      {
+        "id": "s4",
+        "label": "bpb-us-w2.wpmucdn.com / source 4",
+        "url": "https://bpb-us-w2.wpmucdn.com/sites.udel.edu/dist/0/3492/files/2026/03/LRA3665072.pdf",
+        "summary": "Full author-hosted accepted January 14, 2026 paper, DOI 10.1109/LRA.2026.3665072. Actual APO hardware, 16 healthy participants, GP/time-kernel DBO, online hip torque-amplitude changes, two within-subject sessions and controlled treadmill-speed variation; limited late-stage gains and no clinical stroke test.",
+        "verifiedAt": "2026-10-01T07:18:47Z"
+      },
+      {
+        "id": "s5",
+        "label": "sites.udel.edu / source 5",
+        "url": "https://sites.udel.edu/hurolab/huro-news/",
+        "summary": "Current 2026 lab news identifies GilHwan Kim’s April 22 PhD defense on extending Bayesian optimization for robot-assisted gait training, establishing direct group lineage.",
+        "verifiedAt": "2026-10-01T07:18:47Z"
+      },
+      {
+        "id": "s6",
+        "label": "www.udel.edu / source 6",
+        "url": "https://www.udel.edu/academics/global/isss/departments/hosting-scholars/j-1-student-intern/",
+        "summary": "Institutional source reused from 2026-10-01T01:54:08Z Delaware audit: outside-US degree student educational internship, minimum three weeks, at least 32 hours/week, host acceptance and DS-7002; patient care excluded. Not a lab opening.",
+        "verifiedAt": "2026-10-01T01:54:08Z",
+        "retrieval": "Reused earlier Delaware policy audit; not freshly fetched in this candidate check"
+      }
+    ],
+    "unknowns": [
+      "The visitor invitation requests a coauthored research paper and CV. The page prefers mechanical, biomedical or electrical engineering backgrounds for its general student recruitment; suitability of a CS master’s profile needs confirmation.",
+      "Current-linked Joining page uses a PhD-specific application subject line for degree applicants. Do not treat that graduate degree advertisement or its funding as a short visitor offer; the outside visitor route is separately stated on the People page.",
+      "Eight-week duration, faculty capacity, funding and remote participation remain unknown. No outreach has been sent.",
+      "Existing Delaware institutional review supports a degree-related J-1 Student Intern route for outside-US degree students, at least three weeks and 32 hours weekly, with host acceptance and DS-7002. Specific external-master classification still needs CGPS approval.",
+      "Patient-care activities are excluded under the intern route. A computational or nonclinical research project would need host, human-subject, safety and institutional approval; access to patients or clinical research systems is not promised.",
+      "Scholar guidance allows personal/family funding, but personal-only funding, support minima and exact fees under the actual Student Intern category were not separately established. Reuse the existing Delaware fee/timeline caveats rather than assume scholar figures apply.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#delaware)"
+    ],
+    "publicEmail": "fabs@udel.edu"
+  }
+]

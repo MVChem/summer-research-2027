@@ -417,5 +417,18 @@ class ResearchLedgerTests(unittest.TestCase):
         with self.assertRaises(AssertionError): ledger.validate_baseline_ap_notes(notes, self.full)
 
 
+    def test_teaching_faculty_is_a_separate_priority_tier(self):
+        row = copy.deepcopy(self.full['candidates'][0])
+        row['title'] = 'Assistant Teaching Professor of Mechanical Engineering'
+        self.assertFalse(ledger.is_assistant_professor(row))
+        self.assertEqual(ledger.priority_tier(row, {'appointments':{},'constraints':[]}), 4.5)
+
+    def test_teaching_assistant_professor_is_not_regular_ap(self):
+        row = copy.deepcopy(self.full['candidates'][0])
+        row['title'] = 'Teaching Assistant Professor'
+        self.assertFalse(ledger.is_assistant_professor(row))
+        self.assertEqual(ledger.priority_tier(row, {'appointments':{},'constraints':[]}), 4.5)
+
+
 if __name__ == "__main__":
     unittest.main()

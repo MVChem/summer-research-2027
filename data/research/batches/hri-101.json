@@ -1,0 +1,145 @@
+[
+  {
+    "id": "nivii-kalavakonda-chandrasekar",
+    "name": "Nivii Kalavakonda Chandrasekar",
+    "aliases": [
+      "Niveditha Kalavakonda",
+      "Nivii Kalavakonda",
+      "Niveditha (Nivii) Kalavakonda"
+    ],
+    "school": "Northeastern University",
+    "homepage": "https://nkalavak.github.io/",
+    "title": "Assistant Teaching Professor of Mechanical and Industrial Engineering",
+    "department": "Mechanical and Industrial Engineering; Seattle campus",
+    "batch": "hri-101",
+    "discoveredAt": "2026-10-01T12:30:06Z",
+    "verifiedAt": "2026-10-01T13:00:36Z",
+    "researchAreas": [
+      "Human-robot interaction",
+      "Language-guided navigation",
+      "Surgical robot perception",
+      "Assistive shared autonomy",
+      "Robot manipulation and learning"
+    ],
+    "fitReason": "New-2025 teaching-track faculty member with a documented current master’s advisee and a physically demonstrated language-to-navigation project. This is an applied robotics/HRI backup with narrower methodological evidence than a robot-learning research lab; the exact teaching title and Seattle location are preserved.",
+    "physicalEvidence": {
+      "status": "verified-limited-demo",
+      "summary": "The current advisee’s 2026 master’s project documents Whisper transcription, Claude tool-use and Piper speech driving a real Unitree Go1 through ROS 2/Nav2. The project page shows named-waypoint runs; its full public README reports an end-to-end voice pipeline and navigation in two labs. Human approval gates navigation plans, while low-level locomotion/navigation are conventional components rather than newly trained policies. This is a student-built prototype without a peer-reviewed benchmark or reported trial denominator. Current advising is independently stated on the student’s homepage.",
+      "sourceIds": [
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No distinct external-master summer, visiting-student or remote-research invitation was verified on the faculty or personal pages. A local master’s advisee and public robotics workshops establish activity, not outside-student eligibility.",
+      "sourceIds": [
+        "s1",
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 34,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Applied HRI, learned speech/language integration and surgical perception; current project is a systems prototype.",
+      "physical": "Detailed physical student-project account and current advising linkage, capped for limited unbenchmarked demo evidence.",
+      "shortVisit": "No distinct external-master research invitation.",
+      "freshness": "Current 2026 implemented master’s project and active faculty role, independently dated August 2025 appointment."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "coe.northeastern.edu / source 1",
+        "url": "https://coe.northeastern.edu/people/kalavakonda-chandrasekar-nivii/",
+        "summary": "Current official teaching-track title, Seattle location, professional email and robot-learning research scope.",
+        "verifiedAt": "2026-10-01T13:00:36Z"
+      },
+      {
+        "id": "s2",
+        "label": "coe.northeastern.edu / source 2",
+        "url": "https://coe.northeastern.edu/news/new-faculty-spotlight-nivii-kalavakonda-chandrasekar/",
+        "summary": "Official August 2025 Assistant Teaching Professor start, stated at month precision.",
+        "verifiedAt": "2026-10-01T13:00:36Z"
+      },
+      {
+        "id": "s3",
+        "label": "nkalavak.github.io / source 3",
+        "url": "https://nkalavak.github.io/",
+        "summary": "Current personal appointment and assistive surgical-autonomy agenda; no separate outside-visitor invitation.",
+        "verifiedAt": "2026-10-01T13:00:36Z"
+      },
+      {
+        "id": "s4",
+        "label": "kananaliyev.org / source 4",
+        "url": "https://kananaliyev.org/",
+        "summary": "Current Northeastern Seattle master’s student explicitly names Kalavakonda as advisor and dates project 2026.",
+        "verifiedAt": "2026-10-01T13:00:36Z"
+      },
+      {
+        "id": "s5",
+        "label": "kananaliyev.org / source 5",
+        "url": "https://kananaliyev.org/dog.html",
+        "summary": "Actual Go1 project, named-waypoint runs, working-hardware narrative and linked public implementation.",
+        "verifiedAt": "2026-10-01T13:00:36Z"
+      },
+      {
+        "id": "s6",
+        "label": "github.com / source 6",
+        "url": "https://github.com/al1y3vk/go1-voice-nav",
+        "summary": "Full README distinguishes pretrained voice-to-action pipeline, human approval and conventional Nav2; reports working on actual dog.",
+        "verifiedAt": "2026-10-01T13:00:36Z"
+      },
+      {
+        "id": "s7",
+        "label": "openaccess.thecvf.com / source 7",
+        "url": "https://openaccess.thecvf.com/content_CVPRW_2019/html/WiCV/Kalavakonda_Autonomous_Neurosurgical_Instrument_Segmentation_Using_End-To-End_Learning_CVPRW_2019_paper.html",
+        "summary": "Primary abstract establishes neural surgical instrument segmentation; PDF unavailable, no extra implementation claims inferred.",
+        "verifiedAt": "2026-10-01T13:00:36Z"
+      },
+      {
+        "id": "s8",
+        "label": "coe.northeastern.edu / source 8",
+        "url": "https://coe.northeastern.edu/about/exchange/",
+        "summary": "Reused external-master Visiting Student institutional process, originally verified 2026-09-30T23:48:24Z; Seattle specifics unconfirmed.",
+        "verifiedAt": "2026-09-30T23:48:24Z",
+        "retrieval": "Reused earlier institutional review; Seattle applicability not separately verified"
+      },
+      {
+        "id": "s9",
+        "label": "international.northeastern.edu / source 9",
+        "url": "https://international.northeastern.edu/ogs/exchange-visitor-program/j-1-scholars/financial-requirements-for-j-1-scholars/",
+        "summary": "Reused majority non-personal funding requirement; no personal-only eligibility promise.",
+        "verifiedAt": "2026-09-30T23:48:24Z",
+        "retrieval": "Reused earlier institutional review; Seattle applicability not separately verified"
+      }
+    ],
+    "unknowns": [
+      "The appointment is Assistant Teaching Professor, not a tenure-track research Assistant Professor. Research-visitor sponsorship authority, project time, hardware availability, funding, duration and summer 2027 capacity need separate confirmation.",
+      "Northeastern Seattle is the proposed host. Former University of Washington RAVEN surgical work and the stated UW affiliate role do not establish Northeastern hardware ownership or access to UW facilities.",
+      "The current prototype uses pretrained language/speech models and classical navigation. No autonomous surgery, clinical validation or general-purpose learned locomotion claim is made. The older neural instrument-segmentation study is image analysis, not itself executed control.",
+      "The previously verified Northeastern Visiting Student process includes external master’s students with faculty sponsorship, but requires a majority of support from non-personal/non-family sources. Fully personal funding is not supported by that published route; boundary wording and Seattle appointment applicability must be confirmed.",
+      "Reused institutional guidance asks at least four months’ initiation, with the engineering process estimating five to seven months. Published support figures and all 2027 fees/insurance require rechecking; a university process is not a lab invitation.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#northeastern)",
+      "Official current appointment began in August 2025 as Assistant Teaching Professor at Seattle; the current master’s advising link does not independently establish authority to sponsor outside research visitors."
+    ],
+    "publicEmail": "n.kalavakondachandra@northeastern.edu",
+    "candidateTier": "教学轨/其他研究导师；非研究型新AP优先组",
+    "appointmentStart": {
+      "year": 2025,
+      "month": 8,
+      "precision": "month",
+      "status": "current",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ],
+      "evidence": "Official college faculty profile and August 19, 2025 spotlight explicitly state joining in August 2025 as Assistant Teaching Professor in Seattle."
+    }
+  }
+]

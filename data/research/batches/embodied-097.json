@@ -1,0 +1,115 @@
+[
+  {
+    "id": "sotirios-d-nousias",
+    "name": "Sotirios D. Nousias",
+    "aliases": [
+      "Sotiris Nousias",
+      "Sotirios Nousias"
+    ],
+    "school": "Purdue University",
+    "homepage": "https://sotirisnousias.com/",
+    "title": "Kevin C and Suzanne L Kahn New Frontiers Assistant Professor of Computer Science",
+    "department": "Computer Science; computational imaging and neural 3D vision group",
+    "batch": "embodied-097",
+    "discoveredAt": "2026-10-01T12:51:01Z",
+    "verifiedAt": "2026-10-01T12:55:53Z",
+    "researchAreas": [
+      "Low-light neural 3D reconstruction",
+      "Spatial foundation-model adaptation",
+      "Photon imaging and neural radiance fields"
+    ],
+    "fitReason": "Recent-AP spatial-perception backup with a separate live visitor inquiry. Full March 2026 Dark3R adapts MASt3R using teacher-student low-rank training to recover camera poses and scene geometry in low light, followed by neural view synthesis. This is relevant upstream embodied perception rather than robot action learning.",
+    "physicalEvidence": {
+      "status": "unverified",
+      "summary": "Physical0. Dark3R uses handheld and tripod Sony raw-camera captures, synthetic noise and offline scene/pose reconstruction; no robot executes its predictions. Real sensor data, photon cameras and older mechanical-robot coauthorship do not establish learned robot actuation or current Purdue robot access.",
+      "sourceIds": [
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only",
+      "summary": "Current personal homepage links a full joining page with a distinct prospective interns/visiting-students section requesting CV, transcript and research background. It is not restricted to current Purdue enrollment on that page, unlike some other Purdue labs. Generic8 only: exact outside-master eligibility,2027 capacity, duration, funding and remote arrangement remain unstated. Separate PhD section retains Fall2025 wording.",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    "scores": {
+      "fit": 33,
+      "physical": 0,
+      "shortVisit": 8,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong neural3D/spatial foundation-model methods; upstream perception rather than robot policy.",
+      "physical": "Camera captures and offline neural reconstruction only; no physical robot claim.",
+      "shortVisit": "Distinct live generic visitor/intern inquiry, specificmaster terms unknown.",
+      "freshness": "Full March 2026 collaborative spatial method and current appointment/recruitment pages."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.cs.purdue.edu / source 1",
+        "url": "https://www.cs.purdue.edu/people/faculty/snousias.html",
+        "summary": "Full official namedAssistantProfessor title, Fall2025 joining and public contact.",
+        "verifiedAt": "2026-10-01T12:55:53Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "www.cs.purdue.edu / source 2",
+        "url": "https://www.cs.purdue.edu/news/articles/2025/17-new-faculty-members-join-purdue-cs.html",
+        "summary": "Full official2025 cohort confirms arrival from Toronto and current computational-imaging agenda.",
+        "verifiedAt": "2026-10-01T12:55:53Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "sotirisnousias.com / source 3",
+        "url": "https://sotirisnousias.com/",
+        "summary": "Full current personal role and neural-fields research, directly links the visitor guidance.",
+        "verifiedAt": "2026-10-01T12:55:53Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "sotirisnousias.com / source 4",
+        "url": "https://sotirisnousias.com/students.html",
+        "summary": "Full two-paragraph guidance separates prospectivePhD from prospectiveinterns/visitors; CV/transcript/background inquiry.",
+        "verifiedAt": "2026-10-01T12:55:53Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2603.05330v1",
+        "summary": "Full Dark3R methods/datasets: teacher-student MASt3R adaptation, low-ranktraining, handheld/tripod camera captures, offline pose/geometry/view synthesis. Purdue affiliation explicit.",
+        "verifiedAt": "2026-10-01T12:55:53Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Keep this in the lower-physical-confidence spatial-AI backup category, not the real-robot VLA shortlist. No robot-control, manipulation or hardware-access promise is established.",
+      "Dark3R captures real images but estimates structure/camera pose offline. It assumes calibrated intrinsics and demonstrates particular cameras/noise settings; generalization and downstream robotic integration need separate evaluation.",
+      "The visitor section is live and separate from degree intake, but no master-level or summer-duration commitment is specified. Old Fall2025 PhD text does not make it a summer2027 offer.",
+      "Use official title/2025 arrival, not outdated Toronto affiliation alone; full 2026 Dark3R explicitly gives both Toronto and Purdue affiliation.",
+      "Reuse purdue feasibility: a formal, host-approved degree-related visitor appointment may be possible, but institutional eligibility is not lab acceptance. Personal/family support under existing$1885/month guidance, exact category,2027 charges, insurance and resources need confirmation; informal volunteering is not an alternative.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: Earliest precisely retained named official faculty observation; no earlier observation time was reconstructed.",
+      "[Institutional visitor rules](../eligibility_notes.md#purdue)"
+    ],
+    "discoveryTimestampNote": "Earliest precisely retained named official faculty observation; no earlier observation time was reconstructed.",
+    "publicEmail": "snousias@purdue.edu",
+    "candidateTier": "AI相关 · 真机待核实；方法研究备选",
+    "appointmentStart": {
+      "year": 2025,
+      "precision": "year",
+      "status": "current",
+      "appointmentType": "unresolved",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ],
+      "evidence": "Official directory and August2025 cohort explicitly establish Fall2025 joining. Calendar month/day and first-ever faculty status are not inferred."
+    }
+  }
+]

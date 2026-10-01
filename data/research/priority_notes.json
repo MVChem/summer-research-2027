@@ -1163,6 +1163,123 @@
           "evidence": "University-hosted, department-linked CV explicitly gives Assistant Professor at Lamar July 2024–present. This is official-hosted first-person CV provenance, distinct from an independent hiring announcement."
         }
       ]
+    },
+    "frederike-dumbgen": {
+      "appointmentStart": {
+        "year": 2026,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "evidence": "Official CMU New faculty2026 directory and April9,2026 introduction confirm current new AP; prior official biography lists postdoctoral/researcher roles. January arrival is self-reported elsewhere, so only independently confirmed year is encoded.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2026（官方新教师记录；仅本人另报1月）",
+      "caveat": "真实Crazyflie神经控制为CMU/Dartmouth合作；10/10完成包含一次触地恢复，不是无碰撞保证；一般MS询问未证明外校访客",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://engineering.cmu.edu/faculty-staff/professional-development/center-faculty-success/new-faculty-directory/index.html",
+          "observedAt": "2026-10-01T13:04:33Z",
+          "evidence": "Official2026 new-faculty directory names her as ME Assistant Professor; one heading misspells Düembgen, matched through official profile/email."
+        },
+        {
+          "id": "s2",
+          "url": "https://www.meche.engineering.cmu.edu/directory/bios/d%C3%BCmbgen-frederike.html",
+          "observedAt": "2026-10-01T13:04:33Z",
+          "evidence": "Current official role, courtesy RI appointment, university email and pre-CMU postdoctoral/research history."
+        }
+      ]
+    },
+    "wei-wang": {
+      "appointmentStart": {
+        "year": 2024,
+        "month": 1,
+        "precision": "month",
+        "status": "current",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "evidence": "Official current faculty page and February6,2024 new-faculty feature explicitly state January2024 arrival from MIT research scientist; no prior faculty appointment reported.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2024-01（官方）；未独立断言首次faculty",
+      "caveat": "神经船控来自MIT2023；当前Wisconsin鱼/船工作不能自动算新学习控制；一年偏好仅限本校本科，外校硕士未知",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://engineering.wisc.edu/directory/profile/wei-wang/",
+          "observedAt": "2026-10-01T13:10:38Z",
+          "evidence": "Official current role, January 2024 start, public email and graduate research teaching."
+        },
+        {
+          "id": "s2",
+          "url": "https://engineering.wisc.edu/news/focus-on-new-faculty-wei-wang-charts-course-for-aquatic-robots/",
+          "observedAt": "2026-10-01T13:10:38Z",
+          "evidence": "Dated official February 2024 introduction, prior seven years at MIT and January 2024 faculty arrival."
+        }
+      ]
+    },
+    "sotirios-d-nousias": {
+      "appointmentStart": {
+        "year": 2025,
+        "precision": "year",
+        "status": "current",
+        "appointmentType": "unresolved",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "evidence": "Official directory and August2025 cohort explicitly establish Fall2025 joining. Calendar month/day and first-ever faculty status are not inferred."
+      },
+      "display": "2025",
+      "caveat": "官方Fall2025 AP；独立intern/visitor询问，硕士资格/时长/资金未定；低照度3D重建是感知备选，无机器人执行",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.cs.purdue.edu/people/faculty/snousias.html",
+          "observedAt": "2026-10-01T12:55:53Z",
+          "evidence": "Full official namedAssistantProfessor title, Fall2025 joining and public contact."
+        },
+        {
+          "id": "s2",
+          "url": "https://www.cs.purdue.edu/news/articles/2025/17-new-faculty-members-join-purdue-cs.html",
+          "observedAt": "2026-10-01T12:55:53Z",
+          "evidence": "Full official2025 cohort confirms arrival from Toronto and current computational-imaging agenda."
+        }
+      ]
+    },
+    "serena-booth": {
+      "appointmentStart": {
+        "year": 2025,
+        "precision": "year",
+        "status": "current",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "evidence": "Official November 8, 2024 hiring article explicitly announces Fall 2025 arrival; current CS directory confirms the appointment. Announcement year is not used as the start year.",
+        "appointmentType": "unresolved"
+      },
+      "display": "2025秋（2024官方预告；当前目录已确认）",
+      "caveat": "RLHF方法仅网格世界仿真；只核实PhD/postdoc招募，未见独立外校硕士访问入口",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://cs.brown.edu/people/faculty/sbooth3/",
+          "observedAt": "2026-10-01T13:10:41Z",
+          "evidence": "Current official Assistant Professor and AI/RL/HCI/robotics fields."
+        },
+        {
+          "id": "s2",
+          "url": "https://cs.brown.edu/news/2024/11/08/serena-booth-joins-brown-cs-as-assistant-professor/",
+          "observedAt": "2026-10-01T13:10:41Z",
+          "evidence": "Official hiring announcement explicitly states Fall 2025 start."
+        }
+      ]
     }
   },
   "constraints": [

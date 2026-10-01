@@ -2,11 +2,11 @@
 
 [全部候选与总分排序](ranked_candidates.md) · [原始索引](mentor_candidates.json) · [机构规则](eligibility_notes.md) · [原200位后续补充](baseline_addenda.md)
 
-从现有记录筛出 **109 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。
+从现有记录筛出 **110 条**有来源支持的访问/实习问询线索。这里只是联系入口，**没有已确认的2027约八周接收承诺**。没有发送邮件或提交表单。
 
 本页按研究匹配分优先，其次真机、短访、新鲜度及发现时间；不把一般询问、学校制度或个人自费能力当成已获资格。所有人的主办类别、八周安排、2027容量、经费和设备访问都需确认。具体奖学金要求、无资助、时间不匹配、任职时点及证据限制优先看下列加粗提示，再读完整资料。
 
-## 访问/短期研究问询线索（现场安排仍须确认） · 99 条
+## 访问/短期研究问询线索（现场安排仍须确认） · 100 条
 
 | 导师 / 机构 | 匹配 / 真机 / 短访 | 已知限制与证据状态 | 直接来源 / 机构规则 | 记录核查 UTC |
 |---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Kyle T. Yoshida](batches/hri-100.md#kyle-t-yoshida) · University of California, Los Angeles | 34/0/10 | **2025-07-01到岗；全球硕士可询问，Summer2027优先截止2027-05-01；未核时长/表单，硕士远程及资助未知；只有软体驱动器建模、无学习控制执行；真机待核实** | [s1](https://www.samueli.ucla.edu/new-faculty-2023-2026/) [s2](https://samueli.ucla.edu/people/kyle-yoshida/) [s3](https://www.mohalalab.org/opportunities) [s4](https://onlinelibrary.wiley.com/doi/10.1155/joro/8827476) [规则](eligibility_notes.md#ucla-vgr) | 2026-10-01T12:53:16Z |
 | [Zishen Wan](batches/embodied-091.md#zishen-wan) · Columbia University | 34/0/8 | **2026到岗月份来源有冲突，仅保留年份；访客/远程询问明确，VLA计算方法仅仿真，Columbia资金需至少51%机构支持；仅仿真；真机待核实** | [s1](https://www.cs.columbia.edu/2026/zishen-wan-brings-ai-native-computing-research-to-columbia/) [s2](https://www.engineering.columbia.edu/about/news/welcoming-our-new-faculty) [s3](https://zishenwan.github.io/) [s4](https://wan-research-group.github.io/join.html) [s5](https://arxiv.org/html/2601.14140v1) [规则](eligibility_notes.md#columbia) | 2026-10-01T12:11:28Z |
 | [Andrew Spielberg](batches/embodied-090.md#andrew-spielberg) · Carnegie Mellon University | 34/0/8 | **现有周期性实习询问；12–14周仅为2026历史岗位，非通用最低期限；新AP起始年有冲突，真机学习执行未核；真机待核实** | [s2](https://loci.ece.cmu.edu/) [s3](https://arxiv.org/html/2402.01086v2) [s4](https://www.linkedin.com/posts/andrew-spielberg-82073926a_summer-intern-college-of-engineering-activity-7430676195081625601-eVFr) [s5](https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Summer-Intern---College-of-Engineering---Electrical-and-Computer-Engineering_2024173) [s6](https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofelectricalandcomputerengineering/) [规则](eligibility_notes.md#cmu-student-intern) | 2026-10-01T12:07:44Z |
+| [Sotirios D. Nousias](batches/embodied-097.md#sotirios-d-nousias) · Purdue University | 33/0/8 | **官方Fall2025 AP；独立intern/visitor询问，硕士资格/时长/资金未定；低照度3D重建是感知备选，无机器人执行；真机待核实** | [s1](https://www.cs.purdue.edu/people/faculty/snousias.html) [s2](https://www.cs.purdue.edu/news/articles/2025/17-new-faculty-members-join-purdue-cs.html) [s4](https://sotirisnousias.com/students.html) [s5](https://arxiv.org/html/2603.05330v1) [规则](eligibility_notes.md#purdue) | 2026-10-01T12:55:53Z |
 | [Ferdous Alam](batches/embodied-092.md#ferdous-alam) · Georgia Institute of Technology | 32/20/8 | **2026-01到岗；当前无已说明的访客资助，自带fellowship受欢迎，其他安排可讨论；页面显示空白但公开内容已核；旧制造试验非当前GT机器人** | [s1](https://robotics.gatech.edu/node/119) [s4](https://inferencelab.io/blog-docs/news/news_2) [s5](https://inferencelab.io/_next/static/chunks/app/blog-docs/news/news_2/page-5f65a6e74f0bc2df.js) [s6](https://par.nsf.gov/servlets/purl/10578459) [规则](eligibility_notes.md#georgia-tech-student-intern) | 2026-10-01T12:48:19Z |
 | [Allison Okamura](batches/hri-001.md#allison-okamura) · Stanford University | 32/20/5 | **须自备支持、方向匹配及有空位；学校资金分类另批** | [s2](https://charm.stanford.edu/Main/AllisonOkamura) [s3](https://charm.stanford.edu/Main/PastLabMeetings) | 2026-09-30T21:37:40Z |
 | [Pooyan Fazli](batches/hri-005.md#pooyan-fazli) · Arizona State University | 32/18/8 | **公开问询入口；详细资格与期限未定** | [s2](https://pooyanfazli.com/) | 2026-09-30T21:58:49Z |

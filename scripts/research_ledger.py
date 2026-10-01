@@ -183,7 +183,7 @@ def cell(value):
 
 PRIORITY_LABELS = {
     0: "近期已到岗 AP（2024起）", 1: "暑期前明确拟到岗 AP", 2: "拟到岗/职级时点待核 AP",
-    3: "其他 AP；较早任职、转校或入职年待核", 4: "其他教师与研究导师", 5: "较长访问偏好；降低首联优先级",
+    3: "其他 AP；较早任职、转校或入职年待核", 4: "其他教师与研究导师", 4.5: "教学轨教师；研究主办权限另核", 5: "较长访问偏好；降低首联优先级",
     6: "明确至少三个月；降低首联优先级", 7: "当前明确暂停相关访问/暑期入口",
 }
 
@@ -194,7 +194,9 @@ def priority_notes():
 
 
 def is_assistant_professor(row):
-    return bool(re.search(r"\bassistant professor\b", row["title"].split(";")[0], re.I))
+    title = row["title"].split(";")[0]
+    teaching = re.search(r"\b(?:assistant teaching|teaching assistant|teaching) professor\b", title, re.I)
+    return bool(re.search(r"\bassistant professor\b", title, re.I)) and not teaching
 
 
 def priority_tier(row, notes):
@@ -205,6 +207,8 @@ def priority_tier(row, notes):
         return 6
     if any(x["kind"] == "duration-preference" and x.get("months", 0) >= 3 for x in constraints):
         return 5
+    if re.search(r"\b(?:assistant teaching|teaching assistant|teaching) professor\b", row["title"].split(";")[0], re.I):
+        return 4.5
     if not is_assistant_professor(row):
         return 4
     start = notes.get("appointments", {}).get(row["id"], {}).get("appointmentStart", {})

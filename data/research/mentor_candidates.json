@@ -109,6 +109,8 @@
     "batches/control-109.json",
     "batches/control-110.json",
     "batches/control-111.json",
+    "batches/control-113.json",
+    "batches/control-114.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -200,6 +202,7 @@
     "batches/embodied-093.json",
     "batches/embodied-094.json",
     "batches/embodied-096.json",
+    "batches/embodied-097.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -293,7 +296,9 @@
     "batches/hri-094.json",
     "batches/hri-097.json",
     "batches/hri-099.json",
-    "batches/hri-100.json"
+    "batches/hri-100.json",
+    "batches/hri-101.json",
+    "batches/hri-103.json"
   ],
   "candidates": [
     {
@@ -5754,6 +5759,68 @@
       "detailPage": "batches/control-111.md#alexander-sasha-davydov"
     },
     {
+      "id": "frederike-dumbgen",
+      "name": "Frederike Dümbgen",
+      "aliases": [
+        "Frederike Duembgen",
+        "Frederike Dumbgen",
+        "Frederike Düembgen"
+      ],
+      "school": "Carnegie Mellon University",
+      "title": "Assistant Professor (2026 new-faculty cohort)",
+      "homepage": "https://duembgen.github.io/",
+      "batch": "control-113",
+      "discoveredAt": "2026-10-01T12:54:41Z",
+      "verifiedAt": "2026-10-01T13:04:33Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Safe robot learning",
+        "Learned recoverability and constrained predictive control",
+        "Sample-efficient policy optimization",
+        "Global optimization for robotics"
+      ],
+      "physicalEvidenceStatus": "Actual learned onboard aerial control; current-advising collaboration, apparatus-site uncertainty; physical20",
+      "physicalEvidenceLabel": "受限真机证据：Actual learned onboard aerial control; current-advising collaboration, apparatus-site uncertainty; physical20",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-113.json",
+      "detailPage": "batches/control-113.md#frederike-dumbgen"
+    },
+    {
+      "id": "wei-wang",
+      "name": "Wei Wang",
+      "aliases": [
+        "Wei Wang (UW-Madison Marine Robotics Lab)"
+      ],
+      "school": "University of Wisconsin–Madison",
+      "title": "Assistant Professor (January2024)",
+      "homepage": "https://mrl.engr.wisc.edu/",
+      "batch": "control-114",
+      "discoveredAt": "2026-10-01T13:07:07Z",
+      "verifiedAt": "2026-10-01T13:10:38Z",
+      "scores": {
+        "fit": 35,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 13
+      },
+      "researchAreas": [
+        "Learning-based marine robot control",
+        "Autonomous surface vessels",
+        "Bioinspired and soft aquatic robots",
+        "Collective aquatic robotics"
+      ],
+      "physicalEvidenceStatus": "Verified prior MIT real-world DDPG vessel execution; current Wisconsin robot lab independently verified; physical20",
+      "physicalEvidenceLabel": "受限真机证据：Verified prior MIT real-world DDPG vessel execution; current Wisconsin robot lab independently verified; physical20",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-114.json",
+      "detailPage": "batches/control-114.md#wei-wang"
+    },
+    {
       "id": "tom-silver",
       "name": "Tom Silver",
       "aliases": [],
@@ -10499,6 +10566,38 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-096.json",
       "detailPage": "batches/embodied-096.md#rohan-r-paleja"
+    },
+    {
+      "id": "sotirios-d-nousias",
+      "name": "Sotirios D. Nousias",
+      "aliases": [
+        "Sotiris Nousias",
+        "Sotirios Nousias"
+      ],
+      "school": "Purdue University",
+      "title": "Kevin C and Suzanne L Kahn New Frontiers Assistant Professor of Computer Science",
+      "homepage": "https://sotirisnousias.com/",
+      "batch": "embodied-097",
+      "discoveredAt": "2026-10-01T12:51:01Z",
+      "verifiedAt": "2026-10-01T12:55:53Z",
+      "scores": {
+        "fit": 33,
+        "physical": 0,
+        "shortVisit": 8,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Low-light neural 3D reconstruction",
+        "Spatial foundation-model adaptation",
+        "Photon imaging and neural radiance fields"
+      ],
+      "discoveryTimestampNote": "Earliest precisely retained named official faculty observation; no earlier observation time was reconstructed.",
+      "candidateTier": "AI相关 · 真机待核实；方法研究备选",
+      "physicalEvidenceStatus": "unverified",
+      "physicalEvidenceLabel": "真机待核实",
+      "shortVisitStatus": "inquiry-only",
+      "recordFile": "batches/embodied-097.json",
+      "detailPage": "batches/embodied-097.md#sotirios-d-nousias"
     },
     {
       "id": "henny-admoni",
@@ -15297,6 +15396,70 @@
       "shortVisitStatus": "inquiry-only",
       "recordFile": "batches/hri-100.json",
       "detailPage": "batches/hri-100.md#kyle-t-yoshida"
+    },
+    {
+      "id": "nivii-kalavakonda-chandrasekar",
+      "name": "Nivii Kalavakonda Chandrasekar",
+      "aliases": [
+        "Niveditha Kalavakonda",
+        "Nivii Kalavakonda",
+        "Niveditha (Nivii) Kalavakonda"
+      ],
+      "school": "Northeastern University",
+      "title": "Assistant Teaching Professor of Mechanical and Industrial Engineering",
+      "homepage": "https://nkalavak.github.io/",
+      "batch": "hri-101",
+      "discoveredAt": "2026-10-01T12:30:06Z",
+      "verifiedAt": "2026-10-01T13:00:36Z",
+      "scores": {
+        "fit": 34,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-robot interaction",
+        "Language-guided navigation",
+        "Surgical robot perception",
+        "Assistive shared autonomy",
+        "Robot manipulation and learning"
+      ],
+      "candidateTier": "教学轨/其他研究导师；非研究型新AP优先组",
+      "physicalEvidenceStatus": "verified-limited-demo",
+      "physicalEvidenceLabel": "受限真机证据：verified-limited-demo",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-101.json",
+      "detailPage": "batches/hri-101.md#nivii-kalavakonda-chandrasekar"
+    },
+    {
+      "id": "serena-booth",
+      "name": "Serena Booth",
+      "aliases": [],
+      "school": "Brown University",
+      "title": "Assistant Professor of Computer Science",
+      "homepage": "https://slbooth.com/",
+      "batch": "hri-103",
+      "discoveredAt": "2026-10-01T07:17:47Z",
+      "verifiedAt": "2026-10-01T13:10:41Z",
+      "scores": {
+        "fit": 37,
+        "physical": 0,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-interactive robot learning",
+        "Preference-based reinforcement learning",
+        "Robot behavior specification",
+        "Model transparency and human-AI interaction",
+        "Intent-aware robot collaboration"
+      ],
+      "candidateTier": "AI相关 · 真机待核实；方法研究备选",
+      "physicalEvidenceStatus": "simulation-only",
+      "physicalEvidenceLabel": "仅仿真；真机待核实",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-103.json",
+      "detailPage": "batches/hri-103.md#serena-booth"
     }
   ]
 }

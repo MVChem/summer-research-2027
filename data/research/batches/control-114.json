@@ -1,0 +1,140 @@
+[
+  {
+    "id": "wei-wang",
+    "name": "Wei Wang",
+    "aliases": [
+      "Wei Wang (UW-Madison Marine Robotics Lab)"
+    ],
+    "school": "University of Wisconsin–Madison",
+    "homepage": "https://mrl.engr.wisc.edu/",
+    "title": "Assistant Professor (January2024)",
+    "department": "Mechanical Engineering",
+    "batch": "control-114",
+    "discoveredAt": "2026-10-01T13:07:07Z",
+    "verifiedAt": "2026-10-01T13:10:38Z",
+    "researchAreas": [
+      "Learning-based marine robot control",
+      "Autonomous surface vessels",
+      "Bioinspired and soft aquatic robots",
+      "Collective aquatic robotics"
+    ],
+    "fitReason": "Recent Assistant Professor with verified first-author deep-RL field deployment and an active Wisconsin robotics lab with current graduate advising and learning-control publications. Main limitation is that verified neural execution belongs to prior MIT work and external visiting intake is unknown.",
+    "physicalEvidence": {
+      "status": "Verified prior MIT real-world DDPG vessel execution; current Wisconsin robot lab independently verified; physical20",
+      "summary": "Full February 2023 ICRA paper implements DDPG actor/critic networks with two300-unit hidden layers to output thruster forces, converted to PWM. The learned controller executes onboard a real ASV on the Charles River using onboard lidar/IMU SLAM. Reported tracking error is lower than NMPC while physical actuator-force variation/effort is higher; favorable simulated energy results must not be transferred to the river experiment. This is prior MIT research. Current Wisconsin2026 fish and FloatForm work verify active physical robotics, but use bioinspired mechanics or classical coordination rather than newly proven neural control. The current lab lists2025 residual-model-learning MPC research; full implementation details were not recovered, so no added hardware credit inferred.",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Complete live Opportunities page invites ME PhD/MS degree applications and separately current UW-Madison graduate/undergraduate research. It does not offer an external-master research visit. Its one-year-or-more preference applies only to UW-Madison undergraduates. Current no-postdoc wording has an external-fellowship exception and is not a master/summer restriction. Lab roster and August 2026 news independently verify ongoing PhD/master mentoring.",
+      "sourceIds": [
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 35,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 13
+    },
+    "scoreReasons": {
+      "fit": "Substantive first-author marine DDPG control and current learning-control research with physical marine platforms.",
+      "physical": "Full real field execution is2023 prior MIT; no newer neural hardware upgrade from mechanical fish or classical boats.",
+      "shortVisit": "Only degree and local-student opportunities advertised; external visitor eligibility is not inferred.",
+      "freshness": "Dated2026 current robotics/advising evidence, while fully verified learned execution remains2023."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.wisc.edu / source 1",
+        "url": "https://engineering.wisc.edu/directory/profile/wei-wang/",
+        "summary": "Official current role, January 2024 start, public email and graduate research teaching.",
+        "verifiedAt": "2026-10-01T13:10:38Z",
+        "retrieval": "Direct primary page via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "engineering.wisc.edu / source 2",
+        "url": "https://engineering.wisc.edu/news/focus-on-new-faculty-wei-wang-charts-course-for-aquatic-robots/",
+        "summary": "Dated official February 2024 introduction, prior seven years at MIT and January 2024 faculty arrival.",
+        "verifiedAt": "2026-10-01T13:10:38Z",
+        "retrieval": "Direct primary page via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/pdf/2302.08100v2",
+        "summary": "Full original February 2023 primary paper; DDPG architecture and actual onboard Charles River field methods.",
+        "verifiedAt": "2026-10-01T13:10:38Z",
+        "retrieval": "Direct primary page via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "mrl.engr.wisc.edu / source 4",
+        "url": "https://mrl.engr.wisc.edu/",
+        "summary": "Live current research directions, August 2026 students and2025 learned-MPC conference news.",
+        "verifiedAt": "2026-10-01T13:10:38Z",
+        "retrieval": "Cloud-browser AX verified; web parser initially required JavaScript"
+      },
+      {
+        "id": "s5",
+        "label": "mrl.engr.wisc.edu / source 5",
+        "url": "https://mrl.engr.wisc.edu/opportunities/",
+        "summary": "Complete live degree/local-student intake, narrowly scoped undergraduate one-year preference and separate postdoc caveat.",
+        "verifiedAt": "2026-10-01T13:10:38Z",
+        "retrieval": "Cloud-browser AX verified"
+      },
+      {
+        "id": "s6",
+        "label": "mrl.engr.wisc.edu / source 6",
+        "url": "https://mrl.engr.wisc.edu/people/",
+        "summary": "Current PhD/master roster with Arturo Gamboa-Gonzalez and2026 entrants.",
+        "verifiedAt": "2026-10-01T13:10:38Z",
+        "retrieval": "Cloud-browser AX verified"
+      },
+      {
+        "id": "s7",
+        "label": "mrl.engr.wisc.edu / source 7",
+        "url": "https://mrl.engr.wisc.edu/publications/",
+        "summary": "Current2025 residual-learning papers; distinguishes pre-Wisconsin publications.",
+        "verifiedAt": "2026-10-01T13:10:38Z",
+        "retrieval": "Cloud-browser AX verified"
+      },
+      {
+        "id": "s8",
+        "label": "engineering.wisc.edu / source 8",
+        "url": "https://engineering.wisc.edu/news/robotics-researchers-fish-for-insights-into-aquatic-animal-movement/",
+        "summary": "June 5, 2026 actual current lab robotic fish and graduate student work; bioinspired mechanical experiments, no asserted AI policy.",
+        "verifiedAt": "2026-10-01T13:10:38Z",
+        "retrieval": "Direct primary page via web.run"
+      },
+      {
+        "id": "s9",
+        "label": "www.nature.com / source 9",
+        "url": "https://www.nature.com/articles/s41467-026-74527-6",
+        "summary": "July 9, 2026 FloatForm current collaborative robotics, PID/feedback linearization and potential fields; not new learned execution.",
+        "verifiedAt": "2026-10-01T13:10:38Z",
+        "retrieval": "Direct primary page via web.run"
+      }
+    ],
+    "unknowns": [
+      "Reuse wisconsin-madison supplement: current academic appointment/category for an outside master requires host/IFSS review. July 2026 proof budget is$2,431/month including an insurance component, but actual SHIP insurance is billed by half-year/year. Personal support is permitted in the reviewed central route, not a funding offer. Engineering recommends four months preparation;2027 category, exact dates, costs and host availability remain unresolved.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#wisconsin-madison)"
+    ],
+    "publicEmail": "wwang745@wisc.edu",
+    "appointmentStart": {
+      "year": 2024,
+      "month": 1,
+      "precision": "month",
+      "status": "current",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ],
+      "evidence": "Official current faculty page and February6,2024 new-faculty feature explicitly state January2024 arrival from MIT research scientist; no prior faculty appointment reported."
+    }
+  }
+]

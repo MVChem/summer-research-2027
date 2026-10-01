@@ -746,6 +746,15 @@
         "s3",
         "s4"
       ]
+    },
+    "sotirios-d-nousias": {
+      "note": "官方Fall2025 AP；独立intern/visitor询问，硕士资格/时长/资金未定；低照度3D重建是感知备选，无机器人执行",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s4",
+        "s5"
+      ]
     }
   }
 }

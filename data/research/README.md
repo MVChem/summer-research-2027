@@ -112,3 +112,5 @@ python scripts/test_research_ledger.py
 ## 原有名单AP的后续核查
 
 `baseline_ap_notes.json`与[原名单AP视图](baseline_ap.md)只记录后续来源观察、准确任职与询问限制。原200数据、原分数和原日期不改，没有新造`discoveredAt`，也不计入新增人数。2023及更早AP仍单列保留；近期转校不自动当作首次faculty任职。
+
+教学轨教师若有已核实的当前研究/研究生指导证据，可保留为其他研究导师；准确Teaching职级在资料中保留，默认排序另列教学轨，不等同于研究/tenure-track新AP。独立研究主办权限、时间、经费与访客容量仍需核实。

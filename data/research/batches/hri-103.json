@@ -1,0 +1,130 @@
+[
+  {
+    "id": "serena-booth",
+    "name": "Serena Booth",
+    "aliases": [],
+    "school": "Brown University",
+    "homepage": "https://slbooth.com/",
+    "title": "Assistant Professor of Computer Science",
+    "department": "Computer Science",
+    "batch": "hri-103",
+    "discoveredAt": "2026-10-01T07:17:47Z",
+    "verifiedAt": "2026-10-01T13:10:41Z",
+    "researchAreas": [
+      "Human-interactive robot learning",
+      "Preference-based reinforcement learning",
+      "Robot behavior specification",
+      "Model transparency and human-AI interaction",
+      "Intent-aware robot collaboration"
+    ],
+    "fitReason": "New-2025 Assistant Professor with strong technical work on how human feedback shapes sequential agent/robot behavior. A method-focused Human-AI/HRI backup under the new-faculty priority, with current physical learned execution and external-master visit access unverified.",
+    "physicalEvidence": {
+      "status": "simulation-only",
+      "summary": "The full April 2026 revision of Influencing Humans to Conform to Preference Models for RLHF compares partial-return, regret and change-in-expected-return preference models, trains reward functions from human trajectory comparisons, and tests interface/training interventions. Delivery and transfer domains are grid-world simulations, including a stochastic-transition variant; there is no physical robot execution. The 2026 HRI kitchen-intention study’s primary abstract adds robot-collaboration context, but its full methods were unavailable and are not used to claim hardware. Earlier robot demonstrations do not establish a current Brown apparatus.",
+      "sourceIds": [
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The live personal page tells external prospective PhD students to use Brown admissions and potential postdocs to email. It provides no separate outside-master visiting or summer-research invitation. Department-wide visiting-opportunity listings inspected are undergraduate programs and include stale 2023 summer dates, so they do not establish master’s access.",
+      "sourceIds": [
+        "s3",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 0,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong human-in-the-loop preference and robot-behavior methods; current full experimental anchor is simulated sequential decision-making.",
+      "physical": "No current physical learned execution established; grid-world simulations explicitly labeled.",
+      "shortVisit": "No distinct external-master visit invitation; PhD/postdoc and undergraduate institutional routes do not qualify.",
+      "freshness": "Full April 2026 revised methods, 2026 HRI primary publication and current research faculty verification."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "cs.brown.edu / source 1",
+        "url": "https://cs.brown.edu/people/faculty/sbooth3/",
+        "summary": "Current official Assistant Professor and AI/RL/HCI/robotics fields.",
+        "verifiedAt": "2026-10-01T13:10:41Z"
+      },
+      {
+        "id": "s2",
+        "label": "cs.brown.edu / source 2",
+        "url": "https://cs.brown.edu/news/2024/11/08/serena-booth-joins-brown-cs-as-assistant-professor/",
+        "summary": "Official hiring announcement explicitly states Fall 2025 start.",
+        "verifiedAt": "2026-10-01T13:10:41Z"
+      },
+      {
+        "id": "s3",
+        "label": "slbooth.com / source 3",
+        "url": "https://slbooth.com/",
+        "summary": "Current robot-behavior specification/revision agenda, email, dated research and external PhD/postdoc instructions.",
+        "verifiedAt": "2026-10-01T13:10:41Z"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2501.06416v3",
+        "summary": "Full April 12, 2026 revised technical paper; human preference collection and reward learning in grid-world domains.",
+        "verifiedAt": "2026-10-01T13:10:41Z"
+      },
+      {
+        "id": "s5",
+        "label": "intelligent-earth.ox.ac.uk / source 5",
+        "url": "https://intelligent-earth.ox.ac.uk/node/4861811",
+        "summary": "Official primary 2026 HRI abstract; kitchen instruction/intent study and separate LLM pilot, no hardware claim.",
+        "verifiedAt": "2026-10-01T13:10:41Z"
+      },
+      {
+        "id": "s6",
+        "label": "cs.brown.edu / source 6",
+        "url": "https://cs.brown.edu/research/research-opportunities-visiting-students/",
+        "summary": "Department page is undergraduate-focused and retains 2023 REU dates; not an outside-master or Summer 2027 offer.",
+        "verifiedAt": "2026-10-01T13:10:41Z"
+      },
+      {
+        "id": "s7",
+        "label": "isss.brown.edu / source 7",
+        "url": "https://isss.brown.edu/international-scholars/j-1-scholars/types-j-1-scholars/visiting-research-fellows",
+        "summary": "Reused graduate VRF institutional path, originally verified 2026-10-01T01:28:13Z.",
+        "verifiedAt": "2026-10-01T01:28:13Z",
+        "retrieval": "Reused earlier institutional review; not freshly retrieved"
+      },
+      {
+        "id": "s8",
+        "label": "isss.brown.edu / source 8",
+        "url": "https://isss.brown.edu/home/isss-administrative-fees",
+        "summary": "Reused September 2026 fee schedule; recheck for 2027.",
+        "verifiedAt": "2026-10-01T01:28:13Z",
+        "retrieval": "Reused earlier institutional review; not freshly retrieved"
+      }
+    ],
+    "unknowns": [
+      "Summer 2027 availability, project duration, remote participation, funding and current Brown robot access remain unknown. The PhD/postdoc guidance is scoped recruitment information, not a blanket no-visitors statement.",
+      "The RLHF study finds intervention effects that vary across preference models and domains; privileged reward information is explicitly a proof-of-concept condition. No universal alignment improvement or deployed robot safety guarantee is inferred.",
+      "Brown institutional policy is reused at 2026-10-01T01:28:13Z. External enrolled graduate researchers may use a sponsored Visiting Research Fellow appointment with degree linkage, Graduate School/ISSS approvals and designated insurance. Brown’s Student Intern category is undergraduate-only.",
+      "The saved guidance estimates 120–150 days, allows personal support and lists a $225 initial VRF charge for stays of six months or less under the September 2026 schedule. The support threshold, insurance premium, 2027 charges and individual appointment must be rechecked; no university funding or faculty vacancy is promised.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#brown)"
+    ],
+    "publicEmail": "serena_booth@brown.edu",
+    "candidateTier": "AI相关 · 真机待核实；方法研究备选",
+    "appointmentStart": {
+      "year": 2025,
+      "precision": "year",
+      "status": "current",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ],
+      "evidence": "Official November 8, 2024 hiring article explicitly announces Fall 2025 arrival; current CS directory confirms the appointment. Announcement year is not used as the start year."
+    }
+  }
+]

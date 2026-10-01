@@ -1,0 +1,238 @@
+[
+  {
+    "id": "wennie-tabib",
+    "name": "Wennie Tabib",
+    "aliases": [],
+    "school": "Carnegie Mellon University",
+    "homepage": "https://www.ri.cmu.edu/ri-faculty/wennie-tabib/",
+    "title": "Research faculty / Systems Scientist; PI/Director, Resilient Intelligent Systems Lab",
+    "department": "Robotics Institute; Field Robotics Center",
+    "batch": "control-032",
+    "discoveredAt": "2026-10-01T01:26:03Z",
+    "verifiedAt": "2026-10-01T01:28:10Z",
+    "researchAreas": [
+      "Robot reinforcement learning",
+      "Learning and geometric control",
+      "Aerial autonomy",
+      "Active perception",
+      "Resilient robot navigation"
+    ],
+    "fitReason": "Strong direct match for reinforcement learning integrated with real-time robot control and physical flight. Official university Faculty listing, lab PI/director designation and current doctoral/master's advisees establish academic mentoring scope while retaining the exact Systems Scientist title.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "May 23, 2026 AcroRL learns reference-modulation policies with PPO and deploys them on a custom six-inch quadrotor with bidirectional thrust. The physical platform uses an onboard Orin NX, 50 Hz learned-policy inference and ROS 2, with external motion tracking. Hardware experiments include upright/inverted transitions and circular flight. First author Gabriel Rodriguez is listed as a current master's student by both RI and RISLab. Simulation improvement percentages are not treated as physical-flight metrics.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "RISLab's current openings page directs prospective graduate students to central admissions and says to contact Tabib after admission; current CMU students and staff/postdoc applicants have separate inquiry instructions. No current external-master's visitor or eight-week invitation was verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 40,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct RL plus geometric control and real-time autonomy.",
+      "physical": "Named actual drone and onboard learned controller, current own-lab first author and PI evidence.",
+      "shortVisit": "Current advertised student pathways are admission/local-CMU, not external short visits.",
+      "freshness": "May 2026 hardware paper and news, current direct faculty/lab pages."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.ri.cmu.edu / source 1",
+        "url": "https://www.ri.cmu.edu/people/faculty/page/2/",
+        "summary": "Explicit university Faculty list includes Tabib as Systems Scientist.",
+        "verifiedAt": "2026-10-01T01:28:10Z",
+        "retrieval": "Direct official HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "www.ri.cmu.edu / source 2",
+        "url": "https://www.ri.cmu.edu/ri-faculty/wennie-tabib/",
+        "summary": "Exact current title, public email, RISLab affiliation and named graduate advisees including Gabriel Rodriguez.",
+        "verifiedAt": "2026-10-01T01:28:10Z",
+        "retrieval": "Direct official HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "rislab.org / source 3",
+        "url": "https://rislab.org/",
+        "summary": "Lab explicitly led by PI Tabib; current student roster and AcroRL research.",
+        "verifiedAt": "2026-10-01T01:28:10Z",
+        "retrieval": "Direct university-linked lab HTML via web.run; www variant failed, canonical indexed domain readable"
+      },
+      {
+        "id": "s4",
+        "label": "www.ri.cmu.edu / source 4",
+        "url": "https://www.ri.cmu.edu/robotics-groups/resilient-intelligent-systems-lab/",
+        "summary": "Official university lab description names Tabib Director.",
+        "verifiedAt": "2026-10-01T01:28:10Z",
+        "retrieval": "Official indexed university text via web search"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2605.24301v1",
+        "summary": "May 2026 full-text AcroRL physical experiments and Appendix B platform/onboard implementation.",
+        "verifiedAt": "2026-10-01T01:28:10Z",
+        "retrieval": "Direct primary author full-text HTML via web.run; contact email taken from RI rather than misaligned HTML author footnotes"
+      },
+      {
+        "id": "s6",
+        "label": "rislab.org / source 6",
+        "url": "https://rislab.org/openings.html",
+        "summary": "Graduate admission/current CMU/student/staff pathways; no explicit external visitor offer.",
+        "verifiedAt": "2026-10-01T01:28:10Z",
+        "retrieval": "Direct university-linked lab HTML via web.run"
+      }
+    ],
+    "unknowns": [
+      "Systems Scientist is the exact official title, not a professorial rank. External visitor-host approval, eight-week project capacity, funding and appointment category remain unknown. Reuse existing CMU policy supplements; degree admissions and RISS participation do not establish this external-master's route. AcroRL uses controlled motion-capture experiments, not an unrestricted field-flight safety claim.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "wtabib@andrew.cmu.edu",
+    "appointmentCategory": "Official Robotics Institute faculty category; exact Systems Scientist title retained"
+  },
+  {
+    "id": "abhisesh-silwal",
+    "name": "Abhisesh Silwal",
+    "aliases": [
+      "Abhi Silwal"
+    ],
+    "school": "Carnegie Mellon University",
+    "homepage": "https://www.ri.cmu.edu/ri-faculty/abhisesh-silwal/",
+    "title": "Research faculty / Systems Scientist; Agricultural Robotics Research Co-lead",
+    "department": "Robotics Institute; Field Robotics Center; FARM Lab",
+    "batch": "control-032",
+    "discoveredAt": "2026-10-01T01:26:03Z",
+    "verifiedAt": "2026-10-01T01:28:10Z",
+    "researchAreas": [
+      "Imitation learning for manipulation",
+      "Agricultural robotics",
+      "Learned active perception",
+      "Vision-guided manipulation",
+      "Field autonomy"
+    ],
+    "fitReason": "Concrete AI-and-hardware research on manipulation and active inspection, with official Faculty listing, current master's advisees and an agricultural-robotics co-lead role. Research projects offer a direct route from perception/learning methods to experiments, while short-visit availability remains unknown.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The 2025 RA-L pepper-harvesting project trains a visuomotor policy from 300 demonstrations and tests actual harvesting in unprotected fields; reported success is only 28.95%, so it is a research prototype. March 24, 2026 active disease inspection combines Foundation Stereo and learned YOLO26 segmentation with a Husky A200/xArm6 camera-positioning loop. Actual evaluation uses a fabricated lab tree; orchard deployment is future work and the base stays fixed during inspection. RI lists first author Hayden Feddock as a past master's advisee.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current RI and personal research pages show active projects, teaching and graduate advising, but no explicit external-master's visiting or summer 2027 intake was verified. Current local advisees are not proof of an external short-visit opening.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong imitation learning, perception and physical agricultural manipulation; systems-oriented focus.",
+      "physical": "Named current real learned-perception arm loop and field policy execution; lab/advising linkage verified.",
+      "shortVisit": "No current external short-visit pathway invitation verified.",
+      "freshness": "March 2026 technical evidence with current official role/advising and active research pages."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.ri.cmu.edu / source 1",
+        "url": "https://www.ri.cmu.edu/people/faculty/page/2/",
+        "summary": "Explicit university Faculty list includes Silwal as Systems Scientist.",
+        "verifiedAt": "2026-10-01T01:28:10Z",
+        "retrieval": "Direct official HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "www.ri.cmu.edu / source 2",
+        "url": "https://www.ri.cmu.edu/ri-faculty/abhisesh-silwal/",
+        "summary": "Current exact role, FARM Lab, public email, current and past master's advisees.",
+        "verifiedAt": "2026-10-01T01:28:10Z",
+        "retrieval": "Direct official HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "www.abhisilwal.com / source 3",
+        "url": "https://www.abhisilwal.com/",
+        "summary": "Faculty-linked homepage states co-lead of agricultural robotics research at FRC.",
+        "verifiedAt": "2026-10-01T01:28:10Z",
+        "retrieval": "Direct university-linked faculty HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "www.abhisilwal.com / source 4",
+        "url": "https://www.abhisilwal.com/research",
+        "summary": "Current personal research identifies learned harvesting, Erwin active perception and other physical systems.",
+        "verifiedAt": "2026-10-01T01:28:10Z",
+        "retrieval": "Direct university-linked faculty HTML via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "kantor-lab.github.io / source 5",
+        "url": "https://kantor-lab.github.io/roboharvest/",
+        "summary": "Actual field imitation-learning project and 2025 RA-L publication details, with modest success rate.",
+        "verifiedAt": "2026-10-01T01:28:10Z",
+        "retrieval": "Direct primary project HTML via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/abs/2411.09929",
+        "summary": "Earlier November 2024 pepper preprint date distinguished from 2025 journal record.",
+        "verifiedAt": "2026-10-01T01:28:10Z",
+        "retrieval": "Direct primary author abstract via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "arxiv.org / source 7",
+        "url": "https://arxiv.org/pdf/2603.23112",
+        "summary": "March 2026 full paper: named Husky/xArm, learned stereo and segmentation, laboratory fabricated tree and simulation; field validation remains future.",
+        "verifiedAt": "2026-10-01T01:28:10Z",
+        "retrieval": "Direct primary author PDF text via web.run"
+      }
+    ],
+    "unknowns": [
+      "Retain the official Systems Scientist role and separate central CMU visitor process from individual host approval. External-master's classification, supervision, funding, eight-week feasibility and lab/field access are unknown. Pepper journal publication is 2025, with an earlier November 2024 preprint; the disease-inspection study is 2026 laboratory/simulation work, not a completed orchard trial.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "asilwal@andrew.cmu.edu",
+    "appointmentCategory": "Official Robotics Institute faculty category; exact Systems Scientist title retained"
+  }
+]

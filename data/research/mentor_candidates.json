@@ -40,6 +40,7 @@
     "batches/control-029.json",
     "batches/control-030.json",
     "batches/control-031.json",
+    "batches/control-032.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -2507,6 +2508,62 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-031.json",
       "detailPage": "batches/control-031.md#lillian-j-ratliff"
+    },
+    {
+      "id": "wennie-tabib",
+      "name": "Wennie Tabib",
+      "aliases": [],
+      "school": "Carnegie Mellon University",
+      "title": "Research faculty / Systems Scientist; PI/Director, Resilient Intelligent Systems Lab",
+      "homepage": "https://www.ri.cmu.edu/ri-faculty/wennie-tabib/",
+      "batch": "control-032",
+      "discoveredAt": "2026-10-01T01:26:03Z",
+      "verifiedAt": "2026-10-01T01:28:10Z",
+      "scores": {
+        "fit": 40,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Robot reinforcement learning",
+        "Learning and geometric control",
+        "Aerial autonomy",
+        "Active perception",
+        "Resilient robot navigation"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-032.json",
+      "detailPage": "batches/control-032.md#wennie-tabib"
+    },
+    {
+      "id": "abhisesh-silwal",
+      "name": "Abhisesh Silwal",
+      "aliases": [
+        "Abhi Silwal"
+      ],
+      "school": "Carnegie Mellon University",
+      "title": "Research faculty / Systems Scientist; Agricultural Robotics Research Co-lead",
+      "homepage": "https://www.ri.cmu.edu/ri-faculty/abhisesh-silwal/",
+      "batch": "control-032",
+      "discoveredAt": "2026-10-01T01:26:03Z",
+      "verifiedAt": "2026-10-01T01:28:10Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Imitation learning for manipulation",
+        "Agricultural robotics",
+        "Learned active perception",
+        "Vision-guided manipulation",
+        "Field autonomy"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-032.json",
+      "detailPage": "batches/control-032.md#abhisesh-silwal"
     },
     {
       "id": "tom-silver",

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "william-t-freeman",
+    "name": "William T. Freeman",
+    "aliases": [
+      "Bill Freeman",
+      "William Freeman",
+      "W. T. Freeman"
+    ],
+    "school": "Massachusetts Institute of Technology",
+    "homepage": "https://www.eecs.mit.edu/people/william-freeman/",
+    "title": "Thomas and Gerd Perkins Professor of EECS (Post-Tenure)",
+    "department": "Electrical Engineering and Computer Science; CSAIL",
+    "batch": "hri-086",
+    "discoveredAt": "2026-10-01T10:42:07Z",
+    "verifiedAt": "2026-10-01T10:51:01Z",
+    "researchAreas": [
+      "Video foundation models for robotics",
+      "Visual generative planning",
+      "Human-motion retargeting",
+      "Embodied perception",
+      "Computer vision and machine learning"
+    ],
+    "fitReason": "A current robot-planning collaboration gives a specific embodied-AI route within a broader vision/generative-modeling group. Official February 2026 MIT reporting independently identifies co-first author Tianyuan Zhang as Freeman’s active PhD advisee. A visitor should target the video-to-action interface rather than assume all of the group’s imaging projects involve robots.",
+    "physicalEvidence": {
+      "status": "verified collaborative learned physical execution; local apparatus ownership and access unconfirmed",
+      "summary": "Large Video Planner, first posted December 2025 and revised May 8, 2026, uses a learned 14B video diffusion planner, hand/depth reconstruction and kinematic retargeting to execute actions on a real Franka Panda with parallel gripper and a Unitree G1 arm with Inspire hand. The full methods specify 15 Hz and 5 Hz execution respectively. Physical trials are separate from third-party evaluation of generated videos. Planning takes several minutes on an A100 and execution is explicitly open-loop; this is not a real-time reactive VLA controller. Success varies considerably by task; some humanoid trials used added gripper tape for friction/torque limitations. The active advisee link supports substantive group involvement, but apparatus ownership/location and Freeman-specific hardware access are unresolved in this multi-university collaboration.",
+      "sourceIds": [
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current outside-master short-visit or remote-intern invitation was verified. Current official pages establish active faculty status and doctoral advising, not summer 2027 availability. The personal site failed direct retrieval; the old CSAIL group page is explicitly last updated April 2012 and is not a current recruitment source. Historical visitors and MIT-wide policies do not establish an offer.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Specific video-to-action robot methodology, with a broader vision research agenda requiring topic alignment.",
+      "physical": "Actual learned execution with active advising linkage; collaborative hardware ownership/access remains unverified.",
+      "shortVisit": "No applicable current external-master invitation or short-visit offer established.",
+      "freshness": "May 2026 manuscript revision, June 2026 PI record and current-year advising verification."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.eecs.mit.edu / source 1",
+        "url": "https://www.eecs.mit.edu/people/william-freeman/",
+        "summary": "Direct current official directory confirms endowed Professor of EECS (Post-Tenure) title and institutional email.",
+        "verifiedAt": "2026-10-01T10:51:01Z"
+      },
+      {
+        "id": "s2",
+        "label": "www.csail.mit.edu / source 2",
+        "url": "https://www.csail.mit.edu/person/william-freeman",
+        "summary": "Direct official PI page, updated June 17, 2026, confirms active CSAIL role and current vision/ML research.",
+        "verifiedAt": "2026-10-01T10:51:01Z"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2512.15840v2",
+        "summary": "Full May 2026 revision inspected for physical platforms, video-planner and retargeting methods, timing, and explicit open-loop limitations; December 2025 origin retained.",
+        "verifiedAt": "2026-10-01T10:51:01Z"
+      },
+      {
+        "id": "s4",
+        "label": "www.csail.mit.edu / source 4",
+        "url": "https://www.csail.mit.edu/event/scale-ml-tianyuan-zhang-test-time-training-infinite-context",
+        "summary": "Official February 19, 2026 event bio independently identifies LVP co-first author Tianyuan Zhang as a current third-year MIT EECS PhD advised by Bill Freeman.",
+        "verifiedAt": "2026-10-01T10:51:01Z"
+      },
+      {
+        "id": "s5",
+        "label": "people.csail.mit.edu / source 5",
+        "url": "https://people.csail.mit.edu/billf/group.html",
+        "summary": "Old group roster explicitly dated April 2012; not treated as current visitor availability.",
+        "verifiedAt": "2026-10-01T10:51:01Z"
+      },
+      {
+        "id": "s6",
+        "label": "iso.mit.edu / source 6",
+        "url": "https://iso.mit.edu/getting-started/visiting-students-faq/",
+        "summary": "Central visiting-student rules reused from 2026-09-30T23:09:41Z institutional verification; no new approval inferred.",
+        "verifiedAt": "2026-09-30T23:09:41Z",
+        "retrieval": "Reused earlier institutional-policy review; dated provisions remain subject to 2027 confirmation"
+      },
+      {
+        "id": "s7",
+        "label": "hq.csail.mit.edu / source 7",
+        "url": "https://hq.csail.mit.edu/sites/default/files/documents/Visiting%20Student%20Info%20Page%20PDF.pdf",
+        "summary": "Saved January 2023 CSAIL local instructions reused with source-age caveat and reconfirmation requirement.",
+        "verifiedAt": "2026-09-30T23:09:41Z",
+        "retrieval": "Reused earlier institutional-policy review; dated provisions remain subject to 2027 confirmation"
+      },
+      {
+        "id": "s8",
+        "label": "Primary author listing: discovery-time provenance only",
+        "url": "https://www.boleideng.com/publication/yang-2025-electronic/",
+        "summary": "Primary author page names William Freeman. This precisely retained earlier encounter supplies timestamp provenance only; it does not establish additional learned robot execution or a visitor offer.",
+        "verifiedAt": "2026-10-01T10:42:07Z",
+        "retrieval": "Direct primary coauthor-page observation retained at the stated time"
+      }
+    ],
+    "unknowns": [
+      "MIT Visiting Student policy is reused from the institutional check of 2026-09-30T23:09:41Z. Faculty-invited outside graduate research visits can last three weeks to 12 months, but at least 51% of total attendance costs must come from non-personal sources; full personal/family funding is not a valid assumption for that route.",
+      "MIT policy evidence is reused from the September 30 audit. Complete central documents are requested at least 90 days ahead; the saved January 2023 CSAIL guide instead specifies 120 days and two simultaneous visitors per host, which should be reconfirmed. No scholar-category workaround for still-enrolled outside degree students is assumed.",
+      "The saved September 2026–August 2027 support estimate is $4,350 per month, including $3,725 living costs and a $625 monthly fee; a separate $1,000 processing charge must come from PI discretionary funds. These are support/fee rules, not guaranteed funding or a complete travel budget.",
+      "Exact post-tenure appointment label is retained from the current EECS directory. Current doctoral advising is verified, but authority and capacity to sponsor this particular short visitor require departmental confirmation.",
+      "Summer dates, project supervision, remote participation, stipend and access to collaborators’ robots remain unknown. Google Research affiliation in the CSAIL biography is not a Google internship invitation.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: The first precisely retained primary-source observation was a coauthor listing at 2026-10-01T10:42:07Z; the dedicated candidate screen began at 10:48:48 UTC. Earlier incidental exposure was not precisely timed and has not been reconstructed.",
+      "[Institutional visitor rules](../eligibility_notes.md#mit-visiting-students)"
+    ],
+    "discoveryTimestampNote": "The first precisely retained primary-source observation was a coauthor listing at 2026-10-01T10:42:07Z; the dedicated candidate screen began at 10:48:48 UTC. Earlier incidental exposure was not precisely timed and has not been reconstructed.",
+    "publicEmail": "billf@csail.mit.edu"
+  }
+]

@@ -269,6 +269,7 @@
     "batches/hri-083.json",
     "batches/hri-084.json",
     "batches/hri-085.json",
+    "batches/hri-086.json",
     "batches/hri-089.json"
   ],
   "candidates": [
@@ -14252,6 +14253,40 @@
       "shortVisitStatus": "unknown · indexed MSc/BSc项目询问；外校短访适用性未核",
       "recordFile": "batches/hri-085.json",
       "detailPage": "batches/hri-085.md#j-edward-colgate"
+    },
+    {
+      "id": "william-t-freeman",
+      "name": "William T. Freeman",
+      "aliases": [
+        "Bill Freeman",
+        "William Freeman",
+        "W. T. Freeman"
+      ],
+      "school": "Massachusetts Institute of Technology",
+      "title": "Thomas and Gerd Perkins Professor of EECS (Post-Tenure)",
+      "homepage": "https://www.eecs.mit.edu/people/william-freeman/",
+      "batch": "hri-086",
+      "discoveredAt": "2026-10-01T10:42:07Z",
+      "verifiedAt": "2026-10-01T10:51:01Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Video foundation models for robotics",
+        "Visual generative planning",
+        "Human-motion retargeting",
+        "Embodied perception",
+        "Computer vision and machine learning"
+      ],
+      "discoveryTimestampNote": "The first precisely retained primary-source observation was a coauthor listing at 2026-10-01T10:42:07Z; the dedicated candidate screen began at 10:48:48 UTC. Earlier incidental exposure was not precisely timed and has not been reconstructed.",
+      "physicalEvidenceStatus": "verified collaborative learned physical execution; local apparatus ownership and access unconfirmed",
+      "physicalEvidenceLabel": "受限真机证据：verified collaborative learned physical execution; local apparatus ownership and access unconfirmed",
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-086.json",
+      "detailPage": "batches/hri-086.md#william-t-freeman"
     },
     {
       "id": "maria-gorlatova",

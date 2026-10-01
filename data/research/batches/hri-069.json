@@ -1,0 +1,124 @@
+[
+  {
+    "id": "yong-kwon-cho",
+    "name": "Yong Kwon Cho",
+    "aliases": [
+      "Yong K. Cho",
+      "Yong Cho",
+      "Yong-Kwon Cho"
+    ],
+    "school": "Georgia Institute of Technology",
+    "homepage": "https://ce.gatech.edu/directory/person/yong-kwon-cho",
+    "title": "Professor",
+    "department": "Civil and Environmental Engineering; Institute for Robotics and Intelligent Machines",
+    "batch": "hri-069",
+    "discoveredAt": "2026-10-01T06:18:33Z",
+    "verifiedAt": "2026-10-01T06:26:41Z",
+    "researchAreas": [
+      "Human-aware mobile robot perception",
+      "LiDAR-camera fusion",
+      "Applied deep learning for robotics",
+      "Construction robotics",
+      "Social navigation"
+    ],
+    "fitReason": "Applied embodied-perception and HRI option: real robot sensing around moving workers, semantic tracking and socially aware navigation. Current local graduate supervision is established. A short perception/robustness evaluation project is a possible research fit, not an advertised master’s summer visit.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The complete ICRA 2025 workshop paper deploys YOLOv8 at 10 Hz with upward-facing fisheye imagery, LiDAR SLAM and modified Kalman tracking on an actual quadruped. Two participants perform indoor bricklaying while the robot moves along a corridor using an autonomous navigation package; a 150-second sensor sequence and Vicon reference trajectories support evaluation. This paper evaluates perception, leaving use of tracked people for social navigation as future work. A separate journal extension, published online September 23, 2026, explicitly reports real-testbed navigation using sensor-fusion detections with social-force-augmented DWA. Its full methods were not accessible, so the exact detector/version and detailed navigation protocol are not presumed identical. This is learned perception coupled to conventional planning, not an end-to-end learned locomotion policy. The July 2026 arXiv upload of the workshop paper is not a new experiment.",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "degree-only · visiting PhD invitation",
+      "summary": "The live RICAL openings section welcomes visiting PhD students and recruits funded degree-seeking graduate research assistants. It does not explicitly invite visiting master’s students. Current/past visiting researchers and undergraduates on the roster do not establish a general external-master offer, funding or a summer 2027 slot.",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "scores": {
+      "fit": 36,
+      "physical": 23,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Substantive neural perception and human-aware navigation integration; more specialized than general robot policy learning.",
+      "physical": "Current local quadruped deployment and later real navigation extension; conservative cap reflects limited workshop duration and inaccessible complete extension methods.",
+      "shortVisit": "Only PhD-scoped visiting invitation is explicit; no outside-master opening.",
+      "freshness": "Full 2025 study plus separate September 2026 online journal extension and current lab evidence."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "ce.gatech.edu / source 1",
+        "url": "https://ce.gatech.edu/directory/person/yong-kwon-cho",
+        "summary": "Official current Professor, RICAL director, IRIM core faculty, public email and research profile.",
+        "verifiedAt": "2026-10-01T06:26:41Z"
+      },
+      {
+        "id": "s2",
+        "label": "rical.ce.gatech.edu / source 2",
+        "url": "https://rical.ce.gatech.edu/",
+        "summary": "Current student lineage including Yilong Chen; openings explicitly welcome visiting PhD students, not outside master’s visitors.",
+        "verifiedAt": "2026-10-01T06:26:41Z"
+      },
+      {
+        "id": "s3",
+        "label": "construction-robots.github.io / source 3",
+        "url": "https://construction-robots.github.io/papers/93.pdf",
+        "summary": "Complete ICRA 2025 workshop paper verifies YOLOv8, actual quadruped motion, two-person bricklaying scenario, 150-second measurement sequence and perception-versus-future-navigation distinction.",
+        "verifiedAt": "2026-10-01T06:26:41Z"
+      },
+      {
+        "id": "s4",
+        "label": "ascelibrary.org / source 4",
+        "url": "https://ascelibrary.org/doi/10.1061/JCCEE5.CPENG-7690",
+        "summary": "Publisher record and indexed primary abstract: September 23, 2026 online publication, January 2027 issue, real-world testbed social-force/DWA navigation extension, local student affiliation and Cho supervision/resources.",
+        "verifiedAt": "2026-10-01T06:26:41Z",
+        "retrieval": "Publisher record and abstract; full extension methods unavailable"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/abs/2607.06896",
+        "summary": "July 2026 upload of the already-inspected 2025 workshop study; not counted as a fresh experiment.",
+        "verifiedAt": "2026-10-01T06:26:41Z"
+      },
+      {
+        "id": "s6",
+        "label": "ascelibrary.org / source 6",
+        "url": "https://ascelibrary.org/doi/10.1061/9780784486443.067",
+        "summary": "Primary abstract explicitly identifies Unity/ROS simulated testing for the separate imitation-learning study.",
+        "verifiedAt": "2026-10-01T06:26:41Z"
+      },
+      {
+        "id": "s7",
+        "label": "isss.oie.gatech.edu / source 7",
+        "url": "https://isss.oie.gatech.edu/isss/j-scholar-or-j-student-intern-ds-2019-request-process",
+        "summary": "Existing outside-degree Student Intern process and host requirements; no mentor offer.",
+        "verifiedAt": "2026-10-01T06:26:41Z"
+      },
+      {
+        "id": "s8",
+        "label": "isss.oie.gatech.edu / source 8",
+        "url": "https://isss.oie.gatech.edu/exchange-visitors-faqs",
+        "summary": "Existing funding and exchange-visitor guidance; current self-funding possibility remains conditional.",
+        "verifiedAt": "2026-10-01T06:26:41Z"
+      }
+    ],
+    "unknowns": [
+      "Use current official Professor title. Older RICAL biography has overlapping Associate/Professor date ranges, and a 2024 NUS visiting distinction does not establish a current non-US primary appointment.",
+      "The complete 2025 workshop experiment provides limited-duration indoor moving-platform perception evidence. The newer 2026 journal abstract establishes a navigation extension, but unavailable full methods limit precision about deployment and controller details.",
+      "The 2026 conference chapter on imitation-learning observation features explicitly uses Unity simulation. Do not substitute that chapter, unpublished GNN titles or older CrossLoco coauthorship for the documented recent local perception experiment.",
+      "Existing Georgia Tech institutional guidance allows a conditional outside undergraduate/graduate Student Intern route with continued enrollment, degree relevance, return to the home program and at least 32 hours per week. It does not broaden this lab’s PhD-scoped invitation.",
+      "Existing Georgia Tech funding guidance lists $1,800 per month and permits self- or department funding, but this is a financial-evidence minimum, not a total travel budget or 2027 guarantee. Host approval, exact dates, insurance, fees, remote option and mentor capacity remain unknown.",
+      "The journal issue is January 2027 but the work was already published online September 23, 2026. It is not treated as a future unobserved publication.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Georgia Tech institutional visitor rules](../eligibility_notes.md#georgia-tech-student-intern)"
+    ],
+    "publicEmail": "yong.cho@ce.gatech.edu"
+  }
+]

@@ -217,7 +217,8 @@
     "batches/hri-065.json",
     "batches/hri-066.json",
     "batches/hri-067.json",
-    "batches/hri-068.json"
+    "batches/hri-068.json",
+    "batches/hri-069.json"
   ],
   "candidates": [
     {
@@ -11972,6 +11973,37 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-068.json",
       "detailPage": "batches/hri-068.md#doyun-lee"
+    },
+    {
+      "id": "yong-kwon-cho",
+      "name": "Yong Kwon Cho",
+      "aliases": [
+        "Yong K. Cho",
+        "Yong Cho",
+        "Yong-Kwon Cho"
+      ],
+      "school": "Georgia Institute of Technology",
+      "title": "Professor",
+      "homepage": "https://ce.gatech.edu/directory/person/yong-kwon-cho",
+      "batch": "hri-069",
+      "discoveredAt": "2026-10-01T06:18:33Z",
+      "verifiedAt": "2026-10-01T06:26:41Z",
+      "scores": {
+        "fit": 36,
+        "physical": 23,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-aware mobile robot perception",
+        "LiDAR-camera fusion",
+        "Applied deep learning for robotics",
+        "Construction robotics",
+        "Social navigation"
+      ],
+      "shortVisitStatus": "degree-only · visiting PhD invitation",
+      "recordFile": "batches/hri-069.json",
+      "detailPage": "batches/hri-069.md#yong-kwon-cho"
     }
   ]
 }

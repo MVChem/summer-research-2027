@@ -33,6 +33,7 @@
     "batches/control-022.json",
     "batches/control-023.json",
     "batches/control-024.json",
+    "batches/control-025.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -2234,6 +2235,33 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-024.json",
       "detailPage": "batches/control-024.md#ioannis-rekleitis"
+    },
+    {
+      "id": "michael-everett",
+      "name": "Michael Everett",
+      "aliases": [],
+      "school": "Northeastern University",
+      "title": "Assistant Professor; Autonomy & Intelligence Laboratory Director",
+      "homepage": "https://mfe7.github.io/",
+      "batch": "control-025",
+      "discoveredAt": "2026-10-01T00:27:26Z",
+      "verifiedAt": "2026-10-01T00:29:17Z",
+      "scores": {
+        "fit": 40,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "safe robot learning",
+        "neural network verification",
+        "risk-aware off-road navigation",
+        "reinforcement learning",
+        "reachability and model predictive control"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-025.json",
+      "detailPage": "batches/control-025.md#michael-everett"
     },
     {
       "id": "tom-silver",

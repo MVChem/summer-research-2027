@@ -1,0 +1,133 @@
+[
+  {
+    "id": "michael-everett",
+    "name": "Michael Everett",
+    "aliases": [],
+    "school": "Northeastern University",
+    "homepage": "https://mfe7.github.io/",
+    "title": "Assistant Professor; Autonomy & Intelligence Laboratory Director",
+    "department": "Electrical and Computer Engineering; Khoury College of Computer Sciences",
+    "batch": "control-025",
+    "discoveredAt": "2026-10-01T00:27:26Z",
+    "verifiedAt": "2026-10-01T00:29:17Z",
+    "researchAreas": [
+      "safe robot learning",
+      "neural network verification",
+      "risk-aware off-road navigation",
+      "reinforcement learning",
+      "reachability and model predictive control"
+    ],
+    "fitReason": "Direct intersection of learning-enabled physical autonomy and certifiable control, including learned terrain risk integrated with planning.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "SPARTA (CoRL 2025) demonstrates learned point-cloud traversability on an AgileX Scout Mini; Appendix F specifies Ouster OS1-128 and onboard RTX4070. Its prebuilt-map assumption and simulated tire-deformation surrogate remain limitations; 91% versus73% is a simulation result. September2026 SCRAMPPI additionally documents40 Scout Mini hardware trials with onboard planning, but is numerical HJ/MPC rather than a learned policy. The adversary is simulated and recovery manually triggered. Current official faculty roster identifies SPARTA first author Zihao Dong as his PhD student.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current join page offers PhD/postdoc routes and specifically addresses current Northeastern MS students with no MS hiring funding. No external-master’s visitor invitation found. The forms are interest collection, not admission or a summer offer.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "scores": {
+      "fit": 40,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Learning, verification and control are core lab methods.",
+      "physical": "Named current-group learned-navigation hardware and fresh independent control deployments; no exclusive ownership claim.",
+      "shortVisit": "No external short-visit route verified.",
+      "freshness": "September20,2026 full SCRAMPPI revision plus2025 learned-hardware work and current faculty roster."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.khoury.northeastern.edu / source 1",
+        "url": "https://www.khoury.northeastern.edu/people/michael-everett/",
+        "summary": "Current joint Assistant Professor, email and current student Zihao Dong.",
+        "verifiedAt": "2026-10-01T00:29:17Z",
+        "retrieval": "direct official HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "mfe7.github.io / source 2",
+        "url": "https://mfe7.github.io/",
+        "summary": "Current laboratory leadership and previous Google role.",
+        "verifiedAt": "2026-10-01T00:29:17Z",
+        "retrieval": "direct faculty HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "neu-autonomy.github.io / source 3",
+        "url": "https://neu-autonomy.github.io/lab_website/joinus",
+        "summary": "PhD/postdoc/local-MS routes; no external visit offer.",
+        "verifiedAt": "2026-10-01T00:29:17Z",
+        "retrieval": "direct lab HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/abs/2506.04362",
+        "summary": "SPARTA September29,2025 revision and explicit hardware-versus-simulation distinction.",
+        "verifiedAt": "2026-10-01T00:29:17Z",
+        "retrieval": "direct preprint abstract via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2506.04362v2",
+        "summary": "Learned risk model, prebuilt-map limitations and AppendixF hardware specification. Body4.4 omitted in HTML rendering.",
+        "verifiedAt": "2026-10-01T00:29:17Z",
+        "retrieval": "direct preprint HTML via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "github.com / source 6",
+        "url": "https://github.com/neu-autonomy/SPARTA",
+        "summary": "Official CoRL2025 code/research provenance, not an invitation.",
+        "verifiedAt": "2026-10-01T00:29:17Z",
+        "retrieval": "indexed author repository text via web.run"
+      },
+      {
+        "id": "s7",
+        "label": "arxiv.org / source 7",
+        "url": "https://arxiv.org/abs/2603.26995",
+        "summary": "SCRAMPPI latest revisionSeptember20,2026.",
+        "verifiedAt": "2026-10-01T00:29:17Z",
+        "retrieval": "direct preprint abstract via web.run"
+      },
+      {
+        "id": "s8",
+        "label": "arxiv.org / source 8",
+        "url": "https://arxiv.org/html/2603.26995v2",
+        "summary": "SectionVII physical control deployment,40trials; simulated adversary and manual trigger.",
+        "verifiedAt": "2026-10-01T00:29:17Z",
+        "retrieval": "direct preprint HTML via web.run"
+      }
+    ],
+    "unknowns": [
+      "External master’s status, formal visitor appointment, funding and eight-week hosting remain unknown. The local-MS statement is not a universal visitor prohibition. Google PAIR is listed as previous on personal homepage, despite present-tense university directory biography; current Northeastern appointment is corroborated.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "m.everett@northeastern.edu"
+  }
+]

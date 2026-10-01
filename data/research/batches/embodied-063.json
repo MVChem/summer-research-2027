@@ -1,0 +1,219 @@
+[
+  {
+    "id": "yaqi-xie",
+    "name": "Yaqi Xie",
+    "aliases": [],
+    "school": "University of Illinois Urbana-Champaign (incoming lab; current adjunct listing)",
+    "homepage": "https://yaqi-xie.me/",
+    "title": "Adjunct Assistant Professor in current directory; incoming Assistant Professor per personal announcement",
+    "department": "Electrical and Computer Engineering; announced Computer Science affiliate",
+    "batch": "embodied-063",
+    "discoveredAt": "2026-10-01T05:30:48Z",
+    "verifiedAt": "2026-10-01T05:35:01Z",
+    "researchAreas": [
+      "Neuro-symbolic robot learning",
+      "Foundation-model planning",
+      "Spatial reasoning",
+      "Long-horizon manipulation",
+      "Human-AI collaboration"
+    ],
+    "fitReason": "Strong embodied foundation-model match, with neural predicate learning grounded in demonstrations and robot planning. An explicit intern inquiry invitation makes the new lab worth investigating, subject to its unresolved faculty start and hosting arrangements.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "UniPred’s September 25, 2026 revision reports actual AgileX Piper manipulation in table cleaning and cluttered retrieval. pySpatial separately executes navigation plans on a Unitree Go1. Xie is UniPred’s corresponding author; this is CMU-era collaborative work, not verified UIUC apparatus.",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only · adjunct/incoming host, start unknown",
+      "summary": "Her current personal page explicitly invites interns, PhD students and postdocs to join her UIUC lab via CV and research-interest email. It does not state an eight-week duration, external-master’s eligibility, funding or Summer 2027 dates. The official ECE directory currently lists an adjunct assistant-professor appointment, while her announcement remains incoming.",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 7,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct neuro-symbolic foundation-model robotics and embodied reasoning.",
+      "physical": "Actual physical experiments, but prior/collaborative apparatus rather than confirmed new-host equipment.",
+      "shortVisit": "Explicit current intern invitation; no external-master’s duration or summer commitment.",
+      "freshness": "Full September 2026 revision and current official/author appointment sources."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "ece.illinois.edu / source 1",
+        "url": "https://ece.illinois.edu/about/directory/adjuncts/yaqixie",
+        "summary": "Full live official profile lists Adjunct Assistant Professor and the Illinois email; no start date.",
+        "verifiedAt": "2026-10-01T05:35:01Z",
+        "retrieval": "direct-browser-primary"
+      },
+      {
+        "id": "s2",
+        "label": "yaqi-xie.me / source 2",
+        "url": "https://yaqi-xie.me/",
+        "summary": "Full page describes incoming ECE/CS-affiliate role, current CMU postdoc and explicit intern inquiry instructions.",
+        "verifiedAt": "2026-10-01T05:35:01Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2512.17992v2",
+        "summary": "Full latest revision verifies corresponding authorship, real Piper execution, mixed controllers and attempt-sensitive scoring.",
+        "verifiedAt": "2026-10-01T05:35:01Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "unipred.github.io / source 4",
+        "url": "https://unipred.github.io/",
+        "summary": "Current project corroborates authors, two physical domains and failure-recovery demonstrations.",
+        "verifiedAt": "2026-10-01T05:35:01Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2603.00905v1",
+        "summary": "Full pySpatial section4.4 specifies Go1 execution and manual command conversion; distinct from offline spatial benchmarks.",
+        "verifiedAt": "2026-10-01T05:35:01Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "Preserve both appointment statements. No exact full faculty start date was found, and the current adjunct listing does not establish an already operational independent lab or sponsor authority for an external visitor.",
+      "Prior CMU robotics apparatus and summer scholars do not establish UIUC hardware access or an external-master’s visit. Physical evidence is capped at 20.",
+      "UniPred mixes learned ACT box skills with analytic pick/place. Its physical metric rewards earlier success across up to three attempts; do not describe the fractional scores as one-shot success rates or partial task completion.",
+      "pySpatial’s high-level plans are manually converted to temporal velocity targets. It is not demonstrated end-to-end autonomous language-to-motor control.",
+      "Reuse the Illinois Urbana-Champaign institutional note: its Student Intern category is undergraduate-only, while an external master’s academic appointment through the scholar route remains host/ISSS-specific. Personal funding on the general scholar page is not individual approval.",
+      "Summer 2027 availability, start date, eight-week scope, remote participation, sponsorship, financial support and actual robot access remain unconfirmed.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Designated public recruiting address: yaqixie.ai@gmail.com. No message has been sent.",
+      "[Institutional visitor rules](../eligibility_notes.md#illinois-urbana-champaign)"
+    ],
+    "publicEmail": "yaqixie@illinois.edu",
+    "publicRecruitingEmail": "yaqixie.ai@gmail.com"
+  },
+  {
+    "id": "carol-c-menassa",
+    "name": "Carol C. Menassa",
+    "aliases": [
+      "Carol Menassa"
+    ],
+    "school": "University of Michigan, Ann Arbor",
+    "homepage": "https://sites.google.com/a/umich.edu/sicislab/home",
+    "title": "Robert I. Carr Collegiate Professor; John L. Tishman CM Faculty Scholar",
+    "department": "Civil and Environmental Engineering",
+    "batch": "embodied-063",
+    "discoveredAt": "2026-10-01T05:32:59Z",
+    "verifiedAt": "2026-10-01T05:35:01Z",
+    "researchAreas": [
+      "Foundation-model robot planning",
+      "Assistive robot navigation",
+      "Human-robot collaboration",
+      "Robotic scene understanding",
+      "Learning for manipulation"
+    ],
+    "fitReason": "An established host for applied embodied AI in built environments: her current group connects language/vision models to mobile robots and neural-symbolic manipulation. A CS-centered perception or planning project would fit better than a general construction-management proposal.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "OpenGuide uses a real TurtleBot2-based GuideBot with ZED sensing for foundation-model/POMDP object search: 48 trials across apartment and office settings. The current SICIS roster lists its student authors. March 2026 KUKAloha adds actual industrial-arm shared control; September 2026 UniPred adds collaborative learned-predicate manipulation.",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current official faculty and SICIS pages identify an active group with PhD and MSE robotics projects, but no explicit external visiting-student or short-summer invitation was found. Local master’s supervision and current grants do not imply visiting capacity.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 36,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Applied foundation-model perception/planning and human-robot collaboration within a broader built-environment program.",
+      "physical": "Direct current-group real navigation and industrial manipulation, with separately bounded collaborative learned manipulation.",
+      "shortVisit": "No explicit external visitor invitation verified.",
+      "freshness": "September 2026 paper revision, current lab projects and official appointment."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "cee.engin.umich.edu / source 1",
+        "url": "https://cee.engin.umich.edu/people/menassa-carol-c/",
+        "summary": "Full current official profile verifies the named professorship, department and current research scope.",
+        "verifiedAt": "2026-10-01T05:35:01Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "sites.google.com / source 2",
+        "url": "https://sites.google.com/a/umich.edu/sicislab/home",
+        "summary": "Full lab page verifies director, public email and substantive2026 activity.",
+        "verifiedAt": "2026-10-01T05:35:01Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s3",
+        "label": "sites.google.com / source 3",
+        "url": "https://sites.google.com/a/umich.edu/sicislab/people",
+        "summary": "Full current roster lists Yifan Xu, Qianwei Wang and Qizhang Shen in robotics/learned-planning projects.",
+        "verifiedAt": "2026-10-01T05:35:01Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2509.02425v1",
+        "summary": "Full OpenGuide paper verifies current-Michigan authors, named platform and apartment/office execution; no physical grasping.",
+        "verifiedAt": "2026-10-01T05:35:01Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2603.20129v1",
+        "summary": "Full KUKAloha paper verifies actual6-DoF KUKA execution and the teleoperation/fiducial-control boundary.",
+        "verifiedAt": "2026-10-01T05:35:01Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2512.17992v2",
+        "summary": "Latest full UniPred revision names Menassa as a Michigan coauthor; collaborative hardware is not assigned exclusively to her lab.",
+        "verifiedAt": "2026-10-01T05:35:01Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "No Summer 2027 opening, external-master’s acceptance, eight-week project, remote supervision, funding or equipment access is confirmed.",
+      "OpenGuide demonstrates physical search/localization, not robotic picking/carrying or a completed study with visually impaired participants. Its broad assistive title must not be mistaken for validated clinical benefit.",
+      "KUKAloha is human coarse control plus AprilTag-based automated alignment; learned imitation-policy deployment is future work in that paper. UniPred’s newer learned components are separate.",
+      "UniPred is a multi-institution collaboration, so do not assign its Piper exclusively to Michigan. Full current-group physical credit is supported independently by OpenGuide and KUKAloha plus the SICIS roster.",
+      "Reuse the existing Michigan Covered Visitors and 2026–27 scholar-funding note. The policy includes external graduate students, but unit approval and the actual immigration category remain separate; general personal-funding acceptance does not guarantee an individual appointment.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#michigan-ann-arbor)"
+    ],
+    "publicEmail": "menassa@umich.edu"
+  }
+]

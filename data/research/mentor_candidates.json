@@ -137,6 +137,7 @@
     "batches/embodied-060.json",
     "batches/embodied-061.json",
     "batches/embodied-062.json",
+    "batches/embodied-063.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -7592,6 +7593,62 @@
       "shortVisitStatus": "precedent-only",
       "recordFile": "batches/embodied-062.json",
       "detailPage": "batches/embodied-062.md#deva-ramanan"
+    },
+    {
+      "id": "yaqi-xie",
+      "name": "Yaqi Xie",
+      "aliases": [],
+      "school": "University of Illinois Urbana-Champaign (incoming lab; current adjunct listing)",
+      "title": "Adjunct Assistant Professor in current directory; incoming Assistant Professor per personal announcement",
+      "homepage": "https://yaqi-xie.me/",
+      "batch": "embodied-063",
+      "discoveredAt": "2026-10-01T05:30:48Z",
+      "verifiedAt": "2026-10-01T05:35:01Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 7,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Neuro-symbolic robot learning",
+        "Foundation-model planning",
+        "Spatial reasoning",
+        "Long-horizon manipulation",
+        "Human-AI collaboration"
+      ],
+      "shortVisitStatus": "inquiry-only · adjunct/incoming host, start unknown",
+      "recordFile": "batches/embodied-063.json",
+      "detailPage": "batches/embodied-063.md#yaqi-xie"
+    },
+    {
+      "id": "carol-c-menassa",
+      "name": "Carol C. Menassa",
+      "aliases": [
+        "Carol Menassa"
+      ],
+      "school": "University of Michigan, Ann Arbor",
+      "title": "Robert I. Carr Collegiate Professor; John L. Tishman CM Faculty Scholar",
+      "homepage": "https://sites.google.com/a/umich.edu/sicislab/home",
+      "batch": "embodied-063",
+      "discoveredAt": "2026-10-01T05:32:59Z",
+      "verifiedAt": "2026-10-01T05:35:01Z",
+      "scores": {
+        "fit": 36,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Foundation-model robot planning",
+        "Assistive robot navigation",
+        "Human-robot collaboration",
+        "Robotic scene understanding",
+        "Learning for manipulation"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-063.json",
+      "detailPage": "batches/embodied-063.md#carol-c-menassa"
     },
     {
       "id": "henny-admoni",

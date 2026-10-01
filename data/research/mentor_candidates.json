@@ -223,7 +223,8 @@
     "batches/hri-068.json",
     "batches/hri-069.json",
     "batches/hri-070.json",
-    "batches/hri-071.json"
+    "batches/hri-071.json",
+    "batches/hri-074.json"
   ],
   "candidates": [
     {
@@ -12282,6 +12283,63 @@
       "shortVisitStatus": "inquiry-only · historical physical-evidence backup",
       "recordFile": "batches/hri-071.json",
       "detailPage": "batches/hri-071.md#preeya-khanna"
+    },
+    {
+      "id": "yogesh-girdhar",
+      "name": "Yogesh Girdhar",
+      "aliases": [
+        "Yogi Girdhar",
+        "Yogesh A. Girdhar"
+      ],
+      "school": "Woods Hole Oceanographic Institution (WHOI); MIT-WHOI Joint Program",
+      "title": "WHOI Associate Scientist; MIT-WHOI Joint Program faculty",
+      "homepage": "https://warp.whoi.edu/",
+      "batch": "hri-074",
+      "discoveredAt": "2026-10-01T00:55:42Z",
+      "verifiedAt": "2026-10-01T07:14:11Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 10,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "robot perception and 3D reconstruction",
+        "multimodal SLAM",
+        "marine autonomous exploration",
+        "machine learning for environmental understanding",
+        "information-guided active sensing"
+      ],
+      "shortVisitStatus": "inquiry-only · WHOI graduate Guest Student；2027接收与签证资金未定",
+      "recordFile": "batches/hri-074.json",
+      "detailPage": "batches/hri-074.md#yogesh-girdhar"
+    },
+    {
+      "id": "nare-karapetyan",
+      "name": "Nare Karapetyan",
+      "aliases": [],
+      "school": "Woods Hole Oceanographic Institution (WHOI); MIT-WHOI Joint Program",
+      "title": "WHOI Assistant Scientist I; MIT-WHOI Joint Program faculty",
+      "homepage": "https://sites.google.com/view/nkarapetyan",
+      "batch": "hri-074",
+      "discoveredAt": "2026-10-01T06:57:05Z",
+      "verifiedAt": "2026-10-01T07:01:52Z",
+      "scores": {
+        "fit": 37,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Underwater robot perception and navigation",
+        "Vision-language planning",
+        "Heterogeneous multi-robot exploration",
+        "Marine field robotics",
+        "Task-oriented active sensing"
+      ],
+      "shortVisitStatus": "unknown · WHOI制度存在；导师短访意向未核实",
+      "recordFile": "batches/hri-074.json",
+      "detailPage": "batches/hri-074.md#nare-karapetyan"
     }
   ]
 }

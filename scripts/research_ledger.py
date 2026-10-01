@@ -119,6 +119,29 @@ def validate(data):
 
 
 
+def validate_adjacent(adjacent, data):
+    """Keep active adjacent leads disjoint and preserve discovery during migration."""
+    baseline = json.loads((ROOT / data["baseline"]["path"]).read_text())["contacts"]
+    main = {row["id"]: row for row in data["candidates"]}
+    names = {name_key(n) for row in [*baseline, *main.values()] for n in [row["name"], *row.get("aliases", [])]}
+    urls = {url_key(row["homepage"]) for row in [*baseline, *main.values()] if row.get("homepage")}
+    for row in adjacent["candidates"]:
+        keys = {name_key(n) for n in [row["fullName"], *row.get("aliases", [])]}
+        assert not keys & names, "Adjacent lead duplicates an active identity"
+        assert url_key(row["homepage"]) not in urls, "Adjacent lead duplicates an active homepage"
+        assert row["includeInPrimaryRanking"] is False
+        names.update(keys)
+        urls.add(url_key(row["homepage"]))
+    seen = set()
+    for migration in adjacent.get("migratedRecords", []):
+        target = migration["mainId"]
+        assert target in main and target not in seen, "Unknown or duplicate migration target"
+        seen.add(target)
+        assert migration["discoveredAt"] == main[target]["discoveredAt"], "Migration changed discovery time"
+        assert name_key(migration["name"]) in {name_key(n) for n in [main[target]["name"], *main[target]["aliases"]]}
+        assert timestamp(migration["discoveredAt"]) <= timestamp(migration["migrationVerifiedAt"])
+
+
 def validate_policy_references(data):
     """Ensure relative policy citations from detail pages reach explicit anchors."""
     policy = (ROOT / "data/research/eligibility_notes.md").read_text()
@@ -281,6 +304,9 @@ def main():
         outputs = {LEDGER: json.dumps(expected_index, ensure_ascii=False, indent=2) + "\n", RANKED: render_compact(full)}
         outputs.update({ROOT / f"data/research/batches/{batch}.md": render_batch(batch, rows) for batch, rows in batches.items()})
         data = full
+    adjacent_path = LEDGER.parent / "adjacent_leads.json"
+    if adjacent_path.exists():
+        validate_adjacent(json.loads(adjacent_path.read_text()), data)
     for path, expected in outputs.items():
         if args.write:
             path.write_text(expected)

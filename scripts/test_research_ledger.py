@@ -17,6 +17,27 @@ class ResearchLedgerTests(unittest.TestCase):
         self.assertEqual(ledger.compact_index(self.full, self.paths), self.index)
         self.assertEqual(len(self.full["candidates"]), sum(map(len, self.batches.values())))
 
+    def test_adjacent_migrations_preserve_identity_and_discovery(self):
+        adjacent = json.loads((ledger.LEDGER.parent / "adjacent_leads.json").read_text())
+        ledger.validate_adjacent(adjacent, self.full)
+
+    def test_adjacent_cannot_duplicate_main(self):
+        row = self.full["candidates"][0]
+        adjacent = {"candidates": [{"fullName": row["name"], "aliases": [], "homepage": row["homepage"], "includeInPrimaryRanking": False}]}
+        with self.assertRaises(AssertionError):
+            ledger.validate_adjacent(adjacent, self.full)
+
+    def test_migration_cannot_change_discovery(self):
+        row = self.full["candidates"][0]
+        adjacent = {"candidates": [], "migratedRecords": [{"mainId": row["id"], "name": row["name"], "discoveredAt": "2020-01-01T00:00:00Z", "migrationVerifiedAt": row["verifiedAt"]}]}
+        with self.assertRaises(AssertionError):
+            ledger.validate_adjacent(adjacent, self.full)
+
+    def test_migration_requires_existing_target(self):
+        adjacent = {"candidates": [], "migratedRecords": [{"mainId": "missing-identity"}]}
+        with self.assertRaises(AssertionError):
+            ledger.validate_adjacent(adjacent, self.full)
+
     def test_duplicate_identity_rejected(self):
         data = copy.deepcopy(self.full)
         duplicate = copy.deepcopy(data["candidates"][0])

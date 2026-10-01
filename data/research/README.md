@@ -73,7 +73,7 @@ python scripts/test_research_ledger.py
 
 ## 任职类别
 
-主名单包含官方大学目录明确列为 faculty 的研究人员，保留准确的 Research Professor、Systems Scientist 等任职标签，不将这些职称改写成 Assistant/Associate/Full Professor。大学 faculty 分类、研究指导经历与具体访客接收权限是不同事项；后者仍需另行确认。独立研究机构、未核实大学 faculty 任命的线索另列，不混排。
+主名单包含官方大学目录明确列为 faculty 的研究人员，保留准确的 Research Professor、Systems Scientist 等任职标签，不将这些职称改写成 Assistant/Associate/Full Professor。大学 faculty 分类、研究指导经历与具体访客接收权限是不同事项；后者仍需另行确认。官方授予学位的联合研究生项目 faculty 也可纳入，例如 MIT-WHOI；须保留实际 WHOI 主聘、驻地和访问手续，不写作 MIT 校区任职。独立研究机构且未核实这类学术 faculty 身份的线索仍另列，不混排。延伸线索转入主名单时，在同一独立提交中替换为迁移指针，保留首次发现时间并避免重复计数。
 
 ### 后续读取失败与链接校验
 

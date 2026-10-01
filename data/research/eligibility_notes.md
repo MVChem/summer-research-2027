@@ -978,3 +978,12 @@ Sources: [Guides and Forms](https://www.lamar.edu/international-education/intern
 [主办J-1规则](https://www.uvm.edu/oie/uvm-departments-hosting-j-1-exchange-visitors) 明确涵盖未由UVM资助的访问研究生，列Short-Term Scholar1天至6个月等类别，当前生活支持基准每月2,500美元、接受访问者银行证明，但页面提醒将涨价。要求至少提前8周拿到移民文件，因此应更早启动，而非保证8周内办完。
 
 具体硕士签证类别仍须OIE核定：[单独的学生签证比较页](https://www.uvm.edu/oie/comparing-f-1-and-j-1-visas) 对J-1学生要求至少51%非个人资金。不能将Scholar银行证明规则直接当作本次硕士可完全自费，也不能反向把学生比例一概套到Scholar。导师接收、2027金额和八周项目安排均未确认。
+
+<a id="whoi"></a>
+## WHOI / MIT-WHOI Joint Program · WHOI 驻地的联合研究生项目导师
+
+身份核查：2026-10-01T07:01:52Z。当前[Applied Ocean Science and Engineering 导师名录](https://mit.whoi.edu/academics/fields/aope/aope-faculty/)列出 Yogesh（Yogi）Girdhar 和 Nare Karapetyan。其主聘及实际接收地点为 Woods Hole, Massachusetts 的 WHOI；不得表述为 MIT 校区任职或自动适用 MIT 访问手续。Girdhar 的[实验室页面](https://warp.whoi.edu/prospective-students/)明确提供 graduate Guest Student 咨询路径；Karapetyan 的具体短访机会仍未知。
+
+沿用此前 2026-10-01T00:58:56Z 的[Guest Student 政策核查](https://www.whoi.edu/what-we-do/educate/gueststudent/)：境外或外校全日制研究生及本科生可申请全年 2 周至 2 年的科研访问，先取得科学/技术导师接收，再按[申请流程](https://www.whoi.edu/what-we-do/educate/gueststudent/gueststudent-admissions/)完成主校导师同意、院系、Academic Programs 和 HR 审批。约 8 周符合公布学术时长，但不是导师接收承诺。
+
+[2025 Guest Student Agreement](https://www.whoi.edu/wp-content/uploads/2025/04/GS-agreement_fillable.pdf)包含 graduate 选项、教育计划及无报酬安排；这不等于全部个人资金已获移民类别批准。具体签证类别、资金来源/最低额、费用和完整提前量须由 Foreign National Advisor 确认。访客自行安排食宿与保险，暑期住房有限；船舶、潜水、野外任务及境外全远程均不保证。

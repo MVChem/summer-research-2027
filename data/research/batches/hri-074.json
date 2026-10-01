@@ -1,0 +1,305 @@
+[
+  {
+    "id": "yogesh-girdhar",
+    "name": "Yogesh Girdhar",
+    "aliases": [
+      "Yogi Girdhar",
+      "Yogesh A. Girdhar"
+    ],
+    "school": "Woods Hole Oceanographic Institution (WHOI); MIT-WHOI Joint Program",
+    "homepage": "https://warp.whoi.edu/",
+    "title": "WHOI Associate Scientist; MIT-WHOI Joint Program faculty",
+    "department": "Applied Ocean Physics and Engineering; Autonomous Robotics and Perception Laboratory (WARPLab)",
+    "batch": "hri-074",
+    "discoveredAt": "2026-10-01T00:55:42Z",
+    "verifiedAt": "2026-10-01T07:14:11Z",
+    "researchAreas": [
+      "robot perception and 3D reconstruction",
+      "multimodal SLAM",
+      "marine autonomous exploration",
+      "machine learning for environmental understanding",
+      "information-guided active sensing"
+    ],
+    "fitReason": "Strong CS/AI and physical-robot fit in uncertain marine environments: learned depth, visual representations, multimodal estimation and active autonomous exploration. The official joint graduate-program faculty roster and current lab graduate-student roster establish an academic mentoring role. The actual host is WHOI in Woods Hole, Massachusetts; this is not an MIT campus appointment.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "ReefMapGS (April 2026) uses actual CUREE autonomous reef surveys with camera, DVL, IMU and pressure sensors, covering 347.3 m and 695.5 m. It combines learned depth/uncertainty with 3DGS and factor-graph pose refinement; evaluation is workstation-based, not evidence of the entire pipeline controlling the AUV onboard in real time. A separate July 2026 lab report for its Science Robotics study documents autonomous acoustic-visual hotspot seeking in the Caribbean. The May 13, 2026 WHOI release dates the hotspot expeditions to 2022–2024 and names Girdhar as project PI; the 2026 article/report dates must not be read as new 2026 expeditions.",
+      "sourceIds": [
+        "s5",
+        "s6",
+        "s12"
+      ]
+    },
+    "shortVisit": {
+      "status": "inquiry-only · WHOI graduate Guest Student；2027接收与签证资金未定",
+      "summary": "WARPLab directly invites inquiry and lists Guest Students under Graduates. Current institutional guest route accepts full-time graduate students for two weeks to two years year-round, subject to confirmed staff-scientist sponsor, home-advisor agreement and approvals. No specific 2027 slot or funding is promised.",
+      "sourceIds": [
+        "s4",
+        "s7",
+        "s8",
+        "s9",
+        "s10"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 20,
+      "shortVisit": 10,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "37/40 for deep visual representations, multimodal estimation and active autonomous exploration; narrower marine emphasis reduces broad HRI fit.",
+      "physical": "PI-directed CUREE hardware is independently verified, but the executed hotspot-seeking field trials date to 2022–2024. Recent ReefMapGS learned reconstruction is evaluated on a workstation; no newer live learned-control expedition is established.",
+      "shortVisit": "10/20 for a direct graduate guest inquiry route and institutionally compatible duration; exact 2027 capacity and all-personal visa funding unresolved.",
+      "freshness": "15/15 for April/July 2026 primary research, not directory crawl dates."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "mit.whoi.edu / source 1",
+        "url": "https://mit.whoi.edu/academics/fields/aope/aope-faculty/",
+        "summary": "Current official joint graduate-program faculty roster lists Yogi Girdhar and Nare Karapetyan under Applied Ocean Science and Engineering.",
+        "verifiedAt": "2026-10-01T07:01:52Z"
+      },
+      {
+        "id": "s2",
+        "label": "www.whoi.edu / source 2",
+        "url": "https://www.whoi.edu/what-we-do/understand/departments-centers-labs/aope/aope-people/scientific-staff/",
+        "summary": "Current official AOPE directory lists Yogesh Girdhar as Associate Scientist.",
+        "verifiedAt": "2026-10-01T07:01:52Z"
+      },
+      {
+        "id": "s3",
+        "label": "warp.whoi.edu / source 3",
+        "url": "https://warp.whoi.edu/about/",
+        "summary": "WARPLab PI, marine robotics, machine learning and exploration; past McGill MS guest student is historical precedent only.",
+        "verifiedAt": "2026-10-01T00:58:56Z",
+        "retrieval": "Reused prior detailed verification; not freshly fetched during faculty-scope update"
+      },
+      {
+        "id": "s4",
+        "label": "warp.whoi.edu / source 4",
+        "url": "https://warp.whoi.edu/prospective-students/",
+        "summary": "Direct lab inquiry invitation, public yogi@whoi.edu, and Guest Students link specifically under Graduates.",
+        "verifiedAt": "2026-10-01T07:01:52Z"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2604.11992v1",
+        "summary": "April 2026 ReefMapGS: actual CUREE surveys at Tektite and Yawzi, 347.3m and 695.5m; DINOv2 uncertainty and fine-tuned DepthAnythingV2 with multimodal SLAM/3DGS. Reconstruction experiments run on workstation GPU, not proven onboard online control.",
+        "verifiedAt": "2026-10-01T00:58:56Z",
+        "retrieval": "Reused prior detailed verification; not freshly fetched during faculty-scope update"
+      },
+      {
+        "id": "s6",
+        "label": "warp.whoi.edu / source 6",
+        "url": "https://warp.whoi.edu/autonomous-seeking-and-mapping-coral-reef-biodiversity-hotspots-with-a-multimodal-auv/",
+        "summary": "July 14, 2026 author/lab report for Science Robotics study: AUV uses passive acoustics and visual sensing plus generative reef model to seek and map a biological hotspot in Caribbean field case.",
+        "verifiedAt": "2026-10-01T07:14:11Z",
+        "retrieval": "Full primary lab report directly read"
+      },
+      {
+        "id": "s7",
+        "label": "www.whoi.edu / source 7",
+        "url": "https://www.whoi.edu/what-we-do/educate/gueststudent/",
+        "summary": "Year-round full-time external graduate and undergraduate research guest appointments, two weeks to two years, staff-scientist sponsor required; regular working hours, own room/board and insurance, limited summer housing.",
+        "verifiedAt": "2026-10-01T00:58:56Z",
+        "retrieval": "Reused earlier institutional-policy verification; not freshly fetched in this role update"
+      },
+      {
+        "id": "s8",
+        "label": "www.whoi.edu / source 8",
+        "url": "https://www.whoi.edu/what-we-do/educate/gueststudent/gueststudent-admissions/",
+        "summary": "Graduate students eligible; sponsor first, home-advisor agreement, CV and application; rolling applications.",
+        "verifiedAt": "2026-10-01T00:58:56Z",
+        "retrieval": "Reused earlier institutional-policy verification; not freshly fetched in this role update"
+      },
+      {
+        "id": "s9",
+        "label": "www.whoi.edu / source 9",
+        "url": "https://www.whoi.edu/wp-content/uploads/2025/04/GS-agreement_fillable.pdf",
+        "summary": "Graduate checkbox and home-advisor/WHOI sponsor/Foreign National Advisor/department/dean signatures; educational and mentoring plan; separate no-compensation options for home/external source and WHOI. This does not independently approve all-personal immigration funding.",
+        "verifiedAt": "2026-10-01T00:58:56Z",
+        "retrieval": "Reused earlier institutional-policy verification; not freshly fetched in this role update"
+      },
+      {
+        "id": "s10",
+        "label": "website.whoi.edu / source 10",
+        "url": "https://website.whoi.edu/internationalcommittee/faq/",
+        "summary": "WHOI Foreign National Office verifies sponsor, appropriate appointment and full-duration funding, and oversees J-1 sponsorship; exact personal-funding threshold/category not established.",
+        "verifiedAt": "2026-10-01T00:58:56Z",
+        "retrieval": "Reused earlier institutional-policy verification; not freshly fetched in this role update"
+      },
+      {
+        "id": "s11",
+        "label": "mit.whoi.edu / source 11",
+        "url": "https://mit.whoi.edu/admissions/apply/tips-for-contacting-faculty/",
+        "summary": "The degree program describes its faculty as prospective graduate advisors; this is role evidence, not a short-visit opening.",
+        "verifiedAt": "2026-10-01T07:01:52Z"
+      },
+      {
+        "id": "s12",
+        "label": "WHOI: CUREE hotspot field trials and project leadership",
+        "url": "https://www.whoi.edu/press-room/news-release/curee-hotspots/",
+        "summary": "Official May 13, 2026 release identifies Girdhar as PI, CUREE onboard acoustic/visual autonomy and three expeditions during 2022–2024. The photo dates to 2021. Publication dates are separate from experiment dates.",
+        "verifiedAt": "2026-10-01T07:14:11Z",
+        "retrieval": "Full official HTML directly read"
+      }
+    ],
+    "unknowns": [
+      "Academic scope verified through the official MIT-WHOI Applied Ocean Science and Engineering faculty roster. Host institution and location are WHOI, Woods Hole, Massachusetts; no MIT campus appointment or MIT visitor sponsorship is claimed.",
+      "Eight weeks fits the academic guest duration. Home-university educational objectives, host availability and approvals must align.",
+      "Guest agreement permits no financial compensation, but wholly personal funding for the approved immigration category remains unconfirmed; monthly threshold, fees and visa lead time need Foreign National Advisor confirmation.",
+      "Guest students arrange room/board and insurance; summer institutional housing is very limited.",
+      "Field deployment or boat/diving access is project-specific and not guaranteed by a guest appointment.",
+      "2026 undergraduate Summer Student Fellowship projects are not used as evidence that an enrolled master’s student qualifies for that separate program.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#whoi)"
+    ],
+    "publicEmail": "yogi@whoi.edu"
+  },
+  {
+    "id": "nare-karapetyan",
+    "name": "Nare Karapetyan",
+    "aliases": [],
+    "school": "Woods Hole Oceanographic Institution (WHOI); MIT-WHOI Joint Program",
+    "homepage": "https://sites.google.com/view/nkarapetyan",
+    "title": "WHOI Assistant Scientist I; MIT-WHOI Joint Program faculty",
+    "department": "Applied Ocean Physics and Engineering; FIeld robotics and aLgorithmic Decision-making (FILD) Lab",
+    "batch": "hri-074",
+    "discoveredAt": "2026-10-01T06:57:05Z",
+    "verifiedAt": "2026-10-01T07:01:52Z",
+    "researchAreas": [
+      "Underwater robot perception and navigation",
+      "Vision-language planning",
+      "Heterogeneous multi-robot exploration",
+      "Marine field robotics",
+      "Task-oriented active sensing"
+    ],
+    "fitReason": "Substantive embodied-AI methods for marine robot perception, information gathering and vision-language planning. Current official joint-program faculty membership supports academic mentor scope. The lab is based at WHOI in Woods Hole, Massachusetts; no MIT campus hosting appointment is implied.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The February 2026 revision of DREAM, coauthored by Karapetyan, verifies a real BlueROV2 surveying 200 oyster shells and two pipes in a controlled tank, with visual segmentation and GPT-5-based high-level planning feeding a classical PD/IMU-DVL state-estimation stack. The main quantitative coverage and efficiency results are from Oystersim; the actual tank run is a qualitative feasibility demonstration, not an open-ocean mission or quantified hardware success rate. The manuscript gives inconsistent tank-diameter descriptions, so no single exact diameter is adopted. This is collaborative hardware evidence involving USF/UMD/WHOI/Delaware; no current FILD ownership or visitor access to that specific BlueROV2 is established. Separately, the March 2026 DINOv2 environmental-context search paper uses actual AUV imagery but explicitly simulates robot motion offline, so it is not counted as learned live execution.",
+      "sourceIds": [
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown · WHOI制度存在；导师短访意向未核实",
+      "summary": "Karapetyan is listed on the official MIT-WHOI joint graduate-program faculty roster, and a September 2026 WHOI story confirms direct postdoctoral supervision in FILD Lab. Her 2026 Summer Student Fellowship project listing is an undergraduate-program lead, not an external-master invitation. No applicable lab-specific external-master, eight-week summer 2027 or remote opening was verified; the WHOI Guest Student mechanism is institutional feasibility only.",
+      "sourceIds": [
+        "s8",
+        "s9",
+        "s10",
+        "s11"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct marine VLM planning, learned perception and active exploration, with a more specialized domain than general manipulation.",
+      "physical": "Verified actual learned tank execution but collaborative apparatus and limited qualitative evaluation; no current local-hardware ownership claim.",
+      "shortVisit": "No lab-specific external-master invitation verified; undergraduate programs and general institutional rules do not earn points.",
+      "freshness": "Current 2026 primary methods, official faculty roster and supervised-research reporting."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "mit.whoi.edu / source 1",
+        "url": "https://mit.whoi.edu/faculty/nare-karapetyan/",
+        "summary": "Official joint-program faculty profile identifies WHOI, Applied Ocean Science and Engineering and robotics/autonomy research.",
+        "verifiedAt": "2026-10-01T07:01:52Z"
+      },
+      {
+        "id": "s2",
+        "label": "mit.whoi.edu / source 2",
+        "url": "https://mit.whoi.edu/academics/fields/aope/aope-faculty/",
+        "summary": "Current official joint-program faculty roster independently lists Nare Karapetyan and Yogi Girdhar.",
+        "verifiedAt": "2026-10-01T07:01:52Z"
+      },
+      {
+        "id": "s3",
+        "label": "sites.google.com / source 3",
+        "url": "https://sites.google.com/view/nkarapetyan",
+        "summary": "First-person current tenure-track Assistant Scientist and MIT-WHOI Joint Program faculty, research description and nare@whoi.edu.",
+        "verifiedAt": "2026-10-01T07:01:52Z"
+      },
+      {
+        "id": "s4",
+        "label": "www.whoi.edu / source 4",
+        "url": "https://www.whoi.edu/what-we-do/understand/departments-centers-labs/aope/aope-people/",
+        "summary": "Current WHOI department directory gives Assistant Scientist I and David Center for Ocean Innovation location.",
+        "verifiedAt": "2026-10-01T07:01:52Z"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/pdf/2509.13666v2",
+        "summary": "Full February 2026 DREAM revision: GPT-5 high-level VLM planning, actual BlueROV2 tank run, 200 shells and two pipes, classical low-level control and simulation-versus-hardware separation.",
+        "verifiedAt": "2026-10-01T07:01:52Z"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/abs/2603.10174",
+        "summary": "March 2026 context-based autonomous-search study explicitly evaluates motion offline using real AUV imagery; not counted as online physical execution.",
+        "verifiedAt": "2026-10-01T07:01:52Z"
+      },
+      {
+        "id": "s7",
+        "label": "www.whoi.edu / source 7",
+        "url": "https://www.whoi.edu/oceanus/feature/reclaiming-knowledge-from-the-sea-indigenous-jordan-kennedy-coastal/",
+        "summary": "September 9, 2026 official WHOI article identifies Jordan Kennedy working under Karapetyan’s supervision in FILD Lab.",
+        "verifiedAt": "2026-10-01T07:01:52Z"
+      },
+      {
+        "id": "s8",
+        "label": "www.whoi.edu / source 8",
+        "url": "https://www.whoi.edu/what-we-do/educate/undergraduate-programs/summer-student-fellowship/2026-potential-projects/",
+        "summary": "Names her 2026 robotics projects in an undergraduate fellowship context, not evidence of an external-master visit offer.",
+        "verifiedAt": "2026-10-01T07:01:52Z"
+      },
+      {
+        "id": "s9",
+        "label": "www.whoi.edu / source 9",
+        "url": "https://www.whoi.edu/what-we-do/educate/gueststudent/",
+        "summary": "Existing institutional year-round external undergraduate/graduate Guest Student route, two weeks to two years, sponsor and approvals required.",
+        "verifiedAt": "2026-10-01T00:58:56Z",
+        "retrieval": "Reused earlier institutional-policy verification; not freshly fetched in this role update"
+      },
+      {
+        "id": "s10",
+        "label": "www.whoi.edu / source 10",
+        "url": "https://www.whoi.edu/what-we-do/educate/gueststudent/gueststudent-admissions/",
+        "summary": "Existing sponsor-first application and home-advisor agreement requirements.",
+        "verifiedAt": "2026-10-01T00:58:56Z",
+        "retrieval": "Reused earlier institutional-policy verification; not freshly fetched in this role update"
+      },
+      {
+        "id": "s11",
+        "label": "www.whoi.edu / source 11",
+        "url": "https://www.whoi.edu/wp-content/uploads/2025/04/GS-agreement_fillable.pdf",
+        "summary": "Existing reviewed graduate Guest Student agreement allows no compensation but does not independently settle all-personal immigration funding.",
+        "verifiedAt": "2026-10-01T00:58:56Z",
+        "retrieval": "Reused earlier institutional-policy verification; not freshly fetched in this role update"
+      }
+    ],
+    "unknowns": [
+      "Actual host is WHOI in Woods Hole, Massachusetts. Joint-program faculty status does not mean an MIT campus appointment or automatic access to MIT visiting-student categories.",
+      "The current public joint-program faculty roster verifies academic membership. A named current graduate advisee was not independently established; WHOI does verify postdoctoral supervision. Mentor availability and the specific project require agreement.",
+      "Existing WHOI Guest Student guidance accepts full-time outside undergraduate/graduate students year-round for two weeks to two years, conditional on scientific sponsor, home-advisor agreement and department/Academic Programs/HR approvals. Eight weeks fits the academic duration, not an offer.",
+      "Unpaid academic appointments are supported by the Guest Student Agreement, but entirely personal funding for the applicable immigration category, current minimum finances, fees and visa lead time remain unconfirmed.",
+      "Guest students arrange room, board and insurance; summer housing is limited. Field expeditions, boats, diving, current equipment access and wholly remote work are not guaranteed.",
+      "DREAM hardware evidence is collaborative and tank-limited. The separate 2026 context-search study is offline evaluation on field imagery, not live learned navigation.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#whoi)"
+    ],
+    "publicEmail": "nare@whoi.edu"
+  }
+]

@@ -87,6 +87,7 @@
     "batches/control-076.json",
     "batches/control-077.json",
     "batches/control-078.json",
+    "batches/control-079.json",
     "batches/control-081.json",
     "batches/control-086.json",
     "batches/embodied-001.json",
@@ -4649,6 +4650,36 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-078.json",
       "detailPage": "batches/control-078.md#matthew-j-rutherford"
+    },
+    {
+      "id": "sabur-hassan-baidya",
+      "name": "Sabur Hassan Baidya",
+      "aliases": [
+        "Sabur Baidya",
+        "Sabur H. Baidya"
+      ],
+      "school": "University of Louisville",
+      "title": "Assistant Professor; Director, Autonomous Intelligent Mobile Systems Lab",
+      "homepage": "https://engineering.louisville.edu/faculty/sabur-h-baidya/",
+      "batch": "control-079",
+      "discoveredAt": "2026-10-01T06:47:40Z",
+      "verifiedAt": "2026-10-01T09:59:03Z",
+      "scores": {
+        "fit": 37,
+        "physical": 23,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Neural perception for UAV control",
+        "Edge-assisted robot autonomy",
+        "Distributed robot intelligence",
+        "Learning-enabled safe control",
+        "Robotic sensing and communications"
+      ],
+      "shortVisitStatus": "precedent-only · 仅以往本科实习；当前PhD广告标注2022",
+      "recordFile": "batches/control-079.json",
+      "detailPage": "batches/control-079.md#sabur-hassan-baidya"
     },
     {
       "id": "sihong-he",

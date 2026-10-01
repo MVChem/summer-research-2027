@@ -1,0 +1,135 @@
+[
+  {
+    "id": "sabur-hassan-baidya",
+    "name": "Sabur Hassan Baidya",
+    "aliases": [
+      "Sabur Baidya",
+      "Sabur H. Baidya"
+    ],
+    "school": "University of Louisville",
+    "homepage": "https://engineering.louisville.edu/faculty/sabur-h-baidya/",
+    "title": "Assistant Professor; Director, Autonomous Intelligent Mobile Systems Lab",
+    "department": "Computer Science and Engineering; LARRI",
+    "batch": "control-079",
+    "discoveredAt": "2026-10-01T06:47:40Z",
+    "verifiedAt": "2026-10-01T09:59:03Z",
+    "researchAreas": [
+      "Neural perception for UAV control",
+      "Edge-assisted robot autonomy",
+      "Distributed robot intelligence",
+      "Learning-enabled safe control",
+      "Robotic sensing and communications"
+    ],
+    "fitReason": "Concrete learned visual interface driving a physical UAV, combined with robotics-specific edge inference and safe-learning research.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The full ICUAS 2025 author manuscript implements MediaPipe/YOLOv4 hand localization plus a custom-trained gesture classifier on a nearby laptop, returning movement commands to a real DJI Tello over Wi-Fi. Separate AirSim experiments are distinguished. Reported sensing-to-movement latency is about150ms; the headline under30ms concerns processing, not the entire loop. This is human gesture-commanded flight, not a learned autonomous navigation policy. The PI independently identifies the lead author as a summer intern in his Louisville lab, supporting directed-group attribution. Small-platform evaluation and incompletely separated performance claims warrant physical23. ACCESS-AV’s 2025/26 work is simulated localization plus Jetson energy measurement, while the learned-CBF target-tracking paper uses AirSim; neither is added as another physical deployment.",
+      "sourceIds": [
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "precedent-only · 仅以往本科实习；当前PhD广告标注2022",
+      "summary": "The PI confirms a past international undergraduate summer intern whose work produced the 2025 paper. This is useful precedent, not a current external-master invitation. The live openings page still advertises Spring/Fall 2022 PhD funding and generic degree-student contact; no verified 2027 short-visit offer, so visit0.",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 23,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Learned visual command recognition executed on UAV, with relevant edge/autonomy/safety research.",
+      "physical": "Real Tello experiment plus independent direct lab-intern linkage; modest platform and performance-reporting caveats.",
+      "shortVisit": "Past summer precedent and old degree recruitment do not establish a current external-master offer.",
+      "freshness": "A dated September 2026 intelligent-vehicles/robotics workshop program names Baidya as moderator and submission contact. Detailed learned-flight evidence remains dated 2025."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.louisville.edu / source 1",
+        "url": "https://engineering.louisville.edu/faculty/sabur-h-baidya/",
+        "summary": "Current assistant-professor appointment and AIMS lab leadership.",
+        "verifiedAt": "2026-10-01T06:54:13Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "sabur-baidya.com / source 2",
+        "url": "https://sabur-baidya.com/",
+        "summary": "PI’s primary site confirms public academic email and current Louisville role; old news dates acknowledged.",
+        "verifiedAt": "2026-10-01T06:54:13Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "sabur-baidya.com / source 3",
+        "url": "https://sabur-baidya.com/openings.html",
+        "summary": "Generic student interest plus specifically 2022-funded PhD notice; no current visitor offer.",
+        "verifiedAt": "2026-10-01T06:54:13Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2505.17303v1",
+        "summary": "Complete primary Tello/edge gesture methods, real/simulation separation and150ms end-to-end versus processing-only latency.",
+        "verifiedAt": "2026-10-01T06:54:13Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "uasconferences.com / source 5",
+        "url": "https://uasconferences.com/2025_icuas/wp-content/uploads/ICUAS-2025-Program-Book-of-Abstracts.pdf",
+        "summary": "Official 2025 conference program confirms paper presentation and external lead-author home institution.",
+        "verifiedAt": "2026-10-01T06:54:13Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "www.linkedin.com / source 6",
+        "url": "https://www.linkedin.com/posts/saburhb_undergraduateresearch-activity-7334601468404002817-Gq53",
+        "summary": "PI first-person professional post independently identifies lead author as a summer intern in his Louisville lab.",
+        "verifiedAt": "2026-10-01T06:54:13Z",
+        "retrieval": "Indexed first-person PI research post via web.run; no signed-in social access"
+      },
+      {
+        "id": "s7",
+        "label": "arxiv.org / source 7",
+        "url": "https://arxiv.org/html/2507.20399v1",
+        "summary": "Full ACCESS-AV methods: software localization simulation and Jetson energy measurements, not physical vehicle deployment.",
+        "verifiedAt": "2026-10-01T06:54:13Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      },
+      {
+        "id": "s8",
+        "label": "www.mdpi.com / source 8",
+        "url": "https://www.mdpi.com/2218-6581/14/8/108",
+        "summary": "Primary learned-CBF paper explicitly evaluates AirSim/PX4 simulation; not additional actual flight.",
+        "verifiedAt": "2026-10-01T06:54:13Z",
+        "retrieval": "Direct official/primary HTML via web.run"
+      },
+      {
+        "id": "s9",
+        "label": "PPNIV 2026 primary workshop program",
+        "url": "https://ppniv.github.io/",
+        "summary": "The dated September 27, 2026 IROS workshop program lists Baidya as moderator and submission contact. This supports current topical academic activity, not a new hardware experiment or verified event attendance.",
+        "verifiedAt": "2026-10-01T09:59:03Z",
+        "retrieval": "Full primary workshop website directly read"
+      }
+    ],
+    "unknowns": [
+      "Reuse Louisville feasibility note: current-linked Student Intern packet includes outside graduate degree students,3weeks–12months,32h/week, and personal support documented at$1,200/month. Host/ISSS approval, home-degree relevance, English, DS-7002, insurance and evaluation apply. The packet restricts aviation activities, so ISSS must determine whether the specific proposed UAV/robotics research is permissible; do not infer approval from general eligibility or past visits. Its processing-fee amounts conflict internally, and 2027 total budget/lead time are unknown. Old UCSD postdoc pages and 2022-funded-degree notices do not describe present appointments/openings.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#louisville)"
+    ],
+    "publicEmail": "sabur.baidya@louisville.edu"
+  }
+]

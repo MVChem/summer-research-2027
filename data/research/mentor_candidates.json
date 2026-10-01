@@ -146,6 +146,7 @@
     "batches/embodied-064.json",
     "batches/embodied-065.json",
     "batches/embodied-066.json",
+    "batches/embodied-067.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -7999,6 +8000,33 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-066.json",
       "detailPage": "batches/embodied-066.md#mohsen-moghaddam"
+    },
+    {
+      "id": "ilya-kovalenko",
+      "name": "Ilya Kovalenko",
+      "aliases": [],
+      "school": "Pennsylvania State University",
+      "title": "Assistant Professor",
+      "homepage": "https://sites.psu.edu/cais/",
+      "batch": "embodied-067",
+      "discoveredAt": "2026-10-01T05:56:57Z",
+      "verifiedAt": "2026-10-01T06:14:02Z",
+      "scores": {
+        "fit": 35,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "LLM-enabled physical robot task coordination",
+        "Human–robot collaborative assembly",
+        "Verified manufacturing agents",
+        "Adaptive multi-robot systems"
+      ],
+      "discoveryTimestampNote": "Preserves the first precisely recorded candidate-specific primary author-post encounter during earlier manufacturing screening; later source verification did not reset discovery.",
+      "shortVisitStatus": "precedent-only · scholar label, master route unclear",
+      "recordFile": "batches/embodied-067.json",
+      "detailPage": "batches/embodied-067.md#ilya-kovalenko"
     },
     {
       "id": "henny-admoni",

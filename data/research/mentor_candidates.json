@@ -69,7 +69,8 @@
     "batches/hri-017.json",
     "batches/hri-018.json",
     "batches/hri-019.json",
-    "batches/hri-020.json"
+    "batches/hri-020.json",
+    "batches/hri-021.json"
   ],
   "candidates": [
     {
@@ -6660,6 +6661,33 @@
       "shortVisitStatus": "precedent-only",
       "recordFile": "batches/hri-020.json",
       "detailPage": "batches/hri-020.md#david-j-crandall"
+    },
+    {
+      "id": "raj-korpan",
+      "name": "Raj Korpan",
+      "aliases": [],
+      "school": "Hunter College, City University of New York",
+      "title": "Assistant Professor of Computer Science",
+      "homepage": "https://www.gc.cuny.edu/people/raj-korpan",
+      "batch": "hri-021",
+      "discoveredAt": "2026-09-30T23:55:47Z",
+      "verifiedAt": "2026-09-30T23:58:55Z",
+      "scores": {
+        "fit": 34,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-robot interaction",
+        "Explainable AI",
+        "Social robot navigation",
+        "LLM-enabled embodied communication",
+        "Multi-objective planning"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-021.json",
+      "detailPage": "batches/hri-021.md#raj-korpan"
     }
   ]
 }

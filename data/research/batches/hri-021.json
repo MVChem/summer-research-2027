@@ -1,0 +1,102 @@
+[
+  {
+    "id": "raj-korpan",
+    "name": "Raj Korpan",
+    "aliases": [],
+    "school": "Hunter College, City University of New York",
+    "homepage": "https://www.gc.cuny.edu/people/raj-korpan",
+    "title": "Assistant Professor of Computer Science",
+    "department": "Computer Science; TIER Lab; affiliated Doctoral Faculty at CUNY Graduate Center",
+    "batch": "hri-021",
+    "discoveredAt": "2026-09-30T23:55:47Z",
+    "verifiedAt": "2026-09-30T23:58:55Z",
+    "researchAreas": [
+      "Human-robot interaction",
+      "Explainable AI",
+      "Social robot navigation",
+      "LLM-enabled embodied communication",
+      "Multi-objective planning"
+    ],
+    "fitReason": "Good applied HRI/software fit through explanation, language interfaces and evaluating expressive robot communication. The inspected recent implementation is an offline LLM-to-robot storytelling pipeline, so this is a more moderate robot-learning fit than labs training embodied control or perception policies.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The full HRI Companion 2026 paper A Pilot Study of Robot Storytelling for Civic Data Literacy reports a physical Misty II deployment at a New York public event in November 2025. GPT-5 generated narratives and behavior cues from processed civic-data summaries; authors checked claims and adapted cues to robot capabilities. Four prerecorded scripts used speech, face/LED changes and head/arm motion. Six adults completed the interaction and survey. This verifies AI-assisted physical HRI, not online LLM dialogue, learned motor control or autonomous adaptation.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current official faculty pages establish a public contact and lab leadership, but no external short-term master's visitor invitation was verified. The lab website required a CAPTCHA in the cloud browser and was not inspected beyond that block. Degree-oriented recruitment and local undergraduate research cohorts are not counted as external summer opportunities.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 34,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "clear applied language/HRI overlap, with weaker learned-control/perception evidence in the inspected deployment.",
+      "physical": "named Misty II, concrete head/arm behavior, real public deployment and primary methods.",
+      "shortVisit": "external intake not verified.",
+      "freshness": "March 2026 primary paper with explicitly dated November 2025 deployment. Provisional evidence-fit score, not acceptance probability or prestige."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.gc.cuny.edu / source 1",
+        "url": "https://www.gc.cuny.edu/people/raj-korpan",
+        "summary": "Full official current profile verifies Hunter Assistant Professor, affiliated Graduate Center doctoral faculty, TIER director, email and technical research topics.",
+        "verifiedAt": "2026-09-30T23:58:55Z"
+      },
+      {
+        "id": "s2",
+        "label": "www.gc.cuny.edu / source 2",
+        "url": "https://www.gc.cuny.edu/computer-science/research-labs",
+        "summary": "Official research-lab listing independently identifies TIER and its social navigation, explainable robotics and AI research.",
+        "verifiedAt": "2026-09-30T23:58:55Z"
+      },
+      {
+        "id": "s3",
+        "label": "s3.amazonaws.com / source 3",
+        "url": "https://s3.amazonaws.com/files.commons.gc.cuny.edu/wp-content/blogs.dir/29845/files/2026/03/HRI_LBR_2026_Paper_Final.pdf",
+        "summary": "Full primary six-page CUNY author-hosted HRI Companion 2026 paper. Sections 3-4 specify offline GPT-5 narrative generation, human validation, scripted Misty II performance and six adult participants at a November 2025 public event.",
+        "verifiedAt": "2026-09-30T23:58:55Z"
+      },
+      {
+        "id": "s4",
+        "label": "doi.org / source 4",
+        "url": "https://doi.org/10.1145/3776734.3794475",
+        "summary": "Publisher-indexed March 16, 2026 metadata and abstract corroborate title, authors and Misty II deployment; full methods read from author-hosted primary PDF.",
+        "verifiedAt": "2026-09-30T23:58:55Z"
+      },
+      {
+        "id": "s5",
+        "label": "tierlab.commons.gc.cuny.edu / source 5",
+        "url": "https://tierlab.commons.gc.cuny.edu/",
+        "summary": "Cloud browser observation showed Captcha Required on September 30, 2026. No challenge was attempted and no intake text was verified from this page.",
+        "verifiedAt": "2026-09-30T23:58:55Z"
+      }
+    ],
+    "unknowns": [
+      "Eight-week availability, international visiting-student category, supervision, funding and wholly self-funded eligibility remain unconfirmed.",
+      "Lab intake page access was blocked; absence of a verified invitation is not evidence that visitors are prohibited.",
+      "The physical pilot was performed in November 2025 and published in March 2026. Its six-person exploratory results do not establish broad effectiveness.",
+      "The separate 2026 Pax demo and ethics/design papers are not used as physical-robot evidence; a robot-themed virtual agent or proposed architecture is insufficient.",
+      "Research topics concerning community inclusion do not imply any personal identity of the faculty member or any eligibility criterion for applicants.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "raj.korpan@hunter.cuny.edu"
+  }
+]

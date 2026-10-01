@@ -1,0 +1,169 @@
+[
+  {
+    "id": "robert-j-griffin",
+    "name": "Robert J. Griffin",
+    "aliases": [
+      "Robert Griffin"
+    ],
+    "school": "University of West Florida / Florida Institute for Human & Machine Cognition",
+    "homepage": "https://robots.ihmc.us/our-team",
+    "title": "Senior Research Scientist and Principal Investigator, IHMC; dual UWF/IHMC ISR appointment",
+    "department": "Intelligent Systems and Robotics; IHMC Humanoid and Legged Robotics",
+    "batch": "control-092",
+    "discoveredAt": "2026-10-01T10:24:05Z",
+    "verifiedAt": "2026-10-01T10:29:26Z",
+    "researchAreas": [
+      "Humanoid loco-manipulation",
+      "Learned perception for real robots",
+      "Human-supervised autonomy",
+      "Legged robot control"
+    ],
+    "fitReason": "Verified joint university/institute mentor whose directed humanoid group integrates neural perception into actual loco-manipulation; visit-duration and work-authorization feasibility are substantial limitations.",
+    "physicalEvidence": {
+      "status": "Current directed IHMC/UWF group, learned perception coupled to real humanoid tasks;2024 experiments/2026 journal issue",
+      "summary": "The full November 2024 manuscript, later published in the 2026 journal volume, integrates retrained YOLOv8 handle segmentation, depth and planar-region estimation into real Nadia door traversal. Learned poses feed behavior authoring/execution; operator-authored behavior trees and model-based whole-body control generate motion, rather than an end-to-end learned motion policy. Trials cover multiple push/pull mechanisms and composite sequences. The humanoid is hydraulically tethered, uses mock door frames with real hardware, and relies on human grasp/footstep tuning. These are demonstrated physical tasks, not an unrestricted field deployment. Current IHMC roster independently names Griffin PI/team lead and includes coauthors/ISR students. Physical25;2026 issue date does not mean the experiments were first performed in 2026. A separate March 2026 advised H1-2 project executes a proprioception-only PPO recovery policy at 50 Hz through low-level PD. All ten trials reached upright, but three then required safety intervention; its 93.4% figure is simulation. This supports current directed learned-action work while preserving the earlier door-experiment chronology.",
+      "sourceIds": [
+        "s2",
+        "s4",
+        "s5",
+        "s6",
+        "s12",
+        "s13"
+      ]
+    },
+    "shortVisit": {
+      "status": "incompatible · 当前3–9个月；旧暑期至少9周且需工作许可",
+      "summary": "The live self-directed internship explicitly accommodates visitors and master-thesis work but requires3–9months and is unpaid. It is not eight-week evidence. The separate 2025 paid summer software program allowed current graduate students, required at least9weeks and US work authorization, and closedFebruary16, 2025. Current 2026 summer AI/software links exist on the NCCA index but redirect to Microsoft institutional sign-in; no detailed 2026 or 2027 terms were verified. ShortVisit0 conservatively reflects the unconfirmed approximately eight-week/sponsorship fit.",
+      "sourceIds": [
+        "s7",
+        "s8",
+        "s9"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Direct learned humanoid perception and current advised-project PPO recovery, with operator-led and low-level-control boundaries explicit.",
+      "physical": "Complete physical methods and independent current PI/directed-team linkage.",
+      "shortVisit": "Current explicit program requires3–9months; historical nine-week route does not confirm eight-week 2027 sponsorship.",
+      "freshness": "ExplicitFebruary 2026 active joint robotics grant and 2026 journal record, with older trial provenance retained."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "uwf.edu / source 1",
+        "url": "https://uwf.edu/intelligent-systems-and-robotics/faculty/ihmc-research-scientists/dr-robert-griffin.html",
+        "summary": "Official UWF appointment, program role, location and contact. Profile labels position IHMC Research Scientist, UWF Director of Research Professor.",
+        "verifiedAt": "2026-10-01T10:25:47Z",
+        "retrieval": "Direct official/primary source via web.run; restricted details not accessed"
+      },
+      {
+        "id": "s2",
+        "label": "robots.ihmc.us / source 2",
+        "url": "https://robots.ihmc.us/our-team",
+        "summary": "Current Senior Research Scientist/PI and humanoid/legged team lead, with direct project coauthors and ISR doctoral members.",
+        "verifiedAt": "2026-10-01T10:25:47Z",
+        "retrieval": "Direct official/primary source via web.run; restricted details not accessed"
+      },
+      {
+        "id": "s3",
+        "label": "news.uwf.edu / source 3",
+        "url": "https://news.uwf.edu/uwf-ihmc-awarded-775k-onr-grant-to-support-isr-research/",
+        "summary": "February 18, 2026 confirms dual IHMC/UWF appointment and active grant; future equipment purchase is not current deployed evidence.",
+        "verifiedAt": "2026-10-01T10:25:47Z",
+        "retrieval": "Direct official/primary source via web.run; restricted details not accessed"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2411.03532v1",
+        "summary": "Complete November 2024 learned handle-perception-to-real-Nadia execution, with operator authorship and tether/mock-door limitations.",
+        "verifiedAt": "2026-10-01T10:25:47Z",
+        "retrieval": "Direct official/primary source via web.run; restricted details not accessed"
+      },
+      {
+        "id": "s5",
+        "label": "www.sciencedirect.com / source 5",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0921889025003148",
+        "summary": "Official published journal record; current group lists 2026volume195. Original 2024 experiment is not redescribed as new 2026 deployment.",
+        "verifiedAt": "2026-10-01T10:25:47Z",
+        "retrieval": "Direct official/primary source via web.run; restricted details not accessed"
+      },
+      {
+        "id": "s6",
+        "label": "robots.ihmc.us / source 6",
+        "url": "https://robots.ihmc.us/humanoids-publication",
+        "summary": "Current group identifies the 2026 journal issue and paper authorship.",
+        "verifiedAt": "2026-10-01T10:25:47Z",
+        "retrieval": "Direct official/primary source via web.run; restricted details not accessed"
+      },
+      {
+        "id": "s7",
+        "label": "www.ihmc.us / source 7",
+        "url": "https://www.ihmc.us/self-directed-study-internship/",
+        "summary": "Current-linked unpaid visiting researcher/master-thesis route explicitly lasts3–9months, not eight weeks.",
+        "verifiedAt": "2026-10-01T10:25:47Z",
+        "retrieval": "Direct official/primary source via web.run; restricted details not accessed"
+      },
+      {
+        "id": "s8",
+        "label": "www.ihmc.us / source 8",
+        "url": "https://www.ihmc.us/summer-2025-software-engineering-internship/",
+        "summary": "Historical paid graduate-eligible summer route required at least9weeks and US work authorization; deadlineFebruary16, 2025 has passed.",
+        "verifiedAt": "2026-10-01T10:25:47Z",
+        "retrieval": "Direct official/primary source via web.run; restricted details not accessed"
+      },
+      {
+        "id": "s9",
+        "label": "ncca.ihmc.org / source 9",
+        "url": "https://ncca.ihmc.org/opportunities/",
+        "summary": "Current index lists 2026 summer AI/software internships, but detailed links redirect to institutional sign-in and their terms were not read.",
+        "verifiedAt": "2026-10-01T10:25:47Z",
+        "retrieval": "Direct official/primary source via web.run; restricted details not accessed"
+      },
+      {
+        "id": "s10",
+        "label": "uwf.edu / source 10",
+        "url": "https://uwf.edu/student-affairs/departments/global-engagement/faculty-services/",
+        "summary": "Public UWF scholar guide requires departmental request90days ahead; detailed linked request is permission-restricted.",
+        "verifiedAt": "2026-10-01T10:25:47Z",
+        "retrieval": "Direct official/primary source via web.run; restricted details not accessed"
+      },
+      {
+        "id": "s11",
+        "label": "uwf.edu / source 11",
+        "url": "https://uwf.edu/academic-affairs/departments/research-administration-engagement/research-integrity-compliance/international-collaborations-and-travel/",
+        "summary": "Official institutional international-research screening requirement. Sponsor, category and funding remain individual determinations.",
+        "verifiedAt": "2026-10-01T10:25:47Z",
+        "retrieval": "Direct official/primary source via web.run; restricted details not accessed"
+      },
+      {
+        "id": "s12",
+        "label": "Primary H1-2 learned recovery manuscript",
+        "url": "https://arxiv.org/html/2603.08619v1",
+        "summary": "Full March 2026 paper verifies preliminary real proprioceptive PPO recovery on H1-2. Ten trials reached upright but three required post-recovery safety intervention; 93.4% is simulation.",
+        "verifiedAt": "2026-10-01T10:29:26Z",
+        "retrieval": "Complete primary manuscript directly read"
+      },
+      {
+        "id": "s13",
+        "label": "Lead researcher: project and doctoral adviser",
+        "url": "https://neharpoddar.github.io/",
+        "summary": "Current IHMC/UWF researcher explicitly identifies Griffin as advisor, independently supporting the current learned-recovery project linkage.",
+        "verifiedAt": "2026-10-01T10:29:26Z",
+        "retrieval": "Current first-person academic page directly read"
+      }
+    ],
+    "unknowns": [
+      "IHMC and UWF collaborate but are distinct hosts; UWF sponsorship rules cannot automatically be assigned to an IHMC internship. Public UWF guidance covers Research/Short-Term Scholar and requires a department request at least90days ahead; the detailed linked request requires institutional permission. No outside-master Student Intern category, personal-funding minimum or guaranteed IHMC visa sponsorship was established. UWF requires international-research screening. Confirm legal host, authorization, project access and possible duration flexibility. An unpaid placement is not immigration authorization. Funding, insurance, fees and 2027 dates remain unverified.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#ihmc-uwf)",
+      "The UWF profile uses the ambiguous phrase Director of Research Professor. The title here retains independently confirmed scientific leadership and dual academic-program appointment rather than asserting a conventional tenured professorship."
+    ],
+    "publicEmail": "rgriffin@ihmc.us"
+  }
+]

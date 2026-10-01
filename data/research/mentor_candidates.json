@@ -100,6 +100,7 @@
     "batches/control-089.json",
     "batches/control-090.json",
     "batches/control-091.json",
+    "batches/control-092.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -5359,6 +5360,36 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-091.json",
       "detailPage": "batches/control-091.md#venkat-n-krovi"
+    },
+    {
+      "id": "robert-j-griffin",
+      "name": "Robert J. Griffin",
+      "aliases": [
+        "Robert Griffin"
+      ],
+      "school": "University of West Florida / Florida Institute for Human & Machine Cognition",
+      "title": "Senior Research Scientist and Principal Investigator, IHMC; dual UWF/IHMC ISR appointment",
+      "homepage": "https://robots.ihmc.us/our-team",
+      "batch": "control-092",
+      "discoveredAt": "2026-10-01T10:24:05Z",
+      "verifiedAt": "2026-10-01T10:29:26Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Humanoid loco-manipulation",
+        "Learned perception for real robots",
+        "Human-supervised autonomy",
+        "Legged robot control"
+      ],
+      "physicalEvidenceStatus": "Current directed IHMC/UWF group, learned perception coupled to real humanoid tasks;2024 experiments/2026 journal issue",
+      "physicalEvidenceLabel": "受限真机证据：Current directed IHMC/UWF group, learned perception coupled to real humanoid tasks;2024 experiments/2026 journal issue",
+      "shortVisitStatus": "incompatible · 当前3–9个月；旧暑期至少9周且需工作许可",
+      "recordFile": "batches/control-092.json",
+      "detailPage": "batches/control-092.md#robert-j-griffin"
     },
     {
       "id": "tom-silver",

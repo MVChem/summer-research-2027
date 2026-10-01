@@ -1098,3 +1098,9 @@ Part II第5页允许全额个人资金，但要求境外大学/研究机构关�
 
 版本提醒：2027 专页给出的是 2 月 5 日**优先截止**；主页概述仍写通常一月底，以明确年份的专页安排为准。较新的主页列 2026–27 项目费 $975、八周住房约 $3,100；[独立费用页](https://global.ucsc.edu/visiting-students/isrp/cost/)仍标 2025–26 年及住房约 $3,025，其他餐饮估计也未同步。不得把两版当成统一最终报价，须在接受项目前确认。
 
+<a id="ihmc-uwf"></a>
+## IHMC / West Florida · 当前访问3–9个月，八周及签证待核
+
+核查2026-10-01T10:25:47Z。[IHMC自选研究实习](https://www.ihmc.us/self-directed-study-internship/)允许访研及硕士论文项目，地点Pensacola，无薪且明确3–9个月；未确认八周例外。[2025暑期软件实习](https://www.ihmc.us/summer-2025-software-engineering-internship/)曾允许研究生、全职有薪、至少9周，要求美国工作许可，已截止。2026链接现需机构登录，2027条件未知。
+
+[UWF公开说明](https://uwf.edu/student-affairs/departments/global-engagement/faculty-services/)要求部门提前至少90天申请J-1 scholar；细则Confluence需权限。[国际研究审查](https://uwf.edu/academic-affairs/departments/research-administration-engagement/research-integrity-compliance/international-collaborations-and-travel/)另适用。IHMC与UWF是不同主办主体，不能由联合任职推定签证赞助；外校硕士类别、个人资金、财力额、保险及费用均须确认。

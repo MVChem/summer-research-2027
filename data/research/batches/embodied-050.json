@@ -1,0 +1,107 @@
+[
+  {
+    "id": "ryan-l-truby",
+    "name": "Ryan L. Truby",
+    "aliases": [
+      "Ryan Truby"
+    ],
+    "school": "Northwestern University",
+    "homepage": "https://sites.northwestern.edu/roboticmatterlab/",
+    "title": "Assistant Professor; June and Donald Brewer Junior Professor",
+    "department": "Materials Science and Engineering; Mechanical Engineering",
+    "batch": "embodied-050",
+    "discoveredAt": "2026-10-01T03:01:24Z",
+    "verifiedAt": "2026-10-01T03:08:30Z",
+    "researchAreas": [
+      "Hardware reinforcement learning",
+      "Soft-robot adaptation",
+      "Learned proprioception",
+      "Architected robotic materials"
+    ],
+    "fitReason": "A concrete physical-learning option for a CS researcher interested in model learning, sample-efficient control and adaptation. The group is materially focused, so a software-heavy project would need deliberate agreement rather than assuming a foundation-model laboratory.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "June 2026 LEAP integrates learned damage representations and wrench prediction into an actual six-degree-of-freedom soft wrist on a Franka Panda, with a physical contour-tracing demonstration after actuator damage. The 2025 related study trains RL directly on a soft Stewart platform for puck balancing without simulated pretraining. Current Truby postdoc Taekyoung Kim and former group MSR student James Avtges are coauthors, linking the experiments to the group within a joint Murphey collaboration.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The current contact page offers professional contact information but no external visiting-master’s invitation. The roster records a former visiting undergraduate, which is hosting precedent only. Summer 2027 availability is unknown.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 35,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Strong direct learning/control overlap in a predominantly soft-material robotics group.",
+      "physical": "Current own postdoc and former group master’s researcher connect detailed hardware studies to the lab; joint-lab collaboration stated.",
+      "shortVisit": "No explicit external short-visit invitation; historical visitor gives zero opportunity points.",
+      "freshness": "June 2026 learned physical-proprioception study and current official appointment."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.mccormick.northwestern.edu / source 1",
+        "url": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/truby-ryan.html",
+        "summary": "Current official faculty appointments, named junior professorship, professional email and 2026 research inventory.",
+        "verifiedAt": "2026-10-01T03:08:30Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "sites.northwestern.edu / source 2",
+        "url": "https://sites.northwestern.edu/roboticmatterlab/the-team/",
+        "summary": "Full live roster: Truby directs group, Taekyoung Kim is a current postdoc and James Avtges a former MSR researcher. Past visiting undergraduate is not a current opening.",
+        "verifiedAt": "2026-10-01T03:08:30Z",
+        "retrieval": "direct-primary-html-via-curl"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2606.17394v1",
+        "summary": "June 16, 2026 full primary LEAP study: physical soft wrist/Panda, latent learned force estimates, damage/repair adaptation and tracing experiment.",
+        "verifiedAt": "2026-10-01T03:08:30Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2509.19525v1",
+        "summary": "September 23, 2025 full primary paper: direct-on-hardware deep RL for soft-platform puck balancing, including curriculum and damage experiments.",
+        "verifiedAt": "2026-10-01T03:08:30Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "sites.northwestern.edu / source 5",
+        "url": "https://sites.northwestern.edu/roboticmatterlab/contact/",
+        "summary": "Full contact page gives Northwestern address/email but no dedicated external visitor intake terms.",
+        "verifiedAt": "2026-10-01T03:08:30Z",
+        "retrieval": "direct-primary-html-via-curl"
+      }
+    ],
+    "unknowns": [
+      "LEAP is learned proprioception feeding a physical task controller, not an end-to-end foundation-model action policy. Its reported single-actuator adaptation time differs from the whole-wrist data-collection and computation protocol.",
+      "In the 2025 balancing study, rapid center balancing and the longer arbitrary-target curriculum are distinct experiments. Maximum Diffusion RL should not be described as a generative diffusion policy.",
+      "Northwestern’s existing institutional review distinguishes doctoral-only VPF from Student Intern. The latter permits personal funds and compatible durations, but a graduate-inclusive application conflicts with an undergraduate-only departmental checklist. An in-progress overseas master’s route still requires explicit institutional resolution.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "rtruby@northwestern.edu"
+  }
+]

@@ -111,6 +111,7 @@
     "batches/embodied-047.json",
     "batches/embodied-048.json",
     "batches/embodied-049.json",
+    "batches/embodied-050.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -6484,6 +6485,34 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-049.json",
       "detailPage": "batches/embodied-049.md#david-j-cappelleri"
+    },
+    {
+      "id": "ryan-l-truby",
+      "name": "Ryan L. Truby",
+      "aliases": [
+        "Ryan Truby"
+      ],
+      "school": "Northwestern University",
+      "title": "Assistant Professor; June and Donald Brewer Junior Professor",
+      "homepage": "https://sites.northwestern.edu/roboticmatterlab/",
+      "batch": "embodied-050",
+      "discoveredAt": "2026-10-01T03:01:24Z",
+      "verifiedAt": "2026-10-01T03:08:30Z",
+      "scores": {
+        "fit": 35,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Hardware reinforcement learning",
+        "Soft-robot adaptation",
+        "Learned proprioception",
+        "Architected robotic materials"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/embodied-050.json",
+      "detailPage": "batches/embodied-050.md#ryan-l-truby"
     },
     {
       "id": "henny-admoni",

@@ -171,6 +171,7 @@
     "batches/embodied-074.json",
     "batches/embodied-075.json",
     "batches/embodied-076.json",
+    "batches/embodied-080.json",
     "batches/hri-001.json",
     "batches/hri-002.json",
     "batches/hri-003.json",
@@ -9300,6 +9301,38 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/embodied-076.json",
       "detailPage": "batches/embodied-076.md#amrit-singh-bedi"
+    },
+    {
+      "id": "minghan-li",
+      "name": "Minghan Li",
+      "aliases": [
+        "Minghan Li (Niki)"
+      ],
+      "school": "Colorado School of Mines",
+      "title": "Assistant Professor",
+      "homepage": "https://mai-lab-2026.com/",
+      "batch": "embodied-080",
+      "discoveredAt": "2026-10-01T10:02:43Z",
+      "verifiedAt": "2026-10-01T10:09:11Z",
+      "scores": {
+        "fit": 35,
+        "physical": 0,
+        "shortVisit": 10,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "4D language-grounded spatial perception",
+        "Vision-language geometry representations",
+        "Dynamic scene understanding",
+        "Visual foundation models"
+      ],
+      "discoveryTimestampNote": "First precisely retained lab-authored primary people-page result; prior recruitment aggregator was only a lead, not primary verification.",
+      "candidateTier": "Spatial-perception methods and visitor-route backup; no physical robot execution verified",
+      "physicalEvidenceStatus": "no-verified-robot-deployment",
+      "physicalEvidenceLabel": "真机待核实",
+      "shortVisitStatus": "inquiry-only · 明确外校硕士/访客表单；唯一申请入口",
+      "recordFile": "batches/embodied-080.json",
+      "detailPage": "batches/embodied-080.md#minghan-li"
     },
     {
       "id": "henny-admoni",

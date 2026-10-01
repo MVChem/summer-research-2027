@@ -1,0 +1,146 @@
+[
+  {
+    "id": "yue-chen",
+    "name": "Yue Chen",
+    "aliases": [],
+    "school": "Georgia Institute of Technology / Emory University",
+    "homepage": "https://sites.gatech.edu/labbm2/",
+    "title": "Associate Professor",
+    "department": "Wallace H. Coulter Department of Biomedical Engineering; Mechanical Engineering by courtesy",
+    "batch": "embodied-052",
+    "discoveredAt": "2026-10-01T03:12:56Z",
+    "verifiedAt": "2026-10-01T03:17:59Z",
+    "researchAreas": [
+      "Soft and continuum robot control",
+      "Humanoid loco-manipulation learning",
+      "Agricultural visual representation learning",
+      "Medical robotic systems"
+    ],
+    "fitReason": "A selective option combining continuum-robot methods, collaborative humanoid RL, and agricultural vision. The lab is primarily mechatronics and medical robotics, so a CS visitor would need an explicitly software/learning-focused project rather than assuming all projects fit.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Opt2Skill, with a full version revised October 2025, executes PPO motion policies on actual Digit hardware for stairs, reaching, box handling, door opening and drawing/wiping. Yue Chen and current advisee Yilin Cai are coauthors, but the humanoid platform is shared across a multi-PI Georgia Tech collaboration; independent BM2 access for a visitor is unverified. The March 2026 DINOv3 blueberry study is offline image evaluation, not a deployed harvesting controller.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The complete live Join Us page provides GT undergraduate/master’s thesis and capstone projects plus degree recruitment. It does not explicitly offer an external short research visit. Its master’s research guidance usually provides no GRA and requires a PhD-student mentor, but those local programme terms should not be generalized to a separate visitor arrangement.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9"
+      ]
+    },
+    "scores": {
+      "fit": 35,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Meaningful robot-learning collaboration and current vision work, within a predominantly mechatronics/medical lab.",
+      "physical": "Explicit learned execution, capped for shared multi-PI humanoid apparatus and unresolved independent visitor access.",
+      "shortVisit": "Full intake page is local-course and degree-oriented, with no external short visitor invitation.",
+      "freshness": "Dated March 2026 primary visual-learning study and August 2026 group work; older hardware date retained."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "bme.gatech.edu / source 1",
+        "url": "https://bme.gatech.edu/bio/yue-chen",
+        "summary": "Direct official Associate Professor appointment, Atlanta office, joint department and professional email.",
+        "verifiedAt": "2026-10-01T03:17:59Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s2",
+        "label": "sites.gatech.edu / source 2",
+        "url": "https://sites.gatech.edu/labbm2/",
+        "summary": "Full current university lab page with August 2026 activity and medical/industrial research scope.",
+        "verifiedAt": "2026-10-01T03:17:59Z",
+        "retrieval": "direct-primary-html-via-curl"
+      },
+      {
+        "id": "s3",
+        "label": "sites.gatech.edu / source 3",
+        "url": "https://sites.gatech.edu/labbm2/people/",
+        "summary": "Full lab roster lists PI and Yilin Cai; Fukang Liu supervision entry conflicts with his newer personal page.",
+        "verifiedAt": "2026-10-01T03:17:59Z",
+        "retrieval": "direct-primary-html-via-curl"
+      },
+      {
+        "id": "s4",
+        "label": "missinglight.github.io / source 4",
+        "url": "https://missinglight.github.io/",
+        "summary": "Current Yilin Cai page explicitly confirms Chen as advisor, Opt2Skill coauthorship and August 2026 own-group research.",
+        "verifiedAt": "2026-10-01T03:17:59Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2409.20514v6",
+        "summary": "Full October 2025 primary Opt2Skill hardware section, PPO motion tracking and separate simulation evaluations.",
+        "verifiedAt": "2026-10-01T03:17:59Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2603.02419v1",
+        "summary": "Full March 2026 DINOv3 blueberry paper: GT Chen affiliation; recorded datasets and HPC evaluation, not physical autonomous harvesting.",
+        "verifiedAt": "2026-10-01T03:17:59Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s7",
+        "label": "sites.gatech.edu / source 7",
+        "url": "https://sites.gatech.edu/labbm2/join-us/",
+        "summary": "Complete rendered cloud-browser page read at03:16:58Z: local GT projects and degree master’s/PhD instructions, without external visit invitation.",
+        "verifiedAt": "2026-10-01T03:17:59Z",
+        "retrieval": "direct-cloud-browser-primary"
+      },
+      {
+        "id": "s8",
+        "label": "fukangl.github.io / source 8",
+        "url": "https://fukangl.github.io/",
+        "summary": "Current personal supervision statement differs from older BM2/IDAR roster; new Opt2VLA paper does not list Yue Chen.",
+        "verifiedAt": "2026-10-01T03:17:59Z",
+        "retrieval": "direct-primary-page"
+      },
+      {
+        "id": "s9",
+        "label": "lab-idar.gatech.edu / source 9",
+        "url": "https://lab-idar.gatech.edu/fukang-liu/",
+        "summary": "Full lab profile names historical/current co-advisors including Chen, retained only to document source conflict.",
+        "verifiedAt": "2026-10-01T03:17:59Z",
+        "retrieval": "direct-primary-page"
+      }
+    ],
+    "unknowns": [
+      "The current faculty directory and lab agree on Associate Professor. The lab roster still lists Fukang Liu among its students, and an IDAR page names Chen as co-advisor; Liu’s more recent personal page instead lists Kira and Xu as advisors. Current Chen advisee Yilin Cai independently confirms his own relationship, so the physical source link does not depend on the disputed Liu roster.",
+      "Opt2Skill is a 2024-first/2025-revised hardware study, not a new 2026 experiment because it was highlighted at ICRA 2026. Its policies track task-specific offline trajectories; this is not an open-ended language-conditioned VLA.",
+      "Several current local project descriptions propose RL/VLA or dVRK autonomy and explicitly describe hardware transfer as a next step. Proposed directions and the 2026 foundation-model perception benchmark receive no additional physical execution credit.",
+      "Use the existing Georgia Tech institutional supplement for separate appointment, funding and international-category constraints. Neither a local degree-course project nor willingness to self-fund establishes external-master’s summer eligibility.",
+      "Summer 2027 acceptance, mentor capacity, exact dates, funding, visitor appointment, and applicable university/immigration approvals remain unconfirmed. Self-funding alone does not establish eligibility.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "yue.chen@bme.gatech.edu"
+  }
+]

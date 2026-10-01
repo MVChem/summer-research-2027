@@ -160,7 +160,8 @@
     "batches/hri-043.json",
     "batches/hri-044.json",
     "batches/hri-045.json",
-    "batches/hri-046.json"
+    "batches/hri-046.json",
+    "batches/hri-047.json"
   ],
   "candidates": [
     {
@@ -9623,6 +9624,36 @@
       "shortVisitStatus": "unknown · SEAS通常至少三个月",
       "recordFile": "batches/hri-046.json",
       "detailPage": "batches/hri-046.md#conor-j-walsh"
+    },
+    {
+      "id": "russell-h-taylor",
+      "name": "Russell H. Taylor",
+      "aliases": [
+        "Russell Taylor",
+        "Russ Taylor"
+      ],
+      "school": "Johns Hopkins University",
+      "title": "John C. Malone Professor of Computer Science",
+      "homepage": "https://engineering.jhu.edu/faculty/russell-taylor/",
+      "batch": "hri-047",
+      "discoveredAt": "2026-10-01T03:08:58Z",
+      "verifiedAt": "2026-10-01T03:14:13Z",
+      "scores": {
+        "fit": 38,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-machine cooperative surgical robotics",
+        "Foundation-model perception",
+        "Language-guided robot planning",
+        "Surgical digital twins",
+        "Computer-integrated interventions"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-047.json",
+      "detailPage": "batches/hri-047.md#russell-h-taylor"
     }
   ]
 }

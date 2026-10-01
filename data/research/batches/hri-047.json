@@ -1,0 +1,122 @@
+[
+  {
+    "id": "russell-h-taylor",
+    "name": "Russell H. Taylor",
+    "aliases": [
+      "Russell Taylor",
+      "Russ Taylor"
+    ],
+    "school": "Johns Hopkins University",
+    "homepage": "https://engineering.jhu.edu/faculty/russell-taylor/",
+    "title": "John C. Malone Professor of Computer Science",
+    "department": "Computer Science; secondary Mechanical Engineering and School of Medicine appointments",
+    "batch": "hri-047",
+    "discoveredAt": "2026-10-01T03:08:58Z",
+    "verifiedAt": "2026-10-01T03:14:13Z",
+    "researchAreas": [
+      "Human-machine cooperative surgical robotics",
+      "Foundation-model perception",
+      "Language-guided robot planning",
+      "Surgical digital twins",
+      "Computer-integrated interventions"
+    ],
+    "fitReason": "Strong CS overlap in 3D scene understanding, language-guided robot planning and human-supervised physical execution, within a surgical-robotics research environment. The verified AI hardware study is collaborative; a direct project with Taylor and the appropriate day-to-day mentor would need to be identified.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "A full collaborative primary study integrates SAM2, FoundationPose and GPT-4o with an actual da Vinci Classic/dVRK and Azure Kinect for benchtop peg transfer and gauze retrieval. Closed-loop trials use human supervisory feedback, predefined robot actions and linear waypoint motion; they are not autonomous clinical surgery. The study first appeared September 19, 2024, was presented at COLAS 2025, and has a May 11, 2026 arXiv revision. Separately, the official 2026 REU project list names Taylor as PI and describes his lab’s already-developed endoscope-control arm; the proposed new safety prototype is not treated as a completed result. The particular learned dVRK experiment was not independently tied to a current Taylor advisee, so hardware credit is conservatively collaborative.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The 2026 LCSR REU lists a Taylor-supervised vision/robot-safety project, but its current eligibility is undergraduate students who are U.S. citizens or permanent residents. It does not establish external-master’s eligibility. The CIIS openings page was last modified in 2019 and describes degree admissions and undergraduate projects. No current external-master’s short-visit invitation was verified.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "38/40: direct foundation-model perception, language planning and physically grounded human-machine collaboration.",
+      "physical": "20/25: fully verified real collaborative hardware; exact current advisee/platform ownership unresolved.",
+      "shortVisit": "0/20: restricted REU and stale degree recruitment do not establish a master’s short-visit invitation.",
+      "freshness": "15/15: independent new June 2026 perception publication; explicitly not awarded by relabeling the 2024 hardware experiment’s 2026 revision."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "engineering.jhu.edu / source 1",
+        "url": "https://engineering.jhu.edu/faculty/russell-taylor/",
+        "summary": "Full current official faculty profile confirms John C. Malone Professor, primary CS appointment, secondary appointments and public email.",
+        "verifiedAt": "2026-10-01T03:14:13Z"
+      },
+      {
+        "id": "s2",
+        "label": "arxiv.org / source 2",
+        "url": "https://arxiv.org/html/2409.13107v3",
+        "summary": "Full May 11, 2026 version of older collaborative work verifies exact da Vinci hardware, foundation-model perception, GPT-4o action planning and human-feedback protocol.",
+        "verifiedAt": "2026-10-01T03:14:13Z"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/abs/2409.13107",
+        "summary": "Full version history verifies first submission September 19, 2024; avoids dating the original hardware experiment from its later revision.",
+        "verifiedAt": "2026-10-01T03:14:13Z"
+      },
+      {
+        "id": "s4",
+        "label": "lcsr.jhu.edu / source 4",
+        "url": "https://lcsr.jhu.edu/wp-content/uploads/2025/11/2026-REU-Projects.pdf",
+        "summary": "Full official 2026 project document names Taylor as PI and describes an existing endoscope arm plus a proposed new safety system.",
+        "verifiedAt": "2026-10-01T03:14:13Z"
+      },
+      {
+        "id": "s5",
+        "label": "lcsr.jhu.edu / source 5",
+        "url": "https://lcsr.jhu.edu/education/summer-reu-program/",
+        "summary": "Full current program page verifies undergraduate and U.S.-citizen/permanent-resident restrictions; 2026 cycle closed and 2027 specifics not posted.",
+        "verifiedAt": "2026-10-01T03:14:13Z"
+      },
+      {
+        "id": "s6",
+        "label": "ciis.lcsr.jhu.edu / source 6",
+        "url": "https://ciis.lcsr.jhu.edu/doku.php?id=positions",
+        "summary": "Full openings page is explicitly last modified in 2019 and offers degree-oriented graduate intake and undergraduate projects only.",
+        "verifiedAt": "2026-10-01T03:14:13Z"
+      },
+      {
+        "id": "s7",
+        "label": "pure.johnshopkins.edu / source 7",
+        "url": "https://pure.johnshopkins.edu/en/publications/global-region-reidentification-for-camera-relocalization-in-video/",
+        "summary": "Full university publication record and abstract verify new June 2026 foundation-model/PnP endoscopic relocalization research evaluated on eight sequences from three cadaver studies; no robot-control claim.",
+        "verifiedAt": "2026-10-01T03:14:13Z"
+      }
+    ],
+    "unknowns": [
+      "Use the separately documented WSE Visiting Graduate Scholar pathway for outside full-time graduate students with a bachelor’s, requiring host approval, non-degree application and research-practicum registration. It is not an informal unpaid volunteer arrangement.",
+      "WSE appointment eligibility does not settle summer 2027 capacity, exact eight-week dates, funding, insurance, fees, visa classification or medical-school access.",
+      "The AI robot evidence is collaborative, while the 2026 PI listing verifies a different endoscope platform. Do not claim the entire shared LCSR inventory is Taylor’s own lab equipment.",
+      "A distinct June 2026 camera-relocalization paper uses foundation models and PnP on cadaver-image sequences. It is fresh perception research, not proof of a new 2026 robot-control deployment.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "rht@jhu.edu"
+  }
+]

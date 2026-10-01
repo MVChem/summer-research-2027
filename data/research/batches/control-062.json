@@ -1,0 +1,303 @@
+[
+  {
+    "id": "alexandre-m-bayen",
+    "name": "Alexandre M. Bayen",
+    "aliases": [
+      "Alexandre Bayen",
+      "Alex Bayen"
+    ],
+    "school": "University of California, Berkeley",
+    "homepage": "https://bayen.berkeley.edu/",
+    "title": "Liao-Cho Professor of Engineering; Associate Provost for Moffett Field Program Development",
+    "department": "Electrical Engineering and Computer Sciences; Civil and Environmental Engineering",
+    "batch": "control-062",
+    "discoveredAt": "2026-10-01T04:50:50Z",
+    "verifiedAt": "2026-10-01T04:55:05Z",
+    "researchAreas": [
+      "Deep reinforcement learning",
+      "Mixed-autonomy traffic control",
+      "Safe learned cruise control",
+      "Distributed autonomous systems"
+    ],
+    "fitReason": "Substantive learning-to-control deployed into real traffic; application scope is vehicle longitudinal control rather than general manipulation.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The 2024 primary manuscript, published in the February 2025 IEEE Control Systems Magazine issue and explained by the authors in March 2025, documents RL controllers on 100 Nissan Rogue cars during the November 2022 I-24 MegaVanderTest. Neural policies trained on trajectory-based simulation were exported to ONNX/ROS and controlled adaptive-cruise speed settings with safety limits. Vehicles remained partially automated with human drivers; this is not driverless perception-to-steering control. Physical deployment is consortium hardware from 2022, not a newly demonstrated Berkeley fleet or guaranteed 2027 access. Physical credit is capped at 20.",
+      "sourceIds": [
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "Current official profile and lab publications establish continuing Berkeley faculty/research affiliation; no explicit Bayen-lab external-master’s short-visit invitation verified. General Berkeley visiting-research mechanisms are not a lab offer.",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Deep neural RL controls executed longitudinal vehicle behavior, with transportation-specific scope.",
+      "physical": "Strong actual field execution, capped because it is an older consortium deployment with no verified present-day visitor hardware access.",
+      "shortVisit": "No explicit current external short-visitor invitation.",
+      "freshness": "Current official role, 2025 primary publication and April 2026 research chair appointment."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www2.eecs.berkeley.edu / source 1",
+        "url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/bayen.html",
+        "summary": "Current endowed professor, EECS/CEE and administrative roles; public email.",
+        "verifiedAt": "2026-10-01T04:53:30Z",
+        "retrieval": "Direct official/author-primary HTML or paper PDF via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "bayen.berkeley.edu / source 2",
+        "url": "https://bayen.berkeley.edu/pubs",
+        "summary": "Lab lists the final February 2025 RL field-test journal publication.",
+        "verifiedAt": "2026-10-01T04:55:05Z",
+        "retrieval": "Direct official/author-primary HTML or paper PDF via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/pdf/2402.17050",
+        "summary": "Primary full manuscript: neural RL, real Nissan Rogue deployment, Sections4.1–4.3; November 2022 field dates and partially automated longitudinal-control scope.",
+        "verifiedAt": "2026-10-01T04:53:30Z",
+        "retrieval": "Direct official/author-primary HTML or paper PDF via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "bair.berkeley.edu / source 4",
+        "url": "https://bair.berkeley.edu/blog/2025/03/25/rl-av-smoothing/",
+        "summary": "Author-written institutional account corroborates simulation-to-hardware RL deployment.",
+        "verifiedAt": "2026-10-01T04:53:30Z",
+        "retrieval": "Direct official/author-primary HTML or paper PDF via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "hi-paris.fr / source 5",
+        "url": "https://hi-paris.fr/2026/04/11-international-visiting-chairs-join-hi-paris-in-2026/",
+        "summary": "April 3, 2026 host announcement lists Bayen’s AI/ML and deep-RL visiting chair; it is his visit to France, not an invitation to student visitors.",
+        "verifiedAt": "2026-10-01T04:53:30Z",
+        "retrieval": "Direct official/author-primary HTML or paper PDF via web.run"
+      }
+    ],
+    "unknowns": [
+      "Field experiments are historical and conducted in Tennessee with a multi-institution consortium. Bayen also holds administrative responsibilities; a 2026 Hi! PARIS visiting chair is current academic activity in France, not a US summer-hosting guarantee. Eight-week project, location, supervision, fees, appointment, funding and 2027 access remain unknown. Reuse existing Berkeley eligibility supplement.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Institutional visitor rules](../eligibility_notes.md#berkeley-vsr)"
+    ],
+    "publicEmail": "bayen@berkeley.edu"
+  },
+  {
+    "id": "stephanie-gil",
+    "name": "Stephanie Gil",
+    "aliases": [],
+    "school": "Harvard University",
+    "homepage": "https://react.seas.harvard.edu/",
+    "title": "John L. Loeb Associate Professor of Engineering and Applied Sciences; REACT Lab PI",
+    "department": "Computer Science, School of Engineering and Applied Sciences",
+    "batch": "control-062",
+    "discoveredAt": "2026-10-01T04:51:54Z",
+    "verifiedAt": "2026-10-01T04:55:05Z",
+    "researchAreas": [
+      "Multi-robot sequential decision-making",
+      "Model-based reinforcement learning",
+      "Probabilistic state estimation",
+      "Trustworthy robot coordination",
+      "Field robot autonomy"
+    ],
+    "fitReason": "Substantive probabilistic/model-based AI for actual field autonomy; more rollout planning and sensing fusion than deep learned visuomotor policies.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "December 2025 primary paper integrates Gaussian-mixture acoustic separation, particle-filter beliefs and a model-based RL/rollout navigation framework with a Holybro S500/Pixhawk UAV. Dominica trials achieved two whale rendezvous within 200 m. Table 1 explicitly keeps boat maneuvers, belief-candidate selection and takeoff manual in the sea trials; waypoint navigation was autonomous. Autonomous takeoff/selection and larger success-rate studies were simulation. Current REACT roster lists coauthors Ninad Jadhav, Hammad Izhar and Karen Li, establishing directed-group linkage; former coauthor Sushmita Bhattacharya is now an alumna. This is not a neural end-to-end flight policy.",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "precedent-only · Harvard normally at least 3 months",
+      "summary": "Current lab roster includes a Visiting Scholars section, providing hosting precedent without dates, duration or degree eligibility. No current open invitation to external-master’s eight-week visitors verified; precedent alone receives no short-visit points.",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 36,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Physical AI via probabilistic inference and model-based rollout decisions; narrower non-neural emphasis.",
+      "physical": "Actual current-group UAV field navigation with manual and simulated components explicitly separated.",
+      "shortVisit": "Visitor roster is precedent only, with no applicable short-visit invitation.",
+      "freshness": "December 2025 primary field paper and August 12, 2026 official research interview."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "seas.harvard.edu / source 1",
+        "url": "https://seas.harvard.edu/person/stephanie-gil",
+        "summary": "Current endowed associate professor and public email; official August 2026 feature.",
+        "verifiedAt": "2026-10-01T04:53:30Z",
+        "retrieval": "Direct official/author-primary HTML or paper PDF via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "react.seas.harvard.edu / source 2",
+        "url": "https://react.seas.harvard.edu/",
+        "summary": "Current lab explicitly presents its real-time whale-rendezvous project.",
+        "verifiedAt": "2026-10-01T04:53:30Z",
+        "retrieval": "Direct official/author-primary HTML or paper PDF via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "react.seas.harvard.edu / source 3",
+        "url": "https://react.seas.harvard.edu/members/",
+        "summary": "Current Jadhav, Izhar and Li link the field paper to the directed group; visiting-scholar roster has no term or open call.",
+        "verifiedAt": "2026-10-01T04:53:30Z",
+        "retrieval": "Direct official/author-primary HTML or paper PDF via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2512.05808v1",
+        "summary": "Primary full paper, Sections2.3/3.1 and Table 1: physical aircraft/navigation, inference/control modules, manual field components versus autonomous simulation.",
+        "verifiedAt": "2026-10-01T04:53:30Z",
+        "retrieval": "Direct official/author-primary HTML or paper PDF via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "seas.harvard.edu / source 5",
+        "url": "https://seas.harvard.edu/news/helping-robots-navigate-uncertain-world",
+        "summary": "August 12, 2026 official interview verifies ongoing physical-AI and trustworthy decision-making focus.",
+        "verifiedAt": "2026-10-01T04:53:30Z",
+        "retrieval": "Direct official/author-primary HTML or paper PDF via web.run"
+      }
+    ],
+    "unknowns": [
+      "Existing Harvard SEAS Fellow policy normally requires at least three months, longer than eight weeks; no exception verified. A Student Intern immigration category does not override that academic appointment rule. Dominica field deployment does not establish a US summer field project, travel access or hardware availability. Host approval, project, funds, academic classification and summer 2027 remain unresolved.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: First precisely preserved source-observation time. An earlier preliminary lead was noticed, but its exact timestamp is unavailable; no earlier discovery time was reconstructed.",
+      "[Institutional visitor rules](../eligibility_notes.md#harvard-seas)"
+    ],
+    "publicEmail": "sgil@seas.harvard.edu",
+    "discoveryTimestampNote": "First precisely preserved source-observation time. An earlier preliminary lead was noticed, but its exact timestamp is unavailable; no earlier discovery time was reconstructed."
+  },
+  {
+    "id": "miroslav-pajic",
+    "name": "Miroslav Pajic",
+    "aliases": [],
+    "school": "Duke University",
+    "homepage": "https://cpsl.pratt.duke.edu/",
+    "title": "Professor of Electrical and Computer Engineering; Cyber-Physical Systems Lab lead",
+    "department": "Electrical and Computer Engineering; Computer Science; Mechanical Engineering and Materials Science",
+    "batch": "control-062",
+    "discoveredAt": "2026-10-01T04:51:54Z",
+    "verifiedAt": "2026-10-01T04:55:05Z",
+    "researchAreas": [
+      "Reinforcement learning",
+      "LLM-based multi-robot coordination",
+      "Assured autonomy",
+      "Safe cyber-physical systems",
+      "Learning and control"
+    ],
+    "fitReason": "Strong substantive AI/control profile with real heterogeneous robot coordination and active offline-to-online RL methods.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "LLM-MCoX September 2025 primary preprint executes centralized multimodal-LLM waypoint assignment on an actual Unitree Go2 and customized X500 quadrotor, both carrying Livox Mid360 LiDAR, in an indoor target-search trial. The planner incorporates a directional language hint; local SLAM Toolbox/Nav2 handle geometry and motion. A central PC replans on a 20-second horizon. Six-robot efficiency gains are simulation, not the two-robot physical trial. Current CPSL roster includes first author Ruiyang Wang and coauthors Hao-Lun Hsu, David Hunt, Jiwoo Kim and Shaocheng Luo, establishing directed-group linkage. April 2026 SAGR benchmarks are Habitat simulation and not additional physical execution.",
+      "sourceIds": [
+        "s3",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "degree-only",
+      "summary": "Current lab explicitly recruits PhD students and postdocs. Current Duke master’s mentees and historical outside undergraduate visitors are not a current external-master’s short-visit invitation. No qualifying eight-week/2027 offer verified.",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "Learned high-level robot planning plus active safe/offline-to-online RL; no claim the LLM is a low-level motor controller.",
+      "physical": "Named physical ground/aerial pair in current directed-group work, separated from simulation percentage gains.",
+      "shortVisit": "PhD/postdoc recruitment and prior visitors do not establish external-master’s short stays.",
+      "freshness": "June 2026 L4DC primary paper and current official appointments; detailed physical experiment is September 2025."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "scholars.duke.edu / source 1",
+        "url": "https://scholars.duke.edu/person/miroslav.pajic",
+        "summary": "Current official appointments and public email.",
+        "verifiedAt": "2026-10-01T04:53:30Z",
+        "retrieval": "Direct official/author-primary HTML or paper PDF via web.run"
+      },
+      {
+        "id": "s2",
+        "label": "cpsl.pratt.duke.edu / source 2",
+        "url": "https://cpsl.pratt.duke.edu/",
+        "summary": "Lab scope and explicit PhD/postdoc recruitment only.",
+        "verifiedAt": "2026-10-01T04:53:30Z",
+        "retrieval": "Direct official/author-primary HTML or paper PDF via web.run"
+      },
+      {
+        "id": "s3",
+        "label": "cpsl.pratt.duke.edu / source 3",
+        "url": "https://cpsl.pratt.duke.edu/people",
+        "summary": "Current Wang/Hsu/Hunt/Kim/Luo roster establishes group authorship rather than mere external collaboration.",
+        "verifiedAt": "2026-10-01T04:53:30Z",
+        "retrieval": "Direct official/author-primary HTML or paper PDF via web.run"
+      },
+      {
+        "id": "s4",
+        "label": "arxiv.org / source 4",
+        "url": "https://arxiv.org/html/2509.26324v1",
+        "summary": "Primary full manuscript, VI: actual Go2/X500 coordinated search. It labels ICRA2026 as submitted, so no acceptance is asserted.",
+        "verifiedAt": "2026-10-01T04:53:30Z",
+        "retrieval": "Direct official/author-primary HTML or paper PDF via web.run"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/abs/2604.16263",
+        "summary": "April 2026 SAGR primary abstract specifies Habitat-Matterport3D benchmark, not hardware.",
+        "verifiedAt": "2026-10-01T04:55:05Z",
+        "retrieval": "Direct official/author-primary HTML or paper PDF via web.run"
+      },
+      {
+        "id": "s6",
+        "label": "proceedings.mlr.press / source 6",
+        "url": "https://proceedings.mlr.press/v331/bozkurt26a.html",
+        "summary": "June 2026 L4DC primary proceedings verify continuing offline-to-online RL policy-selection work.",
+        "verifiedAt": "2026-10-01T04:55:05Z",
+        "retrieval": "Direct official/author-primary HTML or paper PDF via web.run"
+      }
+    ],
+    "unknowns": [
+      "Official Duke directory now lists ECE Professor from 2024 and MEMS Professor from 2025; older associate-professor descriptions are stale for those appointments. Existing Duke Visiting Research Scholar policy includes external graduates, but host approval, exact academic/immigration category, eight-week plan, current financial minimum and complete costs remain unresolved. No funding or summer 2027 capacity assumed.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "Timestamp scope: First precisely preserved source-observation time. An earlier preliminary lead was noticed, but its exact timestamp is unavailable; no earlier discovery time was reconstructed.",
+      "[Institutional visitor rules](../eligibility_notes.md#duke)"
+    ],
+    "publicEmail": "miroslav.pajic@duke.edu",
+    "discoveryTimestampNote": "First precisely preserved source-observation time. An earlier preliminary lead was noticed, but its exact timestamp is unavailable; no earlier discovery time was reconstructed."
+  }
+]

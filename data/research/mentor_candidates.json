@@ -70,6 +70,7 @@
     "batches/control-059.json",
     "batches/control-060.json",
     "batches/control-061.json",
+    "batches/control-062.json",
     "batches/embodied-001.json",
     "batches/embodied-002.json",
     "batches/embodied-003.json",
@@ -3663,6 +3664,89 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/control-061.json",
       "detailPage": "batches/control-061.md#nicola-bezzo"
+    },
+    {
+      "id": "alexandre-m-bayen",
+      "name": "Alexandre M. Bayen",
+      "aliases": [
+        "Alexandre Bayen",
+        "Alex Bayen"
+      ],
+      "school": "University of California, Berkeley",
+      "title": "Liao-Cho Professor of Engineering; Associate Provost for Moffett Field Program Development",
+      "homepage": "https://bayen.berkeley.edu/",
+      "batch": "control-062",
+      "discoveredAt": "2026-10-01T04:50:50Z",
+      "verifiedAt": "2026-10-01T04:55:05Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Deep reinforcement learning",
+        "Mixed-autonomy traffic control",
+        "Safe learned cruise control",
+        "Distributed autonomous systems"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/control-062.json",
+      "detailPage": "batches/control-062.md#alexandre-m-bayen"
+    },
+    {
+      "id": "stephanie-gil",
+      "name": "Stephanie Gil",
+      "aliases": [],
+      "school": "Harvard University",
+      "title": "John L. Loeb Associate Professor of Engineering and Applied Sciences; REACT Lab PI",
+      "homepage": "https://react.seas.harvard.edu/",
+      "batch": "control-062",
+      "discoveredAt": "2026-10-01T04:51:54Z",
+      "verifiedAt": "2026-10-01T04:55:05Z",
+      "scores": {
+        "fit": 36,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Multi-robot sequential decision-making",
+        "Model-based reinforcement learning",
+        "Probabilistic state estimation",
+        "Trustworthy robot coordination",
+        "Field robot autonomy"
+      ],
+      "shortVisitStatus": "precedent-only · Harvard normally at least 3 months",
+      "recordFile": "batches/control-062.json",
+      "detailPage": "batches/control-062.md#stephanie-gil"
+    },
+    {
+      "id": "miroslav-pajic",
+      "name": "Miroslav Pajic",
+      "aliases": [],
+      "school": "Duke University",
+      "title": "Professor of Electrical and Computer Engineering; Cyber-Physical Systems Lab lead",
+      "homepage": "https://cpsl.pratt.duke.edu/",
+      "batch": "control-062",
+      "discoveredAt": "2026-10-01T04:51:54Z",
+      "verifiedAt": "2026-10-01T04:55:05Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Reinforcement learning",
+        "LLM-based multi-robot coordination",
+        "Assured autonomy",
+        "Safe cyber-physical systems",
+        "Learning and control"
+      ],
+      "shortVisitStatus": "degree-only",
+      "recordFile": "batches/control-062.json",
+      "detailPage": "batches/control-062.md#miroslav-pajic"
     },
     {
       "id": "tom-silver",

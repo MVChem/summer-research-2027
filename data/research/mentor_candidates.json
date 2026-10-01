@@ -60,7 +60,8 @@
     "batches/hri-014.json",
     "batches/hri-015.json",
     "batches/hri-016.json",
-    "batches/hri-017.json"
+    "batches/hri-017.json",
+    "batches/hri-018.json"
   ],
   "candidates": [
     {
@@ -6373,6 +6374,37 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-017.json",
       "detailPage": "batches/hri-017.md#anqi-liu"
+    },
+    {
+      "id": "ramviyas-nattanmai-parasuraman",
+      "name": "Ramviyas Nattanmai Parasuraman",
+      "aliases": [
+        "Ramviyas Parasuraman",
+        "Ramviyas Nattamai Parasuraman",
+        "Ramviyas Nattanmai"
+      ],
+      "school": "University of Georgia",
+      "title": "Associate Professor of Computer Science",
+      "homepage": "https://www.cs.uga.edu/directory/people/ramviyas-nattanmai-parasuraman",
+      "batch": "hri-018",
+      "discoveredAt": "2026-09-30T23:35:47Z",
+      "verifiedAt": "2026-09-30T23:38:36Z",
+      "scores": {
+        "fit": 39,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Robot perception and spatial semantics",
+        "LLM-grounded probabilistic environmental models",
+        "Heterogeneous multi-robot coordination",
+        "Human-robot interfaces and intelligent teleoperation",
+        "Robot learning and information gathering"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-018.json",
+      "detailPage": "batches/hri-018.md#ramviyas-nattanmai-parasuraman"
     }
   ]
 }

@@ -1,0 +1,133 @@
+[
+  {
+    "id": "ramviyas-nattanmai-parasuraman",
+    "name": "Ramviyas Nattanmai Parasuraman",
+    "aliases": [
+      "Ramviyas Parasuraman",
+      "Ramviyas Nattamai Parasuraman",
+      "Ramviyas Nattanmai"
+    ],
+    "school": "University of Georgia",
+    "homepage": "https://www.cs.uga.edu/directory/people/ramviyas-nattanmai-parasuraman",
+    "title": "Associate Professor of Computer Science",
+    "department": "School of Computing; Heterogeneous Robotics (HeRo) Lab",
+    "batch": "hri-018",
+    "discoveredAt": "2026-09-30T23:35:47Z",
+    "verifiedAt": "2026-09-30T23:38:36Z",
+    "researchAreas": [
+      "Robot perception and spatial semantics",
+      "LLM-grounded probabilistic environmental models",
+      "Heterogeneous multi-robot coordination",
+      "Human-robot interfaces and intelligent teleoperation",
+      "Robot learning and information gathering"
+    ],
+    "fitReason": "Strong CS and embodied-AI overlap in semantic perception, uncertainty-aware mapping, low-supervision LLM adaptation and robot information gathering. A software-first mapping/evaluation contribution could be scoped for a short project if the host agrees; the lab also explicitly studies human-robot teams and teleoperation.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The 2026 primary paper SK: Semantic Kernel for Robotic Information Gathering identifies the authors with UGA and reports a Rover-MAX mobile robot autonomously exploring a 10-by-13-metre multi-room laboratory. It collects Wi-Fi signal and RGB-D observations; SLAM/object detection yields a scene graph, and LLM-derived Gaussian-process kernels model the signal field. Six real trials are reported. This is actual local robot sensing/modeling evidence, not merely simulated navigation or a model directly commanding robot joints.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The current official department and lab contact pages establish a research contact but no explicit external visitor/intern opening. An older personal homepage invites graduate/undergraduate research interest but is last updated July 2020; its Assistant Professor title is obsolete and its recruitment paragraph is not treated as a current summer route. No 2027 dates, eight-week duration, funding or external master's hosting commitment was found.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "direct modern semantic/LLM, probabilistic modeling and robotics-method overlap.",
+      "physical": "specified UGA mobile robot and six real experimental trials.",
+      "shortVisit": "no current explicit external short-visit route.",
+      "freshness": "2026 primary paper and current official activity. Provisional fit/evidence score, not acceptance probability or prestige."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.cs.uga.edu / source 1",
+        "url": "https://www.cs.uga.edu/directory/people/ramviyas-nattanmai-parasuraman",
+        "summary": "Full official faculty profile confirms Associate Professor of CS, lab leadership, HRI/teleoperation areas, current public email and July 2026 CV link.",
+        "verifiedAt": "2026-09-30T23:38:36Z"
+      },
+      {
+        "id": "s2",
+        "label": "herolab.org / source 2",
+        "url": "https://herolab.org/",
+        "summary": "Full lab homepage identifies UGA physical research base and human/multi-robot vision, plus June 2026 activity; old footer is not used to date current research.",
+        "verifiedAt": "2026-09-30T23:38:36Z"
+      },
+      {
+        "id": "s3",
+        "label": "herolab.org / source 3",
+        "url": "https://herolab.org/contact-us/",
+        "summary": "Full contact page confirms current Associate Professor title and lab contact; no external visitor invitation is present.",
+        "verifiedAt": "2026-09-30T23:38:36Z"
+      },
+      {
+        "id": "s4",
+        "label": "ramviyas.github.io / source 4",
+        "url": "https://ramviyas.github.io/",
+        "summary": "Search-indexed historical homepage says last updated July 10, 2020 and broadly recruits graduate/undergraduate students. It is not treated as an available short visit.",
+        "verifiedAt": "2026-09-30T23:38:36Z"
+      },
+      {
+        "id": "s5",
+        "label": "herolab.org / source 5",
+        "url": "https://herolab.org/publications/",
+        "summary": "Current primary lab bibliography lists 2026 semantic-kernel and human-robot teaming work with paper/code links.",
+        "verifiedAt": "2026-09-30T23:38:36Z"
+      },
+      {
+        "id": "s6",
+        "label": "herolab.org / source 6",
+        "url": "https://herolab.org/wp-content/uploads/2026/06/Ghanta_IROS_2026_Semantic_Kernel_for_Robotic_Information_Sampling_Preprint.pdf",
+        "summary": "Primary paper read for methods and real-world experiments on pages 7-8: Rover-MAX platform, RGB-D/SLAM scene extraction, real Wi-Fi sampling and six trials; page 1 confirms UGA authorship. PDF link obtained from the live primary lab page in cloud browser.",
+        "verifiedAt": "2026-09-30T23:38:36Z"
+      },
+      {
+        "id": "s7",
+        "label": "github.com / source 7",
+        "url": "https://github.com/herolab-uga/semantic-kernel-robotic-information-gathering",
+        "summary": "Full primary repository README corroborates few-shot/QLoRA semantic kernel and real-world signal-gathering experiment. Repository was only read, not run.",
+        "verifiedAt": "2026-09-30T23:38:36Z"
+      },
+      {
+        "id": "s8",
+        "label": "arxiv.org / source 8",
+        "url": "https://arxiv.org/html/2603.26730v1",
+        "summary": "Primary collaborative HARMONIC paper distinguishes physics-simulation UGV from tabletop-manipulator validation. Used only as contextual HRI evidence, not local hardware ownership.",
+        "verifiedAt": "2026-09-30T23:38:36Z"
+      }
+    ],
+    "unknowns": [
+      "Current official directory says Associate Professor; use it rather than the outdated personal homepage's Assistant Professor title.",
+      "The lab website has 2026 publications/news despite an old October 2021 footer. Freshness rests on the dated 2026 paper and official news, not the footer.",
+      "Research fit does not establish eight-week project feasibility, supervision, international appointment eligibility, funding or permission to be wholly self-funded.",
+      "The spatial-model paper combines scene reasoning with probabilistic sensing. It is not evidence of a general-purpose autonomous manipulation policy or unrestricted human-facing deployment.",
+      "Other 2026 collaborative HARMONIC work includes a physical tabletop manipulator, but that collaboration was not used to claim ownership of another institution's hardware.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "ramviyas@uga.edu"
+  }
+]

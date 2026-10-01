@@ -81,7 +81,8 @@
     "batches/hri-021.json",
     "batches/hri-022.json",
     "batches/hri-023.json",
-    "batches/hri-024.json"
+    "batches/hri-024.json",
+    "batches/hri-025.json"
   ],
   "candidates": [
     {
@@ -7137,6 +7138,35 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-024.json",
       "detailPage": "batches/hri-024.md#jiangen-he"
+    },
+    {
+      "id": "nikolaos-papanikolopoulos",
+      "name": "Nikolaos Papanikolopoulos",
+      "aliases": [
+        "Nikos Papanikolopoulos",
+        "Nikolaos P. Papanikolopoulos"
+      ],
+      "school": "University of Minnesota, Twin Cities",
+      "title": "Professor; McKnight Presidential Endowed Professor; Minnesota Robotics Institute Director",
+      "homepage": "https://cse.umn.edu/cs/nikolaos-papanikolopoulos",
+      "batch": "hri-025",
+      "discoveredAt": "2026-10-01T00:23:50Z",
+      "verifiedAt": "2026-10-01T00:30:42Z",
+      "scores": {
+        "fit": 37,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Learned telemanipulation",
+        "Human-motion to robot-action mapping",
+        "Robot perception and computer vision",
+        "Generative latent representations for robot control"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-025.json",
+      "detailPage": "batches/hri-025.md#nikolaos-papanikolopoulos"
     }
   ]
 }

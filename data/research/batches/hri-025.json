@@ -1,0 +1,111 @@
+[
+  {
+    "id": "nikolaos-papanikolopoulos",
+    "name": "Nikolaos Papanikolopoulos",
+    "aliases": [
+      "Nikos Papanikolopoulos",
+      "Nikolaos P. Papanikolopoulos"
+    ],
+    "school": "University of Minnesota, Twin Cities",
+    "homepage": "https://cse.umn.edu/cs/nikolaos-papanikolopoulos",
+    "title": "Professor; McKnight Presidential Endowed Professor; Minnesota Robotics Institute Director",
+    "department": "Computer Science and Engineering; Minnesota Robotics Institute",
+    "batch": "hri-025",
+    "discoveredAt": "2026-10-01T00:23:50Z",
+    "verifiedAt": "2026-10-01T00:30:42Z",
+    "researchAreas": [
+      "Learned telemanipulation",
+      "Human-motion to robot-action mapping",
+      "Robot perception and computer vision",
+      "Generative latent representations for robot control"
+    ],
+    "fitReason": "Strong CS-methods overlap through generative models that map human arm motion into executable robot configurations. A narrowly scoped representation-learning, motion-retargeting or evaluation component is an imaginable short project, subject to the host selecting a feasible task.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The full February 2025 primary paper From Human Hands to Robotic Limbs implements a GRU-VAE plus feed-forward mapping on a physical Kinova Gen3 seven-DOF arm using Xsens Awinda motion tracking. Section III describes real-arm trajectory collection; Section IV reports four participants teleoperating the arm to three target poses, five trials each. This is learned human-motion teleoperation, not autonomous task planning or an LLM-controlled robot. Training human-motion data came from one person, a stated limitation.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The official faculty profile and personal page verify research and graduate supervision but provide no explicit external visitor or summer-intern invitation. Institute leadership and prior graduate students do not establish a short-visit opening.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "Provisional evidence-fit score, not acceptance probability or prestige: research 37 for learned latent human-motion/robot-action mapping.",
+      "physical": "physical 25 for full primary Kinova hardware experiments at the current institution.",
+      "shortVisit": "visit 0 because no explicit external short-visit route was found.",
+      "freshness": "freshness 10 for the dated 2025 experiment, without using a 2026 profile/interview as a new experimental result."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "cse.umn.edu / source 1",
+        "url": "https://cse.umn.edu/cs/nikolaos-papanikolopoulos",
+        "summary": "Current official faculty title, department, robotics/AI division, institute directorship and personal-site link.",
+        "verifiedAt": "2026-10-01T00:30:42Z"
+      },
+      {
+        "id": "s2",
+        "label": "experts.umn.edu / source 2",
+        "url": "https://experts.umn.edu/en/persons/nikolaos-p-papanikolopoulos/",
+        "summary": "Official university research directory confirms Professor, institute director and papan001@umn.edu.",
+        "verifiedAt": "2026-10-01T00:30:42Z"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2502.02036v1",
+        "summary": "Full 2025 primary methods and experiment: GRU-VAE/MLP, Kinova Gen3 and Xsens, four-participant physical target-reaching teleoperation; one-person training-data limitation.",
+        "verifiedAt": "2026-10-01T00:30:42Z"
+      },
+      {
+        "id": "s4",
+        "label": "sites.google.com / source 4",
+        "url": "https://sites.google.com/umn.edu/teleop/home",
+        "summary": "Author project page for the same learned teleoperation work; method, Kinova trajectory illustrations and demo links.",
+        "verifiedAt": "2026-10-01T00:30:42Z"
+      },
+      {
+        "id": "s5",
+        "label": "www-users.cse.umn.edu / source 5",
+        "url": "https://www-users.cse.umn.edu/~papan001/",
+        "summary": "University-hosted personal page; broad robotics/vision agenda and graduate-supervision history, no explicit external visitor invitation.",
+        "verifiedAt": "2026-10-01T00:30:42Z"
+      },
+      {
+        "id": "s6",
+        "label": "med.umn.edu / source 6",
+        "url": "https://med.umn.edu/iem/news/facilitator-nikolaos-papanikolopoulos-ai-innovation-and-empowering-next-generation",
+        "summary": "March 20, 2026 institutional interview verifies ongoing Minnesota affiliation; broad manufacturing/AI agenda, not counted as a new hardware experiment.",
+        "verifiedAt": "2026-10-01T00:30:42Z"
+      }
+    ],
+    "unknowns": [
+      "No eight-week external-master's project, funding, admission category, or remote arrangement is confirmed.",
+      "Institutional permission for personal funding and international visitor appointment must be checked separately; no self-funding permission is inferred from the research evidence.",
+      "The newest fully inspected concrete AI-to-robot methods source is from 2025. The 2026 institutional interview confirms active affiliation but is not a new controlled robot experiment.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "papan001@umn.edu"
+  }
+]

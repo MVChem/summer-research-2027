@@ -1,0 +1,103 @@
+[
+  {
+    "id": "artur-w-dubrawski",
+    "name": "Artur W. Dubrawski",
+    "aliases": [
+      "Artur Dubrawski"
+    ],
+    "school": "Carnegie Mellon University",
+    "homepage": "https://www.ri.cmu.edu/ri-faculty/artur-w-dubrawski/",
+    "title": "Alumni Research Professor of Computer Science",
+    "department": "Robotics Institute, School of Computer Science",
+    "batch": "hri-040",
+    "discoveredAt": "2026-10-01T02:31:23Z",
+    "verifiedAt": "2026-10-01T02:32:25Z",
+    "researchAreas": [
+      "Robot perception",
+      "Probabilistic reasoning",
+      "Multimodal sensor fusion",
+      "AI for autonomous triage",
+      "Human-centered robotics"
+    ],
+    "fitReason": "Strong CS-methods overlap in uncertainty-aware robot perception and probabilistic fusion, with a concrete route from AI estimator outputs to physical robotic assessment. His broader lab also researches deployed machine-learning systems. This is a robot-perception fit rather than general health analytics alone.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "April 23, 2026 primary paper describes three Spot-type quadrupeds, a custom UAV and an Indago 4 Scout, using ROS 2 and Jetson AGX Orin. AI sensor-estimator outputs feed an expert-parameterized Bayesian network in DARPA field scenarios with human volunteers and trauma manikins. Two runs cover 20 casualty cases; a third was excluded after hardware failure. The Bayesian layer is knowledge-engineered, not a learned end-to-end control policy. July 2026 CMU reporting calls the broader technology a proof of concept, still years from operational deployment.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "No current external-master’s short-visit invitation was verified. The lab homepage gives contact information and an address under “Come Visit”; that footer is not an internship call. The official 2024 RISS cohort documents past summer mentoring, which establishes precedent only and earns no current-opportunity points.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 38,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "38/40: directly relevant probabilistic perception and multimodal AI on robots, with a specialized medical-response focus.",
+      "physical": "25/25: full recent primary manuscript identifies hardware, computational integration and realistic field evaluations.",
+      "shortVisit": "0/20: historical summer mentoring and a contact footer are not a current external-visitor route.",
+      "freshness": "15/15: substantive April 2026 primary manuscript plus July 2026 university corroboration."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.ri.cmu.edu / source 1",
+        "url": "https://www.ri.cmu.edu/ri-faculty/artur-w-dubrawski/",
+        "summary": "Full current university profile verifies title, RI home department, public email and machine-learning/human-centered robotics research.",
+        "verifiedAt": "2026-10-01T02:32:25Z"
+      },
+      {
+        "id": "s2",
+        "label": "autonlab.org / source 2",
+        "url": "https://autonlab.org/",
+        "summary": "Full lab homepage verifies AI/ML/robotics and autonomous trauma-care work; no specific short-visit invitation found.",
+        "verifiedAt": "2026-10-01T02:32:25Z"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2604.21568v1",
+        "summary": "Full April 2026 primary manuscript read, including architecture, physical platforms, field-test methods, results and limitations.",
+        "verifiedAt": "2026-10-01T02:32:25Z"
+      },
+      {
+        "id": "s4",
+        "label": "www.cmu.edu / source 4",
+        "url": "https://www.cmu.edu/news/stories/archives/2026/july/when-one-drone-isnt-enough-cmu-builds-swarms-for-high-stakes-response-efforts",
+        "summary": "July 13, 2026 university report corroborates current role, real robot assessment and proof-of-concept maturity rather than operational medical deployment.",
+        "verifiedAt": "2026-10-01T02:32:25Z"
+      },
+      {
+        "id": "s5",
+        "label": "riss.ri.cmu.edu / source 5",
+        "url": "https://riss.ri.cmu.edu/meet-the-2024-ri-summer-scholars/",
+        "summary": "Official historical cohort identifies Dubrawski as a summer mentor; no claim of current availability.",
+        "verifiedAt": "2026-10-01T02:32:25Z"
+      }
+    ],
+    "unknowns": [
+      "An eight-week external-master’s visit, host capacity, funding and project access remain unconfirmed.",
+      "Reuse the separate CMU OIE and collaborating-visitor supplements: central categories and screening are not an RI departmental intake approval or a faculty invitation.",
+      "Do not infer eligibility or exclusion from the DARPA sponsorship alone; project-specific access conditions require the host’s review.",
+      "The reported study uses staged field cases, not demonstrated clinical deployment; human-subject and data permissions would need to fit an agreed project.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "awd@andrew.cmu.edu"
+  }
+]

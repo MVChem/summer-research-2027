@@ -1,0 +1,141 @@
+[
+  {
+    "id": "vaibhav-unhelkar",
+    "name": "Vaibhav Unhelkar",
+    "aliases": [
+      "Vaibhav V. Unhelkar"
+    ],
+    "school": "Rice University",
+    "homepage": "https://unhelkar.github.io/",
+    "title": "Assistant Professor of Computer Science",
+    "department": "Computer Science",
+    "batch": "hri-041",
+    "discoveredAt": "2026-10-01T02:33:38Z",
+    "verifiedAt": "2026-10-01T02:35:57Z",
+    "researchAreas": [
+      "Human-robot teaming",
+      "Explainable AI",
+      "Interactive machine learning",
+      "Perception-aware motion planning",
+      "Healthcare robotic tutors"
+    ],
+    "fitReason": "Direct fit for algorithmic human-robot collaboration: inferring intent, explaining robot decisions, human-aligned reward design and perception-aware motion. His group combines AI methods with physical collaborative and tutoring systems.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "Look as You Leap, originally submitted September 2025 and revised August 25, 2026, implements learned neural perception-score surrogates inside PS-PRM. The primary manuscript verifies real Stretch 2 motion while tracking people and UR5 manipulation with vision-language activity recognition under occlusion. Moving-human/obstacle/goal experiments use OptiTrack pose measurements; these are not unconstrained visual-only autonomy. Separate RSS 2025 ASTRID work reports a robotic nurse-training tutor, not a clinical infection-outcome trial.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown · 仅具限制条件的项目入口",
+      "summary": "The live lab explicitly routes outside visiting students/researchers through Mehta Rice Engineering Scholars, CSSAP, MACHI or similar programs. Those named routes do not establish a compatible general eight-week external-master’s visit: Mehta targets institutions in India with fixed January–June 2026 dates; CSSAP describes three-month summer study for CS undergraduates enrolled in Serbia; MACHI is five weeks for undergraduates at four named Taiwan partner universities. A similar-program or independent arrangement needs clarification.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "39/40: strong computational HRI and human-aware perception/planning overlap.",
+      "physical": "PS-PRM hardware is a Kavraki collaboration; current Unhelkar-specific inventory or supervised-author linkage was not verified, so present visitor access remains unconfirmed.",
+      "shortVisit": "0/20: visitor-program route is explicit, but named programs have incompatible degree, institution or duration restrictions; similar-program access unverified.",
+      "freshness": "15/15: substantive February 2026 L2HR primary research and August 2026 PS-PRM revision; original robot-planning submission date preserved."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "profiles.rice.edu / source 1",
+        "url": "https://profiles.rice.edu/faculty/vaibhav-unhelkar",
+        "summary": "Full university directory confirms current title, CS department, public email and HRI/AI research.",
+        "verifiedAt": "2026-10-01T02:35:57Z"
+      },
+      {
+        "id": "s2",
+        "label": "www.teaminglab.org / source 2",
+        "url": "https://www.teaminglab.org/contact/",
+        "summary": "Full live lab page explicitly sends external visitors to named Rice programs or similar programs; PhD/local-student invitations kept separate.",
+        "verifiedAt": "2026-10-01T02:35:57Z"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2509.19610v3",
+        "summary": "Full primary methods and real-robot sections read; learned surrogate planning, Stretch 2 and UR5 experiments, OptiTrack caveat, August 2026 revision of a September 2025 original.",
+        "verifiedAt": "2026-10-01T02:35:57Z"
+      },
+      {
+        "id": "s4",
+        "label": "www.kavrakilab.rice.edu / source 4",
+        "url": "https://www.kavrakilab.rice.edu/2026-meng-psprm/",
+        "summary": "Current primary project page distinguishes simulations from four actual robot scenarios.",
+        "verifiedAt": "2026-10-01T02:35:57Z"
+      },
+      {
+        "id": "s5",
+        "label": "www.roboticsproceedings.org / source 5",
+        "url": "https://www.roboticsproceedings.org/rss21/p090.html",
+        "summary": "RSS 2025 proceedings verifies ASTRID authorship and nurse-training evaluation; no clinical outcome claim.",
+        "verifiedAt": "2026-10-01T02:35:57Z"
+      },
+      {
+        "id": "s6",
+        "label": "arxiv.org / source 6",
+        "url": "https://arxiv.org/html/2602.18582v1",
+        "summary": "February 20, 2026 primary L2HR paper establishes fresh language/reward-design methods, separate from physical evidence.",
+        "verifiedAt": "2026-10-01T02:35:57Z"
+      },
+      {
+        "id": "s7",
+        "label": "engineering.rice.edu / source 7",
+        "url": "https://engineering.rice.edu/academics/mehta-rice-engineering-scholars-program",
+        "summary": "Full official program page: graduate students at institutions in India, fixed January–June 2026 cycle, home institution travel support.",
+        "verifiedAt": "2026-10-01T02:35:57Z"
+      },
+      {
+        "id": "s8",
+        "label": "sacch.org / source 8",
+        "url": "https://sacch.org/cssap/",
+        "summary": "Full overview of the partner program linked by the lab: three months and Serbia-enrolled CS undergraduates; older biographies do not prove general current master’s access.",
+        "verifiedAt": "2026-10-01T02:35:57Z"
+      },
+      {
+        "id": "s9",
+        "label": "sci.rice.edu / source 9",
+        "url": "https://sci.rice.edu/international-programs/machi",
+        "summary": "Full university program page: five-week undergraduate program restricted to four named Taiwan university partners.",
+        "verifiedAt": "2026-10-01T02:35:57Z"
+      }
+    ],
+    "unknowns": [
+      "No current general eight-week visiting-master’s placement or independent self-funded lab invitation was verified; no short-visit points assigned for the restricted named programs.",
+      "The Mehta page retains four-month overview wording but expressly updates the 2025–26 cycle to January 19–June 17, 2026, with inflexible dates. Its graduate eligibility cannot erase the institution and duration conditions.",
+      "CSSAP’s current overview says undergraduate, although historical cohort biographies include master’s students; those past exceptions do not establish current eligibility beyond its Serbia-based scope.",
+      "Reuse the separate Rice Academic Visitor supplement: host/Dean/OISS approval, external-master’s appointment classification and fully personal funding remain to be confirmed.",
+      "AAMAS 2026 L2HR is substantive language-to-hierarchical-reward research evaluated in simulated domains; it is not itself new physical-robot evidence.",
+      "Physical evidence is collaborative: PS-PRM is hosted by Kavraki Lab, and no current Unhelkar-specific hardware inventory was verified. ASTRID was led by his former advisee Peizhu Qian before her move to Houston.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "vaibhav.unhelkar@rice.edu"
+  }
+]

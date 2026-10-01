@@ -1,0 +1,114 @@
+[
+  {
+    "id": "peizhu-pam-qian",
+    "name": "Peizhu (Pam) Qian",
+    "aliases": [
+      "Peizhu Qian",
+      "Pam Qian"
+    ],
+    "school": "University of Houston",
+    "homepage": "https://www.peizhuqian.com/",
+    "title": "Assistant Professor of Computer Science; Presidential Frontier Faculty",
+    "department": "Computer Science",
+    "batch": "hri-042",
+    "discoveredAt": "2026-10-01T02:34:10Z",
+    "verifiedAt": "2026-10-01T02:39:43Z",
+    "researchAreas": [
+      "Algorithmic human-robot interaction",
+      "Human-centered AI",
+      "Robot transparency",
+      "Physical skill tutoring",
+      "Healthcare robot perception"
+    ],
+    "fitReason": "Strong computational HRI fit through human behavior and collaborative-task models, explainable robot policies and vision-based physical skill feedback. Her new Houston group combines AI methods with healthcare and workforce training; concrete robotic tutoring predates her faculty move.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "First-authored RSS 2025 ASTRID, completed at Rice, uses an actual Stretch mobile manipulator, off-board depth camera and computer. MediaPipe learned pose estimation feeds geometric compliance checks and real-time audiovisual feedback. The robot performs preprogrammed movements and scripted interruptions, rather than learned manipulation. A nine-participant feasibility study used a simulated patient in a physical training room. PS-PRM is additional Rice collaborative Stretch 2/UR5 evidence, not proof that those platforms are now installed in her Houston group. August 2026 WILLIE is a wound-image transformer benchmark, not robot deployment.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "shortVisit": {
+      "status": "unknown",
+      "summary": "The live join page welcomes undergraduate and MS research inquiries with CV, interests and transcript, but requires at least one semester and 10 hours/week. Only the undergraduate REU paragraph expressly includes students from outside UH. External-master’s eligibility and an eight-week summer exception remain unverified. The page was last updated November 21, 2025; its Fall 2026 PhD and 12-month postdoc notices are not summer 2027 short-visit opportunities.",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "scores": {
+      "fit": 39,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "39/40: direct computational HRI, explainable policies and embodied skill tutoring.",
+      "physical": "20/25: clear personally attributable first-author physical system, but at prior Rice institution; current Houston inventory unverified.",
+      "shortVisit": "0/20: explicit MS inquiry has semester minimum and no verified external-master’s short-visit eligibility.",
+      "freshness": "15/15: substantive August 2026 Houston-group vision-transformer release; principal physical tutoring experiment remains 2025 and is marked accordingly."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "www.uh.edu / source 1",
+        "url": "https://www.uh.edu/nsm/computer-science/people/faculty/profiles/peizhuqian.php",
+        "summary": "Full official faculty profile verifies current CS Assistant Professor/PFF title and HRI/HAI group.",
+        "verifiedAt": "2026-10-01T02:39:43Z"
+      },
+      {
+        "id": "s2",
+        "label": "www.peizhuqian.com / source 2",
+        "url": "https://www.peizhuqian.com/",
+        "summary": "Full faculty-linked site: current appointment, public email, August 2026 WILLIE activity and August 2025 move to Houston.",
+        "verifiedAt": "2026-10-01T02:39:43Z"
+      },
+      {
+        "id": "s3",
+        "label": "www.peizhuqian.com / source 3",
+        "url": "https://www.peizhuqian.com/join",
+        "summary": "Full join page: MS inquiry, minimum semester/10 hours, external eligibility explicit only for undergraduate REU; older postdoc and degree notices distinguished.",
+        "verifiedAt": "2026-10-01T02:39:43Z"
+      },
+      {
+        "id": "s4",
+        "label": "www.roboticsproceedings.org / source 4",
+        "url": "https://www.roboticsproceedings.org/rss21/p090.pdf",
+        "summary": "Primary RSS 2025 PDF downloaded and relevant methods/study pages 4–7 visually inspected because the PDF is image-based. Confirms learned perception, scripted physical interventions, manual field calibration and nine-person feasibility study.",
+        "verifiedAt": "2026-10-01T02:39:43Z"
+      },
+      {
+        "id": "s5",
+        "label": "arxiv.org / source 5",
+        "url": "https://arxiv.org/html/2509.19610v3",
+        "summary": "Primary PS-PRM manuscript and physical experiment sections verify collaborative Rice Stretch 2/UR5 results; current institutional relocation caveat retained.",
+        "verifiedAt": "2026-10-01T02:39:43Z"
+      },
+      {
+        "id": "s6",
+        "label": "huggingface.co / source 6",
+        "url": "https://huggingface.co/QianGroup/willie-weights",
+        "summary": "Full author-group 2026 model card: DINOv2/ConvNeXt/SAM2 wound classification, segmentation and localization with explicit research-only limitations, separate from robot hardware.",
+        "verifiedAt": "2026-10-01T02:39:43Z"
+      }
+    ],
+    "unknowns": [
+      "The stated minimum is one semester; do not silently equate this with an eight-week visit. Whether a summer term counts requires confirmation.",
+      "Physical evidence is prior-Rice or collaborative; current Houston hardware inventory and a completed Houston robotic deployment were not verified.",
+      "A separate current Houston supplement describes possible central visitor categories, but personal-only funding, appointment classification and host approval remain unresolved.",
+      "A healthcare-related project must be scoped within the approved category; UH Student Intern rules exclude patient-care/contact work. Bench, simulation or training research access is not automatically granted.",
+      "WILLIE is research-only wound-image analysis; its author model card explicitly disclaims clinical use and does not establish a physical robot result.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability."
+    ],
+    "publicEmail": "pqian@uh.edu"
+  }
+]

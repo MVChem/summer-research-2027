@@ -137,7 +137,10 @@
     "batches/hri-036.json",
     "batches/hri-037.json",
     "batches/hri-038.json",
-    "batches/hri-039.json"
+    "batches/hri-039.json",
+    "batches/hri-040.json",
+    "batches/hri-041.json",
+    "batches/hri-042.json"
   ],
   "candidates": [
     {
@@ -8904,6 +8907,94 @@
       "shortVisitStatus": "unknown · NC State两个月与八周需区分",
       "recordFile": "batches/hri-039.json",
       "detailPage": "batches/hri-039.md#he-helen-huang"
+    },
+    {
+      "id": "artur-w-dubrawski",
+      "name": "Artur W. Dubrawski",
+      "aliases": [
+        "Artur Dubrawski"
+      ],
+      "school": "Carnegie Mellon University",
+      "title": "Alumni Research Professor of Computer Science",
+      "homepage": "https://www.ri.cmu.edu/ri-faculty/artur-w-dubrawski/",
+      "batch": "hri-040",
+      "discoveredAt": "2026-10-01T02:31:23Z",
+      "verifiedAt": "2026-10-01T02:32:25Z",
+      "scores": {
+        "fit": 38,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Robot perception",
+        "Probabilistic reasoning",
+        "Multimodal sensor fusion",
+        "AI for autonomous triage",
+        "Human-centered robotics"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-040.json",
+      "detailPage": "batches/hri-040.md#artur-w-dubrawski"
+    },
+    {
+      "id": "vaibhav-unhelkar",
+      "name": "Vaibhav Unhelkar",
+      "aliases": [
+        "Vaibhav V. Unhelkar"
+      ],
+      "school": "Rice University",
+      "title": "Assistant Professor of Computer Science",
+      "homepage": "https://unhelkar.github.io/",
+      "batch": "hri-041",
+      "discoveredAt": "2026-10-01T02:33:38Z",
+      "verifiedAt": "2026-10-01T02:35:57Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Human-robot teaming",
+        "Explainable AI",
+        "Interactive machine learning",
+        "Perception-aware motion planning",
+        "Healthcare robotic tutors"
+      ],
+      "shortVisitStatus": "unknown · 仅具限制条件的项目入口",
+      "recordFile": "batches/hri-041.json",
+      "detailPage": "batches/hri-041.md#vaibhav-unhelkar"
+    },
+    {
+      "id": "peizhu-pam-qian",
+      "name": "Peizhu (Pam) Qian",
+      "aliases": [
+        "Peizhu Qian",
+        "Pam Qian"
+      ],
+      "school": "University of Houston",
+      "title": "Assistant Professor of Computer Science; Presidential Frontier Faculty",
+      "homepage": "https://www.peizhuqian.com/",
+      "batch": "hri-042",
+      "discoveredAt": "2026-10-01T02:34:10Z",
+      "verifiedAt": "2026-10-01T02:39:43Z",
+      "scores": {
+        "fit": 39,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Algorithmic human-robot interaction",
+        "Human-centered AI",
+        "Robot transparency",
+        "Physical skill tutoring",
+        "Healthcare robot perception"
+      ],
+      "shortVisitStatus": "unknown",
+      "recordFile": "batches/hri-042.json",
+      "detailPage": "batches/hri-042.md#peizhu-pam-qian"
     }
   ]
 }

@@ -1,0 +1,188 @@
+[
+  {
+    "id": "max-k-shepherd",
+    "name": "Max K. Shepherd",
+    "aliases": [
+      "Max Shepherd"
+    ],
+    "school": "Northeastern University",
+    "homepage": "https://coe.northeastern.edu/people/shepherd-max/",
+    "title": "Assistant Professor, jointly appointed in Mechanical and Industrial Engineering and Physical Therapy, Movement and Rehabilitation Sciences",
+    "department": "Mechanical and Industrial Engineering; Physical Therapy, Movement and Rehabilitation Sciences",
+    "batch": "hri-058",
+    "discoveredAt": "2026-10-01T04:48:19Z",
+    "verifiedAt": "2026-10-01T04:54:33Z",
+    "researchAreas": [
+      "Deep-learning wearable robot control",
+      "Uncertainty estimation",
+      "Exoskeletons",
+      "Physical human-robot interaction",
+      "Personalized gait assistance"
+    ],
+    "fitReason": "Strong CS-method fit in temporal neural networks, out-of-distribution detection and embedded learned assistance. The selected experiments belong to the current Northeastern group rather than relying solely on the PI’s earlier Georgia Tech work.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The full August 2025 Uncertainty-Aware Ankle Exoskeleton Control manuscript verifies an ensemble of seven temporal-convolutional gait models, alongside a learned phase controller, on actual Dephy ExoBoots. Jetson Orin Nano inference and Raspberry Pi torque communication run at 105 Hz. A held-out participant traversed an outdoor Northeastern campus circuit; the uncertainty output switched assistance on or unspooled the actuators. This is actual learned actuation, with a single-user online test, reduced transition performance and particularly weak stair discrimination, rather than a general safety guarantee.",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    "shortVisit": {
+      "status": "degree-only",
+      "summary": "The lab’s indexed Get Involved page recruits degree-program PhD students and local thesis-based master’s researchers, normally beginning with a semester-long trial and without MS research assistantships. These are not external eight-week visitor terms. Direct lab-page fetches returned 502, so the recruitment limitation is attributed to the official indexed page rather than claimed as a successful direct read.",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    "scores": {
+      "fit": 37,
+      "physical": 25,
+      "shortVisit": 0,
+      "freshness": 10
+    },
+    "scoreReasons": {
+      "fit": "37/40: clear temporal deep learning, uncertainty awareness and real-time physical assistance, with a specialized rehabilitation application.",
+      "physical": "25/25: named learned controller executes on current Northeastern physical hardware, directly verified from complete methods.",
+      "shortVisit": "0/20: recruitment is degree/thesis-based; external short visits and summer availability remain unknown.",
+      "freshness": "10/15: anchored primary learning/control studies are from 2025; current role and generic 2026 student news do not redate those experiments."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "coe.northeastern.edu / source 1",
+        "url": "https://coe.northeastern.edu/people/shepherd-max/",
+        "summary": "Full current university faculty profile verifies joint Assistant Professor titles, contact, lab leadership and wearable robotics/ML focus.",
+        "verifiedAt": "2026-10-01T04:54:33Z"
+      },
+      {
+        "id": "s2",
+        "label": "arxiv.org / source 2",
+        "url": "https://arxiv.org/html/2508.21221v1",
+        "summary": "Full primary methods and online evaluation establish Northeastern learned physical exoskeleton control, hardware, inference rate and single-user limitations.",
+        "verifiedAt": "2026-10-01T04:54:33Z"
+      },
+      {
+        "id": "s3",
+        "label": "shepherdlab.sites.northeastern.edu / source 3",
+        "url": "https://shepherdlab.sites.northeastern.edu/get-involved/",
+        "summary": "Official indexed complete recruitment content specifies degree-program PhD and semester/thesis-based MS opportunities; direct fetch failed with 502.",
+        "verifiedAt": "2026-10-01T04:54:33Z",
+        "retrieval": "official indexed content; direct fetch failed with 502"
+      },
+      {
+        "id": "s4",
+        "label": "pubmed.ncbi.nlm.nih.gov / source 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41259448/",
+        "summary": "Primary bibliographic record and author abstract date separate coauthored deep-domain-adaptation research November 19, 2025, correcting the institutional portal’s grouping year.",
+        "verifiedAt": "2026-10-01T04:54:33Z"
+      }
+    ],
+    "unknowns": [
+      "An eight-week summer 2027 place, funding, remote arrangement and research access remain unconfirmed.",
+      "Reuse the existing Northeastern feasibility review. Its Visiting Student route includes enrolled master's students but requires more than 50% non-personal/non-family support; wholly personal funding is not supported by the published route. The numerical example and wording differ at exactly 50%, requiring OGS clarification.",
+      "Engineering estimates five to seven months from complete paperwork to arrival; central OGS requires at least four months. These processing estimates and the published support threshold must be rechecked for summer 2027.",
+      "Faculty acceptance, formal visitor appointment and any human-subject/data-access approvals are separate. A simulation or existing-data project could have a narrower scope, but has not been offered.",
+      "A university research-portal result groups the deep-domain-adaptation paper under 2026, but PubMed dates it November 19, 2025. Do not treat that indexing year as new 2026 research.",
+      "Max K. Shepherd at Northeastern is distinct from Robert F. Shepherd at Cornell.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Northeastern institutional visitor rules](../eligibility_notes.md#northeastern)"
+    ],
+    "publicEmail": "m.shepherd@northeastern.edu"
+  },
+  {
+    "id": "seungmoon-song",
+    "name": "Seungmoon Song",
+    "aliases": [],
+    "school": "Northeastern University",
+    "homepage": "https://coe.northeastern.edu/people/song-seungmoon/",
+    "title": "Assistant Professor of Mechanical and Industrial Engineering",
+    "department": "Mechanical and Industrial Engineering",
+    "batch": "hri-058",
+    "discoveredAt": "2026-10-01T04:50:35Z",
+    "verifiedAt": "2026-10-01T04:54:33Z",
+    "researchAreas": [
+      "Deep reinforcement learning",
+      "Neuromechanical simulation",
+      "Human-in-the-loop optimization",
+      "Wearable robotics",
+      "Assistive-device personalization"
+    ],
+    "fitReason": "Strong computational fit for deep-RL movement models, musculoskeletal simulation, optimization and assistive-device evaluation. Exo-Plore and MyoAssist provide a practical software-centered research direction, while physical evidence is explicitly separated by date and laboratory.",
+    "physicalEvidence": {
+      "status": "public-hardware-evidence",
+      "summary": "The full January 2024 JNER study, co-first-authored by Song, verifies CMA-ES human-in-the-loop optimization of powered bilateral ankle exoskeletons in ten older adults. Off-board Humotech motors, Bowden cables and a Speedgoat controller physically apply optimized torque profiles. The work used Stanford IRB and a Stanford experimental setting; it does not establish current independent NeuMove hardware access. The lab also lists a 2025 coauthored learned ankle-controller study, but its full publisher text was unavailable in this pass. The January 2026 Exo-Plore paper is deep-RL simulation: its limitations expressly require subsequent experimental human validation.",
+      "sourceIds": [
+        "s2",
+        "s4"
+      ]
+    },
+    "shortVisit": {
+      "status": "precedent-only",
+      "summary": "NeuMove’s September 2026 People page welcomes general research-interest contact but labels candidate undergraduate/MS projects for current Northeastern students. It documents a Seoul National University visiting MS student in July–August 2025. That is a directly relevant historical precedent, not a current summer 2027 invitation, funding promise or eligibility approval.",
+      "sourceIds": [
+        "s5"
+      ]
+    },
+    "scores": {
+      "fit": 36,
+      "physical": 20,
+      "shortVisit": 0,
+      "freshness": 15
+    },
+    "scoreReasons": {
+      "fit": "36/40: strong deep RL, computational biomechanics and wearable-control optimization, with much of the newest contribution in simulation.",
+      "physical": "20/25: full primary physical adaptive-assistance study verified, but its Stanford setting and 2024 date do not prove current independent local hardware access.",
+      "shortVisit": "0/20: past external-master visit is precedent only; current project invitation is for Northeastern students and no 2027 short visit is offered.",
+      "freshness": "15/15: distinct January 2026 ICLR-accepted deep-RL simulation research, with older physical work dated separately."
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "label": "coe.northeastern.edu / source 1",
+        "url": "https://coe.northeastern.edu/people/song-seungmoon/",
+        "summary": "Full official faculty profile establishes Assistant Professor, NeuMove director, email and computational/assistive research.",
+        "verifiedAt": "2026-10-01T04:54:33Z"
+      },
+      {
+        "id": "s2",
+        "label": "link.springer.com / source 2",
+        "url": "https://link.springer.com/article/10.1186/s12984-023-01287-5",
+        "summary": "Full January 2024 primary methods establish CMA-ES-driven actual powered ankle assistance in ten older adults, with Stanford hardware/IRB context and co-first authorship.",
+        "verifiedAt": "2026-10-01T04:54:33Z"
+      },
+      {
+        "id": "s3",
+        "label": "arxiv.org / source 3",
+        "url": "https://arxiv.org/html/2601.22550v1",
+        "summary": "Full January 2026 Exo-Plore primary study develops deep-RL neuromechanical simulation; conclusion states real human experimental validation is still required.",
+        "verifiedAt": "2026-10-01T04:54:33Z"
+      },
+      {
+        "id": "s4",
+        "label": "neumove.org / source 4",
+        "url": "https://neumove.org/publication.html",
+        "summary": "September 2026 lab bibliography distinguishes current simulation work, the 2025 ankle-control collaboration and prior Stanford physical studies.",
+        "verifiedAt": "2026-10-01T04:54:33Z"
+      },
+      {
+        "id": "s5",
+        "label": "neumove.org / source 5",
+        "url": "https://neumove.org/people.html",
+        "summary": "Full September 2026 roster shows the July–August 2025 external visiting MS precedent, while the current undergraduate/master project link is explicitly local-student scoped.",
+        "verifiedAt": "2026-10-01T04:54:33Z"
+      }
+    ],
+    "unknowns": [
+      "An eight-week summer 2027 place, funding, remote arrangement and research access remain unconfirmed.",
+      "Reuse the existing Northeastern feasibility review. Its Visiting Student route includes enrolled master's students but requires more than 50% non-personal/non-family support; wholly personal funding is not supported by the published route. The numerical example and wording differ at exactly 50%, requiring OGS clarification.",
+      "Engineering estimates five to seven months from complete paperwork to arrival; central OGS requires at least four months. These processing estimates and the published support threshold must be rechecked for summer 2027.",
+      "Faculty acceptance, formal visitor appointment and any human-subject/data-access approvals are separate. A simulation or existing-data project could have a narrower scope, but has not been offered.",
+      "The 2025 prior visitor’s funding, formal appointment and sponsor are not public on the roster; the precedent does not override Northeastern’s non-personal funding requirement.",
+      "A computational research project is a plausible scope assessment, not an offer of remote participation or access to patient data.",
+      "Do not transfer Shepherd’s 2025 uncertainty-controller experiment to Song: Song is not an author of that separate paper.",
+      "Public robot research does not confirm current equipment access, a summer 2027 offer or host availability.",
+      "[Northeastern institutional visitor rules](../eligibility_notes.md#northeastern)"
+    ],
+    "publicEmail": "s.song@northeastern.edu"
+  }
+]

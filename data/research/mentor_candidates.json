@@ -187,7 +187,8 @@
     "batches/hri-054.json",
     "batches/hri-055.json",
     "batches/hri-056.json",
-    "batches/hri-057.json"
+    "batches/hri-057.json",
+    "batches/hri-058.json"
   ],
   "candidates": [
     {
@@ -10598,6 +10599,62 @@
       "shortVisitStatus": "unknown",
       "recordFile": "batches/hri-057.json",
       "detailPage": "batches/hri-057.md#jose-l-pons"
+    },
+    {
+      "id": "max-k-shepherd",
+      "name": "Max K. Shepherd",
+      "aliases": [
+        "Max Shepherd"
+      ],
+      "school": "Northeastern University",
+      "title": "Assistant Professor, jointly appointed in Mechanical and Industrial Engineering and Physical Therapy, Movement and Rehabilitation Sciences",
+      "homepage": "https://coe.northeastern.edu/people/shepherd-max/",
+      "batch": "hri-058",
+      "discoveredAt": "2026-10-01T04:48:19Z",
+      "verifiedAt": "2026-10-01T04:54:33Z",
+      "scores": {
+        "fit": 37,
+        "physical": 25,
+        "shortVisit": 0,
+        "freshness": 10
+      },
+      "researchAreas": [
+        "Deep-learning wearable robot control",
+        "Uncertainty estimation",
+        "Exoskeletons",
+        "Physical human-robot interaction",
+        "Personalized gait assistance"
+      ],
+      "shortVisitStatus": "degree-only",
+      "recordFile": "batches/hri-058.json",
+      "detailPage": "batches/hri-058.md#max-k-shepherd"
+    },
+    {
+      "id": "seungmoon-song",
+      "name": "Seungmoon Song",
+      "aliases": [],
+      "school": "Northeastern University",
+      "title": "Assistant Professor of Mechanical and Industrial Engineering",
+      "homepage": "https://coe.northeastern.edu/people/song-seungmoon/",
+      "batch": "hri-058",
+      "discoveredAt": "2026-10-01T04:50:35Z",
+      "verifiedAt": "2026-10-01T04:54:33Z",
+      "scores": {
+        "fit": 36,
+        "physical": 20,
+        "shortVisit": 0,
+        "freshness": 15
+      },
+      "researchAreas": [
+        "Deep reinforcement learning",
+        "Neuromechanical simulation",
+        "Human-in-the-loop optimization",
+        "Wearable robotics",
+        "Assistive-device personalization"
+      ],
+      "shortVisitStatus": "precedent-only",
+      "recordFile": "batches/hri-058.json",
+      "detailPage": "batches/hri-058.md#seungmoon-song"
     }
   ]
 }
